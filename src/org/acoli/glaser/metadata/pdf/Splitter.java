@@ -157,7 +157,7 @@ public class Splitter {
                 StartElement se = event.asStartElement();
             }
             if (event.isCharacters()) {
-                if (event.asCharacters().getData().strip().equals("Abstract")) {
+                if (event.asCharacters().getData().trim().equals("Abstract")) {
                     XMLEvent previous = page.get(i - 1);
                     //						if (previous.isStartElement() &&
                     //								previous.asStartElement().getAttributeByName(QName.valueOf("height")).toString().equals("18"))

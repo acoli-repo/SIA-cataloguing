@@ -19,6 +19,9 @@ public class MetadataFromPDF {
     static List<File> collectPDFsInDir(File directory) {
         // TODO: make this recursive
         List<File> files = new ArrayList<>();
+        if (!directory.isDirectory()) {
+            System.err.println("Not a directory!");
+        }
         if (directory.isDirectory()) {
             for (File file : directory.listFiles()) {
                 if (file.getName().toLowerCase().endsWith(".pdf")) {
@@ -62,7 +65,7 @@ public class MetadataFromPDF {
                 papers.add(document);
             }
             System.err.println("Starting to index "+papers.size()+" papers..");
-			papers.remove(0);
+//			papers.remove(0);
 			for (Document paper : papers) {
 			    Splitter.printDocument(paper, System.out);
 			    PDFMetadataExtractor extractor = new PDFMetadataExtractor();
@@ -73,9 +76,10 @@ public class MetadataFromPDF {
 			    extractor.authorHeight = 21;
 				Metadata md = extractor.getMetadata(paper);
 				md.fileName = pdf.getName(); // TODO: Make this more sophisticated like in zotero
+
 				if (!MetadataValidator.isFullyPopulated(md)) {
-					System.out.println("===CHECK===");
-					System.out.println(md);
+//					System.out.println("===CHECK===");
+//					System.out.println(md);
 				} else {
 					System.out.println("Correct!");
 					System.out.println(md);
