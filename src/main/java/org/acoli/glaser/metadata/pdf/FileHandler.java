@@ -1,0 +1,46 @@
+package org.acoli.glaser.metadata.pdf;
+
+
+import org.apache.commons.io.FileUtils;
+
+import java.io.File;
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.nio.file.Paths;
+
+/**
+ * Handles concerns about file handling like downloading, saving, returning them.
+ */
+public class FileHandler {
+    File rootDir;
+
+    public FileHandler() {
+        rootDir = new File("tempDir");
+        System.err.println("Initialized FileHandler at "+rootDir.getAbsolutePath());
+    }
+
+    public File downloadFileToTemp(URL url) throws IOException {
+        File targetFile = Paths.get(rootDir.getAbsolutePath(),String.valueOf(url.hashCode())).toFile();
+        System.err.println("Saving "+url+" to "+targetFile.getAbsolutePath()+"..");
+        FileUtils.copyURLToFile(url, targetFile);
+        return targetFile;
+    }
+    public File downloadFileToTemp(String url) throws IOException {
+        return downloadFileToTemp(new URL(url));
+    }
+
+    /**
+     * TODO: don't misuse exceptions for program logic?
+     * @param maybeAnURL
+     * @return
+     */
+    public static boolean isURL(String maybeAnURL) {
+        try {
+            new URL(maybeAnURL);
+            return true;
+        } catch (Exception e) {
+            return false;
+        }
+    }
+}

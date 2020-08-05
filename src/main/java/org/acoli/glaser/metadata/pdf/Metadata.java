@@ -21,4 +21,13 @@ public class Metadata {
 	public String toString() {
 		return this.title + "\n\t" + String.join(", ", this.authors) + "\n\t" + this.beginPage + "-" + this.endPage;
 	}
+
+	/**
+	 * TODO: Implement this
+	 * @param bibtex
+	 * @return
+	 */
+	static Metadata metadataFromBibtex(String bibtex) {
+		return null;
+	}
 }
