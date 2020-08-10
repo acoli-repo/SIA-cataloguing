@@ -1,38 +1,39 @@
 import org.acoli.glaser.metadata.pdf.FileHandler;
 import org.acoli.glaser.metadata.pdf.MetadataFromHTML;
+import org.acoli.glaser.metadata.pdf.PageSpider;
 import org.acoli.glaser.metadata.pdf.Source;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import org.junit.Assert;
 import org.junit.Test;
 import java.io.*;
+import java.net.URL;
+import java.util.List;
 
 public class testPrototyping {
 
-    @Test
+    //@Test
     public void readUrlSeed() throws IOException {
         BufferedReader in = new BufferedReader(new FileReader(new File("urlseed.csv")));
-
         for(String line = in.readLine(); line!=null; line=in.readLine()) {
             System.err.println(line);
             Source s = Source.sourceFromCSVRow(line);
             if (s.urlAsString.startsWith("http")) {
                 System.err.println("Downloading "+s+"..");
-                Document doc = Jsoup.connect(s.urlAsString).get();
-                Elements paperPapers = doc.select(".paper_papers > a");
-                System.err.println(paperPapers);
-                for (Element e : paperPapers) {
-                    String urlToSummary = e.absUrl("href");
-                    System.err.println("Following url to summary "+urlToSummary+"..");
-                    Document singlePage = Jsoup.connect(e.absUrl("href")).get();
-//                    MetadataFromHTML.parseSummaryPage(singlePage);
-                    //  <table class="main_summaries">
                 }
             }
         }
-    }
 
+    @Test
+    public void testExtractingLinksFromBasePageBasedOnCSSQuery() throws IOException {
+        String urlAsString = "http://lrec-conf.org/workshops/lrec2018/W29/papers.html";
+        Document doc = Jsoup.connect(urlAsString).get();
+        List<URL> hrefs = new PageSpider().findHrefsByCSSQuery(doc, ".paper_papers > a");
+        Assert.assertEquals(hrefs.size(), 12);
+
+    }
     @Test
     public void testMetadataFromHTMLWithSingleLink() {
         String testURL = "http://lrec-conf.org/workshops/lrec2018/W29/summaries/6_W29.html";
@@ -40,4 +41,12 @@ public class testPrototyping {
         mfh.parseSummaryPage();
         mfh.findPDFofPublicationAndDownload();
     }
+    @Test
+    public void testParlaCLARIN() throws IOException {
+        String urlAsString = "http://lrec-conf.org/workshops/lrec2018/W2/papers.html";
+        Document doc = Jsoup.connect(urlAsString).get();
+        List<URL> hrefs = new PageSpider().findHrefsByCSSQuery(doc, ".paper_papers > a");
+        Assert.assertEquals(hrefs.size(), 16);
+    }
+
 }
