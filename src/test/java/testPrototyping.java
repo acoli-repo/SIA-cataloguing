@@ -1,7 +1,4 @@
-import org.acoli.glaser.metadata.pdf.FileHandler;
-import org.acoli.glaser.metadata.pdf.MetadataFromHTML;
-import org.acoli.glaser.metadata.pdf.PageSpider;
-import org.acoli.glaser.metadata.pdf.Source;
+import org.acoli.glaser.metadata.pdf.*;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -47,6 +44,12 @@ public class testPrototyping {
         Document doc = Jsoup.connect(urlAsString).get();
         List<URL> hrefs = new PageSpider().findHrefsByCSSQuery(doc, ".paper_papers > a");
         Assert.assertEquals(hrefs.size(), 16);
+    }
+
+    @Test
+    public void testRun() {
+        MainRunner mr = new MainRunner("urlseed.csv");
+        mr.run();
     }
 
 }

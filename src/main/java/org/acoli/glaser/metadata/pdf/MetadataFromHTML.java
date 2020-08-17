@@ -15,6 +15,8 @@ public class MetadataFromHTML {
     List<Metadata> partialMetadata = new ArrayList<>();
     Document page = null;
     FileHandler fh = null;
+    List<String> pdfUrlsOnPage = new ArrayList<>();
+    boolean checkedForPDFs = false;
 
     public MetadataFromHTML(String url) {
         this.url = url;
@@ -28,7 +30,7 @@ public class MetadataFromHTML {
         this.fh = fh;
     }
 
-    public boolean getHTMLAndTellMeIfYouWereSuccessful() {
+    boolean getHTMLAndTellMeIfYouWereSuccessful() {
         if (page != null) { // Avoid spamming the server
             return true;
         }
@@ -40,9 +42,14 @@ public class MetadataFromHTML {
         return true;
     }
 
-        public void parseSummaryPage(){
+    // TODO: refactor this.
+    public void addSummaryPageToPool(List<Metadata> pool) {
+        parseSummaryPage();
+        pool.addAll(this.partialMetadata);
+        this.partialMetadata.clear();
+    }
+    public void parseSummaryPage(){
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
-            System.err.println(page);
             Elements bibtex = page.select("td.bibtex_summaries");
             if (bibtex.size() > 0) {
                 System.err.println("Found bibtex: " + bibtex.text());
@@ -50,6 +57,25 @@ public class MetadataFromHTML {
             }
         }
     }
+    public boolean pageContainsPDFs() {
+        if (!this.checkedForPDFs) {
+            this.pdfUrlsOnPage = this.getPDFsOnPage();
+        }
+        return !this.pdfUrlsOnPage.isEmpty();
+    }
+
+    List<String> getPDFsOnPage() {
+        List<String> pdfUrls = new ArrayList<>();
+        System.err.println("Trying to find a pdf on page "+this.url+" ..");
+        if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
+            String hrefToPDF = page.select("table.main_summaries a[href$=\".pdf\"]").attr("href");
+            pdfUrls.add(hrefToPDF);
+        }
+        return pdfUrls;
+    }
+
+
+    @Deprecated
     public File findPDFofPublicationAndDownload() {
         System.err.println("Trying to find a pdf on page "+this.url+" ..");
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {

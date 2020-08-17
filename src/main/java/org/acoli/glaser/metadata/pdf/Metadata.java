@@ -22,6 +22,13 @@ public class Metadata {
 		return this.title + "\n\t" + String.join(", ", this.authors) + "\n\t" + this.beginPage + "-" + this.endPage;
 	}
 
+	public boolean hasTitle() {
+		return  title != null;
+	}
+	public boolean hasAuthors() {
+		return authors != null;
+	}
+
 	/**
 	 * TODO: Implement this
 	 * @param bibtex

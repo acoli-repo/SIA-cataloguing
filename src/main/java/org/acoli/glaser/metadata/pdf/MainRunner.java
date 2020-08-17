@@ -2,7 +2,6 @@ package org.acoli.glaser.metadata.pdf;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import sun.jvm.hotspot.debugger.Page;
 
 import java.io.*;
 import java.net.URL;
@@ -62,11 +61,17 @@ public class MainRunner {
                 System.err.println("Couldn't connect to "+source);
             }
             if (mainPage != null) {
-                List<URL> hrefs = new PageSpider().findHrefsByCSSQuery(mainPage, ".paper_papers > a");
+                List<URL> hrefs = ps.findHrefsByCSSQuery(mainPage, ".paper_papers > a");
+                PageHandler ph = new PageHandler();
                 for (URL href : hrefs) {
                     MetadataFromHTML mfh = new MetadataFromHTML(href.toString(), new FileHandler()); // TODO: its stupid to have guaranteed URLS and then refiddle them from string!!
+                    ph.htmlSources.add(mfh);
                 }
+                System.err.println(ph.htmlSources.size());
+                ph.run();
+                System.err.println(ph.htmlSources.size());
             }
+            MetadataMerger mm = new MetadataMerger();
         }
     }
 }
