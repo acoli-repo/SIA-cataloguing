@@ -65,7 +65,7 @@ public class MainRunner {
                 List<URL> hrefs = ps.findHrefsByCSSQuery(mainPage, ".paper_papers > a");
                 List<MetadataSourceHandler> initialSources = new ArrayList<>();
                 for (URL href : hrefs) {
-                    MetadataFromHTML mfh = new MetadataFromHTML(href.toString(), new FileHandler()); // TODO: its stupid to have guaranteed URLS and then refiddle them from string!!
+                    MetadataFromHTML mfh = new MetadataFromHTML(href, new FileHandler());
                     initialSources.add(mfh);
                 }
                 PageHandler ph = new PageHandler(initialSources);

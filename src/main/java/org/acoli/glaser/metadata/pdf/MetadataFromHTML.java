@@ -12,7 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MetadataFromHTML extends MetadataSourceHandler {
-    String url;
     List<Metadata> partialMetadata = new ArrayList<>();
     Document page = null;
     FileHandler fh = null;
@@ -20,17 +19,16 @@ public class MetadataFromHTML extends MetadataSourceHandler {
     boolean checkedForPDFs = false;
     boolean pokedTheServerAlready = false;
 
-    public MetadataFromHTML(String url) {
-        this.url = url;
-        System.err.println("Created MetadataFromHTML object for URL"+this.url);
-        // TODO: Make sure it's a valid url
+    public MetadataFromHTML(URL url) {
+        this.source = url;
+        System.err.println("Created MetadataFromHTML object for URL"+this.source);
     }
-    public MetadataFromHTML(String url, FileHandler fh) {
-        this.url = url;
-        System.err.println("Created MetadataFromHTML object for URL"+this.url);
-        // TODO: Make sure it's a valid url
+    public MetadataFromHTML(URL url, FileHandler fh) {
+        this.source = url;
+        System.err.println("Created MetadataFromHTML object for URL"+this.source);
         this.fh = fh;
     }
+
 
     private boolean getHTMLAndTellMeIfYouWereSuccessful() {
         if (pokedTheServerAlready)
@@ -38,7 +36,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
         else {
             try {
                 pokedTheServerAlready = true;
-                page = Jsoup.connect(this.url).get();
+                page = Jsoup.connect(this.source.toString()).get();
                 return true;
             } catch (IOException e) {
                 return false;
@@ -77,7 +75,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
 
     List<String> getPDFsOnPage() {
         List<String> pdfUrls = new ArrayList<>();
-        System.err.println("Trying to find a pdf on page "+this.url+" ..");
+        System.err.println("Trying to find a pdf on page "+this.source+" ..");
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
             String hrefToPDF = page.select("table.main_summaries a[href$=\".pdf\"]").attr("href");
             pdfUrls.add(hrefToPDF);
@@ -88,7 +86,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
 
     @Deprecated
     public File findPDFofPublicationAndDownload() {
-        System.err.println("Trying to find a pdf on page "+this.url+" ..");
+        System.err.println("Trying to find a pdf on page "+this.source+" ..");
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
             String hrefToPDF = page.select("table.main_summaries a[href$=\".pdf\"]").attr("href");
             System.err.println("Found "+hrefToPDF);
