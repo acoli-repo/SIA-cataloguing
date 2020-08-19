@@ -80,6 +80,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
             String hrefToPDF = page.select("table.main_summaries a[href$=\".pdf\"]").attr("href");
             pdfUrls.add(hrefToPDF);
         }
+        checkedForPDFs = true;
         return pdfUrls;
     }
 
@@ -112,7 +113,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
 
     @Override
     public boolean finished() {
-        return false;
+        return checkedForPDFs && pokedTheServerAlready;
     }
 
     @Override
