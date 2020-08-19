@@ -2,6 +2,7 @@ package org.acoli.glaser.metadata.pdf;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import sun.jvm.hotspot.debugger.Page;
 
 import java.io.*;
 import java.net.URL;
@@ -62,14 +63,13 @@ public class MainRunner {
             }
             if (mainPage != null) {
                 List<URL> hrefs = ps.findHrefsByCSSQuery(mainPage, ".paper_papers > a");
-                PageHandler ph = new PageHandler();
+                List<MetadataSourceHandler> initialSources = new ArrayList<>();
                 for (URL href : hrefs) {
                     MetadataFromHTML mfh = new MetadataFromHTML(href.toString(), new FileHandler()); // TODO: its stupid to have guaranteed URLS and then refiddle them from string!!
-                    ph.htmlSources.add(mfh);
+                    initialSources.add(mfh);
                 }
-                System.err.println(ph.htmlSources.size());
+                PageHandler ph = new PageHandler(initialSources);
                 ph.run();
-                System.err.println(ph.htmlSources.size());
             }
         }
     }
