@@ -12,6 +12,7 @@ public class PageHandler {
     List<Metadata> mds;
     List<MetadataSourceHandler> sources;
 
+    @Deprecated
     public PageHandler() {
         htmlSources = new ArrayList<>();
         pdfSources = new ArrayList<>();
