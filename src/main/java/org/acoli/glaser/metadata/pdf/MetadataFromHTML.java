@@ -138,8 +138,8 @@ public class MetadataFromHTML extends MetadataSourceHandler {
         }
         return null;
     }
-    public List<MetadataFromPDF> createPDFHandlersFromFoundURLS() {
-        List<MetadataFromPDF> mfp = new ArrayList<>();
+    public List<MetadataSourceHandler> createPDFHandlersFromFoundURLS() {
+        List<MetadataSourceHandler> mfp = new ArrayList<>();
         for (String url : pdfUrlsOnPage) {
             if (FileHandler.isURL(url)) {
                 mfp.add(new MetadataFromPDF(newURLICheckedForExceptionAlready(url)));
@@ -149,6 +149,6 @@ public class MetadataFromHTML extends MetadataSourceHandler {
     }
     @Override
     public List<MetadataSourceHandler> getHandlersForOtherSources() {
-        return null;
+        return createPDFHandlersFromFoundURLS();
     }
 }

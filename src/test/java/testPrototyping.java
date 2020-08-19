@@ -6,6 +6,7 @@ import org.junit.Test;
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 
 public class testPrototyping {
@@ -45,10 +46,19 @@ public class testPrototyping {
         Assert.assertEquals(hrefs.size(), 16);
     }
 
-    @Test
+    //@Test
     public void testRun() {
         MainRunner mr = new MainRunner("urlseed.csv");
         mr.run();
+    }
+
+    @Test
+    public void testPageHandlerWithSingleInitialURL() throws MalformedURLException {
+        MetadataFromHTML mfh = new MetadataFromHTML(new URL("http://lrec-conf.org/workshops/lrec2018/W29/summaries/4_W29.html"), new FileHandler());
+        List<MetadataSourceHandler> list = new ArrayList<>();
+        list.add(mfh);
+        PageHandler ph = new PageHandler(list);
+        ph.run();
     }
 
 }
