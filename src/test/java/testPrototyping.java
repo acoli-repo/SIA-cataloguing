@@ -68,4 +68,13 @@ public class testPrototyping {
         System.err.println(Metadata.metadataFromBibtex(bibtex));
     }
 
+    @Test
+    public void testRemovingDTD() throws IOException {
+        PDF2XML pdf2XML = new PDF2XML("tempDir");
+        File pdf = pdf2XML.pdfToXml(new File("tempDir/1848720702.xml"));
+        Assert.assertTrue(pdf2XML.hasDoctypeAnnotation(pdf));
+        pdf2XML.removeDtdFromFile(pdf);
+        Assert.assertFalse(pdf2XML.hasDoctypeAnnotation(pdf));
+        }
+
 }

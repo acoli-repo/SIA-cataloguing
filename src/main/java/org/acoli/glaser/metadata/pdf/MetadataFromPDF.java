@@ -134,11 +134,11 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     private static Metadata getMetadataFromPDFAsXML(Document paper) {
         PDFMetadataExtractor extractor = new PDFMetadataExtractor();
         // TODO: Parameterize below somewhere
-        extractor.titleFont = 21;
-        extractor.titleHeight = 26;
-        extractor.pageHeight = 20;
-        extractor.authorFont = 16;
-        extractor.authorHeight = 21;
+        extractor.titleFont = 0;
+        extractor.titleHeight = 19;
+        extractor.pageHeight = 8;
+        extractor.authorFont = 1;
+        extractor.authorHeight = 16;
         return extractor.getMetadata(paper);
     }
 

@@ -36,13 +36,22 @@ public class PDF2XML {
 		reader.close();
 	}
 
+	String makeFileNameForXML(String nameOfPDF) {
+		if (nameOfPDF.contains(".pdf")) {
+			return nameOfPDF.replace(".pdf", ".xml");
+		} else {
+			nameOfPDF += ".xml";
+			return nameOfPDF;
+		}
+	}
+
 	/**
 	 * pdftohtml "$SINGLE_PDF" -xml -i no images -c complex docs -q quiet -s into single file, name as arg tmp/"$SINGLE_PDF".html
 	 * @param pdf
 	 * @return
 	 */
 	public File pdfToXml(File pdf) throws IOException {
-		String xmlFileName = pdf.getName().replace(".pdf", ".xml");
+		String xmlFileName = makeFileNameForXML(pdf.getName());
 		File xmlFile = new File (this.tmpDir+"/"+xmlFileName);
 		System.err.println("Will convert "+pdf.getAbsolutePath()+", writing to "+ xmlFile.getAbsolutePath());
 		Runtime rt = Runtime.getRuntime();
@@ -99,23 +108,12 @@ public class PDF2XML {
 	 */
 	public boolean hasDoctypeAnnotation(File xml) throws IOException {
 		BufferedReader bin = new BufferedReader(new FileReader(xml));
-		System.err.println("Removing DTD in "+xml.getAbsolutePath());
 		for(String line = ""; line!=null; line=bin.readLine()) {
 			if (line.startsWith("<!DOCTYPE")) {
 				return true;
 			}
 		}
 		return false;
-	}
-	public static void main(String[] argv) throws Exception {
-		if (argv.length > 1) {
-			PDF2XML pdf2XML = new PDF2XML(argv[0]);
-			File pdf = pdf2XML.pdfToXml(new File(argv[1]));
-			System.err.println("File has Doctype: "+ pdf2XML.hasDoctypeAnnotation(pdf));
-			pdf2XML.removeDtdFromFile(pdf);
-			System.err.println("File has Doctype: "+ pdf2XML.hasDoctypeAnnotation(pdf));
-
-		}
 	}
 
 }

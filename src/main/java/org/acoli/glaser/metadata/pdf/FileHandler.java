@@ -30,8 +30,22 @@ public class FileHandler {
         return downloadFileToTemp(new URL(url));
     }
 
+    public File getRootDir() {
+        return this.rootDir;
+    }
+
+    /**
+     * Produces an unique subdir in the tempfolder that a MetadataObject can write temp
+     * files into
+     * @return
+     */
+    public File getUniqueSubfolderInTempDirForHandler() {
+        // TODO: implement
+        return null;
+    }
     /**
      * TODO: don't misuse exceptions for program logic?
+     * TODO: Refactor this to some Util
      * @param maybeAnURL
      * @return
      */

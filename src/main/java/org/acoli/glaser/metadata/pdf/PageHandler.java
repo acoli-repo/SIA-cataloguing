@@ -21,6 +21,7 @@ public class PageHandler {
     }
     public PageHandler(List<MetadataSourceHandler> initialSources) {
         this.sources = initialSources;
+        mds = new ArrayList<>();
     }
 
     /**
@@ -29,6 +30,7 @@ public class PageHandler {
      */
     void unwindFinishedAndSuccessfulHandler(MetadataSourceHandler handler) {
         assert handler.finished(); // Maybe this is bad practice?
+        System.err.println("Unwinding "+handler+"..");
         if (handler.foundOtherSourcesThatRequireHandling()) {
             List<MetadataSourceHandler> newSources = handler.getHandlersForOtherSources();
             System.err.println(handler+" found "+newSources.size()+" new sources, adding them.");
@@ -50,6 +52,15 @@ public class PageHandler {
             }
             if (source.finished() && source.failed())
                 System.err.println("FAILED "+source);
+        }
+        Metadata2TTL m2t = new Metadata2TTL();
+        Metadata mergedmd = MetadataMerger.mergeMetadata(mds.get(0), mds.get(1));
+        mds.clear();
+        mds.add(mergedmd);
+        for (Metadata md : mds) {
+            System.err.println("Transforming..");
+            System.err.println(m2t.metadataToTTL(md));
+
         }
     }
 }
