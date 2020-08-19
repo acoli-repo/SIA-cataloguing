@@ -71,7 +71,6 @@ public class MainRunner {
                 ph.run();
                 System.err.println(ph.htmlSources.size());
             }
-            MetadataMerger mm = new MetadataMerger();
         }
     }
 }

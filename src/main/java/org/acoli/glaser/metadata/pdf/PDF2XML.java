@@ -19,6 +19,7 @@ public class PDF2XML {
 		this.tmpDir = tmpDir;
 	}
 
+
 	private boolean deleteTempFolder() {
 		return this.tmpDir.delete();
 	}

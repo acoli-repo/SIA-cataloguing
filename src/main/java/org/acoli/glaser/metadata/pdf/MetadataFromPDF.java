@@ -1,13 +1,13 @@
 package org.acoli.glaser.metadata.pdf;
 
 import org.w3c.dom.Document;
-import org.xml.sax.EntityResolver;
-import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 import java.io.*;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,7 +15,11 @@ import java.util.List;
 /** support for XML-enhanced TSV formats as used by SketchEngine, CWB and the TreeTagger chunker <br/>
  *      captures SGML/XML markup only, process TSV content via CoNLL2RDF */
 public class MetadataFromPDF {
+    URL url;
 
+    public MetadataFromPDF(URL urlToPDF) {
+        this.url = urlToPDF;
+    }
     static List<File> collectPDFsInDir(File directory) {
         // TODO: make this recursive
         List<File> files = new ArrayList<>();
@@ -34,8 +38,30 @@ public class MetadataFromPDF {
         return files;
     }
 
+    public Metadata extractMetadata() {
+        File pdf = null;
+        System.err.println("NOT IMPLEMENTED YET");
+        Document parsedDocument = this.transformPDFIntoDocumentAndRemoveDTD(pdf);
+        return getMetadataFromPDFAsXML(parsedDocument);
+    }
 
+    Document transformPDFIntoDocumentAndRemoveDTD(File pdf) {
+        PDF2XML pdf2xml = new PDF2XML("tempDir");
+        try {
+            File xml = pdf2xml.pdfToXml(pdf);
 
+            pdf2xml.removeDtdFromFile(xml);
+            DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+            DocumentBuilder builder = dbf.newDocumentBuilder();
+            Document document = builder.parse(xml);
+            return document;
+        } catch (IOException | ParserConfigurationException | SAXException e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
+    @Deprecated
     public static void main(String[] argv) throws Exception {
         System.err.println("Reading from file "+argv[0]);
         if (argv[0].contains("DS_Store") || argv[0].contains("test-nodtd.html.xml"))
@@ -68,14 +94,8 @@ public class MetadataFromPDF {
 //			papers.remove(0);
 			for (Document paper : papers) {
 			    Splitter.printDocument(paper, System.out);
-			    PDFMetadataExtractor extractor = new PDFMetadataExtractor();
-			    extractor.titleFont = 21;
-			    extractor.titleHeight = 26;
-			    extractor.pageHeight = 20;
-			    extractor.authorFont = 16;
-			    extractor.authorHeight = 21;
-				Metadata md = extractor.getMetadata(paper);
-				md.fileName = pdf.getName(); // TODO: Make this more sophisticated like in zotero
+                Metadata md = getMetadataFromPDFAsXML(paper);
+                md.fileName = pdf.getName(); // TODO: Make this more sophisticated like in zotero
 
 				if (!MetadataValidator.isFullyPopulated(md)) {
 //					System.out.println("===CHECK===");
@@ -84,11 +104,21 @@ public class MetadataFromPDF {
 					System.out.println("Correct!");
 					System.out.println(md);
 				}
-				System.err.println(m2t.metadataToTTL(md));
 				break;
 			}
 		}
 
+    }
+
+    private static Metadata getMetadataFromPDFAsXML(Document paper) {
+        PDFMetadataExtractor extractor = new PDFMetadataExtractor();
+        // TODO: Parameterize below somewhere
+        extractor.titleFont = 21;
+        extractor.titleHeight = 26;
+        extractor.pageHeight = 20;
+        extractor.authorFont = 16;
+        extractor.authorHeight = 21;
+        return extractor.getMetadata(paper);
     }
 
 }
