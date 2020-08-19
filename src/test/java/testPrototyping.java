@@ -4,6 +4,7 @@ import org.jsoup.nodes.Document;
 import org.junit.Assert;
 import org.junit.Test;
 import java.io.*;
+import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.List;
 
@@ -30,9 +31,9 @@ public class testPrototyping {
 
     }
     @Test
-    public void testMetadataFromHTMLWithSingleLink() {
+    public void testMetadataFromHTMLWithSingleLink() throws MalformedURLException {
         String testURL = "http://lrec-conf.org/workshops/lrec2018/W29/summaries/6_W29.html";
-        MetadataFromHTML mfh = new MetadataFromHTML(testURL, new FileHandler());
+        MetadataFromHTML mfh = new MetadataFromHTML(new URL(testURL), new FileHandler());
         mfh.run();
         mfh.findPDFofPublicationAndDownload();
     }

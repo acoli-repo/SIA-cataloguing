@@ -14,11 +14,19 @@ import java.util.List;
 
 /** support for XML-enhanced TSV formats as used by SketchEngine, CWB and the TreeTagger chunker <br/>
  *      captures SGML/XML markup only, process TSV content via CoNLL2RDF */
-public class MetadataFromPDF {
-    URL url;
+public class MetadataFromPDF extends MetadataSourceHandler {
+
+    private boolean downloadFailed;
+    private boolean transformationFailed;
+    private boolean finished;
+    List<Metadata> mds;
 
     public MetadataFromPDF(URL urlToPDF) {
-        this.url = urlToPDF;
+        this.source = urlToPDF;
+        this.downloadFailed = false;
+        this.transformationFailed = false;
+        this.finished = false;
+        this.mds = new ArrayList<>();
     }
     static List<File> collectPDFsInDir(File directory) {
         // TODO: make this recursive
@@ -45,6 +53,17 @@ public class MetadataFromPDF {
         return getMetadataFromPDFAsXML(parsedDocument);
     }
 
+    File downloadURL(URL url) {
+        FileHandler fh = new FileHandler();
+        try {
+            return fh.downloadFileToTemp(url);
+        } catch (IOException e) {
+            e.printStackTrace();
+            this.downloadFailed = true;
+        }
+        return null;
+    }
+
     Document transformPDFIntoDocumentAndRemoveDTD(File pdf) {
         PDF2XML pdf2xml = new PDF2XML("tempDir");
         try {
@@ -57,12 +76,14 @@ public class MetadataFromPDF {
             return document;
         } catch (IOException | ParserConfigurationException | SAXException e) {
             e.printStackTrace();
+            this.transformationFailed = true;
             return null;
         }
     }
 
     @Deprecated
     public static void main(String[] argv) throws Exception {
+
         System.err.println("Reading from file "+argv[0]);
         if (argv[0].contains("DS_Store") || argv[0].contains("test-nodtd.html.xml"))
             System.exit(0);
@@ -121,4 +142,38 @@ public class MetadataFromPDF {
         return extractor.getMetadata(paper);
     }
 
+    @Override
+    public void run() {
+        File pdfFile = downloadURL(this.source);
+        if (!downloadFailed) {
+            Document pdfFileAsXMLDocument = transformPDFIntoDocumentAndRemoveDTD(pdfFile);
+            this.mds.add(getMetadataFromPDFAsXML(pdfFileAsXMLDocument));
+        }
+        finished = true;
+    }
+
+    @Override
+    public List<Metadata> getMetadata() {
+        return this.mds;
+    }
+
+    @Override
+    public boolean finished() {
+        return finished;
+    }
+
+    @Override
+    public boolean success() {
+        return finished && !this.mds.isEmpty() && !transformationFailed && !downloadFailed;
+    }
+
+    @Override
+    public boolean foundOtherSourcesThatRequireHandling() {
+        return false;
+    }
+
+    @Override
+    public List<MetadataSourceHandler> getHandlersForOtherSources() {
+        return null;
+    }
 }
