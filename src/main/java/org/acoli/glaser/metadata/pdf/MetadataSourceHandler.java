@@ -35,4 +35,12 @@ abstract public class MetadataSourceHandler {
         return !success();
     }
 
+    /**
+     * In some cases, you may find stuff that requires handling by already existing metadata
+     * handlers. Indicate this here.
+     * @return
+     */
+    public abstract boolean foundOtherSourcesThatRequireHandling();
+
+    public abstract List<MetadataSourceHandler> getHandlersForOtherSources();
 }

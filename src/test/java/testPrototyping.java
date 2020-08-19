@@ -1,8 +1,6 @@
 import org.acoli.glaser.metadata.pdf.*;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 import org.junit.Assert;
 import org.junit.Test;
 import java.io.*;
@@ -35,7 +33,7 @@ public class testPrototyping {
     public void testMetadataFromHTMLWithSingleLink() {
         String testURL = "http://lrec-conf.org/workshops/lrec2018/W29/summaries/6_W29.html";
         MetadataFromHTML mfh = new MetadataFromHTML(testURL, new FileHandler());
-        mfh.parseSummaryPage();
+        mfh.run();
         mfh.findPDFofPublicationAndDownload();
     }
     @Test
