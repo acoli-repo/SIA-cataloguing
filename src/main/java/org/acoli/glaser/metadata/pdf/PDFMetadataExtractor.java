@@ -157,6 +157,7 @@ public class PDFMetadataExtractor {
 		return authors;
 	}
 
+	// TODO THIS IS NOT BUILDING A PAGE QUERY
 	String buildPageQuery() {
 		String xPathForPages = "//page/text[";
 		List<String> conditions = new ArrayList<>();
@@ -186,15 +187,8 @@ public class PDFMetadataExtractor {
 		return pageNumbers;
 	}
 	List<Integer> getPageNumbers(Document document) throws XPathExpressionException {
-		String xPathForPageNumbers = buildPageQuery();
-		List<Integer> pageNumbers = new ArrayList<>();
-		NodeList pageNumbersNodeList = (NodeList) xPath.compile(xPathForPageNumbers).evaluate(document, XPathConstants.NODESET);
-		for (int i = 0; i < pageNumbersNodeList.getLength(); i++) {
-			String candidatePageNumber = pageNumbersNodeList.item(i).getTextContent();
-			if (candidatePageNumber.matches("-?[0-9]+")) {
-				pageNumbers.add(Integer.parseInt(pageNumbersNodeList.item(i).getTextContent()));
-			}
-		}
+		List<Integer> pageNumbers = getPageNumberCandidatesWithHeight(document, this.pageHeight);
+
 		Collections.sort(pageNumbers);
 		return pageNumbers;
 	}

@@ -65,8 +65,13 @@ public class MainRunner {
                 List<URL> hrefs = ps.findHrefsByCSSQuery(mainPage, ".paper_papers > a");
                 List<MetadataSourceHandler> initialSources = new ArrayList<>();
                 for (URL href : hrefs) {
-                    MetadataFromHTML mfh = new MetadataFromHTML(href, new FileHandler());
-                    initialSources.add(mfh);
+                    if (href.toString().endsWith("pdf")) {
+                        MetadataFromPDF mfp = new MetadataFromPDF(href, true); // TODO: PARAMETERIZE THIS
+                        initialSources.add(mfp);
+                    } else {
+                        MetadataFromHTML mfh = new MetadataFromHTML(href, new FileHandler());
+                        initialSources.add(mfh);
+                    }
                 }
                 PageHandler ph = new PageHandler(initialSources);
                 ph.run();

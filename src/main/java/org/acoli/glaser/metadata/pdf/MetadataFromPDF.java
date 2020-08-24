@@ -3,9 +3,11 @@ package org.acoli.glaser.metadata.pdf;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
+import javax.print.Doc;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.stream.XMLStreamException;
 import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
@@ -16,17 +18,18 @@ import java.util.List;
  *      captures SGML/XML markup only, process TSV content via CoNLL2RDF */
 public class MetadataFromPDF extends MetadataSourceHandler {
 
-    private boolean downloadFailed;
-    private boolean transformationFailed;
-    private boolean finished;
-    List<Metadata> mds;
+    private boolean downloadFailed = false;
+    private boolean transformationFailed = false;
+    private boolean finished = false;
+    private boolean split = false;
+    List<Metadata> mds = new ArrayList<>();
 
+    public MetadataFromPDF(URL urlToPDF, boolean split) {
+        this.source = urlToPDF;
+        this.split = split;
+    }
     public MetadataFromPDF(URL urlToPDF) {
         this.source = urlToPDF;
-        this.downloadFailed = false;
-        this.transformationFailed = false;
-        this.finished = false;
-        this.mds = new ArrayList<>();
     }
     static List<File> collectPDFsInDir(File directory) {
         // TODO: make this recursive
@@ -64,12 +67,20 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         return null;
     }
 
-    Document transformPDFIntoDocumentAndRemoveDTD(File pdf) {
+    File transformPDFIntoDocumentAndRemoveDTDReturnsFile(File pdf) {
         PDF2XML pdf2xml = new PDF2XML("tempDir");
+        File xml = null;
         try {
-            File xml = pdf2xml.pdfToXml(pdf);
-
+            xml = pdf2xml.pdfToXml(pdf);
             pdf2xml.removeDtdFromFile(xml);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return xml;
+    }
+    Document transformPDFIntoDocumentAndRemoveDTD(File pdf) {
+        try {
+            File xml = transformPDFIntoDocumentAndRemoveDTDReturnsFile(pdf);
             DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = dbf.newDocumentBuilder();
             Document document = builder.parse(xml);
@@ -134,20 +145,37 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     private static Metadata getMetadataFromPDFAsXML(Document paper) {
         PDFMetadataExtractor extractor = new PDFMetadataExtractor();
         // TODO: Parameterize below somewhere
-        extractor.titleFont = 0;
-        extractor.titleHeight = 19;
-        extractor.pageHeight = 8;
-        extractor.authorFont = 1;
-        extractor.authorHeight = 16;
+        extractor.titleFont = 9;
+        extractor.titleHeight = 25;
+        extractor.pageHeight = 15;
+        extractor.authorFont = 7;
+        extractor.authorHeight = 21;
         return extractor.getMetadata(paper);
+    }
+
+    public List<Document> splitPages(File paperAsXML) {
+        try {
+            Splitter splitter = new Splitter();
+            List<Document> papers = splitter.splitIntoDistinctPapers(paperAsXML);
+            return papers;
+        }
+        catch (ParserConfigurationException | FileNotFoundException | XMLStreamException e) {
+            return new ArrayList<>();
+        }
     }
 
     @Override
     public void run() {
         File pdfFile = downloadURL(this.source);
         if (!downloadFailed) {
-            Document pdfFileAsXMLDocument = transformPDFIntoDocumentAndRemoveDTD(pdfFile);
-            this.mds.add(getMetadataFromPDFAsXML(pdfFileAsXMLDocument));
+            if (this.split) {
+                for (Document pdfFileAsXMLDocument : splitPages(transformPDFIntoDocumentAndRemoveDTDReturnsFile(pdfFile))) {
+                    this.mds.add(getMetadataFromPDFAsXML(pdfFileAsXMLDocument));
+                }
+            } else {
+                Document pdfFileAsXMLDocument = transformPDFIntoDocumentAndRemoveDTD(pdfFile);
+                    this.mds.add(getMetadataFromPDFAsXML(pdfFileAsXMLDocument));
+            }
         }
         finished = true;
     }
