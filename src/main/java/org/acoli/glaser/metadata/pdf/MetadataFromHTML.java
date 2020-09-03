@@ -16,6 +16,8 @@ public class MetadataFromHTML extends MetadataSourceHandler {
     Document page = null;
     FileHandler fh = null;
     List<String> pdfUrlsOnPage = new ArrayList<>();
+    List<String> rawBibtexOnPage = new ArrayList<>();
+    boolean containsBibtex = false;
     boolean checkedForPDFs = false;
     boolean pokedTheServerAlready = false;
 
@@ -59,7 +61,8 @@ public class MetadataFromHTML extends MetadataSourceHandler {
             Elements bibtex = page.select("td.bibtex_summaries"); // TODO: Parameterize this
             if (bibtex.size() > 0) {
                 System.err.println("Found bibtex: " + bibtex.text());
-                this.partialMetadata.add(Metadata.metadataFromBibtex(bibtex.text()));
+                rawBibtexOnPage.add(bibtex.text());
+                containsBibtex = true;
             }
             if (pageContainsPDFs()) {
                 pdfUrlsOnPage = getPDFsOnPage();
@@ -118,12 +121,12 @@ public class MetadataFromHTML extends MetadataSourceHandler {
 
     @Override
     public boolean success() {
-        return this.partialMetadata != null && getHTMLAndTellMeIfYouWereSuccessful();
+        return this.partialMetadata != null && getHTMLAndTellMeIfYouWereSuccessful() || foundOtherSourcesThatRequireHandling();
     }
 
     @Override
     public boolean foundOtherSourcesThatRequireHandling() {
-        return checkedForPDFs && !pdfUrlsOnPage.isEmpty();
+        return (checkedForPDFs && !pdfUrlsOnPage.isEmpty()) || containsBibtex;
     }
 
     /**
@@ -145,6 +148,9 @@ public class MetadataFromHTML extends MetadataSourceHandler {
             if (FileHandler.isURL(url)) {
                 mfp.add(new MetadataFromPDF(newURLICheckedForExceptionAlready(url)));
             }
+        }
+        for (String bibtex : rawBibtexOnPage) {
+            mfp.add(new MetadataFromBibtex(bibtex));
         }
         return mfp;
     }

@@ -1,8 +1,5 @@
 
-import org.acoli.glaser.metadata.pdf.Metadata;
-import org.acoli.glaser.metadata.pdf.Metadata2TTL;
-import org.acoli.glaser.metadata.pdf.MetadataFromPDF;
-import org.acoli.glaser.metadata.pdf.MetadataSourceHandler;
+import org.acoli.glaser.metadata.pdf.*;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -31,5 +28,13 @@ public class testSourceHandlers {
             System.err.println(m2t.metadataToTTL(md));
         }
 
+    }
+    @Test
+    public void testMetadataFromHTMLaddingCorrectMetadataFromSourcesToPool() throws MalformedURLException {
+        MetadataFromHTML mfh = new MetadataFromHTML(new URL("http://lrec-conf.org/workshops/lrec2018/W29/summaries/6_W29.html"));
+        mfh.run();
+        Assert.assertTrue(mfh.foundOtherSourcesThatRequireHandling());
+        Assert.assertEquals(MetadataFromPDF.class, mfh.createPDFHandlersFromFoundURLS().get(0).getClass());
+        Assert.assertEquals(MetadataFromBibtex.class, mfh.createPDFHandlersFromFoundURLS().get(1).getClass());
     }
 }
