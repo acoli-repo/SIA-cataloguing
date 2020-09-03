@@ -4,6 +4,7 @@ import org.jbibtex.*;
 
 import java.io.StringReader;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class MetadataFromBibtex extends MetadataSourceHandler {
     String bibtex;
@@ -41,7 +42,7 @@ public class MetadataFromBibtex extends MetadataSourceHandler {
         for(BibTeXEntry entry : entries) {
             Metadata md = new Metadata();
             md.title = entry.getField(BibTeXEntry.KEY_TITLE).toUserString();
-            md.authors = new ArrayList<>(Arrays.asList(entry.getField(BibTeXEntry.KEY_AUTHOR).toUserString().split(","))); // TODO: properly parse this
+            md.authors = splitAuthors(entry.getField(BibTeXEntry.KEY_AUTHOR).toUserString()); // TODO: properly parse this
             if (entry.getField(BibTeXEntry.KEY_ADDRESS) != null) {
                 md.location = entry.getField(BibTeXEntry.KEY_ADDRESS).toUserString();
             }
@@ -63,6 +64,9 @@ public class MetadataFromBibtex extends MetadataSourceHandler {
         this.doneParsing = true;
     }
 
+    List<String> splitAuthors(String authors){
+        return Arrays.stream(authors.split("and")).map(String::trim).collect(Collectors.toList());
+    }
     @Override
     public List<Metadata> getMetadata() {
         return this.partialMetadata;
