@@ -62,13 +62,6 @@ public class testPrototyping {
     }
 
     @Test
-    public void testBibtexParsing() {
-        String bibtex = "@InProceedings{YOO18.6, author = {Gwanghoon Yoo and Jeesun Nam}, title = {A Hybrid Approach to Sentiment Analysis Enhanced by Sentiment Lexicons and Polarity Shifting Devices}, booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)}, year = {2018}, month = {may}, date = {7-12}, location = {Miyazaki, Japan}, editor = {Kiyoaki Shirai}, publisher = {European Language Resources Association (ELRA)}, address = {Paris, France}, isbn = {979-10-95546-24-5}, language = {english} }";
-        System.err.println(bibtex);
-        System.err.println(Metadata.metadataFromBibtex(bibtex));
-    }
-
-    @Test
     public void testRemovingDTD() throws IOException {
         PDF2XML pdf2XML = new PDF2XML("tempDir");
         File pdf = pdf2XML.pdfToXml(new File("tempDir/1848720702.xml"));

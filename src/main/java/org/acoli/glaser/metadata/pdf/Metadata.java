@@ -7,11 +7,15 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Metadata {
-	String fileName;
-	String title;
-	List<String> authors;
-	int beginPage;
-	int endPage;
+	public String fileName;
+	public String title;
+	public String journalTitle;
+	public Integer year;
+	public List<String> authors;
+	public String location;
+	public String booktitle;
+	public int beginPage;
+	public int endPage;
 
 
 	public void setPageNumbers(List<Integer> pageNumbers) {
@@ -23,7 +27,12 @@ public class Metadata {
 
 	@Override
 	public String toString() {
-		return this.title + "\n\t" + String.join(", ", this.authors) + "\n\t" + this.beginPage + "-" + this.endPage;
+		StringBuilder repr = new StringBuilder();
+		for (Object obj : Arrays.asList(title, String.join(", ", authors),booktitle,location, journalTitle, year, beginPage + "-" + endPage)) {
+			repr.append(obj);
+			repr.append("\n\t");
+		}
+		return repr.toString();
 	}
 
 	public boolean hasTitle() {
