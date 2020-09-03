@@ -2,7 +2,6 @@ package org.acoli.glaser.metadata.pdf;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import sun.jvm.hotspot.debugger.Page;
 
 import java.io.*;
 import java.net.URL;
