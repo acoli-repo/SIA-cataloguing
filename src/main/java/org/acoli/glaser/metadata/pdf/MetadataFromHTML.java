@@ -81,7 +81,9 @@ public class MetadataFromHTML extends MetadataSourceHandler {
         System.err.println("Trying to find a pdf on page "+this.source+" ..");
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
             String hrefToPDF = page.select("table.main_summaries a[href$=\".pdf\"]").attr("href");
-            pdfUrls.add(hrefToPDF);
+            if (hrefToPDF.trim().length() != 0) { // Removes empty hrefs
+                pdfUrls.add(hrefToPDF);
+            }
         }
         checkedForPDFs = true;
         return pdfUrls;
@@ -121,7 +123,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
 
     @Override
     public boolean success() {
-        return this.partialMetadata != null && getHTMLAndTellMeIfYouWereSuccessful() || foundOtherSourcesThatRequireHandling();
+        return this.partialMetadata.size() > 0 && getHTMLAndTellMeIfYouWereSuccessful() || foundOtherSourcesThatRequireHandling();
     }
 
     @Override
