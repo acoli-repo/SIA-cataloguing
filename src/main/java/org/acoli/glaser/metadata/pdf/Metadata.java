@@ -1,5 +1,7 @@
 package org.acoli.glaser.metadata.pdf;
 
+import org.apache.commons.lang3.builder.EqualsBuilder;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -24,6 +26,7 @@ public class Metadata {
 			this.endPage = pageNumbers.get(pageNumbers.size() - 1);
 		}
 	}
+
 
 	@Override
 	public String toString() {
@@ -73,5 +76,10 @@ public class Metadata {
 		md.authors = new ArrayList<>(Arrays.asList(authors.split(",|and")));
 		md.title = title;
 		return md;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		return EqualsBuilder.reflectionEquals(this, obj);
 	}
 }
