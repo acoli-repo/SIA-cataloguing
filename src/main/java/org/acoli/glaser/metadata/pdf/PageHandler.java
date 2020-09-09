@@ -5,26 +5,22 @@ import java.util.List;
 import java.util.logging.Logger;
 
 
+/**
+ * The PageHandler class is responsible for extracting one or more metadata sets from a page. Given a group of MetadataSourceHandlers,
+ * it runs each, checks for additional sources wrapped in a MetadataSourceHandler and adds them to the pool.
+ * Depending on configuration, the merging process happens after the entire run or after each Handler is unwind.
+ */
 public class PageHandler {
-    @Deprecated
-    List<MetadataFromHTML> htmlSources;
-    @Deprecated
-    List<MetadataFromPDF> pdfSources;
     List<Metadata> mds;
     List<MetadataSourceHandler> sources;
     private static Logger LOG = Logger.getLogger(PageHandler.class.getName());
+    private boolean mergeAfterEach = true;
 
-    @Deprecated
-    public PageHandler() {
-        htmlSources = new ArrayList<>();
-        pdfSources = new ArrayList<>();
-        mds = new ArrayList<>();
-        sources = new ArrayList<>();
-    }
     public PageHandler(List<MetadataSourceHandler> initialSources) {
         this.sources = initialSources;
         mds = new ArrayList<>();
     }
+
 
     /**
      * TODO: We could potentially get into an infinite loop because we don't remember where we were already
@@ -32,15 +28,25 @@ public class PageHandler {
      */
     void unwindFinishedAndSuccessfulHandler(MetadataSourceHandler handler) {
         assert handler.finished(); // Maybe this is bad practice?
-        // TODO: Unwinding should include merging them?
         LOG.info("Unwinding "+handler+"..");
         if (handler.foundOtherSourcesThatRequireHandling()) {
             List<MetadataSourceHandler> newSources = handler.getHandlersForOtherSources();
             LOG.info(handler+" found "+newSources.size()+" new sources, adding them to existing pool.");
             sources.addAll(handler.getHandlersForOtherSources());
         }
-        mds.addAll(MetadataMerger.mergeMetadata(handler.getMetadata()));
+        List<Metadata> foundPartialMetadata = handler.getMetadata();
+        if (mergeAfterEach) {
+            LOG.info("Merging ..");
+            mds.addAll(MetadataMerger.mergeMetadata(foundPartialMetadata));
+        } else {
+            mds.addAll(foundPartialMetadata);
+        }
     }
+
+    /**
+     * Main function. Runs through the initial pool of MetadataSourceHandlers, extracts metadata from them, sends
+     * them to the unwind function. Terminates after the entire pool is empty.
+     */
     public void run() {
         while (!sources.isEmpty()) {
             LOG.info(sources.size()+" sources left to extract..");
@@ -56,10 +62,15 @@ public class PageHandler {
             if (source.finished() && source.failed())
                 LOG.warning(source+" failed during handling.");
         }
-        LOG.info("Merging metadata.. ("+mds.size()+" entries)");
-        List<Metadata> mergedmds = MetadataMerger.mergeMetadata(mds);
-        LOG.info("Done merging, "+mds.size()+" left.");
-        for (Metadata md : mergedmds) {
+        List<Metadata> mergedMDs;
+        if (!mergeAfterEach) {
+            LOG.info("Merging metadata.. (" + mds.size() + " entries)");
+            mergedMDs = MetadataMerger.mergeMetadata(mds);
+            LOG.info("Done merging, "+mds.size()+" left.");
+        } else {
+            mergedMDs = this.mds;
+        }
+        for (Metadata md : mergedMDs) {
             System.err.println(md);
 
         }
