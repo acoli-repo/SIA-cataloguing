@@ -19,12 +19,14 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class Splitter {
 
     XMLInputFactory xif;
     DocumentBuilder db;
     XMLEventFactory xef;
+    private static Logger LOG = Logger.getLogger(Splitter.class.getName());
 
     public Splitter() throws ParserConfigurationException {
         XMLInputFactory xif = XMLInputFactory.newInstance();
@@ -57,7 +59,7 @@ public class Splitter {
                 reader.next();
             }
         }
-        System.err.println("Document has " + pageCount + " pages.");
+        LOG.info("Document has " + pageCount + " pages.");
         return pages;
     }
 
@@ -81,7 +83,7 @@ public class Splitter {
 
     List<Document> splitIntoDistinctPapers(File file) throws FileNotFoundException, XMLStreamException {
         // TODO: Add clutter detection maybe?
-        System.err.println("Splitting..");
+        LOG.info("Splitting..");
         List<Document> papers = new ArrayList<>();
         int pageCount = 0;
         Reader xml = new FileReader(file);
@@ -107,7 +109,7 @@ public class Splitter {
             }
         }
         papers.add(mergePagesIntoDocument(buffer));
-        System.err.println("Document contains " + papers.size() + " papers.");
+        LOG.info("Document contains " + papers.size() + " papers.");
         return papers;
     }
 
@@ -145,7 +147,7 @@ public class Splitter {
                 }
             }
         }
-        System.err.println("Collected page with " + pageBuffer.size() + " events.");
+        LOG.info("Collected page with " + pageBuffer.size() + " events.");
         return pageBuffer;
     }
 
@@ -187,7 +189,7 @@ public class Splitter {
             transformer.transform(new DOMSource(doc),
                     new StreamResult(new OutputStreamWriter(out, "UTF-8")));
         } catch (Exception e) {
-            System.err.println("Couldn't print");
+            LOG.warning("Couldn't print");
         }
     }
 }

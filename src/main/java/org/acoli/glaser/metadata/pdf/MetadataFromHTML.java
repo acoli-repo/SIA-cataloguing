@@ -80,9 +80,8 @@ public class MetadataFromHTML extends MetadataSourceHandler {
         List<String> pdfUrls = new ArrayList<>();
         System.err.println("Trying to find a pdf on page "+this.source+" ..");
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
-            String hrefToPDF = page.select("table.main_summaries a[href$=\".pdf\"]").attr("href");
-            if (hrefToPDF.trim().length() != 0) { // Removes empty hrefs
-                pdfUrls.add(hrefToPDF);
+            for (URL hrefToPDF : PageSpider.findHrefsByCSSQuery(page, "table.main_summaries a[href$=\".pdf\"]")) {
+                pdfUrls.add(hrefToPDF.toString()); // TODO: fix this back-and-forth
             }
         }
         checkedForPDFs = true;
@@ -159,5 +158,14 @@ public class MetadataFromHTML extends MetadataSourceHandler {
     @Override
     public List<MetadataSourceHandler> getHandlersForOtherSources() {
         return createPDFHandlersFromFoundURLS();
+    }
+
+    static public List<MetadataFromHTML> spawnHandlersWithInitialPageAndSelector(URL initialURL, String cssQuery, FileHandler fh) throws IOException {
+        Document doc = Jsoup.connect(initialURL.toString()).get();
+        List<MetadataFromHTML> mfh = new ArrayList<>();
+        for (URL url : PageSpider.findHrefsByCSSQuery(doc, cssQuery)) {
+            mfh.add(new MetadataFromHTML(url, fh));
+        }
+        return mfh;
     }
 }

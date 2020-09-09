@@ -50,6 +50,7 @@ public class Metadata {
 	 * @param bibtex
 	 * @return
 	 */
+	@Deprecated
 	public static Metadata metadataFromBibtex(String bibtex) {
 		final Pattern GET_TYPE = Pattern.compile("^@(.*?)\\{");
 		final Pattern GET_TITLE = Pattern.compile("title = \\{(.*?)}");

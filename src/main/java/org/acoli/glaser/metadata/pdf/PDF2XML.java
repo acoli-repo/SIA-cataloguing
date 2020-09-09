@@ -3,18 +3,21 @@ package org.acoli.glaser.metadata.pdf;
 import java.io.*;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+import java.util.logging.Logger;
 
 
 public class PDF2XML {
 
 	File tmpDir;
+	private static Logger LOG = Logger.getLogger(PDF2XML.class.getName());
 
 	public PDF2XML(String tmpPath) {
 		File tmpDir = new File(tmpPath);
 		if (!tmpDir.exists()) {
-			System.err.println(tmpPath+" does not exist yet, created it.");
+			LOG.info(tmpPath+" does not exist yet, created it.");
 			boolean success = tmpDir.mkdir();
-			System.err.println("Success: "+success);
+			if (success)
+				LOG.info("Successfully created "+tmpDir.getAbsolutePath());
 		}
 		this.tmpDir = tmpDir;
 	}
@@ -23,6 +26,8 @@ public class PDF2XML {
 	private boolean deleteTempFolder() {
 		return this.tmpDir.delete();
 	}
+
+	@Deprecated
 	public void cleanup() {
 		Scanner reader = new Scanner(System.in);
 		System.out.println("Enter 'ok' to delete temp folder.");
@@ -53,18 +58,18 @@ public class PDF2XML {
 	public File pdfToXml(File pdf) throws IOException {
 		String xmlFileName = makeFileNameForXML(pdf.getName());
 		File xmlFile = new File (this.tmpDir+"/"+xmlFileName);
-		System.err.println("Will convert "+pdf.getAbsolutePath()+", writing to "+ xmlFile.getAbsolutePath());
+		LOG.info("Will convert "+pdf.getAbsolutePath()+", writing to "+ xmlFile.getAbsolutePath());
 		Runtime rt = Runtime.getRuntime();
 		String shellCommand = "pdftohtml "+pdf.getAbsolutePath()+" -xml -i -c -q -s "+ xmlFile.getAbsolutePath();
 		// TODO: This is way too much stuff, the error was somewhere else. You can probably simplify this.
 		Process conversion = rt.exec(shellCommand);
 		try {
-			System.err.println("Waiting for conversion to finish..");
+			LOG.info("Waiting for conversion to finish..");
 			boolean didFinish = conversion.waitFor(10, TimeUnit.SECONDS);
 			if (didFinish) {
-				System.err.println("Conversion done.");
+				LOG.info("Conversion done.");
 			} else {
-				System.err.println("Conversion not done..?");
+				LOG.info("Conversion not done..?");
 			}
 		} catch (InterruptedException e) {
 			System.exit(1); // TODO: Check how to handle this properly
@@ -83,7 +88,7 @@ public class PDF2XML {
 		File tmpFile = new File(xml.getAbsolutePath()+".tmp");
 		BufferedReader bin = new BufferedReader(new FileReader(xml));
 		BufferedWriter bout = new BufferedWriter(new FileWriter(tmpFile));
-		System.err.println("Removing DTD in "+xml.getAbsolutePath());
+		LOG.info("Removing DTD in "+xml.getAbsolutePath());
 		for(String line = ""; line!=null; line=bin.readLine()) {
 			if (line.length() > 1 && !line.startsWith("<!DOCTYPE")) {
 				bout.write(line+"\n");
@@ -94,9 +99,9 @@ public class PDF2XML {
 
 		boolean success = tmpFile.renameTo(xml);
 		if (success)
-			System.err.println("Done.");
+			LOG.info("Done.");
 		else
-			System.err.println("Couldn't move file.");
+			LOG.warning("Couldn't move file.");
 		return success;
 	}
 

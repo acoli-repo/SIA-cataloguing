@@ -7,6 +7,7 @@ import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Logger;
 
 /**
  * TODO: Name and reconceptualize this
@@ -18,6 +19,7 @@ public class MainRunner {
     List<Source> sources;
     FileHandler fh;
     PageSpider ps; // TODO: does this need to be object var??
+    private static Logger LOG = Logger.getLogger(MainRunner.class.getName());
     public MainRunner(String pathToSeedCSV) {
         sources = readURLSeed(pathToSeedCSV);
         fh = new FileHandler();
@@ -28,7 +30,7 @@ public class MainRunner {
         try {
             return new BufferedReader(new FileReader(new File(path)));
         } catch (FileNotFoundException e) {
-            System.err.println("Couldn't open URL seed file.");
+            LOG.info("Couldn't open URL seed file.");
         }
         return null;
     }
@@ -53,12 +55,12 @@ public class MainRunner {
         for (Source source : this.sources) {
             // TODO: Probably this can be done in an asyc way. Parse the urls and have a callback that adds them to a parser pool
             // or sth like that
-            System.err.println("Starting "+source+"..");
+            LOG.info("Starting "+source+"..");
             Document mainPage = null;
             try {
                 mainPage = Jsoup.connect(source.urlAsString).get();
             } catch (IOException e) {
-                System.err.println("Couldn't connect to "+source);
+                LOG.warning("Couldn't connect to "+source);
             }
             if (mainPage != null) {
                 List<URL> hrefs = ps.findHrefsByCSSQuery(mainPage, ".paper_papers > a");

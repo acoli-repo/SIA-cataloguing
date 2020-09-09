@@ -13,7 +13,7 @@ import java.util.List;
 public class PageSpider {
 
 
-    public List<URL> findHrefsByCSSQuery(Document doc, String cssQuery) {
+    static public List<URL> findHrefsByCSSQuery(Document doc, String cssQuery) {
         Elements es = doc.select(cssQuery);
         List<URL> hrefs = new ArrayList<>();
         for (Element e : es ) {

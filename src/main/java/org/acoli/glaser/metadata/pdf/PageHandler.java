@@ -2,6 +2,7 @@ package org.acoli.glaser.metadata.pdf;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Logger;
 
 
 public class PageHandler {
@@ -11,6 +12,7 @@ public class PageHandler {
     List<MetadataFromPDF> pdfSources;
     List<Metadata> mds;
     List<MetadataSourceHandler> sources;
+    private static Logger LOG = Logger.getLogger(PageHandler.class.getName());
 
     @Deprecated
     public PageHandler() {
@@ -30,36 +32,35 @@ public class PageHandler {
      */
     void unwindFinishedAndSuccessfulHandler(MetadataSourceHandler handler) {
         assert handler.finished(); // Maybe this is bad practice?
-        System.err.println("Unwinding "+handler+"..");
+        // TODO: Unwinding should include merging them?
+        LOG.info("Unwinding "+handler+"..");
         if (handler.foundOtherSourcesThatRequireHandling()) {
             List<MetadataSourceHandler> newSources = handler.getHandlersForOtherSources();
-            System.err.println(handler+" found "+newSources.size()+" new sources, adding them.");
+            LOG.info(handler+" found "+newSources.size()+" new sources, adding them to existing pool.");
             sources.addAll(handler.getHandlersForOtherSources());
         }
-        mds.addAll(handler.getMetadata());
+        mds.addAll(MetadataMerger.mergeMetadata(handler.getMetadata()));
     }
     public void run() {
         while (!sources.isEmpty()) {
-            System.err.println(sources.size()+" sources left to extract..");
+            LOG.info(sources.size()+" sources left to extract..");
             MetadataSourceHandler source = sources.remove(0);
-            System.err.println("Handling "+source+" now..");
+            LOG.info("Handling "+source+" now..");
             source.run();
             if (source.finished()) {
                 if (source.success())
                     unwindFinishedAndSuccessfulHandler(source);
                 else
-                    System.err.println(source+" unsuccessful");
+                    LOG.warning(source+" unsuccessful");
             }
             if (source.finished() && source.failed())
-                System.err.println("FAILED "+source);
+                LOG.warning(source+" failed during handling.");
         }
-        Metadata2TTL m2t = new Metadata2TTL();
-        Metadata mergedmd = MetadataMerger.mergeMetadata(mds.get(0), mds.get(1));
-        mds.clear();
-        mds.add(mergedmd);
-        for (Metadata md : mds) {
-            System.err.println("Transforming..");
-            System.err.println(m2t.metadataToTTL(md));
+        LOG.info("Merging metadata.. ("+mds.size()+" entries)");
+        List<Metadata> mergedmds = MetadataMerger.mergeMetadata(mds);
+        LOG.info("Done merging, "+mds.size()+" left.");
+        for (Metadata md : mergedmds) {
+            System.err.println(md);
 
         }
     }

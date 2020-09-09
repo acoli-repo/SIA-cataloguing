@@ -4,6 +4,7 @@ import org.jbibtex.*;
 
 import java.io.StringReader;
 import java.util.*;
+import java.util.logging.Logger;
 import java.util.stream.Collectors;
 
 public class MetadataFromBibtex extends MetadataSourceHandler {
@@ -11,6 +12,7 @@ public class MetadataFromBibtex extends MetadataSourceHandler {
     boolean hasFailed = false;
     boolean doneParsing = false;
     List<Metadata> partialMetadata = new ArrayList<>();
+    private static Logger LOG = Logger.getLogger(MetadataFromBibtex.class.getName());
 
     public MetadataFromBibtex(String bibtex){
         this.bibtex = bibtex;
@@ -58,7 +60,7 @@ public class MetadataFromBibtex extends MetadataSourceHandler {
                 md.journalTitle = entry.getField(BibTeXEntry.KEY_JOURNAL).toUserString();
             if (entry.getField(BibTeXEntry.KEY_YEAR) != null)
                 md.year = Integer.parseInt(entry.getField(BibTeXEntry.KEY_YEAR).toUserString());
-            System.err.println("Created "+md);
+            LOG.info("Created "+md);
             this.partialMetadata.add(md);
         }
         this.doneParsing = true;
