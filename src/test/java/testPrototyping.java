@@ -53,10 +53,11 @@ public class testPrototyping {
     }
 
     @Test
-    public void testPageHandlerWithSingleInitialURL() throws MalformedURLException {
-        MetadataFromHTML mfh = new MetadataFromHTML(new URL("http://lrec-conf.org/workshops/lrec2018/W29/summaries/4_W29.html"), new FileHandler());
+    public void testPageHandlerWithSingleInitialURL() throws IOException {
+        MetadataFromPDF mfp = new MetadataFromPDF(new URL("http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf"), true);
         List<MetadataSourceHandler> list = new ArrayList<>();
-        list.add(mfh);
+        list.addAll(MetadataFromHTML.spawnHandlersWithInitialPageAndSelector(new URL("http://lrec-conf.org/workshops/lrec2018/W29/papers.html"), ".paper_papers > a", new FileHandler()));
+        list.add(mfp);
         PageHandler ph = new PageHandler(list);
         ph.run();
     }
