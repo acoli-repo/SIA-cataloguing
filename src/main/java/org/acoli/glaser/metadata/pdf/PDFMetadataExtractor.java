@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
 public class PDFMetadataExtractor {
@@ -23,6 +24,7 @@ public class PDFMetadataExtractor {
 	int titleFont = -1;
 	int pageHeight = -1;
 	int pageFont = -1;
+	private static Logger LOG = Logger.getLogger(PDFMetadataExtractor.class.getName());
 	XPath xPath;
 
 	public PDFMetadataExtractor() {
@@ -39,7 +41,7 @@ public class PDFMetadataExtractor {
 			conditions.add("@height="+this.titleHeight);
 		xPathForTitle += String.join(" and ", conditions);
 		xPathForTitle += "]/text()";
-		System.err.println("Constructed XPath: "+xPathForTitle);
+		LOG.finer("Constructed XPath: "+xPathForTitle);
 		return xPathForTitle;
 
 	}
@@ -47,12 +49,12 @@ public class PDFMetadataExtractor {
 		int numberOfFirstPage = findFirstPage(document);
 		String xPathForTitle = buildTitleQuery(numberOfFirstPage);
 		NodeList nodeList = (NodeList) xPath.compile(xPathForTitle).evaluate(document, XPathConstants.NODESET);
-		System.err.println(nodeList.getLength()+" Results for xPath: "+xPathForTitle);
+		LOG.fine(nodeList.getLength()+" Results for xPath: "+xPathForTitle);
 		if (nodeList.getLength() == 1) {
 			xPathForTitle = xPathForTitle.replaceFirst("/text\\(\\)$", "");
 		}
 		nodeList = (NodeList) xPath.compile(xPathForTitle).evaluate(document, XPathConstants.NODESET);
-		System.err.println(nodeList.getLength()+" Results for xPath: "+xPathForTitle);
+		LOG.fine(nodeList.getLength()+" Results for xPath: "+xPathForTitle);
 		StringBuilder title = new StringBuilder();
 		for (int i = 0; i < nodeList.getLength(); i++)
 			title.append(nodeList.item(i).getTextContent());
@@ -83,21 +85,22 @@ public class PDFMetadataExtractor {
 		try {
 			abstractPosition = (double) xPath.compile(xPathForAbstractPosition).evaluate(document, XPathConstants.NUMBER);
 			if (abstractPosition == 1.0) {
-				System.out.println("Didnt find..");
-				System.err.println(xPath.compile(stupidXPathForAbstractPosition).evaluate(document));
+				LOG.fine("Didnt find..");
+				LOG.fine(xPath.compile(stupidXPathForAbstractPosition).evaluate(document));
 				abstractPosition = (double) xPath.compile(stupidXPathForAbstractPosition).evaluate(document, XPathConstants.NUMBER);
 			}
 		} catch (XPathExpressionException e) {
 			e.printStackTrace();
 		}
-		System.err.println("Found abstract position "+abstractPosition);
+		// TODO: Misleading output
+		LOG.info("Found abstract position "+abstractPosition);
 		return abstractPosition;
 	}
 	static Integer findFirstPage(Document document) throws XPathExpressionException {
 		XPath xPath = XPathFactory.newInstance().newXPath();
 		String xPathForFirstPageNumber = "(pdf2xml/page/@number[not(. > pdf2xml/page/@number)])[1]";
 		Double result = (double) xPath.compile(xPathForFirstPageNumber).evaluate(document, XPathConstants.NUMBER);
-		System.err.println("Found first page: "+result);
+		LOG.info("Found first page: "+result);
 		return result.intValue();
 	}
 	static void evaluateTestPath(Document document) {
@@ -115,7 +118,7 @@ public class PDFMetadataExtractor {
 //				+ "< count(pdf2xml/page[@number=1]/text[text() = 'Abstract']/preceding-sibling::text)+1]";
 //        double authorNodes = (double) xPath.compile(xPathForAuthors).evaluate(document, XPathConstants.NUMBER);
 		NodeList result = (NodeList) xPath.compile(xPathForAuthors).evaluate(document, XPathConstants.NODESET);
-		System.err.println("Found "+result.getLength()+" candidates for author.");
+		LOG.info("Found "+result.getLength()+" candidates for author.");
 		return result;
 	}
 	String buildAuthorQuery(int numberOfFirstPage, int indexOfAbstract) {
@@ -125,7 +128,7 @@ public class PDFMetadataExtractor {
 		if (this.authorHeight >= 0)
 			xPathForAuthors += " and @height=" + this.authorHeight;
 		xPathForAuthors += "]/text()"; // TODO: maybe without text?
-		System.err.println("Constructed XPath: " + xPathForAuthors);
+		LOG.finer("Constructed XPath: " + xPathForAuthors);
 		return xPathForAuthors;
 	}
 
@@ -142,7 +145,7 @@ public class PDFMetadataExtractor {
 		NodeList nodeList = (NodeList) xPath.compile(xPathForAuthors).evaluate(document, XPathConstants.NODESET);
 		List<String> authors = new ArrayList<>();
 		for (int i = 0; i < nodeList.getLength(); i++) {
-			System.err.println(nodeList.item(i));
+			LOG.fine(nodeList.item(i).toString());
 			String candidate = nodeList.item(i).getTextContent();
 			if (candidate.contains(" ")) {
 				candidate = candidate.replace(",$", "")
@@ -167,7 +170,7 @@ public class PDFMetadataExtractor {
 			conditions.add("@height=" + this.authorHeight);
 		xPathForPages += String.join(" and ", conditions);
 		xPathForPages += "]";
-		System.err.println("Constructed XPath: " + xPathForPages);
+		LOG.finer("Constructed XPath: " + xPathForPages);
 		return xPathForPages;
 
 	}
@@ -183,7 +186,7 @@ public class PDFMetadataExtractor {
 				pageNumbers.add(Integer.parseInt(pageNumbersNodeList.item(i).getTextContent()));
 			}
 		}
-		System.err.println("Found "+pageNumbersNodeList.getLength()+" candidates for pageNumbers.");
+		LOG.info("Found "+pageNumbersNodeList.getLength()+" candidates for pageNumbers.");
 		return pageNumbers;
 	}
 	List<Integer> getPageNumbers(Document document) throws XPathExpressionException {
@@ -197,7 +200,7 @@ public class PDFMetadataExtractor {
 		Metadata md = new Metadata();
 		try {
 			String title = getTitle(paper);
-			System.err.println("Title: "+title);
+			LOG.info("Title: "+title);
 			md.title = title;
 			List<String> authorList = getAuthors(paper);
 			md.authors = authorList;

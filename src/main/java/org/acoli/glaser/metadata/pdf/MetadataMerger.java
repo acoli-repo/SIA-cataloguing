@@ -3,9 +3,11 @@ package org.acoli.glaser.metadata.pdf;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
+import java.util.logging.Logger;
 
 public class MetadataMerger {
 
+    private static Logger LOG = Logger.getLogger(Metadata.class.getName());
 
     static public String mergeString(String a, String b){
         if (a != "" && b == ""){
@@ -18,7 +20,7 @@ public class MetadataMerger {
             return a;
         }
         if (a!= "" && b != "") {
-            System.err.println("CONFLICTING ENTRIES");
+            LOG.warning("Conflicting entries a: "+a+", b:"+b);
             return a+b;
         }
         return "";
@@ -31,7 +33,7 @@ public class MetadataMerger {
         if (a == b)
             return b;
         if (a >= 0 && b>0 && a!=b) {
-            System.err.println("CONFLICTING ENTRIES");
+            LOG.warning("Conflicting entries a: "+a+", b:"+b);
             return -1;
         }
         return -1;

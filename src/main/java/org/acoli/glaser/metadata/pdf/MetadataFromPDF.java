@@ -12,6 +12,7 @@ import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Logger;
 
 
 /** support for XML-enhanced TSV formats as used by SketchEngine, CWB and the TreeTagger chunker <br/>
@@ -21,6 +22,7 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     private boolean downloadFailed = false;
     private boolean transformationFailed = false;
     private boolean finished = false;
+    private static Logger LOG = Logger.getLogger(MetadataFromPDF.class.getName());
     private boolean split = false;
     List<Metadata> mds = new ArrayList<>();
 
@@ -35,23 +37,24 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         // TODO: make this recursive
         List<File> files = new ArrayList<>();
         if (!directory.isDirectory()) {
-            System.err.println("Not a directory!");
+            LOG.warning("Not a directory!");
         }
         if (directory.isDirectory()) {
             for (File file : directory.listFiles()) {
                 if (file.getName().toLowerCase().endsWith(".pdf")) {
-                    System.err.println("Detected pdf: "+file.getPath());
+                    LOG.info("Detected pdf: "+file.getPath());
                     files.add(file);
                 }
             }
         }
-        System.err.println("Found "+files.size()+" pdf files.");
+        LOG.info("Found "+files.size()+" pdf files.");
         return files;
     }
 
+    @Deprecated
     public Metadata extractMetadata() {
         File pdf = null;
-        System.err.println("NOT IMPLEMENTED YET");
+        LOG.warning("NOT IMPLEMENTED YET");
         Document parsedDocument = this.transformPDFIntoDocumentAndRemoveDTD(pdf);
         return getMetadataFromPDFAsXML(parsedDocument);
     }

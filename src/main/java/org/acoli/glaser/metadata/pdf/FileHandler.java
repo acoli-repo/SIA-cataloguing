@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.file.Paths;
+import java.util.logging.Logger;
 
 /**
  * Handles concerns about file handling like downloading, saving, returning them.
@@ -15,14 +16,16 @@ import java.nio.file.Paths;
 public class FileHandler {
     File rootDir;
 
+    private static Logger LOG = Logger.getLogger(FileHandler.class.getName());
+
     public FileHandler() {
         rootDir = new File("tempDir");
-        System.err.println("Initialized FileHandler at "+rootDir.getAbsolutePath());
+        LOG.info("Initialized FileHandler at "+rootDir.getAbsolutePath());
     }
 
     public File downloadFileToTemp(URL url) throws IOException {
         File targetFile = Paths.get(rootDir.getAbsolutePath(),String.valueOf(url.hashCode())).toFile();
-        System.err.println("Saving "+url+" to "+targetFile.getAbsolutePath()+"..");
+        LOG.info("Saving "+url+" to "+targetFile.getAbsolutePath()+"..");
         FileUtils.copyURLToFile(url, targetFile);
         return targetFile;
     }
