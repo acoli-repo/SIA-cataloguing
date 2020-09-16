@@ -15,8 +15,10 @@ import java.util.List;
 import java.util.logging.Logger;
 
 
-/** support for XML-enhanced TSV formats as used by SketchEngine, CWB and the TreeTagger chunker <br/>
- *      captures SGML/XML markup only, process TSV content via CoNLL2RDF */
+/**
+ * Contains logic that extracts Metadata objects from PDFs. Will often use XML as an intermediate format, as it is more
+ * easier parsable. See PDF2XML for that.
+ */
 public class MetadataFromPDF extends MetadataSourceHandler {
 
     private boolean downloadFailed = false;
@@ -26,6 +28,10 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     private boolean split = false;
     List<Metadata> mds = new ArrayList<>();
 
+    /**
+     * @param urlToPDF the URL that points to the PDF.
+     * @param split previously indicate if the PDF contains one or more sources of metadata (e.g.) a proceedings collection
+     */
     public MetadataFromPDF(URL urlToPDF, boolean split) {
         this.source = urlToPDF;
         this.split = split;
@@ -33,6 +39,11 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     public MetadataFromPDF(URL urlToPDF) {
         this.source = urlToPDF;
     }
+
+    /**
+     * Loads all pdf files from a local folder. May still be used for testing purposes.
+     */
+    @Deprecated
     static List<File> collectPDFsInDir(File directory) {
         // TODO: make this recursive
         List<File> files = new ArrayList<>();
@@ -59,6 +70,11 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         return getMetadataFromPDFAsXML(parsedDocument);
     }
 
+    /**
+     * Connects to a basic FileHandler, downloads the file and returns it if successful.
+     * @param url
+     * @return
+     */
     File downloadURL(URL url) {
         FileHandler fh = new FileHandler();
         try {
@@ -81,6 +97,13 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         }
         return xml;
     }
+
+    /**
+     * Wrapper function around transformPDFIntoDocumentAndRemoveDTDReturnsFile that will also
+     * create a DOM from the resulting XML.
+     * @param pdf
+     * @return
+     */
     Document transformPDFIntoDocumentAndRemoveDTD(File pdf) {
         try {
             File xml = transformPDFIntoDocumentAndRemoveDTDReturnsFile(pdf);
@@ -156,6 +179,11 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         return extractor.getMetadata(paper);
     }
 
+    /**
+     * Connects to a new Splitter and sends the (xml-)file for splitting.
+     * @param paperAsXML
+     * @return
+     */
     public List<Document> splitPages(File paperAsXML) {
         try {
             Splitter splitter = new Splitter();

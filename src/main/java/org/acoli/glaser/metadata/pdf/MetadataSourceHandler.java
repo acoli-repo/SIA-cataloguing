@@ -8,7 +8,7 @@ import java.util.List;
  * A MetadataSourceHandler should define how to extract metadata from a given type of source.
  * As an example, if the spider returns a html as candidate for containing relevant metadata,
  * we pass it on to a MetadataSourceHandler that is concerned with handling pdfs.
- * TODO: Maybe think about changing this to an interface? Only reason its abstract class is the failed thing.
+ * TODO: Maybe think about changing this to an interface? Only reason its abstract class is the failed thing and the source attribute
  */
 abstract public class MetadataSourceHandler {
     URL source;

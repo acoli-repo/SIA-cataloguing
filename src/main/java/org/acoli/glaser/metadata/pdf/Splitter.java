@@ -21,6 +21,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
 
+/**
+ * Splits a XML Document (from PDF) into distinct pages. Currently we use only the occurrence of the word "Abstract" in a single
+ * field as a hint. This won't miss recognize a page with the word Abstract in a sentence but would probably fail if the word
+ * is highlighted e.g. only word in italics in a sentence.
+ */
 public class Splitter {
 
     XMLInputFactory xif;

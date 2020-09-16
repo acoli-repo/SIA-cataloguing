@@ -3,6 +3,9 @@ package org.acoli.glaser.metadata.pdf;
 
 import java.util.List;
 
+/**
+ * Writes Metadata objects to a ttl rendering, prototype
+ */
 public class Metadata2TTL {
 
 	public String metadataToTTL(Metadata md) {

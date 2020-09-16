@@ -5,6 +5,10 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.logging.Logger;
 
+/**
+ * Can merge multiple Metadata objects. Currently merges ONLY on equal title. Probably more sophisticated stuff should
+ * be added.
+ */
 public class MetadataMerger {
 
     private static Logger LOG = Logger.getLogger(Metadata.class.getName());

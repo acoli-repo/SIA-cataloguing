@@ -32,6 +32,11 @@ public class MetadataFromHTML extends MetadataSourceHandler {
     }
 
 
+    /**
+     * Collects and parses the webpage in Jsoup
+     * Can be used to avoid spamming the endpoint.
+     * @return false if something went wrong during collection.
+     */
     private boolean getHTMLAndTellMeIfYouWereSuccessful() {
         if (pokedTheServerAlready)
             return page != null;
@@ -81,7 +86,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
         System.err.println("Trying to find a pdf on page "+this.source+" ..");
         if (this.getHTMLAndTellMeIfYouWereSuccessful()) {
             for (URL hrefToPDF : PageSpider.findHrefsByCSSQuery(page, "table.main_summaries a[href$=\".pdf\"]")) {
-                pdfUrls.add(hrefToPDF.toString()); // TODO: fix this back-and-forth
+                pdfUrls.add(hrefToPDF.toString()); // TODO: fix this back-and-forth between type URL and String
             }
         }
         checkedForPDFs = true;

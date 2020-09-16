@@ -15,6 +15,9 @@ import java.util.List;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
+/**
+ * Contains everything concerned with extracting fields from the XML Document. Uses XPaths for this.
+ */
 public class PDFMetadataExtractor {
 
 	// TODO: Make these into lists. e.g. LREC 2018 needs +1 title heigth
@@ -60,19 +63,14 @@ public class PDFMetadataExtractor {
 			title.append(nodeList.item(i).getTextContent());
 		return String.join(" ", title);
 	}
-//	@Deprecated
-//	static String getTitle(Document document) throws XPathExpressionException {
-//		// TODO: Fix missing spaces between line breaks
-//		XPath xPath = XPathFactory.newInstance().newXPath();
-//		Integer numberOfFirstPage = findFirstPage(document);
-//		for (Integer fontID : new ArrayList<>(Arrays.asList(0, 21))) {
-//			StringBuilder title = getTitleCandidatesWithFontID(document, numberOfFirstPage, fontID);
-//			if (title.length() > 0)
-//				return String.join(" ", title);
-//		}
-//		return "";
-//	}
 
+	/**
+	 * We often use the position of the abstract to figure out if something is a title / author annotation and not
+	 * a heading etc. This function finds the position of a node that says "Abstract"
+	 * @param document
+	 * @return
+	 * @throws XPathExpressionException
+	 */
 	static double findPositionOfAbstract(Document document) throws XPathExpressionException {
 //		<text top="293" left="416" width="56" height="13" font="3">Abstract</text>
 		XPath xPath = XPathFactory.newInstance().newXPath();
@@ -103,24 +101,7 @@ public class PDFMetadataExtractor {
 		LOG.info("Found first page: "+result);
 		return result.intValue();
 	}
-	static void evaluateTestPath(Document document) {
-		XPath xPath = XPathFactory.newInstance().newXPath();
 
-	}
-	static NodeList getAuthorCandidatesWithHeight(Document document, int height) throws XPathExpressionException {
-		XPath xPath = XPathFactory.newInstance().newXPath();
-		double firstPage = findFirstPage(document);
-		double indexOfAbstract = findPositionOfAbstract(document);
-		String xPathForAuthors = "pdf2xml/page[@number="+firstPage+"]/text[@height='"+height+"' and position() < "+indexOfAbstract+"]"; // we want everything BEFORE the Abstract starts
-				// so we check the position, note that the order is in reverse, thus > and not <.
-//				+ " < 18.0]";
-//		String xPathForAuthors = "pdf2xml/page[@number=1]/text[@height=16 and position()<7]";
-//				+ "< count(pdf2xml/page[@number=1]/text[text() = 'Abstract']/preceding-sibling::text)+1]";
-//        double authorNodes = (double) xPath.compile(xPathForAuthors).evaluate(document, XPathConstants.NUMBER);
-		NodeList result = (NodeList) xPath.compile(xPathForAuthors).evaluate(document, XPathConstants.NODESET);
-		LOG.info("Found "+result.getLength()+" candidates for author.");
-		return result;
-	}
 	String buildAuthorQuery(int numberOfFirstPage, int indexOfAbstract) {
 		String xPathForAuthors = "pdf2xml/page[@number = " + numberOfFirstPage + "]/text[position() < " + indexOfAbstract;
 		if (this.authorFont >= 0)
@@ -160,20 +141,6 @@ public class PDFMetadataExtractor {
 		return authors;
 	}
 
-	// TODO THIS IS NOT BUILDING A PAGE QUERY
-	String buildPageQuery() {
-		String xPathForPages = "//page/text[";
-		List<String> conditions = new ArrayList<>();
-		if (this.authorFont >= 0)
-			conditions.add("@font=" + this.authorFont);
-		if (this.authorHeight >= 0)
-			conditions.add("@height=" + this.authorHeight);
-		xPathForPages += String.join(" and ", conditions);
-		xPathForPages += "]";
-		LOG.finer("Constructed XPath: " + xPathForPages);
-		return xPathForPages;
-
-	}
 
 	static List<Integer> getPageNumberCandidatesWithHeight(Document document, int height) throws XPathExpressionException {
 		XPath xPath = XPathFactory.newInstance().newXPath();
@@ -210,9 +177,5 @@ public class PDFMetadataExtractor {
 			e.printStackTrace();
 		}
 		return md;
-	}
-
-	Metadata extract(Document paper) {
-		return null;
 	}
 }

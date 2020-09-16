@@ -6,6 +6,10 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
 
+/**
+ * Container class for functions that transform .pdf files to .xml files. Basically a wrapper around poppler/pdf2html.
+ * Also contains helper functions that deal with useless DTD annotations in the resulting xml files.
+ */
 public class PDF2XML {
 
 	File tmpDir;
@@ -22,7 +26,7 @@ public class PDF2XML {
 		this.tmpDir = tmpDir;
 	}
 
-
+	@Deprecated
 	private boolean deleteTempFolder() {
 		return this.tmpDir.delete();
 	}

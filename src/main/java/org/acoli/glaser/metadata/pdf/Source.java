@@ -4,6 +4,7 @@ package org.acoli.glaser.metadata.pdf;
 /**
  * Defines a single source of data
  */
+@Deprecated
 public class Source {
     public String name;
     public String urlAsString;
