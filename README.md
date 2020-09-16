@@ -38,7 +38,9 @@ as they may be multiple papers with the same title (e.g. "introduction"), but we
 
 ## Parameterizing PDF extraction
 Challenge: Different publications typeset their metadata differently, e.g. different fonts in the title.
+
 Solution: The PDFMetadataExtractor class is configurable on font height and font type which sufficed until now.
+
 How to get this information: Get one of the publications pdf and perform the following command (requires poppler):
 `pdftohtml <PDF_FILE> -xml -i -c -q -s <OUTPUT>`
 Open the output xml and search for the attribute values. 
