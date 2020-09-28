@@ -19,7 +19,8 @@ public class testSourceHandlers {
     @Test
     public void testMetadataFromPDFWithSplit() throws MalformedURLException {
         // Workshop proceedings with 13 papers
-        MetadataFromPDF mfp = new MetadataFromPDF(new URL("http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf"), true);
+        MetadataFromPDF mfp = new MetadataFromPDF(new URL("http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf"), true, PDFExtractionConfiguration.emptyConfig());
+
         mfp.run();
         Metadata2TTL m2t = new Metadata2TTL();
 

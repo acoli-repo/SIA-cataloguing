@@ -8,12 +8,13 @@ package org.acoli.glaser.metadata.pdf;
 public class Source {
     public String name;
     public String urlAsString;
-    public boolean pdfContainMultiple;
+    public SourceDescriptions sds;
 
+
+    @Deprecated
     public Source(String name, String urlAsString, boolean pdfContainMultiple) {
         this.name = name;
         this.urlAsString = urlAsString;
-        this.pdfContainMultiple = pdfContainMultiple;
     }
 
 

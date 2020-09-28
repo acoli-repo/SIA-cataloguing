@@ -21,27 +21,27 @@ import java.util.regex.Pattern;
 public class PDFMetadataExtractor {
 
 	// TODO: Make these into lists. e.g. LREC 2018 needs +1 title heigth
-	int authorHeight = -1;
-	int authorFont = -1;
-	int titleHeight = -1;
-	int titleFont = -1;
-	int pageHeight = -1;
-	int pageFont = -1;
 	private static Logger LOG = Logger.getLogger(PDFMetadataExtractor.class.getName());
 	XPath xPath;
+	PDFExtractionConfiguration config;
 
+	@Deprecated
 	public PDFMetadataExtractor() {
 		this.xPath = XPathFactory.newInstance().newXPath();
+		this.config = PDFExtractionConfiguration.emptyConfig();
 	}
-
+	public PDFMetadataExtractor(PDFExtractionConfiguration config){
+		this.xPath = XPathFactory.newInstance().newXPath();
+		this.config = config;
+	}
 
 	String buildTitleQuery(int numberOfFirstPage) {
 		String xPathForTitle = "pdf2xml/page[@number = "+numberOfFirstPage+"]/text[";
 		List<String> conditions = new ArrayList<>();
-		if (this.titleFont >= 0)
-			conditions.add("@font="+this.titleFont);
-		if (this.titleHeight >= 0)
-			conditions.add("@height="+this.titleHeight);
+		if (config.titleFont >= 0)
+			conditions.add("@font="+config.titleFont);
+		if (config.titleHeight >= 0)
+			conditions.add("@height="+config.titleHeight);
 		xPathForTitle += String.join(" and ", conditions);
 		xPathForTitle += "]/text()";
 		LOG.finer("Constructed XPath: "+xPathForTitle);
@@ -104,10 +104,10 @@ public class PDFMetadataExtractor {
 
 	String buildAuthorQuery(int numberOfFirstPage, int indexOfAbstract) {
 		String xPathForAuthors = "pdf2xml/page[@number = " + numberOfFirstPage + "]/text[position() < " + indexOfAbstract;
-		if (this.authorFont >= 0)
-			xPathForAuthors += " and @font=" + this.authorFont;
-		if (this.authorHeight >= 0)
-			xPathForAuthors += " and @height=" + this.authorHeight;
+		if (config.authorFont >= 0)
+			xPathForAuthors += " and @font=" + config.authorFont;
+		if (config.authorHeight >= 0)
+			xPathForAuthors += " and @height=" + config.authorHeight;
 		xPathForAuthors += "]/text()"; // TODO: maybe without text?
 		LOG.finer("Constructed XPath: " + xPathForAuthors);
 		return xPathForAuthors;
@@ -157,7 +157,7 @@ public class PDFMetadataExtractor {
 		return pageNumbers;
 	}
 	List<Integer> getPageNumbers(Document document) throws XPathExpressionException {
-		List<Integer> pageNumbers = getPageNumberCandidatesWithHeight(document, this.pageHeight);
+		List<Integer> pageNumbers = getPageNumberCandidatesWithHeight(document, config.pageHeight);
 
 		Collections.sort(pageNumbers);
 		return pageNumbers;

@@ -27,6 +27,7 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     private static Logger LOG = Logger.getLogger(MetadataFromPDF.class.getName());
     private boolean split = false;
     List<Metadata> mds = new ArrayList<>();
+    private PDFExtractionConfiguration extractionConfig;
 
     /**
      * @param urlToPDF the URL that points to the PDF.
@@ -38,6 +39,11 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     }
     public MetadataFromPDF(URL urlToPDF) {
         this.source = urlToPDF;
+    }
+    public MetadataFromPDF(URL urlToPDF, boolean split, PDFExtractionConfiguration config) {
+        this.source = urlToPDF;
+        this.split = split;
+        this.extractionConfig = config;
     }
 
     /**
@@ -152,7 +158,8 @@ public class MetadataFromPDF extends MetadataSourceHandler {
 //			papers.remove(0);
 			for (Document paper : papers) {
 			    Splitter.printDocument(paper, System.out);
-                Metadata md = getMetadataFromPDFAsXML(paper);
+			    MetadataFromPDF mfp = new MetadataFromPDF(null);
+                Metadata md = mfp.getMetadataFromPDFAsXML(paper);
                 md.fileName = pdf.getName(); // TODO: Make this more sophisticated like in zotero
 
 				if (!MetadataValidator.isFullyPopulated(md)) {
@@ -168,14 +175,8 @@ public class MetadataFromPDF extends MetadataSourceHandler {
 
     }
 
-    private static Metadata getMetadataFromPDFAsXML(Document paper) {
-        PDFMetadataExtractor extractor = new PDFMetadataExtractor();
-        // TODO: Parameterize below somewhere
-        extractor.titleFont = 9;
-        extractor.titleHeight = 25;
-        extractor.pageHeight = 15;
-        extractor.authorFont = 7;
-        extractor.authorHeight = 21;
+    private Metadata getMetadataFromPDFAsXML(Document paper) {
+        PDFMetadataExtractor extractor = new PDFMetadataExtractor(this.extractionConfig);
         return extractor.getMetadata(paper);
     }
 
