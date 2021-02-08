@@ -3,7 +3,7 @@ package org.acoli.glaser.metadata.pdf;
 public class PDFExtractionConfiguration {
     int authorHeight = -1;
 
-    private PDFExtractionConfiguration(){
+    public PDFExtractionConfiguration(){
 
     }
     public static PDFExtractionConfiguration emptyConfig() {
@@ -38,5 +38,30 @@ public class PDFExtractionConfiguration {
     int titleHeight = -1;
     int titleFont = -1;
     int pageHeight = -1;
+
+    public void setAuthorHeight(int authorHeight) {
+        this.authorHeight = authorHeight;
+    }
+
+    public void setAuthorFont(int authorFont) {
+        this.authorFont = authorFont;
+    }
+
+    public void setTitleHeight(int titleHeight) {
+        this.titleHeight = titleHeight;
+    }
+
+    public void setTitleFont(int titleFont) {
+        this.titleFont = titleFont;
+    }
+
+    public void setPageHeight(int pageHeight) {
+        this.pageHeight = pageHeight;
+    }
+
+    public void setPageFont(int pageFont) {
+        this.pageFont = pageFont;
+    }
+
     int pageFont = -1;
 }

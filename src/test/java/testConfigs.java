@@ -21,7 +21,7 @@ public class testConfigs {
         SourceDescriptions htmlSource = sds.get(0);
         Assert.assertEquals(SourceTypes.html, htmlSource.getType());
         Assert.assertEquals("http://lrec-conf.org/workshops/lrec2018/W29/papers.html", htmlSource.getUrl().toString());
-        Assert.assertNull(htmlSource.getExtractorConfig());
+        Assert.assertNotNull(htmlSource.getExtractorConfig());
     }
     @Test
     public void testPDFSource() throws IOException {

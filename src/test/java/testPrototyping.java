@@ -2,6 +2,7 @@ import org.acoli.glaser.metadata.pdf.*;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 import java.io.*;
 import java.net.MalformedURLException;
@@ -10,18 +11,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class testPrototyping {
+    String resourcesDir;
 
-    //@Test
-    public void readUrlSeed() throws IOException {
-        BufferedReader in = new BufferedReader(new FileReader(new File("urlseed.csv")));
-        for(String line = in.readLine(); line!=null; line=in.readLine()) {
-            System.err.println(line);
-            Source s = Source.sourceFromCSVRow(line);
-            if (s.urlAsString.startsWith("http")) {
-                System.err.println("Downloading "+s+"..");
-                }
-            }
-        }
+    @Before
+    public void setUp() {
+        resourcesDir = System.getProperty("user.dir")+"/src/test/resources/";
+    }
 
     @Test
     public void testExtractingLinksFromBasePageBasedOnCSSQuery() throws IOException {
@@ -30,13 +25,6 @@ public class testPrototyping {
         List<URL> hrefs = new PageSpider().findHrefsByCSSQuery(doc, ".paper_papers > a");
         Assert.assertEquals(hrefs.size(), 12);
 
-    }
-    @Test
-    public void testMetadataFromHTMLWithSingleLink() throws MalformedURLException {
-        String testURL = "http://lrec-conf.org/workshops/lrec2018/W29/summaries/6_W29.html";
-        MetadataFromHTML mfh = new MetadataFromHTML(new URL(testURL), new FileHandler());
-        mfh.run();
-        mfh.findPDFofPublicationAndDownload();
     }
     @Test
     public void testParlaCLARIN() throws IOException {
@@ -64,11 +52,12 @@ public class testPrototyping {
 
     @Test
     public void testRemovingDTD() throws IOException {
-        PDF2XML pdf2XML = new PDF2XML("tempDir");
-        File pdf = pdf2XML.pdfToXml(new File("tempDir/1848720702.xml"));
-        Assert.assertTrue(pdf2XML.hasDoctypeAnnotation(pdf));
-        pdf2XML.removeDtdFromFile(pdf);
-        Assert.assertFalse(pdf2XML.hasDoctypeAnnotation(pdf));
+        PDF2XML pdf2XML = new PDF2XML(resourcesDir+"tmpDir/");
+        File pdf = new File(resourcesDir+"testPaper.pdf");
+        File xml = pdf2XML.pdfToXml(pdf);
+        Assert.assertTrue(pdf2XML.hasDoctypeAnnotation(xml));
+        pdf2XML.removeDtdFromFile(xml);
+        Assert.assertFalse(pdf2XML.hasDoctypeAnnotation(xml));
         }
 
 }

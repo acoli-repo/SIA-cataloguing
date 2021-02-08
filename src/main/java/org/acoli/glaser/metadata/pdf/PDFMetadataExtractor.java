@@ -31,8 +31,20 @@ public class PDFMetadataExtractor {
 		this.config = PDFExtractionConfiguration.emptyConfig();
 	}
 	public PDFMetadataExtractor(PDFExtractionConfiguration config){
+		if (config == null) {
+			throw new RuntimeException("Configuration has to be set.");
+		}
+		if (!validate(config)) {
+			throw new RuntimeException("Configuration "+config+" is invalid!");
+		}
 		this.xPath = XPathFactory.newInstance().newXPath();
+
 		this.config = config;
+
+	}
+
+	boolean validate(PDFExtractionConfiguration config) {
+		return (config.authorFont >= 0 || config.authorHeight >= 0)  && (config.titleFont >= 0 || config.titleHeight >= 0);
 	}
 
 	String buildTitleQuery(int numberOfFirstPage) {

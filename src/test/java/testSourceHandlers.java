@@ -1,12 +1,20 @@
 
 import org.acoli.glaser.metadata.pdf.*;
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.net.MalformedURLException;
 import java.net.URL;
 
 public class testSourceHandlers {
+    String resourcesDir;
+
+    @Before
+    public void setUp() {
+        resourcesDir = System.getProperty("user.dir")+"/src/test/resources/";
+    }
+
 
 
     public void testIfHandlerAdheresToBusinessLogic(MetadataSourceHandler msh) {
@@ -25,10 +33,23 @@ public class testSourceHandlers {
         Metadata2TTL m2t = new Metadata2TTL();
 
         Assert.assertEquals(mfp.getMetadata().size(), 13);
-        for (Metadata md : mfp.getMetadata()) {
-            System.err.println(m2t.metadataToTTL(md));
-        }
 
+
+    }
+    @Test
+    public void testPDFExtractionWithSourceHandlerWithExtractionConfig() throws MalformedURLException {
+        PDFExtractionConfiguration config = new PDFExtractionConfiguration();
+        config.setAuthorFont(5);
+        config.setAuthorHeight(16);
+        config.setTitleFont(4);
+        config.setTitleHeight(19);
+        config.setPageFont(3);
+        config.setPageHeight(15);
+        MetadataFromPDF mfp = new MetadataFromPDF(new URL("file://"+resourcesDir+"/testPaper.pdf"), false, config);
+        mfp.run();
+        assert mfp.getMetadata().size() == 1;
+        Metadata result = mfp.getMetadata().get(0);
+        System.err.println(result);
     }
     @Test
     public void testMetadataFromHTMLaddingCorrectMetadataFromSourcesToPool() throws MalformedURLException {

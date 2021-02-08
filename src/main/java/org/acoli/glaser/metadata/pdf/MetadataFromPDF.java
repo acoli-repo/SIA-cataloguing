@@ -29,16 +29,13 @@ public class MetadataFromPDF extends MetadataSourceHandler {
     List<Metadata> mds = new ArrayList<>();
     private PDFExtractionConfiguration extractionConfig;
 
-    /**
-     * @param urlToPDF the URL that points to the PDF.
-     * @param split previously indicate if the PDF contains one or more sources of metadata (e.g.) a proceedings collection
-     */
     public MetadataFromPDF(URL urlToPDF, boolean split) {
         this.source = urlToPDF;
         this.split = split;
     }
     public MetadataFromPDF(URL urlToPDF) {
         this.source = urlToPDF;
+        this.extractionConfig = PDFExtractionConfiguration.emptyConfig();
     }
     public MetadataFromPDF(URL urlToPDF, boolean split, PDFExtractionConfiguration config) {
         this.source = urlToPDF;
@@ -48,6 +45,7 @@ public class MetadataFromPDF extends MetadataSourceHandler {
 
     /**
      * Loads all pdf files from a local folder. May still be used for testing purposes.
+     * @TV womöglich kannst du das doch verwenden wenn die Daten jetzt lokal sind?
      */
     @Deprecated
     static List<File> collectPDFsInDir(File directory) {
@@ -66,14 +64,6 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         }
         LOG.info("Found "+files.size()+" pdf files.");
         return files;
-    }
-
-    @Deprecated
-    public Metadata extractMetadata() {
-        File pdf = null;
-        LOG.warning("NOT IMPLEMENTED YET");
-        Document parsedDocument = this.transformPDFIntoDocumentAndRemoveDTD(pdf);
-        return getMetadataFromPDFAsXML(parsedDocument);
     }
 
     /**
@@ -124,60 +114,14 @@ public class MetadataFromPDF extends MetadataSourceHandler {
         }
     }
 
-    @Deprecated
-    public static void main(String[] argv) throws Exception {
-
-        System.err.println("Reading from file "+argv[0]);
-        if (argv[0].contains("DS_Store") || argv[0].contains("test-nodtd.html.xml"))
-            System.exit(0);
-        File file = new File(System.getProperty("user.dir")+"/"+argv[0]);
-        boolean split = false;
-        if (argv.length > 1 && (argv[1].toLowerCase().contains("-s") || argv[1].toLowerCase().contains("--split")))
-            split = true;
-        List<File> pdfs = collectPDFsInDir(file);
-        System.err.println("Split: "+split);
-        PDF2XML pdf2xml = new PDF2XML("tempDir");
-        Metadata2TTL m2t = new Metadata2TTL();
-        for (File pdf : pdfs) {
-
-        	File xml = pdf2xml.pdfToXml(pdf);
-
-        	pdf2xml.removeDtdFromFile(xml);
-
-			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-			DocumentBuilder builder = dbf.newDocumentBuilder();
-
-			List<Document> papers = new ArrayList<>();
-			if (split)
-			    papers = new Splitter().splitIntoDistinctPapers(xml);
-			else {
-                Document document = builder.parse(xml);
-                papers.add(document);
-            }
-            System.err.println("Starting to index "+papers.size()+" papers..");
-//			papers.remove(0);
-			for (Document paper : papers) {
-			    Splitter.printDocument(paper, System.out);
-			    MetadataFromPDF mfp = new MetadataFromPDF(null);
-                Metadata md = mfp.getMetadataFromPDFAsXML(paper);
-                md.fileName = pdf.getName(); // TODO: Make this more sophisticated like in zotero
-
-				if (!MetadataValidator.isFullyPopulated(md)) {
-//					System.out.println("===CHECK===");
-//					System.out.println(md);
-				} else {
-					System.out.println("Correct!");
-					System.out.println(md);
-				}
-				break;
-			}
-		}
-
-    }
-
     private Metadata getMetadataFromPDFAsXML(Document paper) {
-        PDFMetadataExtractor extractor = new PDFMetadataExtractor(this.extractionConfig);
-        return extractor.getMetadata(paper);
+        try {
+            PDFMetadataExtractor extractor = new PDFMetadataExtractor(this.extractionConfig);
+            return extractor.getMetadata(paper);
+        } catch (RuntimeException e) {
+            System.err.println("Creation of PDFMetadataExtractor failed: "+e.getMessage());
+        }
+        return null;
     }
 
     /**
