@@ -1,8 +1,6 @@
 package org.acoli.glaser.metadata.pdf;
 
 
-import java.util.List;
-
 /**
  * Writes Metadata objects to a ttl rendering, prototype
  */

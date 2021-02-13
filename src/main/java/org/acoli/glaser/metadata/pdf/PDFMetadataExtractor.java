@@ -20,7 +20,6 @@ import java.util.regex.Pattern;
  */
 public class PDFMetadataExtractor {
 
-	// TODO: Make these into lists. e.g. LREC 2018 needs +1 title heigth
 	private static Logger LOG = Logger.getLogger(PDFMetadataExtractor.class.getName());
 	XPath xPath;
 	PDFExtractionConfiguration config;
@@ -90,19 +89,18 @@ public class PDFMetadataExtractor {
 		Integer indexOfFirstPage = findFirstPage(document);
 		String xPathForAbstractPosition = "count(pdf2xml/page[@number="+indexOfFirstPage+"]/text[text() = 'Abstract']/preceding-sibling::text)+1";
 		String stupidXPathForAbstractPosition = "count(pdf2xml/page[@number="+indexOfFirstPage+"]/text/b[text() = 'Abstract']/preceding::text)+1";
-		// TODO: sometimes it's <b>Abstract </b> -.-
+		// TODO: sometimes it's <b>Abstract </b>
 		double abstractPosition = 0;
 		try {
 			abstractPosition = (double) xPath.compile(xPathForAbstractPosition).evaluate(document, XPathConstants.NUMBER);
 			if (abstractPosition == 1.0) {
-				LOG.fine("Didnt find..");
+				LOG.fine("Didnt find");
 				LOG.fine(xPath.compile(stupidXPathForAbstractPosition).evaluate(document));
 				abstractPosition = (double) xPath.compile(stupidXPathForAbstractPosition).evaluate(document, XPathConstants.NUMBER);
 			}
 		} catch (XPathExpressionException e) {
 			e.printStackTrace();
 		}
-		// TODO: Misleading output
 		LOG.info("Found abstract position "+abstractPosition);
 		return abstractPosition;
 	}
@@ -120,18 +118,16 @@ public class PDFMetadataExtractor {
 			xPathForAuthors += " and @font=" + config.authorFont;
 		if (config.authorHeight >= 0)
 			xPathForAuthors += " and @height=" + config.authorHeight;
-		xPathForAuthors += "]/text()"; // TODO: maybe without text?
+		xPathForAuthors += "]/text()";
 		LOG.finer("Constructed XPath: " + xPathForAuthors);
 		return xPathForAuthors;
 	}
 
 	/**
-	 * TODO: Make List of Authors
 	 * @param document
 	 * @return
 	 */
 	List<String> getAuthors(Document document) throws XPathExpressionException {
-		// TODO: whats with multiple candidates for a given folder??
 		int numberOfFirstPage = findFirstPage(document);
 		double indexOfAbstract = findPositionOfAbstract(document);
 		String xPathForAuthors = buildAuthorQuery(numberOfFirstPage, (int) indexOfAbstract);
@@ -156,7 +152,7 @@ public class PDFMetadataExtractor {
 
 	static List<Integer> getPageNumberCandidatesWithHeight(Document document, int height) throws XPathExpressionException {
 		XPath xPath = XPathFactory.newInstance().newXPath();
-		String xPathForPageNumbers = "//page/text[@height = "+height+"]"; // TODO: Maybe really check for postion, pdf 107 causes error with footnote
+		String xPathForPageNumbers = "//page/text[@height = "+height+"]";
 		NodeList pageNumbersNodeList = (NodeList) xPath.compile(xPathForPageNumbers).evaluate(document, XPathConstants.NODESET);
 		List<Integer> pageNumbers = new ArrayList<>();
 		for (int i = 0; i < pageNumbersNodeList.getLength(); i++) {

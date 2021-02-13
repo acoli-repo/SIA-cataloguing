@@ -44,7 +44,7 @@ public class MetadataFromBibtex extends MetadataSourceHandler {
         for(BibTeXEntry entry : entries) {
             Metadata md = new Metadata();
             md.title = entry.getField(BibTeXEntry.KEY_TITLE).toUserString();
-            md.authors = splitAuthors(entry.getField(BibTeXEntry.KEY_AUTHOR).toUserString()); // TODO: properly parse this
+            md.authors = splitAuthors(entry.getField(BibTeXEntry.KEY_AUTHOR).toUserString());
             if (entry.getField(BibTeXEntry.KEY_ADDRESS) != null) {
                 md.location = entry.getField(BibTeXEntry.KEY_ADDRESS).toUserString();
             }
@@ -52,7 +52,7 @@ public class MetadataFromBibtex extends MetadataSourceHandler {
                 md.booktitle = entry.getField(BibTeXEntry.KEY_BOOKTITLE).toUserString();
             }
             if (entry.getField(BibTeXEntry.KEY_PAGES) != null){
-                String[] pages = entry.getField(BibTeXEntry.KEY_PAGES).toUserString().split("-"); // TODO: --?
+                String[] pages = entry.getField(BibTeXEntry.KEY_PAGES).toUserString().split("-");
                 md.beginPage = Integer.parseInt(pages[0]);
                 md.endPage = Integer.parseInt(pages[1]); // TODO: Take care of nulls
             }

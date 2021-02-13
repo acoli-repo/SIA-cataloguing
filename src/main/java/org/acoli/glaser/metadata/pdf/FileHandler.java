@@ -47,8 +47,6 @@ public class FileHandler {
         return null;
     }
     /**
-     * TODO: don't misuse exceptions for program logic?
-     * TODO: Refactor this to some Util
      * @param maybeAnURL
      * @return
      */

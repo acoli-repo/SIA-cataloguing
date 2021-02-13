@@ -8,12 +8,10 @@ import org.jsoup.nodes.Document;
 import java.io.*;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.logging.Logger;
 
 /**
- * TODO: Name and reconceptualize this
  * As of now, this is the main entry point that reads configs, parses them, creates a pool of the extractors etc.
  * Probably this should be less monolithic
  */
@@ -22,24 +20,14 @@ public class MainRunner {
     List<Source> sources;
     List<SourceDescriptions> sourceDescriptions;
     FileHandler fh;
-    PageSpider ps; // TODO: does this need to be object var??
+    PageSpider ps;
     private static Logger LOG = Logger.getLogger(MainRunner.class.getName());
     public MainRunner(String pathToSeedCSV) {
-        sources = readURLSeed(pathToSeedCSV);
         fh = new FileHandler();
         ps = new PageSpider();
         sourceDescriptions = readConfigs(pathToSeedCSV).sources;
     }
 
-    @Deprecated
-    BufferedReader openURLSeedFile(String path) {
-        try {
-            return new BufferedReader(new FileReader(new File(path)));
-        } catch (FileNotFoundException e) {
-            LOG.info("Couldn't open URL seed file.");
-        }
-        return null;
-    }
 
     static String readConfigJSONToString(String path) {
         try {
@@ -54,23 +42,6 @@ public class MainRunner {
         String json = readConfigJSONToString(pathToConfigFile);
         Config config = gson.fromJson(json, Config.class);
         return config;
-    }
-
-    @Deprecated
-    List<Source> readURLSeed(String pathToSeedCSV) {
-        List<Source> sourcesList = new ArrayList<>();
-        BufferedReader in = openURLSeedFile(pathToSeedCSV);
-        try {
-            for(String line = in.readLine(); line!=null; line=in.readLine()) {
-                Source s = Source.sourceFromCSVRow(line);
-                if (s.urlAsString.startsWith("http")) {
-                    sourcesList.add(s);
-                }
-            }
-        } catch (IOException e) {
-            System.err.println("Failed reading urlSeed at source "+sourcesList.size());
-        }
-        return sourcesList;
     }
 
     public void run() {

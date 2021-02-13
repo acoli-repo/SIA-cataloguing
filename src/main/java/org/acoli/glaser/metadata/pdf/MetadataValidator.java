@@ -5,6 +5,7 @@ import java.util.*;
 public class MetadataValidator {
 
 	static boolean validate(Metadata md) {
+		// Should probably be a bit cleverer.
 		return true;
 	}
 
@@ -15,19 +16,6 @@ public class MetadataValidator {
 				&& md.authors != null && md.authors.size() > 0;
 	}
 
-	/**
-	 * Will this even make sense?
-	 *
-	 * @param md
-	 * @return
-	 */
-	static Metadata repair(Metadata md) {
-		if (validate(md)) {
-			return md;
-		} else {
-			return null;
-		}
-	}
 
 	/**
 	 * Finds page number gaps for a given set of Metadata. This can be used as a hint for either mistakes in the page
@@ -56,22 +44,4 @@ public class MetadataValidator {
 		return missingPageNumbers;
 	}
 
-	public static void main(String[] argv) throws Exception {
-		Metadata md1 = new Metadata();
-		md1.beginPage = 1;
-		md1.endPage = 3;
-		Metadata md2 = new Metadata();
-		md2.beginPage = 6;
-		md2.endPage = 7;
-		Metadata md3 = new Metadata();
-		md3.beginPage = 8;
-		md3.endPage = 10;
-
-		Set<Metadata> testSet = new HashSet<>();
-		testSet.add(md1);
-		testSet.add(md2);
-		testSet.add(md3);
-
-		System.err.println(findMissingPageNumbers(testSet));
-	}
 }

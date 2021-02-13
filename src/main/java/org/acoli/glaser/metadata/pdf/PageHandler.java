@@ -27,7 +27,7 @@ public class PageHandler {
      * @param handler
      */
     void unwindFinishedAndSuccessfulHandler(MetadataSourceHandler handler) {
-        assert handler.finished(); // Maybe this is bad practice?
+        assert handler.finished();
         LOG.info("Unwinding "+handler+"..");
         if (handler.foundOtherSourcesThatRequireHandling()) {
             List<MetadataSourceHandler> newSources = handler.getHandlersForOtherSources();

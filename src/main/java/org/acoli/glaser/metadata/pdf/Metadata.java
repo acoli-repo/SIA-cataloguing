@@ -45,39 +45,6 @@ public class Metadata {
 		return authors != null;
 	}
 
-	/**
-	 * TODO: Implement this
-	 * @param bibtex
-	 * @return
-	 */
-	@Deprecated
-	public static Metadata metadataFromBibtex(String bibtex) {
-		final Pattern GET_TYPE = Pattern.compile("^@(.*?)\\{");
-		final Pattern GET_TITLE = Pattern.compile("title = \\{(.*?)}");
-		final Pattern GET_AUTHORS = Pattern.compile("author = \\{(.*?)}");
-		String authors = "";
-		String title = "";
-		int beginPage = -1;
-		int endPage = -1;
-		Matcher m = GET_TYPE.matcher(bibtex);
-		if (m.find()) {
-			System.err.println("Found type: "+m.group(1));
-		}
-		m = GET_AUTHORS.matcher(bibtex);
-		if (m.find()) {
-			authors = m.group(1);
-			System.err.println("Found author: "+authors);
-		}
-		m = GET_TITLE.matcher(bibtex);
-		if (m.find()) {
-			title = m.group(1);
-			System.err.println("Found title: "+title);
-		}
-		Metadata md = new Metadata();
-		md.authors = new ArrayList<>(Arrays.asList(authors.split(",|and")));
-		md.title = title;
-		return md;
-	}
 
 	@Override
 	public boolean equals(Object obj) {
