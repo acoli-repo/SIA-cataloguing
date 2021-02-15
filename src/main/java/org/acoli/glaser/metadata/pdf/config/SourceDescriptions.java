@@ -1,6 +1,5 @@
 package org.acoli.glaser.metadata.pdf.config;
 
-import org.acoli.glaser.metadata.pdf.crawl.SourceTypes;
 import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
 
 import java.net.URL;
@@ -14,7 +13,7 @@ public class SourceDescriptions {
         return extractorConfig;
     }
 
-    boolean split;
+    public boolean split;
 
     @Override
     public String toString() {

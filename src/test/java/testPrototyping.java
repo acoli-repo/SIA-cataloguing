@@ -35,11 +35,6 @@ public class testPrototyping {
         Assert.assertEquals(hrefs.size(), 16);
     }
 
-    //@Test
-    public void testRun() {
-        MainRunner mr = new MainRunner("urlseed.csv");
-        mr.run();
-    }
 
     @Test
     public void testPageHandlerWithSingleInitialURL() throws IOException {

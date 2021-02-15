@@ -22,11 +22,6 @@ public class PDFMetadataExtractor {
 	XPath xPath;
 	PDFExtractionConfiguration config;
 
-	@Deprecated
-	public PDFMetadataExtractor() {
-		this.xPath = XPathFactory.newInstance().newXPath();
-		this.config = PDFExtractionConfiguration.emptyConfig();
-	}
 	public PDFMetadataExtractor(PDFExtractionConfiguration config){
 		if (config == null) {
 			throw new RuntimeException("Configuration has to be set.");

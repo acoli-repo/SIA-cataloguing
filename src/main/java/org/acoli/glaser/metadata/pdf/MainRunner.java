@@ -3,6 +3,7 @@ package org.acoli.glaser.metadata.pdf;
 import com.google.gson.Gson;
 import org.acoli.glaser.metadata.pdf.config.Config;
 import org.acoli.glaser.metadata.pdf.config.SourceDescriptions;
+import org.acoli.glaser.metadata.pdf.config.SourceTypes;
 import org.acoli.glaser.metadata.pdf.crawl.*;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;

@@ -42,12 +42,6 @@ public class Splitter {
         this.xef = XMLEventFactory.newFactory();
     }
 
-    void printFirstAndLastElement(List<XMLEvent> xes) {
-        System.err.println("===");
-        System.err.println(xes.get(0));
-        System.err.println(xes.get(xes.size()-1));
-        System.err.println("===");
-    }
 
     public List<List<XMLEvent>> splitIntoPages(File file) throws FileNotFoundException, XMLStreamException {
         List<List<XMLEvent>> pages = new ArrayList<>();
@@ -87,14 +81,12 @@ public class Splitter {
     }
 
     public List<Document> splitIntoDistinctPapers(File file) throws FileNotFoundException, XMLStreamException {
-        // TODO: Add clutter detection maybe?
         LOG.info("Splitting..");
         List<Document> papers = new ArrayList<>();
         int pageCount = 0;
         Reader xml = new FileReader(file);
 
         List<List<XMLEvent>> pages = splitIntoPages(file);
-        // TODO: now run through all pages, remove clutter and set beginning and end of each paper
         List<List<XMLEvent>> buffer = new ArrayList<>();
         for (int i = 0; i < pages.size(); i++) {
             if (isFirstPageOfAPaper(pages.get(i))) {
@@ -119,27 +111,6 @@ public class Splitter {
     }
 
 
-    Document collectPaper(XMLEventReader xer, int from, int to) throws XMLStreamException {
-        Document paper = this.db.newDocument();
-        XMLEventWriter writer = XMLOutputFactory.newInstance().createXMLEventWriter(new DOMResult(paper));
-        boolean collecting = false; // This is true during the page that
-        int currentPageNumber = -1;
-        XMLEventFactory xef = XMLEventFactory.newFactory();
-        writer.add(xef.createStartElement(QName.valueOf("pdf2xml"), null, null));
-//        paper.createElement("pdf2xml");
-        while (xer.hasNext()) {
-            XMLEvent nextEvent = xer.nextEvent();
-            if (nextEvent.isStartElement() && nextEvent.asStartElement().getName().toString().equals("page")) {
-                int pageNumber = Integer.parseInt(nextEvent.asStartElement().getAttributeByName(QName.valueOf("number")).getValue());
-                System.err.println("Found page "+pageNumber);
-                currentPageNumber = pageNumber;
-            }
-            if (currentPageNumber >= from && currentPageNumber <= to) {
-                writer.add(nextEvent);
-            }
-        }
-        return paper;
-    }
     List<XMLEvent> collectPage(XMLEventReader xer) throws XMLStreamException {
         List<XMLEvent> pageBuffer = new ArrayList<>();
         while (xer.hasNext()) {
@@ -175,26 +146,4 @@ public class Splitter {
         return hasAbstract;
     }
 
-    void outputElementNames(List<XMLEvent> xes) {
-        for (XMLEvent xe : xes) {
-            System.err.println(xe.getEventType());
-        }
-    }
-
-    public static void printDocument(Document doc, OutputStream out) {
-        try {
-            TransformerFactory tf = TransformerFactory.newInstance();
-            Transformer transformer = tf.newTransformer();
-            transformer.setOutputProperty(OutputKeys.OMIT_XML_DECLARATION, "no");
-            transformer.setOutputProperty(OutputKeys.METHOD, "xml");
-            transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-            transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
-            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
-
-            transformer.transform(new DOMSource(doc),
-                    new StreamResult(new OutputStreamWriter(out, "UTF-8")));
-        } catch (Exception e) {
-            LOG.warning("Couldn't print");
-        }
-    }
 }

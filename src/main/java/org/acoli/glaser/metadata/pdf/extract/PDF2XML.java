@@ -34,7 +34,6 @@ public class PDF2XML {
 			return nameOfPDF;
 		}
 	}
-
 	/**
 	 * pdftohtml "$SINGLE_PDF" -xml -i no images -c complex docs -q quiet -s into single file, name as arg tmp/"$SINGLE_PDF".html
 	 * @param pdf
