@@ -1,6 +1,8 @@
 package org.acoli.glaser.metadata.pdf;
 
 import com.google.gson.Gson;
+import org.acoli.glaser.metadata.pdf.config.Config;
+import org.acoli.glaser.metadata.pdf.config.SourceDescriptions;
 import org.acoli.glaser.metadata.pdf.crawl.*;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
@@ -61,7 +63,7 @@ public class MainRunner {
                     List<URL> hrefs = ps.findHrefsByCSSQuery(mainPage, ".paper_papers > a");
                     for (URL href : hrefs) {
                         if (href.toString().endsWith("pdf")) {
-                            MetadataFromPDF mfp = new MetadataFromPDF(href, true); // TODO: PARAMETERIZE THIS
+                            MetadataFromPDF mfp = new MetadataFromPDF(href, source.split);
                             initialSources.add(mfp);
                         } else {
                             MetadataFromHTML mfh = new MetadataFromHTML(href, new FileHandler());

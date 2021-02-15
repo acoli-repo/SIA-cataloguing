@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.config;
 
 import org.acoli.glaser.metadata.pdf.crawl.SourceTypes;
 import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
@@ -6,9 +6,9 @@ import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
 import java.net.URL;
 
 public class SourceDescriptions {
-    URL url;
-    SourceTypes type;
-    PDFExtractionConfiguration extractorConfig;
+    public URL url;
+    public SourceTypes type;
+    public PDFExtractionConfiguration extractorConfig;
 
     public PDFExtractionConfiguration getExtractorConfig() {
         return extractorConfig;
