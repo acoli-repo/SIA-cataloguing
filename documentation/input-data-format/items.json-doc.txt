@@ -1,0 +1,60 @@
+
+Der Name eines Input-Ordners, z.B. '047006471' entspricht der PPN (PICA Produktions Nummer), siehe auch
+Dokumentation in data-format-output/
+
+In diesen Ordnern können folgende Dateitypen vorkommen (wobei für Mehrfachvorkommen möglich sind, d.h. dass für
+ein PDF Dokumnent, dass einen einzelnen Artikel enthält sowohl datei.pdf, datei.txt, datei.html bzw. datei.bib
+vorhanden sein können !
+
+- .pdf
+    - Diese können normale PDFs oder eine Sammlung von Scans sein.
+    
+- .txt
+    - Es handelt sich um Abstracts, die aus den Websites extrahiert worden sind.
+    - Normale txt Dateien.
+    
+- .html
+    - HTML der Seite, auf der sich die zugehörigen PDFs befunden haben
+    - Mehrere PDFs / Abstracts können sich auf die selbe HTML beziehen.
+    
+- .bib
+    - Metadaten im .bib Format
+    - Fehlt für die meisten Zeitschriften
+    
+- metadata.json
+    - Hat nur den key journal_id
+    - Dessen Wert entspricht der PPN
+    
+- items.jsonl
+    - Jede Zeile entspricht einem Artikel
+    - Folgende keys sind möglich:
+        - mult 
+            - True falls in der PDF mehrere Artikel enthalten sind, sonst False
+            
+        - titles
+            - Liste aller Titel in der PDF
+            - Kann leerre Liste sein
+            
+        - date (optional)
+            - Veröffentlichungsdatum
+            
+        - volume (optional)
+            - Ausgabe, in der der Artikel erschienen ist
+             
+        - pdf_name
+            - Name der PDF
+            
+        - bib_name (optional)
+            - Name der Bib
+            
+        - html_name
+            - Name der HTML
+            
+        - abstract_name
+            - Name des Abstract
+            
+        - errata (optional)
+            - Name des Errata
+            
+    - Optionale Felder werden weggelassen, falls es keinen Wert für sie geben sollte.
+    

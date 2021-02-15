@@ -1,0 +1,1 @@
+The output.json file is for the data in the folder 04700647.
