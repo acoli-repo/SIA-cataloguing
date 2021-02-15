@@ -1,6 +1,5 @@
-import org.acoli.glaser.metadata.pdf.Metadata;
-import org.acoli.glaser.metadata.pdf.MetadataFromBibtex;
-import org.junit.Assert;
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.crawl.MetadataFromBibtex;
 import org.junit.Test;
 
 import java.util.Arrays;

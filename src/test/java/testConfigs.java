@@ -1,4 +1,5 @@
 import org.acoli.glaser.metadata.pdf.*;
+import org.acoli.glaser.metadata.pdf.crawl.SourceTypes;
 import org.junit.Assert;
 import org.junit.Test;
 

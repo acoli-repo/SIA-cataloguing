@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.extract;
 
 public class PDFExtractionConfiguration {
     int authorHeight = -1;

@@ -1,7 +1,8 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.crawl;
+
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
 
 import java.net.URL;
-import java.util.Collections;
 import java.util.List;
 
 /**

@@ -1,5 +1,6 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.crawl;
 
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
 import org.jbibtex.*;
 
 import java.io.StringReader;

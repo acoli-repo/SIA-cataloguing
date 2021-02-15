@@ -1,10 +1,9 @@
-import org.acoli.glaser.metadata.pdf.Metadata;
-import org.acoli.glaser.metadata.pdf.MetadataMerger;
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.util.MetadataMerger;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class testMerging {

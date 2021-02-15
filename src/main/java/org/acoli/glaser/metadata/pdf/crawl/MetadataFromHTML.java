@@ -1,5 +1,6 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.crawl;
 
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;

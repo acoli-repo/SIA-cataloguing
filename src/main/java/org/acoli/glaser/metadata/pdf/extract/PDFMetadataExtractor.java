@@ -1,9 +1,8 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.extract;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
-import javax.print.Doc;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpressionException;
@@ -13,7 +12,6 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.logging.Logger;
-import java.util.regex.Pattern;
 
 /**
  * Contains everything concerned with extracting fields from the XML Document. Uses XPaths for this.

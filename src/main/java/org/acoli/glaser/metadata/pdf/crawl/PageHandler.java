@@ -1,4 +1,7 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.crawl;
+
+import org.acoli.glaser.metadata.pdf.util.MetadataMerger;
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
 
 import java.util.ArrayList;
 import java.util.List;

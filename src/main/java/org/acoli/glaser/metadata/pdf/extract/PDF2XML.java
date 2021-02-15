@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.extract;
 
 import java.io.*;
 import java.util.Scanner;
@@ -26,25 +26,6 @@ public class PDF2XML {
 		this.tmpDir = tmpDir;
 	}
 
-	@Deprecated
-	private boolean deleteTempFolder() {
-		return this.tmpDir.delete();
-	}
-
-	@Deprecated
-	public void cleanup() {
-		Scanner reader = new Scanner(System.in);
-		System.out.println("Enter 'ok' to delete temp folder.");
-		String ok = reader.next();
-		if (ok.equals("ok")) {
-			if (this.deleteTempFolder())
-				System.err.println("Deleted "+this.tmpDir);
-			else
-				System.err.println("Failed to delete temp folder.");
-		}
-		reader.close();
-	}
-
 	String makeFileNameForXML(String nameOfPDF) {
 		if (nameOfPDF.contains(".pdf")) {
 			return nameOfPDF.replace(".pdf", ".xml");
@@ -65,7 +46,6 @@ public class PDF2XML {
 		LOG.info("Will convert "+pdf.getAbsolutePath()+", writing to "+ xmlFile.getAbsolutePath());
 		Runtime rt = Runtime.getRuntime();
 		String shellCommand = "pdftohtml "+pdf.getAbsolutePath()+" -xml -i -c -q -s "+ xmlFile.getAbsolutePath();
-		// TODO: This is way too much stuff, the error was somewhere else. You can probably simplify this.
 		Process conversion = rt.exec(shellCommand);
 		try {
 			LOG.info("Waiting for conversion to finish..");
@@ -76,7 +56,7 @@ public class PDF2XML {
 				LOG.info("Conversion not done..?");
 			}
 		} catch (InterruptedException e) {
-			System.exit(1); // TODO: Check how to handle this properly
+			return null;
 		}
 		return xmlFile;
 	}

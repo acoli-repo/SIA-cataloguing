@@ -1,5 +1,11 @@
 
-import org.acoli.glaser.metadata.pdf.*;
+import org.acoli.glaser.metadata.pdf.crawl.MetadataFromBibtex;
+import org.acoli.glaser.metadata.pdf.crawl.MetadataFromHTML;
+import org.acoli.glaser.metadata.pdf.crawl.MetadataFromPDF;
+import org.acoli.glaser.metadata.pdf.crawl.MetadataSourceHandler;
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.util.Metadata2TTL;
+import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

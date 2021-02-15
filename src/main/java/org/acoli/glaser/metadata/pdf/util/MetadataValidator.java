@@ -1,4 +1,6 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.util;
+
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
 
 import java.util.*;
 

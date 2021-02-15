@@ -1,4 +1,4 @@
-import org.acoli.glaser.metadata.pdf.Metadata;
+import org.acoli.glaser.metadata.pdf.extract.Metadata;
 import org.junit.Assert;
 import org.junit.Test;
 

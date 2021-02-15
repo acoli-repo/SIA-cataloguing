@@ -1,5 +1,8 @@
 package org.acoli.glaser.metadata.pdf;
 
+import org.acoli.glaser.metadata.pdf.crawl.SourceTypes;
+import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
+
 import java.net.URL;
 
 public class SourceDescriptions {

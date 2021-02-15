@@ -1,6 +1,7 @@
 package org.acoli.glaser.metadata.pdf;
 
 import com.google.gson.Gson;
+import org.acoli.glaser.metadata.pdf.crawl.*;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -17,15 +18,14 @@ import java.util.logging.Logger;
  */
 public class MainRunner {
 
-    List<Source> sources;
     List<SourceDescriptions> sourceDescriptions;
     FileHandler fh;
     PageSpider ps;
     private static Logger LOG = Logger.getLogger(MainRunner.class.getName());
-    public MainRunner(String pathToSeedCSV) {
+    public MainRunner(String pathToConfigJSON) {
         fh = new FileHandler();
         ps = new PageSpider();
-        sourceDescriptions = readConfigs(pathToSeedCSV).sources;
+        sourceDescriptions = readConfigs(pathToConfigJSON).sources;
     }
 
 
@@ -76,5 +76,10 @@ public class MainRunner {
         }
         PageHandler ph = new PageHandler(initialSources);
         ph.run();
+    }
+
+    public static void main(String[] args) {
+        MainRunner mr = new MainRunner("configs.json");
+        mr.run();
     }
 }

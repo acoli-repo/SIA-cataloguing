@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.pdf.extract;
 
 import org.w3c.dom.Document;
 
@@ -49,7 +49,7 @@ public class Splitter {
         System.err.println("===");
     }
 
-    List<List<XMLEvent>> splitIntoPages(File file) throws FileNotFoundException, XMLStreamException {
+    public List<List<XMLEvent>> splitIntoPages(File file) throws FileNotFoundException, XMLStreamException {
         List<List<XMLEvent>> pages = new ArrayList<>();
         Reader xml = new FileReader(file);
         XMLEventReader reader = this.xif.createXMLEventReader(xml);
@@ -86,7 +86,7 @@ public class Splitter {
         return paper;
     }
 
-    List<Document> splitIntoDistinctPapers(File file) throws FileNotFoundException, XMLStreamException {
+    public List<Document> splitIntoDistinctPapers(File file) throws FileNotFoundException, XMLStreamException {
         // TODO: Add clutter detection maybe?
         LOG.info("Splitting..");
         List<Document> papers = new ArrayList<>();
@@ -198,37 +198,3 @@ public class Splitter {
         }
     }
 }
-
-
-//	DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-//	DocumentBuilder db;
-//	Document subtree = null;
-//
-//	XMLEventReader current = this.getXmlReader(); // retrieve the Reader in it's current state
-//		try {
-//				db = dbf.newDocumentBuilder();
-//				subtree = db.newDocument();
-//
-//				// Using an XMLWriter that writes directly to a DOM Object
-//				XMLEventWriter writer;
-//				writer = XMLOutputFactory.newInstance().createXMLEventWriter(new DOMResult(subtree));
-//
-//				if ((span.begin) != this.indexOfNextXMLEvent) {
-//				LOGGER.warning("Beginning to collect from span "+span+" while next element reader will return is "+this.indexOfNextXMLEvent);
-//				}
-//
-//				for (int i = span.begin; i <= span.end; i++){
-//				XMLEvent next = current.nextEvent();
-//				//System.out.println("Trying to write at index "+i+": "+next);
-//				writer.add(next);
-//				this.indexOfNextXMLEvent++; // update reader index
-//
-//
-//				}
-//				this.setXmlReader(current);
-//
-//				}catch (XMLStreamException | ParserConfigurationException e ) {
-//				System.err.println("Unable to collect the subtree with index " + this.currentSpanIndex);
-//				e.printStackTrace();
-//				}
-//				return subtree;
