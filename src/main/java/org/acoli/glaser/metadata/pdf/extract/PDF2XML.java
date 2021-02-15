@@ -39,12 +39,11 @@ public class PDF2XML {
 	 * @param pdf
 	 * @return
 	 */
-	public File pdfToXml(File pdf) throws IOException {
-		String xmlFileName = makeFileNameForXML(pdf.getName());
-		File xmlFile = new File (this.tmpDir+"/"+xmlFileName);
-		LOG.info("Will convert "+pdf.getAbsolutePath()+", writing to "+ xmlFile.getAbsolutePath());
+
+	public File pdfToXml(File pdf, File xml) throws IOException {
+		LOG.info("Will convert "+pdf.getAbsolutePath()+", writing to "+ xml.getAbsolutePath());
 		Runtime rt = Runtime.getRuntime();
-		String shellCommand = "pdftohtml "+pdf.getAbsolutePath()+" -xml -i -c -q -s "+ xmlFile.getAbsolutePath();
+		String shellCommand = "pdftohtml "+pdf.getAbsolutePath()+" -xml -i -c -q -s "+ xml.getAbsolutePath();
 		Process conversion = rt.exec(shellCommand);
 		try {
 			LOG.info("Waiting for conversion to finish..");
@@ -57,7 +56,12 @@ public class PDF2XML {
 		} catch (InterruptedException e) {
 			return null;
 		}
-		return xmlFile;
+		return xml;
+	}
+	public File pdfToXml(File pdf) throws IOException {
+		String xmlFileName = makeFileNameForXML(pdf.getName());
+		File xmlFile = new File (this.tmpDir+"/"+xmlFileName);
+		return pdfToXml(pdf, xmlFile);
 	}
 
 	/**
