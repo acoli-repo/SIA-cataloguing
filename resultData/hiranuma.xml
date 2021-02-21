@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+<text top="981" left="123" width="6" height="11" font="0">*</text>
+<text top="986" left="129" width="647" height="16" font="1">I am grateful to Dick Hudson for his guidance and practical suggestions throughout my work.</text>
+<text top="1019" left="123" width="6" height="11" font="0">1</text>
+<text top="1024" left="129" width="681" height="16" font="1">The symbol “#” shows that the prefixed sentences are grammatical but either unprocessable or</text>
+<text top="1044" left="108" width="478" height="16" font="1">difficult to process to the extent that conscious reanalysis is required.</text>
+<text top="133" left="108" width="378" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 10 (1998)</text>
+<text top="185" left="108" width="703" height="32" font="4"><i><b>Measuring the processing load of Japanese</b></i></text>
+<text top="227" left="108" width="88" height="32" font="4"><i><b>words</b></i></text>
+<text top="222" left="196" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="312" left="108" width="143" height="18" font="3">SO HIRANUMA</text>
+<text top="409" left="143" width="76" height="18" font="6"><b>Abstract</b></text>
+<text top="456" left="143" width="631" height="16" font="1">A theory of processing difficulty (Hudson 1995, 1996b) grounded in Word Grammar (Hudson</text>
+<text top="476" left="143" width="631" height="16" font="1">1984, 1990) provides a means of computing the syntactic difficulty for a sentence in terms of</text>
+<text top="497" left="143" width="631" height="16" font="1">the distance of dependencies. The purpose of this paper is to determine relative processing</text>
+<text top="517" left="143" width="631" height="16" font="1">loads for Japanese words - content words versus function words - in the hope of advancing the</text>
+<text top="537" left="143" width="631" height="16" font="1">method in such a way that syntactic difficulty will be measured with more accuracy. I shall</text>
+<text top="558" left="143" width="632" height="16" font="1">illustrate through an experiment that in terms of memory cost, content words are essentially</text>
+<text top="578" left="143" width="256" height="16" font="1">more expensive than function words.</text>
+<text top="647" left="108" width="126" height="18" font="6"><b>1 Introduction</b></text>
+<text top="695" left="108" width="699" height="18" font="3">One of the main focuses of work on natural language processing has been the attempt</text>
+<text top="719" left="108" width="700" height="18" font="3">to account for sentence processing breakdown caused by particular syntactic structures</text>
+<text top="743" left="108" width="700" height="18" font="3">such as centre-embedding (processing overload effects), exemplified in (1), and by local</text>
+<text top="766" left="108" width="470" height="18" font="3">syntactic ambiguity (garden-path effects) as shown in (2).</text>
+<text top="764" left="578" width="6" height="11" font="0">1</text>
+<text top="814" left="108" width="700" height="18" font="3">(1) #The frightened child who the old woman who the rescue worker looked for had</text>
+<text top="838" left="143" width="592" height="18" font="3">comforted survived the crash. (Gibson, Thomas and Babyonyshev 1995)</text>
+<text top="886" left="108" width="600" height="18" font="3">(2) #The cotton clothing is made of grows in Mississippi. (Marcus 1980)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="9" height="16" font="1">2</text>
+<text top="189" left="108" width="700" height="18" font="3">Within phrase-structure theories, a number of proposals concerning the causes of</text>
+<text top="213" left="108" width="700" height="18" font="3">processing overload have been suggested with little accord as to the precise reasons why</text>
+<text top="237" left="108" width="700" height="18" font="3">some syntactic constructions are harder to understand than others. Some well-known</text>
+<text top="261" left="108" width="700" height="18" font="3">hypotheses attribute processing overload to the number of incomplete parsed phrase-</text>
+<text top="285" left="108" width="700" height="18" font="3">structure rules (Yngve 1960; Chomsky &amp; Miller 1963; Miller &amp; Chomsky 1963; Miller</text>
+<text top="309" left="108" width="699" height="18" font="3">&amp; Isard 1964; Abney &amp; Johnson 1991), or locally unsatisfied X-bar (Lewis 1993) or</text>
+<text top="332" left="108" width="596" height="18" font="3">Case-assignment (Stabler 1994) or thematic (Gibson 1991) relationships.</text>
+<text top="356" left="123" width="686" height="18" font="3">Although the terms ‘processing complexity’ and ‘difficulty’ have been used</text>
+<text top="380" left="108" width="700" height="18" font="3">interchangeably in the literature in terms of computing the processing load of a sentence,</text>
+<text top="404" left="108" width="700" height="18" font="3">they should be distinguished from each other. One reason is that processing complexity</text>
+<text top="428" left="108" width="701" height="18" font="3">must refer to objective facts about a sentence, e.g. how complex its syntactic or semantic</text>
+<text top="452" left="108" width="700" height="18" font="3">structure is, whereas processing difficulty is measured in terms of the psychological</text>
+<text top="476" left="108" width="700" height="18" font="3">difficulty which people have when they understand sentences. Furthermore, it is not</text>
+<text top="500" left="108" width="700" height="18" font="3">always the case that the more syntactically complex sentences are harder to process. For</text>
+<text top="524" left="108" width="700" height="18" font="3">example, (4) is easier to process than (3), although it is more complex, with one more</text>
+<text top="548" left="108" width="47" height="18" font="3">word.</text>
+<text top="596" left="108" width="529" height="18" font="3">(3) #The woman saw the famous doctor had been drinking a lot.</text>
+<text top="644" left="108" width="658" height="18" font="3">(4) The woman saw that the famous doctor had been drinking a lot. (Sturt 1998)</text>
+<text top="692" left="108" width="700" height="18" font="3">This distinction between complexity and difficulty is fundamental, so I shall use the term</text>
+<text top="716" left="108" width="700" height="18" font="3">‘syntactic difficulty’ strictly to refer to the processing difficulty of a sentence or a phrase</text>
+<text top="739" left="108" width="700" height="18" font="3">caused in particular by its syntax. In contrast, ‘syntactic complexity’ refers only to</text>
+<text top="763" left="108" width="314" height="18" font="3">aspects of the syntactic structure itself.</text>
+<text top="787" left="123" width="684" height="18" font="3">The main question in this research is how syntactic complexity and difficulty are</text>
+<text top="811" left="108" width="700" height="18" font="3">related. Earlier work assumed them to be identical, to the extent of using the two terms</text>
+<text top="835" left="108" width="699" height="18" font="3">interchangeably. For instance, some kind of memory cost can be associated directly with</text>
+<text top="859" left="108" width="700" height="18" font="3">nonterminal nodes (Frazier 1985; Frazier &amp; Rayner 1988). However, difficulty and</text>
+<text top="883" left="108" width="700" height="18" font="3">complexity have been distinguished in more recent work, especially by Gibson (1997),</text>
+<text top="907" left="108" width="700" height="18" font="3">for whom difficulty is caused by integrating an input into the current structure and</text>
+<text top="931" left="108" width="700" height="18" font="3">retaining unintegrated structures in working memory. My own work will also distinguish</text>
+<text top="955" left="108" width="46" height="18" font="3">them.</text>
+<text top="979" left="123" width="685" height="18" font="3">In this paper, I shall report a preliminary study in preparation for a system which will</text>
+<text top="1003" left="108" width="700" height="18" font="3">enable us to estimate the syntactic difficulty of Japanese sentences and ultimately to</text>
+<text top="1027" left="108" width="698" height="18" font="3">illuminate the source for processing overload phenomena in Japanese. Head-final</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="799" width="9" height="16" font="1">3</text>
+<text top="209" left="108" width="700" height="18" font="3">languages, such as Japanese, are vital to investigate in the field of sentence processing,</text>
+<text top="233" left="108" width="701" height="18" font="3">given that a natural language processor is efficient enough to cope with both head-initial</text>
+<text top="257" left="108" width="700" height="18" font="3">and head-final languages. What makes Japanese more interesting besides its head</text>
+<text top="281" left="108" width="700" height="18" font="3">direction is, as pointed by Mazuka and Nagai (1995), its other characteristics such as</text>
+<text top="305" left="108" width="700" height="18" font="3">omission of shared information and scrambled word-order, all of which seem to increase</text>
+<text top="329" left="108" width="173" height="18" font="3">processing difficulty.</text>
+<text top="353" left="123" width="683" height="18" font="3">The language theory I assume here is Word Grammar (Hudson 1984, 1990) whose</text>
+<text top="377" left="108" width="700" height="18" font="3">roots lie in the tradition of dependency grammar (Tesnière 1959). So far as processing</text>
+<text top="401" left="108" width="700" height="18" font="3">is concerned, the areas that have been treated by Word Grammar are comprehensive: a</text>
+<text top="425" left="108" width="700" height="18" font="3">theory of parsing (Hudson 1996a), a theory of processing difficulty (Hudson1996b), and</text>
+<text top="449" left="108" width="700" height="18" font="3">NLP implementations applying Word Grammar (Fraser 1985, 1989, 1993; Hudson 1989;</text>
+<text top="473" left="108" width="700" height="18" font="3">Shaumyan 1995). Hudson (1995) also conceived a means of measuring syntactic</text>
+<text top="496" left="108" width="700" height="18" font="3">difficulty, ‘dependency distance’, based on the distance between a word and the word</text>
+<text top="520" left="108" width="700" height="18" font="3">on which it depends. A motive for my assumption of Word Grammar in this research is</text>
+<text top="544" left="108" width="700" height="18" font="3">that the measure seems to make plausible predictions about syntactic difficulty and</text>
+<text top="568" left="108" width="699" height="18" font="3">readability in English (Hudson 1997). This method however, where any given word is</text>
+<text top="592" left="108" width="700" height="18" font="3">weighted with equal processing load, leaves room for improvement, following the</text>
+<text top="616" left="108" width="700" height="18" font="3">Syntactic Prediction Locality Theory by Gibson (1997) which postulates that integration</text>
+<text top="640" left="108" width="700" height="18" font="3">cost (a component for the memory cost) monotonically increases according to the</text>
+<text top="664" left="108" width="700" height="18" font="3">number of new discourse referents. The purpose of this paper is to show a more</text>
+<text top="688" left="108" width="700" height="18" font="3">sophisticated way of measuring dependency distance by suggesting that different words</text>
+<text top="712" left="108" width="700" height="18" font="3">should be associated with different memory cost, which is based on the results of the</text>
+<text top="736" left="108" width="700" height="18" font="3">experiment I have conducted. I shall specifically present the approximate memory load</text>
+<text top="760" left="108" width="348" height="18" font="3">of content and function words in Japanese.</text>
+<text top="832" left="108" width="198" height="18" font="6"><b>2 Dependency distance</b></text>
+<text top="879" left="108" width="700" height="18" font="3">Word Grammar aims to express a syntactic relation between two words solely in terms</text>
+<text top="903" left="108" width="700" height="18" font="3">of dependencies. This is an obvious advantage for a Word Grammar parser, since there</text>
+<text top="927" left="108" width="699" height="18" font="3">is no need for the parser to build higher syntactic nodes or to consider the presence of</text>
+<text top="951" left="108" width="699" height="18" font="3">empty categories. The parser’s only task is to join an incoming word with one of the</text>
+<text top="975" left="108" width="700" height="18" font="3">processed words in working memory. The model of a Word Grammar parser therefore</text>
+<text top="999" left="108" width="700" height="18" font="3">assumes word-by-word incremental processing, where the parser strives to optimise</text>
+<text top="1023" left="108" width="546" height="18" font="3">incremental comprehension of an input utterance as it is processed.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="9" height="16" font="1">4</text>
+<text top="565" left="450" width="73" height="18" font="6"><b>Figure 1</b></text>
+<text top="790" left="450" width="73" height="18" font="6"><b>Figure 2</b></text>
+<text top="189" left="123" width="685" height="18" font="3">In this incremental parsing model, a greater processing load ought to be assigned to a</text>
+<text top="213" left="108" width="700" height="18" font="3">word activated for longer in working memory. This idea is best measured as dependency</text>
+<text top="237" left="108" width="700" height="18" font="3">distance, i.e. the number of words between a word and its parent. Thus the syntactic</text>
+<text top="261" left="108" width="700" height="18" font="3">difficulty of a sentence is measured by the mean distance: the average value of the</text>
+<text top="285" left="108" width="700" height="18" font="3">distances for all words in the sentence. Let us gauge, for example, the mean distances of</text>
+<text top="309" left="108" width="700" height="18" font="3">sentences (5) and (6), where a lower-case number after each word indicates the</text>
+<text top="332" left="108" width="286" height="18" font="3">dependency distance for that word.</text>
+<text top="380" left="108" width="24" height="18" font="3">(5)</text>
+<text top="620" left="108" width="24" height="18" font="3">(6)</text>
+<text top="859" left="143" width="428" height="18" font="3">KEY: s=subject; r=sharer; c=complement; o=object;</text>
+<text top="883" left="143" width="264" height="18" font="3">&gt;a=post-adjunct; &gt;x=extraposee</text>
+<text top="931" left="216" width="118" height="18" font="3">Mean distance</text>
+<text top="931" left="378" width="115" height="18" font="3">Total distance</text>
+<text top="931" left="594" width="144" height="18" font="3">Number of words</text>
+<text top="955" left="108" width="24" height="18" font="3">(5)</text>
+<text top="955" left="270" width="36" height="18" font="3">0.75</text>
+<text top="955" left="432" width="10" height="18" font="3">6</text>
+<text top="955" left="594" width="10" height="18" font="3">8</text>
+<text top="1003" left="108" width="24" height="18" font="3">(6)</text>
+<text top="1003" left="270" width="36" height="18" font="3">0.44</text>
+<text top="1003" left="432" width="10" height="18" font="3">4</text>
+<text top="1003" left="594" width="10" height="18" font="3">9</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="799" width="9" height="16" font="1">5</text>
+<text top="960" left="450" width="73" height="18" font="6"><b>Figure 3</b></text>
+<text top="209" left="108" width="700" height="18" font="3">A longer subject phrase such as the clause that nobody knows it yet in (5) should be</text>
+<text top="233" left="108" width="700" height="18" font="3">harder to process since the subject must be kept accessible, in order to be linked with its</text>
+<text top="257" left="108" width="700" height="18" font="3">parent, for a longer period of time in working memory. Dependency distance correctly</text>
+<text top="281" left="108" width="700" height="18" font="3">predicts the relative difficulty of (5) with its mean distance of 0.75 in comparison to the</text>
+<text top="305" left="108" width="700" height="18" font="3">extraposed version (6) whose mean distance is 0.44. Extraposition, which is a source of</text>
+<text top="329" left="108" width="700" height="18" font="3">complexity thanks to appending one extra dependency to a structure, is an alternative</text>
+<text top="353" left="108" width="700" height="18" font="3">route to reduce difficulty. Hence, dependency distance constitutes a very simple and</text>
+<text top="377" left="108" width="700" height="18" font="3">effective scale for calculating the syntactic difficulty of a sentence, although, as</text>
+<text top="401" left="108" width="700" height="18" font="3">mentioned before, it can be improved by charging more precise weights for intervening</text>
+<text top="425" left="108" width="229" height="18" font="3">words within a dependency.</text>
+<text top="449" left="122" width="686" height="18" font="3">Dependency distance is derived from syntactic analyses based on Word Grammar</text>
+<text top="473" left="108" width="700" height="18" font="3">syntax, which views syntactic structure as dependencies between pairs of words rather</text>
+<text top="496" left="108" width="700" height="18" font="3">than phrasal constituencies. Because of the central role of words, problems arise where</text>
+<text top="520" left="108" width="700" height="18" font="3">word-boundaries are unclear. This approach can therefore not always be applied</text>
+<text top="544" left="108" width="700" height="18" font="3">straightforwardly to languages that have extensive agglutination, such as Japanese.</text>
+<text top="568" left="108" width="699" height="18" font="3">Identifying words in Japanese is also problematic not only because word spaces are not</text>
+<text top="592" left="108" width="700" height="18" font="3">institutionalised but because of abundant special clitics (Zwicky 1977; Pullman and</text>
+<text top="616" left="108" width="700" height="18" font="3">Zwicky 1988) such as particles and auxiliary verbs. According to the status of word for</text>
+<text top="640" left="108" width="700" height="18" font="3">these clitics, the following example can be analysed in two ways: clitics are separate</text>
+<text top="664" left="108" width="489" height="18" font="3">words as in (7) or they are a part of their hosts shown in (8).</text>
+<text top="712" left="108" width="24" height="18" font="3">(7)</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="9" height="16" font="1">6</text>
+<text top="369" left="450" width="73" height="18" font="6"><b>Figure 4</b></text>
+<text top="189" left="108" width="24" height="18" font="3">(8)</text>
+<text top="404" left="135" width="515" height="18" font="3">KEY: s=subject; c=complement; o=object; n=noun; p=particle;</text>
+<text top="428" left="135" width="209" height="18" font="3">V=verb; v=auxiliary verb</text>
+<text top="476" left="108" width="699" height="18" font="3">The choice between these analyses is irrelevant to processing itself, though it is an</text>
+<text top="500" left="108" width="699" height="18" font="3">important morpho-syntactic issue. What is needed in terms of syntactic difficulty is a</text>
+<text top="524" left="108" width="700" height="18" font="3">system which allows us to provide the same amount of dependency distance for both (7)</text>
+<text top="548" left="108" width="700" height="18" font="3">and (8), no matter which syntactic structure is assumed. One possible solution to this</text>
+<text top="572" left="108" width="700" height="18" font="3">problem is to assign different processing loads to words or morphs according to their</text>
+<text top="596" left="108" width="112" height="18" font="3">classification.</text>
+<text top="620" left="122" width="687" height="18" font="3">I now report an experiment that uses immediate recall to explore the relative memory</text>
+<text top="644" left="108" width="700" height="18" font="3">constraints on different kinds of words. Immediate recall is a common technique to test</text>
+<text top="668" left="108" width="698" height="18" font="3">short-term memory retention; Wingfield and Butterworth (1984) for instance, used a</text>
+<text top="692" left="108" width="700" height="18" font="3">similar method in their experiments, where subjects were given control of a pause switch</text>
+<text top="716" left="108" width="700" height="18" font="3">on the tape recorder and allowed to stop the tape-recorded passages whenever they</text>
+<text top="739" left="108" width="238" height="18" font="3">wished to begin their reports.</text>
+<text top="763" left="122" width="686" height="18" font="3">In this experiment, first, I wished to determine the processing load for content words</text>
+<text top="787" left="108" width="700" height="18" font="3">and function words including particles and auxiliary verbs in Japanese. Second, I wished</text>
+<text top="811" left="108" width="701" height="18" font="3">to verify the processing load calculated from the experiment by applying it to the data</text>
+<text top="835" left="108" width="148" height="18" font="3">in the experiment.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="20" family="IJOGAI+MSTT31c8bb00" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="799" width="9" height="16" font="1">7</text>
+<text top="209" left="135" width="61" height="18" font="3">Table 1</text>
+<text top="242" left="144" width="43" height="18" font="3">order</text>
+<text top="242" left="210" width="38" height="18" font="3">sorts</text>
+<text top="238" left="335" width="12" height="26" font="8">)</text>
+<text top="242" left="380" width="208" height="18" font="3">characteristics of 12 units</text>
+<text top="282" left="144" width="15" height="18" font="3">1.</text>
+<text top="282" left="210" width="76" height="18" font="3">Natural 1</text>
+<text top="282" left="335" width="20" height="18" font="3">48</text>
+<text top="282" left="380" width="345" height="18" font="3">grammatically structured natural sentence.</text>
+<text top="319" left="144" width="15" height="18" font="3">2.</text>
+<text top="319" left="210" width="76" height="18" font="3">Natural 2</text>
+<text top="319" left="335" width="20" height="18" font="3">48</text>
+<text top="319" left="380" width="345" height="18" font="3">grammatically structured natural sentence.</text>
+<text top="356" left="144" width="15" height="18" font="3">8.</text>
+<text top="356" left="210" width="76" height="18" font="3">Natural 3</text>
+<text top="356" left="335" width="20" height="18" font="3">48</text>
+<text top="356" left="380" width="345" height="18" font="3">grammatically structured natural sentence.</text>
+<text top="394" left="144" width="26" height="18" font="3">11.</text>
+<text top="394" left="210" width="94" height="18" font="3">S-Natural 2</text>
+<text top="394" left="335" width="20" height="18" font="3">48</text>
+<text top="394" left="380" width="352" height="18" font="3">12 units of ‘Natural 2', arranged at random.</text>
+<text top="431" left="144" width="15" height="18" font="3">3.</text>
+<text top="431" left="210" width="79" height="18" font="3">Short w 1</text>
+<text top="431" left="335" width="20" height="18" font="3">48</text>
+<text top="431" left="380" width="262" height="18" font="3">4N, 4V, 4J, arranged at random.</text>
+<text top="468" left="144" width="26" height="18" font="3">12.</text>
+<text top="468" left="210" width="79" height="18" font="3">Short w 2</text>
+<text top="468" left="335" width="20" height="18" font="3">48</text>
+<text top="468" left="380" width="262" height="18" font="3">4N, 4V, 4J, arranged at random.</text>
+<text top="505" left="144" width="15" height="18" font="3">7.</text>
+<text top="505" left="210" width="78" height="18" font="3">Long w 1</text>
+<text top="505" left="335" width="20" height="18" font="3">60</text>
+<text top="505" left="380" width="262" height="18" font="3">4N, 4V, 4J, arranged at random.</text>
+<text top="543" left="144" width="26" height="18" font="3">10.</text>
+<text top="543" left="210" width="78" height="18" font="3">Long w 2</text>
+<text top="543" left="335" width="20" height="18" font="3">60</text>
+<text top="543" left="380" width="262" height="18" font="3">4N, 4V, 4J, arranged at random.</text>
+<text top="580" left="144" width="26" height="18" font="3">13.</text>
+<text top="580" left="210" width="101" height="18" font="3">Short w+p 1</text>
+<text top="580" left="335" width="20" height="18" font="3">60</text>
+<text top="580" left="380" width="301" height="18" font="3">4(N+p), 4(V+p), 4(J +p), arranged at</text>
+<text top="604" left="380" width="67" height="18" font="3">random.</text>
+<text top="641" left="144" width="15" height="18" font="3">4.</text>
+<text top="641" left="210" width="101" height="18" font="3">Short w+p 2</text>
+<text top="641" left="335" width="20" height="18" font="3">60</text>
+<text top="641" left="380" width="301" height="18" font="3">4(N+p), 4(V+p), 4(J +p), arranged at</text>
+<text top="665" left="380" width="67" height="18" font="3">random.</text>
+<text top="702" left="144" width="15" height="18" font="3">6.</text>
+<text top="702" left="210" width="50" height="18" font="3">Aux 1</text>
+<text top="702" left="335" width="20" height="18" font="3">48</text>
+<text top="702" left="380" width="308" height="18" font="3">4(N+v), 4(V+v), 4(jN+v), arranged at</text>
+<text top="726" left="380" width="67" height="18" font="3">random.</text>
+<text top="764" left="144" width="15" height="18" font="3">9.</text>
+<text top="764" left="210" width="50" height="18" font="3">Aux 2</text>
+<text top="764" left="335" width="20" height="18" font="3">48</text>
+<text top="764" left="380" width="308" height="18" font="3">4(N+v), 4(V+v), 4(jN+v), arranged at</text>
+<text top="787" left="380" width="67" height="18" font="3">random.</text>
+<text top="825" left="144" width="15" height="18" font="3">5.</text>
+<text top="825" left="210" width="93" height="18" font="3">Numeral qf</text>
+<text top="825" left="335" width="20" height="18" font="3">48</text>
+<text top="825" left="380" width="239" height="18" font="3">12(d+q), arranged at random.</text>
+<text top="901" left="135" width="596" height="18" font="3">KEY: N=noun; jN=adjectival noun; J=adjective; V=full verb; p=particle;</text>
+<text top="925" left="135" width="416" height="18" font="3">d=digit; q=classifier; v=one or two auxiliary verbs.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="20" family="IJOJPC+MSTT31c8c600" color="#000000"/>
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="9" height="16" font="1">8</text>
+<text top="979" left="123" width="6" height="11" font="0">2</text>
+<text top="983" left="129" width="680" height="16" font="1">From a series of mini-scale pilot tests, conducted before this experiment, which I had conducted with</text>
+<text top="1004" left="108" width="702" height="16" font="1">several native Japanese undergraduate students at University College London, I had learned that a</text>
+<text top="1024" left="108" width="702" height="16" font="1">random sequence of eleven meaningful units with the length of about 45 morae was the limit for pure</text>
+<text top="1044" left="108" width="74" height="16" font="1">rote recall.</text>
+<text top="189" left="108" width="118" height="18" font="6"><b>3 Experiment</b></text>
+<text top="237" left="108" width="99" height="18" font="6"><b>3.1 Method</b></text>
+<text top="284" left="108" width="700" height="18" font="2"><i>Materials.</i> Thirteen sequences (cf. Appendix) were utilised which consisted of three</text>
+<text top="308" left="108" width="700" height="18" font="3">natural Japanese sentences and ten random strings of words. The length of the sequences</text>
+<text top="332" left="108" width="700" height="18" font="3">was constant in terms of the number of morae; the strings were composed of 48 morae</text>
+<text top="356" left="108" width="338" height="18" font="3">save four random sequences of 60 morae.</text>
+<text top="353" left="446" width="6" height="11" font="0">2</text>
+<text top="356" left="452" width="356" height="18" font="3"> The consideration of morae was relevant to</text>
+<text top="380" left="108" width="700" height="18" font="3">the experiment, because the number of morae were approximately corresponding to the</text>
+<text top="404" left="108" width="700" height="18" font="3">number of the Japanese <i>hiragana</i> or <i>katakana</i> letters and subjects’ task was to write the</text>
+<text top="428" left="108" width="700" height="18" font="3">sequences down as precisely as possible. Every string contained twelve meaningful</text>
+<text top="452" left="108" width="699" height="18" font="3">units; one unit consisted of four morae for 48 mora-strings, and of five morae for 60</text>
+<text top="476" left="108" width="700" height="18" font="3">mora-strings. In each unit, there was one content word which might be accompanied by</text>
+<text top="500" left="108" width="700" height="18" font="3">one or more than one function words. I assume that content words are nouns, adjectival</text>
+<text top="524" left="108" width="699" height="18" font="3">nouns, adjectives and full verbs, while function words are particles and auxiliary verbs.</text>
+<text top="548" left="108" width="700" height="18" font="3">Table 1 above shows the characteristics of the sequences used in the experiment. The</text>
+<text top="573" left="108" width="72" height="18" font="3">symbol ‘</text>
+<text top="567" left="180" width="12" height="26" font="8">)</text>
+<text top="573" left="192" width="272" height="18" font="3">’ stands for the number of morae.</text>
+<text top="598" left="122" width="433" height="18" font="3">The following are remarks on the thirteen sequences:</text>
+<text top="640" left="108" width="10" height="26" font="9">3</text>
+<text top="646" left="135" width="673" height="18" font="3">‘Natural 1, 2 and 3’ were the three syntactically structured sentences, while ‘S-</text>
+<text top="670" left="135" width="673" height="18" font="3">Natural 2’ was the scrambled version of ‘Natural 2’, in which the twelve units of</text>
+<text top="694" left="135" width="367" height="18" font="3">‘Natural 2’ were arranged in a random order.</text>
+<text top="736" left="108" width="10" height="26" font="9">3</text>
+<text top="742" left="135" width="673" height="18" font="3">Regarding the two pairs, ‘Short w 1’ and ‘Short w+p 1’, and ‘Short w 2’ and ‘Short</text>
+<text top="765" left="135" width="673" height="18" font="3">w+p 2’, each pair contained exactly the same content words; of course most of their</text>
+<text top="789" left="135" width="673" height="18" font="3">verbs and adjectives were inflected. The sole difference within the pair was that the</text>
+<text top="813" left="135" width="673" height="18" font="3">‘w+p’ versions accommodated one particle in every unit. Hence, the lengths of the</text>
+<text top="837" left="135" width="673" height="18" font="3">strings were longer by twelve morae in comparison to their particle-less counterparts.</text>
+<text top="880" left="108" width="10" height="26" font="9">3</text>
+<text top="885" left="135" width="673" height="18" font="3">‘Long w 1’ and ‘Long w 2’ had entirely different content words from those of ‘Short</text>
+<text top="909" left="135" width="674" height="18" font="3">w 1’ and ‘Short w 2’. On the other hand, their lengths were equal to those of ‘Short</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="799" width="9" height="16" font="1">9</text>
+<text top="1019" left="123" width="6" height="11" font="0">3</text>
+<text top="1024" left="129" width="681" height="16" font="1">I should like to acknowledge willing permission by Teruyuki Zushi for the conduct of the experiment</text>
+<text top="1044" left="108" width="103" height="16" font="1">at the institute.</text>
+<text top="209" left="135" width="673" height="18" font="3">w+p 1’ and ‘Short w+p 2’. For the verbs and adjectives of the four ‘w’ strings,</text>
+<text top="233" left="135" width="474" height="18" font="3">regardless of length, only the citation form was employed.</text>
+<text top="276" left="108" width="10" height="26" font="9">3</text>
+<text top="281" left="135" width="672" height="18" font="3">There were two strings containing auxiliary verbs, namely ‘Aux 1’ and ‘Aux 2’. Both</text>
+<text top="305" left="135" width="673" height="18" font="3">sequences held thirteen auxiliaries; each unit contained one auxiliary verb except the</text>
+<text top="329" left="135" width="673" height="18" font="3">third units of both sequences that contained two auxiliaries, namely <i>mashi</i> (polite)</text>
+<text top="353" left="135" width="107" height="18" font="3">and <i>ta</i> (past).</text>
+<text top="395" left="108" width="10" height="26" font="9">3</text>
+<text top="401" left="135" width="673" height="18" font="3">‘Numeral qf’ was the random sequence of twelve numeral quantifiers. Each</text>
+<text top="425" left="135" width="567" height="18" font="3">quantifier consisted of one or more than one digits plus one classifier.</text>
+<text top="467" left="108" width="10" height="26" font="9">3</text>
+<text top="473" left="135" width="673" height="18" font="3">Some random sequences accidentally contained a string of two units which allowed</text>
+<text top="496" left="135" width="673" height="18" font="3">an interpretation where the preceding unit modified the succeeding one. A common</text>
+<text top="520" left="135" width="673" height="18" font="3">pattern was a string of two units consisting of an adjective followed by a noun. This</text>
+<text top="544" left="135" width="672" height="18" font="3">type of string might be segmented into one chunk, which might encourage a better</text>
+<text top="568" left="135" width="672" height="18" font="3">performance than had been expected on the units forming the chunk. My intention</text>
+<text top="592" left="135" width="671" height="18" font="3">was to avoid chunks, but I failed to achieve it to a certain extent in designing the</text>
+<text top="616" left="135" width="457" height="18" font="3">sequences. I discuss the effects of this chunking in §3.2.</text>
+<text top="664" left="108" width="700" height="18" font="2"><i>Procedures.</i> This experiment was conducted in the summer of 1996. My subjects were</text>
+<text top="688" left="108" width="700" height="18" font="3">one hundred native Japanese students, aged on average about 20, at the Institute of</text>
+<text top="712" left="108" width="287" height="18" font="3">International Education in London.</text>
+<text top="709" left="394" width="6" height="11" font="0">3</text>
+<text top="712" left="401" width="407" height="18" font="3"> In each test, I read thirteen sequences in the order</text>
+<text top="736" left="108" width="700" height="18" font="3">shown in Table 1 to a group of between 10 to 20 subjects. My instructions to the subjects</text>
+<text top="760" left="108" width="701" height="18" font="3">were that they might write each sequence down as soon as I had read it out, and stressed</text>
+<text top="784" left="108" width="700" height="18" font="3">only accuracy of recall. The subjects were allowed to write in any Japanese letters: two</text>
+<text top="808" left="108" width="700" height="18" font="3">alphabets <i>hiragana</i> and <i>katakana</i> as well as Chinese characters <i>kanji</i>. Arabic numbers</text>
+<text top="832" left="108" width="700" height="18" font="3">were also permitted to be used for digits. The sequences were read in natural pitch</text>
+<text top="856" left="108" width="700" height="18" font="3">pattern and normal reading speed, but each sequence was read only once. Thus the</text>
+<text top="879" left="108" width="455" height="18" font="3">experiment examined the subjects’ short-term retention.</text>
+<text top="903" left="122" width="686" height="18" font="3">The scoring system was based on the twelve units in a string; each unit was scored</text>
+<text top="927" left="108" width="700" height="18" font="3">either as a success or as a failure. Since each sequence had twelve units, the sum of the</text>
+<text top="951" left="108" width="700" height="18" font="3">successes and failures for each string should constantly be twelve. A recall of any unit</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">10</text>
+<text top="1019" left="123" width="6" height="11" font="0">4</text>
+<text top="1024" left="129" width="680" height="16" font="1">I also processed the data of the experiment by counting synonyms and abbreviated words as</text>
+<text top="1044" left="108" width="641" height="16" font="1">successes, then put the data to the same chisquare tests. The differences were not significant.</text>
+<text top="189" left="108" width="700" height="18" font="3">was a success only if it was a verbatim copy of the original or discrepancies could be</text>
+<text top="213" left="108" width="699" height="18" font="3">attributed to mishearing. Any other response including synonyms and abbreviations of</text>
+<text top="237" left="108" width="593" height="18" font="3">words was counted as a failure; subjects were told to write exact words.</text>
+<text top="234" left="701" width="6" height="11" font="0">4</text>
+<text top="237" left="707" width="101" height="18" font="3"> Concerning</text>
+<text top="261" left="108" width="701" height="18" font="3">displaced units, if disarrangement was owing to missing units, only these were counted</text>
+<text top="285" left="108" width="700" height="18" font="3">as failures, and if displacement was caused by a reversal of units, scores were calculated</text>
+<text top="309" left="108" width="677" height="18" font="3">in such a way that the reversed units could obtain as many as successes as possible.</text>
+<text top="381" left="108" width="225" height="18" font="6"><b>3.2 Results and discussion</b></text>
+<text top="428" left="108" width="700" height="18" font="6"><b>3.2.1 General Facts. </b>The raw data comprising the number of failures and successes for</text>
+<text top="452" left="108" width="700" height="18" font="3">each sequence was processed by various chisquare tests to monitor if there was</text>
+<text top="476" left="108" width="700" height="18" font="3">association (non-independence) amongst the parameters on contingency tables. For all</text>
+<text top="500" left="108" width="700" height="18" font="3">of the chisquare tests, the number of failures and that of successes for each sequence, and</text>
+<text top="524" left="108" width="700" height="18" font="3">the sorts of sequences on contingency tables were used as the dependent variables. I</text>
+<text top="548" left="108" width="700" height="18" font="3">shall begin the discussion by commenting on some general facts about the results of the</text>
+<text top="572" left="108" width="699" height="18" font="3">experiment that I have found by counting the number of failures for each unit in all</text>
+<text top="596" left="108" width="669" height="18" font="3">sequences, which are shown in Table 2. Figure 5 below shows the average values.</text>
+<text top="620" left="122" width="687" height="18" font="3">First of all, it can be noted that the overall accuracy of the performance was moderate;</text>
+<text top="644" left="108" width="699" height="18" font="3">the subjects attained an average of 62.5% units correct. Figure 5 displaying an average</text>
+<text top="668" left="108" width="700" height="18" font="3">value of failures for each unit is comparable to a serial-position curve (Bernstein, Clarke-</text>
+<text top="692" left="108" width="700" height="18" font="3">Stewart, Roy and Wickens 1997: 240-241), where probability of recall is plotted as a</text>
+<text top="716" left="108" width="700" height="18" font="3">function of its serial position in a list of items. The graph shows that comparatively better</text>
+<text top="740" left="108" width="699" height="18" font="3">performance on units 1, 2 and 12, which conforms to primacy and recency effects, i.e.</text>
+<text top="764" left="108" width="700" height="18" font="3">the first and the last few items in a list are most likely to be recalled. One peculiar aspect</text>
+<text top="788" left="108" width="700" height="18" font="3">in this graph however, is a small dip at unit 9, which was confirmed by chisquare tests;</text>
+<text top="811" left="108" width="700" height="18" font="3">there were statistically significant differences between units 8 and 9 and between 9 and</text>
+<text top="835" left="108" width="222" height="18" font="3">10 (p=0.000 in both cases).</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="15" family="Times" color="#000000"/>
+	<fontspec id="11" size="13" family="Times" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">11</text>
+<text top="209" left="108" width="61" height="18" font="3">Table 2</text>
+<text top="241" left="117" width="23" height="14" font="10">unit</text>
+<text top="259" left="117" width="46" height="14" font="10">number</text>
+<text top="241" left="187" width="15" height="14" font="10">u1</text>
+<text top="241" left="233" width="15" height="14" font="10">u2</text>
+<text top="241" left="279" width="15" height="14" font="10">u3</text>
+<text top="241" left="325" width="15" height="14" font="10">u4</text>
+<text top="241" left="371" width="15" height="14" font="10">u5</text>
+<text top="241" left="417" width="15" height="14" font="10">u6</text>
+<text top="241" left="462" width="15" height="14" font="10">u7</text>
+<text top="241" left="508" width="15" height="14" font="10">u8</text>
+<text top="241" left="554" width="15" height="14" font="10">u9</text>
+<text top="241" left="600" width="23" height="14" font="10">u10</text>
+<text top="241" left="646" width="23" height="14" font="10">u11</text>
+<text top="241" left="692" width="23" height="14" font="10">u12</text>
+<text top="241" left="738" width="27" height="14" font="10">total</text>
+<text top="290" left="117" width="45" height="14" font="10">Natural</text>
+<text top="308" left="117" width="8" height="14" font="10">1</text>
+<text top="290" left="187" width="8" height="14" font="10">0</text>
+<text top="290" left="233" width="8" height="14" font="10">0</text>
+<text top="290" left="279" width="8" height="14" font="10">8</text>
+<text top="290" left="325" width="15" height="14" font="10">41</text>
+<text top="290" left="371" width="15" height="14" font="10">43</text>
+<text top="290" left="417" width="15" height="14" font="10">43</text>
+<text top="290" left="463" width="15" height="14" font="10">35</text>
+<text top="290" left="508" width="15" height="14" font="10">37</text>
+<text top="290" left="554" width="15" height="14" font="10">15</text>
+<text top="290" left="600" width="15" height="14" font="10">13</text>
+<text top="290" left="646" width="15" height="14" font="10">29</text>
+<text top="290" left="692" width="15" height="14" font="10">42</text>
+<text top="290" left="738" width="23" height="14" font="10">306</text>
+<text top="339" left="117" width="45" height="14" font="10">Natural</text>
+<text top="357" left="117" width="8" height="14" font="10">2</text>
+<text top="339" left="187" width="8" height="14" font="10">0</text>
+<text top="339" left="233" width="8" height="14" font="10">0</text>
+<text top="339" left="279" width="8" height="14" font="10">8</text>
+<text top="339" left="325" width="15" height="14" font="10">10</text>
+<text top="339" left="371" width="15" height="14" font="10">30</text>
+<text top="339" left="417" width="15" height="14" font="10">45</text>
+<text top="339" left="463" width="8" height="14" font="10">4</text>
+<text top="339" left="508" width="8" height="14" font="10">6</text>
+<text top="339" left="554" width="8" height="14" font="10">1</text>
+<text top="339" left="600" width="8" height="14" font="10">4</text>
+<text top="339" left="646" width="15" height="14" font="10">19</text>
+<text top="339" left="692" width="8" height="14" font="10">3</text>
+<text top="339" left="738" width="23" height="14" font="10">130</text>
+<text top="388" left="117" width="45" height="14" font="10">Natural</text>
+<text top="406" left="117" width="8" height="14" font="10">3</text>
+<text top="388" left="187" width="8" height="14" font="10">1</text>
+<text top="388" left="233" width="8" height="14" font="10">1</text>
+<text top="388" left="279" width="15" height="14" font="10">12</text>
+<text top="388" left="325" width="15" height="14" font="10">44</text>
+<text top="388" left="371" width="15" height="14" font="10">46</text>
+<text top="388" left="417" width="15" height="14" font="10">26</text>
+<text top="388" left="463" width="15" height="14" font="10">13</text>
+<text top="388" left="508" width="15" height="14" font="10">17</text>
+<text top="388" left="554" width="15" height="14" font="10">11</text>
+<text top="388" left="600" width="15" height="14" font="10">23</text>
+<text top="388" left="646" width="15" height="14" font="10">29</text>
+<text top="388" left="692" width="8" height="14" font="10">5</text>
+<text top="388" left="738" width="23" height="14" font="10">228</text>
+<text top="437" left="117" width="14" height="14" font="10">S-</text>
+<text top="454" left="117" width="45" height="14" font="10">Natural</text>
+<text top="472" left="117" width="8" height="14" font="10">2</text>
+<text top="437" left="187" width="8" height="14" font="10">0</text>
+<text top="437" left="233" width="15" height="14" font="10">10</text>
+<text top="437" left="279" width="15" height="14" font="10">25</text>
+<text top="437" left="325" width="15" height="14" font="10">36</text>
+<text top="437" left="371" width="15" height="14" font="10">48</text>
+<text top="437" left="417" width="15" height="14" font="10">82</text>
+<text top="437" left="463" width="15" height="14" font="10">60</text>
+<text top="437" left="508" width="15" height="14" font="10">65</text>
+<text top="437" left="554" width="15" height="14" font="10">47</text>
+<text top="437" left="600" width="15" height="14" font="10">51</text>
+<text top="437" left="646" width="15" height="14" font="10">43</text>
+<text top="437" left="692" width="15" height="14" font="10">27</text>
+<text top="437" left="738" width="23" height="14" font="10">494</text>
+<text top="503" left="117" width="47" height="14" font="10">Short w</text>
+<text top="521" left="117" width="8" height="14" font="10">1</text>
+<text top="503" left="187" width="8" height="14" font="10">1</text>
+<text top="503" left="233" width="8" height="14" font="10">2</text>
+<text top="503" left="279" width="15" height="14" font="10">42</text>
+<text top="503" left="325" width="15" height="14" font="10">67</text>
+<text top="503" left="371" width="15" height="14" font="10">68</text>
+<text top="503" left="417" width="15" height="14" font="10">47</text>
+<text top="503" left="462" width="15" height="14" font="10">90</text>
+<text top="503" left="508" width="15" height="14" font="10">55</text>
+<text top="503" left="554" width="15" height="14" font="10">46</text>
+<text top="503" left="600" width="15" height="14" font="10">86</text>
+<text top="503" left="646" width="15" height="14" font="10">32</text>
+<text top="503" left="692" width="15" height="14" font="10">41</text>
+<text top="503" left="738" width="23" height="14" font="10">577</text>
+<text top="552" left="117" width="47" height="14" font="10">Short w</text>
+<text top="570" left="117" width="8" height="14" font="10">2</text>
+<text top="552" left="187" width="8" height="14" font="10">1</text>
+<text top="552" left="233" width="8" height="14" font="10">7</text>
+<text top="552" left="279" width="15" height="14" font="10">11</text>
+<text top="552" left="325" width="15" height="14" font="10">68</text>
+<text top="552" left="371" width="15" height="14" font="10">63</text>
+<text top="552" left="417" width="15" height="14" font="10">46</text>
+<text top="552" left="462" width="15" height="14" font="10">28</text>
+<text top="552" left="508" width="15" height="14" font="10">57</text>
+<text top="552" left="554" width="15" height="14" font="10">36</text>
+<text top="552" left="600" width="15" height="14" font="10">78</text>
+<text top="552" left="646" width="15" height="14" font="10">13</text>
+<text top="552" left="692" width="15" height="14" font="10">14</text>
+<text top="552" left="738" width="23" height="14" font="10">422</text>
+<text top="601" left="117" width="46" height="14" font="10">Long w</text>
+<text top="619" left="117" width="8" height="14" font="10">1</text>
+<text top="601" left="187" width="8" height="14" font="10">1</text>
+<text top="601" left="233" width="8" height="14" font="10">4</text>
+<text top="601" left="279" width="15" height="14" font="10">33</text>
+<text top="601" left="325" width="15" height="14" font="10">59</text>
+<text top="601" left="371" width="15" height="14" font="10">61</text>
+<text top="601" left="417" width="15" height="14" font="10">83</text>
+<text top="601" left="463" width="15" height="14" font="10">70</text>
+<text top="601" left="508" width="15" height="14" font="10">72</text>
+<text top="601" left="554" width="15" height="14" font="10">46</text>
+<text top="601" left="600" width="15" height="14" font="10">56</text>
+<text top="601" left="646" width="15" height="14" font="10">29</text>
+<text top="601" left="692" width="8" height="14" font="10">5</text>
+<text top="601" left="738" width="23" height="14" font="10">519</text>
+<text top="650" left="117" width="46" height="14" font="10">Long w</text>
+<text top="668" left="117" width="8" height="14" font="10">2</text>
+<text top="650" left="187" width="8" height="14" font="10">3</text>
+<text top="650" left="233" width="8" height="14" font="10">2</text>
+<text top="650" left="279" width="15" height="14" font="10">52</text>
+<text top="650" left="325" width="15" height="14" font="10">46</text>
+<text top="650" left="371" width="15" height="14" font="10">76</text>
+<text top="650" left="417" width="15" height="14" font="10">76</text>
+<text top="650" left="462" width="15" height="14" font="10">87</text>
+<text top="650" left="508" width="15" height="14" font="10">29</text>
+<text top="650" left="554" width="15" height="14" font="10">30</text>
+<text top="650" left="600" width="15" height="14" font="10">70</text>
+<text top="650" left="646" width="15" height="14" font="10">43</text>
+<text top="650" left="692" width="8" height="14" font="10">7</text>
+<text top="650" left="738" width="23" height="14" font="10">521</text>
+<text top="699" left="117" width="33" height="14" font="10">Short</text>
+<text top="717" left="117" width="38" height="14" font="10">w+p 1</text>
+<text top="699" left="187" width="8" height="14" font="10">2</text>
+<text top="699" left="233" width="15" height="14" font="10">14</text>
+<text top="699" left="279" width="15" height="14" font="10">27</text>
+<text top="699" left="325" width="15" height="14" font="10">69</text>
+<text top="699" left="371" width="15" height="14" font="10">82</text>
+<text top="699" left="417" width="15" height="14" font="10">83</text>
+<text top="699" left="463" width="15" height="14" font="10">83</text>
+<text top="699" left="508" width="15" height="14" font="10">64</text>
+<text top="699" left="554" width="15" height="14" font="10">68</text>
+<text top="699" left="600" width="15" height="14" font="10">49</text>
+<text top="699" left="646" width="15" height="14" font="10">56</text>
+<text top="699" left="692" width="15" height="14" font="10">16</text>
+<text top="699" left="738" width="23" height="14" font="10">613</text>
+<text top="748" left="117" width="33" height="14" font="10">Short</text>
+<text top="766" left="117" width="38" height="14" font="10">w+p 2</text>
+<text top="748" left="187" width="8" height="14" font="10">4</text>
+<text top="748" left="233" width="15" height="14" font="10">11</text>
+<text top="748" left="279" width="15" height="14" font="10">43</text>
+<text top="748" left="325" width="15" height="14" font="10">59</text>
+<text top="748" left="371" width="15" height="14" font="10">83</text>
+<text top="748" left="417" width="15" height="14" font="10">85</text>
+<text top="748" left="463" width="15" height="14" font="10">95</text>
+<text top="748" left="508" width="15" height="14" font="10">86</text>
+<text top="748" left="554" width="8" height="14" font="10">9</text>
+<text top="748" left="600" width="15" height="14" font="10">15</text>
+<text top="748" left="646" width="15" height="14" font="10">59</text>
+<text top="748" left="692" width="15" height="14" font="10">26</text>
+<text top="748" left="738" width="23" height="14" font="10">575</text>
+<text top="797" left="117" width="37" height="14" font="10">Aux 1</text>
+<text top="797" left="187" width="8" height="14" font="10">4</text>
+<text top="797" left="233" width="15" height="14" font="10">11</text>
+<text top="797" left="279" width="15" height="14" font="10">19</text>
+<text top="797" left="325" width="15" height="14" font="10">49</text>
+<text top="797" left="371" width="15" height="14" font="10">58</text>
+<text top="797" left="417" width="15" height="14" font="10">65</text>
+<text top="797" left="462" width="15" height="14" font="10">65</text>
+<text top="797" left="508" width="15" height="14" font="10">40</text>
+<text top="797" left="554" width="15" height="14" font="10">55</text>
+<text top="797" left="600" width="15" height="14" font="10">56</text>
+<text top="797" left="646" width="15" height="14" font="10">44</text>
+<text top="797" left="692" width="8" height="14" font="10">8</text>
+<text top="797" left="738" width="23" height="14" font="10">474</text>
+<text top="828" left="117" width="37" height="14" font="10">Aux  2</text>
+<text top="828" left="187" width="15" height="14" font="10">14</text>
+<text top="828" left="233" width="15" height="14" font="10">25</text>
+<text top="828" left="279" width="15" height="14" font="10">67</text>
+<text top="828" left="325" width="15" height="14" font="10">71</text>
+<text top="828" left="371" width="15" height="14" font="10">74</text>
+<text top="828" left="417" width="15" height="14" font="10">56</text>
+<text top="828" left="462" width="15" height="14" font="10">61</text>
+<text top="828" left="508" width="15" height="14" font="10">87</text>
+<text top="828" left="554" width="15" height="14" font="10">67</text>
+<text top="828" left="600" width="15" height="14" font="10">50</text>
+<text top="828" left="646" width="15" height="14" font="10">34</text>
+<text top="828" left="692" width="8" height="14" font="10">8</text>
+<text top="828" left="738" width="23" height="14" font="10">614</text>
+<text top="859" left="117" width="47" height="12" font="11">Numeral</text>
+<text top="875" left="117" width="11" height="12" font="11">qf</text>
+<text top="859" left="187" width="8" height="14" font="10">2</text>
+<text top="859" left="233" width="8" height="14" font="10">7</text>
+<text top="859" left="279" width="15" height="14" font="10">27</text>
+<text top="859" left="325" width="15" height="14" font="10">47</text>
+<text top="859" left="371" width="15" height="14" font="10">67</text>
+<text top="859" left="417" width="15" height="14" font="10">49</text>
+<text top="859" left="463" width="15" height="14" font="10">54</text>
+<text top="859" left="508" width="15" height="14" font="10">38</text>
+<text top="859" left="554" width="15" height="14" font="10">32</text>
+<text top="859" left="600" width="15" height="14" font="10">24</text>
+<text top="859" left="646" width="15" height="14" font="10">24</text>
+<text top="859" left="692" width="8" height="14" font="10">5</text>
+<text top="859" left="738" width="23" height="14" font="10">376</text>
+<text top="904" left="117" width="32" height="14" font="10">Total</text>
+<text top="904" left="187" width="15" height="14" font="10">33</text>
+<text top="904" left="233" width="15" height="14" font="10">94</text>
+<text top="904" left="279" width="23" height="14" font="10">374</text>
+<text top="904" left="325" width="23" height="14" font="10">666</text>
+<text top="904" left="371" width="23" height="14" font="10">799</text>
+<text top="904" left="417" width="23" height="14" font="10">786</text>
+<text top="904" left="463" width="23" height="14" font="10">745</text>
+<text top="904" left="509" width="23" height="14" font="10">653</text>
+<text top="904" left="554" width="23" height="14" font="10">463</text>
+<text top="904" left="600" width="23" height="14" font="10">575</text>
+<text top="904" left="646" width="23" height="14" font="10">454</text>
+<text top="904" left="692" width="23" height="14" font="10">207</text>
+<text top="904" left="738" width="30" height="14" font="10">5849</text>
+<text top="936" left="117" width="51" height="14" font="10">Average</text>
+<text top="936" left="187" width="8" height="14" font="10">3</text>
+<text top="936" left="233" width="8" height="14" font="10">7</text>
+<text top="936" left="279" width="15" height="14" font="10">29</text>
+<text top="936" left="325" width="15" height="14" font="10">51</text>
+<text top="936" left="371" width="15" height="14" font="10">61</text>
+<text top="936" left="417" width="15" height="14" font="10">60</text>
+<text top="936" left="462" width="15" height="14" font="10">57</text>
+<text top="936" left="508" width="15" height="14" font="10">50</text>
+<text top="936" left="554" width="15" height="14" font="10">36</text>
+<text top="936" left="600" width="15" height="14" font="10">44</text>
+<text top="936" left="646" width="15" height="14" font="10">35</text>
+<text top="936" left="692" width="15" height="14" font="10">16</text>
+<text top="936" left="738" width="23" height="14" font="10">450</text>
+<text top="983" left="135" width="454" height="18" font="3">overall accuracy: (12*13*100-5849)/12*13*100=0.625</text>
+<text top="1007" left="135" width="654" height="18" font="3">N.B. ‘Average’ displays an average value of all thirteen sequences for each unit.</text>
+<text top="1031" left="135" width="673" height="18" font="3">Underlined numbers are adjective plus noun strings with possible chunking effects.</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">12</text>
+<text top="764" left="450" width="73" height="18" font="6"><b>Figure 5</b></text>
+<text top="811" left="122" width="686" height="18" font="3">A possible account for the overall better performance on unit 9 is the existence of</text>
+<text top="835" left="108" width="698" height="18" font="3">chunks by chance in this region. Wingfield and Nolan (1980) found that subjects’</text>
+<text top="859" left="108" width="700" height="18" font="3">segmentation of ongoing speech occurred primarily at major syntactic boundaries,</text>
+<text top="883" left="108" width="700" height="18" font="3">irrespective of the speech rate of the heard materials. Hence, if syntactic (and also</text>
+<text top="907" left="108" width="700" height="18" font="3">semantic) chunks capable of being segmented perceptually are spotted around unit 9,</text>
+<text top="931" left="108" width="700" height="18" font="3">they must be the cause of the relatively better result for the unit. Having checked the</text>
+<text top="955" left="108" width="700" height="18" font="3">sequences, I have identified twelve adjective plus noun chunks, only two of which seem</text>
+<text top="979" left="108" width="698" height="18" font="3">to be ineffective, that is, units 10 and 11 in ‘Aux 1’ and units 4 and 5 of ‘Long w 1’. (I</text>
+<text top="1003" left="108" width="700" height="18" font="3">have excluded three natural sentences from consideration, since all items in these</text>
+<text top="1027" left="108" width="700" height="18" font="3">sentences are syntactically related to one another.) More saliently however, it has been</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">13</text>
+<text top="209" left="108" width="700" height="18" font="3">recognised that among the rest of ten chunks, six are clustered around the relevant</text>
+<text top="233" left="108" width="251" height="18" font="3">region, as indicated in Table 2.</text>
+<text top="257" left="122" width="686" height="18" font="3">Referring to Table 2, we can observe that the number of failures drops at the</text>
+<text top="281" left="108" width="699" height="18" font="3">responsible units for these six chunks above. Consequently, the fact that the six chunks</text>
+<text top="305" left="108" width="700" height="18" font="3">in the region of unit 9 discovered out of ten random sequences have the comparatively</text>
+<text top="329" left="108" width="699" height="18" font="3">better results seems to support our assumption that the drop at unit 9 of the ‘Average’</text>
+<text top="353" left="108" width="318" height="18" font="3">graph is due to chunking in this region.</text>
+<text top="377" left="122" width="687" height="18" font="3">In general, chunks seem to save space in short term memory, which resulted in the</text>
+<text top="401" left="108" width="700" height="18" font="3">better performance in the experiment. Other chunks found in ‘S-Natural 2’ will be</text>
+<text top="425" left="108" width="130" height="18" font="3">examined in §5.</text>
+<text top="473" left="108" width="700" height="18" font="6"><b>3.2.2 Natural sentences</b>. A chisquare test comparing three natural sentences showed,</text>
+<text top="497" left="108" width="699" height="18" font="3">contrary to our expectations, no association among them (p=0.000). In fact, although I</text>
+<text top="521" left="108" width="700" height="18" font="3">have tried every possible combination of chisquare tests on the data for these three</text>
+<text top="545" left="108" width="700" height="18" font="3">sequences, every test confirmed this difference. This result could have been caused by</text>
+<text top="569" left="108" width="699" height="18" font="3">ordering effects; the linear positions of the sequences may have effected subjects’</text>
+<text top="593" left="108" width="699" height="18" font="3">performance. ‘Natural 1’ positioned in the first and ‘Natural 3’ placed in the eighth</text>
+<text top="617" left="108" width="700" height="18" font="3">which was between the random sequences might be more unexpected and therefore</text>
+<text top="640" left="108" width="699" height="18" font="3">harder to cope with than ‘Natural 2’ that immediately followed ‘Natural 1’. This may</text>
+<text top="664" left="108" width="700" height="18" font="3">explain why ‘Natural 2’ has the best score among the three (and also in the entire</text>
+<text top="688" left="108" width="95" height="18" font="3">sequences).</text>
+<text top="712" left="122" width="687" height="18" font="3">We expect a difference between ‘Natural 2’ and its scrambled counterpart ‘S-Natural</text>
+<text top="736" left="108" width="700" height="18" font="3">2’, because the latter is essentially a random sequence, so its result should  be worse than</text>
+<text top="760" left="108" width="700" height="18" font="3">that of ‘Natural 2’. This is borne out by a test, which showed independence of the data</text>
+<text top="784" left="108" width="268" height="18" font="3">for the two sequences (p=0.000).</text>
+<text top="832" left="108" width="700" height="18" font="6"><b>3.2.3 Words and particles</b>. There were three pairs of sequences which shared the same</text>
+<text top="856" left="108" width="700" height="18" font="3">characteristics: ‘Short w 1’ and ‘Short w 2’, ‘Long w 1’ and ‘Long w 2’, and ‘Short w+p</text>
+<text top="880" left="108" width="700" height="18" font="3">1’ and ‘Short w+p 2’. On one hand, chisquare tests reinforced our anticipations for the</text>
+<text top="904" left="108" width="700" height="18" font="3">latter two cases; correlations were significant between ‘Short w+p 1’ and ‘Short w+p 2’</text>
+<text top="928" left="108" width="700" height="18" font="3">and between ‘Long w 1’ and ‘Long w 2’ (p&gt;0.010 in both cases). Especially, the</text>
+<text top="952" left="108" width="700" height="18" font="3">outcome of the test for the two long content word-sequences was even more impressive</text>
+<text top="976" left="108" width="698" height="18" font="3">(p=0.934). On the other hand, another test gave no evidence of a correlation between</text>
+<text top="1000" left="108" width="700" height="18" font="3">‘Short w 1’ and ‘Short w 2’ (p=0.000). This unexpected result may again be explained</text>
+<text top="1024" left="108" width="700" height="18" font="3">by ordering effects. If we take into consideration that ‘Short w 1’ was the very first</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">14</text>
+<text top="1019" left="123" width="6" height="11" font="0">5</text>
+<text top="1024" left="129" width="680" height="16" font="1">Most subjects wrote sequences in <i>hiragana</i> on most occasions and in Chinese characters for some</text>
+<text top="1044" left="108" width="555" height="16" font="1">times. This may be merely because the former was faster to write than the latter.</text>
+<text top="189" left="108" width="700" height="18" font="3">random sequence in the list, its unexpected occurrence may therefore have induced</text>
+<text top="213" left="108" width="700" height="18" font="3">subjects’ performance to deteriorate (the successes of ‘Short w 1’ was rated at 51.9%,</text>
+<text top="237" left="108" width="700" height="18" font="3">in contrast that of ‘Short w 2’ was 64.8%). Hence ‘Short w 1’ will not be used for the</text>
+<text top="261" left="108" width="435" height="18" font="3">rest of chisquare tests due to its possible unreliability.</text>
+<text top="309" left="108" width="700" height="18" font="6"><b>3.2.4 Word+particle versus word</b>. Two tests assessed relationships among ‘Short w 2’,</text>
+<text top="333" left="108" width="701" height="18" font="3">‘Short w+p 1+2’ and ‘Long w 1+2’, the last two of which are shown as combined values</text>
+<text top="357" left="108" width="701" height="18" font="3">for both the ‘Short w+p’ and both the ‘Long w’ strings, respectively. Our predictions are</text>
+<text top="381" left="108" width="700" height="18" font="3">that ‘Short w 2’ and ‘Short w+p 1+2’ should be different, as should ‘Short w 2’ and</text>
+<text top="405" left="108" width="701" height="18" font="3">‘Long w 1+2’. The reasons are as follows: ‘Short w+p 1+2’ must be syntactically (or</text>
+<text top="429" left="108" width="702" height="18" font="3">morphologically) more difficult to process than ‘Short w 2’ thanks to the presence of a</text>
+<text top="453" left="108" width="700" height="18" font="3">particle after each content word. Moreover ‘Short w+p 1+2’ is phonologically longer by</text>
+<text top="476" left="108" width="700" height="18" font="3">twelve morae than ‘Short w 2’, which might cause difficulty of producing output simply</text>
+<text top="500" left="108" width="701" height="18" font="3">because subjects had to write more letters down for ‘Short w+p 1+2’. Recall that one</text>
+<text top="524" left="108" width="483" height="18" font="3">Japanese alphabet sign roughly corresponds with one mora.</text>
+<text top="522" left="591" width="6" height="11" font="0">5</text>
+<text top="524" left="597" width="211" height="18" font="3"> In the case of ‘Short w 2’</text>
+<text top="548" left="108" width="700" height="18" font="3">and ‘Long w 1+2’, the second reason just mentioned will be applied in view of the fact</text>
+<text top="572" left="108" width="700" height="18" font="3">that ‘Long w 1+2’ is twelve morae longer than ‘Short w 2’ with other factors shared. As</text>
+<text top="596" left="108" width="585" height="18" font="3">to the results, the tests supported the prediction (p=0.000) in both cases.</text>
+<text top="620" left="122" width="687" height="18" font="3">The succeeding test probes into a possible association between ‘Short w+p 1+2’ and</text>
+<text top="644" left="108" width="700" height="18" font="3">‘Long w 1+2’. Bearing in mind that both were identical in phonological length and</text>
+<text top="668" left="108" width="702" height="18" font="3">contained the same number of content words, we can infer that the only difference</text>
+<text top="692" left="108" width="700" height="18" font="3">between them is that ‘Short w+p 1+2’ contains a particle after each content word, but</text>
+<text top="716" left="108" width="700" height="18" font="3">‘Long w 1+2’ does not. An interesting prediction can therefore be made about this test</text>
+<text top="740" left="108" width="700" height="18" font="3">that it would not show any correlation between the two, since ‘Short w+p 1+2’ should</text>
+<text top="764" left="108" width="701" height="18" font="3">be more labourious to process than ‘Long w 1+2’ owing to the presence of particle. The</text>
+<text top="788" left="108" width="701" height="18" font="3">result was as expected: the test supported the prediction (p=0.000). The conclusion can</text>
+<text top="812" left="108" width="700" height="18" font="3">therefore be drawn that the processing weight of a string made of a content word plus</text>
+<text top="836" left="108" width="702" height="18" font="3">a particle ought to be heavier than that of a single content word. In other words, particles</text>
+<text top="860" left="108" width="700" height="18" font="3">should carry some kind of extra weight, even though this may not be as heavy as that of</text>
+<text top="883" left="108" width="120" height="18" font="3">content words.</text>
+<text top="932" left="108" width="700" height="18" font="6"><b>3.2.5 Auxiliary verbs</b>. The following is a consideration given to the results of the two</text>
+<text top="956" left="108" width="700" height="18" font="3">strings containing auxiliary verbs. Although ‘Aux 1’ and ‘Aux 2’ should have been</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">15</text>
+<text top="904" left="450" width="73" height="18" font="6"><b>Figure 6</b></text>
+<text top="209" left="108" width="700" height="18" font="3">similar due to their equal conditions in terms of length and components, a test for these</text>
+<text top="233" left="108" width="700" height="18" font="3">sequences disconfirmed our assumptions (p=0.000). Having examined the number of</text>
+<text top="257" left="108" width="700" height="18" font="3">failures for each unit in the sequences in question, I have found interesting facts which</text>
+<text top="281" left="108" width="700" height="18" font="3">may explain why subjects could recall ‘Aux 1’ with better accuracy than ‘Aux 2’.</text>
+<text top="305" left="108" width="358" height="18" font="3">Observe Figure 6 relevant to the discussion.</text>
+<text top="951" left="108" width="698" height="18" font="3">It can be noticed from Figure 6 that the performance in units 6 and 7 of ‘Aux 2’ was</text>
+<text top="975" left="108" width="700" height="18" font="3">comparatively better. This suggests that chunking effects should have taken place in</text>
+<text top="999" left="108" width="699" height="18" font="3">these regions. As for ‘Aux 1’, the figure also indicates possible chunking occurring</text>
+<text top="1023" left="108" width="182" height="18" font="3">between units 8 and 9.</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">16</text>
+<text top="189" left="122" width="686" height="18" font="3">What is notable is the worse performance in units 1 to 5 of ‘Aux 2’, compared with the</text>
+<text top="213" left="108" width="700" height="18" font="3">corresponding parts of ‘Aux 1’ and ‘Average’, where they roughly overlap each other.</text>
+<text top="237" left="108" width="700" height="18" font="3">We may be able to interpret this pattern as a result of possible ordering effects on ‘Aux</text>
+<text top="261" left="108" width="700" height="18" font="3">2’, considering that the sequence was positioned immediately after the syntactically</text>
+<text top="285" left="108" width="699" height="18" font="3">structured sentence ‘Natural 3’. After hearing ‘Natural 3’, the subjects might have</text>
+<text top="309" left="108" width="700" height="18" font="3">expected another ordinary sentence, but what was to be processed was a random</text>
+<text top="332" left="108" width="700" height="18" font="3">sequence. This conflict between the subjects’ expectations for a natural sentence and</text>
+<text top="356" left="108" width="700" height="18" font="3">coping with a random sequence in reality could have yielded the unpredictably poorer</text>
+<text top="380" left="108" width="700" height="18" font="3">performance on ‘Aux 2’ (especially in the first five units), which consequently led to the</text>
+<text top="404" left="108" width="700" height="18" font="3">dissimilar results between the two sequences in question. It should be remembered in</text>
+<text top="428" left="108" width="700" height="18" font="3">relation with this that the result of the random sequence ‘Short w 1’ which was preceded</text>
+<text top="452" left="108" width="700" height="18" font="3">by the natural sentence ‘Natural 2’ was faultier than that of ‘Short w 2’. This may also</text>
+<text top="476" left="108" width="641" height="18" font="3">explain why the results of ‘Aux 1’ and ‘Aux 2’ were different from each other.</text>
+<text top="524" left="108" width="701" height="18" font="6"><b>3.2.6 Word+auxiliary verb versus word</b>. Continuing the discussion of auxiliary verbs,</text>
+<text top="548" left="108" width="700" height="18" font="3">another chisquare test showed a difference between ‘Short w 2’ and ‘Aux 1+2’ (the</text>
+<text top="572" left="108" width="700" height="18" font="3">combined data of the two ‘Aux’ strings). Considering that both had the same number of</text>
+<text top="596" left="108" width="700" height="18" font="3">content words in a string and the length of the sequence was equivalent, we can interpret</text>
+<text top="620" left="108" width="700" height="18" font="3">the result as evidence that auxiliary verbs are probably separate words. This is because</text>
+<text top="644" left="108" width="702" height="18" font="3">if the auxiliary verbs in ‘Aux 1+2’ had been parts of their preceding content words, there</text>
+<text top="668" left="108" width="700" height="18" font="3">would have been the same number of words in both ‘Short w 2’ and ‘Aux 1+2’, which</text>
+<text top="692" left="108" width="702" height="18" font="3">should have led the test to show a similarity between them. It is therefore assumed that</text>
+<text top="716" left="108" width="699" height="18" font="3">auxiliary verbs must convey some amount of processing cost which would weigh</text>
+<text top="740" left="108" width="403" height="18" font="3">comparatively smaller than that of content words.</text>
+<text top="788" left="108" width="700" height="18" font="6"><b>3.2.7 Numeral quantifiers</b>. Finally, we examine the data regarding the sequence</text>
+<text top="812" left="108" width="700" height="18" font="3">consisting of twelve numeral quantifiers. It is readily noticed that subjects’ performance</text>
+<text top="836" left="108" width="698" height="18" font="3">on this string was surprisingly good with the success score of 824 out of 1200, which</text>
+<text top="860" left="108" width="700" height="18" font="3">was ever better than that of ‘Short w 2’ (778). Since Arabic numerals were allowed to</text>
+<text top="884" left="108" width="700" height="18" font="3">be used for writing the digits, the number of characters to complete ‘Numeral qf’ were</text>
+<text top="908" left="108" width="699" height="18" font="3">considerably fewer compared to those of other sequences, which must have enhanced</text>
+<text top="932" left="108" width="700" height="18" font="3">the subjects’ performance of ‘Numeral qf’. The figures are especially interesting because</text>
+<text top="956" left="108" width="700" height="18" font="3">each of the twelve units to be recalled was morphologically complex, so each part of the</text>
+<text top="980" left="108" width="700" height="18" font="3">complex (the digit and the classifier) counts for far less than a whole word in terms of</text>
+<text top="1004" left="108" width="133" height="18" font="3">processing load.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">17</text>
+<text top="209" left="108" width="242" height="18" font="6"><b>4 Weighing Japanese words</b></text>
+<text top="257" left="108" width="699" height="18" font="3">In this section, I shall attempt to weigh the processing cost of content and function</text>
+<text top="281" left="108" width="700" height="18" font="3">words. It should be pointed out here that no estimation can be made from the experiment</text>
+<text top="305" left="108" width="699" height="18" font="3">about relative weights for each word-class for content words. It will therefore be the case</text>
+<text top="329" left="108" width="700" height="18" font="3">that ‘noun’, ‘adjectival noun’, ‘full verb’ and ‘adjective’ are assigned the same amount</text>
+<text top="353" left="108" width="82" height="18" font="3">of weight.</text>
+<text top="377" left="122" width="686" height="18" font="3">Processing load is calculated on the basis of the number of failures. The sequences</text>
+<text top="401" left="108" width="700" height="18" font="3">considered are as follows: ‘Long w 1+2’, ‘Short w 2’ ‘Short w+p 1+2’, and ‘Aux 1+2’.</text>
+<text top="424" left="108" width="701" height="18" font="3">It should be noted again that ‘Short w 1’ is excluded from deliberation because of its</text>
+<text top="448" left="108" width="700" height="18" font="3">likely unreliability due to ordering effects. We shall take the figure for ‘Long w 1+2’ as</text>
+<text top="472" left="108" width="700" height="18" font="3">the standard against which all the other units are measured: since the failures for ‘Long</text>
+<text top="496" left="108" width="701" height="18" font="3">w 1+2’ are 520, this number counts as a processing weight of 1 unit. The rates for the</text>
+<text top="520" left="108" width="277" height="18" font="3">other units are given in (9) below.</text>
+<text top="568" left="108" width="24" height="18" font="3">(9)</text>
+<text top="592" left="324" width="61" height="18" font="3">failures</text>
+<text top="592" left="594" width="127" height="18" font="3">processing load</text>
+<text top="616" left="135" width="100" height="18" font="3">Long w 1+2</text>
+<text top="616" left="324" width="199" height="18" font="3">520 points=(519+521)/2</text>
+<text top="616" left="594" width="10" height="18" font="3">1</text>
+<text top="640" left="135" width="79" height="18" font="3">Short w 2</text>
+<text top="640" left="324" width="86" height="18" font="3">422 points</text>
+<text top="640" left="594" width="114" height="18" font="3">0.81=422/520</text>
+<text top="664" left="135" width="123" height="18" font="3">Short w+p 1+2</text>
+<text top="664" left="324" width="200" height="18" font="3">594 points=(613+575)/2</text>
+<text top="664" left="594" width="114" height="18" font="3">1.14=594/520</text>
+<text top="688" left="135" width="72" height="18" font="3">Aux 1+2</text>
+<text top="688" left="324" width="200" height="18" font="3">544 points=(474+614)/2</text>
+<text top="688" left="594" width="114" height="18" font="3">1.04=544/520</text>
+<text top="736" left="108" width="700" height="18" font="3">The main difference between ‘Long w 1+2’ and ‘Short w 2’ was their lengths; each unit</text>
+<text top="760" left="108" width="700" height="18" font="3">(i.e. content word) of ‘Long w 1+2’ consisted of five morae whereas that of ‘Short w 2’</text>
+<text top="784" left="108" width="700" height="18" font="3">was composed of four morae. I shall therefore assume that the processing cost for a</text>
+<text top="807" left="108" width="700" height="18" font="3">content word comprising more than four morae is 1 unit, while a content word made up</text>
+<text top="831" left="108" width="702" height="18" font="3">of less than five morae charges approximately the load of 0.8 units. In order to determine</text>
+<text top="855" left="108" width="700" height="18" font="3">the weights for a particle and an auxiliary verb, we need to subtract the load of ‘Short</text>
+<text top="879" left="108" width="700" height="18" font="3">w 2’ from ‘Short w+p 1+2’ and from ‘Aux 1+2’ respectively, bearing in mind that the</text>
+<text top="903" left="108" width="700" height="18" font="3">lengths of the content words used in ‘Short w+p 1+2’ and ‘Aux 1+2’ were less than five</text>
+<text top="927" left="108" width="702" height="18" font="3">morae. According to the calculations, the processing weights for a particle and an</text>
+<text top="951" left="108" width="700" height="18" font="3">auxiliary verb will be about 0.3 and 0.2 units, respectively. In consequence, the</text>
+<text top="975" left="108" width="700" height="18" font="3">approximate processing loads for content words, particles and auxiliary verbs will be</text>
+<text top="999" left="108" width="164" height="18" font="3">assumed as follows:</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">18</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="20" family="Symbol" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">19</text>
+<text top="209" left="108" width="34" height="18" font="3">(10)</text>
+<text top="233" left="324" width="127" height="18" font="3">processing load</text>
+<text top="258" left="135" width="107" height="18" font="3">content word</text>
+<text top="253" left="242" width="12" height="26" font="8"></text>
+<text top="258" left="254" width="10" height="18" font="3">5</text>
+<text top="252" left="265" width="12" height="27" font="12">µ</text>
+<text top="258" left="324" width="62" height="18" font="3">1.0 unit</text>
+<text top="285" left="135" width="107" height="18" font="3">content word</text>
+<text top="279" left="242" width="12" height="26" font="8"></text>
+<text top="285" left="254" width="10" height="18" font="3">4</text>
+<text top="278" left="265" width="12" height="27" font="12">µ</text>
+<text top="285" left="324" width="62" height="18" font="3">0.8 unit</text>
+<text top="310" left="135" width="61" height="18" font="3">particle</text>
+<text top="310" left="324" width="62" height="18" font="3">0.3 unit</text>
+<text top="334" left="135" width="114" height="18" font="3">auxiliary verb</text>
+<text top="334" left="324" width="62" height="18" font="3">0.2 unit</text>
+<text top="406" left="108" width="201" height="18" font="6"><b>5 Verifying the weights</b></text>
+<text top="453" left="108" width="700" height="18" font="3">We will end this report with the verification of (10) on the observed data from the</text>
+<text top="477" left="108" width="700" height="18" font="3">experiment. There was one random sequence of a scrambled grammatical sentence used</text>
+<text top="501" left="108" width="699" height="18" font="3">in the experiment, which was ‘S-Natural 2’. We will first of all calculate its predicted</text>
+<text top="525" left="108" width="700" height="18" font="3">processing load based on (10) then work out the expected numbers of failures and</text>
+<text top="549" left="108" width="700" height="18" font="3">successes for ‘S-Natural 2’. Finally, we will compare the assumed figures and the raw</text>
+<text top="573" left="108" width="411" height="18" font="3">data for ‘S-Natural 2’ earned from the experiment.</text>
+<text top="597" left="122" width="687" height="18" font="3">There were eleven content words whose lengths were less than five morae, one content</text>
+<text top="621" left="108" width="700" height="18" font="3">word longer than five morae, ten particles and one auxiliary verb. Hence the total</text>
+<text top="645" left="108" width="700" height="18" font="3">anticipated processing weight for ‘S-Natural 2’ will be 13.0 units. According to (9), the</text>
+<text top="669" left="108" width="701" height="18" font="3">processing load of 1 unit corresponds to 520 points of failures, so we can derive from</text>
+<text top="693" left="108" width="701" height="18" font="3">(9) that the expected failures for the sequence in question should be 563</text>
+<text top="717" left="108" width="203" height="18" font="3">(=520*13.0/12.0) points.</text>
+<text top="741" left="122" width="686" height="18" font="3">A chisquare test examining an association between the actual result of ‘S-Natural 2’</text>
+<text top="765" left="108" width="700" height="18" font="3">and its predicted figures did not confirm a similarity between the two sequences</text>
+<text top="789" left="108" width="700" height="18" font="3">(p&lt;0.050). In fact, we can recognise that the subjects’ performance on ‘S-Natural 2’ was</text>
+<text top="812" left="108" width="700" height="18" font="3">surprisingly better than had been expected. One possible explanation for this unexpected</text>
+<text top="836" left="108" width="700" height="18" font="3">difference would be that the arrangement of ‘S-Natural 2’ might have made it possible</text>
+<text top="860" left="108" width="700" height="18" font="3">for the subjects to segment and parse the whole twelve units into fewer chunks, which</text>
+<text top="884" left="108" width="700" height="18" font="3">would have given rise to an unpredictably better result. Potential syntactic relations</text>
+<text top="908" left="108" width="699" height="18" font="3">among the first five units in ‘S-Natural 2’, where chunking should have been likely to</text>
+<text top="932" left="108" width="212" height="18" font="3">happen are shown in (11).</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">20</text>
+<text top="483" left="450" width="73" height="18" font="6"><b>Figure 7</b></text>
+<text top="189" left="108" width="34" height="18" font="3">(11)</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">21</text>
+<text top="784" left="450" width="73" height="18" font="6"><b>Figure 8</b></text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">22</text>
+<text top="189" left="108" width="699" height="18" font="3">To reinforce the above assumption, let us monitor the number of failures for each unit</text>
+<text top="213" left="108" width="700" height="18" font="3">of ‘S-Natural 2’ in Figure 8 above. Regarding the graph of ‘S-N 2 expected’, the number</text>
+<text top="237" left="108" width="700" height="18" font="3">of failures expected for each unit was calculated by multiplying each figure of ‘Average’</text>
+<text top="261" left="108" width="700" height="18" font="3">by 1.25 on the basis that the ratio of the total failures between ‘Average’ and ‘S-N 2</text>
+<text top="285" left="108" width="333" height="18" font="3">expected’ is roughly 1 to 1.25 (563/450).</text>
+<text top="309" left="122" width="686" height="18" font="3">We can observe from Figure 8 considerable overlap between ‘S-Natural 2' and ‘S-N</text>
+<text top="332" left="108" width="700" height="18" font="3">2 expected’ in units 8 through 12. There is also a similarity between the two graphs in</text>
+<text top="356" left="108" width="700" height="18" font="3">units 1 and 2 which indicates serial position effects on these units. Furthermore, apparent</text>
+<text top="380" left="108" width="700" height="18" font="3">differences between the two sequences in units 6 and 7 were disconfirmed by chisquare</text>
+<text top="404" left="108" width="699" height="18" font="3">tests comparing the graphs of ‘S-Natural 2’ and ‘S-N 2 expected’ at unit 6 and unit 7</text>
+<text top="428" left="108" width="699" height="18" font="3">individually (p&gt;0.010 for both tests). We shall therefore focus our attention on the</text>
+<text top="452" left="108" width="199" height="18" font="3">remaining of the graphs.</text>
+<text top="476" left="122" width="686" height="18" font="3">The interesting region in Figure 8 is between units 2 and 5 because on one hand, the</text>
+<text top="500" left="108" width="699" height="18" font="3">graph for ‘S-N 2 expected’ rises abruptly at unit 2, while on the other, the one for ‘S-</text>
+<text top="524" left="108" width="700" height="18" font="3">Natural 2’ rises in proportion to the unit number up to unit 5 and then registers acute</text>
+<text top="548" left="108" width="700" height="18" font="3">increase. This suggests that some kind of chunking may have occurred between units 2</text>
+<text top="572" left="108" width="700" height="18" font="3">and 5 in ‘S-Natural 2’. Referring to (11) in which possible chunking into three parts, i.e.</text>
+<text top="596" left="108" width="699" height="18" font="3">units 1 plus 2 and unit 3 and units 4 plus 5 is assumed, we can recognise that our</text>
+<text top="620" left="108" width="546" height="18" font="3">assumption is justified by the implication of the graphs in Figure 8.</text>
+<text top="644" left="122" width="686" height="18" font="3">Moreover, the abrupt increase at unit 5 in ‘S-Natural 2’ may signify that three chunks</text>
+<text top="668" left="108" width="699" height="18" font="3">assumed in (11), all of which were expecting a full verb as their parent, failed to be</text>
+<text top="692" left="108" width="700" height="18" font="3">linked with the verb <i>nomi</i> (to drink) in unit 5 owing to its semantic mismatch especially</text>
+<text top="716" left="108" width="700" height="18" font="3">with the object item <i>koshi</i> <i>o</i> (waist) of unit 3. It follows that the unexpectedly good</text>
+<text top="739" left="108" width="561" height="18" font="3">performance in units 3 to 5 of ‘S-Natural 2’ may be due to chunking.</text>
+<text top="812" left="108" width="113" height="18" font="6"><b>6 Conclusion</b></text>
+<text top="859" left="108" width="702" height="18" font="3">In conclusion, we have developed a method for estimating processing load for Japanese</text>
+<text top="883" left="108" width="701" height="18" font="3">words. We have also determined the approximate processing load for content words</text>
+<text top="907" left="108" width="700" height="18" font="3">belonging to ‘noun’ ‘verb’ or ‘adjective’ and for function words such as particles and</text>
+<text top="931" left="108" width="700" height="18" font="3">auxiliary verbs. By applying relative processing weights to different words, we shall be</text>
+<text top="955" left="108" width="700" height="18" font="3">able to measure the dependency distance of a Japanese sentence or phrase with more</text>
+<text top="979" left="108" width="80" height="18" font="3">precision.</text>
+<text top="1003" left="122" width="685" height="18" font="3">We could however, further refine the approximation in (10) by considering the</text>
+<text top="1027" left="108" width="700" height="18" font="3">memory cost for content words with fewer morae than four and the word-classes</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">23</text>
+<text top="209" left="108" width="700" height="18" font="3">unclassified in (10), specially ‘digit’ and ‘classifier’. This gap is because the experiment</text>
+<text top="233" left="108" width="700" height="18" font="3">does not offer adequate data required to calculate the approximate processing load for</text>
+<text top="257" left="108" width="700" height="18" font="3">these. Despite the sequence consisting of twelve numeral quantifiers in the experiment,</text>
+<text top="281" left="108" width="700" height="18" font="3">the data may be unreliable since the subjects were allowed to used Arabic numbers. For</text>
+<text top="305" left="108" width="584" height="18" font="3">the questions I have laid out here, further investigation will be required.</text>
+<text top="401" left="108" width="95" height="18" font="6"><b>References</b></text>
+<text top="448" left="108" width="700" height="16" font="1">Abeny, S. P. &amp; Johnson, M. (1991). Memory requirements and local ambiguities of parsing strategies.</text>
+<text top="468" left="122" width="352" height="16" font="7"><i>Journal of Psycholinguistic Research 20</i>, 233-250.</text>
+<text top="488" left="108" width="700" height="16" font="1">Bernstein, D. A., Clarke-Stewart, A., Roy, E. J. &amp; Wickens, C. D. (1977). <i>Psychology</i>. (4th ed.) Boston,</text>
+<text top="509" left="122" width="231" height="16" font="1">MA: Houghton Miffin Company.</text>
+<text top="529" left="108" width="700" height="16" font="1">Chomsky, N. &amp; Miller, G. A. (1963). Introduction to the formal analysis of natural languages. In R. D.</text>
+<text top="549" left="122" width="687" height="16" font="1">Luce, R. R. Bush &amp; E. Galanter (eds.), <i>Handbook of Mathematical Psychology</i> (Vol. 2, pp. 269-321).</text>
+<text top="570" left="122" width="198" height="16" font="1">New York, NY: John Wiley.</text>
+<text top="590" left="108" width="367" height="16" font="1">Fraser, N. (1985). A Word Grammar parser. London.</text>
+<text top="610" left="108" width="636" height="16" font="1">Fraser, N. (1989). Parsing and dependency grammar. <i>UCL Working Papers in Linguistics 1</i>.</text>
+<text top="631" left="108" width="335" height="16" font="1">Fraser, N. (1985). Dependency parsing. London.</text>
+<text top="651" left="108" width="700" height="16" font="1">Frazier, L. (1985). Syntactic complexity. In D. Dowty, L. Karttunen &amp; A. Zwicky (eds.), <i>Natural</i></text>
+<text top="671" left="122" width="686" height="16" font="7"><i>Language Processing: Psychological, Computational and Theoretical Perspectives</i>. Cambridge, UK:</text>
+<text top="692" left="122" width="199" height="16" font="1">Cambridge University Press.</text>
+<text top="712" left="108" width="700" height="16" font="1">Frazier, L. &amp; Rayner, K. (1988). Parameterizing the language processing system: Left- vs.</text>
+<text top="732" left="122" width="687" height="16" font="1">right-branching within and across languages. In J. Hawkins (ed.), <i>Explaining Language Universals</i></text>
+<text top="753" left="122" width="237" height="16" font="1">(pp. 247-279). Oxford: Blackwell.</text>
+<text top="773" left="108" width="700" height="16" font="1">Gibson, E. (1991). <i>A Computational Theory of Human Linguistics Processing: Memory Limitations and</i></text>
+<text top="793" left="122" width="609" height="16" font="7"><i>Processing Breakdown</i>. Ph.D. dissertation, Carnegie Mellon University, Pittsburgh, PA.</text>
+<text top="814" left="108" width="700" height="16" font="1">Gibson, E., Thomas, J. &amp; Babyonyshev, M. (1995). Processing center-embedded and self-embedded</text>
+<text top="834" left="122" width="450" height="16" font="1">structures in English and Japanese. Paper presented at the NELS.</text>
+<text top="854" left="108" width="537" height="16" font="1">Gibson, E. (1997). Linguistic complexity: Locality of syntactic dependencies.</text>
+<text top="875" left="108" width="411" height="16" font="1">Hudson, R. A. (1984). <i>Word Grammar</i>. Oxford: Blackwell.</text>
+<text top="895" left="108" width="700" height="16" font="1">Hudson, R. A. (1989). Towards a computer-testable Word Grammar of English. <i>UCL Working Papers</i></text>
+<text top="915" left="122" width="177" height="16" font="7"><i>in Linguistics 1</i>, 321-339.</text>
+<text top="936" left="108" width="468" height="16" font="1">Hudson, R. A. (1990). <i>English Word Grammar</i>. Oxford: Blackwell.</text>
+<text top="956" left="108" width="439" height="16" font="1">Hudson, R. A. (1995). Measuring Syntactic Difficulty. London.</text>
+<text top="976" left="108" width="326" height="16" font="1">Hudson, R. A. (1996a). Discontinuity. London.</text>
+<text top="997" left="108" width="700" height="16" font="1">Hudson, R. A. (1996b). The difficulty of (so-called) self-embedded structures. <i>UCL Working Papers</i></text>
+<text top="1017" left="122" width="177" height="16" font="7"><i>in Linguistics 8</i>, 283-314.</text>
+<text top="1037" left="108" width="604" height="16" font="1">Hudson, R. A. (1997). Weighing other people's words: Syntax and readability. London.</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">24</text>
+<text top="188" left="108" width="700" height="16" font="1">Lewis, R. (1993). <i>An architecturally-based Theory of Human Sentence Comprehension</i>. Ph.D.</text>
+<text top="208" left="122" width="396" height="16" font="1">dissertation, Carnegie Mellon University, Pittsburgh, PA.</text>
+<text top="229" left="108" width="700" height="16" font="1">Marcus, M. (1980). <i>A Theory of Syntactic Recognition for Natural Language</i>. Cambridge, MA: MIT</text>
+<text top="249" left="122" width="41" height="16" font="1">Press.</text>
+<text top="269" left="108" width="700" height="16" font="1">Mazuka, R. &amp; Nagai, N. (1995). Japanese sentence processing: An interdisciplinary approach. In R.</text>
+<text top="290" left="122" width="686" height="16" font="1">Mazuka &amp; N. Nagai (eds.) <i>Japanese Sentence Processing</i> (pp. 1-7). Hillsdale, New Jersey: Lawrence</text>
+<text top="310" left="122" width="173" height="16" font="1">Erlbaum Associates, Inc.</text>
+<text top="330" left="108" width="700" height="16" font="1">Miller, G. A. &amp; Chomsky, N. (1963). Finitary models of language users. In R. D. Luce, R. R. Bush &amp;</text>
+<text top="351" left="122" width="687" height="16" font="1">E. Galanter (eds.), <i>Handbook of Mathematical Psychology</i> (Vol. 2, pp. 419-491). New York, NY: John</text>
+<text top="371" left="122" width="46" height="16" font="1">Wiley.</text>
+<text top="391" left="108" width="700" height="16" font="1">Miller, G. &amp; Isard, S. (1964). Free recall of self-embedded English sentences. <i>Information and Control</i></text>
+<text top="412" left="122" width="79" height="16" font="7"><i>7</i>, 292-303.</text>
+<text top="432" left="108" width="700" height="16" font="1">Pullman, G. &amp; Zwicky, A. (1988). The syntax-phonology interface. In F. Newmeyer (ed.), <i>Linguistics:</i></text>
+<text top="452" left="122" width="687" height="16" font="7"><i>The Cambridge Survey I: Linguistic Theory Foundations</i>. Cambridge: Cambridge University Press.</text>
+<text top="473" left="108" width="481" height="16" font="1">Syaumyan, O. (1995). Parsing English with Word Grammar. London.</text>
+<text top="493" left="108" width="700" height="16" font="1">Stabler, E. P. (1994). The finite connectivity of linguistic structure. In C. Clifton Jr., L. Frazier &amp; K.</text>
+<text top="513" left="122" width="687" height="16" font="1">Rayner (eds.), <i>Perspectives on Sentence Processing</i> (pp. 303-336). Hillsdale, NJ: Lawrence Erlbaum.</text>
+<text top="534" left="108" width="672" height="16" font="1">Sturt, P. (1998). <i>Monotonic parsing and reanalysis</i>. Paper presented at UCL Linguistics seminar.</text>
+<text top="554" left="108" width="414" height="16" font="1">Tesnière, L. (1959). <i>Eléments de Syntaxe Structurale</i>. Paris.</text>
+<text top="574" left="108" width="700" height="16" font="1">Wingfield, A. &amp; Nolan, K. A. (1980). Spontaneous segmentation in normal and in time-compressed</text>
+<text top="595" left="122" width="349" height="16" font="1">speech. <i>Perception and psychophysics 28</i>, 97-102.</text>
+<text top="615" left="108" width="700" height="16" font="1">Wingfield, A. &amp; Butterworth, B. (1984). Running memory for sentences and parts of sentences:</text>
+<text top="635" left="122" width="687" height="16" font="1">Syntactic parsing as a control function in working memory. In H. Bouma &amp; D. Bouwhius (eds.)</text>
+<text top="656" left="122" width="472" height="16" font="7"><i>Attention and Performance X</i> (pp. 351-363). HiIlsdale, NJ:Erlbaum.</text>
+<text top="676" left="108" width="700" height="16" font="1">Yngve, V. H. (1960). <i>A Model and an Hypothesis for Language Structure</i>. Paper presented at the</text>
+<text top="697" left="122" width="360" height="16" font="1">Proceedings of the American Philosophical Society.</text>
+<text top="717" left="108" width="312" height="16" font="1">Zwicky, A. (1977). <i>On Clitics</i>: Bloomington.</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="18" family="Times" color="#000000"/>
+	<fontspec id="14" size="18" family="Times" color="#000000"/>
+	<fontspec id="15" size="10" family="Times" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">25</text>
+<text top="209" left="108" width="361" height="18" font="6"><b>Appendix: sequences used for experiment</b></text>
+<text top="256" left="108" width="411" height="14" font="10">N.B. | indicates a boundary between meaningful units in a sequence.</text>
+<text top="273" left="108" width="700" height="14" font="10">KEY: N=noun; jN=adjectival noun; J=adjective; V=full verb; A=adverb; v=auxiliary verb; p=particle; dN=digit;</text>
+<text top="291" left="108" width="82" height="14" font="10">qN=classifier</text>
+<text top="355" left="108" width="91" height="16" font="13"><b>1. Natural 1</b></text>
+<text top="376" left="108" width="43" height="16" font="14">Akiya</text>
+<text top="376" left="230" width="17" height="16" font="14">de</text>
+<text top="376" left="270" width="25" height="16" font="14">wa|</text>
+<text top="381" left="294" width="5" height="10" font="15">1</text>
+<text top="376" left="324" width="13" height="16" font="14">at</text>
+<text top="376" left="365" width="13" height="16" font="14">te</text>
+<text top="376" left="405" width="27" height="16" font="14">mo|</text>
+<text top="381" left="431" width="5" height="10" font="15">2</text>
+<text top="376" left="486" width="36" height="16" font="14">tanin</text>
+<text top="376" left="554" width="22" height="16" font="14">no|</text>
+<text top="381" left="575" width="5" height="10" font="15">3</text>
+<text top="376" left="608" width="13" height="16" font="14">ie</text>
+<text top="376" left="662" width="22" height="16" font="14">no|</text>
+<text top="381" left="683" width="5" height="10" font="15">4</text>
+<text top="397" left="108" width="109" height="14" font="10">unoccupied house</text>
+<text top="397" left="270" width="30" height="14" font="10">topic</text>
+<text top="397" left="324" width="30" height="14" font="10">to be</text>
+<text top="397" left="405" width="53" height="14" font="10">although</text>
+<text top="397" left="486" width="48" height="14" font="10">stranger</text>
+<text top="397" left="554" width="13" height="14" font="10">of</text>
+<text top="397" left="608" width="35" height="14" font="10">house</text>
+<text top="397" left="662" width="13" height="14" font="10">of</text>
+<text top="415" left="108" width="11" height="14" font="10">N</text>
+<text top="415" left="230" width="8" height="14" font="10">P</text>
+<text top="415" left="270" width="8" height="14" font="10">P</text>
+<text top="415" left="324" width="11" height="14" font="10">V</text>
+<text top="415" left="365" width="8" height="14" font="10">P</text>
+<text top="415" left="405" width="8" height="14" font="10">P</text>
+<text top="415" left="486" width="11" height="14" font="10">N</text>
+<text top="415" left="554" width="8" height="14" font="10">P</text>
+<text top="415" left="608" width="11" height="14" font="10">N</text>
+<text top="415" left="662" width="8" height="14" font="10">P</text>
+<text top="433" left="108" width="57" height="16" font="14">shikichi</text>
+<text top="433" left="189" width="18" height="16" font="14">ni|</text>
+<text top="438" left="206" width="5" height="10" font="15">5</text>
+<text top="433" left="230" width="35" height="16" font="14">katte</text>
+<text top="433" left="297" width="18" height="16" font="14">ni|</text>
+<text top="438" left="314" width="5" height="10" font="15">6</text>
+<text top="433" left="338" width="53" height="16" font="14">ashi o|</text>
+<text top="438" left="390" width="5" height="10" font="15">7</text>
+<text top="433" left="432" width="74" height="16" font="14">humiireru|</text>
+<text top="438" left="506" width="5" height="10" font="15">8</text>
+<text top="433" left="527" width="32" height="16" font="14">koto</text>
+<text top="433" left="580" width="25" height="16" font="14">wa|</text>
+<text top="438" left="605" width="5" height="10" font="15">9</text>
+<text top="433" left="635" width="59" height="16" font="14">houritsu</text>
+<text top="454" left="108" width="53" height="14" font="10">premises</text>
+<text top="454" left="189" width="15" height="14" font="10">on</text>
+<text top="454" left="230" width="55" height="14" font="10">own way</text>
+<text top="454" left="338" width="24" height="14" font="10">foot</text>
+<text top="454" left="378" width="37" height="14" font="10">object</text>
+<text top="454" left="432" width="67" height="14" font="10">to step into</text>
+<text top="454" left="527" width="31" height="14" font="10">thing</text>
+<text top="454" left="581" width="76" height="14" font="10">subject law</text>
+<text top="471" left="108" width="11" height="14" font="10">N</text>
+<text top="471" left="189" width="8" height="14" font="10">P</text>
+<text top="471" left="230" width="15" height="14" font="10">jN</text>
+<text top="471" left="297" width="8" height="14" font="10">P</text>
+<text top="471" left="338" width="11" height="14" font="10">N</text>
+<text top="471" left="378" width="8" height="14" font="10">P</text>
+<text top="471" left="432" width="11" height="14" font="10">V</text>
+<text top="471" left="527" width="11" height="14" font="10">N</text>
+<text top="471" left="581" width="8" height="14" font="10">P</text>
+<text top="471" left="635" width="11" height="14" font="10">N</text>
+<text top="490" left="108" width="18" height="16" font="14">ni|</text>
+<text top="495" left="125" width="11" height="10" font="15">10</text>
+<text top="490" left="162" width="47" height="16" font="14">hanshi</text>
+<text top="490" left="257" width="17" height="16" font="14">ta|</text>
+<text top="495" left="273" width="11" height="10" font="15">11</text>
+<text top="490" left="297" width="32" height="16" font="14">koui</text>
+<text top="490" left="351" width="25" height="16" font="14">da.|</text>
+<text top="495" left="376" width="11" height="10" font="15">12</text>
+<text top="510" left="108" width="12" height="14" font="10">to</text>
+<text top="510" left="162" width="76" height="14" font="10">to be against</text>
+<text top="510" left="257" width="24" height="14" font="10">past</text>
+<text top="510" left="297" width="18" height="14" font="10">act</text>
+<text top="510" left="351" width="40" height="14" font="10">copula</text>
+<text top="528" left="108" width="8" height="14" font="10">P</text>
+<text top="528" left="162" width="11" height="14" font="10">V</text>
+<text top="528" left="257" width="8" height="14" font="10">v</text>
+<text top="528" left="297" width="11" height="14" font="10">N</text>
+<text top="528" left="351" width="8" height="14" font="10">v</text>
+<text top="546" left="108" width="541" height="14" font="10">(Entering a stranger's house without permission, even if it is unoccupied, is an illegal act.)</text>
+<text top="586" left="108" width="91" height="16" font="13"><b>2. Natural 2</b></text>
+<text top="607" left="108" width="79" height="16" font="14">Boku wa|</text>
+<text top="612" left="186" width="5" height="10" font="15">1</text>
+<text top="607" left="216" width="72" height="16" font="14">sofaa ni|</text>
+<text top="612" left="287" width="5" height="10" font="15">2</text>
+<text top="607" left="311" width="67" height="16" font="14">koshi o|</text>
+<text top="612" left="377" width="5" height="10" font="15">3</text>
+<text top="607" left="419" width="45" height="16" font="14">oroshi</text>
+<text top="607" left="486" width="17" height="16" font="14">te|</text>
+<text top="612" left="502" width="5" height="10" font="15">4</text>
+<text top="607" left="527" width="23" height="16" font="14">asa</text>
+<text top="607" left="594" width="22" height="16" font="14">no|</text>
+<text top="612" left="615" width="5" height="10" font="15">5</text>
+<text top="607" left="635" width="47" height="16" font="14">nokori</text>
+<text top="607" left="702" width="22" height="16" font="14">no|</text>
+<text top="612" left="723" width="5" height="10" font="15">6</text>
+<text top="628" left="108" width="5" height="14" font="10">I</text>
+<text top="628" left="162" width="79" height="14" font="10">subject sofa</text>
+<text top="628" left="270" width="12" height="14" font="10">in</text>
+<text top="628" left="311" width="32" height="14" font="10">waist</text>
+<text top="628" left="365" width="37" height="14" font="10">object</text>
+<text top="628" left="419" width="50" height="14" font="10">to lower</text>
+<text top="628" left="527" width="51" height="14" font="10">morning</text>
+<text top="628" left="594" width="13" height="14" font="10">of</text>
+<text top="628" left="635" width="22" height="14" font="10">rest</text>
+<text top="628" left="702" width="13" height="14" font="10">of</text>
+<text top="645" left="108" width="11" height="14" font="10">N</text>
+<text top="645" left="162" width="8" height="14" font="10">P</text>
+<text top="645" left="216" width="11" height="14" font="10">N</text>
+<text top="645" left="270" width="8" height="14" font="10">P</text>
+<text top="645" left="311" width="11" height="14" font="10">N</text>
+<text top="645" left="365" width="8" height="14" font="10">P</text>
+<text top="645" left="419" width="11" height="14" font="10">V</text>
+<text top="645" left="486" width="8" height="14" font="10">P</text>
+<text top="645" left="527" width="11" height="14" font="10">N</text>
+<text top="645" left="594" width="8" height="14" font="10">P</text>
+<text top="645" left="635" width="11" height="14" font="10">N</text>
+<text top="645" left="702" width="8" height="14" font="10">P</text>
+<text top="664" left="108" width="46" height="16" font="14">koohii</text>
+<text top="664" left="176" width="13" height="16" font="14">o|</text>
+<text top="669" left="188" width="5" height="10" font="15">7</text>
+<text top="664" left="230" width="37" height="16" font="14">nomi</text>
+<text top="664" left="297" width="51" height="16" font="14">nagara|</text>
+<text top="669" left="348" width="5" height="10" font="15">8</text>
+<text top="664" left="378" width="43" height="16" font="14">atama</text>
+<text top="664" left="446" width="22" height="16" font="14">no|</text>
+<text top="669" left="467" width="5" height="10" font="15">9</text>
+<text top="664" left="486" width="34" height="16" font="14">naka</text>
+<text top="664" left="540" width="13" height="16" font="14">o|</text>
+<text top="669" left="552" width="11" height="10" font="15">10</text>
+<text top="664" left="594" width="59" height="16" font="14">sukoshi|</text>
+<text top="669" left="652" width="11" height="10" font="15">11</text>
+<text top="685" left="108" width="38" height="14" font="10">coffee</text>
+<text top="685" left="176" width="37" height="14" font="10">object</text>
+<text top="685" left="230" width="47" height="14" font="10">to drink</text>
+<text top="685" left="297" width="33" height="14" font="10">while</text>
+<text top="685" left="378" width="28" height="14" font="10">head</text>
+<text top="685" left="446" width="15" height="14" font="10">no</text>
+<text top="685" left="486" width="36" height="14" font="10">inside</text>
+<text top="685" left="540" width="37" height="14" font="10">object</text>
+<text top="685" left="594" width="38" height="14" font="10">a little</text>
+<text top="702" left="108" width="11" height="14" font="10">N</text>
+<text top="702" left="176" width="8" height="14" font="10">P</text>
+<text top="702" left="230" width="11" height="14" font="10">V</text>
+<text top="702" left="297" width="8" height="14" font="10">P</text>
+<text top="702" left="378" width="11" height="14" font="10">N</text>
+<text top="702" left="446" width="8" height="14" font="10">P</text>
+<text top="702" left="486" width="11" height="14" font="10">N</text>
+<text top="702" left="540" width="8" height="14" font="10">P</text>
+<text top="702" left="594" width="11" height="14" font="10">A</text>
+<text top="721" left="108" width="129" height="16" font="14">seirishi-te-mi ta.|</text>
+<text top="726" left="237" width="11" height="10" font="15">12</text>
+<text top="741" left="108" width="84" height="14" font="10">to try clearing</text>
+<text top="741" left="216" width="24" height="14" font="10">past</text>
+<text top="759" left="108" width="11" height="14" font="10">V</text>
+<text top="759" left="216" width="8" height="14" font="10">v</text>
+<text top="777" left="108" width="579" height="14" font="10">(Sitting on the sofa and drinking the rest of the morning coffee, I tried clearing my head a little.)</text>
+<text top="817" left="108" width="89" height="16" font="13"><b>3. Short d 1</b></text>
+<text top="838" left="108" width="54" height="16" font="14">huusen|</text>
+<text top="843" left="162" width="5" height="10" font="15">1</text>
+<text top="838" left="189" width="42" height="16" font="14">hurui|</text>
+<text top="843" left="230" width="5" height="10" font="15">2</text>
+<text top="838" left="257" width="87" height="16" font="14">muzukashii|</text>
+<text top="843" left="343" width="5" height="10" font="15">3</text>
+<text top="838" left="365" width="48" height="16" font="14">taberu|</text>
+<text top="843" left="413" width="5" height="10" font="15">4</text>
+<text top="838" left="432" width="48" height="16" font="14">akarui|</text>
+<text top="843" left="480" width="5" height="10" font="15">5</text>
+<text top="838" left="500" width="59" height="16" font="14">depaato|</text>
+<text top="843" left="559" width="5" height="10" font="15">6</text>
+<text top="838" left="621" width="66" height="16" font="14">tazuneru|</text>
+<text top="843" left="686" width="5" height="10" font="15">7</text>
+<text top="859" left="108" width="45" height="14" font="10">balloon</text>
+<text top="859" left="189" width="19" height="14" font="10">old</text>
+<text top="859" left="257" width="49" height="14" font="10">difficult</text>
+<text top="859" left="365" width="33" height="14" font="10">to eat</text>
+<text top="859" left="432" width="36" height="14" font="10">bright</text>
+<text top="859" left="500" width="100" height="14" font="10">department store</text>
+<text top="859" left="621" width="36" height="14" font="10">to ask</text>
+<text top="876" left="108" width="11" height="14" font="10">N</text>
+<text top="876" left="189" width="6" height="14" font="10">J</text>
+<text top="876" left="257" width="6" height="14" font="10">J</text>
+<text top="876" left="365" width="11" height="14" font="10">V</text>
+<text top="876" left="432" width="6" height="14" font="10">J</text>
+<text top="876" left="500" width="11" height="14" font="10">N</text>
+<text top="876" left="621" width="11" height="14" font="10">V</text>
+<text top="895" left="108" width="44" height="16" font="14">oishii|</text>
+<text top="900" left="151" width="5" height="10" font="15">8</text>
+<text top="895" left="176" width="57" height="16" font="14">nezumi|</text>
+<text top="900" left="232" width="5" height="10" font="15">9</text>
+<text top="895" left="257" width="73" height="16" font="14">totonoeru|</text>
+<text top="900" left="329" width="11" height="10" font="15">10</text>
+<text top="895" left="351" width="83" height="16" font="14">okurimono|</text>
+<text top="900" left="433" width="11" height="10" font="15">11</text>
+<text top="895" left="459" width="63" height="16" font="14">umareru|</text>
+<text top="900" left="522" width="11" height="10" font="15">12</text>
+<text top="915" left="108" width="29" height="14" font="10">tasty</text>
+<text top="915" left="176" width="39" height="14" font="10">mouse</text>
+<text top="915" left="257" width="61" height="14" font="10">to arrange</text>
+<text top="915" left="351" width="21" height="14" font="10">gift</text>
+<text top="915" left="459" width="61" height="14" font="10">to be born</text>
+<text top="933" left="108" width="6" height="14" font="10">J</text>
+<text top="933" left="176" width="11" height="14" font="10">N</text>
+<text top="933" left="257" width="11" height="14" font="10">V</text>
+<text top="933" left="351" width="11" height="14" font="10">N</text>
+<text top="933" left="459" width="11" height="14" font="10">V</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">26</text>
+<text top="189" left="108" width="112" height="16" font="13"><b>4. Short w+p 2</b></text>
+<text top="209" left="108" width="43" height="16" font="14">atama</text>
+<text top="209" left="176" width="20" height="16" font="14">ga|</text>
+<text top="214" left="196" width="5" height="10" font="15">1</text>
+<text top="209" left="230" width="75" height="16" font="14">komakaku</text>
+<text top="209" left="324" width="17" height="16" font="14">te|</text>
+<text top="214" left="340" width="5" height="10" font="15">2</text>
+<text top="209" left="365" width="37" height="16" font="14">kurai</text>
+<text top="209" left="419" width="18" height="16" font="14">to|</text>
+<text top="214" left="436" width="5" height="10" font="15">3</text>
+<text top="209" left="459" width="51" height="16" font="14">kangae</text>
+<text top="209" left="527" width="17" height="16" font="14">te|</text>
+<text top="214" left="543" width="5" height="10" font="15">4</text>
+<text top="209" left="567" width="61" height="16" font="14">hatarake</text>
+<text top="209" left="648" width="21" height="16" font="14">ba|</text>
+<text top="214" left="668" width="5" height="10" font="15">5</text>
+<text top="230" left="108" width="29" height="14" font="10">head</text>
+<text top="230" left="176" width="78" height="14" font="10">subject fine</text>
+<text top="230" left="365" width="27" height="14" font="10">dark</text>
+<text top="230" left="459" width="47" height="14" font="10">to think</text>
+<text top="230" left="567" width="46" height="14" font="10">to work</text>
+<text top="230" left="648" width="9" height="14" font="10">if</text>
+<text top="248" left="108" width="11" height="14" font="10">N</text>
+<text top="248" left="176" width="8" height="14" font="10">P</text>
+<text top="248" left="230" width="6" height="14" font="10">J</text>
+<text top="248" left="324" width="8" height="14" font="10">P</text>
+<text top="248" left="365" width="6" height="14" font="10">J</text>
+<text top="248" left="419" width="8" height="14" font="10">P</text>
+<text top="248" left="459" width="11" height="14" font="10">V</text>
+<text top="248" left="527" width="8" height="14" font="10">P</text>
+<text top="248" left="567" width="11" height="14" font="10">V</text>
+<text top="248" left="648" width="8" height="14" font="10">P</text>
+<text top="266" left="108" width="75" height="16" font="14">nuigurumi</text>
+<text top="266" left="203" width="13" height="16" font="14">o|</text>
+<text top="271" left="215" width="5" height="10" font="15">6</text>
+<text top="266" left="257" width="99" height="16" font="14">hohoemu to|</text>
+<text top="271" left="355" width="5" height="10" font="15">7</text>
+<text top="266" left="378" width="103" height="16" font="14">tsutsumashiku</text>
+<text top="266" left="500" width="17" height="16" font="14">te|</text>
+<text top="271" left="516" width="5" height="10" font="15">8</text>
+<text top="266" left="540" width="37" height="16" font="14">itaria</text>
+<text top="266" left="594" width="22" height="16" font="14">no|</text>
+<text top="271" left="615" width="5" height="10" font="15">9</text>
+<text top="287" left="108" width="65" height="14" font="10">stuffed toy</text>
+<text top="287" left="202" width="37" height="14" font="10">object</text>
+<text top="287" left="256" width="48" height="14" font="10">to smile</text>
+<text top="287" left="378" width="43" height="14" font="10">modest</text>
+<text top="287" left="540" width="28" height="14" font="10">Italy</text>
+<text top="287" left="594" width="13" height="14" font="10">of</text>
+<text top="305" left="108" width="11" height="14" font="10">N</text>
+<text top="305" left="203" width="8" height="14" font="10">P</text>
+<text top="305" left="257" width="11" height="14" font="10">V</text>
+<text top="305" left="338" width="8" height="14" font="10">P</text>
+<text top="305" left="378" width="6" height="14" font="10">J</text>
+<text top="305" left="500" width="8" height="14" font="10">P</text>
+<text top="305" left="540" width="11" height="14" font="10">N</text>
+<text top="305" left="594" width="8" height="14" font="10">P</text>
+<text top="323" left="108" width="58" height="16" font="14">gyuniku</text>
+<text top="323" left="189" width="25" height="16" font="14">wa|</text>
+<text top="328" left="213" width="11" height="10" font="15">10</text>
+<text top="323" left="243" width="75" height="16" font="14">ureshikere</text>
+<text top="323" left="337" width="21" height="16" font="14">ba|</text>
+<text top="328" left="358" width="11" height="10" font="15">11</text>
+<text top="323" left="392" width="44" height="16" font="14">mayot</text>
+<text top="323" left="473" width="17" height="16" font="14">te|</text>
+<text top="328" left="489" width="11" height="10" font="15">12</text>
+<text top="344" left="108" width="29" height="14" font="10">meat</text>
+<text top="344" left="189" width="30" height="14" font="10">topic</text>
+<text top="344" left="243" width="26" height="14" font="10">glad</text>
+<text top="344" left="338" width="9" height="14" font="10">if</text>
+<text top="344" left="392" width="60" height="14" font="10">to wonder</text>
+<text top="362" left="108" width="11" height="14" font="10">N</text>
+<text top="362" left="189" width="8" height="14" font="10">P</text>
+<text top="362" left="243" width="6" height="14" font="10">J</text>
+<text top="362" left="338" width="8" height="14" font="10">P</text>
+<text top="362" left="392" width="11" height="14" font="10">V</text>
+<text top="362" left="473" width="8" height="14" font="10">P</text>
+<text top="402" left="108" width="106" height="16" font="13"><b>5. Numeral qf</b></text>
+<text top="423" left="108" width="23" height="16" font="14">jup</text>
+<text top="423" left="149" width="31" height="16" font="14">pon|</text>
+<text top="428" left="179" width="5" height="10" font="15">1</text>
+<text top="423" left="216" width="85" height="16" font="14">hachi mai|</text>
+<text top="428" left="300" width="5" height="10" font="15">2</text>
+<text top="423" left="378" width="56" height="16" font="14">juu-ichi</text>
+<text top="423" left="459" width="14" height="16" font="14">ji|</text>
+<text top="428" left="472" width="5" height="10" font="15">3</text>
+<text top="423" left="513" width="81" height="16" font="14">ni-jut tou|</text>
+<text top="428" left="593" width="5" height="10" font="15">4</text>
+<text top="443" left="108" width="15" height="14" font="10">10</text>
+<text top="443" left="149" width="40" height="14" font="10">bottles</text>
+<text top="443" left="216" width="8" height="14" font="10">8</text>
+<text top="443" left="270" width="94" height="14" font="10">thin flat objects</text>
+<text top="443" left="378" width="15" height="14" font="10">11</text>
+<text top="443" left="459" width="69" height="14" font="10">o'clock 20</text>
+<text top="443" left="567" width="46" height="14" font="10">animals</text>
+<text top="461" left="108" width="18" height="14" font="10">dN</text>
+<text top="461" left="149" width="18" height="14" font="10">qN</text>
+<text top="461" left="216" width="18" height="14" font="10">dN</text>
+<text top="461" left="270" width="18" height="14" font="10">qN</text>
+<text top="461" left="378" width="45" height="14" font="10">dN dN</text>
+<text top="461" left="459" width="18" height="14" font="10">qN</text>
+<text top="461" left="513" width="72" height="14" font="10">dN dN qN</text>
+<text top="479" left="108" width="49" height="16" font="14">ichi i|</text>
+<text top="484" left="157" width="5" height="10" font="15">5</text>
+<text top="479" left="203" width="51" height="16" font="14">ni wa|</text>
+<text top="484" left="254" width="5" height="10" font="15">6</text>
+<text top="479" left="284" width="24" height="16" font="14">san</text>
+<text top="479" left="324" width="22" height="16" font="14">ko|</text>
+<text top="484" left="345" width="5" height="10" font="15">7</text>
+<text top="479" left="378" width="77" height="16" font="14">go-juu-san</text>
+<text top="479" left="473" width="31" height="16" font="14">pun|</text>
+<text top="484" left="503" width="5" height="10" font="15">8</text>
+<text top="479" left="540" width="35" height="16" font="14">kyuu</text>
+<text top="479" left="594" width="26" height="16" font="14">dai|</text>
+<text top="484" left="619" width="5" height="10" font="15">9</text>
+<text top="500" left="108" width="8" height="14" font="10">1</text>
+<text top="500" left="149" width="32" height="14" font="10">place</text>
+<text top="500" left="203" width="8" height="14" font="10">2</text>
+<text top="500" left="230" width="30" height="14" font="10">birds</text>
+<text top="500" left="284" width="8" height="14" font="10">3</text>
+<text top="500" left="324" width="38" height="14" font="10">pieces</text>
+<text top="500" left="378" width="15" height="14" font="10">53</text>
+<text top="500" left="473" width="47" height="14" font="10">minutes</text>
+<text top="500" left="540" width="8" height="14" font="10">9</text>
+<text top="500" left="594" width="56" height="14" font="10">machines</text>
+<text top="518" left="108" width="18" height="14" font="10">dN</text>
+<text top="518" left="149" width="18" height="14" font="10">qN</text>
+<text top="518" left="203" width="45" height="14" font="10">dN qN</text>
+<text top="518" left="284" width="18" height="14" font="10">dN</text>
+<text top="518" left="324" width="18" height="14" font="10">qN</text>
+<text top="518" left="378" width="72" height="14" font="10">dN dN dN</text>
+<text top="518" left="473" width="18" height="14" font="10">qN</text>
+<text top="518" left="540" width="18" height="14" font="10">dN</text>
+<text top="518" left="594" width="18" height="14" font="10">qN</text>
+<text top="536" left="108" width="33" height="16" font="14">roku</text>
+<text top="536" left="162" width="40" height="16" font="14">satsu|</text>
+<text top="541" left="201" width="11" height="10" font="15">10</text>
+<text top="536" left="230" width="66" height="16" font="14">yon kai|</text>
+<text top="541" left="295" width="11" height="10" font="15">11</text>
+<text top="536" left="324" width="21" height="16" font="14">shi</text>
+<text top="536" left="365" width="41" height="16" font="14">gatsu|</text>
+<text top="541" left="406" width="11" height="10" font="15">12</text>
+<text top="557" left="108" width="8" height="14" font="10">6</text>
+<text top="557" left="162" width="36" height="14" font="10">books</text>
+<text top="557" left="229" width="8" height="14" font="10">4</text>
+<text top="557" left="270" width="32" height="14" font="10">times</text>
+<text top="557" left="324" width="8" height="14" font="10">4</text>
+<text top="557" left="365" width="84" height="14" font="10">month (April)</text>
+<text top="575" left="108" width="18" height="14" font="10">dN</text>
+<text top="575" left="162" width="18" height="14" font="10">qN</text>
+<text top="575" left="230" width="18" height="14" font="10">dN</text>
+<text top="575" left="270" width="18" height="14" font="10">qN</text>
+<text top="575" left="324" width="18" height="14" font="10">dN</text>
+<text top="575" left="365" width="18" height="14" font="10">qN</text>
+<text top="615" left="108" width="64" height="16" font="13"><b>6. Aux 1</b></text>
+<text top="636" left="108" width="33" height="16" font="14">kirei</text>
+<text top="636" left="189" width="21" height="16" font="14">da|</text>
+<text top="641" left="209" width="5" height="10" font="15">1</text>
+<text top="636" left="243" width="27" height="16" font="14">hon</text>
+<text top="636" left="297" width="37" height="16" font="14">desu|</text>
+<text top="641" left="333" width="5" height="10" font="15">2</text>
+<text top="636" left="351" width="19" height="16" font="14">mi</text>
+<text top="636" left="405" width="43" height="16" font="14">mashi</text>
+<text top="636" left="473" width="17" height="16" font="14">ta|</text>
+<text top="641" left="489" width="5" height="10" font="15">3</text>
+<text top="636" left="513" width="61" height="16" font="14">uso da|</text>
+<text top="641" left="574" width="5" height="10" font="15">4</text>
+<text top="636" left="608" width="55" height="16" font="14">shizuka</text>
+<text top="656" left="108" width="54" height="14" font="10">beautiful</text>
+<text top="656" left="189" width="40" height="14" font="10">copula</text>
+<text top="656" left="243" width="30" height="14" font="10">book</text>
+<text top="656" left="297" width="40" height="14" font="10">copula</text>
+<text top="656" left="351" width="35" height="14" font="10">to see</text>
+<text top="656" left="405" width="34" height="14" font="10">polite</text>
+<text top="656" left="472" width="24" height="14" font="10">past</text>
+<text top="656" left="513" width="15" height="14" font="10">lie</text>
+<text top="656" left="553" width="40" height="14" font="10">copula</text>
+<text top="656" left="607" width="30" height="14" font="10">quiet</text>
+<text top="674" left="108" width="15" height="14" font="10">jN</text>
+<text top="674" left="189" width="8" height="14" font="10">v</text>
+<text top="674" left="243" width="11" height="14" font="10">N</text>
+<text top="674" left="297" width="8" height="14" font="10">v</text>
+<text top="674" left="351" width="11" height="14" font="10">V</text>
+<text top="674" left="405" width="8" height="14" font="10">v</text>
+<text top="674" left="473" width="8" height="14" font="10">v</text>
+<text top="674" left="513" width="11" height="14" font="10">N</text>
+<text top="674" left="554" width="8" height="14" font="10">v</text>
+<text top="674" left="608" width="15" height="14" font="10">jN</text>
+<text top="693" left="108" width="21" height="16" font="14">da|</text>
+<text top="698" left="128" width="5" height="10" font="15">5</text>
+<text top="693" left="162" width="36" height="16" font="14">kaeri</text>
+<text top="693" left="230" width="42" height="16" font="14">masu|</text>
+<text top="698" left="271" width="5" height="10" font="15">6</text>
+<text top="693" left="297" width="33" height="16" font="14">ason</text>
+<text top="693" left="351" width="21" height="16" font="14">da|</text>
+<text top="698" left="371" width="5" height="10" font="15">7</text>
+<text top="693" left="405" width="39" height="16" font="14">yukai</text>
+<text top="693" left="473" width="21" height="16" font="14">na|</text>
+<text top="698" left="493" width="5" height="10" font="15">8</text>
+<text top="693" left="527" width="88" height="16" font="14">namida da|</text>
+<text top="698" left="614" width="5" height="10" font="15">9</text>
+<text top="713" left="108" width="40" height="14" font="10">copula</text>
+<text top="713" left="162" width="51" height="14" font="10">to return</text>
+<text top="713" left="229" width="34" height="14" font="10">polite</text>
+<text top="713" left="297" width="78" height="14" font="10">to play past</text>
+<text top="713" left="405" width="49" height="14" font="10">pleasant</text>
+<text top="713" left="473" width="40" height="14" font="10">copula</text>
+<text top="713" left="526" width="23" height="14" font="10">tear</text>
+<text top="713" left="594" width="40" height="14" font="10">copula</text>
+<text top="731" left="108" width="8" height="14" font="10">v</text>
+<text top="731" left="162" width="11" height="14" font="10">V</text>
+<text top="731" left="230" width="8" height="14" font="10">v</text>
+<text top="731" left="297" width="11" height="14" font="10">V</text>
+<text top="731" left="351" width="8" height="14" font="10">v</text>
+<text top="731" left="405" width="15" height="14" font="10">jN</text>
+<text top="731" left="473" width="8" height="14" font="10">v</text>
+<text top="731" left="527" width="11" height="14" font="10">N</text>
+<text top="731" left="594" width="8" height="14" font="10">v</text>
+<text top="749" left="108" width="40" height="16" font="14">genki</text>
+<text top="749" left="176" width="21" height="16" font="14">na|</text>
+<text top="754" left="196" width="11" height="10" font="15">10</text>
+<text top="749" left="230" width="34" height="16" font="14">hana</text>
+<text top="749" left="284" width="37" height="16" font="14">desu|</text>
+<text top="754" left="320" width="11" height="10" font="15">11</text>
+<text top="749" left="351" width="40" height="16" font="14">kikoe</text>
+<text top="749" left="419" width="17" height="16" font="14">ta|</text>
+<text top="754" left="435" width="11" height="10" font="15">12</text>
+<text top="770" left="108" width="44" height="14" font="10">healthy</text>
+<text top="770" left="176" width="40" height="14" font="10">copula</text>
+<text top="770" left="230" width="39" height="14" font="10">flower</text>
+<text top="770" left="284" width="40" height="14" font="10">copula</text>
+<text top="770" left="351" width="52" height="14" font="10">to sound</text>
+<text top="770" left="419" width="24" height="14" font="10">past</text>
+<text top="788" left="108" width="15" height="14" font="10">jN</text>
+<text top="788" left="176" width="8" height="14" font="10">v</text>
+<text top="788" left="230" width="11" height="14" font="10">N</text>
+<text top="788" left="284" width="8" height="14" font="10">v</text>
+<text top="788" left="351" width="11" height="14" font="10">V</text>
+<text top="788" left="419" width="8" height="14" font="10">v</text>
+<text top="828" left="108" width="86" height="16" font="13"><b>7. Long d 1</b></text>
+<text top="849" left="108" width="67" height="16" font="14">reizouko|</text>
+<text top="854" left="174" width="5" height="10" font="15">1</text>
+<text top="849" left="203" width="87" height="16" font="14">konpyuutaa|</text>
+<text top="854" left="289" width="5" height="10" font="15">2</text>
+<text top="849" left="311" width="72" height="16" font="14">chirakasu|</text>
+<text top="854" left="383" width="5" height="10" font="15">3</text>
+<text top="849" left="405" width="97" height="16" font="14">kagayakashii|</text>
+<text top="854" left="501" width="5" height="10" font="15">4</text>
+<text top="849" left="527" width="56" height="16" font="14">tamago|</text>
+<text top="854" left="583" width="5" height="10" font="15">5</text>
+<text top="849" left="621" width="97" height="16" font="14">itametsukeru|</text>
+<text top="854" left="717" width="5" height="10" font="15">6</text>
+<text top="869" left="108" width="69" height="14" font="10">refrigerator</text>
+<text top="869" left="203" width="56" height="14" font="10">computer</text>
+<text top="869" left="311" width="55" height="14" font="10">to scatter</text>
+<text top="869" left="405" width="49" height="14" font="10">glorious</text>
+<text top="869" left="527" width="22" height="14" font="10">egg</text>
+<text top="869" left="621" width="62" height="14" font="10">to torment</text>
+<text top="887" left="108" width="11" height="14" font="10">N</text>
+<text top="887" left="203" width="11" height="14" font="10">N</text>
+<text top="887" left="311" width="11" height="14" font="10">V</text>
+<text top="887" left="405" width="6" height="14" font="10">J</text>
+<text top="887" left="527" width="11" height="14" font="10">N</text>
+<text top="887" left="621" width="11" height="14" font="10">V</text>
+<text top="906" left="108" width="98" height="16" font="14">atsukamashii|</text>
+<text top="911" left="205" width="5" height="10" font="15">7</text>
+<text top="906" left="230" width="98" height="16" font="14">moushikomu|</text>
+<text top="911" left="327" width="5" height="10" font="15">8</text>
+<text top="906" left="351" width="63" height="16" font="14">suzushii|</text>
+<text top="911" left="414" width="5" height="10" font="15">9</text>
+<text top="906" left="432" width="72" height="16" font="14">yakusoku|</text>
+<text top="911" left="504" width="11" height="10" font="15">10</text>
+<text top="906" left="540" width="65" height="16" font="14">kashikoi|</text>
+<text top="911" left="604" width="11" height="10" font="15">11</text>
+<text top="906" left="635" width="83" height="16" font="14">wakimaeru|</text>
+<text top="911" left="718" width="11" height="10" font="15">12</text>
+<text top="926" left="108" width="84" height="14" font="10">presumptuous</text>
+<text top="926" left="229" width="49" height="14" font="10">to apply</text>
+<text top="926" left="351" width="26" height="14" font="10">cool</text>
+<text top="926" left="432" width="48" height="14" font="10">promise</text>
+<text top="926" left="540" width="28" height="14" font="10">wise</text>
+<text top="926" left="634" width="82" height="14" font="10">to distinguish</text>
+<text top="944" left="108" width="6" height="14" font="10">J</text>
+<text top="944" left="230" width="11" height="14" font="10">V</text>
+<text top="944" left="351" width="6" height="14" font="10">J</text>
+<text top="944" left="432" width="11" height="14" font="10">N</text>
+<text top="944" left="540" width="6" height="14" font="10">J</text>
+<text top="944" left="635" width="11" height="14" font="10">V</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Measuring</i></text>
+<text top="152" left="108" width="269" height="16" font="7"><i>the processing load of Japanese words</i></text>
+<text top="132" left="791" width="17" height="16" font="1">27</text>
+<text top="209" left="108" width="91" height="16" font="13"><b>8. Natural 3</b></text>
+<text top="230" left="108" width="48" height="16" font="14">Tonari</text>
+<text top="230" left="176" width="22" height="16" font="14">no|</text>
+<text top="235" left="197" width="5" height="10" font="15">1</text>
+<text top="230" left="230" width="61" height="16" font="14">musume</text>
+<text top="230" left="310" width="25" height="16" font="14">wa|</text>
+<text top="235" left="335" width="5" height="10" font="15">2</text>
+<text top="230" left="378" width="36" height="16" font="14">boku</text>
+<text top="230" left="432" width="22" height="16" font="14">no|</text>
+<text top="235" left="453" width="5" height="10" font="15">3</text>
+<text top="230" left="486" width="45" height="16" font="14">tekubi</text>
+<text top="230" left="554" width="18" height="16" font="14">ni|</text>
+<text top="235" left="571" width="5" height="10" font="15">4</text>
+<text top="230" left="594" width="76" height="16" font="14">kusuriyubi</text>
+<text top="230" left="689" width="13" height="16" font="14">o|</text>
+<text top="235" left="701" width="5" height="10" font="15">5</text>
+<text top="230" left="743" width="14" height="16" font="14">oi</text>
+<text top="250" left="108" width="26" height="14" font="10">next</text>
+<text top="250" left="176" width="13" height="14" font="10">of</text>
+<text top="250" left="229" width="21" height="14" font="10">girl</text>
+<text top="250" left="310" width="43" height="14" font="10">subject</text>
+<text top="250" left="378" width="5" height="14" font="10">I</text>
+<text top="250" left="432" width="13" height="14" font="10">of</text>
+<text top="250" left="486" width="30" height="14" font="10">wrist</text>
+<text top="250" left="553" width="15" height="14" font="10">on</text>
+<text top="250" left="594" width="67" height="14" font="10">little finger</text>
+<text top="250" left="689" width="37" height="14" font="10">object</text>
+<text top="250" left="743" width="35" height="14" font="10">to put</text>
+<text top="268" left="108" width="11" height="14" font="10">N</text>
+<text top="268" left="176" width="8" height="14" font="10">P</text>
+<text top="268" left="230" width="11" height="14" font="10">N</text>
+<text top="268" left="311" width="8" height="14" font="10">P</text>
+<text top="268" left="378" width="11" height="14" font="10">N</text>
+<text top="268" left="432" width="8" height="14" font="10">P</text>
+<text top="268" left="486" width="11" height="14" font="10">N</text>
+<text top="268" left="554" width="8" height="14" font="10">P</text>
+<text top="268" left="594" width="11" height="14" font="10">N</text>
+<text top="268" left="689" width="8" height="14" font="10">P</text>
+<text top="268" left="743" width="11" height="14" font="10">V</text>
+<text top="287" left="108" width="17" height="16" font="14">te|</text>
+<text top="292" left="124" width="5" height="10" font="15">6</text>
+<text top="287" left="149" width="89" height="16" font="14">katachi no|</text>
+<text top="292" left="237" width="5" height="10" font="15">7</text>
+<text top="287" left="270" width="107" height="16" font="14">sadamara nai|</text>
+<text top="292" left="376" width="5" height="10" font="15">8</text>
+<text top="287" left="419" width="54" height="16" font="14">kimyou</text>
+<text top="287" left="499" width="21" height="16" font="14">na|</text>
+<text top="292" left="520" width="5" height="10" font="15">9</text>
+<text top="287" left="567" width="67" height="16" font="14">zukei o|</text>
+<text top="292" left="633" width="11" height="10" font="15">10</text>
+<text top="307" left="149" width="34" height="14" font="10">shape</text>
+<text top="307" left="216" width="13" height="14" font="10">of</text>
+<text top="307" left="270" width="65" height="14" font="10">to be fixed</text>
+<text top="307" left="351" width="51" height="14" font="10">negative</text>
+<text top="307" left="419" width="43" height="14" font="10">strange</text>
+<text top="307" left="500" width="40" height="14" font="10">copula</text>
+<text top="307" left="567" width="36" height="14" font="10">figure</text>
+<text top="307" left="621" width="37" height="14" font="10">object</text>
+<text top="325" left="108" width="8" height="14" font="10">P</text>
+<text top="325" left="149" width="11" height="14" font="10">N</text>
+<text top="325" left="216" width="8" height="14" font="10">P</text>
+<text top="325" left="270" width="11" height="14" font="10">V</text>
+<text top="325" left="351" width="8" height="14" font="10">v</text>
+<text top="325" left="419" width="15" height="14" font="10">jN</text>
+<text top="325" left="500" width="8" height="14" font="10">v</text>
+<text top="325" left="567" width="11" height="14" font="10">N</text>
+<text top="325" left="621" width="8" height="14" font="10">P</text>
+<text top="343" left="108" width="34" height="16" font="14">soko</text>
+<text top="343" left="162" width="18" height="16" font="14">ni|</text>
+<text top="349" left="179" width="11" height="10" font="15">11</text>
+<text top="343" left="216" width="22" height="16" font="14">kai</text>
+<text top="343" left="270" width="21" height="16" font="14">ta.|</text>
+<text top="349" left="291" width="11" height="10" font="15">12</text>
+<text top="364" left="108" width="30" height="14" font="10">there</text>
+<text top="364" left="162" width="15" height="14" font="10">on</text>
+<text top="364" left="216" width="78" height="14" font="10">to draw past</text>
+<text top="382" left="108" width="8" height="14" font="10">n</text>
+<text top="382" left="162" width="8" height="14" font="10">P</text>
+<text top="382" left="216" width="11" height="14" font="10">V</text>
+<text top="382" left="270" width="8" height="14" font="10">v</text>
+<text top="400" left="108" width="598" height="14" font="10">(The girl next to me put her little finger on my wrist and drew a strange and shapeless figure there.)</text>
+<text top="440" left="108" width="64" height="16" font="13"><b>9. Aux 2</b></text>
+<text top="461" left="108" width="61" height="16" font="14">nigiyaka</text>
+<text top="461" left="189" width="21" height="16" font="14">da|</text>
+<text top="466" left="209" width="5" height="10" font="15">1</text>
+<text top="461" left="243" width="35" height="16" font="14">hune</text>
+<text top="461" left="297" width="37" height="16" font="14">desu|</text>
+<text top="466" left="333" width="5" height="10" font="15">2</text>
+<text top="461" left="365" width="37" height="16" font="14">yomi</text>
+<text top="461" left="432" width="43" height="16" font="14">mashi</text>
+<text top="461" left="500" width="17" height="16" font="14">ta|</text>
+<text top="466" left="516" width="5" height="10" font="15">3</text>
+<text top="461" left="540" width="40" height="16" font="14">kome</text>
+<text top="461" left="607" width="21" height="16" font="14">da|</text>
+<text top="466" left="628" width="5" height="10" font="15">4</text>
+<text top="461" left="662" width="22" height="16" font="14">kai</text>
+<text top="481" left="108" width="49" height="14" font="10">bustling</text>
+<text top="481" left="189" width="40" height="14" font="10">copula</text>
+<text top="481" left="243" width="25" height="14" font="10">ship</text>
+<text top="481" left="297" width="40" height="14" font="10">copula</text>
+<text top="481" left="364" width="41" height="14" font="10">to read</text>
+<text top="481" left="432" width="34" height="14" font="10">polite</text>
+<text top="481" left="499" width="24" height="14" font="10">past</text>
+<text top="481" left="540" width="23" height="14" font="10">rice</text>
+<text top="481" left="607" width="40" height="14" font="10">copula</text>
+<text top="481" left="661" width="38" height="14" font="10">to buy</text>
+<text top="499" left="108" width="15" height="14" font="10">jN</text>
+<text top="499" left="189" width="8" height="14" font="10">v</text>
+<text top="499" left="243" width="11" height="14" font="10">N</text>
+<text top="499" left="297" width="8" height="14" font="10">v</text>
+<text top="499" left="365" width="11" height="14" font="10">V</text>
+<text top="499" left="432" width="8" height="14" font="10">v</text>
+<text top="499" left="500" width="8" height="14" font="10">v</text>
+<text top="499" left="540" width="11" height="14" font="10">N</text>
+<text top="499" left="608" width="8" height="14" font="10">v</text>
+<text top="499" left="662" width="11" height="14" font="10">V</text>
+<text top="518" left="108" width="42" height="16" font="14">masu|</text>
+<text top="523" left="149" width="5" height="10" font="15">5</text>
+<text top="518" left="176" width="36" height="16" font="14">hima</text>
+<text top="518" left="243" width="21" height="16" font="14">na|</text>
+<text top="523" left="263" width="5" height="10" font="15">6</text>
+<text top="518" left="297" width="38" height="16" font="14">usagi</text>
+<text top="518" left="351" width="37" height="16" font="14">desu|</text>
+<text top="523" left="387" width="5" height="10" font="15">7</text>
+<text top="518" left="419" width="37" height="16" font="14">benri</text>
+<text top="518" left="499" width="21" height="16" font="14">na|</text>
+<text top="523" left="520" width="5" height="10" font="15">8</text>
+<text top="518" left="554" width="23" height="16" font="14">ton</text>
+<text top="518" left="608" width="21" height="16" font="14">da|</text>
+<text top="523" left="628" width="5" height="10" font="15">9</text>
+<text top="538" left="108" width="34" height="14" font="10">polite</text>
+<text top="538" left="176" width="40" height="14" font="10">leisure</text>
+<text top="538" left="243" width="40" height="14" font="10">copula</text>
+<text top="538" left="297" width="35" height="14" font="10">rabbit</text>
+<text top="538" left="351" width="40" height="14" font="10">copula</text>
+<text top="538" left="419" width="66" height="14" font="10">convenient</text>
+<text top="538" left="499" width="40" height="14" font="10">copula</text>
+<text top="538" left="553" width="32" height="14" font="10">to fly</text>
+<text top="538" left="607" width="24" height="14" font="10">past</text>
+<text top="556" left="108" width="8" height="14" font="10">v</text>
+<text top="556" left="176" width="15" height="14" font="10">jN</text>
+<text top="556" left="243" width="8" height="14" font="10">v</text>
+<text top="556" left="297" width="11" height="14" font="10">N</text>
+<text top="556" left="351" width="8" height="14" font="10">v</text>
+<text top="556" left="419" width="15" height="14" font="10">jN</text>
+<text top="556" left="500" width="8" height="14" font="10">v</text>
+<text top="556" left="554" width="11" height="14" font="10">V</text>
+<text top="556" left="608" width="8" height="14" font="10">v</text>
+<text top="574" left="108" width="41" height="16" font="14">tomat</text>
+<text top="574" left="176" width="17" height="16" font="14">ta|</text>
+<text top="580" left="192" width="11" height="10" font="15">10</text>
+<text top="574" left="216" width="33" height="16" font="14">kirai</text>
+<text top="574" left="297" width="21" height="16" font="14">da|</text>
+<text top="580" left="317" width="11" height="10" font="15">11</text>
+<text top="574" left="351" width="75" height="16" font="14">anata da|</text>
+<text top="580" left="425" width="11" height="10" font="15">12</text>
+<text top="595" left="108" width="41" height="14" font="10">to stop</text>
+<text top="595" left="176" width="24" height="14" font="10">past</text>
+<text top="595" left="216" width="56" height="14" font="10">to dislike</text>
+<text top="595" left="297" width="40" height="14" font="10">copula</text>
+<text top="595" left="351" width="22" height="14" font="10">you</text>
+<text top="595" left="405" width="40" height="14" font="10">copula</text>
+<text top="613" left="108" width="11" height="14" font="10">V</text>
+<text top="613" left="176" width="8" height="14" font="10">v</text>
+<text top="613" left="216" width="15" height="14" font="10">jN</text>
+<text top="613" left="297" width="8" height="14" font="10">v</text>
+<text top="613" left="351" width="11" height="14" font="10">N</text>
+<text top="613" left="405" width="8" height="14" font="10">v</text>
+<text top="653" left="108" width="95" height="16" font="13"><b>10. Long d 2</b></text>
+<text top="674" left="108" width="90" height="16" font="14">nagusameru|</text>
+<text top="679" left="198" width="5" height="10" font="15">1</text>
+<text top="674" left="230" width="85" height="16" font="14">mayoneezu|</text>
+<text top="679" left="314" width="5" height="10" font="15">2</text>
+<text top="674" left="351" width="67" height="16" font="14">isogashii|</text>
+<text top="679" left="418" width="5" height="10" font="15">3</text>
+<text top="674" left="446" width="66" height="16" font="14">dairiseki|</text>
+<text top="679" left="511" width="5" height="10" font="15">4</text>
+<text top="674" left="540" width="91" height="16" font="14">urayamashii|</text>
+<text top="679" left="631" width="5" height="10" font="15">5</text>
+<text top="674" left="662" width="64" height="16" font="14">otoroeru|</text>
+<text top="679" left="726" width="5" height="10" font="15">6</text>
+<text top="694" left="108" width="63" height="14" font="10">to comfort</text>
+<text top="694" left="230" width="71" height="14" font="10">mayonnaise</text>
+<text top="694" left="351" width="29" height="14" font="10">busy</text>
+<text top="694" left="446" width="42" height="14" font="10">marble</text>
+<text top="694" left="540" width="47" height="14" font="10">envious</text>
+<text top="694" left="662" width="59" height="14" font="10">to decline</text>
+<text top="712" left="108" width="11" height="14" font="10">V</text>
+<text top="712" left="230" width="11" height="14" font="10">N</text>
+<text top="712" left="351" width="6" height="14" font="10">J</text>
+<text top="712" left="446" width="11" height="14" font="10">N</text>
+<text top="712" left="540" width="6" height="14" font="10">J</text>
+<text top="712" left="662" width="11" height="14" font="10">V</text>
+<text top="731" left="108" width="70" height="16" font="14">shiraberu|</text>
+<text top="736" left="178" width="5" height="10" font="15">7</text>
+<text top="731" left="216" width="64" height="16" font="14">kanashii|</text>
+<text top="736" left="279" width="5" height="10" font="15">8</text>
+<text top="731" left="311" width="87" height="16" font="14">keisatsukan|</text>
+<text top="736" left="398" width="5" height="10" font="15">9</text>
+<text top="731" left="432" width="74" height="16" font="14">omoidasu|</text>
+<text top="736" left="505" width="11" height="10" font="15">10</text>
+<text top="731" left="540" width="64" height="16" font="14">niwatori|</text>
+<text top="736" left="603" width="11" height="10" font="15">11</text>
+<text top="731" left="648" width="97" height="16" font="14">misuborashii|</text>
+<text top="736" left="744" width="11" height="10" font="15">12</text>
+<text top="751" left="108" width="66" height="14" font="10">to examine</text>
+<text top="751" left="216" width="20" height="14" font="10">sad</text>
+<text top="751" left="310" width="81" height="14" font="10">police officer</text>
+<text top="751" left="432" width="76" height="14" font="10">to remember</text>
+<text top="751" left="540" width="28" height="14" font="10">fowl</text>
+<text top="751" left="648" width="43" height="14" font="10">shabby</text>
+<text top="769" left="108" width="11" height="14" font="10">V</text>
+<text top="769" left="216" width="6" height="14" font="10">J</text>
+<text top="769" left="311" width="11" height="14" font="10">N</text>
+<text top="769" left="432" width="11" height="14" font="10">V</text>
+<text top="769" left="540" width="11" height="14" font="10">N</text>
+<text top="769" left="648" width="6" height="14" font="10">J</text>
+<text top="809" left="108" width="116" height="16" font="13"><b>11. S-Natural 2</b></text>
+<text top="830" left="108" width="47" height="16" font="14">nokori</text>
+<text top="830" left="176" width="22" height="16" font="14">no|</text>
+<text top="835" left="197" width="5" height="10" font="15">1</text>
+<text top="830" left="230" width="38" height="16" font="14">sofaa</text>
+<text top="830" left="297" width="18" height="16" font="14">ni|</text>
+<text top="835" left="314" width="5" height="10" font="15">2</text>
+<text top="830" left="351" width="67" height="16" font="14">koshi o|</text>
+<text top="835" left="417" width="5" height="10" font="15">3</text>
+<text top="830" left="459" width="23" height="16" font="14">asa</text>
+<text top="830" left="527" width="22" height="16" font="14">no|</text>
+<text top="835" left="548" width="5" height="10" font="15">4</text>
+<text top="830" left="581" width="79" height="16" font="14">Boku wa|</text>
+<text top="835" left="659" width="5" height="10" font="15">5</text>
+<text top="830" left="702" width="37" height="16" font="14">nomi</text>
+<text top="851" left="108" width="22" height="14" font="10">rest</text>
+<text top="851" left="176" width="13" height="14" font="10">of</text>
+<text top="851" left="229" width="25" height="14" font="10">sofa</text>
+<text top="851" left="297" width="12" height="14" font="10">in</text>
+<text top="851" left="351" width="32" height="14" font="10">waist</text>
+<text top="851" left="405" width="37" height="14" font="10">object</text>
+<text top="851" left="459" width="51" height="14" font="10">morning</text>
+<text top="851" left="526" width="13" height="14" font="10">of</text>
+<text top="851" left="580" width="5" height="14" font="10">I</text>
+<text top="851" left="634" width="43" height="14" font="10">subject</text>
+<text top="851" left="702" width="47" height="14" font="10">to drink</text>
+<text top="868" left="108" width="11" height="14" font="10">N</text>
+<text top="868" left="176" width="8" height="14" font="10">P</text>
+<text top="868" left="230" width="11" height="14" font="10">N</text>
+<text top="868" left="297" width="8" height="14" font="10">P</text>
+<text top="868" left="351" width="11" height="14" font="10">N</text>
+<text top="868" left="405" width="8" height="14" font="10">P</text>
+<text top="868" left="459" width="11" height="14" font="10">N</text>
+<text top="868" left="527" width="8" height="14" font="10">P</text>
+<text top="868" left="581" width="11" height="14" font="10">N</text>
+<text top="868" left="635" width="8" height="14" font="10">P</text>
+<text top="868" left="702" width="11" height="14" font="10">V</text>
+<text top="887" left="108" width="51" height="16" font="14">nagara|</text>
+<text top="892" left="159" width="5" height="10" font="15">6</text>
+<text top="887" left="189" width="96" height="16" font="14">seirishi-te-mi</text>
+<text top="887" left="311" width="17" height="16" font="14">ta|</text>
+<text top="892" left="327" width="5" height="10" font="15">7</text>
+<text top="887" left="351" width="59" height="16" font="14">sukoshi|</text>
+<text top="892" left="409" width="5" height="10" font="15">8</text>
+<text top="887" left="432" width="46" height="16" font="14">koohii</text>
+<text top="887" left="500" width="13" height="16" font="14">o|</text>
+<text top="892" left="512" width="5" height="10" font="15">9</text>
+<text top="887" left="554" width="43" height="16" font="14">atama</text>
+<text top="887" left="621" width="22" height="16" font="14">no|</text>
+<text top="892" left="642" width="11" height="10" font="15">10</text>
+<text top="908" left="108" width="33" height="14" font="10">while</text>
+<text top="908" left="189" width="84" height="14" font="10">to try clearing</text>
+<text top="908" left="311" width="24" height="14" font="10">past</text>
+<text top="908" left="351" width="38" height="14" font="10">a little</text>
+<text top="908" left="432" width="38" height="14" font="10">coffee</text>
+<text top="908" left="500" width="37" height="14" font="10">object</text>
+<text top="908" left="553" width="28" height="14" font="10">head</text>
+<text top="908" left="621" width="13" height="14" font="10">of</text>
+<text top="925" left="108" width="8" height="14" font="10">P</text>
+<text top="925" left="189" width="11" height="14" font="10">V</text>
+<text top="925" left="311" width="8" height="14" font="10">P</text>
+<text top="925" left="351" width="11" height="14" font="10">A</text>
+<text top="925" left="432" width="11" height="14" font="10">N</text>
+<text top="925" left="500" width="8" height="14" font="10">P</text>
+<text top="925" left="554" width="11" height="14" font="10">N</text>
+<text top="925" left="621" width="8" height="14" font="10">P</text>
+<text top="944" left="108" width="45" height="16" font="14">oroshi</text>
+<text top="944" left="176" width="17" height="16" font="14">te|</text>
+<text top="949" left="192" width="11" height="10" font="15">11</text>
+<text top="944" left="216" width="34" height="16" font="14">naka</text>
+<text top="944" left="270" width="13" height="16" font="14">o|</text>
+<text top="949" left="282" width="11" height="10" font="15">12</text>
+<text top="964" left="108" width="50" height="14" font="10">to lower</text>
+<text top="964" left="216" width="36" height="14" font="10">inside</text>
+<text top="964" left="270" width="37" height="14" font="10">object</text>
+<text top="982" left="108" width="11" height="14" font="10">V</text>
+<text top="982" left="176" width="8" height="14" font="10">P</text>
+<text top="982" left="216" width="11" height="14" font="10">N</text>
+<text top="982" left="270" width="8" height="14" font="10">P</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="71" height="16" font="7"><i>Hiranuma</i></text>
+<text top="132" left="108" width="17" height="16" font="1">28</text>
+<text top="189" left="108" width="98" height="16" font="13"><b>12. Short d 2</b></text>
+<text top="209" left="108" width="65" height="16" font="14">hataraku|</text>
+<text top="214" left="173" width="5" height="10" font="15">1</text>
+<text top="209" left="203" width="41" height="16" font="14">kurai|</text>
+<text top="214" left="243" width="5" height="10" font="15">2</text>
+<text top="209" left="270" width="46" height="16" font="14">atama|</text>
+<text top="214" left="316" width="5" height="10" font="15">3</text>
+<text top="209" left="351" width="71" height="16" font="14">hohoemu|</text>
+<text top="214" left="421" width="5" height="10" font="15">4</text>
+<text top="209" left="446" width="94" height="16" font="14">tsutsumashii|</text>
+<text top="214" left="539" width="5" height="10" font="15">5</text>
+<text top="209" left="567" width="69" height="16" font="14">kangaeru|</text>
+<text top="214" left="636" width="5" height="10" font="15">6</text>
+<text top="209" left="662" width="41" height="16" font="14">itaria|</text>
+<text top="214" left="702" width="5" height="10" font="15">7</text>
+<text top="230" left="108" width="46" height="14" font="10">to work</text>
+<text top="230" left="203" width="27" height="14" font="10">dark</text>
+<text top="230" left="270" width="28" height="14" font="10">head</text>
+<text top="230" left="351" width="48" height="14" font="10">to smile</text>
+<text top="230" left="446" width="43" height="14" font="10">modest</text>
+<text top="230" left="567" width="46" height="14" font="10">to think</text>
+<text top="230" left="662" width="28" height="14" font="10">Italy</text>
+<text top="248" left="108" width="11" height="14" font="10">V</text>
+<text top="248" left="203" width="6" height="14" font="10">J</text>
+<text top="248" left="270" width="11" height="14" font="10">N</text>
+<text top="248" left="351" width="11" height="14" font="10">V</text>
+<text top="248" left="446" width="6" height="14" font="10">J</text>
+<text top="248" left="567" width="11" height="14" font="10">V</text>
+<text top="248" left="662" width="11" height="14" font="10">N</text>
+<text top="266" left="108" width="53" height="16" font="14">ureshii|</text>
+<text top="271" left="160" width="5" height="10" font="15">8</text>
+<text top="266" left="189" width="71" height="16" font="14">gyuuniku|</text>
+<text top="271" left="260" width="5" height="10" font="15">9</text>
+<text top="266" left="297" width="65" height="16" font="14">komakai|</text>
+<text top="271" left="362" width="11" height="10" font="15">10</text>
+<text top="266" left="392" width="52" height="16" font="14">mayou|</text>
+<text top="271" left="443" width="11" height="10" font="15">11</text>
+<text top="266" left="486" width="79" height="16" font="14">nuigurumi|</text>
+<text top="271" left="564" width="11" height="10" font="15">12</text>
+<text top="287" left="108" width="26" height="14" font="10">glad</text>
+<text top="287" left="189" width="29" height="14" font="10">meat</text>
+<text top="287" left="297" width="24" height="14" font="10">fine</text>
+<text top="287" left="392" width="61" height="14" font="10">to wonder</text>
+<text top="287" left="486" width="65" height="14" font="10">stuffed toy</text>
+<text top="305" left="108" width="6" height="14" font="10">J</text>
+<text top="305" left="189" width="11" height="14" font="10">N</text>
+<text top="305" left="297" width="6" height="14" font="10">J</text>
+<text top="305" left="392" width="11" height="14" font="10">V</text>
+<text top="305" left="486" width="11" height="14" font="10">N</text>
+<text top="345" left="108" width="118" height="16" font="13"><b>13. Short d+p 1</b></text>
+<text top="366" left="108" width="64" height="16" font="14">hurukere</text>
+<text top="366" left="189" width="21" height="16" font="14">ba|</text>
+<text top="371" left="209" width="5" height="10" font="15">1</text>
+<text top="366" left="243" width="88" height="16" font="14">nezumi ga|</text>
+<text top="371" left="331" width="5" height="10" font="15">2</text>
+<text top="366" left="365" width="84" height="16" font="14">totonoe te|</text>
+<text top="371" left="448" width="5" height="10" font="15">3</text>
+<text top="366" left="473" width="58" height="16" font="14">akaruku</text>
+<text top="366" left="554" width="17" height="16" font="14">te|</text>
+<text top="371" left="570" width="5" height="10" font="15">4</text>
+<text top="366" left="594" width="51" height="16" font="14">huusen</text>
+<text top="366" left="661" width="25" height="16" font="14">wa|</text>
+<text top="371" left="686" width="5" height="10" font="15">5</text>
+<text top="386" left="108" width="19" height="14" font="10">old</text>
+<text top="386" left="189" width="9" height="14" font="10">if</text>
+<text top="386" left="243" width="39" height="14" font="10">mouse</text>
+<text top="386" left="310" width="115" height="14" font="10">subject to arrange</text>
+<text top="386" left="473" width="36" height="14" font="10">bright</text>
+<text top="386" left="594" width="45" height="14" font="10">balloon</text>
+<text top="386" left="662" width="30" height="14" font="10">topic</text>
+<text top="404" left="108" width="6" height="14" font="10">J</text>
+<text top="404" left="189" width="8" height="14" font="10">P</text>
+<text top="404" left="243" width="11" height="14" font="10">N</text>
+<text top="404" left="311" width="8" height="14" font="10">P</text>
+<text top="404" left="365" width="11" height="14" font="10">V</text>
+<text top="404" left="432" width="8" height="14" font="10">P</text>
+<text top="404" left="473" width="6" height="14" font="10">J</text>
+<text top="404" left="554" width="8" height="14" font="10">P</text>
+<text top="404" left="594" width="11" height="14" font="10">N</text>
+<text top="404" left="662" width="8" height="14" font="10">P</text>
+<text top="423" left="108" width="44" height="16" font="14">tabere</text>
+<text top="423" left="176" width="21" height="16" font="14">ba|</text>
+<text top="428" left="196" width="5" height="10" font="15">6</text>
+<text top="423" left="230" width="45" height="16" font="14">umare</text>
+<text top="423" left="311" width="17" height="16" font="14">te|</text>
+<text top="428" left="327" width="5" height="10" font="15">7</text>
+<text top="423" left="351" width="56" height="16" font="14">depaato</text>
+<text top="423" left="473" width="18" height="16" font="14">ni|</text>
+<text top="428" left="490" width="5" height="10" font="15">8</text>
+<text top="423" left="513" width="96" height="16" font="14">muzukashiku</text>
+<text top="423" left="635" width="17" height="16" font="14">te|</text>
+<text top="428" left="651" width="5" height="10" font="15">9</text>
+<text top="443" left="108" width="33" height="14" font="10">to eat</text>
+<text top="443" left="176" width="9" height="14" font="10">if</text>
+<text top="443" left="230" width="61" height="14" font="10">to be born</text>
+<text top="443" left="351" width="100" height="14" font="10">department store</text>
+<text top="443" left="472" width="12" height="14" font="10">to</text>
+<text top="443" left="513" width="49" height="14" font="10">difficult</text>
+<text top="461" left="108" width="11" height="14" font="10">V</text>
+<text top="461" left="176" width="8" height="14" font="10">P</text>
+<text top="461" left="230" width="11" height="14" font="10">V</text>
+<text top="461" left="311" width="8" height="14" font="10">P</text>
+<text top="461" left="351" width="11" height="14" font="10">N</text>
+<text top="461" left="473" width="8" height="14" font="10">P</text>
+<text top="461" left="513" width="6" height="14" font="10">J</text>
+<text top="461" left="635" width="8" height="14" font="10">P</text>
+<text top="479" left="108" width="79" height="16" font="14">okurimono</text>
+<text top="479" left="216" width="13" height="16" font="14">o|</text>
+<text top="484" left="228" width="11" height="10" font="15">10</text>
+<text top="479" left="270" width="62" height="16" font="14">tazuneru</text>
+<text top="479" left="351" width="18" height="16" font="14">to|</text>
+<text top="484" left="368" width="11" height="10" font="15">11</text>
+<text top="479" left="405" width="101" height="16" font="14">oishikere ba|</text>
+<text top="484" left="506" width="11" height="10" font="15">12</text>
+<text top="500" left="108" width="21" height="14" font="10">gift</text>
+<text top="500" left="216" width="37" height="14" font="10">object</text>
+<text top="500" left="270" width="36" height="14" font="10">to ask</text>
+<text top="500" left="405" width="28" height="14" font="10">tasty</text>
+<text top="500" left="486" width="9" height="14" font="10">if</text>
+<text top="518" left="108" width="11" height="14" font="10">N</text>
+<text top="518" left="216" width="8" height="14" font="10">P</text>
+<text top="518" left="270" width="11" height="14" font="10">V</text>
+<text top="518" left="351" width="8" height="14" font="10">P</text>
+<text top="518" left="405" width="6" height="14" font="10">J</text>
+<text top="518" left="486" width="8" height="14" font="10">P</text>
+</page>
+</pdf2xml>

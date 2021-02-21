@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="36" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="20" family="Times" color="#000000"/>
+<text top="851" left="130" width="681" height="15" font="0">I would like to thank Rita Manzini for her comments and suggestions on an earlier draft of this</text>
+<text top="846" left="123" width="6" height="11" font="1">*</text>
+<text top="871" left="108" width="702" height="15" font="0">paper.  I am grateful to Thomas Hun-Tak Lee and Sze-Wing Tang for sharing their ideas on ‘saai’</text>
+<text top="891" left="108" width="702" height="15" font="0">with me. I would also like to thank Eun-Ju Noh and Wai-Shun Hung for their discussions. I am</text>
+<text top="910" left="108" width="702" height="15" font="0">particularly indebted to Neil Smith for his constant support and valuable suggestions.  Needless to</text>
+<text top="930" left="108" width="177" height="15" font="0">say, all mistakes are mine.</text>
+<text top="968" left="130" width="291" height="15" font="0">Examples 1-2 are taken from Tang (1996).</text>
+<text top="963" left="123" width="6" height="11" font="1">1</text>
+<text top="1005" left="130" width="680" height="15" font="0">The examples are romanised following the scheme proposed by the Linguistic Society of Hong</text>
+<text top="1001" left="123" width="6" height="11" font="1">2</text>
+<text top="1025" left="108" width="702" height="15" font="0">Kong in 1993. The reader is reminded that all the ‘h’, which are not the initial consonant, represent</text>
+<text top="1045" left="108" width="254" height="15" font="0">a glottal stop. Notations: cl: classifier.</text>
+<text top="132" left="108" width="364" height="18" font="2"><i>UCL Working Papers in Linguistics 8 (1996)</i></text>
+<text top="185" left="108" width="612" height="32" font="3"><i><b>Aspectuals in Cantonese: the case of</b></i><b> saai</b></text>
+<text top="181" left="720" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="270" left="108" width="197" height="18" font="6">YU-YAN ANNE TENG</text>
+<text top="342" left="162" width="75" height="18" font="7"><b>Abstract</b></text>
+<text top="388" left="162" width="593" height="15" font="0">This paper argues that ‘saai’ in Cantonese is an aspectual suggesting the completeness of</text>
+<text top="408" left="162" width="594" height="15" font="0">an event. The property of being a totally completed event provides a cue for processing the</text>
+<text top="427" left="162" width="594" height="15" font="0">‘divisibility’ or ‘numerousness’ of the subject or object noun phrases. However, if the</text>
+<text top="447" left="162" width="594" height="15" font="0">notion of completeness is the only relevant piece of information in the ongoing</text>
+<text top="467" left="162" width="594" height="15" font="0">communication, there is no need to infer the status of the noun phrase. When ‘saai’ is used</text>
+<text top="487" left="162" width="594" height="15" font="0">in a predicate with an affected object, the fulfillment of every stage of the event indirectly</text>
+<text top="507" left="162" width="285" height="15" font="0">brings out telicity in this type of predicate.</text>
+<text top="575" left="108" width="237" height="18" font="7"><b>1 Current analyses of ‘saai’</b></text>
+<text top="622" left="108" width="701" height="18" font="6">In Cantonese, the two post-verbal particles: ‘saai’ and ‘maaih’ have been analysed as</text>
+<text top="645" left="108" width="702" height="18" font="6">‘quantifiers’ of the subject or the object noun phrases. Recent research has mainly</text>
+<text top="669" left="108" width="702" height="18" font="6">concentrated on ‘saai’ and the following properties have been observed with respect to</text>
+<text top="693" left="108" width="702" height="18" font="6">this post-verbal particle (cf. Lee 1994, Matthews &amp; Yip 1994, Tang 1996). First, there is</text>
+<text top="717" left="108" width="702" height="18" font="6">usually a plurality requirement on the subject or the object noun phrase when ‘saai’</text>
+<text top="740" left="108" width="702" height="18" font="6">occurs postverbally. For instance,  Tang (1996) suggests that (1) with ‘saai’ is</text>
+<text top="738" left="401" width="6" height="11" font="1">1</text>
+<text top="764" left="108" width="702" height="18" font="6">unacceptable because ‘the object cannot be divided and is interpreted as semantically</text>
+<text top="788" left="108" width="76" height="18" font="6">singular’.</text>
+<text top="786" left="184" width="6" height="11" font="1">2</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="10" height="18" font="6">2</text>
+<text top="194" left="108" width="24" height="18" font="6">(1)</text>
+<text top="194" left="162" width="247" height="18" font="6">Ngoh maai (*saai) go fuk waa.</text>
+<text top="218" left="162" width="42" height="18" font="6">I buy</text>
+<text top="218" left="270" width="145" height="18" font="6">all that Cl picture.</text>
+<text top="242" left="162" width="241" height="18" font="6">I bought the (*whole) picture.</text>
+<text top="289" left="108" width="29" height="18" font="6">(2) </text>
+<text top="289" left="162" width="208" height="18" font="6">Ngoh tai saai go bun syu.</text>
+<text top="313" left="162" width="7" height="18" font="6">I</text>
+<text top="313" left="216" width="165" height="18" font="6">read all that cl book.</text>
+<text top="337" left="162" width="288" height="18" font="6">I have read every part of that book. </text>
+<text top="384" left="108" width="701" height="18" font="6">Matthews &amp; Yip (1994) also suggest an example where ‘saai’ may quantify over either</text>
+<text top="408" left="108" width="330" height="18" font="6">the object or the subject, or both at once:</text>
+<text top="455" left="108" width="24" height="18" font="6">(3)</text>
+<text top="455" left="162" width="276" height="18" font="6">Keoih deih  heui-gwo saai auzau.</text>
+<text top="479" left="162" width="41" height="18" font="6">They</text>
+<text top="479" left="270" width="148" height="18" font="6">go-exp all Europe.</text>
+<text top="503" left="162" width="310" height="18" font="6">‘They’ve been everywhere in Europe.’</text>
+<text top="527" left="162" width="262" height="18" font="6">Or ‘They’ve all been to Europe.’</text>
+<text top="550" left="162" width="366" height="18" font="6">Or ‘ They’ve all been everywhere in Europe.’</text>
+<text top="598" left="108" width="702" height="18" font="6">Lee (1994) proposes that ‘saai’ functions as a ‘universal quantifier’ under which the</text>
+<text top="622" left="108" width="513" height="18" font="6">quantified subject or object must receive an exhaustive reading.</text>
+<text top="669" left="108" width="24" height="18" font="6">(4)</text>
+<text top="669" left="162" width="14" height="18" font="6">a.</text>
+<text top="669" left="216" width="246" height="18" font="6">Ngoh wuih sik go di pinggwo.</text>
+<text top="693" left="216" width="7" height="18" font="6">I</text>
+<text top="693" left="270" width="168" height="18" font="6">will eat that cl apple.</text>
+<text top="717" left="216" width="180" height="18" font="6">I will eat those apples.</text>
+<text top="764" left="162" width="15" height="18" font="6">b.</text>
+<text top="764" left="216" width="283" height="18" font="6">Ngoh wuih sik saai go di pinggwo.</text>
+<text top="788" left="216" width="7" height="18" font="6">I</text>
+<text top="788" left="270" width="212" height="18" font="6">will eat saai that cl apples.</text>
+<text top="812" left="216" width="206" height="18" font="6">I will eat up those apples.</text>
+<text top="859" left="108" width="702" height="18" font="6">Tang (1996) explains these examples by suggesting that the person will eat up all those</text>
+<text top="883" left="108" width="702" height="18" font="6">apples in (4b) but (4a) ‘says nothing about whether or not the person will eat up those</text>
+<text top="907" left="108" width="702" height="18" font="6">apples’. However, Tang (1996) has not explained why (4a) will still be true when the</text>
+<text top="931" left="108" width="380" height="18" font="6">person eats up (or will eat up) all those apples. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="800" width="10" height="18" font="6">3</text>
+<text top="1045" left="130" width="361" height="15" font="0">This follows Vendler’s (1967) classification of verbs.</text>
+<text top="1040" left="123" width="6" height="11" font="1">3</text>
+<text top="194" left="123" width="687" height="18" font="6">Another major observation about ‘saai’ is that it can co-occur with accomplishment</text>
+<text top="218" left="108" width="702" height="18" font="6">predicates, but has more restrictions when it co-occurs with achievement, activity and</text>
+<text top="242" left="108" width="134" height="18" font="6">state predicates. </text>
+<text top="239" left="243" width="6" height="11" font="1">3</text>
+<text top="289" left="108" width="24" height="18" font="6">(5)</text>
+<text top="289" left="162" width="331" height="18" font="6">Siu Ming se saai seon. (accomplishment)</text>
+<text top="313" left="162" width="209" height="18" font="6">Siu Ming write saai letter.</text>
+<text top="337" left="162" width="397" height="18" font="6">Siu Ming has finished writing letters/the letter(s).</text>
+<text top="384" left="108" width="24" height="18" font="6">(6)</text>
+<text top="384" left="162" width="14" height="18" font="6">a.</text>
+<text top="384" left="216" width="353" height="18" font="6">?Keoih jehng saai go bei coi. (achievement)</text>
+<text top="408" left="216" width="232" height="18" font="6">S/he win saai cl competition.</text>
+<text top="432" left="216" width="297" height="18" font="6">S/he has won the whole competition.</text>
+<text top="479" left="162" width="15" height="18" font="6">b.</text>
+<text top="479" left="216" width="403" height="18" font="6">Keoih jehng saai loehng go bei coi. (achievement)</text>
+<text top="503" left="216" width="107" height="18" font="6">S/he win saai</text>
+<text top="503" left="378" width="163" height="18" font="6">two cl competitions.</text>
+<text top="527" left="216" width="262" height="18" font="6">S/he has won both competitions.</text>
+<text top="574" left="108" width="24" height="18" font="6">(7)</text>
+<text top="574" left="162" width="14" height="18" font="6">a.</text>
+<text top="574" left="216" width="201" height="18" font="6">?Ngoh siu saai. (activity)</text>
+<text top="598" left="216" width="7" height="18" font="6">I</text>
+<text top="598" left="270" width="86" height="18" font="6">laugh saai.</text>
+<text top="622" left="216" width="137" height="18" font="6">I finish laughing.</text>
+<text top="669" left="162" width="15" height="18" font="6">b.</text>
+<text top="669" left="216" width="241" height="18" font="6">?Ngoh deih siu saai. (activity)</text>
+<text top="693" left="216" width="139" height="18" font="6">They laugh saai.</text>
+<text top="717" left="216" width="121" height="18" font="6">They all laugh.</text>
+<text top="764" left="108" width="24" height="18" font="6">(8)</text>
+<text top="764" left="162" width="14" height="18" font="6">a.</text>
+<text top="764" left="216" width="313" height="18" font="6">?Ngoh zung ji saai go leoi zai. (stative)</text>
+<text top="788" left="216" width="7" height="18" font="6">I</text>
+<text top="788" left="270" width="30" height="18" font="6">like</text>
+<text top="788" left="324" width="88" height="18" font="6">saai cl girl.</text>
+<text top="812" left="216" width="203" height="18" font="6">I like the girl completely.</text>
+<text top="859" left="162" width="15" height="18" font="6">b.</text>
+<text top="859" left="216" width="344" height="18" font="6">Ngoh deih zung ji saai go leoi zai. (stative)</text>
+<text top="883" left="216" width="28" height="18" font="6">We</text>
+<text top="883" left="270" width="30" height="18" font="6">like</text>
+<text top="883" left="324" width="88" height="18" font="6">saai cl girl.</text>
+<text top="907" left="216" width="155" height="18" font="6">We all like the girl.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="22" family="Times" color="#000000"/>
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="10" height="18" font="6">4</text>
+<text top="194" left="162" width="14" height="18" font="6">c.</text>
+<text top="194" left="216" width="377" height="18" font="6">Ngoh zung ji saai go saam go leoi zai. (stative)</text>
+<text top="218" left="216" width="7" height="18" font="6">I</text>
+<text top="218" left="270" width="204" height="18" font="6">like saai that three cl girl.</text>
+<text top="242" left="216" width="205" height="18" font="6">I like all those three girls.</text>
+<text top="289" left="162" width="15" height="18" font="6">d.</text>
+<text top="289" left="216" width="416" height="18" font="6">Ngoh deih zung ji saai go saam go leoi zai. (stative)</text>
+<text top="313" left="216" width="28" height="18" font="6">We</text>
+<text top="313" left="270" width="30" height="18" font="6">like</text>
+<text top="313" left="324" width="170" height="18" font="6">saai that three cl girl.</text>
+<text top="337" left="216" width="226" height="18" font="6">We like all those three girls.</text>
+<text top="384" left="108" width="702" height="18" font="6">Since accomplishment and achievement predicates usually express events which have a</text>
+<text top="408" left="108" width="702" height="18" font="6">natural endpoint; whereas state and activity predicates do not,  Tang(1996) suggests that</text>
+<text top="432" left="108" width="702" height="18" font="6">‘saai’ behaves like an event quantifier used with predicates expressing telic events.</text>
+<text top="455" left="108" width="702" height="18" font="6">According to his analysis, ‘saai’ will quantify over all the subevents of the whole event.</text>
+<text top="479" left="108" width="702" height="18" font="6">For instance, the predicate ‘read a book’ in example (2) will be ‘sliced’ into several</text>
+<text top="503" left="108" width="702" height="18" font="6">subevents of reading. ‘Saai’ then ‘quantifies over all the subevents such that he reads one</text>
+<text top="527" left="108" width="703" height="18" font="6">page of that book in every single subevent and finally the whole book is read’ (Tang</text>
+<text top="550" left="108" width="59" height="18" font="6">1996). </text>
+<text top="574" left="123" width="686" height="18" font="6">These proposals attempt to explain the linguistic phenomena associated with ‘saai’ in</text>
+<text top="598" left="108" width="702" height="18" font="6">terms of compositional semantics, stipulating the notion of variable binding either in the</text>
+<text top="622" left="108" width="702" height="18" font="6">subject or object noun phrases or in the whole predicate. However, several empirical and</text>
+<text top="645" left="108" width="702" height="18" font="6">theoretical issues still remain largely unaddressed by these proposals. In this paper, I will</text>
+<text top="670" left="108" width="343" height="18" font="6">argue that there is <b>no</b> evidence suggesting:</text>
+<text top="710" left="123" width="15" height="29" font="9">!</text>
+<text top="717" left="162" width="629" height="18" font="6">‘saai’ imposes a ‘plurality’ requirement on the subject or object noun phrases;</text>
+<text top="733" left="123" width="15" height="29" font="9">!</text>
+<text top="741" left="162" width="627" height="18" font="6">‘saai’ is a universal quantifier which binds the object or subject noun phrases;</text>
+<text top="757" left="123" width="15" height="29" font="9">!</text>
+<text top="765" left="162" width="648" height="18" font="6">‘divisibility’ or ‘numerousness’ of the noun phrase are necessary conditions for the</text>
+<text top="788" left="162" width="108" height="18" font="6">use of  ‘saai’.</text>
+<text top="836" left="108" width="701" height="18" font="6">I will then proceed to show that ‘saai’ is a postverbal aspectual element, which imposes</text>
+<text top="860" left="108" width="702" height="18" font="6">a semantic constraint on how the event described by the predicate will be viewed. ‘Saai’</text>
+<text top="883" left="108" width="702" height="18" font="6">suggests the completeness of an event. It can be the case that every stage in a process has</text>
+<text top="907" left="108" width="702" height="18" font="6">been completely fulfilled; or several activities of the same nature have all been carried</text>
+<text top="931" left="108" width="702" height="18" font="6">out. The property of being a totally completed event provides a cue for how we should</text>
+<text top="955" left="108" width="702" height="18" font="6">process the ‘divisibility’ or ‘plurality’ of the subject or object noun phrases. However, it</text>
+<text top="978" left="108" width="702" height="18" font="6">is costlier to process a sentence in which we need to clarify whether the noun phrases are</text>
+<text top="1002" left="108" width="702" height="18" font="6">‘divisible’ or ‘numerous’ in that sentence. Accordingly, if the notion of completeness is</text>
+<text top="1026" left="108" width="702" height="18" font="6">the only relevant piece of information in the ongoing communication(cf. Sperber &amp;</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="800" width="10" height="18" font="6">5</text>
+<text top="1005" left="130" width="680" height="15" font="0">Classifiers like ‘go’and ‘zek’ refer to an individual countable item. The classifier ‘di’ can be used</text>
+<text top="1001" left="123" width="6" height="11" font="1">4</text>
+<text top="1025" left="108" width="702" height="15" font="0">with count nouns like ‘car’ to refer to ‘cars’ or with mass noun like ‘water’ to refer to unspecified</text>
+<text top="1045" left="108" width="123" height="15" font="0">amounts of water.</text>
+<text top="194" left="108" width="701" height="18" font="6">Wilson 1986), there is no need to infer the status of the noun phrase. On the other hand,</text>
+<text top="218" left="108" width="702" height="18" font="6">if the exact nature of the noun phrase is relevant to the communication, extra processing</text>
+<text top="242" left="108" width="703" height="18" font="6">effort will be taken up to resolve its status. This suggests that the above requirements on</text>
+<text top="265" left="108" width="701" height="18" font="6">noun phrases arise from the nature of the predicate when ‘saai’ is used.  In Section 2 &amp;</text>
+<text top="289" left="108" width="465" height="18" font="6">Section 3, I will elaborate on the claim I have made here. </text>
+<text top="360" left="108" width="230" height="18" font="7"><b>2 ‘Saai’ and quantification</b></text>
+<text top="407" left="108" width="702" height="18" font="6">Let me assume, counterfactually, that ‘saai’ does impose a requirement of having a</text>
+<text top="431" left="108" width="702" height="18" font="6">‘plural’  noun phrase in a sentence. One must separate the issue whether ‘saai’ needs a</text>
+<text top="454" left="108" width="702" height="18" font="6">linguistically, or more precisely, semantically-specified plural noun phrase or a noun</text>
+<text top="478" left="108" width="703" height="18" font="6">phrase which can be <i>interpreted</i> as plural. In current analyses, the notion of ‘plurality’</text>
+<text top="502" left="108" width="702" height="18" font="6">subsumes two distinct characteristics of the noun phrases, namely ‘divisibility’ and</text>
+<text top="526" left="108" width="702" height="18" font="6">‘numerousness’. Neither of these has much to do with the notion of plurality which is</text>
+<text top="549" left="108" width="702" height="18" font="6">grammaticalised in languages like English. In (2), Tang (1996) argues that ‘go bun syu’</text>
+<text top="573" left="108" width="702" height="18" font="6">(that book) is ‘divisible’ into different pages (or subparts), thus it can satisfy the</text>
+<text top="597" left="108" width="702" height="18" font="6">‘plurality’ requirement imposed by ‘saai’. In (4b), (6b) (8c) and (8d), the object noun</text>
+<text top="621" left="108" width="702" height="18" font="6">phrases are either specified by a numeral which is more than ‘one’, or by the classifier ‘di’</text>
+<text top="644" left="108" width="702" height="18" font="6">which is associated with an unspecified quantity. While the subject noun phrases in (7b),</text>
+<text top="668" left="108" width="702" height="18" font="6">(8b) and (8d) are pronouns with plural references. In this group of examples, the</text>
+<text top="692" left="108" width="703" height="18" font="6">‘plurality’ requirement is satisfied by the ‘numerousness’ of the object indicated by the</text>
+<text top="716" left="108" width="111" height="18" font="6">noun phrases.</text>
+<text top="739" left="123" width="686" height="18" font="6">From the above examples, it is clear that no noun phrase is semantically-specified as</text>
+<text top="763" left="108" width="702" height="18" font="6">plural. In fact, singularity/plurality is not grammaticalised in Cantonese and it is basically</text>
+<text top="787" left="108" width="702" height="18" font="2"><i>inaccurate</i> to say ‘saai’ requires a plural noun phrase in a strict sense. When a noun is</text>
+<text top="811" left="108" width="702" height="18" font="6">modified explicitly by a classifier , I define it as semantically discrete or non-discrete</text>
+<text top="808" left="384" width="6" height="11" font="1">4</text>
+<text top="834" left="108" width="702" height="18" font="6">depending on the type of classifiers used. A numeral can be put before a discrete classifier</text>
+<text top="858" left="108" width="702" height="18" font="6">because an object described as discrete can be numerated; whereas the non-discrete one</text>
+<text top="882" left="108" width="702" height="18" font="6">cannot be numerated. The noun phrase can be represented structurally as <i>Num(Cl(N)) </i>and</text>
+<text top="906" left="108" width="702" height="18" font="6">it can be bound by a quantifier like ‘muih’ (every) or a determiner like ‘nei’ (this).</text>
+<text top="929" left="108" width="702" height="18" font="6">However, there are cases in Cantonese where the noun is not modified by any classifier</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="10" height="18" font="6">6</text>
+<text top="1005" left="130" width="680" height="15" font="0">The idea of having a ‘bare noun phrase’ in Cantonese is similar to the English ‘bare plurals’. In</text>
+<text top="1001" left="123" width="6" height="11" font="1">5</text>
+<text top="1025" left="108" width="702" height="15" font="0">English, as discussed by Carlson(1977) or Diesing(1991) among others, a plural noun phrase which</text>
+<text top="1045" left="108" width="476" height="15" font="0">is not bound by a determiner or a quantifier is defined as a bare plural.</text>
+<text top="194" left="108" width="702" height="18" font="6">or numeral; or bound by any demonstrative or quantifier.  The (<i>N</i>) can be considered as</text>
+<text top="218" left="108" width="703" height="18" font="6">unbound in this case and I will call it a ‘bare noun phrase’ . Since plurality is not marked</text>
+<text top="215" left="562" width="6" height="11" font="1">5</text>
+<text top="242" left="108" width="701" height="18" font="6">in Cantonese nouns, the bare noun will be underspecified between a singular or a plural</text>
+<text top="265" left="108" width="701" height="18" font="2"><i>interpretation</i>. The argument here goes against the idea that ‘saai’ is a quantifier which</text>
+<text top="289" left="108" width="525" height="18" font="6">is associated with a semantically-specified ‘plural’ noun phrase.  </text>
+<text top="313" left="123" width="686" height="18" font="6">Recall that the ‘plurality’ requirement is used in a loose sense to subsume the notion of</text>
+<text top="337" left="108" width="702" height="18" font="6">‘divisibility’ and ‘numerousness’ of the noun phrase. Tang (1996) suggests that (1) is bad</text>
+<text top="360" left="108" width="702" height="18" font="6">because  ‘go fuk waa’(that picture) is not divisible, thus ‘semantically singular’. His</text>
+<text top="384" left="108" width="702" height="18" font="6">argument seems to imply that the <i>grammar</i> itself will specify whether a certain object is</text>
+<text top="408" left="108" width="702" height="18" font="6">divisible or not. If ‘saai’ cannot be associated with a divisible noun phrase, the sentence</text>
+<text top="432" left="108" width="702" height="18" font="6">will crash at LF. This claim is not trivial because it suggests that if there is any semantic</text>
+<text top="455" left="108" width="702" height="18" font="6">specification by ‘saai’ on the noun phrase, it must be fulfilled at LF. However, one can</text>
+<text top="479" left="108" width="701" height="18" font="6">easily think of a context which will change the acceptability of a sentence like (1). If one</text>
+<text top="503" left="108" width="702" height="18" font="6">imagines that an unscrupulous auctioneer has split up a Van Gogh picture into two parts</text>
+<text top="527" left="108" width="702" height="18" font="6">and asks buyers to bid for each part separately, then example (1) will become a felicitous</text>
+<text top="550" left="108" width="702" height="18" font="6">sentence if someone has successfully bid for both parts of the picture. In this reading, the</text>
+<text top="574" left="108" width="702" height="18" font="6">‘instantaneity’ of any act of buying can still be preserved if one imagines that there are</text>
+<text top="598" left="108" width="702" height="18" font="6">two acts of buying going on. Although the notion of ‘divisibility’ will be partially</text>
+<text top="622" left="108" width="702" height="18" font="6">determined by ontological constraints on the count/mass distinction and by our world</text>
+<text top="645" left="108" width="702" height="18" font="6">knowledge, an appropriate context can also alter our acceptance of whether an object can</text>
+<text top="669" left="108" width="702" height="18" font="6">be ‘divided’. Most important of all, the context alters the acceptability of the whole</text>
+<text top="693" left="108" width="702" height="18" font="6">sentence. If our language faculty is modularised, a grammatically ill-formed sentence can</text>
+<text top="717" left="108" width="702" height="18" font="6">never be saved by resorting to a change of contextual information. Therefore, the slightly</text>
+<text top="740" left="108" width="702" height="18" font="6">uncommon reading associated with (1) is arrived at pragmatically on the basis of a</text>
+<text top="764" left="108" width="702" height="18" font="6">grammatically well-formed sentence. This observation is crucial and it suggests that there</text>
+<text top="788" left="108" width="396" height="18" font="6">is <b>no</b> semantic specification on the noun phrases.</text>
+<text top="812" left="123" width="687" height="18" font="6">Besides altering the status of the ‘divisibility’ of the noun phrase, an appropriate context</text>
+<text top="836" left="108" width="703" height="18" font="6">can even allow a plural or <i>numerous</i> reference for a semantically-specified singular or</text>
+<text top="860" left="108" width="702" height="18" font="6">non-numerous noun phrase. This provides strong evidence for the independence of</text>
+<text top="883" left="108" width="702" height="18" font="6">‘semantic’ plurality and ‘interpreted’ plurality, which is either determined by context or</text>
+<text top="907" left="108" width="702" height="18" font="6">our world knowledge in our inferential system. Imagine that someone has gone to an art</text>
+<text top="931" left="108" width="702" height="18" font="6">gallery shop and bought several reproductions of Leonardo da Vinci’s ‘Mona Lisa’.  This</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="800" width="10" height="18" font="6">7</text>
+<text top="194" left="108" width="702" height="18" font="6">person can tell his friend what he has bought by using example (1). In this case, one does</text>
+<text top="218" left="108" width="702" height="18" font="6">not need to ‘dissect’ the picture, nor does one need to buy ten real ‘Mona Lisas’, which</text>
+<text top="242" left="108" width="703" height="18" font="6">do not exist in this world. Again, if the so-called ‘plurality’ requirement must be fulfilled</text>
+<text top="265" left="108" width="702" height="18" font="6">at the level of LF, how can we explain a case like this. The linguistic information encoded</text>
+<text top="289" left="108" width="702" height="18" font="6">in (1), at the level of logical form, will only be a definite noun phrase. In the following</text>
+<text top="313" left="108" width="702" height="18" font="6">section, I will try to clarify the situation by assuming that ‘saai’ is an element which</text>
+<text top="337" left="108" width="702" height="18" font="6">imposes an aspectual specification on the event described by the predicate. The status of</text>
+<text top="360" left="108" width="702" height="18" font="6">‘divisibility’ or ‘numerousness’ on the noun phrase arises only when there is a need to</text>
+<text top="384" left="108" width="702" height="18" font="6">process this piece of information which is relevant to the communication. In fact, the</text>
+<text top="408" left="108" width="703" height="18" font="6">clarification of such a status will increase the processing load of the central processing</text>
+<text top="432" left="108" width="702" height="18" font="6">system. Therefore, this piece of information is used <i>only</i> when it is relevant to the ongoing</text>
+<text top="455" left="108" width="702" height="18" font="6">communication; or when the provision of this information will help us to interpret the</text>
+<text top="479" left="108" width="702" height="18" font="6">sentence if no contextual information is available in the background for processing it. The</text>
+<text top="503" left="108" width="702" height="18" font="6">latter possibility will be elaborated in the next Section. Now, let me provide an example</text>
+<text top="527" left="108" width="233" height="18" font="6">to illustrate the former point.</text>
+<text top="550" left="123" width="687" height="18" font="6">When ‘saai’ co-occurs with predicates which are traditionally classified as</text>
+<text top="574" left="108" width="702" height="18" font="6">‘accomplishment’, with a bare noun phrase such as ‘pinggwo’ in (9), the ‘singular’ or</text>
+<text top="598" left="108" width="463" height="18" font="6">‘plural’ status of the noun phrase can remain unspecified.</text>
+<text top="645" left="108" width="24" height="18" font="6">(9)</text>
+<text top="645" left="162" width="188" height="18" font="6">Ngoh sik saai pinggwo.</text>
+<text top="669" left="162" width="7" height="18" font="6">I</text>
+<text top="669" left="216" width="135" height="18" font="6">eat saai apple(s).</text>
+<text top="693" left="162" width="296" height="18" font="6">I finish eating an apple/apples/apple.</text>
+<text top="740" left="108" width="702" height="18" font="6">That is, one can imagine a person finishing eating either an apple or several apples. If the</text>
+<text top="764" left="108" width="703" height="18" font="6">difference is not obvious in the context or it is not relevant for the communication</text>
+<text top="788" left="108" width="702" height="18" font="6">process, the listener simply does not need to decide on either of the options. Furthermore,</text>
+<text top="812" left="108" width="702" height="18" font="6">imagine a handicap competition in which all participants must compete in eating different</text>
+<text top="836" left="108" width="702" height="18" font="6">quantities of apples. Some of them just need to finish half of an apple in order to win the</text>
+<text top="859" left="108" width="702" height="18" font="6">game; whereas some of them have to eat ten apples. (9) can be used for all participants</text>
+<text top="883" left="108" width="702" height="18" font="6">when they have to indicate to the judge that they have finished eating their portion.</text>
+<text top="907" left="108" width="702" height="18" font="6">Besides supporting the earlier claim, this case provides evidence suggesting that ‘saai’ is</text>
+<text top="931" left="108" width="702" height="18" font="6">definitely not behaving as a universal quantifier like ‘every’ or ‘all’.  If ‘saai’ were a</text>
+<text top="954" left="108" width="701" height="18" font="6">universal quantifier, it would be impossible for the participant who eats half an apple to</text>
+<text top="978" left="108" width="141" height="18" font="6">use this sentence.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="10" height="18" font="6">8</text>
+<text top="194" left="108" width="274" height="18" font="7"><b>3 An aspectual analysis of ‘saai’</b></text>
+<text top="241" left="108" width="182" height="18" font="7"><b>3.1 ‘Saai’ and telicity</b></text>
+<text top="288" left="108" width="702" height="18" font="6">In the rest of this paper, I am going to elaborate on the claim that ‘saai’, as an aspectual</text>
+<text top="312" left="108" width="702" height="18" font="6">element, suggests the completeness of the event described in the predicate. I have</text>
+<text top="335" left="108" width="703" height="18" font="6">proposed in Section 1 that the predicate can refer to a process consisting of different</text>
+<text top="359" left="108" width="702" height="18" font="6">stages; or it can refer to a combination of several events of the same nature. In both cases,</text>
+<text top="383" left="108" width="702" height="18" font="6">‘saai’ can be used to signal a completion of every part involved in the event. When ‘saai’</text>
+<text top="407" left="108" width="702" height="18" font="6">is used with the predicate which refers to a process consisting of different stages, it entails</text>
+<text top="431" left="108" width="702" height="18" font="6">that the event will come to an end when every stage has been completed. However, if</text>
+<text top="454" left="108" width="702" height="18" font="6">‘saai’ is used to signal that some activities have all been carried out, it will not entail that</text>
+<text top="478" left="108" width="703" height="18" font="6">each activity has come to an end. Therefore, I suggest that the ‘telicity requirement’</text>
+<text top="502" left="108" width="702" height="18" font="6">proposed by earlier research is not an accurate description of the phenomenon. I will</text>
+<text top="526" left="108" width="702" height="18" font="6">propose that the status of telicity will only be determined when all the factors, such as the</text>
+<text top="549" left="108" width="702" height="18" font="6">presence of other aspectual elements and the context, are taken into consideration. Further</text>
+<text top="573" left="108" width="591" height="18" font="6">evidence will be provided to support the above claims in this sub-section.</text>
+<text top="597" left="123" width="687" height="18" font="6">The argument here presupposes that the kind of action represented in the predicate will</text>
+<text top="621" left="108" width="702" height="18" font="6">not be determined by the verb and its internal argument (if it is present) alone, it will also</text>
+<text top="644" left="108" width="702" height="18" font="6">be determined by the presence of aspectual elements, including ‘saai’; and the</text>
+<text top="668" left="108" width="702" height="18" font="6">interpretation will also be constrained by the context as well.  I will assume that the</text>
+<text top="692" left="108" width="701" height="18" font="6">lexical entry of a verb need not contain any information on what kind of action the verb</text>
+<text top="716" left="108" width="702" height="18" font="6">will represent. Instead, it only contains information on its thematic and syntactic</text>
+<text top="739" left="108" width="701" height="18" font="6">requirement. However, such information is by no means sufficient to determine the kind</text>
+<text top="763" left="108" width="702" height="18" font="6">of action and the meaning will be determined by further linguistic and contextual</text>
+<text top="787" left="108" width="109" height="18" font="6">information. </text>
+<text top="811" left="123" width="687" height="18" font="6">The Vendlerian classification suggests that predicates can represent an activity, an</text>
+<text top="834" left="108" width="702" height="18" font="6">accomplishment, an achievement or a stative event, which are then associated with</text>
+<text top="858" left="108" width="702" height="18" font="6">different telic/atelic conditions.  For instance, it is <i>possible</i> to understand (10) as an</text>
+<text top="882" left="108" width="137" height="18" font="6">accomplishment.</text>
+<text top="929" left="108" width="34" height="18" font="6">(10)</text>
+<text top="929" left="162" width="177" height="18" font="6">Ngoh sik go pinggwo.</text>
+<text top="953" left="162" width="7" height="18" font="6">I</text>
+<text top="953" left="216" width="97" height="18" font="6">eat cl apple.</text>
+<text top="977" left="162" width="119" height="18" font="6">I eat the apple.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="800" width="10" height="18" font="6">9</text>
+<text top="194" left="108" width="703" height="18" font="6">According to Vendler(1967), (10) will be analysed as telic because the event will come</text>
+<text top="218" left="108" width="701" height="18" font="6">to an end when the person finishes eating the apple. Tenny(1987) captures this intuition</text>
+<text top="242" left="108" width="702" height="18" font="6">by suggesting that the event described by the sentence will ‘transpire’ over a fixed length</text>
+<text top="265" left="108" width="702" height="18" font="6">of time. She explains that if an internal argument is <i>affected</i> by the verb, the event will be</text>
+<text top="289" left="108" width="703" height="18" font="6">delimited, i.e. telic (see further section 3.3 below). For instance, she provides examples</text>
+<text top="313" left="108" width="700" height="18" font="6">(11) and (12) to explain the difference between a delimited and a non-delimited event. </text>
+<text top="360" left="108" width="33" height="18" font="6">(11)</text>
+<text top="360" left="162" width="382" height="18" font="6">Kim will climb the silo in an hour/*for an hour.</text>
+<text top="408" left="108" width="34" height="18" font="6">(12)</text>
+<text top="408" left="162" width="376" height="18" font="6">Kim will push the cart *in an hour/for an hour.</text>
+<text top="455" left="108" width="701" height="18" font="6">The use of the adverbial with ‘in’ highlights the delimitedness of the event; whereas the</text>
+<text top="479" left="108" width="702" height="18" font="6">‘for’ adverbial suggests an ongoing activity. If (10) is analysed along Tenny’s lines, I can</text>
+<text top="503" left="108" width="702" height="18" font="6">claim that the internal argument ‘go pinggwo’ is affected by the event because it</text>
+<text top="527" left="108" width="702" height="18" font="6">undergoes an internal change during the event. The object will also provide a limit within</text>
+<text top="550" left="108" width="251" height="18" font="6">which the event can take place.</text>
+<text top="574" left="123" width="687" height="18" font="6">These analyses capture the kind of action which can <i>potentially</i> be represented by that</text>
+<text top="598" left="108" width="701" height="18" font="6">predicate. However, they have not excluded the possibility that a sentence like (10) will</text>
+<text top="622" left="108" width="702" height="18" font="6">still be true when the event has not yet ‘transpired’, i.e. when it is used to refer to an</text>
+<text top="645" left="108" width="485" height="18" font="6">activity of apple-eating which has never been accomplished.</text>
+<text top="693" left="108" width="34" height="18" font="6">(13)</text>
+<text top="695" left="162" width="576" height="15" font="0">Gam jat, <i>ngoh sik go pinggwo</i>. Dim zi, tai dou pinggwo jauh cung. Ngoh sehng go m</text>
+<text top="695" left="755" width="24" height="15" font="0">sik.</text>
+<text top="716" left="162" width="81" height="15" font="0">Today, I eat</text>
+<text top="716" left="270" width="57" height="15" font="0">cl apple.</text>
+<text top="716" left="378" width="361" height="15" font="0">How know, see asp apple have worm. I whole cl neg </text>
+<text top="716" left="756" width="24" height="15" font="0">eat.</text>
+<text top="737" left="162" width="648" height="18" font="6">Earlier today, I ate an apple. To my surprise, I found a worm inside it and I</text>
+<text top="760" left="162" width="201" height="18" font="6">dumped the whole apple.</text>
+<text top="808" left="108" width="702" height="18" font="6">For instance in (13), the person is describing an incident of ‘apple-eating’ which happened</text>
+<text top="832" left="108" width="702" height="18" font="6">earlier on a particular day. It is clear that the person has <i>not</i> finished eating the whole</text>
+<text top="855" left="108" width="702" height="18" font="6">apple. It may even be possible that most of the apple was left untouched because of the</text>
+<text top="879" left="108" width="702" height="18" font="6">worm. Therefore, when used in this context, (10) does not represent an accomplishment.</text>
+<text top="903" left="108" width="702" height="18" font="6">In English, this situation would typically be described by the use of ‘was eating’ rather</text>
+<text top="927" left="108" width="702" height="18" font="6">than ‘ate’. In fact, (13) shows that a sentence like (10) is underspecified between a telic</text>
+<text top="950" left="108" width="177" height="18" font="6">and an atelic reading. </text>
+<text top="974" left="123" width="687" height="18" font="6">In Cantonese, it is very easy to find examples which can be used to describe either an</text>
+<text top="998" left="108" width="701" height="18" font="6">activity (i.e. atelic event) or an accomplishment (i.e. telic event). For instance, ‘se seon’</text>
+<text top="1022" left="108" width="702" height="18" font="6">(write a letter(s)), ‘wa waa’ (draw a picture(s)) are underspecified between an activity and</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">10</text>
+<text top="1045" left="130" width="596" height="15" font="0">The use of ‘juhn’ and other aspectuals in Cantonese will be discussed in sub section 3.2.</text>
+<text top="1040" left="123" width="6" height="11" font="1">6</text>
+<text top="194" left="108" width="702" height="18" font="6">an accomplishment reading. As observed by Tenny(1987), it is possible for a predicate</text>
+<text top="218" left="108" width="702" height="18" font="6">with the meaning of ‘creation’ or ‘consumption’ to be delimited by the direct object. As</text>
+<text top="242" left="108" width="702" height="18" font="6">discussed, the object which is affected by the event will undergo certain changes during</text>
+<text top="265" left="108" width="702" height="18" font="6">the process. The complete change of the object suggests that the event has also been</text>
+<text top="289" left="108" width="702" height="18" font="6">finished.  Therefore, the object provides a potential limit within which the event can take</text>
+<text top="313" left="108" width="702" height="18" font="6">place. This explains why a predicate with an affected object potentially has a natural</text>
+<text top="337" left="108" width="702" height="18" font="6">endpoint. However, further linguistic and contextual information are needed to determine</text>
+<text top="360" left="108" width="702" height="18" font="6">whether the endpoint has actually been reached as shown by (10) and (13). Similarly,</text>
+<text top="384" left="108" width="702" height="18" font="6">although the unaffected object of a predicate cannot provide an endpoint to the event, the</text>
+<text top="408" left="108" width="702" height="18" font="6">telic/atelic status of the predicate will only be determined when specified by some</text>
+<text top="432" left="108" width="702" height="18" font="6">linguistic or contextual means. For instance, a telic reading can be determined in a</text>
+<text top="455" left="108" width="616" height="18" font="6">predicate like ‘zai dai ce’(ride bicycle) by using an aspectual such as ‘juhn’. </text>
+<text top="453" left="724" width="6" height="11" font="1">6</text>
+<text top="479" left="123" width="687" height="18" font="6">If the predicate that ‘saai’ associates with is underspecified between a telic and an atelic</text>
+<text top="503" left="108" width="702" height="18" font="6">reading, it is wrong to claim that ‘saai’ characterises <i>only</i> a telic event. The affectedness</text>
+<text top="527" left="108" width="702" height="18" font="6">condition helps to provide a potential endpoint for the event but it is definitely <b>not</b> a</text>
+<text top="551" left="108" width="702" height="18" font="6">sufficient condition to determine a telic reading. The argument here strongly suggests that</text>
+<text top="575" left="108" width="702" height="18" font="6">if ‘saai’ is ‘related’ to the phenomenon of telicity, it is only because ‘saai’ indirectly</text>
+<text top="598" left="108" width="702" height="18" font="6">favours a telic reading for the event. Therefore, there is no telicity requirement related to</text>
+<text top="622" left="108" width="702" height="18" font="6">the use of ‘saai’. If ‘saai’ <i>only</i> signals the completeness of the event, it is also predicted</text>
+<text top="646" left="108" width="702" height="18" font="6">that it will be incompatible with any event <i>specified</i> clearly as still incomplete. In sub-</text>
+<text top="670" left="108" width="702" height="18" font="6">section 3.2, I will illustrate, by using examples with ‘saai’ together with other aspectuals,</text>
+<text top="693" left="108" width="454" height="18" font="6">that ‘saai’ is indeed incompatible with ‘incompleteness’.</text>
+<text top="765" left="108" width="263" height="18" font="7"><b>3.2 ‘Saai’ and other aspectuals</b></text>
+<text top="812" left="108" width="702" height="18" font="6">In Cantonese, there is a rich repertoire of post-verbal particles which specifies the aspect</text>
+<text top="836" left="108" width="702" height="18" font="6">of the event and how a speaker or hearer should view the event from their vantage point.</text>
+<text top="859" left="108" width="703" height="18" font="6">I will discuss the most commonly-used post-verbal particles in this section. First, ‘gan’</text>
+<text top="883" left="108" width="702" height="18" font="6">suggests that a process is expected to continue for an unspecified duration; and ‘hah’</text>
+<text top="907" left="108" width="701" height="18" font="6">refers to an incomplete action. In both cases, the aspectual elements specify an event</text>
+<text top="931" left="108" width="702" height="18" font="6">which has not yet been completed. If ‘saai’ is an aspectual emphasizing the fulfillment of</text>
+<text top="954" left="108" width="702" height="18" font="6">every stage of a process, then it will follow that ‘saai’ cannot co-occur with any aspectual</text>
+<text top="978" left="108" width="356" height="18" font="6">that suggests ‘incompleteness’, for instance,</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">11</text>
+<text top="1025" left="130" width="680" height="15" font="0">Glosses with parentheses round them are there simply to help the reader. It is strictly speaking</text>
+<text top="1020" left="123" width="6" height="11" font="1">7</text>
+<text top="1045" left="108" width="464" height="15" font="0">not possible to give a free translation of an ungrammatical sentence. </text>
+<text top="194" left="108" width="34" height="18" font="6">(14)</text>
+<text top="194" left="162" width="261" height="18" font="6">*Ngoh sik <b>gan</b> <i>saai</i> go pinggwo.</text>
+<text top="218" left="162" width="7" height="18" font="6">I</text>
+<text top="218" left="216" width="167" height="18" font="6">eat gan saai cl apple.</text>
+<text top="242" left="162" width="281" height="18" font="6">(I am eating the apple completely.)</text>
+<text top="240" left="443" width="6" height="11" font="1">7</text>
+<text top="290" left="108" width="34" height="18" font="6">(15)</text>
+<text top="290" left="162" width="262" height="18" font="6">*Ngoh sik <b>hah</b> <i>saai</i> go pinggwo.</text>
+<text top="314" left="162" width="7" height="18" font="6">I</text>
+<text top="314" left="216" width="167" height="18" font="6">eat hah saai cl apple.</text>
+<text top="337" left="162" width="380" height="18" font="6">(I have completely eaten the apple for a while.)</text>
+<text top="385" left="108" width="702" height="18" font="6">It should also be noted that an incomplete action does <i>not</i> specify whether an event is telic</text>
+<text top="409" left="108" width="702" height="18" font="6">or not. Therefore, ‘saai’ is incompatible with these aspectuals because of the</text>
+<text top="432" left="108" width="524" height="18" font="6">‘incompleteness’ but not because of the telic or atelic conditions.</text>
+<text top="456" left="123" width="687" height="18" font="6">‘Hoi’ and ‘gwaan’ are generally understood as referring to habit. ‘Hoi’ suggests that an</text>
+<text top="480" left="108" width="702" height="18" font="6">action has been a habit until the moment at which the sentence is uttered; whereas</text>
+<text top="504" left="108" width="702" height="18" font="6">‘gwaan’ suggests a repetition of an event which forms a habit. ‘Gwaan’ does not entail</text>
+<text top="527" left="108" width="702" height="18" font="6">that the habit is still relevant at the moment at which the sentence is uttered; but ‘hoi’</text>
+<text top="551" left="108" width="702" height="18" font="6">entails that the event must be relevant at the moment at which the sentence is uttered.</text>
+<text top="575" left="108" width="702" height="18" font="6">Therefore, ‘gwaan’ suggests a completed habituality whereas ‘hoi’ suggests an incomplete</text>
+<text top="599" left="108" width="476" height="18" font="6">habituality. Hence, the distribution with ‘saai’ indicated as:</text>
+<text top="647" left="108" width="33" height="18" font="6">(16)</text>
+<text top="647" left="162" width="14" height="18" font="6">a.</text>
+<text top="647" left="215" width="251" height="18" font="6">Ngoh sik <b>gwaan</b> <i>saai</i> pinggwo.</text>
+<text top="670" left="216" width="7" height="18" font="6">I</text>
+<text top="670" left="270" width="170" height="18" font="6">eat gwaan saai apple.</text>
+<text top="694" left="216" width="454" height="18" font="6">I have completely got used to eating apples/the apple(s).</text>
+<text top="742" left="162" width="15" height="18" font="6">b.</text>
+<text top="742" left="216" width="232" height="18" font="6">*Ngoh sik <b>hoi</b> <i>saai</i> pinggwo.</text>
+<text top="766" left="216" width="7" height="18" font="6">I</text>
+<text top="766" left="270" width="144" height="18" font="6">eat hoi saai apple.</text>
+<text top="789" left="216" width="423" height="18" font="6">(I usually eat completely all the apples/the apple(s).)</text>
+<text top="837" left="108" width="34" height="18" font="6">(17)</text>
+<text top="837" left="162" width="14" height="18" font="6">a.</text>
+<text top="837" left="216" width="260" height="18" font="6">Keoih jehng <b>gwaan</b> saai bei coi.</text>
+<text top="861" left="216" width="270" height="18" font="6">S/he win gwaan saai competition.</text>
+<text top="885" left="216" width="594" height="18" font="6">S/he has completely got used to winning competitions/the competition(s).</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">12</text>
+<text top="194" left="162" width="15" height="18" font="6">b.</text>
+<text top="194" left="216" width="241" height="18" font="6">*Keoih jehng <b>hoi</b> saai bei coi.</text>
+<text top="218" left="216" width="244" height="18" font="6">S/he win hoi saai competition.</text>
+<text top="242" left="216" width="594" height="18" font="6">(S/he has started winning completely all competitions/all the competitions.)</text>
+<text top="289" left="108" width="702" height="18" font="6">Like ‘gan’ and ‘hah’, ‘hoi’ which suggests an incomplete habituality is not compatible</text>
+<text top="313" left="108" width="702" height="18" font="6">with ‘saai’. On the other hand, there are a number of aspectuals which have been</text>
+<text top="337" left="108" width="700" height="18" font="6">associated with ‘completion’. They are ‘hou’, ‘juhn’, ‘jo’ and ‘gwo’(cf. Matthews &amp; Yip</text>
+<text top="361" left="108" width="702" height="18" font="6">1994).  I suggest that ‘hou’, ‘juhn’ and ‘gwo’ clearly specify that an event has come to an</text>
+<text top="384" left="108" width="702" height="18" font="6">end and hence should all be compatible with ‘saai’. However, they are used in slightly</text>
+<text top="408" left="108" width="702" height="18" font="6">different ways. ‘Hou’ is used <i>only</i> with predicates with an affected reading. Since ‘hou’</text>
+<text top="432" left="108" width="701" height="18" font="6">denotes success, it will usually be associated with an event in which the affected object</text>
+<text top="456" left="108" width="446" height="18" font="6">has been created, but not consumed during the process.</text>
+<text top="504" left="108" width="34" height="18" font="6">(18)</text>
+<text top="504" left="162" width="14" height="18" font="6">a.</text>
+<text top="504" left="216" width="188" height="18" font="6">Ngoh wa <b>hou</b> saai waa.</text>
+<text top="527" left="216" width="7" height="18" font="6">I</text>
+<text top="527" left="270" width="246" height="18" font="6">draw successfully saai picture.</text>
+<text top="551" left="216" width="500" height="18" font="6">I have successfully completed drawing pictures/the picture(s).</text>
+<text top="599" left="162" width="15" height="18" font="6">b.</text>
+<text top="599" left="216" width="236" height="18" font="6">?Ngoh sik <b>hou</b> <i>saai</i> pinggwo.</text>
+<text top="623" left="216" width="7" height="18" font="6">I</text>
+<text top="623" left="270" width="149" height="18" font="6">eat hou saai apple.</text>
+<text top="647" left="216" width="459" height="18" font="6">I have successfully completed eating apples/the apple(s).</text>
+<text top="694" left="108" width="702" height="18" font="6">‘Juhn’ clearly marks that an event has finished but it can be used in both the affected and</text>
+<text top="718" left="108" width="164" height="18" font="6">unaffected readings.</text>
+<text top="766" left="108" width="34" height="18" font="6">(19)</text>
+<text top="766" left="162" width="14" height="18" font="6">a.</text>
+<text top="766" left="216" width="245" height="18" font="6">Keoih jehng <b>juhn</b> saai bei coi.</text>
+<text top="789" left="216" width="254" height="18" font="6">S/he win juhn saai competition.</text>
+<text top="813" left="216" width="594" height="18" font="6">S/he has completely finished winning all competitions/all the competitions.</text>
+<text top="861" left="162" width="15" height="18" font="6">b.</text>
+<text top="861" left="216" width="236" height="18" font="6">Ngoh sik <b>juhn</b> <i>saai</i> pinggwo.</text>
+<text top="885" left="216" width="7" height="18" font="6">I</text>
+<text top="885" left="270" width="149" height="18" font="6">eat hou saai apple.</text>
+<text top="909" left="216" width="435" height="18" font="6">I have completely finished eating apples/the apple(s). </text>
+<text top="956" left="162" width="14" height="18" font="6">c.</text>
+<text top="956" left="216" width="282" height="18" font="6">*Keoih jihng dak <b>juhn</b> go loei zai. </text>
+<text top="980" left="216" width="215" height="18" font="6">S/he recognise juhn cl girl.</text>
+<text top="1004" left="216" width="335" height="18" font="6">(S/he has completely recognised the girl.)</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">13</text>
+<text top="194" left="108" width="702" height="18" font="6">It should also be noted that if ‘juhn’ is used alone, it will not entail that every stage of the</text>
+<text top="218" left="108" width="702" height="18" font="6">event has been completed. ‘Juhn’ just shows that an event has come to an end. Therefore,</text>
+<text top="242" left="108" width="702" height="18" font="6">if ‘saai’ is taken away from (19b), the sentence will be underdetermined in whether the</text>
+<text top="265" left="108" width="461" height="18" font="6">whole apple has been eaten or simply a certain part of it. </text>
+<text top="289" left="123" width="687" height="18" font="6">‘Gwo’ is usually referred to as ‘experiential’ and ‘jo’ as ‘perfective’ in the Cantonese</text>
+<text top="313" left="108" width="702" height="18" font="6">linguistic literature. Similar to the distinction between the habitual ‘hoi’ and ‘gwaan’, ‘jo’</text>
+<text top="337" left="108" width="702" height="18" font="6">implies that an action which started in the past is still relevant from the present vantage</text>
+<text top="360" left="108" width="702" height="18" font="6">point. On the contrary, ‘gwo’ specifies that an event is completed and the effect of that</text>
+<text top="384" left="108" width="354" height="18" font="6">event has no direct relevance to the present.</text>
+<text top="432" left="108" width="33" height="18" font="6">(20)</text>
+<text top="432" left="162" width="14" height="18" font="6">a.</text>
+<text top="432" left="215" width="230" height="18" font="6">Ngoh sik <b>gwo</b> <i>saai</i> pinggwo.</text>
+<text top="456" left="216" width="7" height="18" font="6">I</text>
+<text top="456" left="270" width="153" height="18" font="6">eat gwo saai apple.</text>
+<text top="479" left="216" width="387" height="18" font="6">I completely finished eating apples/the apple(s).</text>
+<text top="527" left="162" width="15" height="18" font="6">b.</text>
+<text top="527" left="216" width="222" height="18" font="6">*Ngoh sik <b>jo</b> <i>saai</i> pinggwo.</text>
+<text top="551" left="216" width="7" height="18" font="6">I</text>
+<text top="551" left="270" width="126" height="18" font="6">at jo saai apple.</text>
+<text top="575" left="216" width="367" height="18" font="6">(I have eaten apples/the apple(s) completely.)</text>
+<text top="623" left="108" width="34" height="18" font="6">(21)</text>
+<text top="623" left="162" width="14" height="18" font="6">a.</text>
+<text top="623" left="216" width="230" height="18" font="6">Koih jehng <b>gwo</b> saai bei coi.</text>
+<text top="647" left="216" width="252" height="18" font="6">S/he win gwo saai competition.</text>
+<text top="670" left="216" width="535" height="18" font="6">S/he completely finished winning competitions/the competition(s).</text>
+<text top="718" left="162" width="15" height="18" font="6">b.</text>
+<text top="718" left="216" width="231" height="18" font="6">*Keoih jehng <b>jo</b> saai bei coi.</text>
+<text top="742" left="216" width="249" height="18" font="6">S/he win jo saai competition.   </text>
+<text top="766" left="216" width="482" height="18" font="6">(S/he has won competitions/the competition(s) completely.)</text>
+<text top="813" left="108" width="702" height="18" font="6">The examples (20b) and (21b) suggest that if an event is still relevant to the present</text>
+<text top="837" left="108" width="702" height="18" font="6">vantage point and is expected to continue in future (cf. ‘hoi’ in 16b &amp; 17b), then ‘saai’</text>
+<text top="861" left="108" width="703" height="18" font="6">cannot co-occur with it. On the other hand, ‘saai’ can characterise sentences with ‘hou’,</text>
+<text top="884" left="108" width="702" height="18" font="6">‘juhn’ and ‘gwo’ which clearly specify that the event has reached its endpoint and is</text>
+<text top="908" left="108" width="184" height="18" font="6">considered as finished.</text>
+<text top="932" left="123" width="687" height="18" font="6">‘Maaih’ is another particle which has been analysed as a quantifier over the subject or</text>
+<text top="956" left="108" width="702" height="18" font="6">the object noun phrase. Matthews &amp; Yip(1994:224) suggest that ‘maaih’ can also ‘denote</text>
+<text top="980" left="108" width="703" height="18" font="6">expansion of a domain to include the last of a series of items or to bring certain ongoing</text>
+<text top="1003" left="108" width="703" height="18" font="6">actions to completion.’  In fact, ‘maaih’ too is not a quantifier. It is an aspectual which</text>
+<text top="1027" left="108" width="703" height="18" font="6">brings an end to an event which has been started. Similar to ‘saai’, ‘maaih’ can indicate</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">14</text>
+<text top="194" left="108" width="702" height="18" font="6">the end of an event which refers to a process with internal stages; or an event which refers</text>
+<text top="218" left="108" width="701" height="18" font="6">to a combination of sub-events. In the second reading, it results in a domain-expansion</text>
+<text top="242" left="108" width="702" height="18" font="6">phenomenon as reported in Matthews &amp; Yip. Since ‘maaih’ suggests a completion of an</text>
+<text top="265" left="108" width="487" height="18" font="6">event, it follows that ‘saai’ can be used with ‘maaih’ as well.</text>
+<text top="313" left="108" width="33" height="18" font="6">(22)</text>
+<text top="313" left="162" width="14" height="18" font="6">a.</text>
+<text top="313" left="215" width="273" height="18" font="6">Ngoh sik <b>maaih</b> saai go pinggwo.</text>
+<text top="337" left="216" width="7" height="18" font="6">I</text>
+<text top="337" left="270" width="192" height="18" font="6">eat maaih saai cl  apple.</text>
+<text top="361" left="216" width="314" height="18" font="6">I finish completely eating up the apple.</text>
+<text top="409" left="162" width="15" height="18" font="6">b.</text>
+<text top="409" left="216" width="283" height="18" font="6">Keoih jehng <b>maaih</b> saai go bei coi.</text>
+<text top="432" left="216" width="286" height="18" font="6">S/he win maaih saai cl competition.</text>
+<text top="456" left="216" width="437" height="18" font="6">S/he completely finishes off winning the competition. </text>
+<text top="504" left="108" width="702" height="18" font="6">In this sub-section, I have attempted to give a preliminary account on other aspectuals in</text>
+<text top="527" left="108" width="702" height="18" font="6">Cantonese and how they interact with ‘saai’. The account is descriptive and by no means</text>
+<text top="551" left="108" width="703" height="18" font="6">complete. However, it still provides evidence showing that ‘saai’ is an aspectual element</text>
+<text top="575" left="108" width="702" height="18" font="6">suggesting that every stage of a process described in the predicate has been fulfilled. It</text>
+<text top="599" left="108" width="702" height="18" font="6">does not determine a telic reading but it helps to bring out the telic status of certain</text>
+<text top="622" left="108" width="702" height="18" font="6">predicates. Furthermore, ‘saai’ cannot co-occur with predicates which are specified</text>
+<text top="646" left="108" width="702" height="18" font="6">clearly by other aspectuals suggesting that the event still has relevance to the present</text>
+<text top="670" left="108" width="702" height="18" font="6">vantage point or is expected to continue into the future. Some of the predictions I have</text>
+<text top="694" left="108" width="702" height="18" font="6">made here on the co-occurrence relationship between ‘saai’ and other aspectuals will be</text>
+<text top="717" left="108" width="702" height="18" font="6">used in the following section when I continue to discuss how ‘saai’ function as an</text>
+<text top="741" left="108" width="190" height="18" font="6">aspectual in Cantonese.</text>
+<text top="813" left="108" width="203" height="18" font="7"><b>3.3 The aspectual ‘saai’</b></text>
+<text top="860" left="108" width="702" height="18" font="6">In this section, I am going to show how ‘saai’ interacts with various predicates, with more</text>
+<text top="883" left="108" width="702" height="18" font="6">examples from Cantonese. First, let me illustrate how ‘saai’ constrains the reading of a</text>
+<text top="907" left="108" width="702" height="18" font="6">predicate which can have both an affected and an unaffected reading, depending on the</text>
+<text top="931" left="108" width="702" height="18" font="6">sense of the verb. In Cantonese, ‘za’ can mean ‘squeeze’, ‘control’, ‘hold’ or ‘drive’. One</text>
+<text top="955" left="108" width="702" height="18" font="6">of the readings which (23a) and (23b) have is that the object: ‘ce’ or ‘ga ce’ will not be</text>
+<text top="978" left="108" width="701" height="18" font="6">affected by the event described in the predicates, i.e. the person is driving a car or cars.</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">15</text>
+<text top="194" left="108" width="34" height="18" font="6">(23)</text>
+<text top="194" left="162" width="14" height="18" font="6">a.</text>
+<text top="194" left="216" width="100" height="18" font="6">Keoih za ce.</text>
+<text top="218" left="216" width="117" height="18" font="6">S/he drive car.</text>
+<text top="242" left="216" width="95" height="18" font="6">S/he drives.</text>
+<text top="289" left="162" width="15" height="18" font="6">b.</text>
+<text top="289" left="216" width="124" height="18" font="6">Keoih za ga ce.</text>
+<text top="313" left="216" width="136" height="18" font="6">S/he drive cl car.</text>
+<text top="337" left="216" width="160" height="18" font="6">S/he drives that car.</text>
+<text top="384" left="108" width="702" height="18" font="6">For most native speakers, (23a) and (23b) can also mean: someone is bringing a car under</text>
+<text top="408" left="108" width="701" height="18" font="6">control: any car in (23a) or a particular car in (23b). Let me call the reading of driving a</text>
+<text top="432" left="108" width="702" height="18" font="6">particular car or cars the ‘<i>unaffected’</i> reading and bringing a car or cars under control the</text>
+<text top="455" left="108" width="703" height="18" font="6">‘<i>affected’</i> reading.  The intuition here is: in the ‘affected’ reading, the car will start from</text>
+<text top="479" left="108" width="702" height="18" font="6">an uncontrolled state and move to a controlled state at the end. For instance, if one</text>
+<text top="503" left="108" width="702" height="18" font="6">imagines a mechanical rocking game car which requires the player just to ‘control’ and</text>
+<text top="527" left="108" width="703" height="18" font="6">‘tame’ it until it is under the complete control of the player, either (23a) or (23b) can be</text>
+<text top="550" left="108" width="702" height="18" font="6">used.  According to my earlier discussion, both the affected and unaffected readings need</text>
+<text top="574" left="108" width="702" height="18" font="6">further specification to determine how the event should be viewed. There will be a</text>
+<text top="598" left="108" width="702" height="18" font="6">number of aspectual elements, including, ‘saai’, which can be used to in these sentences.</text>
+<text top="645" left="108" width="34" height="18" font="6">(23)</text>
+<text top="645" left="162" width="14" height="18" font="6">c.</text>
+<text top="645" left="216" width="137" height="18" font="6">Keoih za saai ce.</text>
+<text top="669" left="216" width="175" height="18" font="6">S/he drive saai car(s).</text>
+<text top="693" left="216" width="593" height="18" font="6">S/he has brought cars/the car(s) under complete control.(affected reading)</text>
+<text top="740" left="162" width="15" height="18" font="6">d.</text>
+<text top="740" left="216" width="199" height="18" font="6">Keoih za saai ?(<i>leng</i>) ce.</text>
+<text top="764" left="216" width="268" height="18" font="6">S/he drive saai (brand-name) car.</text>
+<text top="788" left="216" width="437" height="18" font="6">S/he drives all (brand-name) cars.(unaffected reading)</text>
+<text top="836" left="108" width="703" height="18" font="6">In (23c), ‘saai’ suggests that the process of controlling a car or cars has been completely</text>
+<text top="859" left="108" width="702" height="18" font="6">fulfilled. As discussed in Section 1, the number of cars suggested by the bare noun phrase</text>
+<text top="883" left="108" width="702" height="18" font="6">‘ce’ in (23c) can remain undetermined even though ‘saai’ is used. In (23d), ‘saai’ suggests</text>
+<text top="907" left="108" width="702" height="18" font="6">that several instances of car-driving have been completed. However, unlike (23c), the bare</text>
+<text top="931" left="108" width="702" height="18" font="6">noun phrase strongly inclines to having a plural interpretation. Therefore, one can either</text>
+<text top="954" left="108" width="702" height="18" font="6">use a characterising generic noun phrase like ‘leng ce’ in (23d), which is capable of</text>
+<text top="978" left="108" width="701" height="18" font="6">referring to more than one car; or one must provide strong contextual information which</text>
+<text top="1002" left="108" width="703" height="18" font="6">suggests that more than one car has been driven or the same car has been driven more</text>
+<text top="1026" left="108" width="702" height="18" font="6">than once. In some other examples, the object can be construed as ‘divisible’ into subparts</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">16</text>
+<text top="194" left="108" width="702" height="18" font="6">for the event to take place. But it is more difficult to think of driving a ‘divisible’ car;</text>
+<text top="218" left="108" width="408" height="18" font="6">therefore, this option seems unavailable for (23d). </text>
+<text top="242" left="123" width="687" height="18" font="6">Comparing (23c) and (23d), one can find that the affected object in (23c) can potentially</text>
+<text top="265" left="108" width="702" height="18" font="6">provide an endpoint for the event to be considered as finished. Thus, when ‘saai’ is used</text>
+<text top="289" left="108" width="702" height="18" font="6">to signal the complete fulfillment of a process, it follows that the event will stop at the</text>
+<text top="313" left="108" width="702" height="18" font="6">endpoint provided by the affected object if no further linguistic specification is provided.</text>
+<text top="337" left="108" width="701" height="18" font="6">As argued earlier (cf.(9)), the exact cardinality of the object will either be determined by</text>
+<text top="360" left="108" width="702" height="18" font="6">contextual information; or if it is not relevant to the ongoing communication, it can</text>
+<text top="384" left="108" width="702" height="18" font="6">remain unspecified. On the other hand, an unaffected object cannot provide an endpoint</text>
+<text top="408" left="108" width="702" height="18" font="6">for the event described by the predicate. When ‘saai’ signals that the multiple stages of</text>
+<text top="432" left="108" width="702" height="18" font="6">car-driving have been completely fulfilled, it follows that more than one car will be</text>
+<text top="455" left="108" width="702" height="18" font="6">involved in the process(assuming that a ‘divisible’ car cannot be driven). The explanation</text>
+<text top="479" left="108" width="702" height="18" font="6">provided here raises two further questions. First, why is it possible to think of a single</text>
+<text top="503" left="108" width="700" height="18" font="6">process being completed in (23c) but not in (23d). Second, why do we need to clarify the</text>
+<text top="527" left="108" width="702" height="18" font="6">status of the bare noun phrase even though it will increase the load of processing in our</text>
+<text top="550" left="108" width="135" height="18" font="6">communication. </text>
+<text top="574" left="123" width="688" height="18" font="6">To answer the first question, one can look at the nature of the event and its impact on</text>
+<text top="598" left="108" width="702" height="18" font="6">the internal argument again. The affected object of an event will undergo an internal</text>
+<text top="622" left="108" width="702" height="18" font="6">change during the process of the event. For instance, the object will be created or</text>
+<text top="645" left="108" width="702" height="18" font="6">consumed after the process. If ‘saai’ is an aspectual which signals that every stage of a</text>
+<text top="669" left="108" width="702" height="18" font="6">process is fulfilled, then (if no other linguistic specification is made), it will denote a</text>
+<text top="693" left="108" width="702" height="18" font="6">single process if the object is affected in the predicate. On the other hand, no change of</text>
+<text top="717" left="108" width="702" height="18" font="6">the state is involved when the object is unaffected. For example, the state of car-driving</text>
+<text top="740" left="108" width="702" height="18" font="6">should remain constantly stable throughout the event. However, as (23d) shows, it is</text>
+<text top="764" left="108" width="702" height="18" font="6">possible to think of car-driving as having multiple stages if one imagines someone driving</text>
+<text top="788" left="108" width="702" height="18" font="6">more than one car or someone driving the same car more than once. It is also possible to</text>
+<text top="812" left="108" width="703" height="18" font="6">think of several people driving a car or cars as stages of car-driving. Hence, a ‘plural’</text>
+<text top="836" left="108" width="216" height="18" font="6">subject is also appropriate:</text>
+<text top="883" left="108" width="34" height="18" font="6">(23)</text>
+<text top="883" left="162" width="14" height="18" font="6">e.</text>
+<text top="883" left="216" width="229" height="18" font="6">Keoih deih za saai (leng) ce.</text>
+<text top="907" left="216" width="274" height="18" font="6">They drive saai (brand-name) car.</text>
+<text top="931" left="216" width="424" height="18" font="6">They all drive (brand-new) cars.(unaffected reading)</text>
+<text top="978" left="108" width="702" height="18" font="6">In (23e), since the notion of multiple car-driving is provided by the plural subject, it is not</text>
+<text top="1002" left="108" width="702" height="18" font="6">necessary to interpret the bare object noun phrase as ‘numerous’. It should also be noted</text>
+<text top="1026" left="108" width="702" height="18" font="6">that (23d) and (23e) do not exclude the possibility that the stages of the event take place</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">17</text>
+<text top="194" left="108" width="702" height="18" font="6">simultaneously. Therefore, ‘saai’ can signal the complete fulfillment of an event with a</text>
+<text top="218" left="108" width="702" height="18" font="6">successive change of state or it can signal the complete fulfillment of multiple</text>
+<text top="242" left="108" width="702" height="18" font="6">occurrences of several events of the same nature. The complete fulfillment of every stage</text>
+<text top="265" left="108" width="703" height="18" font="6">of an event, which has an internal change of state and its limit provided by the affected</text>
+<text top="289" left="108" width="702" height="18" font="6">object, entails that the event has reached its endpoint, i.e. has a telic reading. On the</text>
+<text top="313" left="108" width="702" height="18" font="6">contrary, the fulfillment of multiple occurrences of several car-driving events will not</text>
+<text top="337" left="108" width="702" height="18" font="6">necessarily entail that every individual car-driving activity has come to an end. Therefore,</text>
+<text top="360" left="108" width="702" height="18" font="6">other aspectual elements or contextual information will be needed to determine the status</text>
+<text top="384" left="108" width="702" height="18" font="6">of telicity. For instance, as I have argued in sub-section 3.2, ‘juhn’ is an aspectual which</text>
+<text top="408" left="108" width="702" height="18" font="6">can be used to show that the whole event has come to an end in predicates with either an</text>
+<text top="432" left="108" width="267" height="18" font="6">affected or an unaffected object. </text>
+<text top="479" left="108" width="34" height="18" font="6">(23)</text>
+<text top="479" left="162" width="12" height="18" font="6">f.</text>
+<text top="479" left="216" width="178" height="18" font="6">Keoih za juhn saai ce.</text>
+<text top="503" left="216" width="267" height="18" font="6">S/he   drive/control juhn saai car.</text>
+<text top="527" left="216" width="452" height="18" font="6">S/he has finished driving a car/cars.(unaffected reading)</text>
+<text top="550" left="216" width="556" height="18" font="6">S/he has finished controlling a car/cars completely.(affected reading)</text>
+<text top="598" left="108" width="702" height="18" font="6">In the unaffected reading of (23f), ‘juhn’ shows that the event has come to an endpoint</text>
+<text top="622" left="108" width="702" height="18" font="6">and it provides a boundary within which the process takes place. If ‘saai’ signals the</text>
+<text top="645" left="108" width="702" height="18" font="6">completion of every stage of a process, the process delimited by ‘juhn’ will allow ‘saai’</text>
+<text top="669" left="108" width="702" height="18" font="6">to operate on it. In the affected reading of (23f), ‘juhn’ clearly indicates that the endpoint</text>
+<text top="693" left="108" width="702" height="18" font="6">has already been reached in the event. However, if ‘saai’ is taken away from (23f) as in</text>
+<text top="717" left="108" width="702" height="18" font="6">(23g), then we will not be sure whether every stage in the process has been fulfilled. In</text>
+<text top="740" left="108" width="702" height="18" font="6">the affected reading, a person can say (23g) even if he fails to fulfill every stage in</text>
+<text top="764" left="108" width="703" height="18" font="6">controlling the mechanical rocking car. He can simply finish the game without fulfilling</text>
+<text top="788" left="108" width="702" height="18" font="6">the task. As for the unaffected reading, one cannot decide whether the person has driven</text>
+<text top="812" left="108" width="287" height="18" font="6">a single car or several cars in (23g).</text>
+<text top="859" left="108" width="34" height="18" font="6">(23)</text>
+<text top="859" left="162" width="15" height="18" font="6">g.</text>
+<text top="859" left="216" width="137" height="18" font="6">Ngoh za juhn ce.</text>
+<text top="883" left="216" width="7" height="18" font="6">I</text>
+<text top="883" left="270" width="180" height="18" font="6">control/drive juhn car.</text>
+<text top="907" left="216" width="444" height="18" font="6">I have finished controlling a car/cars.(affected reading)</text>
+<text top="931" left="216" width="356" height="18" font="6">I have finished driving. (unaffected reading)</text>
+<text top="978" left="108" width="702" height="18" font="6">As suggested in Section 1, any elaboration on the status of the bare noun phrase will</text>
+<text top="1002" left="108" width="702" height="18" font="6">increase the processing load. Therefore, if the information is irrelevant to the ongoing</text>
+<text top="1026" left="108" width="702" height="18" font="6">communication, it will be left undetermined. In the case of (23d), when no contextual</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">18</text>
+<text top="194" left="108" width="702" height="18" font="6">information is served as the background of interpretation, it will be more difficult to</text>
+<text top="218" left="108" width="702" height="18" font="6">understand the existence of  multiple ‘stages’ of car-driving in the predicate and how they</text>
+<text top="242" left="108" width="703" height="18" font="6">can be considered as fulfilled, if I leave the status of the bare noun phrase unclarified.</text>
+<text top="265" left="108" width="702" height="18" font="6">Since a clarified noun phrase helps us to process a sentence without any further</text>
+<text top="289" left="108" width="701" height="18" font="6">contextual assumption, it will be specified even though the elaboration will increase the</text>
+<text top="313" left="108" width="702" height="18" font="6">processing effort. Therefore, the relevance of the information and the concern to minimise</text>
+<text top="337" left="108" width="702" height="18" font="6">the processing effort will be observed in all the cases of elaborating the noun phrases.</text>
+<text top="360" left="108" width="701" height="18" font="6">Although all the examples I have discussed so far involve count nouns, these principles</text>
+<text top="384" left="108" width="562" height="18" font="6">will also apply to mass nouns. For instance, in the following example,</text>
+<text top="432" left="108" width="34" height="18" font="6">(24)</text>
+<text top="432" left="162" width="171" height="18" font="6">Keoih jauh <i>saai</i> seoi.</text>
+<text top="455" left="162" width="175" height="18" font="6">S/he swim saai water.</text>
+<text top="479" left="162" width="231" height="18" font="6">S/he has finished swimming.</text>
+<text top="527" left="108" width="702" height="18" font="6">the mass noun ‘water’ can be used with ‘saai’ as an unaffected object. As I have argued,</text>
+<text top="550" left="108" width="701" height="18" font="6">if the extent of water is not relevant to the communication, the status of  ‘water’ will not</text>
+<text top="574" left="108" width="702" height="18" font="6">be elaborated. If the information is relevant, one can also come up with different contexts</text>
+<text top="598" left="108" width="701" height="18" font="6">under  which the extent of water is clearly assumed. For example, one can imagine a</text>
+<text top="622" left="108" width="702" height="18" font="6">swimmer who is training for the Olympic Games, s/he must swim a fixed distance set by</text>
+<text top="645" left="108" width="702" height="18" font="6">the coach everyday. (24) is then felicitous when the swimmer has covered the distance set</text>
+<text top="669" left="108" width="702" height="18" font="6">for the day. Therefore, despite the fact that ‘seoi’ does not delimit the event, a telic</text>
+<text top="693" left="108" width="702" height="18" font="6">reading can still be obtained by using ‘saai’ in an appropriate context. Besides following</text>
+<text top="717" left="108" width="702" height="18" font="6">the general constraints related to elaborating the noun phrase, this example shows that the</text>
+<text top="740" left="108" width="702" height="18" font="6">use of context is necessary for deriving the telic reading pragmatically in some examples.</text>
+<text top="764" left="108" width="702" height="18" font="6">‘Saai’ signals that every stage of a process is completed but here, it clearly requires a</text>
+<text top="788" left="108" width="469" height="18" font="6">contextual specification for bringing out the telic reading. </text>
+<text top="812" left="123" width="688" height="18" font="6">There are other predicates which have been discussed with relation to ‘saai’ in recent</text>
+<text top="836" left="108" width="702" height="18" font="6">research. Tang(1996) suggests that ‘saai’ cannot co-occur with stative or activity</text>
+<text top="859" left="108" width="702" height="18" font="6">predicates. I have provided examples to show how predicates(which are commonly</text>
+<text top="883" left="108" width="702" height="18" font="6">understood as representing an accomplishment and an activity) are underspecified</text>
+<text top="907" left="108" width="703" height="18" font="6">between a telic and an atelic reading (cf. 10, 13). In the last part of this sub-section, I am</text>
+<text top="931" left="108" width="702" height="18" font="6">going to show that the criteria for using ‘saai’ which I have developed in this Section will</text>
+<text top="954" left="108" width="702" height="18" font="6">apply to all predicates (i.e. including predicates which are usually classified as</text>
+<text top="978" left="108" width="702" height="18" font="6">representing an achievement or a state). For instance, ‘jehng go bei coi’ (win cl</text>
+<text top="1002" left="108" width="702" height="18" font="6">competition: win the competition), ‘dou go saan ting’ (arrive cl hill top: reached the hill</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">19</text>
+<text top="986" left="130" width="680" height="15" font="0">‘dak’ is translated as ‘result’ because it also behaves like a post-verbal particle. For instance, if</text>
+<text top="981" left="123" width="6" height="11" font="1">8</text>
+<text top="1005" left="108" width="702" height="15" font="0">we say ‘Keoih jihng jahn.’ (He identify man: He identifies the suspect.) which usually refers to the</text>
+<text top="1025" left="108" width="702" height="15" font="0">process of identifying the suspect by the witness. ‘Jihng’ without ‘dak’ does not convey the idea of</text>
+<text top="1045" left="108" width="218" height="15" font="0">‘recognition’ as in the example. </text>
+<text top="194" left="108" width="702" height="18" font="6">top), ‘jihng dak  go leoi zai’ (know result that cl girl: recognise that girl) are usually</text>
+<text top="192" left="238" width="6" height="11" font="1">8</text>
+<text top="218" left="108" width="702" height="18" font="6">understood as ‘achievement’ predicates, when the process has a very short duration or no</text>
+<text top="242" left="108" width="702" height="18" font="6">duration at all (cf. Vendler 1967, Tenny 1987). The objects of these predicates are</text>
+<text top="265" left="108" width="702" height="18" font="6">unaffected, i.e. the object does not undergo any internal change in the event.  As argued</text>
+<text top="289" left="108" width="702" height="18" font="6">in 3.2, the use of aspectual ‘hou’ can help to illustrate that the object of the predicate is</text>
+<text top="313" left="108" width="226" height="18" font="6">possibly an unaffected one. </text>
+<text top="360" left="108" width="34" height="18" font="6">(25)</text>
+<text top="360" left="162" width="274" height="18" font="6">Tai Hung jehng (*hou) go bei coi.</text>
+<text top="384" left="162" width="272" height="18" font="6">Tai Hung win hou cl competition.</text>
+<text top="408" left="162" width="355" height="18" font="6">Tai Hung successfully won the competition.</text>
+<text top="455" left="108" width="34" height="18" font="6">(26)</text>
+<text top="455" left="162" width="285" height="18" font="6">Ngoh deih dou (*hou) go saan ting.</text>
+<text top="479" left="162" width="28" height="18" font="6">We</text>
+<text top="479" left="216" width="169" height="18" font="6">arrive hou cl hill top.</text>
+<text top="503" left="162" width="291" height="18" font="6">We successfully reached the hill top</text>
+<text top="550" left="108" width="33" height="18" font="6">(27)</text>
+<text top="550" left="162" width="281" height="18" font="6">Keoih jihng dak (*hou) go leoi zai.</text>
+<text top="574" left="162" width="227" height="18" font="6">S/he know result hou cl girl.</text>
+<text top="598" left="162" width="299" height="18" font="6">S/he successfully recognised the girl.</text>
+<text top="645" left="108" width="702" height="18" font="6">Since the object is an unaffected one, it is predicted that no potential endpoint will be</text>
+<text top="669" left="108" width="702" height="18" font="6">provided by the object to the event. Therefore, if the elaboration of the noun phrase is</text>
+<text top="693" left="108" width="702" height="18" font="6">necessary, this will then be interpreted in terms of ‘numerousness’ or ‘divisibility’. For</text>
+<text top="717" left="108" width="702" height="18" font="6">instance, in (28), a ‘singular’ noun phrase can still be used if an appropriate context is</text>
+<text top="740" left="108" width="702" height="18" font="6">stipulated. One of the contexts we can stipulate here is that when a person repeatedly</text>
+<text top="764" left="108" width="702" height="18" font="6">recognise the same girl on various occasions, (28) becomes felicitous. One can imagine</text>
+<text top="788" left="108" width="698" height="18" font="6">the girl in (28) as a spy who disguises herself in different ways on different occasions. </text>
+<text top="836" left="108" width="33" height="18" font="6">(28)</text>
+<text top="836" left="162" width="397" height="18" font="6">Keoih jihng dak <i>saai</i> go leoi zai/saam go leoi zai.</text>
+<text top="859" left="162" width="333" height="18" font="6">S/he know result saai cl girl/three cl girls.</text>
+<text top="883" left="162" width="431" height="18" font="6">S/he has recognised the girl/all three girls completely.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">20</text>
+<text top="194" left="108" width="702" height="18" font="6">Predicates, like those in (29) and (30), which are usually analysed as ‘stative’ are also</text>
+<text top="218" left="108" width="514" height="18" font="6">incompatible with ‘hou’ but allow ‘juhn’ to occur post-verbally.</text>
+<text top="265" left="108" width="33" height="18" font="6">(29)</text>
+<text top="265" left="162" width="285" height="18" font="6">Ngoh zung ji *hou/juhn go leoi zai.</text>
+<text top="289" left="162" width="7" height="18" font="6">I</text>
+<text top="289" left="216" width="164" height="18" font="6">like hou/juhn cl girl.</text>
+<text top="313" left="162" width="354" height="18" font="6">I successfully liked/ finished liking the girl. </text>
+<text top="360" left="108" width="34" height="18" font="6">(30)</text>
+<text top="360" left="162" width="283" height="18" font="6">Keoih zahng *hou/juhn go leoi zai.</text>
+<text top="384" left="162" width="7" height="18" font="6">I</text>
+<text top="384" left="216" width="168" height="18" font="6">hate hou/juhn cl girl.</text>
+<text top="408" left="162" width="357" height="18" font="6">I successfully hated/ finished hating the girl.</text>
+<text top="455" left="108" width="702" height="18" font="6">Again, the objects in these predicates are unaffected. If ‘saai’ is used with the predicate</text>
+<text top="479" left="108" width="702" height="18" font="6">without any further aspectual modification, as in (31), the noun phrase can be conceived</text>
+<text top="503" left="108" width="702" height="18" font="6">as ‘divisible’ or ‘numerous’ if elaboration is required. For instance, (31) will become</text>
+<text top="527" left="108" width="701" height="18" font="6">felicitous if one imagines a person who likes all the qualities of the girl (assuming that a</text>
+<text top="550" left="108" width="295" height="18" font="6">girl cannot be ‘physically’ divisible).</text>
+<text top="598" left="108" width="33" height="18" font="6">(31)</text>
+<text top="598" left="162" width="242" height="18" font="6">Ngoh zung ji <i>saai</i> go leoi zai. </text>
+<text top="622" left="162" width="7" height="18" font="6">I</text>
+<text top="622" left="216" width="123" height="18" font="6">like saai cl girl.</text>
+<text top="645" left="162" width="208" height="18" font="6">I like the girl completely. </text>
+<text top="693" left="108" width="702" height="18" font="6">In this section, I have tried to spell out the intuitive relationship between the direct object</text>
+<text top="717" left="108" width="702" height="18" font="6">and the predicate with reference to the notion of <i>un/affectedness</i> from Tenny(1987).  I</text>
+<text top="740" left="108" width="702" height="18" font="6">have shown that the affected object has the potential of providing a limit within which the</text>
+<text top="764" left="108" width="702" height="18" font="6">event is considered as finished. However, the status of a/telicity will remain</text>
+<text top="788" left="108" width="701" height="18" font="6">underspecified in the absence of further linguistic or contextual specification. I propose</text>
+<text top="812" left="108" width="701" height="18" font="6">that ‘saai’ suggests the complete fulfillment of every stage of a process. If ‘saai’ is used</text>
+<text top="836" left="108" width="702" height="18" font="6">in a predicate with an affected object, the complete fulfillment of every stage of the</text>
+<text top="859" left="108" width="702" height="18" font="6">process which is delimited by the internal argument will entail that the event has been</text>
+<text top="883" left="108" width="702" height="18" font="6">accomplished as well, i.e. telic. However, when ‘saai’ is used in predicates with</text>
+<text top="907" left="108" width="702" height="18" font="6">unaffected objects which cannot provide any potential endpoint, a multiple occurrence of</text>
+<text top="931" left="108" width="702" height="18" font="6">the event; or a specific limit provided by another aspectual element must be specified for</text>
+<text top="955" left="108" width="702" height="18" font="6">‘saai’ to operate on. Consequently, there is <b>no</b> predicate constraint on ‘saai’ as shown by</text>
+<text top="978" left="108" width="228" height="18" font="6">the examples in this section.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">21</text>
+<text top="194" left="108" width="394" height="18" font="7"><b>4 ‘Saai’ with internal and external arguments</b></text>
+<text top="241" left="108" width="702" height="18" font="6">So far, I have been assuming that affectedness is related to the object of transitive</text>
+<text top="265" left="108" width="702" height="18" font="6">constructions. This is not an innocuous assumption because I have implied that the</text>
+<text top="289" left="108" width="702" height="18" font="6">subject will not be ‘affected’; and I have not yet dealt with intransitive constructions</text>
+<text top="312" left="108" width="702" height="18" font="6">which involve a single argument. In this Section, intransitive constructions in Cantonese</text>
+<text top="336" left="108" width="702" height="18" font="6">will be discussed with reference to the unaccusative/unergative distinction and</text>
+<text top="360" left="108" width="96" height="18" font="6">inchoatives.</text>
+<text top="384" left="123" width="687" height="18" font="6">Unaccusatives and unergatives are constructions which take only a single argument.</text>
+<text top="407" left="108" width="703" height="18" font="6">Unaccusatives take an internal argument while unergatives take an external argument.</text>
+<text top="431" left="108" width="702" height="18" font="6">Levin &amp; Rappaport (1994) have compared English verbs such as ‘break’ and ‘open’ which</text>
+<text top="455" left="108" width="702" height="18" font="6">have transitive causative uses as well as intransitive noncausative uses with verbs like</text>
+<text top="479" left="108" width="702" height="18" font="6">‘laugh’ and ‘play’ which show intransitive use but not transitive causative uses. They try</text>
+<text top="503" left="108" width="702" height="18" font="6">to distinguish them by suggesting that the former denote an ‘internally caused eventuality’</text>
+<text top="526" left="108" width="702" height="18" font="6">and the latter an ‘externally caused eventuality’. For an intransitive construction which</text>
+<text top="550" left="108" width="703" height="18" font="6">is internally caused, ‘some property inherent in the argument of the verb is responsible</text>
+<text top="574" left="108" width="702" height="18" font="6">for bringing about the eventuality’. However, the subject of an intransitive construction</text>
+<text top="598" left="108" width="702" height="18" font="6">which is ‘externally caused’ brings about the event by its own will or volition. Levin &amp;</text>
+<text top="621" left="108" width="702" height="18" font="6">Rappaport (1994) elaborate by saying that internally caused predicates seem to be</text>
+<text top="645" left="108" width="702" height="18" font="6">inherently monadic, while externally caused ones are inherently dyadic. In the literature,</text>
+<text top="669" left="108" width="702" height="18" font="6">the former class is also referred to as the ‘unaccusative’ construction because</text>
+<text top="693" left="108" width="702" height="18" font="6">syntacticians, like Burzio (1986) among others, have argued that the surface subject is the</text>
+<text top="716" left="108" width="702" height="18" font="6">underlingly  deep structure object, while the subject of the latter class, namely, the</text>
+<text top="740" left="108" width="702" height="18" font="6">‘unergative’ construction will have a subject generated outside VP. I am not going to</text>
+<text top="764" left="108" width="703" height="18" font="6">discuss the validity of other current proposals regarding the position of arguments with</text>
+<text top="788" left="108" width="702" height="18" font="6">respect to VP, for instance, the split-VP hypothesis (cf. Bobaljik 1995), I will simply</text>
+<text top="811" left="108" width="669" height="18" font="6">adopt Levin &amp; Rappaport’s  assumptions for the purpose of the present discussion.</text>
+<text top="835" left="123" width="687" height="18" font="6">In Cantonese, when ‘hoi’(blossom) and ‘ze’(wither) are specified by aspectual element</text>
+<text top="859" left="108" width="702" height="18" font="6">like ‘saai’, they refer to events which can be considered as internally caused. The process</text>
+<text top="883" left="108" width="702" height="18" font="6">described in the predicate arises from the nature of  plants or flowers for they follow the</text>
+<text top="906" left="108" width="702" height="18" font="6">course of nature to blossom and wither. When used with ‘saai’, no plural subjects are</text>
+<text top="930" left="108" width="72" height="18" font="6">required.</text>
+<text top="978" left="108" width="34" height="18" font="6">(32)</text>
+<text top="978" left="162" width="196" height="18" font="6">Doe/di  faa   hoi/ze saai.</text>
+<text top="1001" left="162" width="268" height="18" font="6">Cl/di flower blossom/wither saai.</text>
+<text top="1025" left="162" width="452" height="18" font="6">The flower(s) has/have blossomed/withered completely.</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">22</text>
+<text top="194" left="108" width="703" height="18" font="6">Similarly, verbs like ‘cam’(sink) or ‘zing faat’(evaporate) do not require a plural subject</text>
+<text top="218" left="108" width="163" height="18" font="6">when ‘saai’ is used. </text>
+<text top="265" left="108" width="34" height="18" font="6">(33)</text>
+<text top="265" left="162" width="184" height="18" font="6">Zek/di seong cam saai.</text>
+<text top="289" left="162" width="158" height="18" font="6">Cl/di ship sink saai.</text>
+<text top="313" left="162" width="309" height="18" font="6">The ship(s) has/have sunk completely.</text>
+<text top="360" left="108" width="34" height="18" font="6">(34)</text>
+<text top="360" left="162" width="205" height="18" font="6">Dik/di seoi zing faat saai.</text>
+<text top="384" left="162" width="219" height="18" font="6">Cl/di  water evaporate saai.</text>
+<text top="408" left="162" width="450" height="18" font="6">The drop of water/the water has evaporated completely.</text>
+<text top="455" left="108" width="702" height="18" font="6">Interestingly, words like ‘daa’(big), ‘sai’(small), ‘hung’ (red), ‘dung’ (cold), which are</text>
+<text top="479" left="108" width="702" height="18" font="6">usually underspecified as to what kind of action they represent, are specified by aspectual</text>
+<text top="503" left="108" width="702" height="18" font="6">elements like ‘saai’  as referring to the processes of getting big, small, reddening or</text>
+<text top="527" left="108" width="702" height="18" font="6">becoming cold. These usages are often referred to as inchoatives, which are considered</text>
+<text top="550" left="108" width="702" height="18" font="6">to be unaccusative. Again, there is no particular requirement on the subject noun phrase</text>
+<text top="574" left="108" width="156" height="18" font="6">of these predicates:</text>
+<text top="622" left="108" width="34" height="18" font="6">(35)</text>
+<text top="622" left="162" width="174" height="18" font="6">Go/di sailou daa saai.</text>
+<text top="645" left="162" width="156" height="18" font="6">Cl/cl child big saai.</text>
+<text top="669" left="162" width="310" height="18" font="6">The child/children has/have grown up.</text>
+<text top="717" left="108" width="34" height="18" font="6">(36)</text>
+<text top="717" left="162" width="174" height="18" font="6">Bui/di seoi dung saai.</text>
+<text top="740" left="162" width="169" height="18" font="6">Cl/cl water cold saai.</text>
+<text top="764" left="162" width="471" height="18" font="6">The glass of water/ the water has become completely cold.</text>
+<text top="812" left="108" width="702" height="18" font="6">With reference to the criterion of un/affectedness developed in Section 3, the limit of the</text>
+<text top="836" left="108" width="701" height="18" font="6">process described in the predicates in the unaccusative and inchoative examples will be</text>
+<text top="859" left="108" width="702" height="18" font="6">provided by its single argument. Therefore, it is predicted that there is no need to have a</text>
+<text top="883" left="108" width="702" height="18" font="6">‘divisible’ or ‘numerous’ reading for the argument. These examples verify the predictions</text>
+<text top="907" left="108" width="200" height="18" font="6">made by my hypothesis. </text>
+<text top="931" left="123" width="687" height="18" font="6">In unergative constructions, the external argument cannot provide a limit for the process</text>
+<text top="954" left="108" width="702" height="18" font="6">to take place. According to the discussion in Section 3, one can either think of the</text>
+<text top="978" left="108" width="702" height="18" font="6">multiple occurrence of an event; or one can use aspectuals like ‘juhn’ or ‘gwaan’ to</text>
+<text top="1002" left="108" width="702" height="18" font="6">delimit the process. When there are multiple occurrences of an event, one usually assumes</text>
+<text top="1026" left="108" width="490" height="18" font="6">there will be more than one agent to bring them about as in:  </text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">23</text>
+<text top="194" left="108" width="34" height="18" font="6">(37)</text>
+<text top="194" left="162" width="14" height="18" font="6">a.</text>
+<text top="194" left="216" width="131" height="18" font="6">*Keoih fan saai.</text>
+<text top="218" left="216" width="123" height="18" font="6">S/he sleep saai.</text>
+<text top="242" left="216" width="210" height="18" font="6">(S/he has all gone to bed.)</text>
+<text top="289" left="162" width="15" height="18" font="6">b.</text>
+<text top="289" left="216" width="161" height="18" font="6">Keoih deih fan saai.</text>
+<text top="313" left="216" width="129" height="18" font="6">They sleep saai.</text>
+<text top="337" left="216" width="213" height="18" font="6">They have all gone to bed.</text>
+<text top="384" left="108" width="33" height="18" font="6">(38)</text>
+<text top="384" left="162" width="14" height="18" font="6">a.</text>
+<text top="384" left="216" width="172" height="18" font="6">*Gwo sibing sei saai.</text>
+<text top="408" left="216" width="154" height="18" font="6">Cl  soldier die saai.</text>
+<text top="432" left="216" width="207" height="18" font="6">(The soldier has all died.)</text>
+<text top="479" left="162" width="15" height="18" font="6">b.</text>
+<text top="479" left="216" width="142" height="18" font="6">Di sibing sei saai.</text>
+<text top="503" left="216" width="158" height="18" font="6">Cl soldiers die saai.</text>
+<text top="527" left="216" width="212" height="18" font="6">The soldiers have all died.</text>
+<text top="574" left="108" width="702" height="18" font="6">When an aspectual element like ‘juhn’ is used, it can delimit an event such as ‘siu’ (laugh)</text>
+<text top="598" left="108" width="133" height="18" font="6">or ‘haam’ (cry). </text>
+<text top="645" left="108" width="34" height="18" font="6">(39)</text>
+<text top="645" left="162" width="14" height="18" font="6">a.</text>
+<text top="645" left="216" width="251" height="18" font="6">?Keoih/?Keoih deih haam saai.</text>
+<text top="669" left="216" width="76" height="18" font="6">S/he/they</text>
+<text top="669" left="378" width="72" height="18" font="6">cry  saai.</text>
+<text top="693" left="216" width="296" height="18" font="6">S/he/they has/have cried completely.</text>
+<text top="740" left="162" width="15" height="18" font="6">b.</text>
+<text top="740" left="216" width="274" height="18" font="6">Keoih/Keoih deih haam juhn saai.</text>
+<text top="764" left="216" width="240" height="18" font="6">S/he/they         cry   juhn saai.</text>
+<text top="788" left="216" width="376" height="18" font="6">S/he/they has/have completely finished crying.</text>
+<text top="836" left="108" width="704" height="18" font="6">Some other aspectual element like ‘gwaan’ can also be used with ‘saai’ because ‘gwaan’</text>
+<text top="859" left="108" width="702" height="18" font="6">suggests a repetition of the event to form a habit. Therefore, there will be the multiple</text>
+<text top="883" left="108" width="394" height="18" font="6">occurrence of an event which will satisfy ‘saai’.  </text>
+<text top="931" left="108" width="33" height="18" font="6">(40)</text>
+<text top="931" left="162" width="219" height="18" font="6">Gwo sibing sei gwaan saai.</text>
+<text top="954" left="162" width="207" height="18" font="6">Cl soldier die gwaan saai.</text>
+<text top="978" left="162" width="322" height="18" font="6">The soldier is completely used to dying.</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="128" height="15" font="8"><i>Yu-Yan Anne Teng</i></text>
+<text top="132" left="108" width="20" height="18" font="6">24</text>
+<text top="194" left="108" width="702" height="18" font="6">Given a bit of imagination, this sentence is acceptable if a person can repeat the process</text>
+<text top="218" left="108" width="702" height="18" font="6">of dying because of reincarnation. ‘Saai’ suggests that the soldier has completely got used</text>
+<text top="242" left="108" width="305" height="18" font="6">to dying which forms a habit already. </text>
+<text top="265" left="123" width="687" height="18" font="6">The unaccusative and unergative constructions in this Section provide further support</text>
+<text top="289" left="108" width="702" height="18" font="6">for the argument developed earlier. These examples strongly support the claim that ‘saai’</text>
+<text top="313" left="108" width="702" height="18" font="6">is an aspectual element which interacts with the predicate. Other aspectuals can also be</text>
+<text top="337" left="108" width="702" height="18" font="6">used to modify the event either to provide a limit (like ‘juhn’) or to suggest a repetition</text>
+<text top="360" left="108" width="701" height="18" font="6">of the event (like ‘gwaan’) so that ‘saai’ can signal that every stage of an event or all the</text>
+<text top="384" left="108" width="217" height="18" font="6">events have been fulfilled. </text>
+<text top="455" left="108" width="193" height="18" font="7"><b>5 Concluding remarks</b></text>
+<text top="502" left="108" width="702" height="18" font="6">I will conclude by suggesting that there is no evidence which supports the argument that</text>
+<text top="526" left="108" width="702" height="18" font="6">‘saai’ is a quantifier which binds the subject or object noun phrases, or the whole</text>
+<text top="549" left="108" width="702" height="18" font="6">predicate.  There is also no ‘plurality’ requirement on the subject or object noun phrases.</text>
+<text top="573" left="108" width="702" height="18" font="6">The fact that some noun phrase is specified as having a plural reference is simply an</text>
+<text top="597" left="108" width="702" height="18" font="6">epiphenomenon which is derived from the compatibility of the event with ‘saai’. I have</text>
+<text top="621" left="108" width="702" height="18" font="6">shown in Section 3.3 how the cognitive principle of ‘relevance’ together with the</text>
+<text top="644" left="108" width="702" height="18" font="6">consideration of the processing load will determine whether the noun phrase need to be</text>
+<text top="668" left="108" width="702" height="18" font="6">specified either linguistically or contextually as having plural reference. In the predicate</text>
+<text top="692" left="108" width="703" height="18" font="6">with an affected object, the fulfillment of every stage of an event as suggested by ‘saai’</text>
+<text top="716" left="108" width="702" height="18" font="6">entails that the event has reached an endpoint. Therefore, ‘saai’ indirectly helps to bring</text>
+<text top="739" left="108" width="703" height="18" font="6">out telicity in this type of predicate; but ‘saai’ alone cannot determine the telic reading.</text>
+<text top="763" left="108" width="702" height="18" font="6">Contextual and linguistic specification, for instance, aspectual elements, will finally</text>
+<text top="787" left="108" width="702" height="18" font="6">determine whether an event is telic or not. Having said that, the ‘telicity requirement’</text>
+<text top="811" left="108" width="702" height="18" font="6">which is suggested in earlier research is simply a misrepresentation of the role of ‘saai’</text>
+<text top="834" left="108" width="701" height="18" font="6">in the predicate. Therefore, there is no ‘telicity requirement’ related to the use of ‘saai’.</text>
+<text top="858" left="108" width="702" height="18" font="6">The evidence provided in this paper also suggests that ‘saai’ can co-occur with predicates</text>
+<text top="882" left="108" width="702" height="18" font="6">representing different kinds of actions. I will leave the systematic analysis of the syntactic,</text>
+<text top="906" left="108" width="703" height="18" font="6">semantic and processing properties of other aspectuals in Cantonese for future research.</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="563" width="168" height="15" font="8"><i>Aspectuals in Cantonese</i></text>
+<text top="132" left="790" width="20" height="18" font="6">25</text>
+<text top="194" left="108" width="94" height="18" font="7"><b>References</b></text>
+<text top="240" left="108" width="385" height="15" font="0">Bobaljik, J. (1995) <i>Morphosyntax</i>. Doctoral thesis, MIT.</text>
+<text top="260" left="108" width="594" height="15" font="0">Burzio, L. (1986) <i>Italian Syntax. A Government-Binding Approach</i>. Dordrecht: Reidel.</text>
+<text top="280" left="108" width="458" height="15" font="0">Carlson (1977)<i> Reference to Kinds in English</i>. New York: Garland.</text>
+<text top="300" left="108" width="304" height="15" font="0">Comrie, B. (1976) <i>Aspect. </i>Cambridge: CUP.</text>
+<text top="320" left="108" width="290" height="15" font="0">Diesing, M. (1991) <i>Indefinites. </i>MIT Press.</text>
+<text top="339" left="108" width="702" height="15" font="0">Dowty, D.R. (1979)<i>Word meaning and Montague Grammar: the semantics of verbs and Times in</i></text>
+<text top="359" left="123" width="401" height="15" font="8"><i>Generative Semantics and in Montague’s PTQ</i>. Dordrecht.</text>
+<text top="379" left="108" width="702" height="15" font="0">Lee, H.T.T. (1994) Yueyu ‘saai’ de luoji tedian (The logical properties of Cantonese saai). In <i>Proceedings</i></text>
+<text top="399" left="123" width="687" height="15" font="8"><i>of the First International Conference on Cantonese and other Yue dialects</i>, ed Chow-Yiu Sin, 131-138.</text>
+<text top="419" left="123" width="351" height="15" font="0">Hong Kong: Modern Educational Research Society.</text>
+<text top="438" left="108" width="702" height="15" font="0">Levin, B &amp; M. Rappaport Hovav (1995) <i>Unaccusativity: At the Syntax-Lexical Semantics Interface</i>.</text>
+<text top="458" left="123" width="195" height="15" font="0">Cambridge, MA: MIT Press.</text>
+<text top="478" left="108" width="624" height="15" font="0">Matthews, S. &amp; V. Yip(1994) <i>Cantonese: A Comprehensive Grammar</i>. London: Routledge.</text>
+<text top="498" left="108" width="702" height="15" font="0">Tang, S.W. (1996) On lexical quantification: The case of <i>saai</i> in Cantonese in <i>University of California</i></text>
+<text top="518" left="123" width="234" height="15" font="8"><i>Irvine Working Paper I</i>, 119-140. </text>
+<text top="537" left="108" width="658" height="15" font="0">Sperber, D. &amp; Wilson, D. (1986) <i>Relevance: Communication and Cognition</i>. Oxford: Blackwell.</text>
+<text top="557" left="108" width="702" height="15" font="0">Sperber, D. &amp; Wilson, D. (1990) Linguistic form and Relevance. <i>UCL Working Papers in Linguistics 1,</i></text>
+<text top="577" left="123" width="53" height="15" font="0">96-118.</text>
+<text top="597" left="108" width="583" height="15" font="0">Tenny, C.L. (1987) <i>Grammaticalising Aspect and Affectedness</i>. Doctoral thesis. MIT.</text>
+<text top="617" left="108" width="531" height="15" font="0">Vendler, Z. (1967) <i>Linguistics in Philosophy</i>. Ithaca: Cornell University Press.</text>
+</page>
+</pdf2xml>

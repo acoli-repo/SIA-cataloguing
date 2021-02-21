@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="18" family="Times" color="#000000"/>
+	<fontspec id="3" size="18" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="20" family="Times" color="#000000"/>
+<text top="1025" left="130" width="681" height="15" font="0">Many thanks to Deirdre Wilson whose communicated thoughts on these matters have, as always,</text>
+<text top="1022" left="123" width="5" height="10" font="1">*</text>
+<text top="1045" left="108" width="291" height="15" font="0">given me many (positive) cognitive effects.</text>
+<text top="132" left="108" width="325" height="16" font="2"><i>UCL Working Papers in Linguistics</i> 8 (1996)</text>
+<text top="179" left="108" width="701" height="32" font="4"><i><b>Enrichment and loosening: complementary</b></i></text>
+<text top="221" left="108" width="691" height="32" font="4"><i><b>processes in deriving the proposition expressed</b></i></text>
+<text top="217" left="799" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="306" left="108" width="168" height="18" font="6">ROBYN CARSTON</text>
+<text top="378" left="162" width="75" height="18" font="7"><b>Abstract</b></text>
+<text top="424" left="162" width="594" height="15" font="0">Within relevance theory the two local pragmatic processes of enrichment and loosening</text>
+<text top="444" left="162" width="594" height="15" font="0">of linguistically encoded conceptual material have been given quite distinct treatments.</text>
+<text top="463" left="162" width="594" height="15" font="0">Enrichments of various sorts, including those which involve a logical strengthening of a</text>
+<text top="483" left="162" width="594" height="15" font="0">lexical concept, contribute to the proposition expressed by the utterance, hence to its truth-</text>
+<text top="503" left="162" width="594" height="15" font="0">conditions. Loosenings, including metaphorical uses, do not enter into the proposition</text>
+<text top="523" left="162" width="594" height="15" font="0">expressed by the utterance or affect its truth-conditions; they stand in a relation of</text>
+<text top="543" left="162" width="594" height="15" font="0">'interpretive resemblance' with the linguistically encoded concept used to represent them.</text>
+<text top="562" left="162" width="594" height="15" font="0">This asymmetric treatment is questioned here, arguments are given for an account which</text>
+<text top="582" left="162" width="595" height="15" font="0">reflects the complementarity of these processes and several alternative symmetrical</text>
+<text top="602" left="162" width="164" height="15" font="0">treatments are explored.</text>
+<text top="670" left="108" width="125" height="18" font="7"><b>1 Introduction</b></text>
+<text top="717" left="108" width="702" height="18" font="6">One important consequence of the relevance-theoretic view of cognition and</text>
+<text top="741" left="108" width="702" height="18" font="6">communication is the following: we can think many thoughts that our language cannot</text>
+<text top="765" left="108" width="702" height="18" font="6">encode, and we can communicate many thoughts that our utterances do not encode.</text>
+<text top="788" left="108" width="702" height="18" font="6">Strictly speaking, virtually no sentence encodes a complete thought; certain processes of</text>
+<text top="812" left="108" width="702" height="18" font="6">contextual filling-in are required before anything of a propositional nature emerges at all.</text>
+<text top="836" left="108" width="703" height="18" font="6">However, that more basic point is not my primary concern in this short paper. The idea</text>
+<text top="860" left="108" width="702" height="18" font="6">is that, even given such processes of propositional completion, a great many of our</text>
+<text top="883" left="108" width="702" height="18" font="6">thoughts are of a much finer grain than that of the minimal propositions which result from</text>
+<text top="907" left="108" width="702" height="18" font="6">these processes. It follows that there are many more concepts (construed as constituents</text>
+<text top="931" left="108" width="400" height="18" font="6">of thoughts) than there are words in the language.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="9" height="16" font="3">2</text>
+<text top="194" left="108" width="702" height="18" font="6">  One way of trying to account for this would be to suggest that words are multiply</text>
+<text top="218" left="108" width="702" height="18" font="6">ambiguous, many of them encoding a vast number of discrete senses. This is not, of</text>
+<text top="242" left="108" width="702" height="18" font="6">course, the way a relevance-theoretic approach to communication would explain this fact.</text>
+<text top="265" left="108" width="702" height="18" font="6">Most other inferential pragmatic approaches to communication and interpretation would</text>
+<text top="289" left="108" width="701" height="18" font="6">not take the ambiguity line either. The relevance theory view (Sperber &amp; Wilson, 1986,</text>
+<text top="313" left="108" width="703" height="18" font="6">1995) is that our powerful inferential capabilities enable us to construct ad hoc concepts</text>
+<text top="337" left="108" width="702" height="18" font="6">out of lexically encoded concepts during our on-line interpretation of utterances, on the</text>
+<text top="360" left="108" width="702" height="18" font="6">hoof as it were. This process is both driven by and constrained by the inevitable</text>
+<text top="384" left="108" width="702" height="18" font="6">considerations of processing effort and cognitive effects. The two main varieties of ad hoc</text>
+<text top="408" left="108" width="703" height="18" font="6">concept construction that Dan Sperber and Deirdre Wilson have discussed in various</text>
+<text top="432" left="108" width="702" height="18" font="6">lectures and seminars over the past decade are the <b>narrowing</b> of a lexically encoded</text>
+<text top="456" left="108" width="702" height="18" font="6">concept and its <b>loosening</b> (leaving aside the echoic or quotational use of concepts for the</text>
+<text top="480" left="108" width="702" height="18" font="6">time being). Other terms are sometimes used: narrowing is sometimes called enrichment</text>
+<text top="504" left="108" width="702" height="18" font="6">or strengthening; loosening is sometimes called broadening or weakening. It is these</text>
+<text top="527" left="108" width="702" height="18" font="6">processes which I want to consider here, particularly loosening or broadening, and their</text>
+<text top="551" left="108" width="527" height="18" font="6">contribution, if any, to the proposition expressed by an utterance.</text>
+<text top="623" left="108" width="119" height="18" font="7"><b>2 Enrichment</b></text>
+<text top="670" left="108" width="702" height="18" font="6">This term covers a variety of cases, some of which have been discussed extensively</text>
+<text top="693" left="108" width="191" height="18" font="6">elsewhere, for instance:</text>
+<text top="741" left="108" width="24" height="18" font="6">(1)</text>
+<text top="741" left="162" width="14" height="18" font="6">a.</text>
+<text top="741" left="216" width="164" height="18" font="6">Everyone got drunk.</text>
+<text top="765" left="162" width="15" height="18" font="6">b.</text>
+<text top="765" left="216" width="293" height="18" font="6">I've got nothing to wear to the party.</text>
+<text top="788" left="162" width="14" height="18" font="6">c.</text>
+<text top="788" left="216" width="427" height="18" font="6">He handed her the scalpel and she made the incision.</text>
+<text top="812" left="162" width="15" height="18" font="6">d.</text>
+<text top="812" left="216" width="448" height="18" font="6">The police hit the suspect and she had to go to hospital.</text>
+<text top="836" left="162" width="14" height="18" font="6">e.</text>
+<text top="836" left="216" width="220" height="18" font="6">He begged her not to jump.</text>
+<text top="883" left="108" width="702" height="18" font="6">In the first two examples a domain for the quantifier to range over has to be contextually</text>
+<text top="907" left="108" width="702" height="18" font="6">inferred, thereby narrowing down the interpretation. In the two conjunction examples, the</text>
+<text top="931" left="108" width="702" height="18" font="6">encoded assumption that there is some connection or other between the events is further</text>
+<text top="955" left="108" width="702" height="18" font="6">specified by the inference of a temporal relation in (1c) and a cause-consequence relation</text>
+<text top="978" left="108" width="702" height="18" font="6">in (1d), these relations being supplied perhaps by highly accessible general knowledge</text>
+<text top="1002" left="108" width="702" height="18" font="6">schemas concerning relevant ways in which events connect up. Note that in (1c) the</text>
+<text top="1026" left="108" width="702" height="18" font="6">second conjunct is further narrowed by the obvious assumption that the incision was made</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="20" family="Times" color="#000000"/>
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="801" width="9" height="16" font="3">3</text>
+<text top="194" left="108" width="702" height="18" font="6">with the scalpel mentioned in the first conjunct. Similarly in (1e), a further constituent</text>
+<text top="218" left="108" width="703" height="18" font="6">may be supplied so that, in an appropriate context, this could be taken to communicate</text>
+<text top="242" left="108" width="702" height="18" font="6">that he begged her not to jump off the ledge of a high building. I will be focusing on a</text>
+<text top="265" left="108" width="702" height="18" font="6">slightly different type of enrichment in this paper and won't return to these examples (for</text>
+<text top="289" left="108" width="702" height="18" font="6">detailed discussion of them, see Carston 1988, 1993; Recanati 1989, 1993; Wilson &amp;</text>
+<text top="313" left="108" width="120" height="18" font="6">Sperber 1993).</text>
+<text top="337" left="123" width="513" height="18" font="6">The examples of primary interest here are of the following sort:</text>
+<text top="384" left="108" width="24" height="18" font="6">(2)</text>
+<text top="384" left="162" width="14" height="18" font="6">a.</text>
+<text top="384" left="216" width="132" height="18" font="6">He wears rabbit.</text>
+<text top="408" left="162" width="15" height="18" font="6">b.</text>
+<text top="408" left="216" width="251" height="18" font="6">I want to meet some bachelors.</text>
+<text top="432" left="162" width="14" height="18" font="6">c.</text>
+<text top="432" left="216" width="150" height="18" font="6">Mary cut the cake.</text>
+<text top="455" left="162" width="15" height="18" font="6">d.</text>
+<text top="455" left="216" width="127" height="18" font="6">She has a brain.</text>
+<text top="479" left="162" width="14" height="18" font="6">e.</text>
+<text top="479" left="216" width="396" height="18" font="6">The cinema is some distance from the restaurant.</text>
+<text top="503" left="162" width="12" height="18" font="6">f.</text>
+<text top="503" left="216" width="185" height="18" font="6">Something's happened.</text>
+<text top="550" left="108" width="703" height="18" font="6">What distinguishes these from the previous set is that, rather than adding a conceptual</text>
+<text top="574" left="108" width="702" height="18" font="6">constituent, the enrichment targets a particular lexical item and strengthens the concept</text>
+<text top="598" left="108" width="702" height="18" font="6">it encodes. For instance, in (2a) the noun 'rabbit', which encodes something like <i>rabbit</i></text>
+<text top="622" left="108" width="702" height="18" font="9"><i>stuff</i>, is narrowed to <i>rabbit fur/skin</i>. One possible narrowing of the <i>bachelor</i> concept in</text>
+<text top="645" left="108" width="702" height="18" font="6">(2b) would take place in a context in which the speaker had made it clear that she wants</text>
+<text top="669" left="108" width="702" height="18" font="6">to settle down and have children; then the denotation of the relevant <i>bachelor</i> concept</text>
+<text top="693" left="108" width="702" height="18" font="6">would be a subset of the set of unmarried men. A crucial component of the narrowed</text>
+<text top="717" left="108" width="702" height="18" font="6">concept would be <i>eligible for marriage</i>. In the case of (2c), it is not any old severing of</text>
+<text top="740" left="108" width="702" height="18" font="6">the fibres of the cake that would be communicated in most contexts but rather a particular</text>
+<text top="764" left="108" width="702" height="18" font="6">mode of cutting; comparison with different objects of cutting makes this apparent, for</text>
+<text top="788" left="108" width="701" height="18" font="6">instance <i>grass</i>, <i>hair</i>, <i>cloth</i>, <i>flesh</i>, etc. The last three examples have in common that their</text>
+<text top="812" left="108" width="702" height="18" font="6">linguistically encoded content is a truism: all human beings have a brain, there is</text>
+<text top="836" left="108" width="702" height="18" font="6">inevitably a measurable space between two locations, etc. Some pragmatic narrowing</text>
+<text top="859" left="108" width="702" height="18" font="6">down is required, of the sort of brain she has in (2d), of the distance involved in (2e) and</text>
+<text top="883" left="108" width="264" height="18" font="6">of the nature of the event in (2f).</text>
+<text top="907" left="123" width="687" height="18" font="6">In short, there is a subset relation between the extension of the concept actually</text>
+<text top="931" left="108" width="702" height="18" font="6">communicated in these examples and the extension of the lexical concept from which it</text>
+<text top="954" left="108" width="702" height="18" font="6">has been derived, shown schematically in (3), where L is the extension of the lexical</text>
+<text top="978" left="108" width="701" height="18" font="6">concept and C' is the extension of the narrowed ad hoc concept, the relevant concept in</text>
+<text top="1002" left="108" width="82" height="18" font="6">each case.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="11" family="Times" color="#000000"/>
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="9" height="16" font="3">4</text>
+<text top="194" left="108" width="24" height="18" font="6">(3)</text>
+<text top="432" left="123" width="687" height="18" font="6">Now one of the features of relevance theory which distinguishes it quite sharply from</text>
+<text top="455" left="108" width="702" height="18" font="6">standard Gricean theory is the view that these strengthenings, of both the types</text>
+<text top="479" left="108" width="702" height="18" font="6">exemplified in (1) and (2), may contribute to the explicit level of communication,</text>
+<text top="503" left="108" width="702" height="18" font="6">specifically to the propositional form of the utterance. On the Gricean approach they have</text>
+<text top="527" left="108" width="702" height="18" font="6">the status of implicatures, communicated assumptions which are independent from,</text>
+<text top="550" left="108" width="702" height="18" font="6">external to, the core proposition communicated by the utterance ('what is said', for Grice).</text>
+<text top="574" left="108" width="702" height="18" font="6">Relevance theorists favour the former view because, in many instances at least, these</text>
+<text top="598" left="108" width="702" height="18" font="6">appear to contribute to the truth-conditional content of the utterance, to what makes it true</text>
+<text top="622" left="108" width="702" height="18" font="6">or false. Various arguments and tests have been put forward in support of this view (see</text>
+<text top="645" left="108" width="702" height="18" font="6">Carston 1988; Recanati 1989, 1993; Wilson &amp; Sperber 1993). For the purposes of this</text>
+<text top="669" left="108" width="702" height="18" font="6">paper I am going to assume that it is correct, so that the proposition expressed (and</text>
+<text top="693" left="108" width="702" height="18" font="6">communicated) by (2b) is as in (4), where <i>bachelor'</i> represents the new narrowed</text>
+<text top="717" left="108" width="145" height="18" font="9"><i>bachelor</i> concept.</text>
+<text top="764" left="108" width="24" height="18" font="6">(4)</text>
+<text top="764" left="162" width="301" height="18" font="9"><i>S  wants at t  to meet some bachelors'</i></text>
+<text top="774" left="172" width="5" height="11" font="10"><i>x</i></text>
+<text top="774" left="261" width="3" height="11" font="10"><i>i</i></text>
+<text top="812" left="108" width="702" height="18" font="6">It is the interaction of this propositional form with a set of contextual assumptions that</text>
+<text top="836" left="108" width="702" height="18" font="6">will give rise to contextual effects and some of those contextual assumptions will be</text>
+<text top="859" left="108" width="702" height="18" font="6">derived from the encyclopedic entry of the narrowed concept, <i>bachelor'</i>, (for instance,</text>
+<text top="883" left="108" width="702" height="18" font="6">that the people in question should be heterosexual, youngish, interested in marriage, etc).</text>
+<text top="907" left="108" width="702" height="18" font="6">Finally, it should be emphasised that this narrowing is a local process; it doesn't</text>
+<text top="931" left="108" width="702" height="18" font="6">necessarily follow that the proposition derived will always be logically stronger than the</text>
+<text top="954" left="108" width="702" height="18" font="6">proposition before that strengthening took place, as is obvious in the case of narrowings</text>
+<text top="978" left="108" width="419" height="18" font="6">within the scope of negation and certain quantifiers.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="801" width="9" height="16" font="3">5</text>
+<text top="194" left="108" width="104" height="18" font="7"><b>3 Loosening</b></text>
+<text top="241" left="108" width="702" height="18" font="6">The other, putatively opposite, process of loosening or broadening, is exemplified by the</text>
+<text top="265" left="108" width="702" height="18" font="6">following, where the loosely used concept is the one encoded by the highlighted lexical</text>
+<text top="289" left="108" width="41" height="18" font="6">item:</text>
+<text top="337" left="108" width="24" height="18" font="6">(5)</text>
+<text top="337" left="162" width="14" height="18" font="6">a.</text>
+<text top="337" left="216" width="171" height="18" font="6">France is <b>hexagonal</b>.</text>
+<text top="361" left="162" width="15" height="18" font="6">b.</text>
+<text top="361" left="216" width="134" height="18" font="6">I love <b>bald</b> men.</text>
+<text top="385" left="162" width="14" height="18" font="6">c.</text>
+<text top="385" left="216" width="144" height="18" font="6">This steak is <b>raw</b>.</text>
+<text top="409" left="162" width="15" height="18" font="6">d.</text>
+<text top="409" left="216" width="298" height="18" font="6">Have you eaten my chocolate <b>heart</b>?</text>
+<text top="433" left="162" width="14" height="18" font="6">e.</text>
+<text top="433" left="216" width="483" height="18" font="6">Here's my new <b>flatmate</b>. [referring to a newly acquired cat]</text>
+<text top="481" left="108" width="702" height="18" font="6">This relaxing of a linguistically encoded meaning has been pretty much ignored outside</text>
+<text top="504" left="108" width="702" height="18" font="6">the relevance-theoretic framework, though a general unease with any process of pragmatic</text>
+<text top="528" left="108" width="702" height="18" font="6">loosening has been expressed. When discussing words which seem to have several related</text>
+<text top="552" left="108" width="508" height="18" font="6">meanings, one stronger than the other, Grice (1978, 119) says: </text>
+<text top="599" left="162" width="594" height="18" font="6">If one makes the further assumption that it is more generally feasible to</text>
+<text top="623" left="162" width="594" height="18" font="7"><b>strengthen</b> one's meaning by achieving a superimposed implicature, than</text>
+<text top="648" left="162" width="594" height="18" font="6">to  <b>make a relaxed use</b> of an expression (and I don't know how this</text>
+<text top="671" left="162" width="594" height="18" font="6">assumption would be justified), then Modified Occam's Razor would bring</text>
+<text top="695" left="162" width="594" height="18" font="6">in its train the principle that one should suppose a word to have a less</text>
+<text top="719" left="162" width="594" height="18" font="6">restrictive rather than a more restrictive meaning, where choice is possible.</text>
+<text top="743" left="162" width="119" height="18" font="6">(my emphasis)</text>
+<text top="790" left="108" width="702" height="18" font="6">Atlas (1992), who works within a Gricean view of pragmatics, refers to this passage and</text>
+<text top="814" left="108" width="40" height="18" font="6">says:</text>
+<text top="861" left="162" width="594" height="18" font="6">The 'strengthening' assumption can be justified by discovering that there is</text>
+<text top="885" left="162" width="594" height="18" font="6">an intelligible inference that brings about the strengthening of a speaker's</text>
+<text top="909" left="162" width="594" height="18" font="6">meaning — intelligible in the sense that such inferences can be formulated</text>
+<text top="933" left="162" width="594" height="18" font="6">and rationalized — but no intelligible inference that brings about the</text>
+<text top="956" left="162" width="595" height="18" font="6">relaxation of a speaker's meaning. Loose uses of words don't seem</text>
+<text top="980" left="162" width="220" height="18" font="6">particularly rule-governed. </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="11" family="Times" color="#000000"/>
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="9" height="16" font="3">6</text>
+<text top="1005" left="130" width="681" height="15" font="0">The exceptions are Bach (1994a, 1994b) and Recanati (1995), who both discuss a range of cases</text>
+<text top="1002" left="123" width="5" height="10" font="1">1</text>
+<text top="1025" left="108" width="702" height="15" font="0">of non-literalness, within broadly Gricean frameworks. A comparison of their accounts with one</text>
+<text top="1045" left="108" width="449" height="15" font="0">another and with the relevance theory account remains to be done.</text>
+<text top="194" left="108" width="702" height="18" font="6">But, then, what about the examples in (5)? It seems pretty clear that we do not want the</text>
+<text top="218" left="108" width="701" height="18" font="6">concepts encoded by the lexical items 'heart' and 'flatmate' to include in their extension</text>
+<text top="242" left="108" width="702" height="18" font="6">confectionery in the one case, nonhumans in the other. The same holds for 'hexagonal',</text>
+<text top="265" left="108" width="702" height="18" font="6">'bald' and 'raw', though this might need more argument to convince everyone (not,</text>
+<text top="289" left="108" width="702" height="18" font="6">however, Grice or Atlas, who keep their semantics as minimalist as possible). Loose use</text>
+<text top="313" left="108" width="702" height="18" font="6">is a fact and has to be accounted for by an adequate pragmatic theory. With a few notable</text>
+<text top="337" left="108" width="458" height="18" font="6">exceptions, neo-Griceans have tended to steer clear of it.</text>
+<text top="334" left="566" width="6" height="11" font="11">1</text>
+<text top="360" left="123" width="688" height="18" font="6">The standard relevance theory account of loose talk, including metaphorical talk, has</text>
+<text top="384" left="108" width="702" height="18" font="6">been around for some time (see Sperber &amp; Wilson 1985/6), so I'll give just its bare outline</text>
+<text top="408" left="108" width="702" height="18" font="6">here by way of reminder. The idea is that in some instances a speaker chooses to produce</text>
+<text top="432" left="108" width="702" height="18" font="6">an utterance which is a less-than-literal (that is, loose) interpretation of the thought she</text>
+<text top="455" left="108" width="702" height="18" font="6">intends to communicate. This will arise when she judges that communication of her</text>
+<text top="479" left="108" width="702" height="18" font="6">thought is facilitated by such a non-literal utterance in that it makes that thought more</text>
+<text top="503" left="108" width="703" height="18" font="6">accessible to the hearer than a literal one would. The process of interpreting loose uses</text>
+<text top="527" left="108" width="702" height="18" font="6">is as follows: the hearer decodes the lexically encoded concept, thereby gaining access to</text>
+<text top="550" left="108" width="702" height="18" font="6">certain logical and encyclopedic properties; he treats the utterance as a rough guide to</text>
+<text top="574" left="108" width="702" height="18" font="6">what the speaker intends to communicate, and, in effect, sorts through the available</text>
+<text top="598" left="108" width="702" height="18" font="6">properties, rejecting those that are not relevant in the particular context and accepting</text>
+<text top="622" left="108" width="702" height="18" font="6">those that are, as reflections of the speaker's view. For instance, in the case of 'raw' in</text>
+<text top="645" left="108" width="702" height="18" font="6">(5c), the definitional property of <i>not cooked</i> would be rejected while the encyclopedic</text>
+<text top="669" left="108" width="702" height="18" font="6">property of, say, <i>difficult to eat</i>, when applied to meat, would be maintained. The idea is</text>
+<text top="693" left="108" width="702" height="18" font="6">that the lexical concept <i>raw</i> is in a relation of <b>non-identical resemblance</b> with the</text>
+<text top="717" left="108" width="702" height="18" font="6">concept that figures in the speaker's thought regarding the state of the steak; that is, they</text>
+<text top="741" left="108" width="702" height="18" font="6">share some logical and contextual implications. So also for a metaphorical statement such</text>
+<text top="765" left="108" width="702" height="18" font="6">as 'Bill is a bulldozer', where the lexical concept <i>bulldozer</i> is used to represent the non-</text>
+<text top="788" left="108" width="702" height="18" font="6">lexicalised concept that figures in the speaker's thought about Bill; it represents it by non-</text>
+<text top="812" left="108" width="180" height="18" font="6">identical resemblance.</text>
+<text top="836" left="123" width="687" height="18" font="6">As is well known, the relevance theory account of metaphor is very different from the</text>
+<text top="860" left="108" width="702" height="18" font="6">Gricean  account — differences that I won't go into here — and considerably more</text>
+<text top="883" left="108" width="702" height="18" font="6">explanatory. However, there is one respect in which it stays close to the Gricean account,</text>
+<text top="907" left="108" width="702" height="18" font="6">at least in the existing published work, and that is that utterances involving metaphorical</text>
+<text top="931" left="108" width="702" height="18" font="6">uses of words and, in fact, loose uses quite generally, do not communicate the proposition</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="19" family="Times" color="#000000"/>
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="801" width="9" height="16" font="3">7</text>
+<text top="194" left="108" width="701" height="18" font="6">they express. The propositional form is not an explicature of the utterance but just a</text>
+<text top="218" left="108" width="702" height="18" font="6">vehicle for the communication of a range of implicatures. The same is so for Grice. When</text>
+<text top="242" left="108" width="702" height="18" font="6">he wants to maintain that 'what is said' has, as part of its definition, that it must be meant</text>
+<text top="265" left="108" width="702" height="18" font="6">by the speaker (in his technical sense of speaker meaning), he moves to a different term</text>
+<text top="289" left="108" width="701" height="18" font="6">altogether in discussing metaphorical utterances. He writes of 'what a speaker makes as</text>
+<text top="313" left="108" width="701" height="18" font="6">if to say', precisely because the proposition literally expressed in a metaphorical case is</text>
+<text top="337" left="108" width="702" height="18" font="6">not part of speaker meaning; only the implicatures of the utterance are meant</text>
+<text top="360" left="108" width="352" height="18" font="6">(communicated, in relevance theory terms).</text>
+<text top="384" left="123" width="687" height="18" font="6">What I want to question here is the prevailing relevance theory adherence to this</text>
+<text top="408" left="108" width="702" height="18" font="6">position. It is reflected in the upper part of the diagram which summarises the</text>
+<text top="432" left="108" width="680" height="18" font="6">Sperber/Wilson view on the descriptive and interpretive dimensions of language use:</text>
+<text top="479" left="108" width="24" height="18" font="6">(6)</text>
+<text top="503" left="303" width="313" height="18" font="6">The propositional form of an utterance</text>
+<text top="522" left="455" width="8" height="26" font="12">*</text>
+<text top="550" left="372" width="173" height="18" font="6">is an interpretation of</text>
+<text top="569" left="455" width="8" height="26" font="12">*</text>
+<text top="598" left="362" width="194" height="18" font="6">a thought of the speaker</text>
+<text top="617" left="455" width="8" height="26" font="12">*</text>
+<text top="645" left="406" width="106" height="18" font="6">which can be</text>
+<text top="664" left="434" width="12" height="26" font="12">'</text>
+<text top="669" left="446" width="25" height="18" font="6">     </text>
+<text top="664" left="472" width="12" height="26" font="12">(</text>
+<text top="693" left="411" width="96" height="18" font="6">......       ......</text>
+<text top="740" left="518" width="292" height="18" font="6">(Sperber &amp; Wilson 1986/1995, 232)</text>
+<text top="788" left="108" width="702" height="18" font="6">In this diagram the concept of 'interpretation' (or interpretive resemblance) is intended to</text>
+<text top="812" left="108" width="702" height="18" font="6">accommodate not only literal interpretations but also the cases where a concept in the</text>
+<text top="836" left="108" width="702" height="18" font="6">thought the speaker intends to communicate departs in certain ways from a concept</text>
+<text top="859" left="108" width="702" height="18" font="6">featuring in the proposition expressed by the utterance, that is, cases of loose use,</text>
+<text top="883" left="108" width="162" height="18" font="6">including metaphor.</text>
+<text top="907" left="123" width="687" height="18" font="6">This then marks a clear <b>a</b>symmetry between the two pragmatic processes of enrichment</text>
+<text top="931" left="108" width="702" height="18" font="6">and loosening. Cases of enrichment contribute to the propositional form of the utterance;</text>
+<text top="955" left="108" width="702" height="18" font="6">the result of strengthening a lexical concept gets built in as a new ad hoc concept;</text>
+<text top="978" left="108" width="702" height="18" font="6">enrichment is taken to be one of those pragmatic processes, along with reference</text>
+<text top="1002" left="108" width="702" height="18" font="6">assignment and disambiguation, that are involved in arriving at the proposition expressed.</text>
+<text top="1026" left="108" width="703" height="18" font="6">Loosening on the other hand has no such role; the lexical concept, which provides the</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="9" height="16" font="3">8</text>
+<text top="194" left="108" width="702" height="18" font="6">point of departure for the loose use, stays in place in the propositional form of the</text>
+<text top="218" left="108" width="702" height="18" font="6">utterance which simply resembles the one the speaker has in mind. My question is simple:</text>
+<text top="242" left="108" width="240" height="18" font="6">why is there this asymmetry? </text>
+<text top="265" left="123" width="687" height="18" font="6">This question first arose for me when I heard a talk by Dan Sperber in 1989 (to appear</text>
+<text top="289" left="108" width="702" height="18" font="6">in revised form in Sperber &amp; Wilson forthcoming). There he discussed the narrowing and</text>
+<text top="313" left="108" width="702" height="18" font="6">broadening of lexically encoded concepts as if they were symmetrical processes, the one</text>
+<text top="337" left="108" width="702" height="18" font="6">adding material, the other subtracting it. In that talk he did not address the issue of why</text>
+<text top="360" left="108" width="702" height="18" font="6">they do not both appear in the proposition expressed. If they are just two opposite</text>
+<text top="384" left="108" width="701" height="18" font="6">processes of concept building, as they seem to be, strengthening vs. weakening, narrowing</text>
+<text top="408" left="108" width="702" height="18" font="6">vs. broadening, i.e. a move away from strict literalness in both cases, albeit in opposite</text>
+<text top="432" left="108" width="702" height="18" font="6">directions (above and below literalness), wouldn't we expect that either the results of both</text>
+<text top="455" left="108" width="702" height="18" font="6">processes should figure in the proposition expressed by the utterance or that the results</text>
+<text top="479" left="108" width="702" height="18" font="6">of neither should? This issue has now been in the air for a few years, discussed informally</text>
+<text top="503" left="108" width="702" height="18" font="6">at our summer relevance seminars and with students at UCL working on metaphor. I think</text>
+<text top="527" left="108" width="702" height="18" font="6">it is time to take a careful look at what the implications of moving to a symmetrical</text>
+<text top="550" left="108" width="494" height="18" font="6">account would be. The merest beginnings will be made here. </text>
+<text top="622" left="108" width="372" height="18" font="7"><b>4 Symmetrifying enrichment and loosening</b></text>
+<text top="669" left="108" width="703" height="18" font="6">There are two ways, in principle, of symmetrifying: bring narrowing into line with the</text>
+<text top="693" left="108" width="702" height="18" font="6">existing account of loosening or bring loosening into line with the propositional boosting</text>
+<text top="716" left="108" width="427" height="18" font="6">account of enrichment. I'll look at these in that order.</text>
+<text top="740" left="123" width="687" height="18" font="6">To bring narrowing into line with the established relevance theoretic account of</text>
+<text top="764" left="108" width="702" height="18" font="6">loosening would entail not building a denser concept in the enrichment case, but using the</text>
+<text top="788" left="108" width="702" height="18" font="6">lexical concept as a jumping off point to contextual effects, as it is for loose and</text>
+<text top="811" left="108" width="702" height="18" font="6">metaphorical uses. That is, at the level of the proposition expressed the lexical concept</text>
+<text top="835" left="108" width="702" height="18" font="6">would remain and the enrichment of that concept or its effects would emerge as</text>
+<text top="859" left="108" width="703" height="18" font="6">implicatures. This would, of course, involve a move back in the direction of the Gricean</text>
+<text top="883" left="108" width="702" height="18" font="6">concept of what is said. It would maintain the section of the diagram given in (6) and in</text>
+<text top="906" left="108" width="702" height="18" font="6">fact extend the number of cases which would fall within the concept of non-literal</text>
+<text top="930" left="108" width="702" height="18" font="6">interpretive resemblance: enrichment cases could be seen as a particular type of</text>
+<text top="954" left="108" width="702" height="18" font="6">interpretive resemblance where the logical implications of the propositional form of the</text>
+<text top="978" left="108" width="593" height="18" font="6">utterance would be a proper subset of those of the thought of the speaker.</text>
+<text top="1001" left="123" width="687" height="18" font="6">This may be workable for lexical concepts with encyclopedic entries, such as <i>bachelor</i>,</text>
+<text top="1025" left="108" width="702" height="18" font="6">with its various bachelor prototypes, bundles of features comprising chunks or units</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="801" width="9" height="16" font="3">9</text>
+<text top="194" left="108" width="702" height="18" font="6">within the overall encyclopedic entry. For example, in (2b) the lexical concept <i>bachelor</i></text>
+<text top="218" left="108" width="702" height="18" font="6">might give access to a bunch of prototypical properties of bachelors: youngish,</text>
+<text top="242" left="108" width="702" height="18" font="6">heterosexual, free to marry, childless, etc, (along with the logical property <i>unmarried</i>),</text>
+<text top="265" left="108" width="701" height="18" font="6">from which various implicatures regarding the sort of person the speaker wants to meet</text>
+<text top="289" left="108" width="702" height="18" font="6">would follow. A relevance-driven sorting process, similar to that assumed in the loose use</text>
+<text top="313" left="108" width="702" height="18" font="6">cases, would ensure that other possible bachelor prototypes, e.g. that of the fussy, old,</text>
+<text top="337" left="108" width="701" height="18" font="6">misogynous type of bachelor, would be bypassed, as would the pope and various others</text>
+<text top="360" left="108" width="560" height="18" font="6">who are technically bachelors but do not have the relevant properties.</text>
+<text top="384" left="123" width="687" height="18" font="6">However, there are a number of cases of enrichment for which this just won't work.</text>
+<text top="408" left="108" width="702" height="18" font="6">While a range of implicatures can be easily derived from a lexical item used loosely, this</text>
+<text top="432" left="108" width="702" height="18" font="6">is not so for at least some instances of enrichment. What a loose use entails is that, in</text>
+<text top="455" left="108" width="702" height="18" font="6">effect, the original (lexical) concept makes available more information than you need, so</text>
+<text top="479" left="108" width="703" height="18" font="6">you can simply disregard whatever does not contribute to relevance (cognitive effects),</text>
+<text top="503" left="108" width="703" height="18" font="6">on the particular occasion. But, of course, the opposite is the case in many instances of</text>
+<text top="527" left="108" width="703" height="18" font="6">narrowing/enrichment; here what the lexical concept makes available is often rather less</text>
+<text top="550" left="108" width="703" height="18" font="6">than one needs to derive the intended effects. Examples (2e) and (2f) are such cases:</text>
+<text top="574" left="108" width="702" height="18" font="6">nothing follows from these literal and trivial truths; the concepts of <i>some</i> and <i>something</i></text>
+<text top="598" left="108" width="702" height="18" font="6">simply do not give access to a rich set of specific assumptions from which the intended</text>
+<text top="622" left="108" width="702" height="18" font="6">concept is built. These enrichments are effected in some other way, relying on contextual</text>
+<text top="645" left="108" width="702" height="18" font="6">information from a wider range of sources, perhaps information from the perceptual</text>
+<text top="669" left="108" width="107" height="18" font="6">environment.</text>
+<text top="693" left="123" width="687" height="18" font="6">Trying to treat these enrichment cases, where the lexical concept lacks anything much</text>
+<text top="717" left="108" width="702" height="18" font="6">by way of an encyclopedic entry, as cases of interpretive resemblance would give a very</text>
+<text top="740" left="108" width="702" height="18" font="6">odd result within relevance theory: the relevance of the utterance, its effects, would seem</text>
+<text top="764" left="108" width="702" height="18" font="6">to derive from an interaction of contextual assumptions alone, with the proposition</text>
+<text top="788" left="108" width="702" height="18" font="6">expressed playing no role. This is exemplified in (7), where it can be seen that the effects</text>
+<text top="812" left="108" width="702" height="18" font="6">follow from the implicature (an implicated premise), which represents the strengthening</text>
+<text top="836" left="108" width="702" height="18" font="6">of 'some distance', together with other accessible assumptions concerning such a situation:</text>
+<text top="883" left="108" width="24" height="18" font="6">(7)</text>
+<text top="883" left="162" width="184" height="18" font="6">Proposition expressed:</text>
+<text top="907" left="162" width="470" height="18" font="6">There is a distance between the cinema and the restaurant.</text>
+<text top="954" left="162" width="648" height="18" font="6">Implicature: The distance between the cinema and the restaurant is longer than</text>
+<text top="978" left="270" width="120" height="18" font="6">you may think.</text>
+<text top="1002" left="162" width="63" height="18" font="6">Effects:</text>
+<text top="1002" left="270" width="540" height="18" font="6">We shouldn't plan to walk from the restaurant to the cinema, we</text>
+<text top="1026" left="270" width="340" height="18" font="6">should call a taxi to get to the cinema, etc.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">10</text>
+<text top="194" left="108" width="702" height="18" font="6">On the general account of contextual effects within relevance theory this is not possible:</text>
+<text top="218" left="108" width="701" height="18" font="6">cognitive effects follow from an inferential interaction of the proposition expressed and</text>
+<text top="242" left="108" width="702" height="18" font="6">contextual assumptions. I conclude that this tack, a partial retreat back to Grice, as it</text>
+<text top="265" left="108" width="702" height="18" font="6">might be seen, is not a possible way of symmetrifying the treatment of narrowed and</text>
+<text top="289" left="108" width="405" height="18" font="6">loosened ad hoc concepts within relevance theory.</text>
+<text top="313" left="123" width="686" height="18" font="6">So let's consider the opposite possibility: bringing loosening into line with narrowing.</text>
+<text top="337" left="108" width="702" height="18" font="6">This involves building into the proposition expressed an ad hoc concept, which is a</text>
+<text top="360" left="108" width="702" height="18" font="6">weakening of the encoded lexical concept. In parallel with the representation in (4) of the</text>
+<text top="384" left="108" width="702" height="18" font="6">propositional form of an enrichment case, we'd have the following propositional form for</text>
+<text top="408" left="108" width="38" height="18" font="6">(5c):</text>
+<text top="455" left="108" width="24" height="18" font="6">(8)</text>
+<text top="455" left="162" width="173" height="18" font="9"><i>[This steak]  is raw*.</i></text>
+<text top="465" left="260" width="5" height="11" font="10"><i>y</i></text>
+<text top="479" left="162" width="496" height="18" font="6">(where <i>raw*</i> indicates a loosening of the lexical concept <i>raw</i>)</text>
+<text top="527" left="108" width="702" height="18" font="6">From this, as on the original account, would follow a bunch of implicatures,</text>
+<text top="550" left="108" width="702" height="18" font="6">communicated with varying degrees of strength: the steak is insufficiently cooked, the</text>
+<text top="574" left="108" width="702" height="18" font="6">steak is inedible, the speaker is very unhappy with the state of the steak, the speaker wants</text>
+<text top="598" left="108" width="553" height="18" font="6">this steak replaced by another which has received more cooking, etc.</text>
+<text top="622" left="123" width="687" height="18" font="6">So let us suppose this is the version of the symmetry thesis we would opt for, if we went</text>
+<text top="645" left="108" width="702" height="18" font="6">for one at all. I shall now briefly consider some possible objections to making this move;</text>
+<text top="669" left="108" width="703" height="18" font="6">that is, to incorporating into the proposition expressed those ad hoc concepts which are</text>
+<text top="693" left="108" width="582" height="18" font="6">loosenings, along with those that are strengthenings, of lexical concepts.</text>
+<text top="717" left="123" width="687" height="18" font="6">First, someone might object that one upshot of this view of things is that some word</text>
+<text top="740" left="108" width="702" height="18" font="6">meanings (lexical concepts) are virtually never used literally; for instance, 'bald' (meaning</text>
+<text top="764" left="108" width="702" height="18" font="9"><i>totally hairless</i>), 'silent' (which would strictly speaking apply only to a soundproof</text>
+<text top="788" left="108" width="702" height="18" font="6">chamber), 'hexagonal' (a property of a perfect abstract form not actually found in nature),</text>
+<text top="812" left="108" width="702" height="18" font="6">etc. The objection would depend on the assumption that it is very implausible that words</text>
+<text top="836" left="108" width="702" height="18" font="6">are not used literally at least some of the time. But this assumption is not very compelling;</text>
+<text top="859" left="108" width="702" height="18" font="6">it seems quite clear that we simply do have concepts of geometrical perfection and that</text>
+<text top="883" left="108" width="702" height="18" font="6">we use these as a point of departure in entertaining other concepts, that are</text>
+<text top="907" left="108" width="703" height="18" font="6">approximations to them. That this might extend to quite a range of the concepts encoded</text>
+<text top="931" left="108" width="702" height="18" font="6">in natural language should not be seen as troublesome but as a downright useful feature</text>
+<text top="954" left="108" width="569" height="18" font="6">of language, given our undoubted capacity to recognise resemblances. </text>
+<text top="978" left="123" width="687" height="18" font="6">Suppose one were in the business of designing a public representation system for human</text>
+<text top="1002" left="108" width="702" height="18" font="6">communicative purposes, given that the general cognitive capacities of the species were</text>
+<text top="1026" left="108" width="702" height="18" font="6">already in place: the ability to attribute complex mental states (such as higher order</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">11</text>
+<text top="194" left="108" width="702" height="18" font="6">beliefs and intentions) to conspecifics, the ability to draw inferences from newly</text>
+<text top="218" left="108" width="702" height="18" font="6">impinging stimuli by placing them in a context of existing assumptions, and the ability to</text>
+<text top="242" left="108" width="702" height="18" font="6">recognise conceptual and other resemblances from a range of points of view. I think a</text>
+<text top="265" left="108" width="702" height="18" font="6">designer might well opt for a public representation system with quite minimal and even</text>
+<text top="289" left="108" width="702" height="18" font="6">generally uninstantiated encodings (in the sense that little, if anything, in the actual world</text>
+<text top="313" left="108" width="702" height="18" font="6">falls under the concept), given that these more fundamental abilities can be relied on to</text>
+<text top="337" left="108" width="702" height="18" font="6">make the appropriate adjustments, with relative ease, in a number of directions. Perhaps</text>
+<text top="360" left="108" width="604" height="18" font="6">then, more often than not, our communication is nonliteral in just this way.</text>
+<text top="384" left="123" width="686" height="18" font="6">Here's a second, this time rather theory-internal, objection. If both strengthenings and</text>
+<text top="408" left="108" width="702" height="18" font="6">broadenings are taken to contribute to the propositional form of the utterance, then won't</text>
+<text top="432" left="108" width="702" height="18" font="6">the propositional form of the utterance always be identical to the propositional form of</text>
+<text top="455" left="108" width="702" height="18" font="6">the thought of the speaker, so that the distinction caught in the diagram in (6) falls away.</text>
+<text top="479" left="108" width="702" height="18" font="6">The question really concerns the concept of 'interpretive resemblance', which is arguably</text>
+<text top="503" left="108" width="702" height="18" font="6">one of the most constructive innovations of relevance theory. But there would be no</text>
+<text top="527" left="108" width="703" height="18" font="6">diminishing of its importance as a result of the move being considered. Apart from its</text>
+<text top="550" left="108" width="702" height="18" font="6">fundamental role in the account of irony and other cases involving the attribution/echo</text>
+<text top="574" left="108" width="702" height="18" font="6">of a thought, the relation of interpretive resemblance would continue to be the key relation</text>
+<text top="598" left="108" width="703" height="18" font="6">between lexical concepts and communicated concepts: the concepts in the logical form</text>
+<text top="622" left="108" width="701" height="18" font="6">or semantic representation of an utterance would be in a relation of interpretive</text>
+<text top="645" left="108" width="703" height="18" font="6">resemblance with those in the propositional forms of both the thought of the speaker and</text>
+<text top="669" left="108" width="702" height="18" font="6">the utterance expressing that thought. The diagram would need to be adjusted and one of</text>
+<text top="693" left="108" width="312" height="18" font="6">those adjustments might be as follows:</text>
+<text top="740" left="108" width="24" height="18" font="6">(9)</text>
+<text top="764" left="341" width="236" height="18" font="6">Logical form of the utterance</text>
+<text top="788" left="320" width="279" height="18" font="6">(structured set of lexical concepts)</text>
+<text top="807" left="455" width="8" height="26" font="12">*</text>
+<text top="836" left="370" width="179" height="18" font="6">is an interpretation of </text>
+<text top="854" left="455" width="8" height="26" font="12">*</text>
+<text top="883" left="317" width="284" height="18" font="6">Propositional form of the utterance</text>
+<text top="907" left="261" width="396" height="18" font="6">(structured string of concepts, many of which are</text>
+<text top="931" left="257" width="404" height="18" font="6">enrichments or loosenings of the lexical concepts)</text>
+<text top="978" left="108" width="702" height="18" font="6">Of course, there may well be a disparity between the thought of the speaker and the</text>
+<text top="1002" left="108" width="702" height="18" font="6">propositional form derived by the hearer on the basis of his contextual resources and</text>
+<text top="1026" left="108" width="702" height="18" font="6">guided by his search for optimal relevance. So THE propositional form of the utterance</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">12</text>
+<text top="194" left="108" width="702" height="18" font="6">is somewhat of an idealisation here, but so it was under the original conception (diagram</text>
+<text top="218" left="108" width="701" height="18" font="6">(6)), where the propositional form admitted only ad hoc concepts which resulted from</text>
+<text top="242" left="108" width="701" height="18" font="6">enrichment. This issue of the propositional form of, or proposition expressed by, an</text>
+<text top="265" left="108" width="432" height="18" font="6">utterance is taken up again briefly in the final section.</text>
+<text top="289" left="123" width="687" height="18" font="6">The third potential objection is related to the second: wouldn't we be slipping a maxim</text>
+<text top="313" left="108" width="702" height="18" font="6">of literalness or truthfulness back into the picture? It seems that even in the case of</text>
+<text top="337" left="108" width="702" height="18" font="6">metaphorical utterances we would be saying that the propositional form of the utterance</text>
+<text top="360" left="108" width="702" height="18" font="6">is a literal interpretation of the thought the speaker intends to communicate. Statements</text>
+<text top="384" left="108" width="702" height="18" font="6">such as the following, which have been quite central to the relevance theory picture,</text>
+<text top="408" left="108" width="359" height="18" font="6">would seem to no longer carry much weight:</text>
+<text top="455" left="108" width="34" height="18" font="6">(10)</text>
+<text top="455" left="162" width="594" height="18" font="6">...the hearer is not invariably entitled to expect a literal interpretation of the</text>
+<text top="479" left="162" width="595" height="18" font="6">speaker's thought, nor is such an interpretation always necessary for</text>
+<text top="503" left="162" width="594" height="18" font="6">successful communication to take place. A less-than-literal interpretation of</text>
+<text top="527" left="162" width="594" height="18" font="6">the speaker's thought may be good enough; may indeed be better on some</text>
+<text top="550" left="162" width="546" height="18" font="6">occasions than a strictly literal one (Sperber &amp; Wilson 1985/6, 158)</text>
+<text top="598" left="108" width="702" height="18" font="6">But this is very different from the concept of literalness or truthfulness at issue in the</text>
+<text top="622" left="108" width="701" height="18" font="6">Gricean maxim, which concerned the relation between the linguistically encoded (or</text>
+<text top="645" left="108" width="702" height="18" font="6">conventional) meaning and that which the speaker meant or communicated. On the</text>
+<text top="669" left="108" width="702" height="18" font="6">proposed symmetrical treatment of loose use cases, it would indeed follow that the</text>
+<text top="693" left="108" width="702" height="18" font="6">speaker always endorses the proposition her utterance expresses, but the point is that this</text>
+<text top="717" left="108" width="702" height="18" font="6">proposition is now going to depart even more radically than before from the literal</text>
+<text top="740" left="108" width="702" height="18" font="6">linguistic content in the logical form of the utterance, so that the first maxim of Quality</text>
+<text top="765" left="108" width="664" height="18" font="6">'Do not <b>say</b> what you believe to be false' (my emphasis) is hopelessly inapplicable.</text>
+<text top="789" left="123" width="687" height="18" font="6">Of course, if we move to the Supermaxim of Quality: 'Try to make <b>your contribution</b></text>
+<text top="812" left="108" width="702" height="18" font="6">one that is true' (my emphasis) where we take 'contribution' to include both the</text>
+<text top="836" left="108" width="703" height="18" font="6">proposition expressed and the implicatures, then it would appear that cases of loose use</text>
+<text top="860" left="108" width="702" height="18" font="6">and metaphor conform with this. I won't argue it here but in fact this simply follows from</text>
+<text top="884" left="108" width="702" height="18" font="6">the presumption of optimal relevance (specifically from what constitutes a contextual</text>
+<text top="908" left="108" width="702" height="18" font="6">effect) and no separate maxim or principle is needed (see Ifantidou 1994 and Wilson</text>
+<text top="931" left="108" width="52" height="18" font="6">1995).</text>
+<text top="955" left="123" width="687" height="18" font="6">Tangentially, it should be noted that the propositional form of the utterance will now</text>
+<text top="979" left="108" width="702" height="18" font="6">always be communicated, hence an explicature; the only level in the whole process of</text>
+<text top="1003" left="108" width="702" height="18" font="6">utterance interpretation that is not communicated is the logical form. This seems just fine</text>
+<text top="1026" left="108" width="702" height="18" font="6">to me; there was always a kind of redundancy in the standard account of loose use and</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">13</text>
+<text top="194" left="108" width="701" height="18" font="6">metaphor in that there were two representational levels (logical form and propositional</text>
+<text top="218" left="108" width="702" height="18" font="6">form) that were mere tools or vehicles for getting at what was in fact communicated.</text>
+<text top="242" left="108" width="702" height="18" font="6">There is a technical point to be attended to concerning the definition of an 'explicature'</text>
+<text top="266" left="108" width="702" height="18" font="6">as a communicated assumption which is a <b>development</b> of a logical form of the utterance;</text>
+<text top="289" left="108" width="702" height="18" font="6">the need to spell out what the possibilities are for developing a logical form would seem</text>
+<text top="313" left="108" width="702" height="18" font="6">even more pressing if we could in effect knock out bits of encoded linguistic content,</text>
+<text top="337" left="108" width="344" height="18" font="6">which is what this symmetry thesis entails.</text>
+<text top="361" left="123" width="687" height="18" font="6">The fourth objection questions the concept of THE truth-conditional content of the</text>
+<text top="384" left="108" width="703" height="18" font="6">utterance. First, it is not clear that we really want such a notion in our pragmatics at all,</text>
+<text top="408" left="108" width="702" height="18" font="6">especially if, as relevance theorists tend to argue, the proper domain of a truth conditional</text>
+<text top="432" left="108" width="702" height="18" font="6">semantic theory is thoughts/assumptions (or, at least, their propositional forms). However,</text>
+<text top="456" left="108" width="702" height="18" font="6">suppose we did think there was good reason to maintain that concept, then wouldn't we</text>
+<text top="479" left="108" width="702" height="18" font="6">be a bit alarmed that now an utterance of 'Bill is a bulldozer' could come out as true,</text>
+<text top="503" left="108" width="702" height="18" font="6">provided Bill had certain properties that appear in the encyclopedic entry of the lexical</text>
+<text top="527" left="108" width="702" height="18" font="6">concept  <i>bulldozer</i> and which are central to the new non-lexical concept <i>bulldozer*</i>?</text>
+<text top="551" left="108" width="702" height="18" font="6">Surely, the one thing we do have in this area is relatively robust intuitions that 'Bill is a</text>
+<text top="575" left="108" width="702" height="18" font="6">bulldozer' is false and 'Bill is not a bulldozer' is true (and these intuitions are to be</text>
+<text top="598" left="108" width="703" height="18" font="6">explained by the presence of the literal encoded concept in the propositional form of the</text>
+<text top="622" left="108" width="597" height="18" font="6">utterance). We would be having to turn these clear intuitions right around.</text>
+<text top="646" left="123" width="687" height="18" font="6">Well, just how robust are these intuitions and what is their source? We can, after all,</text>
+<text top="670" left="108" width="702" height="18" font="6">agree or disagree with someone who utters 'Bill is a bulldozer', as in (11), or even say</text>
+<text top="694" left="108" width="244" height="18" font="6">'that's <b>true</b>' or 'that's <b>not true</b>':</text>
+<text top="741" left="108" width="34" height="18" font="6">(11)</text>
+<text top="741" left="162" width="19" height="18" font="6">A:</text>
+<text top="741" left="216" width="339" height="18" font="6">Bill's a bulldozer (or: a bit of a bulldozer).</text>
+<text top="765" left="162" width="19" height="18" font="6">B:</text>
+<text top="765" left="216" width="419" height="18" font="6">He certainly is; let's not have him on the committee.</text>
+<text top="789" left="162" width="19" height="18" font="6">C:</text>
+<text top="789" left="216" width="431" height="18" font="6">He's not really a bulldozer; in fact he's quite insecure.</text>
+<text top="836" left="108" width="702" height="18" font="6">It could be that 'true' is being used loosely in such a response, that what we have is loose</text>
+<text top="860" left="108" width="702" height="18" font="6">use all the way (first the predication of bulldozerhood and then the confirmation or denial</text>
+<text top="884" left="108" width="703" height="18" font="6">of it). But I don't see any reason to suppose that; surely what is being denied by C at the</text>
+<text top="908" left="108" width="702" height="18" font="6">explicit level is that the ad hoc concept <i>bulldozer*</i>, formed from the loosely used lexical</text>
+<text top="931" left="108" width="701" height="18" font="6">concept, applies to Bill. Examples of conditionals with loose or metaphorical uses of</text>
+<text top="955" left="108" width="450" height="18" font="6">concepts in their antecedent point in the same direction:</text>
+<text top="1003" left="108" width="34" height="18" font="6">(12)</text>
+<text top="1003" left="162" width="14" height="18" font="6">a.</text>
+<text top="1003" left="216" width="418" height="18" font="6">If Bill is a bulldozer he'll be ideal on the committee.</text>
+<text top="1026" left="162" width="15" height="18" font="6">b.</text>
+<text top="1026" left="216" width="559" height="18" font="6">If Mick is a loose cannon we better keep him out of the negotiations. </text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">14</text>
+<text top="194" left="108" width="702" height="18" font="6">It seems pretty clear that what is being communicated by (12a) is that if Bill is of a</text>
+<text top="218" left="108" width="702" height="18" font="6">particular aggressive disposition, unmoved by the views of others, etc, he'll be ideal on</text>
+<text top="242" left="108" width="703" height="18" font="6">the committee. If the arguments based on these various examples are right, the source of</text>
+<text top="265" left="108" width="702" height="18" font="6">the original intuition that 'Bill's a bulldozer' is false might simply be the conceptual</text>
+<text top="289" left="108" width="702" height="18" font="6">content of the logical form of the utterance rather than its propositional form (that is, our</text>
+<text top="313" left="108" width="241" height="18" font="6">knowledge of word meaning).</text>
+<text top="337" left="123" width="687" height="18" font="6">It does not look as if there is anything in these various considerations to decisively deter</text>
+<text top="360" left="108" width="702" height="18" font="6">us from symmetrifying the picture by building both sorts of ad hoc concepts into the</text>
+<text top="384" left="108" width="702" height="18" font="6">proposition expressed. However, let's take a look at the process (or processES) of</text>
+<text top="408" left="108" width="702" height="18" font="6">loosening a little more closely. In some lectures on this a year or two ago, Deirdre Wilson</text>
+<text top="432" left="108" width="702" height="18" font="6">drew the diagram given above in (3) to illustrate the relation between a lexical concept</text>
+<text top="455" left="108" width="702" height="18" font="6">and an enrichment of it: I interpret this as showing that the set of entities falling in the</text>
+<text top="479" left="108" width="703" height="18" font="6">denotation of the lexical concept L contains as a proper subset the set of entities in the</text>
+<text top="503" left="108" width="702" height="18" font="6">denotation of the strengthened ad hoc concept C'. One might think that if we are dealing</text>
+<text top="527" left="108" width="702" height="18" font="6">in symmetrical processes then the corresponding diagram for loosening will look as in</text>
+<text top="550" left="108" width="702" height="18" font="6">(13), where C* is the result of loosening the lexical concept. In fact it came out as in (14),</text>
+<text top="574" left="108" width="702" height="18" font="6">where the picture is one of a kind of concept shift or transfer rather than a simple</text>
+<text top="598" left="108" width="702" height="18" font="6">broadening, where the denotations of the lexical concept and the concept which results</text>
+<text top="622" left="108" width="364" height="18" font="6">from the 'loosening' process merely intersect:</text>
+<text top="669" left="108" width="34" height="18" font="6">(13)</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">15</text>
+<text top="194" left="108" width="34" height="18" font="6">(14)</text>
+<text top="503" left="108" width="702" height="18" font="6">In fact, when we come to look at particular cases it looks as if there may be three subcases</text>
+<text top="527" left="108" width="702" height="18" font="6">of loosening, only one of which seems to be the true counterpart or complement of</text>
+<text top="550" left="108" width="96" height="18" font="6">enrichment:</text>
+<text top="598" left="108" width="34" height="18" font="6">(15)</text>
+<text top="598" left="162" width="14" height="18" font="6">a.</text>
+<text top="646" left="601" width="209" height="18" font="6">The room is <b>rectangular</b>,</text>
+<text top="670" left="638" width="172" height="18" font="6">The room was <b>silent</b>,</text>
+<text top="694" left="435" width="71" height="18" font="6">              </text>
+<text top="694" left="631" width="179" height="18" font="6">John's a real <b>bachelor</b></text>
+<text top="837" left="162" width="15" height="18" font="6">b.</text>
+<text top="884" left="596" width="214" height="18" font="6">Where's my plastic <b>duck</b>?,</text>
+<text top="909" left="656" width="154" height="18" font="6">Bill is a <b>bulldozer</b>,</text>
+<text top="933" left="617" width="193" height="18" font="6">The fringed <b>curtains</b> of</text>
+<text top="956" left="658" width="152" height="18" font="6">thine eyes advance</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">16</text>
+<text top="946" left="130" width="681" height="15" font="0">Reboul (1989) supports Sperber &amp; Wilson in their advocacy of this precise semantics for the</text>
+<text top="943" left="123" width="5" height="10" font="1">2</text>
+<text top="966" left="108" width="702" height="15" font="0">lexical  concept  <i>bald</i> and discusses the apparent paradox that arises as a result for phrases like 'very</text>
+<text top="986" left="108" width="702" height="15" font="0">bald' and '... balder than ...' which would appear to have an anomalous linguistic meaning given the</text>
+<text top="1005" left="108" width="702" height="15" font="0">imposition of scalar modification on an absolute concept. I think the account in terms of ad hoc</text>
+<text top="1025" left="108" width="702" height="15" font="0">concepts resulting from a quite standard practice of using 'bald' loosely can explain these satisfactorily but</text>
+<text top="1045" left="108" width="196" height="15" font="0">I leave that for another time. </text>
+<text top="194" left="162" width="14" height="18" font="6">c.</text>
+<text top="242" left="676" width="134" height="18" font="6">I love <b>bald</b> men,</text>
+<text top="266" left="469" width="341" height="18" font="6">                     I need a <b>silent</b> place to work,</text>
+<text top="290" left="675" width="135" height="18" font="6">The steak is <b>raw</b></text>
+<text top="433" left="108" width="702" height="18" font="6">Taking <i>rectangular</i> in (15a), for example: this is a loose use since the room in question</text>
+<text top="456" left="108" width="703" height="18" font="6">might have all sorts of little irregularities that render it not strictly rectangular (i.e. not</text>
+<text top="480" left="108" width="702" height="18" font="6">having four right angles). The extension of the loosened concept would, however, include</text>
+<text top="504" left="108" width="702" height="18" font="6">some cases of strict rectangles while excluding others; it might, for instance, exclude</text>
+<text top="528" left="108" width="702" height="18" font="6">those with two of their sides a mile long and the other two only a few inches long. Now</text>
+<text top="551" left="108" width="702" height="18" font="6">consider (15b); the idea here is that there is actually no extensional overlap of the two</text>
+<text top="575" left="108" width="702" height="18" font="6">concepts. Metaphors which involve sortal or categorial incorrectness, as in the examples</text>
+<text top="599" left="108" width="702" height="18" font="6">in (15b), are candidates here. Among the properties of the lexical concept that are</text>
+<text top="623" left="108" width="702" height="18" font="6">discarded are, crucially, logical or definitional ones. For instance, in the 'plastic duck'</text>
+<text top="647" left="108" width="702" height="18" font="6">cases the property of belonging to a biological species is dropped. The picture in (15c)</text>
+<text top="670" left="108" width="702" height="18" font="6">represents the case where the extension of the new loosened concept does in fact</text>
+<text top="694" left="108" width="702" height="18" font="6">encompass the entire denotation of the original lexical concept, indicated here by the</text>
+<text top="718" left="108" width="703" height="18" font="6">emptiness of the non-intersecting part of the lexical concept; this could and should be</text>
+<text top="742" left="108" width="702" height="18" font="6">redrawn as the picture in (13). This is broadening in a strict sense, the symmetrical</text>
+<text top="765" left="108" width="702" height="18" font="6">counterpart to the narrowing cases. For instance, the extension of the <i>bald*</i> concept</text>
+<text top="789" left="108" width="702" height="18" font="6">would include all the entities which fall within the extension of the lexical concept <i>bald</i>,</text>
+<text top="813" left="108" width="702" height="18" font="6">i.e. all the hairless entities (assuming this is the right semantics for <i>bald </i>) and a further</text>
+<text top="811" left="688" width="6" height="11" font="11">2</text>
+<text top="837" left="108" width="702" height="18" font="6">group which depart to some degree or other from complete hairlessness but which are</text>
+<text top="860" left="108" width="181" height="18" font="6">relevantly low on hair.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">17</text>
+<text top="194" left="123" width="688" height="18" font="6">Setting aside the (15b) cases for a moment, let us consider the relation between (15a)</text>
+<text top="218" left="108" width="702" height="18" font="6">and (15c). The sort of loose use exemplified in (15a) could be thought of as one that</text>
+<text top="242" left="108" width="702" height="18" font="6">involves both broadening (as in (15c)) and narrowing; for instance, the concept <i>bachelor*</i></text>
+<text top="265" left="108" width="702" height="18" font="6">might include married men who behave in a certain stereotypic bachelor-like way</text>
+<text top="289" left="108" width="703" height="18" font="6">(individuals in the non-intersecting part of C*) and it might exclude some men who are</text>
+<text top="313" left="108" width="702" height="18" font="6">in fact UNmarried but do not have the particular stereotypical bachelor properties</text>
+<text top="337" left="108" width="702" height="18" font="6">(individuals in the non-intersecting part of L). Note that the concept <i>silent</i> occurs in</text>
+<text top="360" left="108" width="702" height="18" font="6">examples given for both types of case; depending on the particularities of the context, the</text>
+<text top="384" left="108" width="703" height="18" font="6">new ad hoc concept might be either a strict broadening, hence include in its extension all</text>
+<text top="408" left="108" width="702" height="18" font="6">that the original lexical concept includes or might involve, in addition, some degree of</text>
+<text top="432" left="108" width="702" height="18" font="6">narrowing (excluding perhaps unnatural, manmade instances of utterly noiseless spaces</text>
+<text top="455" left="108" width="702" height="18" font="6">such as soundproof chambers). Doubtless, these two possibilities also arise in the loose</text>
+<text top="479" left="108" width="240" height="18" font="6">use of other lexical concepts. </text>
+<text top="503" left="123" width="687" height="18" font="6">The fact that both processes might be required in forming a communicated ad hoc</text>
+<text top="527" left="108" width="702" height="18" font="6">concept makes it look all the more likely that they both contribute to the proposition</text>
+<text top="550" left="108" width="702" height="18" font="6">expressed. It would be very hard to find a principled reason for supposing that the result</text>
+<text top="574" left="108" width="702" height="18" font="6">of narrowing the concept of <i>rectangular</i> in the example in (15a) figures at this level while</text>
+<text top="598" left="108" width="702" height="18" font="6">its simultaneous widening is registered only at the level of implicature. It follows then that</text>
+<text top="622" left="108" width="702" height="18" font="6">those cases of broadening which are the true counterpart to narrowing, that is, those in</text>
+<text top="645" left="108" width="530" height="18" font="6">(15c), also contribute a new concept to the proposition expressed.</text>
+<text top="669" left="123" width="686" height="18" font="6">Briefly, let us reconsider the examples in (15b). On reflection, it is far from clear that</text>
+<text top="693" left="108" width="702" height="18" font="6">this category of concept construction really arises. What it would require is not just the</text>
+<text top="717" left="108" width="702" height="18" font="6">dropping of the logical or definitional properties of the lexical concept from which the ad</text>
+<text top="740" left="108" width="702" height="18" font="6">hoc concept is derived but the inclusion of the negation of these properties among its own</text>
+<text top="764" left="108" width="702" height="18" font="6">defining features. For instance, this view requires that a defining feature of <i>duck*</i> would</text>
+<text top="788" left="108" width="702" height="18" font="6">be 'not a living creature' and a defining feature of <i>bulldozer*</i> would be 'not a manmade</text>
+<text top="812" left="108" width="703" height="18" font="6">machine', etc. This is both unnecessary and counterintuitive; the relevant loosened</text>
+<text top="836" left="108" width="702" height="18" font="6">concept of <i>duck*</i> might as well include in its extension some biological ducks and some</text>
+<text top="859" left="108" width="702" height="18" font="6">artefactual ducks, the common properties concerning physical appearance being all that</text>
+<text top="883" left="108" width="702" height="18" font="6">the new concept has retained from the lexical concept <i>duck</i>. Of course, in the case of</text>
+<text top="907" left="108" width="702" height="18" font="6">'plastic duck' the modifier whittles down the set to exclude living creatures. If this is the</text>
+<text top="931" left="108" width="702" height="18" font="6">right way to view these examples then they are just further instances of the type of</text>
+<text top="954" left="108" width="702" height="18" font="6">concept construction in (15a); that is, they involve broadening (for instance, to include</text>
+<text top="978" left="108" width="702" height="18" font="6">certain artificial ducks) and narrowing (for instance, to exclude members of the biological</text>
+<text top="1002" left="108" width="702" height="18" font="6">species of ducks which do not have a particular stereotypical appearance). As with the</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">18</text>
+<text top="194" left="108" width="702" height="18" font="6">other cases given in (15a), on the symmetry view the new concepts so formed would</text>
+<text top="218" left="108" width="319" height="18" font="6">contribute to the proposition expressed.</text>
+<text top="289" left="108" width="355" height="18" font="7"><b>5 Categorial falsehoods and trivial truths</b></text>
+<text top="336" left="108" width="702" height="18" font="6">It is often pointed out that positive metaphorical utterances such as (16) are category</text>
+<text top="360" left="108" width="701" height="18" font="6">mistakes (sortally incorrect), clearly flouting Grice's first maxim of truthfulness. Their</text>
+<text top="384" left="108" width="701" height="18" font="6">negative counterparts, as in (17), are naturally obvious truths, a point made long ago by</text>
+<text top="407" left="108" width="702" height="18" font="6">Wilson &amp; Sperber (1981) in their catalogue of the short-comings of Grice's account of</text>
+<text top="431" left="108" width="702" height="18" font="6">metaphor and other tropes, the point being that there is no violation of any maxim of</text>
+<text top="455" left="108" width="101" height="18" font="6">truthfulness.</text>
+<text top="503" left="108" width="33" height="18" font="6">(16)</text>
+<text top="503" left="162" width="14" height="18" font="6">a.</text>
+<text top="503" left="215" width="148" height="18" font="6">Bill is a bulldozer.</text>
+<text top="526" left="162" width="15" height="18" font="6">b.</text>
+<text top="526" left="216" width="236" height="18" font="6">Losing Jane is losing the sun.</text>
+<text top="574" left="108" width="33" height="18" font="6">(17)</text>
+<text top="574" left="162" width="14" height="18" font="6">a.</text>
+<text top="574" left="215" width="167" height="18" font="6">Bill isn't a bulldozer.</text>
+<text top="598" left="162" width="15" height="18" font="6">b.</text>
+<text top="598" left="216" width="255" height="18" font="6">Losing Jane isn't losing the sun.</text>
+<text top="645" left="123" width="687" height="18" font="6">Johannes Flieger has recently discussed some further examples of obvious falsehoods</text>
+<text top="669" left="108" width="702" height="18" font="6">that he takes to be metaphorical; he calls them metaphorical negations, the idea being that</text>
+<text top="693" left="108" width="701" height="18" font="6">a phrase consisting of a negated term is used metaphorically as a whole (these examples</text>
+<text top="716" left="108" width="261" height="18" font="6">are all taken from Flieger 1996):</text>
+<text top="764" left="108" width="34" height="18" font="6">(18)</text>
+<text top="764" left="162" width="14" height="18" font="6">a.</text>
+<text top="764" left="216" width="249" height="18" font="6">Ari isn't a lion; he's a pussycat.</text>
+<text top="788" left="216" width="229" height="18" font="6">[where Ari is, in fact, a lion]</text>
+<text top="811" left="162" width="15" height="18" font="6">b.</text>
+<text top="811" left="216" width="325" height="18" font="6">Englebert isn't a surgeon; he's a butcher.</text>
+<text top="835" left="216" width="362" height="18" font="6">[where Englebert is a surgeon by profession]</text>
+<text top="859" left="162" width="14" height="18" font="6">c.</text>
+<text top="859" left="216" width="346" height="18" font="6">Huckleberry isn't a butcher; he's a surgeon.</text>
+<text top="883" left="216" width="381" height="18" font="6">[where Huckleberry is a butcher by profession]</text>
+<text top="906" left="162" width="15" height="18" font="6">d.</text>
+<text top="906" left="216" width="386" height="18" font="6">Engelbert isn't a human being; he's a wild beast.</text>
+<text top="930" left="162" width="14" height="18" font="6">e.</text>
+<text top="930" left="216" width="385" height="18" font="6">Huckleberry isn't a human being; he's a buddha.</text>
+<text top="978" left="108" width="702" height="18" font="6">In each case the referent does in fact have the property (taken literally) that the speaker</text>
+<text top="1001" left="108" width="703" height="18" font="6">is denying he has and does not have the property (taken literally) that the speaker</text>
+<text top="1025" left="108" width="702" height="18" font="6">predicates of him in the next clause, and this is mutually manifest to speaker and hearer.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">19</text>
+<text top="194" left="108" width="702" height="18" font="6">These are very interesting examples in the context of a discussion of pragmatic processes</text>
+<text top="218" left="108" width="702" height="18" font="6">of enrichment and loosening, because while Flieger sees these as cases of metaphor</text>
+<text top="242" left="108" width="702" height="18" font="6">(hence of loosening, in relevance-theoretic terms) they can just as well be described as</text>
+<text top="265" left="108" width="702" height="18" font="6">cases of negated enrichments. Take (18d) for instance: while Engelbert is in fact a</text>
+<text top="289" left="108" width="702" height="18" font="6">member of the human species, what the speaker is denying is that he belongs to a</text>
+<text top="313" left="108" width="702" height="18" font="6">narrower category which consists of (perhaps) thoughtful, compassionate, civilised human</text>
+<text top="337" left="108" width="701" height="18" font="6">beings. It is unsurprising that such examples can be seen as either cases of metaphorical</text>
+<text top="360" left="108" width="702" height="18" font="6">(loosely used) negatives or cases of negated strengthenings; it follows from the concept</text>
+<text top="384" left="108" width="702" height="18" font="6">of negation, the complementarity of the two processes of enrichment and loosening, and</text>
+<text top="408" left="108" width="142" height="18" font="6">their local nature.</text>
+<text top="432" left="123" width="687" height="18" font="6">From a processing point of view I think the enrichment account looks more promising</text>
+<text top="455" left="108" width="702" height="18" font="6">than the loosening account; it would require less effort to, as it were, dive into the</text>
+<text top="479" left="108" width="702" height="18" font="6">encyclopedic entry for <i>human being</i>, pull out a positive stereotype and negate that than</text>
+<text top="503" left="108" width="702" height="18" font="6">to form the concept <i>non-human-being</i> and then loosen that to include some actual human</text>
+<text top="527" left="108" width="702" height="18" font="6">beings. In fact the latter would not give quite the right result since the vast category <i>non-</i></text>
+<text top="550" left="108" width="702" height="18" font="9"><i>human-being</i> would have to be drastically narrowed (to exclude tables, trees, trumpets,</text>
+<text top="574" left="108" width="702" height="18" font="6">theories, etc, all of which are, after all, not human beings) in addition to being widened</text>
+<text top="598" left="108" width="702" height="18" font="6">to include such humans as Engelbert. The local enrichment account meshes well with the</text>
+<text top="622" left="108" width="702" height="18" font="6">widespread recognition that negations are more complex to process than their</text>
+<text top="646" left="108" width="702" height="18" font="6">corresponding positives (negation being the <b>marked</b> member of the positive/negative</text>
+<text top="670" left="108" width="702" height="18" font="6">opposition)  and that the processing of a negative in some sense presupposes the</text>
+<text top="693" left="108" width="556" height="18" font="6">availability of the corresponding positive (see Horn 1989, chapter 3).</text>
+<text top="717" left="123" width="686" height="18" font="6">What these examples bring home to me, then, is that we must surely go for an account</text>
+<text top="741" left="108" width="702" height="18" font="6">which offers parity of treatment of enrichment and loosening as regards the ad hoc</text>
+<text top="765" left="108" width="703" height="18" font="6">concepts they result in and their role in representations built by the hearer. A</text>
+<text top="788" left="108" width="701" height="18" font="6">representation of the base explicature of (proposition expressed by) utterances of (18d)</text>
+<text top="812" left="108" width="396" height="18" font="6">and (18e) would be something like the following:</text>
+<text top="860" left="108" width="34" height="18" font="6">(19)</text>
+<text top="860" left="162" width="14" height="18" font="6">a.</text>
+<text top="860" left="216" width="351" height="18" font="9"><i>E. is not a human being'; he's a wild beast*</i></text>
+<text top="883" left="162" width="15" height="18" font="6">b.</text>
+<text top="883" left="216" width="336" height="18" font="9"><i>H. is not a human being&#34;; he's a buddha*</i></text>
+<text top="931" left="108" width="702" height="18" font="6">where the double prime in (19b) is meant to indicate that the ad hoc concept in (19b)</text>
+<text top="955" left="108" width="702" height="18" font="6">derived by a process of enriching the linguistically encoded concept <i>human being</i> is</text>
+<text top="978" left="108" width="702" height="18" font="6">distinct from the ad hoc concept in (19a) also derived by a process of enriching that</text>
+<text top="1002" left="108" width="158" height="18" font="6">linguistic encoding.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">20</text>
+<text top="966" left="130" width="681" height="15" font="0">This example has an echoic feel to it and would be most natural in the context of a previous</text>
+<text top="963" left="123" width="5" height="10" font="1">3</text>
+<text top="986" left="108" width="702" height="15" font="0">utterance of 'Bill is a bulldozer'; it looks like an example of what has been traditionally termed</text>
+<text top="1005" left="108" width="702" height="15" font="0">metalinguistic negation (Horn 1985, 1989) and more recently analysed in terms of the relevance-theoretic</text>
+<text top="1025" left="108" width="702" height="15" font="0">concept of echoic use (Carston 1996). As far as I know, examples of negated metaphors have not yet been</text>
+<text top="1045" left="108" width="173" height="15" font="0">discussed in this context. </text>
+<text top="194" left="123" width="688" height="18" font="6">We could go on from here and consider cases of obvious truths, whether positive or</text>
+<text top="218" left="108" width="702" height="18" font="6">negative, where clearly the speaker is not intent on predicating of the referents a property</text>
+<text top="242" left="108" width="702" height="18" font="6">that they are known by all concerned to have or denying that they have a property which</text>
+<text top="265" left="108" width="516" height="18" font="6">it is well known they do not have (examples from Flieger 1996):</text>
+<text top="313" left="108" width="34" height="18" font="6">(20)</text>
+<text top="313" left="162" width="14" height="18" font="6">a.</text>
+<text top="313" left="216" width="196" height="18" font="6">Caroline is our princess.</text>
+<text top="337" left="162" width="15" height="18" font="6">b.</text>
+<text top="337" left="216" width="250" height="18" font="6">Uncle Bob is a sergeant-major.</text>
+<text top="360" left="162" width="14" height="18" font="6">c.</text>
+<text top="360" left="216" width="316" height="18" font="6">Tom is a human being (not a machine).</text>
+<text top="408" left="108" width="702" height="18" font="6">I repeat the examples in (17) for convenience since they are cases of negations which are</text>
+<text top="432" left="108" width="120" height="18" font="6">obvious truths:</text>
+<text top="479" left="108" width="34" height="18" font="6">(21)</text>
+<text top="479" left="162" width="14" height="18" font="6">a.</text>
+<text top="479" left="216" width="328" height="18" font="6">Bill isn't a bulldozer; (he's a juggernaut).</text>
+<text top="477" left="543" width="6" height="11" font="11">3</text>
+<text top="503" left="162" width="15" height="18" font="6">b.</text>
+<text top="503" left="216" width="255" height="18" font="6">Losing Jane isn't losing the sun.</text>
+<text top="550" left="108" width="702" height="18" font="6">The idea with (20a) is that, while the Caroline in question is in fact a princess, the</text>
+<text top="574" left="108" width="702" height="18" font="6">intention of the speaker does not concern her status in a royal family but rather such</text>
+<text top="598" left="108" width="701" height="18" font="6">properties as her haughty, spoilt ways. The same goes, mutatis mutandis, for (20b). Are</text>
+<text top="622" left="108" width="702" height="18" font="6">these cases of metaphorical loosening or of enrichment? Flieger sees them as all cases of</text>
+<text top="645" left="108" width="702" height="18" font="6">metaphor, all having a 'figurative' feel. A bid for parity of treatment with the account</text>
+<text top="669" left="108" width="702" height="18" font="6">above of (16) and (18) would suggest that while the examples in (21) are indeed negated</text>
+<text top="693" left="108" width="703" height="18" font="6">metaphors (negations of ad hoc concepts constructed through loosening), the examples</text>
+<text top="717" left="108" width="702" height="18" font="6">in (20) should be enrichments, so that the propositions expressed in each case are,</text>
+<text top="740" left="108" width="701" height="18" font="6">respectively, that Caroline belongs to a particular proper subset of the set of princesses,</text>
+<text top="764" left="108" width="702" height="18" font="6">that Uncle Bob is a certain type of sergeant-major (perhaps the authoritarian, humourless,</text>
+<text top="788" left="108" width="703" height="18" font="6">etc, stereotype), and that Tom has the frailties of human flesh. It seems to me that here</text>
+<text top="812" left="108" width="702" height="18" font="6">it could go either way; the ad hoc <i>princess</i> concept formed from the lexical concept might</text>
+<text top="836" left="108" width="703" height="18" font="6">or might not include the logical (definitional) property of the lexical concept (female</text>
+<text top="859" left="108" width="702" height="18" font="6">member of royal house) and the same holds, mutatis mutandis, for the ad hoc <i>sergeant</i></text>
+<text top="883" left="108" width="703" height="18" font="9"><i>major</i> concept. Whether these are technically loosenings or enrichments hinges on</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">21</text>
+<text top="809" left="130" width="681" height="15" font="0">Flieger outlines an account of metaphor understanding which involves a pragmatically driven</text>
+<text top="806" left="123" width="5" height="10" font="1">4</text>
+<text top="829" left="108" width="702" height="15" font="0">process of choosing a particular property complex from a set of property complexes which form a</text>
+<text top="849" left="108" width="702" height="15" font="0">semilattice structure which itself is a representation of the set of properties made available by the</text>
+<text top="869" left="108" width="702" height="15" font="0">original lexical concept. He proposes to run a model-theoretic semantics over the resulting representation,</text>
+<text top="888" left="108" width="447" height="15" font="0">thereby capturing intuitions of metaphorical truth (and falsehood).</text>
+<text top="926" left="130" width="681" height="15" font="0">The essence of Papafragou (1995)'s account of metonymy is that metonymic expressions involve</text>
+<text top="923" left="123" width="5" height="10" font="1">5</text>
+<text top="946" left="108" width="702" height="15" font="0">the (implicit) echoic use of concepts and they are instances of naming (rather than direct referring).</text>
+<text top="966" left="108" width="702" height="15" font="0">However, in Papafragou (1996), a revised and cut version of the previous paper, she recognises that</text>
+<text top="986" left="108" width="702" height="15" font="0">echoic use is too narrow to cover all metonymies and instead employs the concept of interpretive (or</text>
+<text top="1005" left="108" width="702" height="15" font="0">loose) use of a concept, though the interpretive relation in the case of metonymy is not one of resemblance,</text>
+<text top="1025" left="108" width="702" height="15" font="0">as in the case of metaphor, but one of association (or accessibility, in relevance-theoretic terms), between</text>
+<text top="1045" left="108" width="253" height="15" font="0">elements of encyclopedic knowledge.</text>
+<text top="194" left="108" width="702" height="18" font="6">whether or not logical (definitional) properties are dropped. The case for a symmetrical</text>
+<text top="218" left="108" width="703" height="18" font="6">account of enrichment and loosening cases is further supported by these considerations.</text>
+<text top="242" left="108" width="702" height="18" font="6">What matters here, at least from a communicative point of view, is that the relevant</text>
+<text top="265" left="108" width="702" height="18" font="6">concept is constructed out of the logical and encyclopedic information which is made</text>
+<text top="289" left="108" width="702" height="18" font="6">accessible by the encoded lexical concept; whether the construction process is strictly</text>
+<text top="313" left="108" width="702" height="18" font="6">speaking a loosening or an enrichment does not seem consequential and certainly should</text>
+<text top="337" left="108" width="564" height="18" font="6">not lead to two utterly different ways of treating the resultant concept.</text>
+<text top="334" left="673" width="6" height="11" font="11">4</text>
+<text top="408" left="108" width="491" height="18" font="7"><b>6 Economy of effort and enrichment/loosening symmetry</b></text>
+<text top="455" left="108" width="702" height="18" font="6">The considerations of the last two sections make quite a strong case, I think, for the</text>
+<text top="479" left="108" width="702" height="18" font="6">appearance of ad hoc concepts in the proposition expressed, whether the process that the</text>
+<text top="503" left="108" width="702" height="18" font="6">original lexical concept has undergone is one of strengthening/narrowing or</text>
+<text top="526" left="108" width="702" height="18" font="6">weakening/widening, or a combination of both. But the question that comes to mind now</text>
+<text top="550" left="108" width="702" height="18" font="6">is what is achieved by lodging the loosened ad hoc concept in the propositional form? Is</text>
+<text top="574" left="108" width="323" height="18" font="6">this just symmetry for symmetry's sake?</text>
+<text top="598" left="123" width="686" height="18" font="6">At this point I'd like to turn to some recent work by Anna Papafragou (see in particular</text>
+<text top="621" left="108" width="702" height="18" font="6">Papafragou 1995). Her main concern has been to give an account of metonymic</text>
+<text top="645" left="108" width="702" height="18" font="6">expressions, as in (22a), which are standardly used referentially,  but she also looks</text>
+<text top="643" left="647" width="6" height="11" font="11">5</text>
+<text top="669" left="108" width="702" height="18" font="6">briefly at metaphorical expressions used referentially (as opposed to the predicational</text>
+<text top="693" left="108" width="476" height="18" font="6">cases I've concentrated on so far), such as the one in (22b):</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">22</text>
+<text top="986" left="129" width="682" height="15" font="0">I follow here the relevance-theoretic position on definite descriptions developed by Rouchota</text>
+<text top="983" left="123" width="5" height="10" font="1">6</text>
+<text top="1005" left="108" width="702" height="15" font="0">(1992). She argues that both the referent of a referentially used definite description and the conceptual</text>
+<text top="1025" left="108" width="701" height="15" font="0">content of the description feature in the proposition expressed by the utterance and so affect the truth</text>
+<text top="1045" left="108" width="184" height="15" font="0">conditions of the utterance.</text>
+<text top="194" left="108" width="34" height="18" font="6">(22)</text>
+<text top="194" left="162" width="14" height="18" font="6">a.</text>
+<text top="194" left="216" width="264" height="18" font="6">The burgundy hat left in a hurry.</text>
+<text top="218" left="162" width="15" height="18" font="6">b.</text>
+<text top="218" left="216" width="269" height="18" font="6">The wilting violet has finally left.</text>
+<text top="265" left="108" width="700" height="18" font="6">Here the description 'the wilting violet' is being used to refer to a particular woman, let's</text>
+<text top="289" left="108" width="702" height="18" font="6">call her Jasmine Jones (JJ), known to both the speaker and the hearer. As Papafragou</text>
+<text top="313" left="108" width="702" height="18" font="6">says, our account of the interpretation of this utterance has to address the fact that part</text>
+<text top="337" left="108" width="702" height="18" font="6">of what is communicated at the explicit level is that the particular woman, JJ, has left, this</text>
+<text top="360" left="108" width="703" height="18" font="6">being just an instance of reference assignment, which is one of the subtasks involved in</text>
+<text top="384" left="108" width="702" height="18" font="6">arriving at the proposition expressed (on anyone's conception of the proposition</text>
+<text top="408" left="108" width="703" height="18" font="6">expressed). She proposes for this sort of case, as for metonymic cases, that the hearer</text>
+<text top="432" left="108" width="702" height="18" font="6">MUST construct an ad hoc concept from the encoded <i>wilting violet</i> concept in order to</text>
+<text top="455" left="108" width="702" height="18" font="6">derive the referent Jasmine Jones; that is, reference assignment proceeds via this concept</text>
+<text top="479" left="108" width="703" height="18" font="6">(of a certain sort of shy, retiring person, let us suppose) in whose extension JJ could be</text>
+<text top="503" left="108" width="702" height="18" font="6">reasonably supposed to fall. Although Papafragou does not say so, I assume that the final</text>
+<text top="527" left="108" width="702" height="18" font="6">propositional form of the utterance is something like (23), where the individuating (de re)</text>
+<text top="550" left="108" width="625" height="18" font="6">concept of JJ and the loosened descriptive concept <i>wilting violet</i> both appear:</text>
+<text top="548" left="733" width="6" height="11" font="11">6</text>
+<text top="598" left="108" width="33" height="18" font="6">(23)</text>
+<text top="598" left="162" width="272" height="18" font="6">JJ[wilting violet]* has finally left.</text>
+<text top="645" left="108" width="702" height="18" font="6">The ad hoc concept, like any concept in a referentially used definite description, gives</text>
+<text top="669" left="108" width="702" height="18" font="6">easy access through its encyclopedic entry to contextual assumptions: JJ is shy, reticent,</text>
+<text top="693" left="108" width="703" height="18" font="6">uncommunicative, delicate, sensitive, makes everyone feel uncomfortable, can't take</text>
+<text top="717" left="108" width="702" height="18" font="6">robust treatment, etc. These interact with the proposition expressed, shown in (23), to give</text>
+<text top="740" left="108" width="703" height="18" font="6">an array of effects: the speaker is relieved that JJ has gone, they can all relax now, they</text>
+<text top="764" left="108" width="218" height="18" font="6">can tell bad jokes now, etc.</text>
+<text top="788" left="123" width="687" height="18" font="6">Interestingly, Papafragou does not extend this treatment, in which the propositional</text>
+<text top="812" left="108" width="703" height="18" font="6">form registers the ad hoc concept, to cases of metaphorical predication, and her reason</text>
+<text top="836" left="108" width="702" height="18" font="6">for this is that it is not necessary to do so. The classical relevance theory account of these</text>
+<text top="859" left="108" width="702" height="18" font="6">cases works just fine: the propositional form with the literal encoded concept in it gives</text>
+<text top="883" left="108" width="702" height="18" font="6">the hearer easy access to all the intended implications (implicatures), the derivation of</text>
+<text top="907" left="108" width="703" height="18" font="6">which, after all, is what is required in order to arrive at the intended interpretation.</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">23</text>
+<text top="194" left="108" width="702" height="18" font="6">Predication is a means of ascribing a range of properties to a referent and these can</text>
+<text top="218" left="108" width="702" height="18" font="6">simply be read off the lexical concept without any intermediate step of setting up an ad</text>
+<text top="242" left="108" width="702" height="18" font="6">hoc concept. The underlying principle here seems to be: make only those moves, set up</text>
+<text top="265" left="108" width="702" height="18" font="6">only those representations, which are necessary in order to arrive at the intended</text>
+<text top="289" left="108" width="702" height="18" font="6">interpretation. If you can get there without setting up new conceptual addresses/labels</text>
+<text top="313" left="108" width="702" height="18" font="6">(which are generally going to be of an evanescent nature anyway) then don't set them up.</text>
+<text top="337" left="108" width="701" height="18" font="6">This seems entirely in keeping with the principle of relevance according to which we</text>
+<text top="360" left="108" width="692" height="18" font="6">expend as little processing effort as possible in deriving a satisfactory yield of effects.</text>
+<text top="384" left="123" width="687" height="18" font="6">Furthermore, as Deirdre Wilson has pointed out, there are cases of sustained metaphor</text>
+<text top="408" left="108" width="702" height="18" font="6">where it seems to be not only not necessary but probably impossible to build ad hoc</text>
+<text top="432" left="108" width="324" height="18" font="6">concepts into the proposition expressed:</text>
+<text top="479" left="108" width="34" height="18" font="6">(24)</text>
+<text top="479" left="162" width="14" height="18" font="6">a.</text>
+<text top="479" left="216" width="389" height="18" font="6">Love is the lighthouse and the rescued mariners.</text>
+<text top="503" left="216" width="242" height="18" font="6">(example from Oshar Davico)</text>
+<text top="527" left="162" width="15" height="18" font="6">b.</text>
+<text top="527" left="216" width="594" height="18" font="6">Life's but a walking shadow, a poor player that struts and frets his hour upon</text>
+<text top="550" left="216" width="317" height="18" font="6">the stage, and then is heard no more; ...</text>
+<text top="574" left="216" width="191" height="18" font="6">('MacBeth' V, v, 24-26)</text>
+<text top="622" left="108" width="702" height="18" font="6">Building in ad hoc concepts at the explicit level looks equally problematic for the</text>
+<text top="645" left="108" width="702" height="18" font="6">following examples which, while less poetic, involve whole sentences being used</text>
+<text top="669" left="108" width="126" height="18" font="6">metaphorically:</text>
+<text top="717" left="108" width="34" height="18" font="6">(25)</text>
+<text top="717" left="162" width="14" height="18" font="6">a.</text>
+<text top="717" left="216" width="276" height="18" font="6">The cracks are beginning to show.</text>
+<text top="740" left="162" width="15" height="18" font="6">b.</text>
+<text top="740" left="216" width="202" height="18" font="6">The lion is roaring again.</text>
+<text top="764" left="162" width="14" height="18" font="6">c.</text>
+<text top="764" left="216" width="594" height="18" font="6">The patient has yet to leave his sick-bed and take a few tottering steps in the</text>
+<text top="788" left="216" width="76" height="18" font="6">sunshine.</text>
+<text top="836" left="123" width="686" height="18" font="6">The treatments of metonymy and metaphor are different in certain crucial ways; after</text>
+<text top="859" left="108" width="702" height="18" font="6">all, there is not a relation of resemblance between the conceptual content of 'ham</text>
+<text top="883" left="108" width="702" height="18" font="6">sandwich' and 'person who ordered the ham sandwich' or 'burgundy hat' and 'woman</text>
+<text top="907" left="108" width="702" height="18" font="6">wearing the burgundy hat'. I won't look here at the interesting account of the</text>
+<text top="931" left="108" width="702" height="18" font="6">particularities of metonymy that Papafragou gives, but focus instead on the respects in</text>
+<text top="954" left="108" width="702" height="18" font="6">which the two phenomena behave the same. Consider the following pairs of examples, the</text>
+<text top="978" left="108" width="702" height="18" font="6">(a) cases involving metonymy and the (b) cases metaphor. The two pairs differ in that the</text>
+<text top="1002" left="108" width="702" height="18" font="6">figuratively used expressions are referential in (26) and predicative in (27) (examples</text>
+<text top="1026" left="108" width="250" height="18" font="6">from Papafragou 1995, p.149):</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">24</text>
+<text top="1045" left="129" width="644" height="15" font="0">This has been long recognised by philosophers of language; see, for example, Strawson (1974).</text>
+<text top="1042" left="123" width="5" height="10" font="1">7</text>
+<text top="194" left="108" width="34" height="18" font="6">(26)</text>
+<text top="194" left="162" width="14" height="18" font="6">a.</text>
+<text top="194" left="216" width="237" height="18" font="6">The pretty face just went out.</text>
+<text top="218" left="162" width="15" height="18" font="6">b.</text>
+<text top="218" left="216" width="234" height="18" font="6">The pretty doll just went out.</text>
+<text top="265" left="108" width="33" height="18" font="6">(27)</text>
+<text top="265" left="162" width="14" height="18" font="6">a.</text>
+<text top="265" left="215" width="189" height="18" font="6">Maria is a divine voice.</text>
+<text top="289" left="162" width="15" height="18" font="6">b.</text>
+<text top="289" left="216" width="181" height="18" font="6">Maria is a nightingale.</text>
+<text top="337" left="108" width="702" height="18" font="6">In both the metonymic and the metaphoric referring expressions in (26) an ad hoc concept</text>
+<text top="360" left="108" width="702" height="18" font="6">has to be constructed if the referent is to be located. Both involve kinds of interpretive use</text>
+<text top="384" left="108" width="702" height="18" font="6">of concepts through which the speaker gives a new name to an individual enabling both</text>
+<text top="408" left="108" width="702" height="18" font="6">reference assignment and, in many instances, particular cognitive effects. This is akin to</text>
+<text top="432" left="108" width="702" height="18" font="6">nicknaming and other spontaneous dubbings, as in 'Nosey has just left' and 'Prince</text>
+<text top="455" left="108" width="253" height="18" font="6">Charming is laying it on thick'. </text>
+<text top="479" left="123" width="687" height="18" font="6">In both the metonymic and the metaphoric predications in (27) it is not necessary to</text>
+<text top="503" left="108" width="702" height="18" font="6">construct a new concept: the properties whose predication of Maria the speaker endorses</text>
+<text top="527" left="108" width="702" height="18" font="6">can be accessed directly from stored information concerning divine voices and</text>
+<text top="550" left="108" width="702" height="18" font="6">nightingales (the choice constrained, of course, by relevance considerations). An array of</text>
+<text top="574" left="108" width="702" height="18" font="6">implicatures is thereby constructed and a fully propositional form at the explicit level</text>
+<text top="598" left="108" width="702" height="18" font="6">need never be entertained. The classical relevance theory account of loose use and</text>
+<text top="622" left="108" width="702" height="18" font="6">metaphor seems, after all, entirely satisfactory for these examples. However, another</text>
+<text top="645" left="108" width="702" height="18" font="6">asymmetry, that between referring and predicating,  has to be taken into account. When</text>
+<text top="643" left="516" width="6" height="11" font="11">7</text>
+<text top="669" left="108" width="702" height="18" font="6">it is, it seems that the classical story works well for the predicational cases while referring</text>
+<text top="693" left="108" width="701" height="18" font="6">by means of a figurative use requires a process of constructing an ad hoc concept which</text>
+<text top="717" left="108" width="301" height="18" font="6">enters into the proposition expressed.</text>
+<text top="740" left="123" width="686" height="18" font="6">Lastly, continuing to pursue symmetry in the accounts of the processes of enrichment</text>
+<text top="764" left="108" width="702" height="18" font="6">and loosening, this 'ad hoc concepts only when necessary' position has to be extended to</text>
+<text top="788" left="108" width="702" height="18" font="6">the enrichment cases. Recall that in the discussion in section 4, it was pointed out that</text>
+<text top="812" left="108" width="702" height="18" font="6">some enrichment cases COULD work the same way as the classic loosening account, e.g.</text>
+<text top="836" left="108" width="702" height="18" font="6">the <i>bachelor</i> case with its rich encyclopedic entry which includes certain assumptions</text>
+<text top="859" left="108" width="702" height="18" font="6">which cluster together to delimit a stereotype. So an utterance of 'John's a bachelor' in the</text>
+<text top="883" left="108" width="702" height="18" font="6">context of a discussion of Mary's desire to get married could implicate that John is</text>
+<text top="907" left="108" width="702" height="18" font="6">heterosexual, youngish, eligible for marriage, etc, without the setting up of a new</text>
+<text top="931" left="108" width="702" height="18" font="6">address/label for the narrowed ad hoc concept <i>bachelor'</i>. Other cases of enrichment could</text>
+<text top="954" left="108" width="702" height="18" font="6">NOT work this way; these are the linguistically encoded concepts that do not have much</text>
+<text top="978" left="108" width="537" height="18" font="6">encyclopedic information attached, such as 'some distance' in (2e).</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">25</text>
+<text top="906" left="129" width="681" height="15" font="0">Incorporating an ad hoc concept into the proposition expressed in such cases would in fact be an</text>
+<text top="903" left="123" width="5" height="10" font="1">8</text>
+<text top="926" left="108" width="702" height="15" font="0">'after the event' sort of move. It has been suggested to me (guess who by!) that the ad hoc concept</text>
+<text top="946" left="108" width="702" height="15" font="0">might be formed 'later' in this way, after the derivation of implicatures, when the hearer wants to</text>
+<text top="966" left="108" width="701" height="15" font="0">store what was communicated in a manageable form. This does indeed seem likely in some instances, but</text>
+<text top="986" left="108" width="702" height="15" font="0">it would not be a case of constructing an ad hoc concept in pursuit of an interpretation consistent with the</text>
+<text top="1005" left="108" width="702" height="15" font="0">second (communicative) principle of relevance. Rather, it would be a process which follows from the more</text>
+<text top="1025" left="108" width="701" height="15" font="0">general first principle of relevance alone, according to which all our cognitive activity, including memory</text>
+<text top="1045" left="108" width="366" height="15" font="0">organisation, is geared towards maximising relevance.</text>
+<text top="194" left="123" width="687" height="18" font="6">So there is a <b>third symmetry position</b> which deserves serious consideration: (a) SOME</text>
+<text top="218" left="108" width="702" height="18" font="6">cases of enrichment and SOME cases of loosening have to be built into the propositional</text>
+<text top="242" left="108" width="703" height="18" font="6">form of the utterance; a hearer/reader won't arrive at the intended interpretation if they</text>
+<text top="266" left="108" width="701" height="18" font="6">are not; (b) other cases do not need to appear in the propositional form of the utterance,</text>
+<text top="289" left="108" width="702" height="18" font="6">in that the intended interpretation can be derived without them (by an encyclopedic</text>
+<text top="313" left="108" width="702" height="18" font="6">sorting process), and therefore they should not be. This way of viewing the matter gives</text>
+<text top="337" left="108" width="702" height="18" font="6">processing effort primacy and meshes well with the quote in (10) in that (paraphrasing</text>
+<text top="361" left="108" width="702" height="18" font="6">and modifying the final sentence) 'a non-literal interpretation of the speaker's thought may</text>
+<text top="384" left="108" width="702" height="18" font="6">be better on some occasions than a strictly literal one', 'better' in the sense that, for those</text>
+<text top="408" left="108" width="702" height="18" font="6">cases where it is possible (the (b) cases) the hearer derives the intended interpretation</text>
+<text top="432" left="108" width="702" height="18" font="6">with less processing effort than it would take to first derive the propositional form of the</text>
+<text top="456" left="108" width="518" height="18" font="6">speaker's thought and then derive the intended effects from that.</text>
+<text top="453" left="625" width="6" height="11" font="11">8</text>
+<text top="479" left="123" width="687" height="18" font="6">Returning to the question at the beginning of this section, the idea that any departure</text>
+<text top="503" left="108" width="702" height="18" font="6">from the lexically encoded concept requires the building in of the new communicated</text>
+<text top="527" left="108" width="702" height="18" font="6">concept at the level of the proposition expressed might well be a case of symmetry for</text>
+<text top="551" left="108" width="702" height="18" font="6">symmetry's case and so be poorly motivated. The third symmetry position, on the other</text>
+<text top="575" left="108" width="702" height="18" font="6">hand, is grounded in fundamental facts about cognitive processing: we want effects, so</text>
+<text top="598" left="108" width="702" height="18" font="6">we are prepared to expend effort to get them, but we want them as cheaply as we can get</text>
+<text top="622" left="108" width="702" height="18" font="6">them, so we do just that work, build only those representations, that are necessary in order</text>
+<text top="646" left="108" width="132" height="18" font="6">to achieve them.</text>
+<text top="717" left="108" width="190" height="18" font="7"><b>7 Loose (but rich) end</b></text>
+<text top="764" left="108" width="702" height="18" font="6">What I have been calling the proposition expressed throughout this paper is an explicitly</text>
+<text top="788" left="108" width="702" height="18" font="6">communicated proposition which may have among its constituents non-lexicalised</text>
+<text top="812" left="108" width="702" height="18" font="6">concepts which have been pragmatically constructed out of the concepts encoded in the</text>
+<text top="836" left="108" width="702" height="18" font="6">logical form (or semantic representation) of the utterance. It is an explicature, in relevance</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">26</text>
+<text top="194" left="108" width="702" height="18" font="6">theory terms; it is a base level explicature as it does not involve any embedding into</text>
+<text top="218" left="108" width="702" height="18" font="6">assumption schemas such as 'the speaker believes that ...', 'the speaker says that ...' which</text>
+<text top="242" left="108" width="248" height="18" font="6">give higher-level explicatures. </text>
+<text top="265" left="123" width="687" height="18" font="6">It should be clear that this is a very different entity from the one that certain</text>
+<text top="289" left="108" width="702" height="18" font="6">philosophically oriented pragmatists refer to as 'the proposition strictly and literally</text>
+<text top="313" left="108" width="702" height="18" font="6">expressed'. The proposition strictly and literally expressed is how many people, including</text>
+<text top="337" left="108" width="702" height="18" font="6">Grice, I believe, characterise 'what is said' by an utterance; it is the minimal proposition</text>
+<text top="360" left="108" width="702" height="18" font="6">that can be constructed from the semantic representation of the utterance, something</text>
+<text top="384" left="108" width="702" height="18" font="6">which departs as little as possible from encoded content and yet which has a determinate</text>
+<text top="408" left="108" width="702" height="18" font="6">truth-condition. It is usually assumed that fixing the referents of referring expressions and</text>
+<text top="432" left="108" width="702" height="18" font="6">selecting among the senses of ambiguous linguistic expressions will be sufficient to</text>
+<text top="455" left="108" width="702" height="18" font="6">transform the logical form into something minimally propositional. However, there are</text>
+<text top="479" left="108" width="702" height="18" font="6">many uncertainties around, and reconstruals of, the concept of what is said: Wilson</text>
+<text top="503" left="108" width="702" height="18" font="6">(1995) discusses an equivocation in Grice's own use of the term, turning on whether</text>
+<text top="527" left="108" width="702" height="18" font="6">'saying' does or does not entail meaning/ communicating; Bach (1994a, 1994b) construes</text>
+<text top="550" left="108" width="702" height="18" font="6">the concept so that it does not entail speaker meaning (communicating) and need not even</text>
+<text top="574" left="108" width="702" height="18" font="6">be fully propositional (so as to accommodate phrasal utterances); on Recanati (1989,</text>
+<text top="598" left="108" width="702" height="18" font="6">1993)'s reconstrual it has become more or less equivalent to the concept of the proposition</text>
+<text top="622" left="108" width="702" height="18" font="6">expressed that I have been advocating in this paper and it would help to reduce</text>
+<text top="645" left="108" width="426" height="18" font="6">terminological confusion if he adopted another label.</text>
+<text top="669" left="123" width="687" height="18" font="6">Is there any role for a proposition literally and strictly expressed (a 'what is said') in the</text>
+<text top="693" left="108" width="701" height="18" font="6">account of utterance interpretation that I have been setting out here? If there is, I am</text>
+<text top="717" left="108" width="702" height="18" font="6">unable to see what it is. Language users' intuitions seem to discriminate quite readily</text>
+<text top="740" left="108" width="702" height="18" font="6">between explicature and implicature and not between what is (strictly and literally) said</text>
+<text top="764" left="108" width="702" height="18" font="6">and explicature (see Recanati 1989; Gibbs &amp; Moise 1996). There is no evidence that they</text>
+<text top="788" left="108" width="702" height="18" font="6">naturally (pre-theoretically) pick out a level of minimal propositionality, though with the</text>
+<text top="812" left="108" width="701" height="18" font="6">requisite (philosophical) training they can learn to do so. However, these intuition tests</text>
+<text top="836" left="108" width="702" height="18" font="6">all used examples in which the explicatures concerned contain conceptual enrichments</text>
+<text top="859" left="108" width="703" height="18" font="6">only; so far such tests have not been run on utterances involving loose use. My guess is</text>
+<text top="883" left="108" width="702" height="18" font="6">that the results here would be less clearcut but not because there is an extra level of</text>
+<text top="907" left="108" width="702" height="18" font="6">minimal propositionality. We have fairly strong intuitions about what the words of our</text>
+<text top="931" left="108" width="702" height="18" font="6">language refer to so competent speakers of the language will generally agree, for example,</text>
+<text top="954" left="108" width="702" height="18" font="6">that 'hexagonal' refers to the property of being 'six-sided', 'raw' is a property of things that</text>
+<text top="978" left="108" width="701" height="18" font="6">have never been cooked, 'lion' refers to a certain biological species, etc. Asked whether</text>
+<text top="1002" left="108" width="702" height="18" font="6">it is true or false that France is hexagonal or whether John, who everyone agrees has</text>
+<text top="1026" left="108" width="700" height="18" font="6">behaved bravely and nobly, is a lion, some people (I predict) would say 'true' and some</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">27</text>
+<text top="194" left="108" width="702" height="18" font="6">would say 'false'. I don't think this would be because they have different views on the</text>
+<text top="218" left="108" width="701" height="18" font="6">shape of France or on John's character, but rather their responses would be grounded in</text>
+<text top="242" left="108" width="702" height="18" font="6">intuitions coming from distinct sources; the 'true'-sayers would be considering the</text>
+<text top="265" left="108" width="703" height="18" font="6">proposition they take the speaker to be expressing and endorsing, while the 'false'-sayers</text>
+<text top="289" left="108" width="703" height="18" font="6">would be tapping their knowledge of linguistic meaning, the literal encoded conceptual</text>
+<text top="313" left="108" width="703" height="18" font="6">content of the utterance. The split in responses would be caused by the inescapable fact</text>
+<text top="337" left="108" width="702" height="18" font="6">that with loose use some element of the core linguistic meaning is lost, while with</text>
+<text top="360" left="108" width="702" height="18" font="6">enrichment linguistic meaning is simply augmented so that when the enriched concept is</text>
+<text top="384" left="108" width="433" height="18" font="6">true of a referent so is the unenriched lexical concept.</text>
+<text top="408" left="123" width="687" height="18" font="6">Intuitions aside, it is difficult to see what a level of minimal propositionality would be</text>
+<text top="432" left="108" width="702" height="18" font="6">for, given linguistic meaning (logical form), on the one hand, and the basic explicature,</text>
+<text top="455" left="108" width="702" height="18" font="6">on the other hand. More generally, a theory of utterance interpretation has to acknowledge</text>
+<text top="479" left="108" width="701" height="18" font="6">two quite distinct sorts of things: (a) linguistic content, which is not communicated; it is</text>
+<text top="503" left="108" width="702" height="18" font="6">not the sort of thing that can be communicated, but is rather a vehicle for communicating</text>
+<text top="527" left="108" width="702" height="18" font="6">(some might say, a function from contexts to propositions), and (b) what is</text>
+<text top="550" left="108" width="573" height="18" font="6">communicated, which is a set of assumptions with propositional forms.</text>
+<text top="574" left="123" width="688" height="18" font="6">The set of communicated assumptions can be partitioned into explicatures and</text>
+<text top="598" left="108" width="702" height="18" font="6">implicatures, but this is not a distinction which is of great importance for a hearer, at least</text>
+<text top="622" left="108" width="702" height="18" font="6">if it is viewed as a representational distinction which is supposed to have some impact on</text>
+<text top="645" left="108" width="702" height="18" font="6">the way he views the set of communicated assumptions. It is really no more than a</text>
+<text top="670" left="108" width="702" height="18" font="6">reflection of the undoubted fact that there are two ways of <b>deriving</b> communicated</text>
+<text top="693" left="108" width="702" height="18" font="6">assumptions: (a) developing the linguistically encoded logical form (semantic</text>
+<text top="717" left="108" width="702" height="18" font="6">representation) and (b) inferring whole new assumptions. What does play an important</text>
+<text top="741" left="108" width="701" height="18" font="6">role in the final interpretation of the utterance is the strength with which individual</text>
+<text top="765" left="108" width="702" height="18" font="6">assumptions in the set have been communicated; a hearer has to register the relative</text>
+<text top="788" left="108" width="702" height="18" font="6">degree of backing the speaker gives to any derived assumption if he is to arrive at the</text>
+<text top="812" left="108" width="189" height="18" font="6">intended interpretation.</text>
+<text top="836" left="123" width="687" height="18" font="6">Implicatures may be communicated relatively strongly or relatively weakly (see Sperber</text>
+<text top="860" left="108" width="701" height="18" font="6">&amp; Wilson 1986/1995, chapter 4); a strongly communicated implicature is one whose</text>
+<text top="883" left="108" width="702" height="18" font="6">particular propositional form is a member of the set I, the assumptions which fall within</text>
+<text top="907" left="108" width="702" height="18" font="6">the speaker's communicative intention; a weakly communicated implicature is one whose</text>
+<text top="931" left="108" width="702" height="18" font="6">particular propositional form does not fall in the set I but which is one of a range of</text>
+<text top="955" left="108" width="701" height="18" font="6">possible propositional forms falling under a more abstract and general propositional</text>
+<text top="978" left="108" width="703" height="18" font="6">schema that falls within the set I. As Grice originally pointed out, the implicatures of an</text>
+<text top="1002" left="108" width="702" height="18" font="6">utterance are often indeterminate. A speaker encourages exploration in a certain</text>
+<text top="1026" left="108" width="703" height="18" font="6">conceptual region but the hearer bears the main responsibility for the particular</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">28</text>
+<text top="1005" left="130" width="681" height="15" font="0">In fact the idea that the concept of weak communication might be extended to explicatures has</text>
+<text top="1002" left="123" width="5" height="10" font="1">9</text>
+<text top="1025" left="108" width="702" height="15" font="0">been proposed before, by Gurkan Dogan (1992), as a result of his analyses of poems in which</text>
+<text top="1045" left="108" width="556" height="15" font="0">reference assignment indeterminacies were clearly intended by the author/speaker.</text>
+<text top="194" left="108" width="702" height="18" font="6">propositional forms within this region that he constructs. The metaphorical types of loose</text>
+<text top="218" left="108" width="702" height="18" font="6">use typically give rise to a range of weakish implicatures; the more creative or unusual the</text>
+<text top="242" left="108" width="701" height="18" font="6">metaphor the wider the range of possibilities and the weaker the speaker's endorsement</text>
+<text top="265" left="108" width="369" height="18" font="6">of any specific implicated propositional form.</text>
+<text top="289" left="123" width="687" height="18" font="6">The strong/weak continuum has not generally been applied to explicatures  but if either</text>
+<text top="287" left="705" width="6" height="11" font="11">9</text>
+<text top="313" left="108" width="702" height="18" font="6">of the symmetry positions considered above turns out to be correct, in which ad hoc</text>
+<text top="337" left="108" width="703" height="18" font="6">concepts resulting from loosening of linguistic content contribute to the proposition</text>
+<text top="360" left="108" width="701" height="18" font="6">expressed (basic explicature), the property of indeterminacy will have to be extended to</text>
+<text top="384" left="108" width="702" height="18" font="6">explicatures as well. Just exactly what concept is the hearer of (16a) 'Bill is a bulldozer'</text>
+<text top="408" left="108" width="702" height="18" font="6">expected to construct out of the lexical concept <i>bulldozer</i>? The construction process is</text>
+<text top="432" left="108" width="702" height="18" font="6">constrained by the information stored in the individual hearer's encyclopedic entry for</text>
+<text top="455" left="108" width="702" height="18" font="9"><i>bulldozer</i> and by his bid for an interpretation consistent with optimal relevance. But this</text>
+<text top="479" left="108" width="702" height="18" font="6">leaves a degree of leeway so that the ad hoc concept actually constructed is to that degree</text>
+<text top="503" left="108" width="702" height="18" font="6">the hearer's responsibility. The ad hoc concept intended in more creative cases is more</text>
+<text top="527" left="108" width="702" height="18" font="6">indeterminate, leaves more to the hearer, and so the concept which he does build receives</text>
+<text top="550" left="108" width="701" height="18" font="6">less endorsement from the speaker, is less strongly communicated. This is essentially</text>
+<text top="574" left="108" width="702" height="18" font="6">parallel to the indeterminacy of implicatures. Explicatures are communicated with varying</text>
+<text top="598" left="108" width="702" height="18" font="6">degrees of strength; a conceptual range is endorsed by the speaker without any specific</text>
+<text top="622" left="108" width="702" height="18" font="6">concept in that range being given full endorsement. Different hearers construct different</text>
+<text top="645" left="108" width="702" height="18" font="6">possible ad hoc concepts within this range, just as different hearers construct different</text>
+<text top="669" left="108" width="555" height="18" font="6">implicatures within the propositional range endorsed by the speaker. </text>
+<text top="693" left="123" width="687" height="18" font="6">On the third symmetry position where the ad hoc concept is incorporated into the</text>
+<text top="717" left="108" width="702" height="18" font="6">proposition expressed only if it is necessary for the derivation of effects there will be</text>
+<text top="740" left="108" width="702" height="18" font="6">cases where there simply is no complete proposition expressed by the speaker or</text>
+<text top="764" left="108" width="702" height="18" font="6">constructed by the hearer. For instance, from the logical form of 'Bill is a bulldozer' or</text>
+<text top="788" left="108" width="702" height="18" font="6">indeed of 'Bill is a bachelor' (that is, an enrichment case) a propositional schema with</text>
+<text top="812" left="108" width="287" height="18" font="6">reference assigned may be formed: </text>
+<text top="859" left="108" width="34" height="18" font="6">(28)</text>
+<text top="859" left="162" width="121" height="18" font="6">Bill  is [         ]</text>
+<text top="869" left="191" width="9" height="11" font="11">X</text>
+<text top="907" left="108" width="702" height="18" font="6">on the basis of which implicatures, endorsed to varying degrees by the speaker's use of</text>
+<text top="931" left="108" width="702" height="18" font="6">the lexical item 'bulldozer' or 'bachelor', are derived by the hearer. If this, as yet very</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="550" width="181" height="15" font="8"><i>Enrichment and loosening</i></text>
+<text top="132" left="792" width="18" height="16" font="3">29</text>
+<text top="194" left="108" width="702" height="18" font="6">roughly sketched, picture turns out to be viable it may require some further technical</text>
+<text top="218" left="108" width="702" height="18" font="6">changes, for instance, to the way in which contextual/cognitive effects are defined. It</text>
+<text top="242" left="108" width="356" height="18" font="6">would be premature to pursue that line here.</text>
+<text top="337" left="108" width="94" height="18" font="7"><b>References</b></text>
+<text top="383" left="108" width="407" height="15" font="0">Atlas, J. 1992. Why 'three' doesn't mean 3. Unpublished ms.</text>
+<text top="403" left="108" width="702" height="15" font="0">Bach, K. 1994a. Semantic slack: what is said and more. In S. Tsohatzidis (ed.) <i>Foundations of Speech Act</i></text>
+<text top="423" left="123" width="660" height="15" font="8"><i>Theory: Philosophical and Linguistic Perspectives</i>. 267-291. London and New York: Routledge.</text>
+<text top="442" left="108" width="518" height="15" font="0">Bach, K. 1994b. Conversational impliciture. <i>Mind and Language</i> 9, 124-62.</text>
+<text top="462" left="108" width="702" height="15" font="0">Carston, R. 1988. Implicature, explicature and truth-theoretic semantics. In R. Kempson (ed.) <i>Mental</i></text>
+<text top="482" left="123" width="687" height="15" font="8"><i>Representations: the Interface between Language and Reality</i>, 155-81. Cambridge: Cambridge</text>
+<text top="502" left="123" width="687" height="15" font="0">University Press. Reprinted in Davis, S. (ed.) 1991. <i>Pragmatics: A Reader</i>, 33-51. Oxford University</text>
+<text top="522" left="123" width="40" height="15" font="0">Press.</text>
+<text top="541" left="108" width="702" height="15" font="0">Carston, R. 1990. Quantity maxims and generalised implicature. <i>UCL Working Papers in Linguistics</i> 2,</text>
+<text top="561" left="123" width="349" height="15" font="0">1-31. Revised version 1995 in <i>Lingua</i> 96, 213-244.</text>
+<text top="581" left="108" width="523" height="15" font="0">Carston, R. 1993. Conjunction, explanation and relevance. <i>Lingua</i> 90, 27-48.</text>
+<text top="601" left="108" width="645" height="15" font="0">Carston, R. 1996. Metalinguistic negation and echoic use. <i>Journal of Pragmatics</i> 25, 309-330. </text>
+<text top="621" left="108" width="702" height="15" font="0">Dogan, G. 1992. The pragmatics of indeterminacy and indirectness of meaning: a relevance-theoretic</text>
+<text top="640" left="123" width="602" height="15" font="0">approach to epigrams and graffiti in Turkish. PhD dissertation, University of Manchester.</text>
+<text top="660" left="108" width="473" height="15" font="0">Flieger, J. 1996. Metaphor and categorization. Seminar paper, SOAS.</text>
+<text top="680" left="108" width="620" height="15" font="0">Gibbs, R. &amp; Moise, J. 1996/to appear. Pragmatics in understanding what is said. <i>Cognition</i>.</text>
+<text top="700" left="108" width="702" height="15" font="0">Grice, H.P. 1978. Further notes on logic and conversation. <i>Syntax and Semantics: Pragmatics</i> 9, 113-127.</text>
+<text top="720" left="123" width="113" height="15" font="0">Academic Press.</text>
+<text top="739" left="108" width="596" height="15" font="0">Horn, L. 1985. Metalinguistic negation and pragmatic ambiguity. <i>Language</i> 61, 121-74.</text>
+<text top="759" left="108" width="513" height="15" font="0">Horn, L. 1989. <i>A Natural History of Negation</i>. University of Chicago Press.</text>
+<text top="779" left="108" width="600" height="15" font="0">Ifantidou, E. 1994. Parentheticals and relevance. PhD thesis, University College London.</text>
+<text top="799" left="108" width="661" height="15" font="0">Papafragou, A. 1995. Metonymy and relevance. <i>UCL Working Papers in Linguistics</i> 7, 141-175. </text>
+<text top="819" left="108" width="702" height="15" font="0">Papafragou, A. 1996/forthcoming. Figurative language and the semantics/pragmatics interface. <i>Language</i></text>
+<text top="838" left="123" width="103" height="15" font="8"><i>and Literature</i>.</text>
+<text top="858" left="108" width="673" height="15" font="0">Reboul, A. 1989. Relevance and argumentation: how bald can you get? <i>Argumentation</i> 3, 285-302.</text>
+<text top="878" left="108" width="702" height="15" font="0">Recanati, F. 1993. Truth-conditional pragmatics. In Recanati, F. <i>Direct Reference: From Language to</i></text>
+<text top="898" left="123" width="195" height="15" font="8"><i>Thought</i>. Oxford: Blackwell.</text>
+<text top="918" left="108" width="559" height="15" font="0">Recanti, F. 1989. The pragmatics of what is said. <i>Mind and Language</i> 4, 295-329.</text>
+<text top="937" left="108" width="608" height="15" font="0">Recanati, F. 1995. The alleged priority of literal meaning. <i>Cognitive Science</i> 19, 207-232.</text>
+<text top="957" left="108" width="554" height="15" font="0">Rouchota, V. 1992. On the referential/attributive distinction. <i>Lingua</i> 87, 137-167.</text>
+<text top="977" left="108" width="702" height="15" font="0">Sperber, D. &amp; Wilson, D. 1985/6. Loose talk. <i>Proceedings of the Aristotelian Society</i> LXXXVI, 153-71.</text>
+<text top="997" left="108" width="618" height="15" font="0">Sperber, D. 1989. Concepts and fuzziness. Talk at the Relevance Theory Workshop, Essex.</text>
+<text top="1017" left="108" width="651" height="15" font="0">Sperber, D. &amp; Wilson, D. 1986. <i>Relevance: Communication and Cognition</i>. Oxford: Blackwell.</text>
+<text top="1036" left="108" width="651" height="15" font="0">Sperber, D. &amp; Wilson, D. 1995. <i>Relevance: Communication and Cognition</i>. Oxford: Blackwell.</text>
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="103" height="15" font="8"><i>Robyn Carston</i></text>
+<text top="132" left="108" width="18" height="16" font="3">30</text>
+<text top="193" left="108" width="573" height="15" font="0">Sperber, D. &amp; Wilson, D. forthcoming. <i>Relevance and Meaning</i>. Oxford: Blackwell.</text>
+<text top="213" left="108" width="580" height="15" font="0">Strawson, P. 1974. <i>Subject and Predicate in Logic and Grammar</i>. London: Methuen.</text>
+<text top="233" left="108" width="424" height="15" font="0">Wilson, D. 1993/4. Philosophy of Language lectures. UCL ms.</text>
+<text top="253" left="108" width="675" height="15" font="0">Wilson, D. 1995. Is there a maxim of truthfulness? <i>UCL Working Papers in Linguistics</i> 7, 197-212.</text>
+<text top="273" left="108" width="702" height="15" font="0">Wilson, D. &amp; Sperber, D. 1981. On Grice's theory of conversation. In Werth, P. (ed.) <i>Conversation and</i></text>
+<text top="292" left="123" width="298" height="15" font="8"><i>Discourse</i>, 155-179. London: Croom Helm.</text>
+<text top="312" left="108" width="691" height="15" font="0">Wilson, D &amp; Sperber, D. 1993. Pragmatics and time. <i>UCL Working Papers in Linguistics</i> 5, 277-298.</text>
+</page>
+</pdf2xml>

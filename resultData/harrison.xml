@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+<text top="986" left="130" width="681" height="15" font="0">Many thanks to John Harris for his helpful comments on an earlier version of this paper. Thanks</text>
+<text top="981" left="123" width="6" height="11" font="1">*</text>
+<text top="1005" left="108" width="702" height="15" font="0">also to Mark Huckvale, Steve Nevard and Andrew Simpson for their assistance with different aspects</text>
+<text top="1025" left="108" width="702" height="15" font="0">of the implementation of 'real' experiments. A very big thank-you is also due to Akin Oyetáde for</text>
+<text top="1045" left="108" width="672" height="15" font="0">his cooperation in the production of the Yoruba tokens and their subsequent use in perception tests.</text>
+<text top="132" left="108" width="365" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 8 (1996)</text>
+<text top="184" left="108" width="366" height="32" font="4"><i><b>An experiment with tone</b></i></text>
+<text top="180" left="474" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="269" left="108" width="151" height="18" font="3">PHIL HARRISON</text>
+<text top="341" left="162" width="75" height="18" font="6"><b>Abstract</b></text>
+<text top="387" left="162" width="594" height="15" font="0">It has been previously claimed that identical phonological objects are componential in</text>
+<text top="407" left="162" width="594" height="15" font="0">phonation contrasts and lexical tone. It has also been shown that infants perceive language-</text>
+<text top="427" left="162" width="594" height="15" font="0">specific phonation contrasts. We here investigate the perception of lexical tone by an adult</text>
+<text top="446" left="162" width="594" height="15" font="0">speaker of Yoruba to allow us to both design stimuli and form hypotheses for infant</text>
+<text top="466" left="162" width="594" height="15" font="0">testing. Two important theoretical points are discussed: firstly, that prosody and melody,</text>
+<text top="486" left="162" width="594" height="15" font="0">which remain independent throughout adult life, must undergo separate developments; and</text>
+<text top="506" left="162" width="594" height="15" font="0">secondly,  that the insertion of identical melodic material into different structural</text>
+<text top="526" left="162" width="346" height="15" font="0">architecture may lead to different phonetic outputs.</text>
+<text top="594" left="108" width="125" height="18" font="6"><b>1 Introduction</b></text>
+<text top="641" left="108" width="702" height="18" font="3">Learnability is a perennially important issue for any grammatical model, and this applies</text>
+<text top="665" left="108" width="702" height="18" font="3">to phonological acquisition no less than it does to any other aspect of a grammar. The aim</text>
+<text top="688" left="108" width="702" height="18" font="3">of the following discussion is to bring into focus one potentially profitable area of enquiry</text>
+<text top="712" left="108" width="702" height="18" font="3">into the acquisition of phonology in the first year of life. The phonetic literature abounds</text>
+<text top="736" left="108" width="702" height="18" font="3">with tales of infant precocity. The perception of some phonation contrasts is present by</text>
+<text top="760" left="108" width="702" height="18" font="3">one month of age (Eimas <i>et al.</i> 1971), and Kuhl (1992) indicates that language-specific</text>
+<text top="783" left="108" width="702" height="18" font="3">prototypes for vowel perception have developed by the age of six months. On the prosodic</text>
+<text top="807" left="108" width="703" height="18" font="3">front, Mehler <i>et al.</i> (1988) show that a child at the age of four days can distinguish its</text>
+<text top="831" left="108" width="702" height="18" font="3">native language from timing and intonation cues alone. Though more and more 'phonetic'</text>
+<text top="855" left="108" width="702" height="18" font="3">talents may continue to be ascribed to younger and younger children, neither a</text>
+<text top="878" left="108" width="702" height="18" font="3">psychologist nor a linguist would want to limit the investigation to the depiction of these</text>
+<text top="902" left="108" width="701" height="18" font="3">abilities. In a recent review article on progress in research in different areas of infant</text>
+<text top="926" left="108" width="702" height="18" font="3">cognition, Karmiloff-Smith is right to remind us that '...we need to know not merely</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="10" height="18" font="3">2</text>
+<text top="194" left="108" width="702" height="18" font="3">whether such abilities are present, but how they are possible and what cognitive processes</text>
+<text top="218" left="108" width="371" height="18" font="3">are involved' (Karmiloff-Smith 1995 p. 1307).</text>
+<text top="242" left="123" width="687" height="18" font="3">One obvious investigative strategy to employ in our search for the nature of these</text>
+<text top="265" left="108" width="702" height="18" font="3">cognitive processes is to use the insights we already possess into adult mentation and seek</text>
+<text top="289" left="108" width="702" height="18" font="3">evidence for these same processes in infancy. In this paper, we discuss some advances in</text>
+<text top="313" left="108" width="703" height="18" font="3">the means of representing those phonological significances which have phonation and</text>
+<text top="337" left="108" width="702" height="18" font="3">tone as their phonetic expressions (section 3), then following an investigation into the</text>
+<text top="360" left="108" width="702" height="18" font="3">perceptual routine for lexical tone discrimination (section 4) we outline the predictions</text>
+<text top="384" left="108" width="702" height="18" font="3">which are made by the results of this investigation about the mapping between infant</text>
+<text top="408" left="108" width="702" height="18" font="3">phonetic perception and infant phonological development (section 5). We finish, in</text>
+<text top="432" left="108" width="702" height="18" font="3">section 6, with some speculation about the universality of our account. However, since</text>
+<text top="455" left="108" width="701" height="18" font="3">it becomes crucial to our argument that separate structures in the phonology undergo</text>
+<text top="479" left="108" width="702" height="18" font="3">separate developments, and that the interaction of these structures may affect phonetic</text>
+<text top="503" left="108" width="702" height="18" font="3">expression, it is worth our while first of all to support the notion that these structures</text>
+<text top="527" left="108" width="426" height="18" font="3">remain phonologically discrete in the mature system.</text>
+<text top="598" left="108" width="334" height="18" font="6"><b>2 Phonology as two interactive systems</b></text>
+<text top="645" left="108" width="702" height="18" font="3">I argued in Harrison (1995) that there is no logical reason to disallow the proposal that the</text>
+<text top="669" left="108" width="702" height="18" font="3">acquisition of any part of a phonological system can be chronologically independent of</text>
+<text top="693" left="108" width="702" height="18" font="3">the acquisition of any other modular component of the grammar, as long as we include</text>
+<text top="716" left="108" width="702" height="18" font="3">certain assumptions in our theoretical model. The chief of these assumptions, detailed in</text>
+<text top="740" left="108" width="694" height="18" font="3">Kaye, Lowenstamm &amp; Vergnaud (1985 &amp; 1990) and Harris (1994) among others, are:</text>
+<text top="788" left="123" width="12" height="18" font="3">i)</text>
+<text top="788" left="162" width="648" height="18" font="3">melodic primes can be represented as individually phonetically realisable abstracts</text>
+<text top="811" left="162" width="120" height="18" font="3">(elements) and</text>
+<text top="835" left="123" width="18" height="18" font="3">ii)</text>
+<text top="835" left="162" width="648" height="18" font="3">that these are independent of prosodic structure, with which they interact via</text>
+<text top="859" left="162" width="363" height="18" font="3">relationships expressed in terms of licensing.</text>
+<text top="906" left="123" width="687" height="18" font="3">Indeed, by adopting this theoretical position, we render the phrase 'acquisition of</text>
+<text top="930" left="108" width="702" height="18" font="3">phonology' meaningless. If the mature system is represented as two interactive subsystems</text>
+<text top="954" left="108" width="702" height="18" font="3">which remain independent, then we have no <i>option</i> but to propose that they are acquired</text>
+<text top="978" left="108" width="702" height="18" font="3">separately. The alternative to this proposal is that they are acquired as one and</text>
+<text top="1001" left="108" width="702" height="18" font="3">differentiate later in life. Such an alternative would take some defending, and would</text>
+<text top="1025" left="108" width="702" height="18" font="3">require a general account of how it is possible to devolve two linguistic structural systems</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="800" width="10" height="18" font="3">3</text>
+<text top="194" left="108" width="701" height="18" font="3">from one supersystem. For example, the need to characterise an interface between</text>
+<text top="218" left="108" width="702" height="18" font="3">morphosyntax and phonology is evident from the independence of morphosyntactic and</text>
+<text top="242" left="108" width="701" height="18" font="3">phonological categories. One instance of this independence, taken from several cited in</text>
+<text top="265" left="108" width="702" height="18" font="3">Spencer (1991 pp.42-43), is found in the assignment of stress in Czech. In this language,</text>
+<text top="289" left="108" width="702" height="18" font="3">stress falls on the first syllable of a word. In the case of a monosyllabic preposition</text>
+<text top="313" left="108" width="702" height="18" font="3">preceding a noun, though, stress is attracted by the preposition. If we use this part of the</text>
+<text top="337" left="108" width="702" height="18" font="3">phonology to define the word boundaries, we deliver up the unlikely hypothesis that &lt;na</text>
+<text top="361" left="108" width="702" height="18" font="3">ten  <b>stul</b>&gt; ('onto that table') is three words, and &lt;<b>na</b> stul&gt; ('onto the/a table') is one.</text>
+<text top="384" left="108" width="702" height="18" font="3">Explaining the <i>nature</i> of the interface between the two systems has of course been the</text>
+<text top="408" left="108" width="702" height="18" font="3">subject of a good deal of scholarly endeavour, but its existence, in some form, is not in</text>
+<text top="432" left="108" width="63" height="18" font="3">dispute.</text>
+<text top="456" left="123" width="687" height="18" font="3">So it is with our phonological model. While it has been convincingly proposed that</text>
+<text top="479" left="108" width="702" height="18" font="3">within a single system simplex structures may bifurcate (for instance, in the acquisition</text>
+<text top="503" left="108" width="702" height="18" font="3">of branching onsets), and while some form of combinability is germane to the account</text>
+<text top="527" left="108" width="702" height="18" font="3">(for instance, in the characterisation of vocalic primes), the notion of prising apart two</text>
+<text top="551" left="108" width="635" height="18" font="3">discrete systems in the course of acquisition seems to me entirely indefensible.</text>
+<text top="575" left="123" width="687" height="18" font="3">It is therefore our initial aim to review the uncontroversial notion that melody and</text>
+<text top="598" left="108" width="702" height="18" font="3">prosody exhibit independence in adult language. We now briefly recapitulate some</text>
+<text top="622" left="108" width="703" height="18" font="3">examples of the evidence for this assertion, and note that such evidence is drawn from</text>
+<text top="646" left="108" width="703" height="18" font="3">three entirely independent data sources, and used to account for three entirely separate</text>
+<text top="670" left="108" width="171" height="18" font="3">facts about language.</text>
+<text top="693" left="123" width="687" height="18" font="3">Firstly, Levelt (1992) takes the indications derived from spoonerisms, using these</text>
+<text top="717" left="108" width="702" height="18" font="3">primarily to support the notion that the word-frames that are built in processing are</text>
+<text top="741" left="108" width="702" height="18" font="3">phonological, and not lexical, in character. Thus (p.16) the utterance <i>peel like flaying</i> (for</text>
+<text top="765" left="108" width="702" height="18" font="2"><i>feel like playing</i>) does not involve an exchange of consonants across the intervening word</text>
+<text top="788" left="108" width="702" height="18" font="3">'<i>like</i>', but the swapping of the melodic content of the onsets of two adjacent phonological</text>
+<text top="812" left="108" width="702" height="18" font="3">words [ feelike ] and [ playing ]. So far, this gives credence to the characterisation of</text>
+<text top="836" left="108" width="703" height="18" font="3">syllabification as an independent process whereby melody is accommodated within an</text>
+<text top="860" left="108" width="210" height="18" font="3">extant prosodic structure. </text>
+<text top="883" left="123" width="687" height="18" font="3">Levelt does point out that this neat modular account has been challenged, since there</text>
+<text top="907" left="108" width="702" height="18" font="3">is robust evidence for a certain amount of lexical interference in phonological encoding:</text>
+<text top="931" left="108" width="702" height="18" font="3">selection errors and encoding errors are not entirely independent (Dell &amp; Reich 1981) and</text>
+<text top="955" left="108" width="702" height="18" font="3">real words (as opposed to nonsense) are created by encoding errors more often than</text>
+<text top="978" left="108" width="702" height="18" font="3">predicted by chance (Stemburger 1983, and others). But any misgivings about this type</text>
+<text top="1002" left="108" width="702" height="18" font="3">of evidence being indicative of a <i>purely</i> modular phonology in no way undermine its</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="20" family="Times" color="#000000"/>
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="10" height="18" font="3">4</text>
+<text top="194" left="108" width="701" height="18" font="3">usefulness in underlining the discrete nature of prosodic and melodic representations</text>
+<text top="218" left="108" width="290" height="18" font="3">within the phonological component.</text>
+<text top="242" left="123" width="687" height="18" font="3">Our second example, drawn from Harris (1994 p.35), is of a diachronic change in</text>
+<text top="265" left="108" width="702" height="18" font="3">English. A productive transition in phonetic realisation has taken place over time, and this</text>
+<text top="289" left="108" width="169" height="18" font="3">is exemplified in (1):</text>
+<text top="337" left="108" width="24" height="18" font="3">(1)</text>
+<text top="369" left="251" width="79" height="18" font="3">STAGE 1</text>
+<text top="369" left="363" width="79" height="18" font="3">STAGE 2</text>
+<text top="369" left="476" width="79" height="18" font="3">STAGE 3</text>
+<text top="369" left="607" width="42" height="18" font="2"><i>gloss</i></text>
+<text top="400" left="272" width="35" height="26" font="8">nIxt</text>
+<text top="400" left="388" width="29" height="26" font="8">ni:t</text>
+<text top="400" left="498" width="34" height="26" font="8">naIt</text>
+<text top="406" left="604" width="47" height="18" font="3">'night'</text>
+<text top="438" left="274" width="32" height="26" font="8">rIxt</text>
+<text top="438" left="390" width="26" height="26" font="8">ri:t</text>
+<text top="438" left="500" width="31" height="26" font="8">raIt</text>
+<text top="444" left="606" width="44" height="18" font="3">'right'</text>
+<text top="476" left="269" width="43" height="26" font="8">wext</text>
+<text top="476" left="384" width="37" height="26" font="8">we:t</text>
+<text top="476" left="496" width="39" height="26" font="8">weIt</text>
+<text top="482" left="598" width="60" height="18" font="3">'weight'</text>
+<text top="535" left="123" width="687" height="18" font="3">The change between stage one and stage two is not simple fricative loss: the number of</text>
+<text top="558" left="108" width="702" height="18" font="3">syllabic positions remains constant, and an instantiation of the widely attested process of</text>
+<text top="582" left="108" width="702" height="18" font="3">compensatory lengthening means that the prosodic structure remains inviolate.</text>
+<text top="606" left="108" width="702" height="18" font="3">Compensatory lengthening is formalised by Harris and others as a two-step procedure,</text>
+<text top="630" left="108" width="702" height="18" font="3">involving first the delinking of a skeletal point, and second the relinking of that point to</text>
+<text top="653" left="108" width="702" height="18" font="3">vocalic material. The relevance of these procedures to the present discussion is that</text>
+<text top="677" left="108" width="702" height="18" font="3">neither of these steps involves the prosodic structure in any way, but confine their</text>
+<text top="701" left="108" width="282" height="18" font="3">attentions to subsegmental objects.</text>
+<text top="725" left="123" width="687" height="18" font="3">The mirror image of this argument is to be found in our third piece of evidence for the</text>
+<text top="748" left="108" width="702" height="18" font="3">independence of prosody and melody. Certain phonological constraints can be shown to</text>
+<text top="772" left="108" width="468" height="18" font="3">ignore melodic material, and speak merely to the prosody.</text>
+<text top="796" left="123" width="687" height="18" font="3">The notion of prosodic minimality put forward in McCarthy &amp; Prince (1986) states,</text>
+<text top="820" left="108" width="702" height="18" font="3">among other things, that all English words must be bimoraic. Thus different phonetic</text>
+<text top="843" left="108" width="702" height="18" font="3">surfaces  may overlay structures which are invariant in this parameter. This notion,</text>
+<text top="867" left="108" width="702" height="18" font="3">translated into the terms of the model we are here using, is illustrated in (2) for the</text>
+<text top="891" left="108" width="274" height="18" font="3">English words 'city', 'sit', and 'say'.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="14" family="Courier" color="#000000"/>
+	<fontspec id="10" size="12" family="Times" color="#000000"/>
+	<fontspec id="11" size="14" family="Times" color="#000000"/>
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="800" width="10" height="18" font="3">5</text>
+<text top="194" left="108" width="24" height="18" font="3">(2)</text>
+<text top="215" left="216" width="90" height="12" font="9">O  R  O  R</text>
+<text top="215" left="378" width="90" height="12" font="9">O  R  O  R</text>
+<text top="215" left="540" width="36" height="12" font="9">O  R</text>
+<text top="228" left="216" width="8" height="17" font="10">*</text>
+<text top="231" left="225" width="18" height="12" font="9">  </text>
+<text top="228" left="243" width="8" height="17" font="10">*</text>
+<text top="231" left="252" width="18" height="12" font="9">  </text>
+<text top="228" left="270" width="8" height="17" font="10">*</text>
+<text top="231" left="279" width="18" height="12" font="9">  </text>
+<text top="228" left="297" width="8" height="17" font="10">*</text>
+<text top="228" left="378" width="8" height="17" font="10">*</text>
+<text top="231" left="387" width="18" height="12" font="9">  </text>
+<text top="228" left="405" width="8" height="17" font="10">*</text>
+<text top="231" left="414" width="18" height="12" font="9">  </text>
+<text top="228" left="432" width="8" height="17" font="10">*</text>
+<text top="231" left="441" width="18" height="12" font="9">  </text>
+<text top="228" left="459" width="8" height="17" font="10">*</text>
+<text top="228" left="540" width="8" height="17" font="10">*</text>
+<text top="231" left="549" width="18" height="12" font="9">  </text>
+<text top="228" left="567" width="8" height="17" font="10">*</text>
+<text top="244" left="216" width="8" height="17" font="10">*</text>
+<text top="247" left="225" width="45" height="12" font="9">  N  </text>
+<text top="244" left="270" width="8" height="17" font="10">*</text>
+<text top="247" left="279" width="27" height="12" font="9">  N</text>
+<text top="244" left="378" width="8" height="17" font="10">*</text>
+<text top="247" left="387" width="45" height="12" font="9">  N  </text>
+<text top="244" left="432" width="8" height="17" font="10">*</text>
+<text top="247" left="441" width="27" height="12" font="9">  N</text>
+<text top="244" left="540" width="8" height="17" font="10">*</text>
+<text top="247" left="549" width="27" height="12" font="9">  N</text>
+<text top="260" left="216" width="8" height="17" font="10">*</text>
+<text top="263" left="225" width="18" height="12" font="9">  </text>
+<text top="260" left="243" width="8" height="17" font="10">*</text>
+<text top="263" left="252" width="18" height="12" font="9">  </text>
+<text top="260" left="270" width="8" height="17" font="10">*</text>
+<text top="263" left="279" width="18" height="12" font="9">  </text>
+<text top="260" left="297" width="8" height="17" font="10">*</text>
+<text top="260" left="378" width="8" height="17" font="10">*</text>
+<text top="263" left="387" width="18" height="12" font="9">  </text>
+<text top="260" left="405" width="8" height="17" font="10">*</text>
+<text top="263" left="414" width="18" height="12" font="9">  </text>
+<text top="260" left="432" width="8" height="17" font="10">*</text>
+<text top="263" left="441" width="18" height="12" font="9">  </text>
+<text top="260" left="459" width="8" height="17" font="10">*</text>
+<text top="260" left="540" width="8" height="17" font="10">*</text>
+<text top="263" left="549" width="18" height="12" font="9">  </text>
+<text top="260" left="567" width="8" height="17" font="10">*</text>
+<text top="263" left="576" width="9" height="12" font="9">\</text>
+<text top="279" left="216" width="90" height="12" font="9">x  x  x  x</text>
+<text top="279" left="378" width="90" height="12" font="9">x  x  x  x</text>
+<text top="279" left="540" width="54" height="12" font="9">x  x x</text>
+<text top="292" left="216" width="8" height="17" font="10">*</text>
+<text top="295" left="225" width="18" height="12" font="9">  </text>
+<text top="292" left="243" width="8" height="17" font="10">*</text>
+<text top="295" left="252" width="18" height="12" font="9">  </text>
+<text top="292" left="270" width="8" height="17" font="10">*</text>
+<text top="295" left="279" width="18" height="12" font="9">  </text>
+<text top="292" left="297" width="8" height="17" font="10">*</text>
+<text top="292" left="378" width="8" height="17" font="10">*</text>
+<text top="295" left="387" width="18" height="12" font="9">  </text>
+<text top="292" left="405" width="8" height="17" font="10">*</text>
+<text top="295" left="414" width="18" height="12" font="9">  </text>
+<text top="292" left="432" width="8" height="17" font="10">*</text>
+<text top="292" left="540" width="8" height="17" font="10">*</text>
+<text top="295" left="549" width="18" height="12" font="9">  </text>
+<text top="292" left="567" width="8" height="17" font="10">*</text>
+<text top="295" left="576" width="9" height="12" font="9"> </text>
+<text top="292" left="585" width="8" height="17" font="10">*</text>
+<text top="308" left="216" width="90" height="19" font="11">s I t I</text>
+<text top="308" left="378" width="63" height="19" font="11">s I t</text>
+<text top="308" left="540" width="54" height="19" font="11">s e I</text>
+<text top="356" left="123" width="687" height="18" font="3">These independently motivated analyses by Levelt, Harris, and McCarthy &amp; Prince all</text>
+<text top="380" left="108" width="702" height="18" font="3">have in common the demand that we recognise the discrete nature of prosody and melody</text>
+<text top="404" left="108" width="702" height="18" font="3">in the mature system, and so reinforce our conviction that these systems must undergo</text>
+<text top="428" left="108" width="188" height="18" font="3">separate developments.</text>
+<text top="451" left="123" width="686" height="18" font="3">So given even the feeblest appeal to modularity and using the structural primitives that</text>
+<text top="475" left="108" width="702" height="18" font="3">we have outlined, there is no reason why developments in phonological acquisition should</text>
+<text top="499" left="108" width="702" height="18" font="3">not take place long before the system is fully integrated. At the risk of double underlining</text>
+<text top="523" left="108" width="702" height="18" font="3">something which is already patently obvious, it may be worth noting that even if we</text>
+<text top="546" left="108" width="702" height="18" font="3">cleave to rival theoretical bases the dichotomy of melody and prosody persists in some</text>
+<text top="570" left="108" width="702" height="18" font="3">guise. Within the system described in Coleman &amp; Local (1992), the relation between</text>
+<text top="594" left="108" width="702" height="18" font="3">phonetics and phonology is much more strictly demarcated than we have been assuming.</text>
+<text top="618" left="108" width="702" height="18" font="3">Under no circumstances, in this model, is a phonological representation allowed to have</text>
+<text top="641" left="108" width="702" height="18" font="3">an intrinsic phonetic interpretation. However, in their adoption of this system, Local and</text>
+<text top="665" left="108" width="702" height="18" font="3">Lodge (1996) have to bifurcate the phonetic 'exponents'. 'The statement of phonetic</text>
+<text top="689" left="108" width="702" height="18" font="3">exponents...has two formally distinct parts: temporal interpretation and parametric</text>
+<text top="713" left="108" width="702" height="18" font="3">phonetic interpretation' (p. 94). In our terms, the first of these is clearly prosodic</text>
+<text top="737" left="108" width="351" height="18" font="3">structure, and the second is melodic colour.</text>
+<text top="808" left="108" width="439" height="18" font="6"><b>3 The representation of lexical tone and phonation </b></text>
+<text top="855" left="108" width="140" height="18" font="6"><b>3.1 Introduction</b></text>
+<text top="902" left="108" width="702" height="18" font="3">When [H] and [L] show up in Onset positions, they are the active elements for phonation</text>
+<text top="926" left="108" width="702" height="18" font="3">contrasts. Thus in elemental orthodoxy, [H] is present in aspirated stops and [L] in the</text>
+<text top="950" left="108" width="702" height="18" font="3">fully voiced series (Kaye, Lowenstamm &amp; Vergnaud 1990, Harris 1994). In Nuclei, tone</text>
+<text top="973" left="108" width="703" height="18" font="3">bearing units are linked to either of these same elements, [H] for a high tone and [L] for</text>
+<text top="997" left="108" width="702" height="18" font="3">a low. The neutral series of obstruents shares with mid tones the property of having no</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="10" height="18" font="3">6</text>
+<text top="194" left="108" width="702" height="18" font="3">(laryngeal) element. However, this analysis of lexical tone straight away begs some</text>
+<text top="218" left="108" width="172" height="18" font="3">theoretical questions.</text>
+<text top="289" left="108" width="144" height="18" font="6"><b>3.2 Asymmetries</b></text>
+<text top="336" left="108" width="703" height="18" font="3">There are languages such as Gujarati and Panjabi (for this latter possibility see the</text>
+<text top="360" left="108" width="702" height="18" font="3">phonetic analysis advanced by Stuart-Smith (1996)), in which a four way contrast obtains</text>
+<text top="384" left="108" width="702" height="18" font="3">for phonation. This allows us to fill in a predicted value in the paradigm, and propose that</text>
+<text top="407" left="108" width="702" height="18" font="3">for 'breathy', or 'tonal', stops, <i>both</i> [H] and [L] are realised in Onset position (Harris</text>
+<text top="431" left="108" width="702" height="18" font="3">1994). But a theoretical explanation is required for the inability of <i>tone</i> bearing skeletal</text>
+<text top="455" left="108" width="702" height="18" font="3">points to be linked to both [H] and [L]. The lack of phonological analyses which include</text>
+<text top="479" left="108" width="702" height="18" font="3">this logical combination is wholly undesirable without a principled account of its absence.</text>
+<text top="503" left="108" width="703" height="18" font="3">One possible partial explanation would be an appeal to tier geometry, wherein both</text>
+<text top="526" left="108" width="702" height="18" font="3">elements could be fused onto a single tonal tier. This is analogous to the analysis of the</text>
+<text top="550" left="108" width="702" height="18" font="3">English vowel system in which [I] and [U] are said to remain fused onto the 'colour' tier,</text>
+<text top="574" left="108" width="702" height="18" font="3">accounting for the lack of rounded front vowels in the language. All the same, it is hardly</text>
+<text top="598" left="108" width="702" height="18" font="3">felicitous for the theory that [H] and [L] should fail to dissociate from the same tier in <i>any</i></text>
+<text top="621" left="108" width="77" height="18" font="3">language.</text>
+<text top="645" left="123" width="687" height="18" font="3">Our second indication that something is wrong with the idea that the phonological</text>
+<text top="669" left="108" width="702" height="18" font="3">reality underlying lexical tone discrimination can best be represented using two elements</text>
+<text top="693" left="108" width="702" height="18" font="3">is to be found in a typological asymmetry. Some Bantu languages of southern Africa have</text>
+<text top="716" left="108" width="702" height="18" font="3">been analysed using [H] only (Goldsmith 1990). Some tone languages of western Africa</text>
+<text top="740" left="108" width="702" height="18" font="3">have, by contrast, been analysed using both elements [H] and [L] (Pulleyblank 1986). No</text>
+<text top="764" left="108" width="702" height="18" font="3">language, however, has yet been analysed as using [L] only. Once again, this unpredicted</text>
+<text top="788" left="108" width="702" height="18" font="3">asymmetry is so far theoretically inexplicable: no good reason has been advanced why [H]</text>
+<text top="811" left="108" width="297" height="18" font="3">is to be 'favoured' over [L] in Nuclei.</text>
+<text top="883" left="108" width="224" height="18" font="6"><b>3.3 Reduction exemplified</b></text>
+<text top="930" left="108" width="703" height="18" font="3">In recent years there have been attempts to reduce the number of elements, in order to</text>
+<text top="954" left="108" width="702" height="18" font="3">achieve the laudable ambition of weakening the combinatorial power of the inventory.</text>
+<text top="977" left="108" width="702" height="18" font="3">Some of this work has direct consequences for [L], and for what we have hitherto thought</text>
+<text top="1001" left="108" width="271" height="18" font="3">of as the phonetic reflexes of [L].</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="800" width="10" height="18" font="3">7</text>
+<text top="194" left="123" width="687" height="18" font="3">Cabrera-Abreu (1996), uses Pierrehumbert's theoretical framework which analyses</text>
+<text top="218" left="108" width="702" height="18" font="3">intonational patterns as being reflexes of two monovalent primes ([H] and [L]) in</text>
+<text top="242" left="108" width="702" height="18" font="3">association with prosodic boundaries. She then goes on to demonstrate that if this system</text>
+<text top="265" left="108" width="702" height="18" font="3">is linked to the principles of directional licensing, licensing inheritance and the projection</text>
+<text top="289" left="108" width="701" height="18" font="3">of nuclei, such principles being already independently present in the grammar, it is</text>
+<text top="313" left="108" width="702" height="18" font="3">possible to reduce the inventory of primes in this context by one and reanalyse phrase</text>
+<text top="337" left="108" width="702" height="18" font="3">level intonation patterns in English<i> </i>without [L]. [L] is targeted for extinction by Cabrera-</text>
+<text top="360" left="108" width="702" height="18" font="3">Abreu for reasons ranging from its historical instability to its lack of attestation in the</text>
+<text top="384" left="108" width="378" height="18" font="3">'tone copying' processes participated in by [H].</text>
+<text top="408" left="123" width="687" height="18" font="3">Showing the same reductionist spirit as Cabrera-Abreu, Nasukawa (1995) argues that</text>
+<text top="432" left="108" width="702" height="18" font="3">in an analysis of Japanese it is possible to conflate the element [L] with the element [N].</text>
+<text top="455" left="108" width="702" height="18" font="3">His account of the phenomena of Rendaku and 'Lyman's Law' (for a description of the</text>
+<text top="479" left="108" width="702" height="18" font="3">facts and earlier accounts see Nasukawa 1995), hinges on the identification of the active</text>
+<text top="503" left="108" width="702" height="18" font="3">element in Japanese voiced obstruents as <i>dependent</i> [L] and in Japanese nasals as <i>headed</i></text>
+<text top="527" left="108" width="634" height="18" font="3">[L]. Thus Rendaku is the attachment of [L] to the second term of a compound:</text>
+<text top="574" left="108" width="24" height="18" font="3">(3)</text>
+<text top="574" left="486" width="81" height="18" font="3">           [L]</text>
+<text top="598" left="486" width="69" height="18" font="3">             |</text>
+<text top="622" left="162" width="248" height="18" font="3">[ori] 'fold'  +  [kami] 'paper'     </text>
+<text top="622" left="433" width="11" height="18" font="3">=</text>
+<text top="622" left="487" width="110" height="18" font="3">   [ori <b>  g</b>ami]</text>
+<text top="670" left="540" width="26" height="18" font="3">[L]</text>
+<text top="693" left="540" width="14" height="18" font="3">  |</text>
+<text top="717" left="162" width="449" height="18" font="3">[otoko] 'man'  +  [kokoro] 'heart'     =      [otoko<b> g</b>okoro]</text>
+<text top="765" left="108" width="702" height="18" font="3">Such attachment is prohibited by a following voiced obstruent in the same domain</text>
+<text top="789" left="108" width="702" height="18" font="3">because this would create a symmetrical relationship of two dependent [L]s on the [L] tier</text>
+<text top="812" left="108" width="551" height="18" font="3">and there can be no licensing relationship between two such objects.</text>
+<text top="860" left="108" width="24" height="18" font="3">(4)</text>
+<text top="860" left="162" width="582" height="18" font="3">[otoko]  'man'  +  [koto<b>b</b>a] 'speech'   =   [otoko<b>k</b>oto<b>b</b>a] (*[otoko<b>g</b>oto<b>b</b>a])</text>
+<text top="908" left="108" width="702" height="18" font="3">The headed [L] in the nasal ([origa<b>m</b>i]) can contract an asymmetric relationship with the</text>
+<text top="932" left="108" width="477" height="18" font="3">attached dependent [L], and so this problem does not arise.</text>
+<text top="956" left="123" width="687" height="18" font="3">Japanese voicing assimilation in compounds is also successfully analysed in Nasukawa's</text>
+<text top="980" left="108" width="702" height="18" font="3">account as a manifestation of the same licensing constraint that he previously invoked:</text>
+<text top="1003" left="108" width="702" height="18" font="3">the potential sequence of two voiced obstruents that would result from [tob] 'fly' + [ta]</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="10" height="18" font="3">8</text>
+<text top="194" left="108" width="702" height="18" font="2"><i>past</i> (*[to<b>dd</b>a]) cannot occur. A head-dependent relationship must obtain on the [L] tier,</text>
+<text top="218" left="108" width="552" height="18" font="3">and so [tonda] is the only possible output (Nasukawa 1995, pp. 5-6).</text>
+<text top="242" left="123" width="687" height="18" font="3">We should note that the identification of [L] with [N] in non-nuclear positions would</text>
+<text top="266" left="108" width="702" height="18" font="3">also deliver a more symmetrical account of some active phonological processes in</text>
+<text top="289" left="108" width="504" height="18" font="3">languages which share only a distant genealogy with Japanese.</text>
+<text top="313" left="123" width="686" height="18" font="3">Voicing assimilation in modern Greek is always the acquisition of positive phonation,</text>
+<text top="337" left="108" width="594" height="18" font="3">regardless of direction, as can be seen from the following three examples.</text>
+<text top="384" left="108" width="24" height="18" font="3">(5)</text>
+<text top="379" left="162" width="253" height="26" font="8">[tis]+[vrisis] &gt; [tizvrisis]</text>
+<text top="384" left="486" width="126" height="18" font="3">'of the fountain'</text>
+<text top="428" left="162" width="410" height="26" font="8">[enan]+[kseno] &gt; [enaNgzeno] 'a stranger'</text>
+<text top="478" left="162" width="252" height="26" font="8">[tus] +[neus] &gt; [tuzneus]</text>
+<text top="483" left="486" width="128" height="18" font="3">'the news' (acc.)</text>
+<text top="532" left="123" width="687" height="18" font="3">Greek has fully-voiced and neutral obstruents, and no aspirated set: in this it is like</text>
+<text top="556" left="108" width="703" height="18" font="3">French, in which such assimilation also takes place, and unlike most dialects of English,</text>
+<text top="580" left="108" width="316" height="18" font="3">which do not display this phenomenon.</text>
+<text top="627" left="108" width="24" height="18" font="3">(6)</text>
+<text top="627" left="162" width="62" height="18" font="3">French:</text>
+<text top="627" left="270" width="107" height="18" font="3">[avek] + [vu]</text>
+<text top="622" left="388" width="102" height="26" font="8">&gt;  [avegvu]</text>
+<text top="627" left="539" width="77" height="18" font="3">'with you'</text>
+<text top="677" left="162" width="67" height="18" font="3">English:</text>
+<text top="677" left="271" width="122" height="18" font="3">[blak] + [van]  </text>
+<text top="671" left="393" width="119" height="26" font="8">&gt; *[blagvan]</text>
+<text top="677" left="539" width="84" height="18" font="3">'black van'</text>
+<text top="726" left="123" width="686" height="18" font="3">Fully-voiced obstruents, as we have stated, are said to contain an active element [L].</text>
+<text top="750" left="108" width="702" height="18" font="3">The Greek and French assimilations therefore represent the spreading to, or activation of,</text>
+<text top="774" left="108" width="702" height="18" font="3">this element in the adjacent position(s); the lack of assimilation in English is because</text>
+<text top="797" left="108" width="702" height="18" font="3">English lenis obstruents have no [L]. The Greek example involving the obstruent can</text>
+<text top="821" left="108" width="702" height="18" font="3">readily be aligned with this. But it is evident that Greek nasals will also trigger this</text>
+<text top="845" left="108" width="701" height="18" font="3">process, and the identification of [N] with [L] gives a unified account of these intuitively</text>
+<text top="869" left="108" width="172" height="18" font="3">identical phenomena.</text>
+<text top="892" left="123" width="687" height="18" font="3">This, of course, leads ineluctably to the question of the contrastive representation of</text>
+<text top="916" left="108" width="702" height="18" font="3">nasals and fully voiced obstruents language universally. One approach is outlined in Ritter</text>
+<text top="940" left="108" width="702" height="18" font="3">(1996 and references therein). In her paper, the already extant mechanism of isomeric</text>
+<text top="964" left="108" width="702" height="18" font="3">variation is invoked to interact with a five-item element menu (A, I, U, H and L) to</text>
+<text top="987" left="108" width="702" height="18" font="3">express subsegmental contrasts. Broadly, headed expressions imply stricture in this</text>
+<text top="1011" left="108" width="701" height="18" font="3">system and unheaded expressions do not. So both nasals and stops are headed, but with</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="800" width="10" height="18" font="3">9</text>
+<text top="194" left="108" width="702" height="18" font="3">inverse positioning of elements, and fricatives are non-headed expressions having both</text>
+<text top="218" left="108" width="419" height="18" font="3">place and laryngeal dependents, as illustrated in (7).</text>
+<text top="265" left="108" width="24" height="18" font="3">(7)</text>
+<text top="265" left="216" width="17" height="18" font="3">/t/</text>
+<text top="265" left="324" width="22" height="18" font="3">/n/</text>
+<text top="265" left="432" width="24" height="18" font="3"> /s/</text>
+<text top="313" left="216" width="15" height="18" font="3">A</text>
+<text top="313" left="324" width="12" height="18" font="3">L</text>
+<text top="313" left="432" width="24" height="18" font="3">(_)</text>
+<text top="337" left="216" width="15" height="18" font="3">H</text>
+<text top="337" left="324" width="15" height="18" font="3">A</text>
+<text top="337" left="432" width="-88" height="18" font="3"> </text>
+<text top="337" left="436" width="15" height="18" font="3">A</text>
+<text top="360" left="432" width="19" height="18" font="3"> H</text>
+<text top="408" left="108" width="703" height="18" font="3">Laryngeal contrasts within obstruents are expressed by varying the dependent element,</text>
+<text top="432" left="108" width="702" height="18" font="3">with the neutral series lacking a dependent entirely, as in (8) (Ritter, personal</text>
+<text top="455" left="108" width="139" height="18" font="3">correspondence).</text>
+<text top="503" left="108" width="24" height="18" font="3">(8)</text>
+<text top="503" left="216" width="27" height="18" font="3">/p /</text>
+<text top="503" left="324" width="22" height="18" font="3">/p/</text>
+<text top="503" left="432" width="22" height="18" font="3">/b/</text>
+<text top="501" left="232" width="6" height="11" font="1">h</text>
+<text top="550" left="216" width="15" height="18" font="3">U</text>
+<text top="550" left="324" width="15" height="18" font="3">U</text>
+<text top="550" left="432" width="15" height="18" font="3">U</text>
+<text top="574" left="216" width="15" height="18" font="3">H</text>
+<text top="574" left="432" width="12" height="18" font="3">L</text>
+<text top="622" left="123" width="687" height="18" font="3">In a language with fully voiced obstruents, such as modern Greek, then, we can deduce</text>
+<text top="645" left="108" width="703" height="18" font="3">the representation of /v/ to be [ U, L, (_)], and so support our account of the spread (or</text>
+<text top="669" left="108" width="668" height="18" font="3">activation) of voicing triggered by both fricatives and nasals as identical processes.</text>
+<text top="693" left="123" width="687" height="18" font="3">All the discussion in this section, though drawn from separate sources, has converged</text>
+<text top="717" left="108" width="702" height="18" font="3">upon the idea that elements, even if possessed of an identifiable singular nature as abstract</text>
+<text top="740" left="108" width="701" height="18" font="3">cognitive objects, may adopt different shapes when linked to different structural</text>
+<text top="764" left="108" width="702" height="18" font="3">architecture. So we may sometimes need to disentangle an element from its prosodic web</text>
+<text top="788" left="108" width="702" height="18" font="3">to see if it really is what we think it is. The proposal that the <i>interaction</i> of prosody and</text>
+<text top="812" left="108" width="703" height="18" font="3">melody can affect phonetic expression, just as isomeric or licensing relationships can,</text>
+<text top="836" left="108" width="702" height="18" font="3">may prove useful in accounting for the phonological anomalies that we noticed in the</text>
+<text top="859" left="108" width="338" height="18" font="3">analyses of lexical tone (section 3 above).</text>
+<text top="931" left="108" width="229" height="18" font="6"><b>4 An experiment with tone</b></text>
+<text top="978" left="108" width="702" height="18" font="3">Returning to our discussion of lexical tone, we recall that we have so far noted the highly</text>
+<text top="1001" left="108" width="703" height="18" font="3">undesirable asymmetry of representing some west African languages as having [H] and</text>
+<text top="1025" left="108" width="702" height="18" font="3">[L] as componential in Nuclear positions and Bantu languages as having [H] only, if we</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="20" height="18" font="3">10</text>
+<text top="194" left="108" width="701" height="18" font="3">cannot discover some languages which use [L] only. One way to open enquiries into this</text>
+<text top="218" left="108" width="702" height="18" font="3">matter would be to try to ascertain if the perceptions of native speakers of these languages</text>
+<text top="242" left="108" width="701" height="18" font="3">accord with analyses of this type. A necessary prerequisite of such an investigation is to</text>
+<text top="265" left="108" width="702" height="18" font="3">gain a knowledge of the perceptual routine(s) used to map from the acoustic signal to the</text>
+<text top="289" left="108" width="211" height="18" font="3">perception of lexical tone.</text>
+<text top="313" left="123" width="687" height="18" font="3">Lexical tones are acoustically cued by changes in the frequency of the fundamental of</text>
+<text top="337" left="108" width="703" height="18" font="3">the speech signal (Fx). Now the perceptions of different aspects of the speech signal are</text>
+<text top="360" left="108" width="702" height="18" font="3">undertaken in different ways. We know that the perception of stop contrasts is</text>
+<text top="384" left="108" width="702" height="18" font="3">quintessentially categorical, but that the strategy employed for distinguishing vowels may</text>
+<text top="408" left="108" width="703" height="18" font="3">well be prototypical in nature (see especially Kuhl 1992). Is categorical or prototypical</text>
+<text top="432" left="108" width="703" height="18" font="3">perception used in the perception of tone, or is such perception, as seems often to be</text>
+<text top="455" left="108" width="678" height="18" font="3">tacitly assumed, wholly dependent upon the pitch <i>relationships</i> within an utterance?</text>
+<text top="479" left="123" width="686" height="18" font="3">The psychoacoustic percept of pitch is mapped from the highest common factor of the</text>
+<text top="503" left="108" width="702" height="18" font="3">component pure tones (sine waves) of the complex wave. So this percept depends on</text>
+<text top="527" left="108" width="702" height="18" font="3">repetition frequency, exactly as it does for a single sine wave. Just-noticeable-difference</text>
+<text top="550" left="108" width="702" height="18" font="3">(JND) experiments in the perception of pure tone regularly show that a JND in repetition</text>
+<text top="574" left="108" width="702" height="18" font="3">frequency of around 4Hz is perceivable at around 250 Hz, a frequency which lies squarely</text>
+<text top="598" left="108" width="702" height="18" font="3">within the range of Fx common in human speech. Perception becomes less fine at higher</text>
+<text top="622" left="108" width="702" height="18" font="3">frequencies, but a JND of 4Hz gives a sensible general benchmark of the physiological</text>
+<text top="645" left="108" width="702" height="18" font="3">ability of the organism to discern pitch differences within the range normally utilised in</text>
+<text top="669" left="108" width="702" height="18" font="3">the perception of Fx, since Hz measurements are physical, in that they are directly</text>
+<text top="693" left="108" width="609" height="18" font="3">derivable from measurements of the linear values of air pressure in Pascals.</text>
+<text top="717" left="123" width="686" height="18" font="3">So we can identify a norm for the perception of pitch differentials independent of any</text>
+<text top="740" left="108" width="702" height="18" font="3">structural context. Innately given abilities of this kind are adapted by the mind-brain when</text>
+<text top="764" left="108" width="702" height="18" font="3">they are integrated to higher structural levels: we know of the existence of categorical</text>
+<text top="788" left="108" width="702" height="18" font="3">perception, for instance, in animals other than <i>homo sapiens</i>. We also know that most</text>
+<text top="812" left="108" width="702" height="18" font="3">human languages employ this ability to categorise stop consonants, but that they have no</text>
+<text top="836" left="108" width="702" height="18" font="3">bias toward the psychoacoustic factory settings. So speakers of English and German using</text>
+<text top="859" left="108" width="702" height="18" font="3">the lag VOT boundary (around +30ms.) share this boundary (which has high acoustic</text>
+<text top="883" left="108" width="702" height="18" font="3">salience) with neonates (Eimas <i>et al.</i> 1971) and chinchilla (Kuhl &amp; Miller 1975), but</text>
+<text top="907" left="108" width="702" height="18" font="3">south of an isogloss running across northern Europe, speakers of French, Spanish,</text>
+<text top="931" left="108" width="702" height="18" font="3">Portuguese, Greek, Dutch, Italian, and Hungarian ignore the +30ms demarcation line and</text>
+<text top="954" left="108" width="594" height="18" font="3">instead place the boundary at the acoustically impoverished value of 0ms.</text>
+<text top="978" left="123" width="687" height="18" font="3">In order to discover how the perception of pitch may be lexically utilised, and how such</text>
+<text top="1002" left="108" width="702" height="18" font="3">utilisation may alter the perception of pitch, we may begin by investigating the</text>
+<text top="1026" left="108" width="702" height="18" font="3">discrimination of lexical items outside of a prosodic context by a native speaker of a tone</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="790" width="20" height="18" font="3">11</text>
+<text top="194" left="108" width="702" height="18" font="3">language. Yoruba has the phonologically felicitous property of possessing many words</text>
+<text top="218" left="108" width="613" height="18" font="3">which differ only in their tonal specification. Minimal triplets exist, such as:</text>
+<text top="265" left="108" width="24" height="18" font="3">(9)</text>
+<text top="265" left="162" width="19" height="18" font="3">bá</text>
+<text top="265" left="216" width="46" height="18" font="3">'meet'</text>
+<text top="265" left="378" width="16" height="18" font="3">kí</text>
+<text top="265" left="432" width="47" height="18" font="3">'greet'</text>
+<text top="265" left="594" width="13" height="18" font="3">rí</text>
+<text top="265" left="648" width="32" height="18" font="3">'see'</text>
+<text top="289" left="162" width="19" height="18" font="3">ba</text>
+<text top="289" left="216" width="41" height="18" font="3">'hide'</text>
+<text top="289" left="378" width="15" height="18" font="3">ki</text>
+<text top="289" left="432" width="46" height="18" font="3">'thick'</text>
+<text top="289" left="594" width="12" height="18" font="3">ri</text>
+<text top="289" left="648" width="74" height="18" font="3">'weeping'</text>
+<text top="313" left="162" width="19" height="18" font="3">bà</text>
+<text top="313" left="216" width="51" height="18" font="3">'perch'</text>
+<text top="313" left="378" width="16" height="18" font="3">kì</text>
+<text top="313" left="432" width="55" height="18" font="3">'praise'</text>
+<text top="313" left="594" width="13" height="18" font="3">rì</text>
+<text top="313" left="648" width="72" height="18" font="3">'sink/sag'</text>
+<text top="360" left="123" width="686" height="18" font="3">Having analysed the acoustic makeup of one of these sets, it is possible to synthesise</text>
+<text top="384" left="108" width="702" height="18" font="3">several tokens of the words which differ only in their fundamental frequency, play them</text>
+<text top="408" left="108" width="702" height="18" font="3">to speakers of the language, and investigate their reactions. Although productions of these</text>
+<text top="432" left="108" width="702" height="18" font="3">words outside of a syntactic context are never going to be entirely natural, they do at least</text>
+<text top="455" left="108" width="702" height="18" font="3">have the dual benefit of being completely linguistically plausible and contrasting solely</text>
+<text top="479" left="108" width="702" height="18" font="3">on the target parameter, though of course more than one acoustic cue may ultimately be</text>
+<text top="503" left="108" width="701" height="18" font="3">found to correlate with a single phonological object. Using the /ki/ set (see (9) above), I</text>
+<text top="527" left="108" width="702" height="18" font="3">have carried out such a test, and I present the methodology and results in the Appendix.</text>
+<text top="550" left="123" width="686" height="18" font="3">My informant's intuitions were that it was perfectly well possible to distinguish words</text>
+<text top="574" left="108" width="702" height="18" font="3">of Yoruba outside of any contextual frame, and the outcome of the tests, as we will see,</text>
+<text top="598" left="108" width="412" height="18" font="3">appear to show that he is part right and part wrong.</text>
+<text top="622" left="123" width="687" height="18" font="3">We find that, for this particular speaker, high tone has a mean correlate in fundamental</text>
+<text top="645" left="108" width="702" height="18" font="3">frequency of 227 Hz. That for mid tone is around 194 Hz, and for low tone 149 Hz.</text>
+<text top="669" left="108" width="702" height="18" font="3">(These are at the <i>start</i> of the vowel: for more detail, see Appendix.) The synthetic tokens,</text>
+<text top="693" left="108" width="702" height="18" font="3">which were replayed to the informant, a second (adult female) native speaker, and to an</text>
+<text top="717" left="108" width="702" height="18" font="3">English-speaking control, had values ranging from 145 to 225 Hz at 5 Hz intervals. The</text>
+<text top="740" left="108" width="702" height="18" font="3">subjects heard the tokens in pairs, each pair having a 5 to 40 Hz pitch differential. They</text>
+<text top="764" left="108" width="702" height="18" font="3">were asked to report whether the members of the pairs were the same or different.</text>
+<text top="788" left="108" width="701" height="18" font="3">Following this, the Yoruba speakers were asked to provide English translations for the</text>
+<text top="812" left="108" width="606" height="18" font="3">pairs. A summary of the result for the Same/Different test is shown in (10).</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="20" height="18" font="3">12</text>
+<text top="266" left="136" width="351" height="18" font="2"><i>Summary of average results of</i></text>
+<text top="290" left="136" width="351" height="18" font="2"><i>Same/Different responses to pairs of Yoruba</i></text>
+<text top="314" left="136" width="351" height="18" font="2"><i>words differing only in tonal specification</i></text>
+<text top="337" left="136" width="351" height="18" font="2"><i>by two Yoruba native speakers and an</i></text>
+<text top="361" left="136" width="131" height="18" font="2"><i>English control.</i></text>
+<text top="194" left="108" width="34" height="18" font="3">(10)</text>
+<text top="479" left="123" width="687" height="18" font="3">As is fully predictable from the JND experiments, the English control perceived a</text>
+<text top="503" left="108" width="702" height="18" font="3">different 'word' if the signals were more than 5Hz apart. All and only the signals separated</text>
+<text top="527" left="108" width="702" height="18" font="3">by 5Hz were perceived as the same. For the Yoruba speakers, on the other hand, anything</text>
+<text top="550" left="108" width="702" height="18" font="3">less than 25 Hz pitch difference was not reliably perceived as different. This can be</text>
+<text top="574" left="108" width="702" height="18" font="3">interpreted as suggesting merely that if we use pitch in a linguistically significant way, we</text>
+<text top="598" left="108" width="702" height="18" font="3">expect a certain distance to be maintained between different phonetic categories, and so</text>
+<text top="622" left="108" width="702" height="18" font="3">there is certainly a relativistic aspect to this perception. However, there is also an element</text>
+<text top="645" left="108" width="702" height="18" font="3">of absolutism to be accounted for. A signal higher in pitch than 210 Hz was always, in the</text>
+<text top="669" left="108" width="702" height="18" font="3">translation tests, perceived as an instantiation of high tone. At less than 190 Hz a mid tone</text>
+<text top="693" left="108" width="702" height="18" font="3">was perceived. (This did not apply to low tone, as I will shortly discuss.) In between these</text>
+<text top="717" left="108" width="702" height="18" font="3">values lay a region in which there was some confusion, as can be seen from the results (in</text>
+<text top="740" left="108" width="701" height="18" font="3">Appendix). Also, there is evidence that a large differential will prejudice the translation:</text>
+<text top="764" left="108" width="702" height="18" font="3">thus a value of 200 Hz is consistently translated as 'Greet' (high tone) if paired with a 160</text>
+<text top="788" left="108" width="519" height="18" font="3">Hz stimulus, but 'Thick' (mid tone) if paired with one of 225 Hz.</text>
+<text top="812" left="123" width="687" height="18" font="3">What, then, could be the strategy for the perception of lexical tone? Neither of the two</text>
+<text top="836" left="108" width="702" height="18" font="3">routines familiar from stop and vowel perception, categorical or prototypical, seems to</text>
+<text top="859" left="108" width="702" height="18" font="3">entirely fit the facts. There are evidently no clear cut category boundaries comparable to</text>
+<text top="883" left="108" width="702" height="18" font="3">those developed in the perception of VOT, but there does appear to be a fuzzy acoustic</text>
+<text top="907" left="108" width="702" height="18" font="3">no-mans-land between the pitches that are mapped to either the phonological category [H]</text>
+<text top="931" left="108" width="702" height="18" font="3">or to the lack of <i>any</i> phonological category (Ø). Once either side of this area, though,</text>
+<text top="954" left="108" width="702" height="18" font="3">there is a whole range of possible pitches that can be equally well transduced into</text>
+<text top="978" left="108" width="702" height="18" font="3">cognition as a particular phonological object (or lack of it), so any hunt for a prototype</text>
+<text top="1002" left="108" width="702" height="18" font="3">seems doomed. Having said that, however, I wish to propose that there may be a 'post-</text>
+<text top="1026" left="108" width="533" height="18" font="3">normalised categorical' strategy employed to decode lexical tones.</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="790" width="20" height="18" font="3">13</text>
+<text top="1025" left="130" width="681" height="15" font="0">I acknowledge that the '200-220 S' judgement does not quite fit in with this proposal: a much</text>
+<text top="1020" left="123" width="6" height="11" font="1">1</text>
+<text top="1045" left="108" width="297" height="15" font="0">larger study would be needed to fully test it.</text>
+<text top="194" left="123" width="687" height="18" font="3">I regard normalisation as an extralinguistic low level precursor to speech processing,</text>
+<text top="218" left="108" width="702" height="18" font="3">being the selfsame process as leads us to decide in visual processing if something is 'small'</text>
+<text top="242" left="108" width="702" height="18" font="3">or 'far away'. This is supported by the fact that normalisation is acquired extremely early</text>
+<text top="265" left="108" width="701" height="18" font="3">in ontogeny. Visual size constancy is already present at birth (Slater 1992), and since</text>
+<text top="289" left="108" width="702" height="18" font="3">babies recognise their mother's voice <i>in utero</i> and so can distinguish it from any other</text>
+<text top="313" left="108" width="702" height="18" font="3">after they are born (Fifer &amp; Moon 1989), we have some justification in proposing that we</text>
+<text top="337" left="108" width="702" height="18" font="3">are 'normalising' sensory input before we acquire knowledge that is specific to any</text>
+<text top="360" left="108" width="325" height="18" font="3">cognitive structure (such as a language).</text>
+<text top="384" left="123" width="687" height="18" font="3">Normalisation obviously cannot play a part in categorical perception, since this is by</text>
+<text top="408" left="108" width="702" height="18" font="3">definition invariant from speaker to speaker, and equally obviously it <i>must</i> play a part in</text>
+<text top="432" left="108" width="702" height="18" font="3">the perception of pitch in speech processing, so an unmoderated categorical routine is in</text>
+<text top="455" left="108" width="702" height="18" font="3">any case debarred from the perception of lexical tone. But once we have 'done' our</text>
+<text top="479" left="108" width="702" height="18" font="3">normalisation, the results of our experiment appear to show an expectancy, on the part of</text>
+<text top="503" left="108" width="702" height="18" font="3">the native speaker of a tone language, that a particular part of the frequency range</text>
+<text top="527" left="108" width="702" height="18" font="3">available will be used to signal a particular phonological object, even if the boundaries of</text>
+<text top="550" left="108" width="702" height="18" font="3">that range may be swayed by the surrounding phonetic context. Consider the results  of</text>
+<text top="574" left="108" width="674" height="18" font="3">the Same/Different test for pairs of 'words' 15 and 20 Hz apart (see also Appendix):</text>
+<text top="622" left="108" width="34" height="18" font="3">(11)</text>
+<text top="622" left="162" width="138" height="18" font="2"><i>15Hz differential</i></text>
+<text top="622" left="324" width="10" height="18" font="3">1</text>
+<text top="622" left="378" width="10" height="18" font="3">2</text>
+<text top="622" left="486" width="143" height="18" font="2"><i>20 Hz differential</i></text>
+<text top="622" left="648" width="10" height="18" font="3">1</text>
+<text top="622" left="702" width="10" height="18" font="3">2</text>
+<text top="669" left="162" width="71" height="18" font="3">175  185</text>
+<text top="669" left="324" width="11" height="18" font="3">S</text>
+<text top="669" left="378" width="11" height="18" font="3">S</text>
+<text top="669" left="486" width="71" height="18" font="3">145  165</text>
+<text top="669" left="648" width="11" height="18" font="3">S</text>
+<text top="669" left="702" width="11" height="18" font="3">S</text>
+<text top="693" left="162" width="71" height="18" font="3">180  195</text>
+<text top="693" left="324" width="11" height="18" font="3">S</text>
+<text top="693" left="378" width="11" height="18" font="3">S</text>
+<text top="693" left="486" width="71" height="18" font="3">150  170</text>
+<text top="693" left="648" width="11" height="18" font="3">S</text>
+<text top="693" left="702" width="11" height="18" font="3">S</text>
+<text top="717" left="162" width="71" height="18" font="3">210  195</text>
+<text top="717" left="324" width="15" height="18" font="3">D</text>
+<text top="717" left="378" width="15" height="18" font="3">D</text>
+<text top="717" left="486" width="71" height="18" font="3">210  190</text>
+<text top="717" left="648" width="15" height="18" font="3">D</text>
+<text top="717" left="702" width="11" height="18" font="3">S</text>
+<text top="740" left="162" width="71" height="18" font="3">225  210</text>
+<text top="740" left="324" width="11" height="18" font="3">S</text>
+<text top="740" left="378" width="11" height="18" font="3">S</text>
+<text top="740" left="486" width="71" height="18" font="3">225  205</text>
+<text top="740" left="648" width="15" height="18" font="3">D</text>
+<text top="740" left="702" width="15" height="18" font="3">D</text>
+<text top="764" left="486" width="71" height="18" font="3">200  220</text>
+<text top="764" left="648" width="11" height="18" font="3">S</text>
+<text top="764" left="702" width="15" height="18" font="3">D</text>
+<text top="812" left="123" width="687" height="18" font="2"><i>Same (S) or Different (D) judgements by two Yoruba native speakers for pairs of stimuli</i></text>
+<text top="836" left="123" width="272" height="18" font="2"><i>having a 15 or 20 Hz differential.</i></text>
+<text top="883" left="123" width="687" height="18" font="3">At around 200 Hz of fundamental frequency there is arguably a prejudice to perceive</text>
+<text top="907" left="108" width="702" height="18" font="3">a change in lexical category . No such prejudice is evident at the extremes of the ranges</text>
+<text top="905" left="327" width="6" height="11" font="1">1</text>
+<text top="931" left="108" width="702" height="18" font="3">tested, where even a 20 Hz differential is more likely to produce a 'Same' judgement. We</text>
+<text top="954" left="108" width="702" height="18" font="3">need to align these findings with the consistent perception of lexical change if stimuli are</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="20" height="18" font="3">14</text>
+<text top="968" left="130" width="305" height="15" font="0">I will return to the 'worldwide' anomaly later.</text>
+<text top="963" left="123" width="6" height="11" font="1">2</text>
+<text top="1005" left="130" width="680" height="15" font="0">John Coleman pointed this out to me. I have since produced synthetic tokens of words having</text>
+<text top="1001" left="123" width="6" height="11" font="1">3</text>
+<text top="1025" left="108" width="702" height="15" font="0">greater pitch variation and 'breathiness' which have yet to be tested. John Harris has proposed that</text>
+<text top="1045" left="108" width="615" height="15" font="0">it may be necessary to synthesise tokens of differing pitch from <i>all three</i> natural categories.</text>
+<text top="194" left="108" width="702" height="18" font="3">more than 20 Hz distant, and we can do this by acknowledging that tone perception comes</text>
+<text top="218" left="108" width="702" height="18" font="3">about as the result of a 'post-normalised categorical' strategy that takes account of</text>
+<text top="242" left="108" width="152" height="18" font="3">phonetic relativity.</text>
+<text top="265" left="123" width="687" height="18" font="3">No mention has yet been made in the present discussion of the most striking result of</text>
+<text top="289" left="108" width="702" height="18" font="3">the translation tests: there is not a single instance, anywhere in the frequency range, of the</text>
+<text top="313" left="108" width="702" height="18" font="3">perception of a low tone. Outside of a prosodic frame, the phonological object that has</text>
+<text top="337" left="108" width="702" height="18" font="3">low tone as its corollary so far appears to be non-existent. I propose that this result be</text>
+<text top="360" left="108" width="702" height="18" font="3">interpreted as suggesting that what we have hitherto analysed as a reflex of [L] may</text>
+<text top="384" left="108" width="702" height="18" font="3">instead be the expression of a prosodic constituent. Naturally a prosodic constituent</text>
+<text top="408" left="108" width="702" height="18" font="3">cannot be perceived outside of a prosodic framework. As this is a fairly radical</text>
+<text top="432" left="108" width="702" height="18" font="3">suggestion, let us see if it has any real advantages. It is true that, on the minus side, it</text>
+<text top="455" left="108" width="702" height="18" font="3">gives us a lot of rethinking to do with regard to the phonological analyses of the languages</text>
+<text top="479" left="108" width="702" height="18" font="3">of western Africa. On the plus side, however, we have a reason for the lack of a single</text>
+<text top="503" left="108" width="702" height="18" font="3">African language that can be analysed using [L] only. The story may have to be taken a</text>
+<text top="527" left="108" width="702" height="18" font="3">whole lot further, as we now have <i>another</i> gap in the paradigm: we predict a language</text>
+<text top="550" left="108" width="702" height="18" font="3">using only prosodic constituents. On the theoretical side, the proposal does tie in with the</text>
+<text top="574" left="108" width="702" height="18" font="3">drive to reduce the combinatorial possibilities of the model (see section 3.3 above), which</text>
+<text top="598" left="108" width="702" height="18" font="3">is mathematically desirable. We should expect to use the full set of combinations</text>
+<text top="622" left="108" width="695" height="18" font="3">predicted in a given system, and this kind of proposition cuts down on overgeneration.</text>
+<text top="645" left="123" width="687" height="18" font="3">This proposal does not relieve us of the burden of explaining why [L] should be</text>
+<text top="669" left="108" width="703" height="18" font="3">disfavoured in Nuclear positions worldwide, but if it were properly supported, would at</text>
+<text top="693" left="108" width="624" height="18" font="3">least remove the undesirable asymmetry on which we are currently focusing .</text>
+<text top="691" left="721" width="6" height="11" font="1">2</text>
+<text top="717" left="123" width="687" height="18" font="3">The results of these tests, though, are far from conclusive. There are no controls for the</text>
+<text top="740" left="108" width="702" height="18" font="3">effects of presenting the words <i>in pairs</i>, for any bias resulting from the intervention of a</text>
+<text top="764" left="108" width="702" height="18" font="3">rise or a fall between the members of the pair, or for any change in perception that may</text>
+<text top="788" left="108" width="703" height="18" font="3">be brought about by altering the internal shape of the pitch contour. In addition, it has</text>
+<text top="812" left="108" width="702" height="18" font="3">been pointed out to me that the lack of any low tone perception may be the result of</text>
+<text top="836" left="108" width="702" height="18" font="3">synthesising all the stimuli from one 'master': there could be undetected acoustic</text>
+<text top="859" left="108" width="702" height="18" font="3">properties present in the natural low tone utterances which cue the perception of [L] . It</text>
+<text top="857" left="781" width="6" height="11" font="1">3</text>
+<text top="883" left="108" width="703" height="18" font="3">is also important to carry out some translation tests on single words (perhaps separated</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="790" width="20" height="18" font="3">15</text>
+<text top="194" left="108" width="702" height="18" font="3">by music), and it could be interesting to have subjects rate the quality of various pitches</text>
+<text top="218" left="108" width="218" height="18" font="3">as instantiations of tone(s).</text>
+<text top="289" left="108" width="166" height="18" font="6"><b>5 Infant perception</b></text>
+<text top="336" left="108" width="702" height="18" font="3">The motivation for this experiment was to ascertain the perceptual routine for lexical tone</text>
+<text top="360" left="108" width="702" height="18" font="3">so that we may see if the same routine exists in infancy, and thereby ascribe phonological</text>
+<text top="384" left="108" width="703" height="18" font="3">significance to the perceptions of infants. We have emerged with the hypothesis that in</text>
+<text top="407" left="108" width="701" height="18" font="3">adulthood, a native speaker of Yoruba has an active element [H] which can be linked to</text>
+<text top="431" left="108" width="702" height="18" font="3">Nuclear positions, this having as its corollary the perception of high tone. We have</text>
+<text top="455" left="108" width="702" height="18" font="3">proposed that we may detect the presence of this element outside any prosodic context</text>
+<text top="479" left="108" width="702" height="18" font="3">by a fuzzy category boundary in the frequency range, the absolute value of this boundary</text>
+<text top="503" left="108" width="702" height="18" font="3">depending on normalised perception. The boundary itself may be detected by a greater</text>
+<text top="526" left="108" width="543" height="18" font="3">than average tendency to perceive lexical differences in its vicinity.</text>
+<text top="550" left="123" width="687" height="18" font="3">My intention is to import these notions into infant testing in the coming months. Using</text>
+<text top="574" left="108" width="702" height="18" font="3">the VRISD paradigm (Eilers <i>et al. </i>1979, Kuhl 1992 etc.), we will be able to see whether</text>
+<text top="598" left="108" width="701" height="18" font="3">or not babies can make the phonetic discriminations which relate to these proposals.</text>
+<text top="621" left="108" width="702" height="18" font="3">Using a sample of Yoruba acquiring children and English controls, all aged six to eight</text>
+<text top="645" left="108" width="702" height="18" font="3">months, we can test discrimination of Yoruba words with frequency differentials of 5, 10,</text>
+<text top="669" left="108" width="118" height="18" font="3">15, and 20 Hz.</text>
+<text top="716" left="123" width="249" height="18" font="3">The hypotheses are as follows:</text>
+<text top="764" left="123" width="19" height="18" font="3">(i)</text>
+<text top="764" left="162" width="551" height="18" font="3">No child will perceive a difference for a 5 Hz frequency differential.</text>
+<text top="788" left="123" width="687" height="18" font="3">(ii) English acquiring children will perceive a difference for any greater frequency</text>
+<text top="811" left="162" width="95" height="18" font="3">differential.</text>
+<text top="835" left="123" width="686" height="18" font="3">(iii) Yoruba acquiring children will not perceive differences greater than 5 Hz</text>
+<text top="859" left="162" width="648" height="18" font="3">consistently, but there will be a tendency to perceive differences as the frequency</text>
+<text top="883" left="162" width="148" height="18" font="3">differential grows.</text>
+<text top="906" left="123" width="686" height="18" font="3">(iv) In the vicinity of the normalised category boundary between high and mid tones</text>
+<text top="930" left="162" width="648" height="18" font="3">(around 200Hz for an adult male speaker) there will be a greater tendency on the</text>
+<text top="954" left="162" width="494" height="18" font="3">part of the Yoruba acquiring children to perceive differences.</text>
+<text top="1001" left="108" width="531" height="18" font="3">I hope to be able to publish the results of such tests at a later date.</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="20" height="18" font="3">16</text>
+<text top="194" left="108" width="202" height="18" font="6"><b>6 A note on tonogenesis</b></text>
+<text top="241" left="108" width="702" height="18" font="3">The implications we have drawn so far from the testing of a Yoruba speaker have not</text>
+<text top="265" left="108" width="702" height="18" font="3">accounted for the anomalous debarment of [L] from Nuclear positions. We might</text>
+<text top="289" left="108" width="702" height="18" font="3">remember, though, that all the strong historical evidence for the inclusion of [L] in</text>
+<text top="312" left="108" width="702" height="18" font="3">Nuclear positions comes from <i>east Asian</i> languages. Parallel historical developments are</text>
+<text top="336" left="108" width="703" height="18" font="3">traceable in many languages from this part of the world. Blumstein (1991 p.109) states</text>
+<text top="360" left="108" width="702" height="18" font="3">that the voicing contrast in Chinese and Thai obstruents which obtained at an earlier stage</text>
+<text top="384" left="108" width="702" height="18" font="3">in the development of these languages was lost and phonologically replaced by a lexical</text>
+<text top="407" left="108" width="702" height="18" font="3">tonal contrast. Haudricourt (1954) identifies three stages in a parallel development in the</text>
+<text top="431" left="108" width="702" height="18" font="3">history of Vietnamese: first, an atonal language with initial voicing contrasts and final</text>
+<text top="455" left="108" width="702" height="18" font="3">consonants; later, a three-tone system which maintains the initial contrast but has lost the</text>
+<text top="479" left="108" width="702" height="18" font="3">final distinctive consonants; and finally, a six-tone system without either initial phonation</text>
+<text top="503" left="108" width="594" height="18" font="3">contrasts or final consonants. These stages can be exemplified as follows:</text>
+<text top="550" left="108" width="34" height="18" font="3">(12)</text>
+<text top="550" left="216" width="57" height="18" font="3">Stage I</text>
+<text top="550" left="378" width="43" height="18" font="3">pa ba</text>
+<text top="550" left="486" width="63" height="18" font="3">pah bah</text>
+<text top="550" left="648" width="19" height="18" font="3">pa</text>
+<text top="547" left="667" width="9" height="23" font="12">§</text>
+<text top="550" left="676" width="24" height="18" font="3"> ba</text>
+<text top="547" left="700" width="9" height="23" font="12">§</text>
+<text top="598" left="216" width="63" height="18" font="3">Stage II</text>
+<text top="598" left="378" width="43" height="18" font="3">pa ba</text>
+<text top="592" left="486" width="60" height="26" font="8">pa ì ba ì</text>
+<text top="592" left="648" width="54" height="26" font="8">pa &lt;ba &lt;</text>
+<text top="648" left="216" width="70" height="18" font="3">Stage III</text>
+<text top="648" left="378" width="43" height="18" font="3">pá bà</text>
+<text top="642" left="486" width="61" height="26" font="8">paæ ì paè ì</text>
+<text top="642" left="648" width="61" height="26" font="8">paæ &lt; paè &lt;</text>
+<text top="697" left="123" width="687" height="18" font="3">Of course such data are open to all kinds of <i>phonetic</i> interpretation, which can give rise</text>
+<text top="721" left="108" width="702" height="18" font="3">to various different phonological analyses. But with that <i>caveat</i> in mind, we may be</text>
+<text top="744" left="108" width="702" height="18" font="3">forgiven for speculating that one phonological analysis that is at least no worse than any</text>
+<text top="768" left="108" width="702" height="18" font="3">other is that the progression between stages I and II is the transference of the [H] / Ø</text>
+<text top="792" left="108" width="702" height="18" font="3">contrast to the Nuclear position, and that between stages II and III represents the same</text>
+<text top="816" left="108" width="702" height="18" font="3">thing for the [L] / Ø contrast. (The orthography of these representations used here may</text>
+<text top="839" left="108" width="702" height="18" font="3">be slightly misleading: note that in each case phonetic interpretations are substituted,</text>
+<text top="863" left="108" width="153" height="18" font="3">rather than elided.)</text>
+<text top="887" left="123" width="687" height="18" font="3">So it is not surprising from the point of view of tonogenesis that there are no African</text>
+<text top="911" left="108" width="702" height="18" font="3">tone languages utilising Nuclear [L]: a more coordinated analysis of the world's languages</text>
+<text top="935" left="108" width="702" height="18" font="3">may in time reveal universal patterns attributable to parametrisation, and also show</text>
+<text top="958" left="108" width="702" height="18" font="3">somewhere in the world the presence of the predicted but still unattested group of</text>
+<text top="982" left="108" width="466" height="18" font="3">languages that use [L], and only [L], in Nuclear positions.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="16" family="Times" color="#000000"/>
+	<fontspec id="14" size="10" family="Times" color="#000000"/>
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="790" width="20" height="18" font="3">17</text>
+<text top="1045" left="130" width="261" height="15" font="0">Developed by Mark Huckvale at UCL.</text>
+<text top="1040" left="123" width="6" height="11" font="1">4</text>
+<text top="194" left="108" width="307" height="18" font="6"><b>Appendix: methodology and results</b></text>
+<text top="237" left="108" width="242" height="15" font="13"><b>Recording and analysis of stimuli</b></text>
+<text top="276" left="108" width="702" height="15" font="0">Recordings were made of natural utterances of three words in the Yoruba language which differ only in</text>
+<text top="296" left="108" width="155" height="15" font="0">tonal specification, <i>viz.</i></text>
+<text top="336" left="162" width="13" height="15" font="0">kí</text>
+<text top="336" left="216" width="40" height="15" font="0">'greet'</text>
+<text top="355" left="162" width="13" height="15" font="0">ki</text>
+<text top="355" left="216" width="39" height="15" font="0">'thick'</text>
+<text top="375" left="162" width="13" height="15" font="0">kì</text>
+<text top="375" left="216" width="46" height="15" font="0">'praise'</text>
+<text top="415" left="108" width="702" height="15" font="0">They were spoken by an adult male native speaker of the language. The stimuli were recorded in an</text>
+<text top="435" left="108" width="702" height="15" font="0">anechoic chamber at University College London, using a Bruel and Kjaer sound level meter type 2231 with</text>
+<text top="454" left="108" width="702" height="15" font="0">a 4165 microphone. They were transduced directly to digital audio tape using a Sony 1000ES tape recorder</text>
+<text top="474" left="108" width="323" height="15" font="0">and then transferred to files on a Sun computer.</text>
+<text top="494" left="123" width="687" height="15" font="0">Ten tokens of each word were recorded and analysed using a program known as 'Esfilt'  which allows</text>
+<text top="492" left="712" width="5" height="9" font="14">4</text>
+<text top="514" left="108" width="702" height="15" font="0">audio reproduction, together with a visual display of both the amplitude signal and the spectrograph.</text>
+<text top="534" left="108" width="701" height="15" font="0">Durations for all thirty tokens varied minimally (between about 205 and 220 ms), and there was also some</text>
+<text top="553" left="108" width="702" height="15" font="0">variation in the amplitude displacements, particularly during release of the plosive, but such variations were</text>
+<text top="573" left="108" width="476" height="15" font="0">only apparent across all the tokens, rather than between the sets of ten.</text>
+<text top="593" left="123" width="687" height="15" font="0">The pitch variation, however, clearly demarcated one word from another. The average values (in Hz)</text>
+<text top="613" left="108" width="587" height="15" font="0">for each word of the fundamental frequencies at the start of the vowel were as follows:</text>
+<text top="652" left="162" width="13" height="15" font="0">kí</text>
+<text top="652" left="216" width="40" height="15" font="0">'greet'</text>
+<text top="652" left="324" width="26" height="15" font="0">227</text>
+<text top="672" left="162" width="13" height="15" font="0">ki</text>
+<text top="672" left="216" width="39" height="15" font="0">'thick'</text>
+<text top="672" left="324" width="26" height="15" font="0">194</text>
+<text top="692" left="162" width="13" height="15" font="0">kì</text>
+<text top="692" left="216" width="46" height="15" font="0">'praise'</text>
+<text top="692" left="324" width="26" height="15" font="0">149</text>
+<text top="732" left="108" width="702" height="15" font="0">The productions of none of the words departed more than about 3Hz from these average values. All</text>
+<text top="751" left="108" width="702" height="15" font="0">showed a fall in fundamental frequency of 30-40Hz toward the end of the signal after maintaining a flat</text>
+<text top="771" left="108" width="182" height="15" font="0">pitch contour for 100+ ms.</text>
+<text top="831" left="108" width="194" height="15" font="13"><b>Synthesis and presentation</b></text>
+<text top="870" left="108" width="702" height="15" font="0">Of these thirty tokens, one was chosen as a model from which to copy synthesise an artificial stimulus</text>
+<text top="890" left="108" width="701" height="15" font="0">which could subsequently be varied for a single parameter. The chosen stimulus was at the centre of the</text>
+<text top="910" left="108" width="702" height="15" font="0">range of amplitude displacements represented in the sample and also had both a stereotypical duration (212</text>
+<text top="930" left="108" width="702" height="15" font="0">ms) and fundamental frequency (200 Hz at onset of voicing, 200 Hz at +160 ms from the initial burst, and</text>
+<text top="949" left="108" width="288" height="15" font="0">167 Hz at the last repetition of the period).</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="20" height="18" font="3">18</text>
+<text top="1045" left="130" width="275" height="15" font="0">Developed by Andrew Simpson at UCL.</text>
+<text top="1040" left="123" width="6" height="11" font="1">5</text>
+<text top="193" left="123" width="687" height="15" font="0">This signal was imported into the KPE80a parallel synthesizer  which allows manipulation of six</text>
+<text top="191" left="565" width="5" height="9" font="14">5</text>
+<text top="213" left="108" width="702" height="15" font="0">formants for frequency, amplitude and bandwidth, together with frication (non-periodic excitation) and</text>
+<text top="233" left="108" width="702" height="15" font="0">other parameters to create a copy of a natural utterance, using both spectral and spectrographic displays.</text>
+<text top="253" left="123" width="687" height="15" font="0">The synthesis of the artificial stimulus allowed the manipulation of the fundamental frequency</text>
+<text top="273" left="108" width="702" height="15" font="0">independently of any other parameter to create seventeen tokens having fundamental frequencies at the</text>
+<text top="292" left="108" width="702" height="15" font="0">onset of the vowel of between 145 and 225 Hz, each variant being 5Hz apart. The drop in fundamental</text>
+<text top="312" left="108" width="361" height="15" font="0">towards the end of the word was retained in all cases.</text>
+<text top="332" left="123" width="687" height="15" font="0">These seventeen tokens were recopied to DAT tape in pairs, each pair being separated in pitch by from</text>
+<text top="352" left="108" width="702" height="15" font="0">a minimum of 5 to a maximum of 40 Hz. There were a total of 32 pairs, each Hz differential being</text>
+<text top="372" left="108" width="702" height="15" font="0">represented by four pairs, except the 20Hz - 5 pairs - and the 40Hz - 3 pairs. 15 of the pairs rose in pitch</text>
+<text top="391" left="108" width="701" height="15" font="0">and 17 fell. These pairs were randomly distributed across the pitch range, and presented (on headphones)</text>
+<text top="411" left="108" width="702" height="15" font="0">in a random order to three subjects, two Yoruba speakers (who also speak English) and one English</text>
+<text top="431" left="108" width="702" height="15" font="0">control. They were asked to say whether the pair represented one or two words. The Yoruba speakers were</text>
+<text top="451" left="108" width="702" height="15" font="0">then asked to provide English translations for the words on a second replay of the stimuli. The test(s) on</text>
+<text top="471" left="108" width="378" height="15" font="0">the first Yoruba speaker were repeated one month later.</text>
+<text top="530" left="108" width="53" height="15" font="13"><b>Results</b></text>
+<text top="570" left="108" width="159" height="15" font="13"><b>a) Same/Different test</b></text>
+<text top="609" left="108" width="602" height="15" font="0">The English control recognised all and only the four pairs separated by 5Hz as 'the same'.</text>
+<text top="629" left="108" width="520" height="15" font="0">The Yoruba speakers recognised any pair separated by 25 + Hz as 'different'.</text>
+<text top="649" left="108" width="702" height="15" font="0">The Yoruba speakers recognised any pair separated by 5 or 10 Hz as 'the same' with a single exception:</text>
+<text top="669" left="108" width="421" height="15" font="0">for speaker 2 the pair 200 190 produced a 'different' response.</text>
+<text top="688" left="123" width="568" height="15" font="0">The results for Yoruba speakers 1 and 2 for the 15 and 20 Hz pairs were as follows:</text>
+<text top="728" left="108" width="29" height="15" font="0">(11)</text>
+<text top="728" left="162" width="116" height="15" font="7"><i>15Hz differential</i></text>
+<text top="728" left="324" width="8" height="15" font="0">1</text>
+<text top="728" left="378" width="8" height="15" font="0">2</text>
+<text top="728" left="486" width="120" height="15" font="7"><i>20 Hz differential</i></text>
+<text top="728" left="648" width="8" height="15" font="0">1</text>
+<text top="728" left="702" width="8" height="15" font="0">2</text>
+<text top="768" left="162" width="61" height="15" font="0">175  185</text>
+<text top="768" left="324" width="9" height="15" font="0">S</text>
+<text top="768" left="378" width="9" height="15" font="0">S</text>
+<text top="768" left="486" width="61" height="15" font="0">145  165</text>
+<text top="768" left="648" width="9" height="15" font="0">S</text>
+<text top="768" left="702" width="9" height="15" font="0">S</text>
+<text top="787" left="162" width="61" height="15" font="0">180  195</text>
+<text top="787" left="324" width="9" height="15" font="0">S</text>
+<text top="787" left="378" width="9" height="15" font="0">S</text>
+<text top="787" left="486" width="61" height="15" font="0">150  170</text>
+<text top="787" left="648" width="9" height="15" font="0">S</text>
+<text top="787" left="702" width="9" height="15" font="0">S</text>
+<text top="807" left="162" width="61" height="15" font="0">210  195</text>
+<text top="807" left="324" width="12" height="15" font="0">D</text>
+<text top="807" left="378" width="12" height="15" font="0">D</text>
+<text top="807" left="486" width="61" height="15" font="0">210  190</text>
+<text top="807" left="648" width="12" height="15" font="0">D</text>
+<text top="807" left="702" width="9" height="15" font="0">S</text>
+<text top="827" left="162" width="61" height="15" font="0">225  210</text>
+<text top="827" left="324" width="9" height="15" font="0">S</text>
+<text top="827" left="378" width="9" height="15" font="0">S</text>
+<text top="827" left="486" width="61" height="15" font="0">225  205</text>
+<text top="827" left="648" width="12" height="15" font="0">D</text>
+<text top="827" left="702" width="12" height="15" font="0">D</text>
+<text top="847" left="486" width="61" height="15" font="0">200  220</text>
+<text top="847" left="648" width="9" height="15" font="0">S</text>
+<text top="847" left="702" width="12" height="15" font="0">D</text>
+<text top="886" left="108" width="702" height="15" font="0">On repeating the test a month later with speaker 1, (only) the following differences from his original results</text>
+<text top="906" left="108" width="103" height="15" font="0">were observed.</text>
+<text top="946" left="123" width="10" height="15" font="0">i)</text>
+<text top="946" left="162" width="311" height="15" font="0">The 225 205 pair was perceived as 'the same'.</text>
+<text top="966" left="123" width="14" height="15" font="0">ii)</text>
+<text top="966" left="162" width="446" height="15" font="0">The pair 225 200 (25 Hz differential) was perceived as 'the same'.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="565" width="166" height="15" font="7"><i>An experiment with tone</i></text>
+<text top="132" left="790" width="20" height="18" font="3">19</text>
+<text top="194" left="108" width="450" height="15" font="13"><b>b) Translation test: numbers of tokens of each word perceived</b></text>
+<text top="242" left="316" width="43" height="15" font="0">'Greet'</text>
+<text top="242" left="443" width="45" height="15" font="0">'Thick'</text>
+<text top="242" left="574" width="47" height="15" font="0">'Praise'</text>
+<text top="242" left="696" width="55" height="15" font="0">TOTAL</text>
+<text top="275" left="301" width="75" height="15" font="0">(high tone)</text>
+<text top="275" left="431" width="71" height="15" font="0">(mid tone)</text>
+<text top="275" left="563" width="70" height="15" font="0">(low tone)</text>
+<text top="308" left="117" width="128" height="15" font="0">A: 1st. test, spkr. 1</text>
+<text top="308" left="329" width="17" height="15" font="0">24</text>
+<text top="308" left="457" width="17" height="15" font="0">38</text>
+<text top="308" left="593" width="8" height="15" font="0">0</text>
+<text top="308" left="714" width="17" height="15" font="0">62</text>
+<text top="341" left="117" width="132" height="15" font="0">B: 2nd. test, spkr. 1</text>
+<text top="341" left="329" width="17" height="15" font="0">26</text>
+<text top="341" left="457" width="17" height="15" font="0">38</text>
+<text top="341" left="593" width="8" height="15" font="0">0</text>
+<text top="341" left="714" width="17" height="15" font="0">64</text>
+<text top="374" left="117" width="87" height="15" font="0">C: Speaker 2</text>
+<text top="374" left="329" width="17" height="15" font="0">25</text>
+<text top="374" left="457" width="17" height="15" font="0">39</text>
+<text top="374" left="593" width="8" height="15" font="0">0</text>
+<text top="374" left="714" width="17" height="15" font="0">64</text>
+<text top="418" left="108" width="682" height="15" font="0">The discrepancy in totals between the first two tests was caused by a pair 200-190, which the subject</text>
+<text top="438" left="108" width="297" height="15" font="0">could make no decision about the first time.</text>
+<text top="478" left="108" width="76" height="15" font="13"><b>c) All tests</b></text>
+<text top="517" left="108" width="676" height="15" font="0">Every stimulus above 210 Hz was translated as 'Greet' (16 in all). Every stimulus below 190 Hz was</text>
+<text top="537" left="108" width="208" height="15" font="0">translated as 'Thick' (24 in all).</text>
+<text top="557" left="123" width="330" height="15" font="0">For the other stimuli, the results were as follows:</text>
+<text top="606" left="117" width="19" height="15" font="7"><i>Hz</i></text>
+<text top="606" left="225" width="26" height="15" font="0">190</text>
+<text top="606" left="333" width="26" height="15" font="0">195</text>
+<text top="606" left="441" width="26" height="15" font="0">200</text>
+<text top="606" left="549" width="26" height="15" font="0">205</text>
+<text top="606" left="657" width="26" height="15" font="0">210</text>
+<text top="639" left="117" width="79" height="15" font="7"><i>Translation</i></text>
+<text top="639" left="225" width="33" height="15" font="0">High</text>
+<text top="639" left="279" width="28" height="15" font="0">Mid</text>
+<text top="639" left="333" width="33" height="15" font="0">High</text>
+<text top="639" left="387" width="28" height="15" font="0">Mid</text>
+<text top="639" left="441" width="33" height="15" font="0">High</text>
+<text top="639" left="495" width="28" height="15" font="0">Mid</text>
+<text top="639" left="549" width="33" height="15" font="0">High</text>
+<text top="639" left="603" width="28" height="15" font="0">Mid</text>
+<text top="639" left="657" width="33" height="15" font="0">High</text>
+<text top="639" left="711" width="28" height="15" font="0">Mid</text>
+<text top="672" left="117" width="46" height="15" font="0">Test A</text>
+<text top="672" left="225" width="8" height="15" font="0">1</text>
+<text top="672" left="279" width="8" height="15" font="0">2</text>
+<text top="672" left="333" width="8" height="15" font="0">0</text>
+<text top="672" left="387" width="8" height="15" font="0">4</text>
+<text top="672" left="441" width="8" height="15" font="0">4</text>
+<text top="672" left="495" width="8" height="15" font="0">1</text>
+<text top="672" left="549" width="8" height="15" font="0">0</text>
+<text top="672" left="603" width="8" height="15" font="0">5</text>
+<text top="672" left="657" width="8" height="15" font="0">3</text>
+<text top="672" left="711" width="8" height="15" font="0">2</text>
+<text top="705" left="117" width="45" height="15" font="0">Test B</text>
+<text top="705" left="225" width="8" height="15" font="0">2</text>
+<text top="705" left="279" width="8" height="15" font="0">2</text>
+<text top="705" left="333" width="8" height="15" font="0">0</text>
+<text top="705" left="387" width="8" height="15" font="0">4</text>
+<text top="705" left="441" width="8" height="15" font="0">5</text>
+<text top="705" left="495" width="8" height="15" font="0">1</text>
+<text top="705" left="549" width="8" height="15" font="0">0</text>
+<text top="705" left="603" width="8" height="15" font="0">5</text>
+<text top="705" left="657" width="8" height="15" font="0">3</text>
+<text top="705" left="711" width="8" height="15" font="0">2</text>
+<text top="738" left="117" width="45" height="15" font="0">Test C</text>
+<text top="738" left="225" width="8" height="15" font="0">1</text>
+<text top="738" left="279" width="8" height="15" font="0">3</text>
+<text top="738" left="333" width="8" height="15" font="0">3</text>
+<text top="738" left="387" width="8" height="15" font="0">1</text>
+<text top="738" left="441" width="8" height="15" font="0">4</text>
+<text top="738" left="495" width="8" height="15" font="0">2</text>
+<text top="738" left="549" width="8" height="15" font="0">2</text>
+<text top="738" left="603" width="8" height="15" font="0">3</text>
+<text top="738" left="657" width="8" height="15" font="0">3</text>
+<text top="738" left="711" width="8" height="15" font="0">2</text>
+<text top="782" left="123" width="659" height="15" font="0">On tests A and B, for every pair identified as 'Same', two identical translations were provided; for</text>
+<text top="802" left="108" width="510" height="15" font="0">every pair identified as 'Different', two different translations were provided.</text>
+<text top="822" left="123" width="390" height="15" font="0">On test C, there were 3 deviations in this parameter (9%).</text>
+<text top="914" left="108" width="94" height="18" font="6"><b>References</b></text>
+<text top="960" left="108" width="650" height="15" font="0">Blumstein, S.E. (1991). The relation between phonetics and phonology. <i>Phonetica</i> 48. 108-119.</text>
+<text top="980" left="108" width="702" height="15" font="0">Cabrera-Abreu, M. (1996). A phonological model for intonation without low tone. PhD dissertation.</text>
+<text top="999" left="123" width="283" height="15" font="0">University College, University of London.</text>
+<text top="1019" left="108" width="702" height="15" font="0">Coleman, J. &amp; Local, J.K. (1992). The 'No Crossing Constraint' in autosegmental phonology. <i>Linguistics</i></text>
+<text top="1039" left="123" width="199" height="15" font="7"><i>and Philosophy</i> 14. 295-338.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="95" height="15" font="7"><i>Phil Harrison</i></text>
+<text top="132" left="108" width="20" height="18" font="3">20</text>
+<text top="193" left="108" width="702" height="15" font="0">Dell, G.S. &amp; Reich, P.A. (1981). Stages in sentence production: an analysis of speech error data. <i>Journal</i></text>
+<text top="213" left="123" width="359" height="15" font="7"><i>of verbal learning and verbal behavior</i> 20. 611-629.</text>
+<text top="233" left="108" width="702" height="15" font="0">Eilers, R.E., Gavin, W., &amp; Wilson, W.R. (1979). Linguistic experience and phonemic perception in infancy:</text>
+<text top="253" left="123" width="370" height="15" font="0">a cross-linguistic study. <i>Child Development</i> 50. 14-18.</text>
+<text top="273" left="108" width="702" height="15" font="0">Eimas, P., Siqueland, E., Jusczyk, P.W. &amp; Vigorito, J. (1971). Speech perception in infants. <i>Science</i> 171.</text>
+<text top="292" left="123" width="62" height="15" font="0">303-318.</text>
+<text top="312" left="108" width="702" height="15" font="0">Fifer, W.P. &amp; Moon, C. (1989). Psychobiology of newborn auditory preferences. <i>Seminars in Perinatology</i></text>
+<text top="332" left="123" width="88" height="15" font="0">13. 430-433.</text>
+<text top="352" left="108" width="577" height="15" font="0">Goldsmith, J.A. (1990). <i>Autosegmental and Metrical Phonology</i>. Oxford: Blackwell.</text>
+<text top="372" left="108" width="426" height="15" font="0">Harris, J. (1994). <i>English Sound Structure</i>. Oxford: Blackwell.</text>
+<text top="391" left="108" width="702" height="15" font="0">Harrison, P.A. (1995). Phonology and infants'perceptual abilities: asking the right questions. <i>UCL Working</i></text>
+<text top="411" left="123" width="228" height="15" font="7"><i>Papers in Linguistics</i> 7. 463-483.</text>
+<text top="431" left="108" width="653" height="15" font="0">Haudricourt, A-G. (1954). De l'origine des tons en viêtnamien. In <i>Journal Asiatique</i> 242. 68-82.</text>
+<text top="451" left="108" width="702" height="15" font="0">Karmiloff-Smith, A. (1995). Annotation: the extraordinary cognitive journey from fetus through infancy.</text>
+<text top="471" left="123" width="412" height="15" font="7"><i>Journal of Child Psychology and Psychiatry</i> 36. 1293-1313.</text>
+<text top="490" left="108" width="702" height="15" font="0">Kaye, J., Lowenstamm, J., &amp; Vergnaud, J-R. (1985). The internal structure of phonological elements: a</text>
+<text top="510" left="123" width="457" height="15" font="0">theory of charm and government. <i>Phonology Yearbook</i> 2. 305-328.</text>
+<text top="530" left="108" width="702" height="15" font="0">Kaye, J., Lowenstamm, J., &amp; Vergnaud, J-R. (1990). Constituent structure and government in phonology.</text>
+<text top="550" left="123" width="158" height="15" font="7"><i>Phonology</i> 7. 193-232.</text>
+<text top="570" left="108" width="702" height="15" font="0">Kuhl, P.K. (1992). Infants' perception and representation of speech: development of a new theory. <i>ICSLP</i></text>
+<text top="589" left="123" width="195" height="15" font="7"><i>Proceedings</i>: Banff, Canada.</text>
+<text top="609" left="108" width="702" height="15" font="0">Kuhl, P.K. &amp; Miller, J.D. (1975). Speech perception by the chinchilla: voiced-voiceless distinction in</text>
+<text top="629" left="123" width="330" height="15" font="0">alveolar plosive consonants. <i>Science</i> 190. 69-72.</text>
+<text top="649" left="108" width="702" height="15" font="0">Levelt, W.J.M. (1992). Accessing words in speech production: Stages, processes and representations.</text>
+<text top="669" left="123" width="135" height="15" font="7"><i>Cognition</i> 42. 1-22.</text>
+<text top="688" left="108" width="702" height="15" font="0">Local, J.K.&amp; Lodge, K. (1996). Another travesty of representation: phonological representation and</text>
+<text top="708" left="123" width="624" height="15" font="0">phonetic interpretation of ATR harmony in Kalenjin. <i>York Papers in Linguistics </i>17. 77-117.</text>
+<text top="728" left="108" width="630" height="15" font="0">McCarthy, J.J. &amp; Prince, A. (1986). <i>Prosodic Morphology</i>. Ms, University of Massachusetts.</text>
+<text top="748" left="108" width="702" height="15" font="0">Mehler, J., Jusczyk, P.W., Lambertz, G., Halsted, N., Bertoncini, J., &amp; Amiel-Tison, C. (1988). A</text>
+<text top="768" left="123" width="507" height="15" font="0">precursor of language acquisition in young infants. <i>Cognition</i> 29. 143-178.</text>
+<text top="787" left="108" width="702" height="15" font="0">Nasukawa, K. (1995). Melodic structure and no-constraint-ranking in Japanese verbal inflexion. <i>Paper</i></text>
+<text top="807" left="123" width="687" height="15" font="7"><i>presented at the Autumn 1995 meeting of the Linguistics Association of Great Britain, University of</i></text>
+<text top="827" left="123" width="43" height="15" font="7"><i>Essex.</i></text>
+<text top="847" left="108" width="482" height="15" font="0">Pulleyblank, D. (1986). <i>Tone in Lexical Phonology</i>. Dordrecht: Reidel.</text>
+<text top="867" left="108" width="702" height="15" font="0">Ritter, N. (1996). The role of asymmetrical headedness in the reduction theory of elements. <i>Paper</i></text>
+<text top="886" left="123" width="438" height="15" font="7"><i>presented at the GLOW colloquium, University of Athens, 1996</i>.</text>
+<text top="906" left="108" width="702" height="15" font="0">Slater, A. (1992). The visual constancies in early infancy. <i>The Irish Journal of Psychology</i> 13. 411-424.</text>
+<text top="926" left="108" width="702" height="15" font="0">Stemberger, J.P. (1983). <i>Speech errors and theoretical phonology: a review</i>. Bloomington: Indiana</text>
+<text top="946" left="123" width="115" height="15" font="0">Linguistics Club.</text>
+<text top="966" left="108" width="702" height="15" font="0">Stuart-Smith, J. (1996). The representation of a tonal contrast in British Panjabi. <i>Paper presented at the</i></text>
+<text top="985" left="123" width="411" height="15" font="7"><i>Fourth Phonology Meeting, University of Manchester 1996.</i></text>
+</page>
+</pdf2xml>

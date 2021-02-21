@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="36" family="Times" color="#000000"/>
+	<fontspec id="1" size="23" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="17" family="Times" color="#000000"/>
+	<fontspec id="5" size="20" family="Times" color="#000000"/>
+	<fontspec id="6" size="12" family="Times" color="#000000"/>
+	<fontspec id="7" size="19" family="Times" color="#000000"/>
+<text top="137" left="108" width="702" height="32" font="0"><i><b>Clitic Doubling in Modern Greek: a Head-</b></i></text>
+<text top="179" left="108" width="320" height="32" font="0"><i><b>Complement Relation</b></i></text>
+<text top="171" left="428" width="12" height="21" font="1">*</text>
+<text top="264" left="108" width="200" height="18" font="2">DIMITRA PAPANGELI</text>
+<text top="361" left="152" width="74" height="18" font="3"><b>Abstract</b></text>
+<text top="408" left="152" width="615" height="15" font="4">The hypothesis presented in this paper, namely that in clitic doubling constructions the clitic</text>
+<text top="428" left="152" width="615" height="15" font="4">selects for a DP-complement in Syntax, is motivated by the need to explain the thematic</text>
+<text top="448" left="152" width="615" height="15" font="4">problem raised in such constructions: Two elements, the clitic and its double, compete for the</text>
+<text top="468" left="152" width="615" height="15" font="4">same theta-role. It will be argued that, in languages with an overt case affix on nouns, the clitic</text>
+<text top="488" left="152" width="615" height="15" font="4">and its double may start out in a head-complement relation. The clitic may also be coreferential</text>
+<text top="508" left="152" width="616" height="15" font="4">with a phrase in an adjunct position. In this case, though, the relation between the clitic and the</text>
+<text top="529" left="152" width="476" height="15" font="4">double is one of coreference, established outside the module of Syntax.</text>
+<text top="598" left="108" width="122" height="18" font="3"><b>1 Introduction</b></text>
+<text top="645" left="108" width="703" height="18" font="2">This paper deals with the well-known problem of clitic doubling. The verb seems to assign</text>
+<text top="669" left="108" width="703" height="18" font="2">a single theta-role to two elements, the pronominal clitic and its double phrase. For</text>
+<text top="692" left="108" width="73" height="18" font="2">example:</text>
+<text top="740" left="108" width="23" height="18" font="2">(1)</text>
+<text top="740" left="152" width="34" height="18" font="3"><b>Ton</b></text>
+<text top="740" left="259" width="34" height="18" font="2">idha</text>
+<text top="740" left="324" width="17" height="18" font="3"><b>to</b></text>
+<text top="740" left="378" width="36" height="18" font="3"><b>Jani</b></text>
+<text top="764" left="108" width="195" height="18" font="2">       cl-3sg-m-acc saw-I</text>
+<text top="764" left="324" width="24" height="18" font="2">the</text>
+<text top="764" left="378" width="65" height="18" font="2">Jani-acc</text>
+<text top="788" left="108" width="24" height="18" font="2">     </text>
+<text top="788" left="152" width="97" height="18" font="2">“I saw Jani”</text>
+<text top="836" left="108" width="703" height="18" font="2">The verb <i>idha</i> “saw” must assign an internal theta-role. Both the clitic and the DP-double</text>
+<text top="859" left="108" width="490" height="18" font="2">of the clitic appear as potential internal arguments of the verb.</text>
+<text top="883" left="123" width="687" height="18" font="2">If the clitic is the highest functional head that is merged in the extended projection of the</text>
+<text top="907" left="108" width="703" height="18" font="2">Noun-double, then the clitic and its double can be jointly assigned a single theta-role (i.e.</text>
+<text top="931" left="108" width="544" height="18" font="2">the internal-role of the verb). The clitic then incorporates to the verb:</text>
+<text top="999" left="108" width="217" height="18" font="2">                                           </text>
+<text top="1018" left="123" width="6" height="11" font="6">*</text>
+<text top="1023" left="129" width="5" height="17" font="7"> </text>
+<text top="1024" left="134" width="677" height="15" font="4">Firstly, I would like to thank Ad Neeleman for all his help. Also thanks to Neil Smith, Hans van de Koot</text>
+<text top="1045" left="108" width="101" height="15" font="4">and Dirk Bury.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="17" family="Times" color="#000000"/>
+	<fontspec id="9" size="20" family="Helvetica" color="#000000"/>
+	<fontspec id="10" size="20" family="Courier" color="#000000"/>
+<text top="132" left="108" width="25" height="15" font="4">474</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="197" left="108" width="23" height="18" font="2">(2)</text>
+<text top="196" left="131" width="6" height="19" font="9"> </text>
+<text top="197" left="189" width="64" height="18" font="2">        VP</text>
+<text top="218" left="108" width="54" height="18" font="2">           </text>
+<text top="219" left="181" width="24" height="16" font="10">ei</text>
+<text top="242" left="108" width="219" height="18" font="2">              V                     Cl P</text>
+<text top="264" left="108" width="119" height="16" font="10">   ei   ei</text>
+<text top="287" left="108" width="287" height="18" font="2">  Cl                    V tCl                   DP</text>
+<text top="311" left="108" width="209" height="18" font="2"> Clitic                                 </text>
+<text top="312" left="317" width="24" height="16" font="10">ei</text>
+<text top="311" left="341" width="15" height="18" font="2">   </text>
+<text top="336" left="108" width="346" height="18" font="2">                                           D                    NP</text>
+<text top="359" left="108" width="377" height="18" font="2">                                          Determiner     Double</text>
+<text top="407" left="108" width="702" height="18" font="2">The hypothesis makes the following predictions: Firstly, clitics and full pronouns are</text>
+<text top="431" left="108" width="703" height="18" font="2">expected to behave in a similar way. This is borne out in Greek, where both elements can</text>
+<text top="454" left="108" width="703" height="18" font="2">either replace a DP or appear together with it. The crucial difference is that clitics must</text>
+<text top="478" left="108" width="703" height="18" font="2">incorporate to the verb (due to their weak nature), while strong pronouns remain in situ and</text>
+<text top="502" left="108" width="302" height="18" font="2">appear adjacent to a coreferential DP. </text>
+<text top="526" left="123" width="688" height="18" font="2">Secondly, the hypothesis predicts that both clitics and strong pronouns form a constituent</text>
+<text top="550" left="108" width="702" height="18" font="2">with their double. This is borne out in Greek: an adverbial cannot intervene between the</text>
+<text top="573" left="108" width="703" height="18" font="2">pronoun and the DP. Of course the same argument cannot apply to clitics, since they never</text>
+<text top="597" left="108" width="703" height="18" font="2">surface next to their coreferential DP. Evidence that the clitic and the DP form a constituent</text>
+<text top="621" left="108" width="703" height="18" font="2">is derived from structures where clitic doubling is obligatory. In these cases, the clitic and</text>
+<text top="645" left="108" width="703" height="18" font="2">its double may jointly be replaced by a pronominal form. The most plausible explanation</text>
+<text top="668" left="108" width="703" height="18" font="2">is that the clitic starts out in the verbal complement position and forms a constituent with</text>
+<text top="692" left="108" width="120" height="18" font="2">the DP-double.</text>
+<text top="716" left="123" width="688" height="18" font="2">Thirdly, it is predicted that the clitic and the double will share identical features (since the</text>
+<text top="740" left="108" width="703" height="18" font="2">functional heads that are merged in the extended nominal projection cannot contain features</text>
+<text top="763" left="108" width="702" height="18" font="2">that clash with those of the lexical head – Grimshaw 1991). This is true: the clitic and its</text>
+<text top="787" left="108" width="702" height="18" font="2">double carry the same features for case, number, gender and person. Therefore the two</text>
+<text top="811" left="108" width="498" height="18" font="2">elements are combined into a well formed extended projection.</text>
+<text top="835" left="123" width="687" height="18" font="2">Lastly, a fourth prediction is made: the clitic may start out from the verbal complement</text>
+<text top="858" left="108" width="702" height="18" font="2">position in languages with morphological case. If case is a functional head, in the extended</text>
+<text top="882" left="108" width="703" height="18" font="2">nominal projection, the CASE-head is filled in the presence of a case affix on the Noun</text>
+<text top="906" left="108" width="703" height="18" font="2">(Neeleman &amp; Weerman 1999) or else it must be governed at PF, due to the ECP (Aoun et</text>
+<text top="930" left="108" width="702" height="18" font="2">al., 1987, Rizzi, 1990, Neeleman &amp; Weerman, 1999). If the clitic is the highest head in the</text>
+<text top="953" left="108" width="703" height="18" font="2">extended nominal projection, it prevents the verb from governing the case shell of the DP.</text>
+<text top="977" left="108" width="702" height="18" font="2">In addition, the clitic is not a proper governor, due to its nominal character (Neeleman &amp;</text>
+<text top="1001" left="108" width="138" height="18" font="2">Weerman, 1999).</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="13" family="Times" color="#000000"/>
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">475</text>
+<text top="173" left="123" width="687" height="18" font="2">This is borne out, since we can extract from the DP-double of a clitic in Greek but we</text>
+<text top="197" left="108" width="703" height="18" font="2">cannot extract from the PP-double of a clitic in Spanish. The extraction facts also support</text>
+<text top="221" left="108" width="703" height="18" font="2">the idea that the DP-double of a clitic is merged as the complement rather than the specifier</text>
+<text top="245" left="108" width="138" height="18" font="2">of the clitic-head.</text>
+<text top="293" left="108" width="185" height="18" font="3"><b>2 Clitics above the VP</b></text>
+<text top="340" left="108" width="703" height="18" font="2">Sportiche (1992, published in 1998) argues that clitics are functional heads that head their</text>
+<text top="364" left="108" width="702" height="18" font="2">own projection. They are generated in a position higher than VP, so they never appear in</text>
+<text top="387" left="108" width="702" height="18" font="2">the verbal complement position. A DP-double (XP*) is the complement of the verb. This</text>
+<text top="411" left="108" width="702" height="18" font="2">XP* can be either overt or null and needs to be licensed through spec-head agreement by</text>
+<text top="435" left="108" width="643" height="18" font="2">moving, overtly or covertly, to the specifier of the projection headed by the clitic.</text>
+<text top="459" left="123" width="687" height="18" font="2">Sportiche actually solves the thematic problem of clitic doubling constructions, since</text>
+<text top="483" left="108" width="702" height="18" font="2">according to his proposal, the clitic is never assigned an internal-role from the verb. An</text>
+<text top="506" left="108" width="702" height="18" font="2">immediate problem is that the clitic and its double need to be related. This is realized</text>
+<text top="530" left="108" width="702" height="18" font="2">through spec-head agreement. So, in clitic doubling constructions, we would expect the</text>
+<text top="554" left="108" width="703" height="18" font="2">double to immediately precede the clitic-head. This is not actually the case. For example,</text>
+<text top="578" left="108" width="703" height="18" font="2">in Greek, whenever the DP-double of a clitic appears in a position leftwards to the clitic,</text>
+<text top="601" left="108" width="254" height="18" font="2">the two are not always adjacent:</text>
+<text top="649" left="108" width="23" height="18" font="2">(3)</text>
+<text top="649" left="152" width="98" height="18" font="2">a. <i>Tu Jani</i></text>
+<text top="649" left="270" width="31" height="18" font="3"><b>den</b></text>
+<text top="649" left="324" width="15" height="18" font="5"><i>tu</i></text>
+<text top="649" left="438" width="29" height="18" font="2">exo</text>
+<text top="649" left="540" width="45" height="18" font="2">milisi</text>
+<text top="673" left="181" width="67" height="18" font="2">the Jani</text>
+<text top="673" left="270" width="29" height="18" font="2">neg</text>
+<text top="673" left="324" width="186" height="18" font="2">cl-3sg-m-gen have-1sg</text>
+<text top="673" left="540" width="49" height="18" font="2">talked</text>
+<text top="697" left="108" width="49" height="18" font="2">          </text>
+<text top="697" left="181" width="210" height="18" font="2">“To Jani, I haven’t talked”</text>
+<text top="745" left="152" width="98" height="18" font="2">b. <i>Tu Jani</i></text>
+<text top="745" left="324" width="129" height="18" font="3"><b>polles fores </b><i>tu</i></text>
+<text top="745" left="605" width="29" height="18" font="2">exo</text>
+<text top="745" left="702" width="45" height="18" font="2">milisi</text>
+<text top="769" left="181" width="102" height="18" font="2">the Jani-gen</text>
+<text top="769" left="324" width="220" height="18" font="2">many times cl-3sg-m-gen</text>
+<text top="769" left="605" width="72" height="18" font="2">have-1sg</text>
+<text top="769" left="702" width="48" height="18" font="2">talked</text>
+<text top="793" left="108" width="49" height="18" font="2">          </text>
+<text top="793" left="181" width="188" height="18" font="2">“To Jani, I have talked”</text>
+<text top="840" left="108" width="703" height="18" font="2">Sportiche is forced to propose the Doubly Filled Voice Filter which guarantees that clitic-</text>
+<text top="864" left="108" width="702" height="18" font="2">heads (on a par with other functional heads like certain Cs) cannot be simultaneously filled</text>
+<text top="888" left="108" width="677" height="18" font="2">as their specifier, if they encode a property, which is realized overtly on this specifier.</text>
+<text top="935" left="108" width="23" height="18" font="2">(4)</text>
+<text top="935" left="152" width="17" height="18" font="2">*[</text>
+<text top="943" left="168" width="20" height="12" font="11">HP </text>
+<text top="935" left="189" width="99" height="18" font="2">XP [ H … ]]</text>
+<text top="959" left="152" width="659" height="18" font="2">where H is a functional head and both XP and H overtly encode the same property P</text>
+<text top="983" left="151" width="329" height="18" font="2">(specificity in the case of clitic doubling).</text>
+<text top="1006" left="152" width="168" height="18" font="2">(Sportiche 1992:273)</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">476</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="703" height="18" font="2">However, the parallel between the Doubly Filled Voice Filter an the Doubly Filled Comp</text>
+<text top="197" left="108" width="589" height="18" font="2">Filter is not strengthened by the fact that the latter is occasionally violated:</text>
+<text top="245" left="108" width="23" height="18" font="2">(5)</text>
+<text top="245" left="152" width="81" height="18" font="2">Dutch: Ik</text>
+<text top="245" left="259" width="44" height="18" font="2">vraag</text>
+<text top="245" left="324" width="24" height="18" font="2">me</text>
+<text top="245" left="378" width="16" height="18" font="2">af</text>
+<text top="245" left="438" width="29" height="18" font="5"><i>wat</i></text>
+<text top="245" left="486" width="16" height="18" font="5"><i>of</i></text>
+<text top="245" left="540" width="37" height="18" font="2">Juan</text>
+<text top="245" left="605" width="52" height="18" font="2">gezien</text>
+<text top="245" left="702" width="40" height="18" font="2">heeft</text>
+<text top="268" left="216" width="7" height="18" font="2">I</text>
+<text top="268" left="259" width="93" height="18" font="2">wonder refl</text>
+<text top="268" left="378" width="31" height="18" font="2">part</text>
+<text top="268" left="438" width="60" height="18" font="2">what if</text>
+<text top="268" left="540" width="38" height="18" font="2">John</text>
+<text top="268" left="605" width="35" height="18" font="2">seen</text>
+<text top="268" left="702" width="27" height="18" font="2">has</text>
+<text top="316" left="152" width="107" height="18" font="2">Czech: Chtel</text>
+<text top="316" left="324" width="97" height="18" font="2">bych vedet</text>
+<text top="316" left="452" width="19" height="18" font="5"><i>co</i></text>
+<text top="316" left="540" width="17" height="18" font="5"><i>ze</i></text>
+<text top="316" left="605" width="47" height="18" font="2">Marie</text>
+<text top="316" left="702" width="37" height="18" font="2">cetta</text>
+<text top="340" left="108" width="83" height="18" font="2">                 </text>
+<text top="340" left="216" width="67" height="18" font="2">Would-I</text>
+<text top="340" left="324" width="30" height="18" font="2">like</text>
+<text top="340" left="378" width="113" height="18" font="2">to-know what</text>
+<text top="340" left="540" width="30" height="18" font="2">that</text>
+<text top="340" left="605" width="43" height="18" font="2">Mary</text>
+<text top="340" left="702" width="34" height="18" font="2">read</text>
+<text top="363" left="152" width="342" height="18" font="2">(Ackema &amp; Neeleman, 1998: 471 and 475)</text>
+<text top="411" left="108" width="702" height="18" font="2">In the above examples, a wh-phrase is adjacent to a complementizer head<i> </i>(<i>wat</i> “what” is</text>
+<text top="435" left="108" width="703" height="18" font="2">the wh-phrase and <i>of</i> “if” the C-head in (a) and <i>co </i>“what” is the wh-phrase and <i>ze</i> “that” the</text>
+<text top="458" left="108" width="702" height="18" font="2">C-head in (b)). This indicates that both the head C and its specifier are filled by elements</text>
+<text top="482" left="108" width="224" height="18" font="2">encoding the same property.</text>
+<text top="506" left="123" width="687" height="18" font="2">The hypothesis that the clitic is base-generated as a functional head in the projection</text>
+<text top="530" left="108" width="703" height="18" font="2">extended above the verb makes certain predictions concerning the typology of languages:</text>
+<text top="553" left="108" width="702" height="18" font="2">It allows both the clitic and its double to be overt, a phenomenon attested in clitic doubling</text>
+<text top="577" left="108" width="702" height="18" font="2">constructions. It also allows the clitic to be overt while its double is null (cliticization</text>
+<text top="601" left="108" width="703" height="18" font="2">without doubling). Thirdly, it allows the clitic to be null while its double is overt. Sportiche</text>
+<text top="625" left="108" width="703" height="18" font="2">argues that scrambling constructions may be analyzed as the manifestation of this option.</text>
+<text top="649" left="108" width="703" height="18" font="2">Lastly, the theory allows both the clitic and its double to be phonologically null. This could</text>
+<text top="672" left="108" width="702" height="18" font="2">be a configuration where both the clitic and the complement of the verb are structurally</text>
+<text top="696" left="108" width="304" height="18" font="2">represented but phonologically empty.</text>
+<text top="720" left="123" width="506" height="18" font="2">We could sum up Sportiche’s predictions in the following table:</text>
+<text top="767" left="108" width="23" height="18" font="2">(6)</text>
+<text top="767" left="152" width="139" height="18" font="2">i. Clitic Doubling</text>
+<text top="767" left="452" width="26" height="18" font="2">CL</text>
+<text top="763" left="477" width="7" height="12" font="11">0</text>
+<text top="767" left="484" width="46" height="18" font="2"> overt</text>
+<text top="767" left="648" width="81" height="18" font="2">XP* overt</text>
+<text top="815" left="108" width="24" height="18" font="2">     </text>
+<text top="815" left="152" width="258" height="18" font="2">ii. Cliticization without doubling</text>
+<text top="815" left="452" width="26" height="18" font="2">CL</text>
+<text top="810" left="477" width="7" height="12" font="11">0</text>
+<text top="815" left="484" width="46" height="18" font="2"> overt</text>
+<text top="815" left="648" width="71" height="18" font="2">XP* null</text>
+<text top="839" left="108" width="5" height="18" font="2"> </text>
+<text top="862" left="108" width="24" height="18" font="2">     </text>
+<text top="862" left="152" width="227" height="18" font="2">iii. Scrambling constructions</text>
+<text top="862" left="452" width="26" height="18" font="2">CL</text>
+<text top="858" left="477" width="7" height="12" font="11">0</text>
+<text top="862" left="484" width="36" height="18" font="2"> null</text>
+<text top="862" left="648" width="81" height="18" font="2">XP* overt</text>
+<text top="910" left="108" width="24" height="18" font="2">     </text>
+<text top="910" left="152" width="86" height="18" font="2">iv.        ???</text>
+<text top="905" left="238" width="39" height="12" font="11">            </text>
+<text top="910" left="452" width="26" height="18" font="2">CL</text>
+<text top="905" left="477" width="7" height="12" font="11">0</text>
+<text top="910" left="484" width="36" height="18" font="2"> null</text>
+<text top="910" left="648" width="71" height="18" font="2">XP* null</text>
+<text top="957" left="108" width="702" height="18" font="2">It can be argued that the latter is attested in languages like Italian, where it is possible for</text>
+<text top="981" left="108" width="702" height="18" font="2">the clitic and the object-DP to be phonologically null. According to Rizzi (1986) a pro is</text>
+<text top="1005" left="108" width="235" height="18" font="2">merged in the object position.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="11" family="Times" color="#000000"/>
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">477</text>
+<text top="173" left="123" width="687" height="18" font="2">So, in clitic constructions without doubling, a pro is required due to conditions on theta-</text>
+<text top="197" left="108" width="702" height="18" font="2">role assignment. The clitic is merged outside VP and therefore it is not assigned the</text>
+<text top="221" left="108" width="702" height="18" font="2">internal-role of the verb. Some other element must be merged in the verbal complement</text>
+<text top="245" left="108" width="409" height="18" font="2">position. Sportiche assumes that this element is pro.</text>
+<text top="268" left="123" width="687" height="18" font="2">However, this hypothesis cannot account for a language that in general rules out a pro</text>
+<text top="292" left="108" width="702" height="18" font="2">from the object position. More precisely, Greek lacks any independent evidence for the</text>
+<text top="316" left="108" width="703" height="18" font="2">presence of a pro as the complement of the verb. Although, the language allows for a pro</text>
+<text top="340" left="108" width="702" height="18" font="2">to appear in the subject position, the same is not true for the object position. As we will see,</text>
+<text top="363" left="108" width="631" height="18" font="2">Greek behaves like English, in that an understood object is not active in Syntax.</text>
+<text top="387" left="123" width="687" height="18" font="2">Firstly, if we look at cases of VP ellipsis, it is obvious that the DO of a transitive verb</text>
+<text top="411" left="108" width="147" height="18" font="2">cannot be omitted:</text>
+<text top="458" left="108" width="23" height="18" font="2">(7)</text>
+<text top="458" left="152" width="69" height="18" font="2">*O Janis</text>
+<text top="458" left="259" width="52" height="18" font="2">espase</text>
+<text top="458" left="378" width="21" height="18" font="2">tin</text>
+<text top="458" left="438" width="41" height="18" font="2">porta</text>
+<text top="458" left="540" width="24" height="18" font="2">kai</text>
+<text top="458" left="605" width="6" height="18" font="2">i</text>
+<text top="458" left="648" width="150" height="18" font="2">Maria eftiakse   …</text>
+<text top="482" left="108" width="187" height="18" font="2">        the Jani broke-3sg</text>
+<text top="482" left="324" width="24" height="18" font="2">the</text>
+<text top="482" left="378" width="132" height="18" font="2">door-acc and the</text>
+<text top="482" left="540" width="165" height="18" font="2">Maria fixed-3sg …</text>
+<text top="506" left="108" width="20" height="18" font="2">    </text>
+<text top="506" left="152" width="329" height="18" font="2">“Janis broke the door and Mary fixed …”</text>
+<text top="553" left="108" width="703" height="18" font="2">This seems to indicate that the DO of a transitive verb is always phonologically realized,</text>
+<text top="577" left="108" width="185" height="18" font="2">if interpretively present</text>
+<text top="573" left="293" width="7" height="12" font="11">1</text>
+<text top="577" left="300" width="5" height="18" font="2">.</text>
+<text top="601" left="123" width="687" height="18" font="2">Moreover, an empty object in Greek does not act as a controller, it does not qualify as the</text>
+<text top="625" left="108" width="703" height="18" font="2">antecedent of a reflexive, nor is it ever modified by a secondary predicate. These are tests</text>
+<text top="648" left="108" width="702" height="18" font="2">put forth by Rizzi (1986) in order to argue that Italian allows for pro-objects. Greek, on the</text>
+<text top="672" left="108" width="302" height="18" font="2">other hand, behaves in a different way</text>
+<text top="668" left="410" width="7" height="12" font="11">2</text>
+<text top="672" left="417" width="5" height="18" font="2">.</text>
+<text top="740" left="108" width="217" height="18" font="2">                                           </text>
+<text top="759" left="123" width="8" height="10" font="12">1 </text>
+<text top="763" left="132" width="679" height="15" font="4">An exception to this generalisation would be verbs like <i>diavazo</i> “read”, where the internal theta-role of</text>
+<text top="783" left="108" width="702" height="15" font="4">the verb can be saturated in the lexicon. In such cases, the internal theta-role is semantically present, but</text>
+<text top="803" left="108" width="570" height="15" font="4">syntactically absent. Therefore, the configuration lacks a syntactically realised object.</text>
+<text top="840" left="123" width="6" height="10" font="12">2</text>
+<text top="843" left="129" width="681" height="15" font="4"> It is worth pointing out that if it is true that Greek lacks phonologically empty objects, then an</text>
+<text top="864" left="108" width="702" height="15" font="4">explanation can be provided for the fact that a controlled object is always phonologically expressed, while</text>
+<text top="884" left="108" width="702" height="15" font="4">a controlled subject can be omitted. More precisely, Philippaki &amp; Catsimali (1999) present constructions</text>
+<text top="904" left="108" width="702" height="15" font="4">where the object of the main clause is coreferential with either the subject or the object of the embedded</text>
+<text top="924" left="108" width="703" height="15" font="4">clause. If it is the object of the embedded clause that is controlled by an argument in the main clause, it needs</text>
+<text top="944" left="108" width="197" height="15" font="4">to be phonologically realised:</text>
+<text top="964" left="123" width="40" height="15" font="4">(i) a.</text>
+<text top="964" left="181" width="52" height="15" font="4">[[Vlepo</text>
+<text top="964" left="259" width="13" height="15" font="8"><i>to</i></text>
+<text top="964" left="324" width="34" height="15" font="8"><i>Jani</i>]</text>
+<text top="964" left="378" width="22" height="15" font="4">[na</text>
+<text top="964" left="438" width="22" height="15" font="8"><i>ton</i></text>
+<text top="964" left="540" width="74" height="15" font="4">sproxnun]]</text>
+<text top="984" left="123" width="37" height="15" font="4">         </text>
+<text top="984" left="190" width="89" height="15" font="4">see-1sg  the</text>
+<text top="984" left="324" width="27" height="15" font="4">Jani</text>
+<text top="984" left="378" width="28" height="15" font="4">subj</text>
+<text top="984" left="438" width="161" height="15" font="4">cl-3sg-m-acc push-3pl</text>
+<text top="1005" left="123" width="33" height="15" font="4">        </text>
+<text top="1005" left="190" width="170" height="15" font="4">“I see Jani being pushed”</text>
+<text top="1025" left="152" width="13" height="15" font="4">b.</text>
+<text top="1025" left="181" width="61" height="15" font="4">*[[Vlepo</text>
+<text top="1025" left="259" width="13" height="15" font="4">to</text>
+<text top="1025" left="324" width="33" height="15" font="4">Jani]</text>
+<text top="1025" left="378" width="77" height="15" font="4">[na ---</text>
+<text top="1025" left="486" width="74" height="15" font="4">sproxnun]]</text>
+<text top="1045" left="123" width="42" height="15" font="4">          </text>
+<text top="1045" left="190" width="50" height="15" font="4">see-1sg</text>
+<text top="1045" left="259" width="21" height="15" font="4">the</text>
+<text top="1045" left="324" width="31" height="15" font="4">Jani </text>
+<text top="1045" left="378" width="32" height="15" font="4">subj </text>
+<text top="1045" left="438" width="21" height="15" font="4">--- </text>
+<text top="1045" left="486" width="59" height="15" font="4">push-3pl</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">478</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="703" height="18" font="2">Firstly, Italian allows for a phonologically null DO to act as the controller of a subject that</text>
+<text top="197" left="108" width="285" height="18" font="2">is generated in an embedded clause:</text>
+<text top="245" left="108" width="23" height="18" font="2">(8)</text>
+<text top="245" left="152" width="86" height="18" font="2">a. Questo</text>
+<text top="245" left="259" width="66" height="18" font="2">conduce</text>
+<text top="245" left="378" width="26" height="18" font="2">----</text>
+<text top="245" left="438" width="9" height="18" font="2">a</text>
+<text top="245" left="486" width="141" height="18" font="2">[PRO concludere</text>
+<text top="245" left="648" width="54" height="18" font="2">quanto</text>
+<text top="245" left="731" width="57" height="18" font="2">segue].</text>
+<text top="268" left="108" width="39" height="18" font="2">        </text>
+<text top="268" left="181" width="54" height="18" font="2">“*This</text>
+<text top="268" left="259" width="146" height="18" font="2">leads ----</text>
+<text top="268" left="438" width="15" height="18" font="2">to</text>
+<text top="268" left="486" width="126" height="18" font="2">[PRO conclude</text>
+<text top="268" left="648" width="39" height="18" font="2">what</text>
+<text top="268" left="731" width="75" height="18" font="2">follows]”</text>
+<text top="316" left="108" width="129" height="18" font="2"> b. Questo</text>
+<text top="316" left="259" width="66" height="18" font="2">conduce</text>
+<text top="316" left="353" width="14" height="18" font="2">la</text>
+<text top="316" left="395" width="43" height="18" font="2">gente</text>
+<text top="316" left="459" width="9" height="18" font="2">a</text>
+<text top="316" left="501" width="45" height="18" font="2">[PRO</text>
+<text top="316" left="565" width="87" height="18" font="2">concludere</text>
+<text top="316" left="671" width="121" height="18" font="2">quanto segue].</text>
+<text top="340" left="108" width="44" height="18" font="2">         </text>
+<text top="340" left="190" width="44" height="18" font="2">“This</text>
+<text top="340" left="259" width="41" height="18" font="2">leads</text>
+<text top="340" left="353" width="24" height="18" font="2">the</text>
+<text top="340" left="395" width="79" height="18" font="2">people to</text>
+<text top="340" left="502" width="45" height="18" font="2">[PRO</text>
+<text top="340" left="565" width="72" height="18" font="2">conclude</text>
+<text top="340" left="672" width="39" height="18" font="2">what</text>
+<text top="340" left="735" width="75" height="18" font="2">follows]”</text>
+<text top="363" left="181" width="135" height="18" font="2">(Rizzi 1986:503)</text>
+<text top="411" left="108" width="702" height="18" font="2">In Greek, on the other hand, a phonologically null DO is not a potential controller for the</text>
+<text top="435" left="108" width="153" height="18" font="2">embedded subject: </text>
+<text top="482" left="108" width="23" height="18" font="2">(9)</text>
+<text top="482" left="152" width="76" height="18" font="2">a. *Afto</text>
+<text top="482" left="259" width="34" height="18" font="2">kani</text>
+<text top="482" left="378" width="44" height="18" font="2">… na</text>
+<text top="482" left="452" width="77" height="18" font="2">katalavun</text>
+<text top="482" left="605" width="11" height="18" font="2">ti</text>
+<text top="482" left="648" width="75" height="18" font="2">akolouthi</text>
+<text top="506" left="108" width="102" height="18" font="2">              this</text>
+<text top="506" left="259" width="312" height="18" font="2">makes/leads  … SUBJ understand-3pl</text>
+<text top="506" left="605" width="102" height="18" font="2">what follows</text>
+<text top="530" left="108" width="49" height="18" font="2">          </text>
+<text top="530" left="181" width="409" height="18" font="2">      “This makes/leads to understand what follows”</text>
+<text top="577" left="152" width="66" height="18" font="2">b. Afto</text>
+<text top="577" left="259" width="34" height="18" font="2">kani</text>
+<text top="577" left="378" width="108" height="18" font="5"><i>tus anthropus</i></text>
+<text top="577" left="512" width="19" height="18" font="2">na</text>
+<text top="577" left="565" width="77" height="18" font="2">katalav<i>un</i></text>
+<text top="577" left="693" width="11" height="18" font="2">ti</text>
+<text top="577" left="731" width="65" height="18" font="2">akoluthi</text>
+<text top="601" left="108" width="102" height="18" font="2">             this</text>
+<text top="601" left="259" width="97" height="18" font="2">makes/leads</text>
+<text top="601" left="378" width="417" height="18" font="2">the-people-acc SUBJ understand-3pl what follows</text>
+<text top="625" left="108" width="49" height="18" font="2">          </text>
+<text top="625" left="190" width="460" height="18" font="2">“This makes/leads the people to understand what follows”</text>
+<text top="740" left="108" width="706" height="18" font="2">                                                                                                                                            </text>
+<text top="763" left="123" width="40" height="15" font="4">(ii) a.</text>
+<text top="763" left="181" width="41" height="15" font="4">[[Idha</text>
+<text top="763" left="259" width="13" height="15" font="8"><i>to</i></text>
+<text top="763" left="324" width="34" height="15" font="8"><i>Jani</i>]</text>
+<text top="763" left="378" width="22" height="15" font="4">[na</text>
+<text top="763" left="438" width="13" height="15" font="8"><i>tu</i></text>
+<text top="763" left="540" width="77" height="15" font="4">dhinun ta</text>
+<text top="763" left="648" width="30" height="15" font="4">lefta</text>
+<text top="783" left="123" width="37" height="15" font="4">         </text>
+<text top="783" left="190" width="89" height="15" font="4">saw-1sg the</text>
+<text top="783" left="324" width="27" height="15" font="4">Jani</text>
+<text top="783" left="378" width="28" height="15" font="4">subj</text>
+<text top="783" left="438" width="188" height="15" font="4">cl-3sg-m-gen give-3pl the</text>
+<text top="783" left="648" width="73" height="15" font="4">money-acc</text>
+<text top="803" left="181" width="20" height="15" font="4">sto</text>
+<text top="803" left="259" width="37" height="15" font="4">heri]]</text>
+<text top="823" left="181" width="39" height="15" font="4">in-the</text>
+<text top="823" left="259" width="61" height="15" font="4">hand-acc</text>
+<text top="843" left="123" width="33" height="15" font="4">        </text>
+<text top="843" left="181" width="250" height="15" font="4">“I saw Jani being handed the money”</text>
+<text top="864" left="152" width="13" height="15" font="4">b.</text>
+<text top="864" left="181" width="90" height="15" font="4">[[*Idha to</text>
+<text top="864" left="324" width="33" height="15" font="4">Jani]</text>
+<text top="864" left="378" width="22" height="15" font="4">[na</text>
+<text top="864" left="416" width="17" height="15" font="4">…</text>
+<text top="864" left="452" width="38" height="15" font="4">dinun</text>
+<text top="864" left="540" width="12" height="15" font="4">ta</text>
+<text top="864" left="605" width="30" height="15" font="4">lefta</text>
+<text top="864" left="682" width="20" height="15" font="4">sto</text>
+<text top="864" left="731" width="37" height="15" font="4">heri]]</text>
+<text top="884" left="123" width="42" height="15" font="4">          </text>
+<text top="884" left="190" width="89" height="15" font="4">saw-1sg the</text>
+<text top="884" left="324" width="27" height="15" font="4">Jani</text>
+<text top="884" left="378" width="130" height="15" font="4">subj  … give-3pl</text>
+<text top="884" left="540" width="21" height="15" font="4">the</text>
+<text top="884" left="605" width="46" height="15" font="4">money</text>
+<text top="884" left="682" width="109" height="15" font="4">in-the hand-acc</text>
+<text top="904" left="108" width="702" height="15" font="4">Coreference obtains between the main clause object <i>to Jani</i> “Jani” and the embedded clause object clitic</text>
+<text top="924" left="108" width="304" height="15" font="4">pronouns <i>ton-acc</i> “him” and <i>tu-gen </i>“to him”.</text>
+<text top="944" left="123" width="687" height="15" font="4">However, if the subject of the embedded clause is controlled by an argument of the main clause, it can be</text>
+<text top="964" left="108" width="135" height="15" font="4">phonologically null:</text>
+<text top="984" left="123" width="106" height="15" font="4">(iii) [[Vlepo <i>to</i></text>
+<text top="984" left="259" width="34" height="15" font="8"><i>Jani</i>]</text>
+<text top="984" left="324" width="124" height="15" font="4">[… na kolimbai]]</text>
+<text top="1005" left="152" width="85" height="15" font="4">see-1sg the</text>
+<text top="1005" left="259" width="27" height="15" font="4">Jani</text>
+<text top="1005" left="324" width="119" height="15" font="4">… subj swim-3sg</text>
+<text top="1025" left="123" width="4" height="15" font="4"> </text>
+<text top="1025" left="152" width="151" height="15" font="4">“I see Jani swimming”</text>
+<text top="1045" left="123" width="670" height="15" font="4">Coreference obtains between the main clause object <i>to Jani</i> “Jani” and the embedded clause subject.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">479</text>
+<text top="173" left="152" width="66" height="18" font="2">c. Afto</text>
+<text top="173" left="259" width="23" height="18" font="5"><i>tus</i></text>
+<text top="173" left="353" width="34" height="18" font="2">kani</text>
+<text top="173" left="459" width="19" height="18" font="2">na</text>
+<text top="173" left="523" width="77" height="18" font="2">katalav<i>un</i></text>
+<text top="173" left="648" width="11" height="18" font="2">ti</text>
+<text top="173" left="702" width="75" height="18" font="2">akolouthi</text>
+<text top="197" left="108" width="102" height="18" font="2">             this</text>
+<text top="197" left="259" width="503" height="18" font="2">cl-3pl-acc makes/leads SUBJ understand-3pl what follows</text>
+<text top="221" left="108" width="49" height="18" font="2">          </text>
+<text top="221" left="190" width="362" height="18" font="2">“This leads them to understand what follows”</text>
+<text top="268" left="108" width="684" height="18" font="2">Also, in Italian, a phonologically empty object is a potential antecedent for a reflexive:</text>
+<text top="316" left="108" width="406" height="18" font="2">(10) La buona musica riconcilia  ---- con  se stessi.</text>
+<text top="340" left="108" width="405" height="18" font="2">       “Good music       reconciles ---- with oneself”</text>
+<text top="363" left="152" width="135" height="18" font="2">(Rizzi 1986:504)</text>
+<text top="411" left="108" width="701" height="18" font="2">In Greek, on the other hand, only a phonologically realized object can bind the reflexive:</text>
+<text top="458" left="108" width="80" height="18" font="2">(11) a. I</text>
+<text top="458" left="216" width="125" height="18" font="2">kali musiki <i>se</i></text>
+<text top="458" left="438" width="77" height="18" font="2">simfilioni</text>
+<text top="458" left="540" width="24" height="18" font="2">me</text>
+<text top="458" left="605" width="115" height="18" font="2">ton eafto <i>su</i></text>
+<text top="482" left="108" width="54" height="18" font="2">           </text>
+<text top="482" left="181" width="224" height="18" font="2">the good music cl-2sg-acc</text>
+<text top="482" left="438" width="80" height="18" font="2">reconciles</text>
+<text top="482" left="540" width="35" height="18" font="2">with</text>
+<text top="482" left="605" width="24" height="18" font="2">the</text>
+<text top="482" left="648" width="29" height="18" font="2">self</text>
+<text top="482" left="702" width="84" height="18" font="2">cl-2sg-gen</text>
+<text top="506" left="108" width="54" height="18" font="2">           </text>
+<text top="506" left="181" width="343" height="18" font="2">“Good music reconciles you with yourself”</text>
+<text top="553" left="152" width="36" height="18" font="2">b. I</text>
+<text top="553" left="216" width="348" height="18" font="2">kali musiki simfilioni <i>tus anthropus </i>me</text>
+<text top="553" left="605" width="120" height="18" font="2">ton eafto <i>tus</i></text>
+<text top="577" left="108" width="54" height="18" font="2">           </text>
+<text top="577" left="181" width="394" height="18" font="2">the good music reconciles the people-acc with</text>
+<text top="577" left="605" width="24" height="18" font="2">the</text>
+<text top="577" left="648" width="29" height="18" font="2">self</text>
+<text top="577" left="702" width="103" height="18" font="2">cl-3pl-m-gen</text>
+<text top="601" left="108" width="49" height="18" font="2">          </text>
+<text top="601" left="181" width="389" height="18" font="2">“Good music reconciles people with themselves”</text>
+<text top="648" left="152" width="46" height="18" font="2">c. *I</text>
+<text top="648" left="216" width="279" height="18" font="2">kali musiki simfilioni --- </text>
+<text top="648" left="462" width="24" height="18" font="2">me</text>
+<text top="648" left="540" width="25" height="18" font="2">ton</text>
+<text top="648" left="605" width="58" height="18" font="2">eafto tu</text>
+<text top="672" left="108" width="301" height="18" font="2">             the good music reconciles </text>
+<text top="672" left="438" width="60" height="18" font="2">--- with</text>
+<text top="672" left="540" width="24" height="18" font="2">the</text>
+<text top="672" left="605" width="148" height="18" font="2">self cl-3sg-m-gen</text>
+<text top="696" left="108" width="398" height="18" font="2">             “Good music reconciles --- with oneself”</text>
+<text top="744" left="108" width="702" height="18" font="2">In addition, a phonologically null object can be the subject of a secondary predicate in</text>
+<text top="767" left="108" width="56" height="18" font="2">Italian:</text>
+<text top="815" left="108" width="613" height="18" font="2">(12) a. Di solito,    quel famoso pittore  ritrae     …  vestit<i>i              </i>di bianco</text>
+<text top="839" left="108" width="54" height="18" font="2">           </text>
+<text top="839" left="181" width="544" height="18" font="2">“In general, that famous painter portrays … dressed ([+pl]) in white”</text>
+<text top="886" left="108" width="5" height="18" font="2"> </text>
+<text top="886" left="152" width="292" height="18" font="2">b. Questa musica rende  […. alegr<i>i</i>]</text>
+<text top="910" left="108" width="49" height="18" font="2">         </text>
+<text top="910" left="181" width="319" height="18" font="2">“This   music   renders …. happy ([+pl])</text>
+<text top="934" left="181" width="171" height="18" font="2">(Rizzi 1986:505-507)</text>
+<text top="981" left="108" width="702" height="18" font="2">The situation is different in Greek. The object, which is modified by the secondary</text>
+<text top="1005" left="108" width="336" height="18" font="2">predicate must be phonologically realized:</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">480</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="214" height="18" font="2">(13) a. Genikos, ekinos</text>
+<text top="173" left="363" width="10" height="18" font="2">o</text>
+<text top="173" left="406" width="61" height="18" font="2">gnostos</text>
+<text top="173" left="486" width="68" height="18" font="2">zografos</text>
+<text top="173" left="587" width="165" height="18" font="2">zografizi <i>anthropus</i></text>
+<text top="197" left="108" width="54" height="18" font="2">           </text>
+<text top="197" left="181" width="206" height="18" font="2">in general that-3sg-m the</text>
+<text top="197" left="406" width="58" height="18" font="2">famous</text>
+<text top="197" left="486" width="60" height="18" font="2">painter </text>
+<text top="197" left="587" width="47" height="18" font="2">paints</text>
+<text top="197" left="672" width="86" height="18" font="2">people-acc</text>
+<text top="221" left="181" width="67" height="18" font="2">dimen<i>us</i></text>
+<text top="221" left="324" width="22" height="18" font="2">sta</text>
+<text top="221" left="378" width="50" height="18" font="2">mavra</text>
+<text top="245" left="108" width="49" height="18" font="2">          </text>
+<text top="245" left="181" width="273" height="18" font="2">dressed-pl-m-acc in-the black-acc</text>
+<text top="268" left="108" width="44" height="18" font="2">         </text>
+<text top="268" left="190" width="501" height="18" font="2">“In general, that famous painter paints people dressed in black”</text>
+<text top="316" left="152" width="574" height="18" font="2">b. *Genikos, ekinos      o   gnostos  zografos zografizi … dimen<i>us</i>         </text>
+<text top="340" left="108" width="650" height="18" font="2">             in general that-3sg-m the famous  painter   paints      … dressed-pl-m-acc</text>
+<text top="363" left="108" width="174" height="18" font="2">             sta      mavra</text>
+<text top="387" left="108" width="201" height="18" font="2">             in-the-black-acc</text>
+<text top="411" left="108" width="54" height="18" font="2">           </text>
+<text top="411" left="181" width="468" height="18" font="2">“In general, that famous painter paints … dressed in black”</text>
+<text top="458" left="152" width="70" height="18" font="2">c. Afti i</text>
+<text top="458" left="259" width="100" height="18" font="2">musiki kani</text>
+<text top="458" left="378" width="23" height="18" font="5"><i>tus</i></text>
+<text top="458" left="438" width="80" height="18" font="5"><i>anthropus</i></text>
+<text top="458" left="540" width="101" height="18" font="2">eftixismen<i>us</i></text>
+<text top="482" left="108" width="132" height="18" font="5"><i>    </i>         this the</text>
+<text top="482" left="259" width="144" height="18" font="2">music makes the</text>
+<text top="482" left="438" width="227" height="18" font="2">people-acc happy-pl-m-acc</text>
+<text top="506" left="108" width="49" height="18" font="2">          </text>
+<text top="506" left="190" width="340" height="18" font="2">“This music renders/makes people happy” </text>
+<text top="553" left="152" width="71" height="18" font="2">d. *Afti</text>
+<text top="553" left="259" width="6" height="18" font="2">i</text>
+<text top="553" left="324" width="54" height="18" font="2">musiki</text>
+<text top="553" left="438" width="34" height="18" font="2">kani</text>
+<text top="553" left="540" width="126" height="18" font="2">… eftixismen<i>us</i></text>
+<text top="577" left="108" width="102" height="18" font="2">             this</text>
+<text top="577" left="259" width="24" height="18" font="2">the</text>
+<text top="577" left="324" width="47" height="18" font="2">music</text>
+<text top="577" left="438" width="51" height="18" font="2">makes</text>
+<text top="577" left="540" width="150" height="18" font="2">… happy-pl-m-acc</text>
+<text top="601" left="108" width="49" height="18" font="2">          </text>
+<text top="601" left="190" width="335" height="18" font="2">“This music renders/makes people happy”</text>
+<text top="648" left="108" width="702" height="18" font="2">Both in Greek and Italian, the agreement specification on the adjective indicates that it</text>
+<text top="672" left="108" width="702" height="18" font="2">modifies the object of the verb, which is either phonologically realized or phonologically</text>
+<text top="696" left="108" width="36" height="18" font="2">null.</text>
+<text top="720" left="123" width="687" height="18" font="2">In this section, we saw two arguments against Sportiche’s analysis of clitics. Firstly, the</text>
+<text top="744" left="108" width="702" height="18" font="2">idea that the clitic is never assigned the internal-role because it is generated above VP,</text>
+<text top="767" left="108" width="703" height="18" font="2">raises a problem. That is, the clitic has to be related to its double at LF rather than overt</text>
+<text top="791" left="108" width="703" height="18" font="2">Syntax. Also, in constructions without doubling, Sportiche is forced to assume the presence</text>
+<text top="815" left="108" width="702" height="18" font="2">of pro in the object position. This pro is assigned the internal role of the verb. However,</text>
+<text top="839" left="108" width="702" height="18" font="2">there is evidence from Greek showing that a pro is ruled out from the object position. An</text>
+<text top="862" left="108" width="532" height="18" font="2">alternative analysis is required to account for the thematic problem.</text>
+<text top="934" left="108" width="359" height="18" font="3"><b>3 Clitics in the verbal complement position</b></text>
+<text top="981" left="108" width="703" height="18" font="2">In this section it is argued that the clitic starts out from the verbal complement position. In</text>
+<text top="1005" left="108" width="703" height="18" font="2">this case, both the clitic and its double are assigned the internal role of the verb. There are</text>
+<text top="1029" left="108" width="702" height="18" font="2">a priori two possiblities: either the DP-double of the clitic is the specifier of the clitic-head</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">481</text>
+<text top="173" left="108" width="702" height="18" font="2">or it is its complement. As we will see, the former is put forth in Uriagereka (1995).</text>
+<text top="197" left="108" width="703" height="18" font="2">Eventually it will be argued that the clitic actually takes the DP-double as its complement.</text>
+<text top="221" left="123" width="687" height="18" font="2">Uriagereka (1995) argues that the clitic is a functional head generated within the object</text>
+<text top="245" left="108" width="703" height="18" font="2">DP. In particular, he proposes that weak clitics are Determiners that select for a pro. The</text>
+<text top="268" left="108" width="703" height="18" font="2">DP-double is merged in the specifier position of the clitic projection. (Then the clitic moves</text>
+<text top="292" left="108" width="181" height="18" font="2">to its surface position):</text>
+<text top="340" left="108" width="33" height="18" font="2">(14)</text>
+<text top="340" left="216" width="26" height="18" font="2">DP</text>
+<text top="360" left="108" width="54" height="18" font="2">           </text>
+<text top="361" left="162" width="24" height="16" font="10">ei</text>
+<text top="385" left="108" width="187" height="18" font="2">        DP                     D’</text>
+<text top="409" left="108" width="117" height="18" font="2">        Double    </text>
+<text top="410" left="225" width="24" height="16" font="10">ei</text>
+<text top="433" left="108" width="249" height="18" font="2">                      D                     NP</text>
+<text top="457" left="108" width="250" height="18" font="2">                      <i>Clitic </i>              pro</text>
+<text top="504" left="108" width="702" height="18" font="2">An important advantage of this analysis is that it provides a straightforward account of the</text>
+<text top="528" left="108" width="702" height="18" font="2">thematic problem. That is, the clitic and its double form a constituent and they are thus</text>
+<text top="552" left="108" width="388" height="18" font="2">jointly assigned a single theta-role from the verb.</text>
+<text top="576" left="123" width="688" height="18" font="2">We may also assume that the clitic is a functional head that selects for a complement DP.</text>
+<text top="599" left="108" width="702" height="18" font="2">The clitic needs to attach to a (morpho)phonological host and, therefore, it undergoes</text>
+<text top="623" left="108" width="703" height="18" font="2">movement. Due to the HMC, the clitic can incorporate to its host only if it is the highest</text>
+<text top="647" left="108" width="323" height="18" font="2">head in the extended nominal projection:</text>
+<text top="694" left="108" width="33" height="18" font="2">(15)</text>
+<text top="694" left="216" width="26" height="18" font="2">VP</text>
+<text top="715" left="108" width="58" height="18" font="2">            </text>
+<text top="716" left="166" width="24" height="16" font="10">ei</text>
+<text top="740" left="108" width="219" height="18" font="2">          V                         Cl P</text>
+<text top="761" left="108" width="131" height="16" font="10">ei       ei</text>
+<text top="785" left="108" width="287" height="18" font="2">Cl                  V  t Cl                     DP</text>
+<text top="809" left="108" width="316" height="18" font="2">                                                     Double</text>
+<text top="856" left="108" width="702" height="18" font="2">If, on the other hand, the clitic were generated in an intermediate position, within the</text>
+<text top="880" left="108" width="703" height="18" font="2">extended nominal projection, incorporation of the clitic to the verb would be problematic:</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">482</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="33" height="18" font="2">(16)</text>
+<text top="173" left="216" width="26" height="18" font="2">VP</text>
+<text top="194" left="108" width="54" height="18" font="2">           </text>
+<text top="195" left="162" width="24" height="16" font="10">ei</text>
+<text top="218" left="108" width="220" height="18" font="2">            V                         DP</text>
+<text top="240" left="108" width="95" height="16" font="10"> ei   ei</text>
+<text top="264" left="108" width="282" height="18" font="2">*Cl                 V   D                   Cl P</text>
+<text top="284" left="108" width="195" height="18" font="2">                                        </text>
+<text top="285" left="303" width="24" height="16" font="10">ei</text>
+<text top="309" left="108" width="327" height="18" font="2">                                    *t Cl                  DP</text>
+<text top="333" left="108" width="360" height="18" font="2">                                                              Double</text>
+<text top="380" left="108" width="703" height="18" font="2">In (16) the Determiner head would prevent the clitic from incorporating to the verb.</text>
+<text top="404" left="108" width="702" height="18" font="2">Moreover, pronominal clitics in Greek are not in complementary distribution with</text>
+<text top="428" left="108" width="552" height="18" font="2">Determiners. The clitic is obligatorily doubled by a DP (not by a NP):</text>
+<text top="476" left="108" width="108" height="18" font="2">(17) a. <b>Ton</b></text>
+<text top="476" left="324" width="34" height="18" font="2">idha</text>
+<text top="476" left="438" width="17" height="18" font="3"><b>to</b></text>
+<text top="476" left="486" width="36" height="18" font="3"><b>Jani</b></text>
+<text top="499" left="108" width="49" height="18" font="2">          </text>
+<text top="499" left="181" width="103" height="18" font="2">cl-3sg-m-acc</text>
+<text top="499" left="324" width="65" height="18" font="2">saw-1sg</text>
+<text top="499" left="438" width="24" height="18" font="2">the</text>
+<text top="499" left="486" width="65" height="18" font="2">Jani-acc</text>
+<text top="523" left="181" width="97" height="18" font="2">“I saw Jani”</text>
+<text top="571" left="152" width="74" height="18" font="2">b. *<b>Ton</b></text>
+<text top="571" left="324" width="34" height="18" font="2">idha</text>
+<text top="571" left="438" width="36" height="18" font="3"><b>Jani</b></text>
+<text top="595" left="181" width="103" height="18" font="2">cl-3sg-m-acc</text>
+<text top="595" left="324" width="65" height="18" font="2">saw-1sg</text>
+<text top="595" left="438" width="65" height="18" font="2">Jani-acc</text>
+<text top="643" left="108" width="703" height="18" font="2">It is, thus, necessary to assume the presence of two separate heads: firstly, the Determiner</text>
+<text top="666" left="108" width="702" height="18" font="2">is merged with the NP and then the clitic is merged with the DP. So, the clitic is the head</text>
+<text top="690" left="108" width="703" height="18" font="2">of its own projection (either with the label CL or D. Tsimpli (1999) also argues that genitive</text>
+<text top="714" left="108" width="267" height="18" font="2">clitics are recursive Determiners).</text>
+<text top="738" left="123" width="688" height="18" font="2">Firstly, we will see evidence for the idea that the clitic starts out as the complement of the</text>
+<text top="761" left="108" width="703" height="18" font="2">verb. Then I will argue against Uriagereka’s analysis, namely that the clitic takes the double</text>
+<text top="785" left="108" width="703" height="18" font="2">as its specifier, and I will present evidence that the clitic takes the double as its complement.</text>
+<text top="833" left="108" width="384" height="18" font="3"><b>4 The similarity of strong and weak pronouns</b></text>
+<text top="881" left="108" width="702" height="18" font="2">If clitics are functional heads that start out from the verbal complement position it is</text>
+<text top="904" left="108" width="702" height="18" font="2">expected that they behave similar to full pronouns, since the latter may also be the</text>
+<text top="928" left="108" width="703" height="18" font="2">complements of verbs. Moreover, we will see that both weak and strong pronouns can form</text>
+<text top="952" left="108" width="703" height="18" font="2">a constituent with a coreferential DP. The crucial difference is that the former need to attach</text>
+<text top="976" left="108" width="702" height="18" font="2">to a (morpho)phonological host and therefore they never surface adjacent to the DP. The</text>
+<text top="999" left="108" width="703" height="18" font="2">strong pronouns, on the other, remain in situ and may thus occur next to a coreferential DP.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="16" family="Times" color="#000000"/>
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">483</text>
+<text top="173" left="123" width="687" height="18" font="2">Firstly, it is worth pointing out the morphological similarity of strong personal pronouns</text>
+<text top="197" left="108" width="703" height="18" font="2">and pronominal clitics in Greek. The latter are usually identical to an affix of the former,</text>
+<text top="221" left="108" width="284" height="18" font="2">as illustrated by the following table:</text>
+<text top="268" left="108" width="33" height="18" font="2">(18)</text>
+<text top="317" left="244" width="11" height="18" font="2">F</text>
+<text top="319" left="255" width="35" height="15" font="13">ULL </text>
+<text top="317" left="290" width="11" height="18" font="2">F</text>
+<text top="319" left="301" width="46" height="15" font="13">ORMS</text>
+<text top="317" left="467" width="13" height="18" font="2">C</text>
+<text top="319" left="480" width="50" height="15" font="13">LITICS</text>
+<text top="341" left="244" width="33" height="18" font="5"><i>Gen</i></text>
+<text top="341" left="361" width="30" height="18" font="5"><i>Acc</i></text>
+<text top="341" left="467" width="33" height="18" font="5"><i>Gen</i></text>
+<text top="341" left="552" width="30" height="18" font="5"><i>Acc</i></text>
+<text top="368" left="106" width="10" height="18" font="2">1</text>
+<text top="371" left="116" width="21" height="15" font="13">SG</text>
+<text top="368" left="244" width="84" height="18" font="2">emena(ne)</text>
+<text top="369" left="361" width="85" height="18" font="2">e<b>me</b>na(ne)</text>
+<text top="368" left="467" width="26" height="18" font="2">mu</text>
+<text top="369" left="552" width="25" height="18" font="3"><b>me</b></text>
+<text top="393" left="106" width="10" height="18" font="2">2</text>
+<text top="396" left="116" width="21" height="15" font="13">SG</text>
+<text top="393" left="244" width="76" height="18" font="2">esena(ne)</text>
+<text top="394" left="361" width="76" height="18" font="2">e<b>se</b>na(ne)</text>
+<text top="393" left="467" width="18" height="18" font="2">su</text>
+<text top="394" left="552" width="17" height="18" font="3"><b>se</b></text>
+<text top="418" left="169" width="41" height="18" font="5"><i>masc</i></text>
+<text top="419" left="244" width="33" height="18" font="2">af<b>tu</b></text>
+<text top="419" left="361" width="65" height="18" font="2">af<b>ton(e)</b></text>
+<text top="419" left="467" width="18" height="18" font="3"><b>tu</b></text>
+<text top="419" left="552" width="49" height="18" font="3"><b>ton(e)</b></text>
+<text top="443" left="169" width="29" height="18" font="5"><i>fem</i></text>
+<text top="444" left="244" width="35" height="18" font="2">af<b>tis</b></text>
+<text top="444" left="361" width="60" height="18" font="2">af<b>tin(e)</b></text>
+<text top="444" left="467" width="20" height="18" font="3"><b>tis</b></text>
+<text top="444" left="552" width="58" height="18" font="3"><b>ti(n)(e)</b></text>
+<text top="418" left="106" width="10" height="18" font="2">3</text>
+<text top="421" left="116" width="21" height="15" font="13">SG</text>
+<text top="468" left="169" width="34" height="18" font="5"><i>neut</i></text>
+<text top="469" left="244" width="33" height="18" font="2">af<b>tu</b></text>
+<text top="469" left="361" width="32" height="18" font="2">af<b>to</b></text>
+<text top="469" left="467" width="18" height="18" font="3"><b>tu</b></text>
+<text top="469" left="552" width="17" height="18" font="3"><b>to</b></text>
+<text top="493" left="106" width="10" height="18" font="2">1</text>
+<text top="496" left="116" width="19" height="15" font="13">PL</text>
+<text top="494" left="244" width="43" height="18" font="2">e<b>mas</b></text>
+<text top="494" left="361" width="43" height="18" font="2">e<b>mas</b></text>
+<text top="494" left="467" width="34" height="18" font="3"><b>mas</b></text>
+<text top="494" left="552" width="34" height="18" font="3"><b>mas</b></text>
+<text top="518" left="106" width="10" height="18" font="2">2</text>
+<text top="521" left="116" width="19" height="15" font="13">PL</text>
+<text top="519" left="244" width="34" height="18" font="2">e<b>sas</b></text>
+<text top="519" left="361" width="34" height="18" font="2">e<b>sas</b></text>
+<text top="519" left="467" width="26" height="18" font="3"><b>sas</b></text>
+<text top="519" left="552" width="25" height="18" font="3"><b>sas</b></text>
+<text top="543" left="172" width="41" height="18" font="5"><i>masc</i></text>
+<text top="543" left="244" width="41" height="18" font="2">afton</text>
+<text top="544" left="361" width="41" height="18" font="2">af<b>tus</b></text>
+<text top="543" left="467" width="23" height="18" font="2">tus</text>
+<text top="544" left="552" width="25" height="18" font="3"><b>tus</b></text>
+<text top="568" left="172" width="29" height="18" font="5"><i>fem</i></text>
+<text top="568" left="244" width="37" height="18" font="2">aftes</text>
+<text top="569" left="361" width="38" height="18" font="2">af<b>tes</b></text>
+<text top="568" left="467" width="23" height="18" font="2">tus</text>
+<text top="569" left="552" width="61" height="18" font="2">tis<b> – tes</b></text>
+<text top="543" left="106" width="10" height="18" font="2">3</text>
+<text top="546" left="116" width="19" height="15" font="13">PL</text>
+<text top="593" left="172" width="34" height="18" font="5"><i>neut</i></text>
+<text top="593" left="244" width="30" height="18" font="2">afta</text>
+<text top="594" left="361" width="32" height="18" font="2">af<b>ta</b></text>
+<text top="593" left="467" width="23" height="18" font="2">tus</text>
+<text top="594" left="552" width="17" height="18" font="3"><b>ta</b></text>
+<text top="642" left="108" width="298" height="18" font="2">(table based on Drachman, 1997:221)</text>
+<text top="690" left="108" width="703" height="18" font="2">The similarity between the strong personal pronouns and the object clitics is strengthened</text>
+<text top="713" left="108" width="702" height="18" font="2">by the observation that both elements may appear in the same configurations. Actually, the</text>
+<text top="737" left="108" width="703" height="18" font="2">strong pronoun is merged either instead of a DP (pronominalization) or together with a DP</text>
+<text top="761" left="108" width="289" height="18" font="2">(where it has a deictic interpretation)</text>
+<text top="757" left="396" width="7" height="12" font="11">3</text>
+<text top="761" left="403" width="407" height="18" font="2">. Similar options are available with respect to object</text>
+<text top="785" left="108" width="703" height="18" font="2">clitics: the clitic is either selected instead of a DP (pronominalization) or it appears together</text>
+<text top="809" left="108" width="227" height="18" font="2">with the DP (clitic doubling)</text>
+<text top="804" left="335" width="7" height="12" font="11">4</text>
+<text top="809" left="341" width="6" height="18" font="2">:</text>
+<text top="841" left="108" width="217" height="18" font="2">                                           </text>
+<text top="860" left="123" width="8" height="10" font="12">3 </text>
+<text top="864" left="132" width="678" height="15" font="4">See Holton, D., Mackridge P. &amp; I., Philippaki-Warburton (1997:318) for examples where <i>aftos </i>“he”</text>
+<text top="884" left="108" width="195" height="15" font="4">functions as a demonstrative.</text>
+<text top="921" left="123" width="6" height="10" font="12">4</text>
+<text top="924" left="129" width="547" height="15" font="4"> A further option is available. The clitic may occur together with the full pronoun:</text>
+<text top="944" left="152" width="12" height="15" font="4">O</text>
+<text top="944" left="181" width="56" height="15" font="4">Janis<i>ton</i></text>
+<text top="944" left="324" width="29" height="15" font="4">idhe</text>
+<text top="944" left="438" width="34" height="15" font="8"><i>afton</i></text>
+<text top="944" left="540" width="21" height="15" font="8"><i>ton</i></text>
+<text top="944" left="605" width="40" height="15" font="8"><i>andra</i></text>
+<text top="944" left="702" width="20" height="15" font="8"><i>me</i></text>
+<text top="944" left="756" width="13" height="15" font="8"><i>ta</i></text>
+<text top="964" left="152" width="133" height="15" font="4">The Janiscl-3sg-acc</text>
+<text top="964" left="324" width="55" height="15" font="4">saw-3sg</text>
+<text top="964" left="438" width="55" height="15" font="4">him/this</text>
+<text top="964" left="540" width="21" height="15" font="4">the</text>
+<text top="964" left="605" width="127" height="15" font="4">man-acc with</text>
+<text top="964" left="756" width="21" height="15" font="4">the</text>
+<text top="984" left="152" width="48" height="15" font="8"><i>makria</i></text>
+<text top="984" left="216" width="38" height="15" font="8"><i>malia</i></text>
+<text top="984" left="324" width="16" height="15" font="4">na</text>
+<text top="984" left="378" width="76" height="15" font="4">perni tis</text>
+<text top="984" left="486" width="68" height="15" font="4">karameles</text>
+<text top="1005" left="152" width="30" height="15" font="4">long</text>
+<text top="1005" left="216" width="136" height="15" font="4">hair-acc subj</text>
+<text top="1005" left="378" width="81" height="15" font="4">take-3sg the</text>
+<text top="1005" left="486" width="72" height="15" font="4">sweets-acc</text>
+<text top="1025" left="152" width="377" height="15" font="4">“Janis saw the man with the long hair taking the sweets”</text>
+<text top="1045" left="108" width="702" height="15" font="4">The above example can be accounted for in the presence of a recursive position for pronominal elements.</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">484</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="88" height="18" font="2">(19) a. O</text>
+<text top="173" left="216" width="77" height="18" font="2">Janis idhe</text>
+<text top="173" left="378" width="25" height="18" font="5"><i>ton</i></text>
+<text top="173" left="438" width="48" height="18" font="5"><i>andra</i></text>
+<text top="173" left="540" width="23" height="18" font="5"><i>me</i></text>
+<text top="173" left="605" width="15" height="18" font="5"><i>ta</i></text>
+<text top="173" left="648" width="56" height="18" font="5"><i>makria</i></text>
+<text top="197" left="108" width="240" height="18" font="2">             the Janis saw-3sgthe</text>
+<text top="197" left="378" width="109" height="18" font="2">man-acc with</text>
+<text top="197" left="540" width="24" height="18" font="2">the</text>
+<text top="197" left="605" width="40" height="18" font="2">long </text>
+<text top="221" left="108" width="118" height="18" font="2">             <i>malia</i></text>
+<text top="221" left="259" width="19" height="18" font="2">na</text>
+<text top="221" left="324" width="41" height="18" font="2">perni</text>
+<text top="221" left="438" width="19" height="18" font="2">tis</text>
+<text top="221" left="486" width="80" height="18" font="2">karameles</text>
+<text top="245" left="108" width="184" height="18" font="2">             hair-acc subj</text>
+<text top="245" left="324" width="67" height="18" font="2">take-3sg</text>
+<text top="245" left="438" width="24" height="18" font="2">the</text>
+<text top="245" left="486" width="86" height="18" font="2">sweets-acc</text>
+<text top="268" left="108" width="49" height="18" font="2">          </text>
+<text top="268" left="181" width="447" height="18" font="2">“Janis saw the man with the long hair taking the sweets”</text>
+<text top="316" left="152" width="44" height="18" font="2">b. O</text>
+<text top="316" left="216" width="77" height="18" font="2">Janis idhe</text>
+<text top="316" left="378" width="41" height="18" font="5"><i>afton</i></text>
+<text top="316" left="452" width="75" height="18" font="2">na perni</text>
+<text top="316" left="605" width="19" height="18" font="2">tis</text>
+<text top="316" left="648" width="80" height="18" font="2">karameles</text>
+<text top="340" left="108" width="280" height="18" font="2">              the Janis saw-3sghim-acc</text>
+<text top="340" left="438" width="115" height="18" font="2">subj take-3sg</text>
+<text top="340" left="605" width="24" height="18" font="2">the</text>
+<text top="340" left="648" width="86" height="18" font="2">sweets-acc</text>
+<text top="363" left="108" width="54" height="18" font="2">           </text>
+<text top="363" left="181" width="270" height="18" font="2">“Janis saw him taking the sweets”</text>
+<text top="411" left="108" width="88" height="18" font="2">         c. O</text>
+<text top="411" left="216" width="68" height="18" font="2">Janis <i>ton</i></text>
+<text top="411" left="378" width="34" height="18" font="2">idhe</text>
+<text top="411" left="452" width="75" height="18" font="2">na perni</text>
+<text top="411" left="605" width="19" height="18" font="2">tis</text>
+<text top="411" left="648" width="80" height="18" font="2">karameles</text>
+<text top="435" left="108" width="445" height="18" font="2">              the Janis cl-3sg-m-acc saw-3sg subjtake-3sg</text>
+<text top="435" left="605" width="24" height="18" font="2">the</text>
+<text top="435" left="648" width="86" height="18" font="2">sweets-acc</text>
+<text top="458" left="108" width="54" height="18" font="2">           </text>
+<text top="458" left="181" width="270" height="18" font="2">“Janis saw him taking the sweets”</text>
+<text top="506" left="108" width="88" height="18" font="2">         d. O</text>
+<text top="506" left="216" width="77" height="18" font="2">Janis idhe</text>
+<text top="506" left="378" width="41" height="18" font="5"><i>afton</i></text>
+<text top="506" left="452" width="82" height="18" font="5"><i>ton andra</i></text>
+<text top="506" left="605" width="23" height="18" font="5"><i>me</i></text>
+<text top="506" left="648" width="15" height="18" font="5"><i>ta</i></text>
+<text top="506" left="702" width="56" height="18" font="5"><i>makria</i></text>
+<text top="530" left="108" width="281" height="18" font="2">             the Janis saw-3sghim/this</text>
+<text top="530" left="438" width="24" height="18" font="2">the</text>
+<text top="530" left="486" width="67" height="18" font="2">man-acc</text>
+<text top="530" left="605" width="67" height="18" font="2">with the</text>
+<text top="530" left="702" width="35" height="18" font="2">long</text>
+<text top="553" left="108" width="118" height="18" font="2">             <i>malia</i></text>
+<text top="553" left="259" width="19" height="18" font="2">na</text>
+<text top="553" left="324" width="41" height="18" font="2">perni</text>
+<text top="553" left="438" width="19" height="18" font="2">tis</text>
+<text top="553" left="486" width="80" height="18" font="2">karameles</text>
+<text top="577" left="108" width="184" height="18" font="2"> hair-acc subj</text>
+<text top="577" left="324" width="67" height="18" font="2">take-3sg</text>
+<text top="577" left="438" width="24" height="18" font="2">the</text>
+<text top="577" left="486" width="86" height="18" font="2">sweets-acc</text>
+<text top="601" left="108" width="54" height="18" font="2">           </text>
+<text top="601" left="181" width="451" height="18" font="2">“Janis saw this man with the long hair taking the sweets”</text>
+<text top="648" left="108" width="88" height="18" font="2">         e. O</text>
+<text top="648" left="216" width="68" height="18" font="2">Janis <i>ton</i></text>
+<text top="648" left="378" width="34" height="18" font="2">idhe</text>
+<text top="648" left="452" width="82" height="18" font="5"><i>ton andra</i></text>
+<text top="648" left="605" width="23" height="18" font="5"><i>me</i></text>
+<text top="648" left="648" width="15" height="18" font="5"><i>ta</i></text>
+<text top="648" left="702" width="56" height="18" font="5"><i>makria</i></text>
+<text top="672" left="108" width="445" height="18" font="2">             the Janis cl-3sg-m-acc saw-3sg the man-acc</text>
+<text top="672" left="605" width="67" height="18" font="2">with the</text>
+<text top="672" left="702" width="42" height="18" font="2">long-</text>
+<text top="696" left="108" width="118" height="18" font="2">             <i>malia</i></text>
+<text top="696" left="259" width="19" height="18" font="2">na</text>
+<text top="696" left="324" width="41" height="18" font="2">perni</text>
+<text top="696" left="438" width="19" height="18" font="2">tis</text>
+<text top="696" left="486" width="80" height="18" font="2">karameles</text>
+<text top="720" left="108" width="184" height="18" font="2">             hair-acc subj</text>
+<text top="720" left="324" width="67" height="18" font="2">take-3sg</text>
+<text top="720" left="438" width="24" height="18" font="2">the</text>
+<text top="720" left="486" width="86" height="18" font="2">sweets-acc</text>
+<text top="744" left="108" width="54" height="18" font="2">           </text>
+<text top="744" left="181" width="447" height="18" font="2">“Janis saw the man with the long hair taking the sweets”</text>
+<text top="739" left="628" width="7" height="12" font="11">5</text>
+<text top="767" left="108" width="702" height="18" font="2">It is important to point out that the strong pronoun <i>aftos</i> “he” may precede a DP, when</text>
+<text top="791" left="108" width="550" height="18" font="2">interpreted as a deictic element (ex. 19 d), but it cannot precede a NP:</text>
+<text top="861" left="108" width="217" height="18" font="2">                                           </text>
+<text top="880" left="123" width="6" height="10" font="12">5</text>
+<text top="884" left="129" width="602" height="15" font="4"> In a language without morphological case on nouns (like Italian) the situation is different:</text>
+<text top="904" left="152" width="41" height="15" font="4">(iv) a.</text>
+<text top="904" left="216" width="64" height="15" font="4">Gianni l’</text>
+<text top="904" left="378" width="16" height="15" font="4">ha</text>
+<text top="904" left="438" width="72" height="15" font="4">visto # </text>
+<text top="904" left="499" width="10" height="15" font="4">l’</text>
+<text top="904" left="540" width="38" height="15" font="4">uomo</text>
+<text top="904" left="605" width="24" height="15" font="4">con</text>
+<text top="904" left="648" width="5" height="15" font="4">i</text>
+<text top="904" left="693" width="96" height="15" font="4">capelli lunghi</text>
+<text top="924" left="123" width="37" height="15" font="4">         </text>
+<text top="924" left="216" width="141" height="15" font="4">Gianni cl-3sg-m-acc</text>
+<text top="924" left="378" width="22" height="15" font="4">has</text>
+<text top="924" left="438" width="30" height="15" font="4">seen</text>
+<text top="924" left="486" width="33" height="15" font="4"># the</text>
+<text top="924" left="540" width="37" height="15" font="4">man  </text>
+<text top="924" left="606" width="64" height="15" font="4">with the</text>
+<text top="924" left="693" width="26" height="15" font="4">hair</text>
+<text top="924" left="746" width="30" height="15" font="4">long</text>
+<text top="944" left="181" width="13" height="15" font="4">b.</text>
+<text top="944" left="216" width="70" height="15" font="4">Gianni ha</text>
+<text top="944" left="324" width="32" height="15" font="4">visto</text>
+<text top="944" left="378" width="18" height="15" font="4">lui</text>
+<text top="944" left="438" width="23" height="15" font="4"># l’</text>
+<text top="944" left="486" width="38" height="15" font="4">uomo</text>
+<text top="944" left="540" width="24" height="15" font="4">con</text>
+<text top="944" left="605" width="5" height="15" font="4">i</text>
+<text top="944" left="648" width="97" height="15" font="4">capelli lunghi</text>
+<text top="964" left="123" width="37" height="15" font="4">         </text>
+<text top="964" left="216" width="76" height="15" font="4">Gianni has</text>
+<text top="964" left="324" width="30" height="15" font="4">seen</text>
+<text top="964" left="378" width="30" height="15" font="4">him </text>
+<text top="964" left="438" width="77" height="15" font="4"># the man</text>
+<text top="964" left="540" width="30" height="15" font="4">with</text>
+<text top="964" left="605" width="21" height="15" font="4">the</text>
+<text top="964" left="648" width="26" height="15" font="4">hair</text>
+<text top="964" left="702" width="30" height="15" font="4">long</text>
+<text top="984" left="108" width="702" height="15" font="4">The only available option is that both the clitic and the full pronoun may appear coreferential with a DP in</text>
+<text top="1005" left="108" width="491" height="15" font="4">apposition. Moreover, a demonstrative can only precede a NP (not a DP):</text>
+<text top="1025" left="181" width="12" height="15" font="4">c.</text>
+<text top="1025" left="216" width="21" height="15" font="4">Ho</text>
+<text top="1025" left="270" width="32" height="15" font="4">visto</text>
+<text top="1025" left="324" width="117" height="15" font="4">quell’ uomo      </text>
+<text top="1045" left="123" width="37" height="15" font="4">         </text>
+<text top="1045" left="216" width="88" height="15" font="4">have-I seen </text>
+<text top="1045" left="324" width="24" height="15" font="4">this</text>
+<text top="1045" left="378" width="29" height="15" font="4">man</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">485</text>
+<text top="173" left="108" width="185" height="18" font="2">(20) a. *O Janis idhe</text>
+<text top="173" left="378" width="41" height="18" font="5"><i>afton</i></text>
+<text top="173" left="452" width="47" height="18" font="5"><i>andra</i></text>
+<text top="173" left="540" width="23" height="18" font="5"><i>me</i></text>
+<text top="173" left="605" width="15" height="18" font="5"><i>ta</i></text>
+<text top="173" left="648" width="56" height="18" font="5"><i>makria</i></text>
+<text top="173" left="731" width="45" height="18" font="5"><i>malia</i></text>
+<text top="197" left="108" width="281" height="18" font="2">              the Janis saw-3sghim/this</text>
+<text top="197" left="438" width="67" height="18" font="2">man-acc</text>
+<text top="197" left="540" width="35" height="18" font="2">with</text>
+<text top="197" left="605" width="24" height="18" font="2">the</text>
+<text top="197" left="648" width="35" height="18" font="2">long</text>
+<text top="197" left="731" width="64" height="18" font="2">hair-acc</text>
+<text top="221" left="108" width="149" height="18" font="2">              na perni</text>
+<text top="221" left="324" width="19" height="18" font="2">tis</text>
+<text top="221" left="378" width="80" height="18" font="2">karameles</text>
+<text top="245" left="108" width="175" height="18" font="2">              subjtake-3sg</text>
+<text top="245" left="324" width="24" height="18" font="2">the</text>
+<text top="245" left="378" width="86" height="18" font="2">sweets-acc</text>
+<text top="268" left="108" width="54" height="18" font="2">           </text>
+<text top="268" left="181" width="451" height="18" font="2">“Janis saw this man with the long hair taking the sweets”</text>
+<text top="316" left="108" width="703" height="18" font="2">In the same vein, the object clitic <i>ton</i> “him” may appear together with a DP (ex. 19 e) and</text>
+<text top="340" left="108" width="115" height="18" font="2">not with a NP:</text>
+<text top="387" left="108" width="176" height="18" font="2"> b. *O Janis <i>ton</i></text>
+<text top="387" left="378" width="34" height="18" font="2">idhe</text>
+<text top="387" left="452" width="47" height="18" font="5"><i>andra</i></text>
+<text top="387" left="540" width="23" height="18" font="5"><i>me</i></text>
+<text top="387" left="605" width="15" height="18" font="5"><i>ta</i></text>
+<text top="387" left="648" width="56" height="18" font="5"><i>makria</i></text>
+<text top="387" left="731" width="45" height="18" font="5"><i>malia</i></text>
+<text top="411" left="108" width="411" height="18" font="2">              the Janis cl-3sg-m-acc saw-3sg man-acc</text>
+<text top="411" left="540" width="35" height="18" font="2">with</text>
+<text top="411" left="605" width="24" height="18" font="2">the</text>
+<text top="411" left="648" width="35" height="18" font="2">long</text>
+<text top="411" left="731" width="64" height="18" font="2">hair-acc</text>
+<text top="435" left="108" width="149" height="18" font="2"> na perni</text>
+<text top="435" left="324" width="19" height="18" font="2">tis</text>
+<text top="435" left="378" width="80" height="18" font="2">karameles</text>
+<text top="458" left="108" width="175" height="18" font="2"> subjtake-3sg</text>
+<text top="458" left="324" width="24" height="18" font="2">the</text>
+<text top="458" left="378" width="86" height="18" font="2">sweets-acc</text>
+<text top="482" left="108" width="520" height="18" font="2">              “Janis saw the man with the long hair taking the sweets”</text>
+<text top="530" left="108" width="703" height="18" font="2">As we will now see, an adverbial cannot intervene between the pronoun and its coreferential</text>
+<text top="553" left="108" width="31" height="18" font="2">DP:</text>
+<text top="602" left="108" width="196" height="18" font="2">(21) a. *O Janis idhe</text>
+<text top="602" left="378" width="38" height="18" font="5"><i>aftus</i></text>
+<text top="602" left="486" width="44" height="18" font="3"><b>xthes</b></text>
+<text top="602" left="605" width="23" height="18" font="5"><i>tus</i></text>
+<text top="602" left="648" width="80" height="18" font="5"><i>anthropus</i></text>
+<text top="602" left="756" width="19" height="18" font="2">na</text>
+<text top="625" left="108" width="44" height="18" font="2">         </text>
+<text top="625" left="190" width="145" height="18" font="2">the Janis saw-3sg</text>
+<text top="625" left="378" width="86" height="18" font="2">them/these</text>
+<text top="625" left="486" width="76" height="18" font="2">yesterday</text>
+<text top="625" left="605" width="24" height="18" font="2">the</text>
+<text top="625" left="648" width="67" height="18" font="2">men-acc</text>
+<text top="625" left="756" width="33" height="18" font="2">subj</text>
+<text top="649" left="108" width="44" height="18" font="2">         </text>
+<text top="649" left="190" width="51" height="18" font="2">trexun</text>
+<text top="649" left="259" width="34" height="18" font="2">pros</text>
+<text top="649" left="324" width="11" height="18" font="2">ti</text>
+<text top="649" left="378" width="63" height="18" font="2">thalassa</text>
+<text top="673" left="108" width="44" height="18" font="2">         </text>
+<text top="673" left="190" width="159" height="18" font="2">run-3pl towards the</text>
+<text top="673" left="378" width="58" height="18" font="2">sea-acc</text>
+<text top="697" left="108" width="34" height="18" font="2">       </text>
+<text top="697" left="181" width="452" height="18" font="2">“Janis saw these men yesterday running towards the sea”</text>
+<text top="744" left="108" width="516" height="18" font="2">The adverb can only precede or follow the pronoun-DP complex:</text>
+<text top="792" left="152" width="44" height="18" font="2">b. O</text>
+<text top="792" left="216" width="88" height="18" font="2">Janis idhe</text>
+<text top="792" left="324" width="57" height="18" font="3"><b>(xthes)</b></text>
+<text top="792" left="438" width="38" height="18" font="5"><i>aftus</i></text>
+<text top="792" left="540" width="23" height="18" font="5"><i>tus</i></text>
+<text top="792" left="605" width="154" height="18" font="5"><i>anthropus </i><b>(xthes)</b></text>
+<text top="816" left="108" width="54" height="18" font="2">           </text>
+<text top="816" left="181" width="120" height="18" font="2">the Janis saw</text>
+<text top="816" left="324" width="89" height="18" font="2">(yesterday)</text>
+<text top="816" left="438" width="126" height="18" font="2">them/these the</text>
+<text top="816" left="605" width="34" height="18" font="2">men</text>
+<text top="816" left="702" width="89" height="18" font="2">(yesterday)</text>
+<text top="840" left="108" width="92" height="18" font="2">             na</text>
+<text top="840" left="259" width="100" height="18" font="2">trexun pros</text>
+<text top="840" left="438" width="11" height="18" font="2">ti</text>
+<text top="840" left="486" width="63" height="18" font="2">thalassa</text>
+<text top="863" left="108" width="106" height="18" font="2">             subj</text>
+<text top="863" left="259" width="128" height="18" font="2">run-3pl towards</text>
+<text top="863" left="438" width="24" height="18" font="2">the</text>
+<text top="863" left="486" width="58" height="18" font="2">sea-acc</text>
+<text top="887" left="108" width="49" height="18" font="2">          </text>
+<text top="887" left="190" width="559" height="18" font="2">“Janis saw (yesterday) these men (yesterday) running towards the sea”</text>
+<text top="935" left="108" width="702" height="18" font="2">If, on the other hand, the DP is in apposition, an adverbial may intervene between the</text>
+<text top="958" left="108" width="263" height="18" font="2">pronoun and its coreferential DP:</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">486</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="174" left="108" width="113" height="18" font="2">(22) O Janis</text>
+<text top="174" left="259" width="34" height="18" font="2">idhe</text>
+<text top="174" left="378" width="34" height="18" font="5"><i>esas</i></text>
+<text top="174" left="486" width="44" height="18" font="3"><b>xthes</b></text>
+<text top="174" left="605" width="106" height="18" font="2">#tus naftikus</text>
+<text top="174" left="756" width="15" height="18" font="2">tu</text>
+<text top="198" left="108" width="113" height="18" font="2">         the Janis</text>
+<text top="198" left="259" width="65" height="18" font="2">saw-3sg</text>
+<text top="198" left="378" width="85" height="18" font="2">you-pl-acc</text>
+<text top="198" left="486" width="76" height="18" font="2">yesterday</text>
+<text top="198" left="605" width="24" height="18" font="2">the</text>
+<text top="198" left="648" width="85" height="18" font="2">sailors-acc</text>
+<text top="198" left="756" width="31" height="18" font="2">the-</text>
+<text top="221" left="108" width="87" height="18" font="2">         nisiu </text>
+<text top="221" left="259" width="30" height="18" font="2">#na</text>
+<text top="221" left="324" width="54" height="18" font="2">trexete</text>
+<text top="221" left="438" width="34" height="18" font="2">pros</text>
+<text top="221" left="540" width="11" height="18" font="2">ti</text>
+<text top="221" left="605" width="63" height="18" font="2">thalassa</text>
+<text top="245" left="108" width="126" height="18" font="2">         island-gen</text>
+<text top="245" left="259" width="33" height="18" font="2">subj</text>
+<text top="245" left="324" width="58" height="18" font="2">run-2pl</text>
+<text top="245" left="438" width="63" height="18" font="2">towards</text>
+<text top="245" left="540" width="24" height="18" font="2">the</text>
+<text top="245" left="605" width="58" height="18" font="2">sea-acc</text>
+<text top="269" left="108" width="643" height="18" font="2">        “Janis saw you yesterday, the sailors of the island, running towards the sea”</text>
+<text top="317" left="108" width="703" height="18" font="2">In (21 b), where the pronoun takes the DP as its complement, the two elements have</text>
+<text top="340" left="108" width="702" height="18" font="2">matching features. If the DP is in apposition, the features of the pronoun do not necessarily</text>
+<text top="364" left="108" width="626" height="18" font="2">match those of the DP.  For example in (22) the pronoun <i>esas </i>“you” is in the 2</text>
+<text top="360" left="734" width="13" height="12" font="11">nd</text>
+<text top="364" left="747" width="63" height="18" font="2"> person,</text>
+<text top="388" left="108" width="549" height="18" font="2">while the DP <i>tus naftikus tu nisiu</i> “the sailors of the island” is in the 3</text>
+<text top="383" left="657" width="11" height="12" font="11">rd</text>
+<text top="388" left="668" width="63" height="18" font="2"> person.</text>
+<text top="412" left="123" width="688" height="18" font="2">So, a full pronoun may form a constituent with a coreferential DP. It is thus expected that</text>
+<text top="435" left="108" width="702" height="18" font="2">also the clitic may form a constituent with a coreferential DP. Although we cannot apply</text>
+<text top="459" left="108" width="702" height="18" font="2">the above test, since the clitic never surfaces in the verbal complement position, some</text>
+<text top="483" left="108" width="702" height="18" font="2">evidence can be derived from constructions where the clitic is obligatorily selected with a</text>
+<text top="507" left="108" width="703" height="18" font="2">coreferential DP. In particular, the clitic-double complex may undergo pronominalization.</text>
+<text top="578" left="108" width="172" height="18" font="3"><b>5 Pronominalization</b></text>
+<text top="626" left="108" width="702" height="18" font="2">A clitic is obligatorily present with predicates that select for an experiencer argument. For</text>
+<text top="650" left="108" width="73" height="18" font="2">example:</text>
+<text top="697" left="108" width="94" height="18" font="2">(23) a. <i>Tu</i></text>
+<text top="697" left="324" width="37" height="18" font="2">aresi</text>
+<text top="697" left="438" width="16" height="18" font="5"><i>tu</i></text>
+<text top="697" left="486" width="34" height="18" font="5"><i>Jani</i></text>
+<text top="697" left="605" width="6" height="18" font="2">i</text>
+<text top="697" left="648" width="54" height="18" font="2">musiki</text>
+<text top="721" left="108" width="54" height="18" font="2">           </text>
+<text top="721" left="181" width="106" height="18" font="2">cl-3sg-m-gen</text>
+<text top="721" left="324" width="64" height="18" font="2">like-3sg</text>
+<text top="721" left="438" width="24" height="18" font="2">the</text>
+<text top="721" left="486" width="67" height="18" font="2">Jani-gen</text>
+<text top="721" left="605" width="24" height="18" font="2">the</text>
+<text top="721" left="648" width="102" height="18" font="2">music-(nom)</text>
+<text top="745" left="108" width="49" height="18" font="2">          </text>
+<text top="745" left="181" width="173" height="18" font="2">“Jani likes the music”</text>
+<text top="792" left="152" width="82" height="18" font="2">b. *Aresi</text>
+<text top="792" left="259" width="16" height="18" font="5"><i>tu</i></text>
+<text top="792" left="324" width="34" height="18" font="5"><i>Jani</i></text>
+<text top="792" left="438" width="6" height="18" font="2">i</text>
+<text top="792" left="486" width="54" height="18" font="2">musiki</text>
+<text top="816" left="108" width="175" height="18" font="2">              like-3sg the</text>
+<text top="816" left="324" width="67" height="18" font="2">Jani-gen</text>
+<text top="816" left="438" width="24" height="18" font="2">the</text>
+<text top="816" left="486" width="102" height="18" font="2">music-(nom)</text>
+<text top="863" left="108" width="702" height="18" font="2">The predicate <i>aresi</i> “likes”<i> </i>requires a clitic together with the experiencer-DP. When the</text>
+<text top="887" left="108" width="702" height="18" font="2">experiencer-DP is replaced by the pronominal element <i>tu idhiu </i>“to-the same”, the clitic is</text>
+<text top="911" left="108" width="151" height="18" font="2">no longer required:</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">487</text>
+<text top="173" left="108" width="65" height="18" font="2">(24) <i>Tu</i></text>
+<text top="173" left="259" width="37" height="18" font="2">aresi</text>
+<text top="173" left="324" width="16" height="18" font="5"><i>tu</i></text>
+<text top="173" left="378" width="130" height="18" font="5"><i>kaliteru mathiti</i></text>
+<text top="173" left="540" width="19" height="18" font="5"><i>tis</i></text>
+<text top="173" left="605" width="50" height="18" font="5"><i>taksis </i></text>
+<text top="173" left="702" width="10" height="18" font="2">o</text>
+<text top="197" left="108" width="241" height="18" font="2"> cl-3sg-m-genlike-3sgthe</text>
+<text top="197" left="378" width="32" height="18" font="2">best</text>
+<text top="197" left="438" width="126" height="18" font="2">student-gen the</text>
+<text top="197" left="606" width="74" height="18" font="2">class-gen</text>
+<text top="197" left="702" width="31" height="18" font="2">the-</text>
+<text top="221" left="108" width="185" height="18" font="2"> sunagonismos,ala</text>
+<text top="221" left="324" width="91" height="18" font="2">dhen aresi</text>
+<text top="221" left="452" width="78" height="18" font="3"><b>tu idhiu</b></text>
+<text top="221" left="605" width="6" height="18" font="2">i</text>
+<text top="221" left="648" width="64" height="18" font="2">apotixia</text>
+<text top="245" left="152" width="99" height="18" font="2">competition,</text>
+<text top="245" left="270" width="25" height="18" font="2">but</text>
+<text top="245" left="324" width="29" height="18" font="2">neg</text>
+<text top="245" left="378" width="206" height="18" font="2">like-3sg the same-m-gen</text>
+<text top="245" left="605" width="24" height="18" font="2">the</text>
+<text top="245" left="648" width="51" height="18" font="2">failure</text>
+<text top="269" left="152" width="659" height="18" font="2">“The best student in class likes the competition/competing, but he does not like the</text>
+<text top="293" left="151" width="117" height="18" font="2">failure/failing”</text>
+<text top="340" left="108" width="703" height="18" font="2">We can understand this set of data by replacing the clitic-DP complex: <i>tu</i> <i>tu kaliteru mathiti</i></text>
+<text top="364" left="108" width="703" height="18" font="5"><i>tis taksis </i>“to-him (cl) to-the best student of the class” by the pronoun <i>tu idhiu</i> “to-the same”.</text>
+<text top="388" left="108" width="703" height="18" font="2">No other assumption is possible, since the predicate <i>aresi</i> “likes” obligatorily selects for a</text>
+<text top="411" left="108" width="343" height="18" font="2">clitic coreferencial with an experiencer DP.</text>
+<text top="435" left="123" width="528" height="18" font="2">Note that it is also possible for the pronoun to replace only the DP:</text>
+<text top="483" left="108" width="65" height="18" font="2">(25) <i>Tu</i></text>
+<text top="483" left="259" width="37" height="18" font="2">aresi</text>
+<text top="483" left="324" width="16" height="18" font="5"><i>tu</i></text>
+<text top="483" left="378" width="130" height="18" font="5"><i>kaliteru mathiti</i></text>
+<text top="483" left="555" width="19" height="18" font="5"><i>tis</i></text>
+<text top="483" left="597" width="45" height="18" font="5"><i>taksis</i></text>
+<text top="483" left="693" width="10" height="18" font="2">o</text>
+<text top="506" left="152" width="197" height="18" font="2">cl-3sg-m-genlike-3sgthe</text>
+<text top="506" left="378" width="32" height="18" font="2">best</text>
+<text top="506" left="452" width="127" height="18" font="2">student-gen the</text>
+<text top="506" left="597" width="74" height="18" font="2">class-gen</text>
+<text top="506" left="693" width="24" height="18" font="2">the</text>
+<text top="531" left="152" width="141" height="18" font="2">sunagonismos,ala</text>
+<text top="531" left="324" width="69" height="18" font="2">dhen <i>tu</i></text>
+<text top="531" left="452" width="37" height="18" font="2">aresi</text>
+<text top="531" left="533" width="18" height="18" font="3"><b>tu</b></text>
+<text top="531" left="576" width="44" height="18" font="3"><b>idhiu</b></text>
+<text top="531" left="704" width="6" height="18" font="2">i</text>
+<text top="531" left="735" width="64" height="18" font="2">apotixia</text>
+<text top="555" left="108" width="143" height="18" font="2"> competition,</text>
+<text top="555" left="270" width="25" height="18" font="2">but</text>
+<text top="555" left="324" width="29" height="18" font="2">neg</text>
+<text top="555" left="378" width="180" height="18" font="2">cl-sg-genlike-3sg the</text>
+<text top="555" left="576" width="98" height="18" font="2">same-m-gen</text>
+<text top="555" left="702" width="85" height="18" font="2">the failure</text>
+<text top="578" left="152" width="659" height="18" font="2">“The best student in class likes the competition/competing, but he does not like the</text>
+<text top="602" left="151" width="117" height="18" font="2">failure/failing”</text>
+<text top="650" left="108" width="702" height="18" font="2">This is not a problem for the argument. If the pronominal element <i>tu idhiu</i> “the same-gen”</text>
+<text top="673" left="108" width="702" height="18" font="2">replaces constituents, the clitic-DP complex is one constituent, while the DP-double of a</text>
+<text top="697" left="108" width="703" height="18" font="2">clitic is another constituent. Therefore, there is an option: the pronoun can replace either the</text>
+<text top="721" left="108" width="221" height="18" font="2">one or the other constituent.</text>
+<text top="745" left="123" width="687" height="18" font="2">It is important, though, to show that the pronoun <i>o idhios</i> “the same” always replaces</text>
+<text top="768" left="108" width="702" height="18" font="2">constituents. This is illustrated by the examples below, where the pronoun can replace the</text>
+<text top="792" left="108" width="703" height="18" font="2">DO or the VP, which are constituents, but not both the DO and IO, which are not a</text>
+<text top="816" left="108" width="92" height="18" font="2">constituent:</text>
+<text top="863" left="108" width="88" height="18" font="2">(26) a. O</text>
+<text top="863" left="216" width="127" height="18" font="2">Janis edhose tis</text>
+<text top="863" left="378" width="55" height="18" font="2">Marias</text>
+<text top="863" left="486" width="16" height="18" font="5"><i>to</i></text>
+<text top="863" left="540" width="44" height="18" font="5"><i>vivlio</i></text>
+<text top="863" left="648" width="16" height="18" font="5"><i>tu</i></text>
+<text top="863" left="702" width="69" height="18" font="5"><i>Chekhov</i></text>
+<text top="887" left="181" width="115" height="18" font="2">the Janis gave</text>
+<text top="887" left="324" width="24" height="18" font="2">the</text>
+<text top="887" left="378" width="83" height="18" font="2">Maria-gen</text>
+<text top="887" left="486" width="24" height="18" font="2">the</text>
+<text top="887" left="540" width="73" height="18" font="2">book-acc</text>
+<text top="887" left="648" width="24" height="18" font="2">the</text>
+<text top="887" left="702" width="107" height="18" font="2">Chekhov-gen</text>
+<text top="911" left="108" width="118" height="18" font="2"> ke o</text>
+<text top="911" left="259" width="84" height="18" font="2">Vasilis tis</text>
+<text top="911" left="438" width="55" height="18" font="2">edhose</text>
+<text top="911" left="540" width="17" height="18" font="3"><b>to</b></text>
+<text top="911" left="605" width="43" height="18" font="3"><b>idhio</b></text>
+<text top="935" left="108" width="132" height="18" font="2"> and the</text>
+<text top="935" left="259" width="251" height="18" font="2">Vassilis cl-3sg-f-gen gave-3sg</text>
+<text top="935" left="540" width="24" height="18" font="2">the</text>
+<text top="935" left="605" width="90" height="18" font="2">same-n-acc</text>
+<text top="959" left="108" width="54" height="18" font="2">           </text>
+<text top="959" left="181" width="535" height="18" font="2">“Janis gave Maria Chekhov’s book and Vassilis gave her the same”</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">488</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="206" height="18" font="2">        b. *O Janis edhose</text>
+<text top="173" left="378" width="19" height="18" font="5"><i>tis</i></text>
+<text top="173" left="438" width="57" height="18" font="5"><i>Marias</i></text>
+<text top="173" left="540" width="16" height="18" font="5"><i>to</i></text>
+<text top="173" left="576" width="44" height="18" font="5"><i>vivlio</i></text>
+<text top="173" left="661" width="102" height="18" font="5"><i>tu Chekhov</i></text>
+<text top="197" left="181" width="149" height="18" font="2">the Janis gave-3sg</text>
+<text top="197" left="378" width="24" height="18" font="2">the</text>
+<text top="197" left="438" width="83" height="18" font="2">Maria-gen</text>
+<text top="197" left="540" width="260" height="18" font="2">the book-acc the Chekhov-gen</text>
+<text top="221" left="108" width="118" height="18" font="2">             ke o</text>
+<text top="221" left="259" width="121" height="18" font="2">Vassilis edhose</text>
+<text top="221" left="438" width="17" height="18" font="3"><b>to</b></text>
+<text top="221" left="486" width="43" height="18" font="3"><b>idhio</b></text>
+<text top="245" left="108" width="132" height="18" font="2">             and the</text>
+<text top="245" left="259" width="137" height="18" font="2">Vassilis gave-3sg</text>
+<text top="245" left="438" width="24" height="18" font="2">the</text>
+<text top="245" left="486" width="90" height="18" font="2">same-n-acc</text>
+<text top="269" left="181" width="591" height="18" font="2">“Janis gave Maria Chekhov’s book and Vassilis gave the same (to Maria)”</text>
+<text top="316" left="123" width="97" height="18" font="2">c. O Janis</text>
+<text top="316" left="259" width="55" height="18" font="5"><i>edhose</i></text>
+<text top="316" left="342" width="19" height="18" font="5"><i>tis</i></text>
+<text top="316" left="385" width="57" height="18" font="5"><i>Marias</i></text>
+<text top="316" left="486" width="16" height="18" font="5"><i>to</i></text>
+<text top="316" left="540" width="44" height="18" font="5"><i>vivlio</i></text>
+<text top="316" left="648" width="16" height="18" font="5"><i>tu</i></text>
+<text top="316" left="702" width="74" height="18" font="5"><i>Chekhov </i></text>
+<text top="340" left="108" width="54" height="18" font="2">           </text>
+<text top="340" left="181" width="185" height="18" font="2">the Janis gave-3sg the</text>
+<text top="340" left="385" width="83" height="18" font="2">Maria-gen</text>
+<text top="340" left="486" width="24" height="18" font="2">the</text>
+<text top="340" left="540" width="73" height="18" font="2">book-acc</text>
+<text top="340" left="648" width="24" height="18" font="2">the</text>
+<text top="340" left="702" width="107" height="18" font="2">Chekhov-gen</text>
+<text top="364" left="108" width="54" height="18" font="3"><b>           </b></text>
+<text top="364" left="181" width="45" height="18" font="2">ke o</text>
+<text top="364" left="259" width="82" height="18" font="2">Vasilis <b>to</b></text>
+<text top="364" left="378" width="43" height="18" font="3"><b>idhio</b></text>
+<text top="388" left="108" width="54" height="18" font="2">           </text>
+<text top="388" left="181" width="59" height="18" font="2">and the</text>
+<text top="388" left="259" width="90" height="18" font="2">Vassilis the</text>
+<text top="388" left="378" width="90" height="18" font="2">same-n-acc</text>
+<text top="412" left="108" width="49" height="18" font="2">          </text>
+<text top="412" left="181" width="629" height="18" font="2">“Janis gave Maria Chekhov’s book and Vassilis the same (i.e. gave Maria</text>
+<text top="436" left="183" width="146" height="18" font="2">Chekhov’s book)”</text>
+<text top="483" left="108" width="702" height="18" font="2">In ex. a , <i>to idhio </i>“the same” replaces the DO <i>to vivlio tu Chekhov  </i>“Chekhov’s book”,</text>
+<text top="507" left="108" width="702" height="18" font="2">which is a constituent. Moreover, in ex. c, <i>to idhio</i> “the same” replaces the VP <i>edhose tis</i></text>
+<text top="531" left="108" width="702" height="18" font="5"><i>Marias to  vivlio tu Chekhov “gave Maria Chekhov’s book”,</i> which is also a constituent.</text>
+<text top="555" left="108" width="703" height="18" font="2">The option of the verb being gapped is excluded, since this would mean that only the DO</text>
+<text top="578" left="108" width="702" height="18" font="2">and the IO are replaced by the pronoun. Ex. b, though, indicates that this is not allowed. In</text>
+<text top="602" left="108" width="702" height="18" font="2">b <i>to idhio</i> “the same” cannot replace both the IO and the DO <i>tis Marias </i>“the Maria-gen”</text>
+<text top="626" left="108" width="647" height="18" font="2">and<i> to vivlio tu</i> <i>Chekhov  </i>“Chekhov’s book”, since they do not form a constituent.</text>
+<text top="650" left="123" width="687" height="18" font="2">So, we have seen that the pronominal element to idhio “the same” always replaces a</text>
+<text top="673" left="108" width="703" height="18" font="2">constituent. In addition, we have seen that this element replaces the clitic-double complex,</text>
+<text top="697" left="108" width="703" height="18" font="2">in environments where the clitic is obligatorily selected together with the DP. Therefore,</text>
+<text top="721" left="108" width="702" height="18" font="2">we may conclude that the clitic and its double form a constituent, as expressed by the</text>
+<text top="745" left="108" width="185" height="18" font="2">analysis proposed here.</text>
+<text top="816" left="108" width="423" height="18" font="3"><b>6 The clitic takes the DP-double as its complement</b></text>
+<text top="864" left="108" width="703" height="18" font="2">We have seen evidence that the clitic starts out together with the DP-double. In this section,</text>
+<text top="888" left="108" width="702" height="18" font="2">I will argue that the clitic takes the double as its complement rather than its specifier, as</text>
+<text top="911" left="108" width="253" height="18" font="2">proposed by Uriagereka (1995).</text>
+<text top="935" left="123" width="687" height="18" font="2">Uriagereka’s analysis predicts that there is an option of spelling out both the NP merged</text>
+<text top="959" left="108" width="703" height="18" font="2">as the complement of the clitic head and the double generated in the specifier position. That</text>
+<text top="983" left="108" width="702" height="18" font="2">is, we expect to find a language where the clitic/Determiner takes a full NP as its</text>
+<text top="1006" left="108" width="702" height="18" font="2">complement and a full DP as its specifier. This prediction is not borne out, since the case</text>
+<text top="1030" left="108" width="374" height="18" font="2">of “clitic-triple” is not attested in any language.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">489</text>
+<text top="173" left="123" width="688" height="18" font="2">Furthermore, the clitic and its double are jointly assigned a single theta-role from the verb.</text>
+<text top="197" left="108" width="703" height="18" font="2">Uriagereka’s analysis makes us expect an extra operation of theta-role assignment, within</text>
+<text top="221" left="108" width="703" height="18" font="2">the DP: the nominal element merged in the complement position (or the Determiner) should</text>
+<text top="245" left="108" width="702" height="18" font="2">assign a theta-role to the DP in the specifier position. This is expected, on a par with</text>
+<text top="268" left="108" width="703" height="18" font="2">possessive constructions, where the possessee (or the Determiner) assigns a theta-role to the</text>
+<text top="292" left="108" width="82" height="18" font="2">possessor:</text>
+<text top="340" left="108" width="33" height="18" font="2">(27)</text>
+<text top="340" left="181" width="26" height="18" font="2">DP</text>
+<text top="360" left="108" width="54" height="18" font="2">           </text>
+<text top="361" left="162" width="24" height="16" font="10">ei</text>
+<text top="385" left="108" width="187" height="18" font="2">        DP                     D’</text>
+<text top="409" left="108" width="115" height="18" font="2">       John         </text>
+<text top="410" left="223" width="24" height="16" font="10">ei</text>
+<text top="433" left="108" width="249" height="18" font="2">                      D                     NP</text>
+<text top="457" left="108" width="263" height="18" font="2">                     ’s                      book</text>
+<text top="504" left="108" width="702" height="18" font="2">In possessive constructions, a theta-role is obligatorily assigned DP internally, since two</text>
+<text top="528" left="108" width="703" height="18" font="2">lexical projections are merged: the noun expressing the possessor is merged in the specifier</text>
+<text top="552" left="108" width="702" height="18" font="2">position and the noun expressing the possessee is merged as the complement of the</text>
+<text top="576" left="108" width="703" height="18" font="2">Determiner. However, in clitic doubling constructions only one lexical head is generated:</text>
+<text top="599" left="108" width="703" height="18" font="2">the noun-double of the clitic. This crucial difference should be accounted for, since it is not</text>
+<text top="623" left="108" width="533" height="18" font="2">optimal to propose identical configurations for such different cases.</text>
+<text top="647" left="123" width="687" height="18" font="2">Taking in account the above problems, I would like to propose an alternative, based on</text>
+<text top="671" left="108" width="703" height="18" font="2">the observation that, in clitic doubling constructions, a single lexical projection is involved.</text>
+<text top="694" left="108" width="563" height="18" font="2">According to this hypothesis, the clitic takes the DP as its complement:</text>
+<text top="742" left="108" width="33" height="18" font="2">(28)</text>
+<text top="742" left="216" width="35" height="18" font="2">Cl P</text>
+<text top="763" left="108" width="63" height="18" font="2">             </text>
+<text top="764" left="171" width="24" height="16" font="10">ei</text>
+<text top="787" left="108" width="192" height="18" font="2">          CL                   DP</text>
+<text top="811" left="108" width="122" height="18" font="2">          Clitic      </text>
+<text top="812" left="230" width="24" height="16" font="10">ei</text>
+<text top="811" left="253" width="15" height="18" font="2">   </text>
+<text top="835" left="108" width="254" height="18" font="2">                       D                     NP</text>
+<text top="859" left="108" width="289" height="18" font="2">                       Determiner      Double</text>
+<text top="907" left="108" width="702" height="18" font="2">In the absence of a second lexical head (i.e. in the absence of a DP merged in the specifier</text>
+<text top="930" left="108" width="702" height="18" font="2">position of the clitic projection), no operation of theta-role assignment is expected to be</text>
+<text top="954" left="108" width="167" height="18" font="2">active within the DP.</text>
+<text top="978" left="123" width="687" height="18" font="2">The hypothesis presented in this paper, is based on the assumption that extended</text>
+<text top="1002" left="108" width="703" height="18" font="2">projections are always continued through head-complement relationships and not through</text>
+<text top="1025" left="108" width="703" height="18" font="2">spec-head relationships. So, if the double is the complement of the clitic, we are dealing</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="20" family="Symbol" color="#000000"/>
+<text top="132" left="108" width="25" height="15" font="4">490</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="702" height="18" font="2">with a single extended projection that is assigned one theta-role from an external head (i.e.</text>
+<text top="197" left="108" width="703" height="18" font="2">the verb). If, on the other hand, the double is generated in the specifier position of the clitic-</text>
+<text top="221" left="108" width="703" height="18" font="2">head, we are not dealing with a single extended projection. In this case, a separate theta-role</text>
+<text top="245" left="108" width="703" height="18" font="2">is probably assigned DP internally and it is hard to identify the nature of such a theta-role</text>
+<text top="268" left="108" width="250" height="18" font="2">in clitic doubling constructions.</text>
+<text top="292" left="123" width="687" height="18" font="2">The functional heads that are merged in the extended nominal projection cannot contain</text>
+<text top="316" left="108" width="703" height="18" font="2">features that clash with those of the lexical head (Grimshaw 1991). The operation of feature</text>
+<text top="340" left="108" width="702" height="18" font="2">sharing that applies within a single projection allows for the clitic and its double to be</text>
+<text top="363" left="108" width="702" height="18" font="2">interpreted as a single argument (visibility). In the case of a Noun taking a DP as its</text>
+<text top="387" left="108" width="703" height="18" font="2">complement, on the other hand, two lexical projections are involved and two operations of</text>
+<text top="411" left="108" width="702" height="18" font="2">feature sharing are active. In particular, the functional heads merged in each extended</text>
+<text top="435" left="108" width="703" height="18" font="2">projection cannot contain features that clash with those of the Noun-head of each projection.</text>
+<text top="458" left="108" width="703" height="18" font="2">The crucial point is that no operation of feature sharing applies between the elements of</text>
+<text top="482" left="108" width="703" height="18" font="2">different projections. This allows them to carry different features, which implies that they</text>
+<text top="506" left="108" width="238" height="18" font="2">are not interpreted identically.</text>
+<text top="530" left="123" width="687" height="18" font="2">So, the hypothesis predicts that in clitic doubling constructions two sets of features {A}</text>
+<text top="555" left="108" width="243" height="18" font="2">and {B} are unified in one {A </text>
+<text top="548" left="351" width="15" height="26" font="14">∪</text>
+<text top="555" left="366" width="33" height="18" font="2"> B}:</text>
+<text top="604" left="108" width="33" height="18" font="2">(29)</text>
+<text top="604" left="181" width="75" height="18" font="2">CL P {A </text>
+<text top="597" left="256" width="15" height="26" font="14">∪</text>
+<text top="604" left="271" width="28" height="18" font="2"> B}</text>
+<text top="625" left="108" width="68" height="18" font="2">              </text>
+<text top="626" left="176" width="24" height="16" font="10">ei</text>
+<text top="649" left="108" width="243" height="18" font="2">           CL {A}             DP {B}</text>
+<text top="673" left="108" width="131" height="18" font="2">                           </text>
+<text top="720" left="108" width="702" height="18" font="2">The situation is different in the case of Noun taking a DP as its complement. Only the</text>
+<text top="744" left="108" width="331" height="18" font="2">features of the N-head percolate upwards:</text>
+<text top="768" left="108" width="5" height="18" font="2"> </text>
+<text top="792" left="108" width="33" height="18" font="2">(30)</text>
+<text top="792" left="216" width="64" height="18" font="2">NP {A}</text>
+<text top="813" left="108" width="167" height="16" font="10">            ei</text>
+<text top="837" left="108" width="5" height="18" font="2"> </text>
+<text top="837" left="161" width="179" height="18" font="2">N {A}             DP {B}</text>
+<text top="908" left="108" width="544" height="18" font="2">This prediction is borne out as illustrated by the following examples:</text>
+<text top="956" left="108" width="108" height="18" font="2">(31) a. *<b>Tu</b></text>
+<text top="956" left="324" width="34" height="18" font="2">idha</text>
+<text top="956" left="438" width="17" height="18" font="3"><b>to</b></text>
+<text top="956" left="486" width="36" height="18" font="3"><b>Jani</b></text>
+<text top="956" left="648" width="41" height="18" font="3"><b>Case</b></text>
+<text top="980" left="108" width="179" height="18" font="2">             cl-3sg-m-gen</text>
+<text top="980" left="324" width="65" height="18" font="2">saw-1sg</text>
+<text top="980" left="438" width="24" height="18" font="2">the</text>
+<text top="980" left="486" width="65" height="18" font="2">Jani-acc</text>
+<text top="1004" left="108" width="170" height="18" font="2">             “I saw Jani”</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">491</text>
+<text top="174" left="108" width="108" height="18" font="2">       b. Idha</text>
+<text top="174" left="259" width="28" height="18" font="3"><b>ton</b></text>
+<text top="174" left="324" width="37" height="18" font="3"><b>kipo</b></text>
+<text top="174" left="438" width="18" height="18" font="3"><b>tu</b></text>
+<text top="174" left="486" width="47" height="18" font="3"><b>spitiu</b></text>
+<text top="198" left="108" width="175" height="18" font="3"><b>               </b>saw-1sg the</text>
+<text top="198" left="324" width="87" height="18" font="2">garden-acc</text>
+<text top="198" left="438" width="24" height="18" font="2">the</text>
+<text top="198" left="486" width="82" height="18" font="2">house-gen</text>
+<text top="221" left="108" width="322" height="18" font="2">              “I saw the garden of the house”</text>
+<text top="269" left="152" width="74" height="18" font="2">c. *<b>Ton</b></text>
+<text top="269" left="324" width="34" height="18" font="2">idha</text>
+<text top="269" left="378" width="12" height="18" font="3"><b>ti</b></text>
+<text top="269" left="438" width="53" height="18" font="3"><b>Maria</b></text>
+<text top="269" left="648" width="64" height="18" font="3"><b>Gender</b></text>
+<text top="293" left="108" width="176" height="18" font="2">              cl-3sg-m-acc</text>
+<text top="293" left="324" width="78" height="18" font="2">saw-I the</text>
+<text top="293" left="438" width="80" height="18" font="2">Maria-acc</text>
+<text top="317" left="108" width="185" height="18" font="2">             “I saw Maria”</text>
+<text top="365" left="108" width="108" height="18" font="2"> d. Idha</text>
+<text top="365" left="259" width="28" height="18" font="3"><b>ton</b></text>
+<text top="365" left="324" width="55" height="18" font="3"><b>patera</b></text>
+<text top="365" left="438" width="20" height="18" font="3"><b>tis</b></text>
+<text top="365" left="486" width="61" height="18" font="3"><b>Marias</b></text>
+<text top="389" left="108" width="121" height="18" font="2">               Saw-I</text>
+<text top="389" left="259" width="24" height="18" font="2">the</text>
+<text top="389" left="324" width="79" height="18" font="2">father-acc</text>
+<text top="389" left="438" width="24" height="18" font="2">the</text>
+<text top="389" left="486" width="83" height="18" font="2">Maria-gen</text>
+<text top="413" left="108" width="251" height="18" font="2">              “I saw Maria’s father”</text>
+<text top="461" left="152" width="74" height="18" font="2">e. *<b>Ton</b></text>
+<text top="461" left="324" width="34" height="18" font="2">idha</text>
+<text top="461" left="438" width="25" height="18" font="3"><b>tus</b></text>
+<text top="461" left="486" width="57" height="18" font="3"><b>andres</b></text>
+<text top="461" left="648" width="71" height="18" font="3"><b>Number</b></text>
+<text top="484" left="108" width="176" height="18" font="2">               cl-3sg-m-acc</text>
+<text top="484" left="324" width="65" height="18" font="2">saw-1sg</text>
+<text top="484" left="438" width="24" height="18" font="2">the</text>
+<text top="484" left="486" width="34" height="18" font="2">men</text>
+<text top="508" left="108" width="201" height="18" font="2">               “I saw the men”</text>
+<text top="556" left="152" width="65" height="18" font="2">f. Idha</text>
+<text top="556" left="259" width="28" height="18" font="3"><b>ton</b></text>
+<text top="556" left="324" width="55" height="18" font="3"><b>patera</b></text>
+<text top="556" left="438" width="28" height="18" font="3"><b>ton</b></text>
+<text top="556" left="486" width="76" height="18" font="3"><b>koritsion</b></text>
+<text top="580" left="108" width="175" height="18" font="2">              Saw-1sg the</text>
+<text top="580" left="324" width="79" height="18" font="2">father-acc</text>
+<text top="580" left="438" width="24" height="18" font="2">the</text>
+<text top="580" left="486" width="70" height="18" font="2">girls-gen</text>
+<text top="604" left="108" width="303" height="18" font="2">             “I saw the father of the girls”</text>
+<text top="652" left="152" width="59" height="18" font="2">g. *<b>Se</b></text>
+<text top="652" left="259" width="34" height="18" font="2">idha</text>
+<text top="652" left="324" width="17" height="18" font="3"><b>to</b></text>
+<text top="652" left="378" width="36" height="18" font="3"><b>Jani</b></text>
+<text top="652" left="648" width="58" height="18" font="3"><b>Person</b></text>
+<text top="675" left="108" width="122" height="18" font="2">              cl-2sg</text>
+<text top="675" left="259" width="90" height="18" font="2">saw-1sgthe</text>
+<text top="675" left="378" width="65" height="18" font="2">Jani-acc</text>
+<text top="699" left="108" width="170" height="18" font="2">              “I saw Jani”</text>
+<text top="747" left="152" width="65" height="18" font="2">h. Idha</text>
+<text top="747" left="259" width="28" height="18" font="3"><b>ton</b></text>
+<text top="747" left="324" width="55" height="18" font="3"><b>patera</b></text>
+<text top="747" left="438" width="29" height="18" font="3"><b>sou</b></text>
+<text top="771" left="108" width="175" height="18" font="2">              saw-1sg the</text>
+<text top="771" left="324" width="79" height="18" font="2">father-acc</text>
+<text top="771" left="438" width="72" height="18" font="2">your-gen</text>
+<text top="795" left="108" width="225" height="18" font="2">             “I saw your father”</text>
+<text top="842" left="108" width="702" height="18" font="2">In (a) the clitic carries different morphological case from its double-DP and the</text>
+<text top="866" left="108" width="702" height="18" font="2">configuration is ungrammatical. The situation is different when a Noun takes a DP as its</text>
+<text top="890" left="108" width="702" height="18" font="2">complement, as illustrated in (c). In (d) the clitic and its double cannot have different</text>
+<text top="914" left="108" width="702" height="18" font="2">features for gender, while this is possible when a noun takes a DP as its complement. Also,</text>
+<text top="937" left="108" width="703" height="18" font="2">the clitic and its double must have identical features for number, while this is not obligatory</text>
+<text top="961" left="108" width="703" height="18" font="2">in the case of a Noun taking a DP as its complement. Lastly, the clitic and its double must</text>
+<text top="985" left="108" width="702" height="18" font="2">have matching features for person (g). The same is not required in a configuration where</text>
+<text top="1009" left="108" width="324" height="18" font="2">a Noun takes a DP as its complement (f).</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">492</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="123" width="688" height="18" font="2">Although, the case of a clitic taking a DP as its complement should be distinguished from</text>
+<text top="197" left="108" width="703" height="18" font="2">the case of a Noun taking a DP as its complement with respect to interpretational effects,</text>
+<text top="221" left="108" width="703" height="18" font="2">there is an important link between the two configurations. Clitic doubling can be explained</text>
+<text top="245" left="108" width="702" height="18" font="2">on a par with Nouns taking a DP-complement in that both structures are allowed in</text>
+<text top="268" left="108" width="283" height="18" font="2">languages with morphological case.</text>
+<text top="340" left="108" width="504" height="18" font="3"><b>7 Clitic Doubling: A Syntactic Effect of Morphological Case</b></text>
+<text top="387" left="108" width="703" height="18" font="2">It is often observed that the presence of morphological case allows a noun to take a DP as</text>
+<text top="411" left="108" width="703" height="18" font="2">its complement. Weerman (1997) and Neeleman &amp; Weerman (1999) propose the following</text>
+<text top="435" left="108" width="702" height="18" font="2">explanation: If case is a functional head, generated in the extended nominal projection, it</text>
+<text top="459" left="108" width="703" height="18" font="2">forms a CASE shell on top of the DP. The CASE P must have case features, or else it needs</text>
+<text top="482" left="108" width="702" height="18" font="2">to be governed at PF, due to the ECP (Aoun et al, 1987, Rizzi, 1990, recently revived in</text>
+<text top="506" left="108" width="702" height="18" font="2">Neeleman &amp; Weerman, 1999). Government is only possible by a non-nominal category,</text>
+<text top="530" left="108" width="702" height="18" font="2">which is adjacent to the case head (Neeleman &amp; Weerman 1999). Unlike the standard</text>
+<text top="554" left="108" width="703" height="18" font="2">minimalism (Chomsky 1995), where government is neither a syntactic nor a phonological</text>
+<text top="577" left="108" width="457" height="18" font="2">phenomenon, government is here assumed to apply at PF.</text>
+<text top="601" left="123" width="688" height="18" font="2">If the clitic is a functional head that takes the double DP (CASE P) as its complement, the</text>
+<text top="625" left="108" width="702" height="18" font="2">CASE P of the complement-DP must have case features (in particular, the case features</text>
+<text top="649" left="108" width="340" height="18" font="2">percolate from the N-head to the CASE P):</text>
+<text top="696" left="108" width="33" height="18" font="2">(32)</text>
+<text top="696" left="216" width="26" height="18" font="2">VP</text>
+<text top="717" left="108" width="58" height="18" font="2">            </text>
+<text top="718" left="166" width="24" height="16" font="10">ei</text>
+<text top="741" left="108" width="195" height="18" font="2">          V                    Cl P</text>
+<text top="762" left="108" width="122" height="18" font="2">                         </text>
+<text top="763" left="230" width="24" height="16" font="10">ei</text>
+<text top="787" left="108" width="280" height="18" font="2">                      Cl                  CASE P</text>
+<text top="807" left="108" width="185" height="18" font="2">                                      </text>
+<text top="808" left="293" width="24" height="16" font="10">ei</text>
+<text top="832" left="108" width="315" height="18" font="2">                                 CASE                DP</text>
+<text top="856" left="108" width="321" height="18" font="2">                                  case                         </text>
+<text top="903" left="108" width="703" height="18" font="2">In the absence of case features on the CASE P, the case shell needs to be governed at PF.</text>
+<text top="927" left="108" width="703" height="18" font="2">If the clitic intervenes between the verb and the DP, then government by the verb is ruled</text>
+<text top="951" left="108" width="703" height="18" font="2">out. Moreover, if the clitic is generated in the extended nominal projection, it is nominal in</text>
+<text top="974" left="108" width="702" height="18" font="2">character and it cannot qualify as a proper governor (Neeleman &amp; Weerman 1999).</text>
+<text top="998" left="108" width="702" height="18" font="2">Therefore, an empty case shell, which is generated as the complement of the clitic would</text>
+<text top="1022" left="108" width="102" height="18" font="2">fail the ECP:</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">493</text>
+<text top="197" left="108" width="33" height="18" font="2">(33)</text>
+<text top="197" left="216" width="35" height="18" font="2">*VP</text>
+<text top="218" left="108" width="68" height="18" font="2">              </text>
+<text top="219" left="176" width="24" height="16" font="10">ei</text>
+<text top="242" left="108" width="200" height="18" font="2">            V                   Cl P</text>
+<text top="263" left="108" width="127" height="18" font="2">                          </text>
+<text top="264" left="234" width="24" height="16" font="10">ei</text>
+<text top="287" left="108" width="285" height="18" font="2">                       Cl                  CASE P</text>
+<text top="308" left="108" width="190" height="18" font="2">                                       </text>
+<text top="309" left="298" width="24" height="16" font="10">ei</text>
+<text top="333" left="108" width="329" height="18" font="2">                                 CASE                   DP</text>
+<text top="358" left="108" width="165" height="18" font="2">                                  </text>
+<text top="351" left="273" width="17" height="26" font="14">∅</text>
+<text top="358" left="290" width="88" height="18" font="2">                  </text>
+<text top="405" left="108" width="703" height="18" font="2">The CASE P cannot be “filled” with the case features present on the clitic. More precisely,</text>
+<text top="429" left="108" width="702" height="18" font="2">if we assume that features percolate upwards, any features present on a head above the</text>
+<text top="452" left="108" width="703" height="18" font="2">CASE P cannot percolate to it. So clitic doubling is not allowed in a language that has an</text>
+<text top="476" left="108" width="543" height="18" font="2">overt case affix on the clitic but not on the Noun-double of the clitic:</text>
+<text top="524" left="108" width="33" height="18" font="2">(34)</text>
+<text top="524" left="216" width="35" height="18" font="2">*VP</text>
+<text top="544" left="108" width="68" height="18" font="2">              </text>
+<text top="546" left="176" width="24" height="16" font="10">ei</text>
+<text top="569" left="108" width="205" height="18" font="2">            V                    Cl P</text>
+<text top="590" left="108" width="131" height="18" font="2">                           </text>
+<text top="591" left="239" width="24" height="16" font="10">ei</text>
+<text top="614" left="108" width="290" height="18" font="2">                        Cl                  CASE P</text>
+<text top="638" left="108" width="185" height="18" font="2">                        case       </text>
+<text top="639" left="293" width="24" height="16" font="10">ei</text>
+<text top="662" left="108" width="319" height="18" font="2">                                 CASE                 DP</text>
+<text top="688" left="108" width="165" height="18" font="2">                                  </text>
+<text top="681" left="273" width="17" height="26" font="14">∅</text>
+<text top="735" left="108" width="702" height="18" font="2">The features present on the clitic-head do not percolate to the CASE P, since the former is</text>
+<text top="758" left="108" width="703" height="18" font="2">merged above the latter. Moreover, the presence of the clitic bans government of the case</text>
+<text top="782" left="108" width="702" height="18" font="2">shell by the verb. Therefore, it is not possible for a DP to appear as the complement of the</text>
+<text top="806" left="108" width="372" height="18" font="2">clitic, unless its case shell carries case features.</text>
+<text top="878" left="108" width="105" height="18" font="3"><b>8 Extraction</b></text>
+<text top="925" left="108" width="702" height="18" font="2">So far, it has been argued that the clitic starts out from the object position. There are two</text>
+<text top="949" left="108" width="643" height="18" font="2">options: the clitic takes the DP-double either as its specifier or as its complement.</text>
+<text top="973" left="123" width="687" height="18" font="2">If the DP-double of a clitic is merged in the specifier position, it is predicted that</text>
+<text top="996" left="108" width="703" height="18" font="2">extraction from the double is ruled out, since the specifier of a complement is an island. If,</text>
+<text top="1020" left="108" width="703" height="18" font="2">on the other hand, the DP-double of a clitic is merged as the complement of the clitic-head,</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="15" size="20" family="Times" color="#000000"/>
+<text top="132" left="108" width="25" height="15" font="4">494</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="702" height="18" font="2">it is predicted that extraction from the double is possible, since movement from the</text>
+<text top="197" left="108" width="702" height="18" font="2">complement (of a complement) is unproblematic. This prediction is borne out, since it is</text>
+<text top="221" left="108" width="464" height="18" font="2">possible to extract from the DP-double of a clitic in Greek.</text>
+<text top="245" left="123" width="687" height="18" font="2">Moreover, it has been argued that the clitic may take the double as its complement in</text>
+<text top="268" left="108" width="703" height="18" font="2">languages with overt case affixes on Nouns. This is also borne out since we can extract</text>
+<text top="292" left="108" width="703" height="18" font="2">from the DP-double of a clitic in Greek, a language with morphological case on Nouns, but</text>
+<text top="316" left="108" width="703" height="18" font="2">we cannot extract from the PP-double of a clitic in Spanish, a language without</text>
+<text top="340" left="108" width="241" height="18" font="2">morphological case on Nouns.</text>
+<text top="363" left="123" width="532" height="18" font="2">So, in Greek, it is possible to extract from the DP double of a clitic:</text>
+<text top="411" left="108" width="100" height="18" font="2">(35) a. <i>Tin</i></text>
+<text top="411" left="259" width="34" height="18" font="2">idha</text>
+<text top="411" left="324" width="21" height="18" font="5"><i>tin</i></text>
+<text top="411" left="378" width="40" height="18" font="5"><i>tenia</i></text>
+<text top="411" left="452" width="15" height="18" font="5"><i>tu</i></text>
+<text top="411" left="486" width="53" height="18" font="5"><i>Fellini</i></text>
+<text top="435" left="108" width="54" height="18" font="2">           </text>
+<text top="435" left="181" width="167" height="18" font="2">cl-3f-acc saw-1sgthe</text>
+<text top="435" left="378" width="195" height="18" font="2">film-acc the Fellini-gen</text>
+<text top="458" left="108" width="54" height="18" font="2">           </text>
+<text top="458" left="181" width="168" height="18" font="2">“I saw Fellini’s film”</text>
+<text top="506" left="152" width="119" height="18" font="2">b. <i><b>Tu Fellini</b></i></text>
+<text top="506" left="324" width="21" height="18" font="5"><i>tin</i></text>
+<text top="506" left="438" width="34" height="18" font="2">idha</text>
+<text top="506" left="540" width="21" height="18" font="5"><i>tin</i></text>
+<text top="506" left="605" width="40" height="18" font="5"><i>tenia</i></text>
+<text top="530" left="108" width="195" height="18" font="2">             the Fellini-gen</text>
+<text top="530" left="324" width="70" height="18" font="2">cl-3f-acc</text>
+<text top="530" left="438" width="65" height="18" font="2">saw-1sg</text>
+<text top="530" left="540" width="24" height="18" font="2">the</text>
+<text top="530" left="605" width="66" height="18" font="2">film-acc</text>
+<text top="554" left="108" width="54" height="18" font="2">           </text>
+<text top="554" left="181" width="197" height="18" font="2">“Fellini’s I saw the film”</text>
+<text top="601" left="108" width="702" height="18" font="2">In example b the DP <i>tu Fellini</i> “Fellini’s” is extracted from the complex DP<b> </b><i>tin tenia tu</i></text>
+<text top="625" left="108" width="703" height="18" font="5"><i>Fellini</i> “Fellini’s film”, indicating that the latter is a complement. Of course, extraction from</text>
+<text top="649" left="108" width="658" height="18" font="2">the DP <i>tin tenia tu Fellini</i>  “Fellini’s film” is also possible in the absence of a clitic:</text>
+<text top="696" left="108" width="108" height="18" font="2">(36) a. Idha</text>
+<text top="696" left="259" width="21" height="18" font="5"><i>tin</i></text>
+<text top="696" left="324" width="40" height="18" font="5"><i>tenia</i></text>
+<text top="696" left="438" width="15" height="18" font="5"><i>tu</i></text>
+<text top="696" left="486" width="53" height="18" font="5"><i>Fellini</i></text>
+<text top="720" left="108" width="54" height="18" font="2">           </text>
+<text top="720" left="181" width="102" height="18" font="2">saw-1sg the</text>
+<text top="720" left="324" width="83" height="18" font="2">movie-acc</text>
+<text top="720" left="438" width="24" height="18" font="2">the</text>
+<text top="720" left="486" width="87" height="18" font="2">Fellini-gen</text>
+<text top="744" left="108" width="49" height="18" font="2">          </text>
+<text top="744" left="181" width="185" height="18" font="2">“I saw Fellini’s movie”</text>
+<text top="792" left="152" width="119" height="18" font="2">b. <i><b>Tu Fellini</b></i></text>
+<text top="792" left="324" width="34" height="18" font="2">idha</text>
+<text top="792" left="438" width="21" height="18" font="5"><i>tin</i></text>
+<text top="792" left="486" width="40" height="18" font="5"><i>tenia</i></text>
+<text top="816" left="108" width="195" height="18" font="2">             the Fellini-gen</text>
+<text top="816" left="324" width="65" height="18" font="2">saw-1sg</text>
+<text top="816" left="438" width="24" height="18" font="2">the</text>
+<text top="816" left="486" width="83" height="18" font="2">movie-acc</text>
+<text top="839" left="108" width="54" height="18" font="2">           </text>
+<text top="839" left="181" width="214" height="18" font="2">“Fellini’s I saw the movie”</text>
+<text top="887" left="108" width="703" height="18" font="2">There seems to be no contrast in the acceptability of the above examples: the DP <i>tin tenia</i></text>
+<text top="911" left="108" width="602" height="18" font="5"><i>tu</i> <i>Fellini</i> “Fellini’s film” is merged in a complement position, in both cases.</text>
+<text top="934" left="108" width="702" height="18" font="2">The argument is strengthened by the fact that Greek also allows for an adjunct to be</text>
+<text top="958" left="108" width="288" height="18" font="2">extracted from the double of a clitic:</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="16" size="17" family="Times" color="#000000"/>
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">495</text>
+<text top="173" left="108" width="88" height="18" font="2">(37) a. O</text>
+<text top="173" left="216" width="58" height="18" font="2">Janis <i>to</i></text>
+<text top="173" left="378" width="27" height="18" font="2">troi</text>
+<text top="173" left="427" width="58" height="18" font="5"><i>to kres</i></text>
+<text top="173" left="540" width="62" height="18" font="5"><i>apo to</i></text>
+<text top="173" left="629" width="43" height="18" font="5"><i>horio</i></text>
+<text top="173" left="731" width="16" height="18" font="5"><i>tu</i></text>
+<text top="197" left="108" width="54" height="18" font="2">           </text>
+<text top="197" left="181" width="175" height="18" font="2">the Janis cl-3sg-n-acc</text>
+<text top="197" left="378" width="233" height="18" font="2">eats themeat-acc from the</text>
+<text top="197" left="629" width="160" height="18" font="2">village-acc his-gen</text>
+<text top="221" left="108" width="54" height="18" font="2">           </text>
+<text top="221" left="181" width="295" height="18" font="2">“Janis eats the meat from his village”</text>
+<text top="245" left="152" width="63" height="18" font="2">b. <i><b>Apo</b></i></text>
+<text top="245" left="236" width="15" height="18" font="15"><i><b>to</b></i></text>
+<text top="245" left="270" width="44" height="18" font="15"><i><b>horio</b></i></text>
+<text top="245" left="378" width="17" height="18" font="15"><i><b>tu</b></i></text>
+<text top="245" left="438" width="10" height="18" font="2">o</text>
+<text top="245" left="486" width="69" height="18" font="2">Janis <i>to</i></text>
+<text top="245" left="648" width="27" height="18" font="2">troi</text>
+<text top="245" left="702" width="72" height="18" font="5"><i>to kreas</i></text>
+<text top="269" left="108" width="249" height="18" font="2">              from the village-acc</text>
+<text top="269" left="378" width="84" height="18" font="2">his-genthe</text>
+<text top="269" left="486" width="193" height="18" font="2">Janis cl-3sg-n-acc eats</text>
+<text top="269" left="702" width="101" height="18" font="2">the meat-acc</text>
+<text top="292" left="108" width="54" height="18" font="2">           </text>
+<text top="292" left="181" width="270" height="18" font="2">“From his village Janis eats meat”</text>
+<text top="340" left="108" width="702" height="18" font="2">The PP <i>apo to horio tu </i>“from his village”<i> </i>is extracted from the double of the clitic <i>to kreas</i></text>
+<text top="364" left="108" width="703" height="18" font="5"><i>apo to horio tu </i>“the meat from his village”. This strongly indicates that the DP double of</text>
+<text top="387" left="108" width="703" height="18" font="2">the clitic occupies a complement position. In particular, it is the complement of the clitic.</text>
+<text top="411" left="123" width="687" height="18" font="2">The extended projection of a non-nominal category, on the other hand, cannot contain a</text>
+<text top="435" left="108" width="702" height="18" font="2">nominal head, since the categorial features of the two elements are different. So, a clitic is</text>
+<text top="459" left="108" width="702" height="18" font="2">never merged in the extended projection of a PP (i.e. the clitic does not take a complement</text>
+<text top="483" left="108" width="703" height="18" font="2">PP). Also, the clitic is not merged inside the PP, since the presence of the P-head would ban</text>
+<text top="506" left="108" width="703" height="18" font="2">incorporation of the clitic to its host (HMC). It is, thus, predicted that a PP double of a clitic</text>
+<text top="530" left="108" width="702" height="18" font="2">is an adjunct, associated with the clitic-argument through coreference. This prediction is</text>
+<text top="554" left="108" width="635" height="18" font="2">borne out, since extraction from the PP-double of a clitic is ruled out in Spanish:</text>
+<text top="601" left="108" width="94" height="18" font="2">(38) a. <i>La</i></text>
+<text top="601" left="324" width="49" height="18" font="2">vimos</text>
+<text top="601" left="438" width="30" height="18" font="5"><i>a la</i></text>
+<text top="601" left="486" width="71" height="18" font="5"><i>hermana</i></text>
+<text top="601" left="605" width="19" height="18" font="5"><i>de</i></text>
+<text top="601" left="648" width="81" height="18" font="5"><i>Juan</i> (col)</text>
+<text top="625" left="108" width="54" height="18" font="2">           </text>
+<text top="625" left="181" width="94" height="18" font="2">cl-3sg-f-acc</text>
+<text top="625" left="324" width="63" height="18" font="2">saw-1pl</text>
+<text top="625" left="438" width="90" height="18" font="2">P the sister</text>
+<text top="625" left="605" width="17" height="18" font="2">of</text>
+<text top="625" left="648" width="36" height="18" font="2">Juan</text>
+<text top="649" left="108" width="49" height="18" font="2">          </text>
+<text top="649" left="190" width="183" height="18" font="2">“We saw Juan’s sister”</text>
+<text top="697" left="108" width="177" height="18" font="2">        b. *<i><b>DeJuan </b>la</i></text>
+<text top="697" left="378" width="49" height="18" font="2">vimos</text>
+<text top="697" left="452" width="10" height="18" font="5"><i>a</i></text>
+<text top="697" left="486" width="15" height="18" font="5"><i>la</i></text>
+<text top="697" left="540" width="71" height="18" font="5"><i>hermana</i></text>
+<text top="721" left="108" width="90" height="18" font="2">             of</text>
+<text top="721" left="216" width="247" height="18" font="2">Juan cl-3sg-f-acc saw-1pl P</text>
+<text top="721" left="486" width="24" height="18" font="2">the</text>
+<text top="721" left="540" width="42" height="18" font="2">sister</text>
+<text top="744" left="108" width="54" height="18" font="2">           </text>
+<text top="744" left="181" width="208" height="18" font="2">“Juan’s we saw the sister”</text>
+<text top="792" left="108" width="702" height="18" font="2">Extraction of the PP <i>de Juan</i> “of Juan” from the complex PP <i>a la hermana de Juan </i>“to the</text>
+<text top="816" left="108" width="703" height="18" font="2">sister of Juan” is ruled out. This indicates that, in the presence of a clitic, the double PP is</text>
+<text top="839" left="108" width="703" height="18" font="2">not in a complement position. Rather, the clitic is the argument of the verb, while the PP</text>
+<text top="863" left="108" width="229" height="18" font="2">occupies an adjunct position.</text>
+<text top="859" left="337" width="7" height="12" font="11">6</text>
+<text top="901" left="108" width="217" height="18" font="2">                                           </text>
+<text top="921" left="123" width="6" height="10" font="12">6</text>
+<text top="924" left="129" width="659" height="15" font="4"> Similar is the situation in Italian (and the other romance languages that make use of object clitics):</text>
+<text top="944" left="123" width="40" height="15" font="4">(v) a.</text>
+<text top="944" left="181" width="109" height="15" font="4">Abbiamo vista</text>
+<text top="944" left="324" width="13" height="15" font="8"><i>la</i></text>
+<text top="944" left="378" width="73" height="15" font="8"><i>sorella di</i></text>
+<text top="944" left="486" width="42" height="15" font="8"><i>Maria</i></text>
+<text top="964" left="123" width="37" height="15" font="4">         </text>
+<text top="964" left="190" width="110" height="15" font="4">have-1pl seen-f</text>
+<text top="964" left="324" width="21" height="15" font="4">the</text>
+<text top="964" left="378" width="35" height="15" font="4">sister</text>
+<text top="964" left="438" width="14" height="15" font="4">of</text>
+<text top="964" left="486" width="40" height="15" font="4">Maria</text>
+<text top="984" left="123" width="37" height="15" font="4">         </text>
+<text top="984" left="190" width="233" height="15" font="4">“We have seen the sister of Maria”</text>
+<text top="1005" left="152" width="13" height="15" font="4">b.</text>
+<text top="1005" left="181" width="147" height="15" font="4">?<i><b>Di Maria </b></i>abbiamo</text>
+<text top="1005" left="378" width="31" height="15" font="4">vista</text>
+<text top="1005" left="438" width="13" height="15" font="8"><i>la</i></text>
+<text top="1005" left="486" width="46" height="15" font="8"><i>sorella</i></text>
+<text top="1025" left="123" width="42" height="15" font="4">          </text>
+<text top="1025" left="190" width="139" height="15" font="4">of Maria have-1pl</text>
+<text top="1025" left="378" width="41" height="15" font="4">seen-f</text>
+<text top="1025" left="438" width="21" height="15" font="4">the</text>
+<text top="1025" left="486" width="35" height="15" font="4">sister</text>
+<text top="1045" left="152" width="12" height="15" font="4">c.</text>
+<text top="1045" left="181" width="15" height="15" font="8"><i>L</i>’</text>
+<text top="1045" left="270" width="58" height="15" font="4">abbiamo</text>
+<text top="1045" left="378" width="31" height="15" font="4">vista</text>
+<text top="1045" left="438" width="27" height="15" font="4"># <i>la</i></text>
+<text top="1045" left="486" width="67" height="15" font="8"><i>sorella di</i></text>
+<text top="1045" left="605" width="42" height="15" font="8"><i>Maria</i></text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">496</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="123" width="510" height="18" font="2">Extraction from the PP is possible only in the absence of a clitic:</text>
+<text top="221" left="108" width="126" height="18" font="2">(39) a. Vimos</text>
+<text top="221" left="259" width="32" height="18" font="5"><i>a la</i></text>
+<text top="221" left="324" width="71" height="18" font="5"><i>hermana</i></text>
+<text top="221" left="438" width="19" height="18" font="5"><i>de</i></text>
+<text top="221" left="486" width="39" height="18" font="5"><i>Juan</i></text>
+<text top="245" left="108" width="191" height="18" font="2">             saw-1pl P the</text>
+<text top="245" left="324" width="42" height="18" font="2">sister</text>
+<text top="245" left="438" width="17" height="18" font="2">of</text>
+<text top="245" left="486" width="37" height="18" font="2">Juan</text>
+<text top="268" left="108" width="54" height="18" font="2">           </text>
+<text top="268" left="181" width="183" height="18" font="2">“We saw Juan’s sister”</text>
+<text top="316" left="108" width="211" height="18" font="2">        b. <i><b>De Juan</b></i>, vimos</text>
+<text top="316" left="378" width="10" height="18" font="5"><i>a</i></text>
+<text top="316" left="438" width="15" height="18" font="5"><i>la</i></text>
+<text top="316" left="486" width="71" height="18" font="5"><i>hermana</i></text>
+<text top="340" left="108" width="54" height="18" font="2">           </text>
+<text top="340" left="181" width="17" height="18" font="2">of</text>
+<text top="340" left="216" width="117" height="18" font="2">Juan saw-1pl</text>
+<text top="340" left="378" width="11" height="18" font="2">P</text>
+<text top="340" left="438" width="24" height="18" font="2">the</text>
+<text top="340" left="486" width="42" height="18" font="2">sister</text>
+<text top="364" left="108" width="49" height="18" font="2">          </text>
+<text top="364" left="190" width="208" height="18" font="2">“Juan’s we saw the sister”</text>
+<text top="411" left="108" width="694" height="18" font="2">In this case, we may assume that the PP is generated in the verbal complement position.</text>
+<text top="435" left="123" width="687" height="18" font="2">To conclude, extraction from the PP is possible in Spanish only in the absence of a clitic</text>
+<text top="459" left="108" width="703" height="18" font="2">argument. A PP double of a clitic is an adjunct, associated with the clitic-argument through</text>
+<text top="483" left="108" width="702" height="18" font="2">coreference. In Greek, on the other hand, extraction from the DP double of a clitic is</text>
+<text top="506" left="108" width="679" height="18" font="2">allowed. We may, thus, assume that the DP is merged as the complement of the clitic.</text>
+<text top="530" left="123" width="687" height="18" font="2">As we will now see, Greek occasionally allows for a PP double of a clitic. In this case,</text>
+<text top="554" left="108" width="703" height="18" font="2">though, the PP-double of a clitic is a topicalized element. As Tsimpli (1995) argues, the</text>
+<text top="578" left="108" width="544" height="18" font="2">topicalized double of a clitic is base generated in an adjunct position.</text>
+<text top="649" left="108" width="358" height="18" font="3"><b>9 Indirect Object Clitic Doubling in Greek</b></text>
+<text top="697" left="108" width="702" height="18" font="2">Greek has two ways of expressing the IO: either with a DP carrying genitive case or with</text>
+<text top="721" left="108" width="41" height="18" font="2">a PP:</text>
+<text top="768" left="108" width="132" height="18" font="2">(40) a. Edhosa</text>
+<text top="768" left="259" width="16" height="18" font="5"><i>tu</i></text>
+<text top="768" left="324" width="34" height="18" font="5"><i>Jani</i></text>
+<text top="768" left="378" width="14" height="18" font="2">ta</text>
+<text top="768" left="438" width="35" height="18" font="2">lefta</text>
+<text top="792" left="108" width="49" height="18" font="2">          </text>
+<text top="792" left="181" width="102" height="18" font="2">gave-1sg the</text>
+<text top="792" left="324" width="32" height="18" font="2">Jani</text>
+<text top="792" left="378" width="24" height="18" font="2">the</text>
+<text top="792" left="438" width="87" height="18" font="2">money-acc</text>
+<text top="816" left="108" width="49" height="18" font="2">          </text>
+<text top="816" left="181" width="191" height="18" font="2">“I gave Jani the money”</text>
+<text top="863" left="108" width="132" height="18" font="2">         b. Edhosa</text>
+<text top="863" left="259" width="23" height="18" font="5"><i>sto</i></text>
+<text top="863" left="324" width="34" height="18" font="5"><i>Jani</i></text>
+<text top="863" left="438" width="14" height="18" font="2">ta</text>
+<text top="863" left="486" width="35" height="18" font="2">lefta</text>
+<text top="887" left="108" width="124" height="18" font="2">             gave-I</text>
+<text top="887" left="259" width="42" height="18" font="2">P-the</text>
+<text top="887" left="324" width="65" height="18" font="2">Jani-acc</text>
+<text top="887" left="438" width="24" height="18" font="2">the</text>
+<text top="887" left="486" width="87" height="18" font="2">money-acc</text>
+<text top="911" left="108" width="54" height="18" font="2">           </text>
+<text top="911" left="181" width="211" height="18" font="2">“I gave the money to Jani”</text>
+<text top="941" left="108" width="706" height="18" font="2">                                                                                                                                            </text>
+<text top="964" left="123" width="37" height="15" font="4">         </text>
+<text top="964" left="181" width="148" height="15" font="4">cl-3sg-f-acc have-1pl</text>
+<text top="964" left="378" width="45" height="15" font="4">seen-f </text>
+<text top="964" left="452" width="102" height="15" font="4">the sister  of</text>
+<text top="964" left="605" width="40" height="15" font="4">Maria</text>
+<text top="984" left="152" width="13" height="15" font="4">d.</text>
+<text top="984" left="181" width="99" height="15" font="4">*<i><b>Di Maria</b></i>, <i>l</i>’</text>
+<text top="984" left="378" width="58" height="15" font="4">abbiamo</text>
+<text top="984" left="452" width="31" height="15" font="4">vista</text>
+<text top="984" left="540" width="13" height="15" font="8"><i>la</i></text>
+<text top="984" left="605" width="46" height="15" font="8"><i>sorella</i></text>
+<text top="1005" left="123" width="46" height="15" font="4">           </text>
+<text top="1005" left="190" width="160" height="15" font="4">of Maria cl-3sg-f-acc</text>
+<text top="1005" left="378" width="115" height="15" font="4">have-1pl seen-f</text>
+<text top="1005" left="540" width="21" height="15" font="4">the</text>
+<text top="1005" left="605" width="35" height="15" font="4">sister</text>
+<text top="1025" left="108" width="702" height="15" font="4">The contrast between the examples b and d indicates that the DP <i>la sorella di Maria</i> is in a complement</text>
+<text top="1045" left="108" width="683" height="15" font="4">position in a and b but not in c and d. In the presence of a clitic the DP is in a right dislocated position.</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">497</text>
+<text top="197" left="108" width="703" height="18" font="2">The presence of syntactic material following the IO (i.e. the DO in the above examples)</text>
+<text top="221" left="108" width="703" height="18" font="2">shows that both the DP <i>tu Jani</i> “the-Jani-gen” and the PP <i>sto Jani</i> “to-the-Jani” are not in</text>
+<text top="245" left="108" width="585" height="18" font="2">a right dislocated position, but presumably they are merged VP internally.</text>
+<text top="268" left="123" width="687" height="18" font="2">Given two possible ways of expressing the IO in Greek, either with a DP or with a PP,</text>
+<text top="292" left="108" width="703" height="18" font="2">the DP-double of a clitic is expected to block the availability of a PP-double of a clitic. The</text>
+<text top="316" left="108" width="702" height="18" font="2">clitic is allowed to select for a DP as its complement, but it cannot select for a PP as its</text>
+<text top="340" left="108" width="702" height="18" font="2">complement (the reasons have been explained in previous sections). Therefore, it is more</text>
+<text top="363" left="108" width="703" height="18" font="2">economical for the clitic to take a DP-double that starts out as its complement, rather than</text>
+<text top="387" left="108" width="703" height="18" font="2">to be associated with a PP that starts out from an adjunct position. This is based on Reuland</text>
+<text top="411" left="108" width="702" height="18" font="2">(1997) who argues that, given two ways of associating an anaphoric element with its</text>
+<text top="435" left="108" width="702" height="18" font="2">antecedent (either in Syntax or outside Syntax), it is more economical to establish the</text>
+<text top="458" left="108" width="170" height="18" font="2">relation syntactically.</text>
+<text top="482" left="123" width="687" height="18" font="2">In this case, the PP is base-generated in its surface position. As Tsimpli (1995) argues the</text>
+<text top="506" left="108" width="703" height="18" font="2">double of a clitic in Greek CLLD constructions, is a topic that is base generated in a</text>
+<text top="530" left="108" width="702" height="18" font="2">dislocated position (that is, it does not move in Syntax). We may, thus, assume that the IO</text>
+<text top="553" left="108" width="702" height="18" font="2">PP-double of a clitic is also a topic, which is analyzed on a par with other CLLD</text>
+<text top="577" left="108" width="702" height="18" font="2">constructions. The presence of a clitic-head would prevent movement of the double, since</text>
+<text top="601" left="108" width="702" height="18" font="2">the clitic is functional and extraction of the complement of a functional head is ruled out</text>
+<text top="625" left="108" width="655" height="18" font="2">(for example, the complement of a Determiner cannot be extracted – Abney 1987).</text>
+<text top="649" left="123" width="596" height="18" font="2">This is actually true, since clitic doubling is usually attested with an IO DP:</text>
+<text top="696" left="108" width="94" height="18" font="2">(41) a. <i>Tu</i></text>
+<text top="696" left="270" width="55" height="18" font="2">edhosa</text>
+<text top="696" left="378" width="16" height="18" font="5"><i>tu</i></text>
+<text top="696" left="438" width="34" height="18" font="5"><i>Jani</i></text>
+<text top="696" left="540" width="14" height="18" font="2">ta</text>
+<text top="696" left="605" width="35" height="18" font="2">lefta</text>
+<text top="720" left="108" width="54" height="18" font="2">           </text>
+<text top="720" left="181" width="161" height="18" font="2">cl-3sg-gen gave-1sg</text>
+<text top="720" left="378" width="24" height="18" font="2">the</text>
+<text top="720" left="438" width="67" height="18" font="2">Jani-gen</text>
+<text top="720" left="540" width="24" height="18" font="2">the</text>
+<text top="720" left="605" width="87" height="18" font="2">money-acc</text>
+<text top="744" left="108" width="49" height="18" font="2">          </text>
+<text top="744" left="190" width="191" height="18" font="2">“I gave Jani the money”</text>
+<text top="791" left="108" width="518" height="18" font="2">The IO PP, on the other hand, is usually not the double of a clitic:</text>
+<text top="839" left="108" width="104" height="18" font="2">       b. *<i>Tu</i></text>
+<text top="839" left="270" width="55" height="18" font="2">edhosa</text>
+<text top="839" left="378" width="23" height="18" font="5"><i>sto</i></text>
+<text top="839" left="438" width="34" height="18" font="5"><i>Jani</i></text>
+<text top="839" left="540" width="14" height="18" font="2">ta</text>
+<text top="839" left="605" width="35" height="18" font="2">lefta</text>
+<text top="862" left="108" width="49" height="18" font="2">          </text>
+<text top="862" left="181" width="161" height="18" font="2">cl-3sg-gen gave-1sg</text>
+<text top="862" left="378" width="42" height="18" font="2">P-the</text>
+<text top="862" left="438" width="65" height="18" font="2">Jani-acc</text>
+<text top="862" left="540" width="24" height="18" font="2">the</text>
+<text top="862" left="606" width="87" height="18" font="2">money-acc</text>
+<text top="886" left="108" width="285" height="18" font="2">             “I gave the money to Jani”</text>
+<text top="934" left="108" width="702" height="18" font="2">Coreference between an IO PP and a clitic is marginally possible only if the PP is</text>
+<text top="957" left="108" width="702" height="18" font="2">topicalized (i.e. the PP occupies an adjunct position). A long intonational break intervenes</text>
+<text top="981" left="108" width="347" height="18" font="2">between the PP and the rest of the structure:</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="25" height="15" font="4">498</text>
+<text top="132" left="152" width="126" height="15" font="8"><i>Dimitra Papangeli</i></text>
+<text top="173" left="108" width="78" height="18" font="2">(42) ?<i>Sto</i></text>
+<text top="173" left="216" width="69" height="18" font="5"><i>Jani  </i>#<i>tu</i></text>
+<text top="173" left="378" width="14" height="18" font="2">ta</text>
+<text top="173" left="452" width="55" height="18" font="2">edhosa</text>
+<text top="173" left="605" width="14" height="18" font="2">ta</text>
+<text top="173" left="648" width="35" height="18" font="2">lefta</text>
+<text top="197" left="108" width="90" height="18" font="2">         to-the</text>
+<text top="197" left="216" width="32" height="18" font="2">Jani</text>
+<text top="197" left="324" width="84" height="18" font="2">cl-3sg-gen</text>
+<text top="197" left="438" width="79" height="18" font="2">cl-3pl-acc</text>
+<text top="197" left="540" width="72" height="18" font="2">gave-1sg</text>
+<text top="197" left="648" width="24" height="18" font="2">the</text>
+<text top="197" left="702" width="87" height="18" font="2">money-acc</text>
+<text top="221" left="152" width="259" height="18" font="2">“To Jani, I gave him the money”</text>
+<text top="268" left="108" width="702" height="18" font="2">We may, thus, conclude that, although Greek marginally allows for a PP-double of a clitic,</text>
+<text top="292" left="108" width="702" height="18" font="2">this option is in general blocked by the syntactic option. That is, if the clitic is allowed to</text>
+<text top="316" left="108" width="702" height="18" font="2">select for the double as its complement, the option of applying coreference outside the</text>
+<text top="340" left="108" width="689" height="18" font="2">module of Syntax (for example, in Pragmatics, as argued by Reinhart 1983) is avoided.</text>
+<text top="411" left="108" width="119" height="18" font="3"><b>10 Conclusion</b></text>
+<text top="459" left="108" width="703" height="18" font="2">The main issue of this paper has been the thematic problem raised in clitic doubling</text>
+<text top="483" left="108" width="702" height="18" font="2">constructions. According to Sportiche (1992 / 1998), the clitic-head does not receive a</text>
+<text top="506" left="108" width="702" height="18" font="2">theta-role, since it is generated above VP. The internal role of the verb is assigned to the</text>
+<text top="530" left="108" width="702" height="18" font="2">DP-double that is merged in the verbal complement position. However, he is forced to</text>
+<text top="554" left="108" width="703" height="18" font="2">assume the Doubly Filled Voice Filter in order to guarantee covert movement of the double</text>
+<text top="578" left="108" width="702" height="18" font="2">to the specifier of the clitic-head. In constructions without doubling, he assumes the</text>
+<text top="601" left="108" width="702" height="18" font="2">presence of an object pro. This is not applicable in Greek, though, where the data indicate</text>
+<text top="625" left="108" width="457" height="18" font="2">that pro is ruled out from the verbal complement position.</text>
+<text top="649" left="123" width="687" height="18" font="2">Also Uriagereka’s proposal, according to which weak clitics are Determiners taking the</text>
+<text top="673" left="108" width="703" height="18" font="2">double as their specifier, predicts “clitic-triple”, a configuration not attested cross-</text>
+<text top="696" left="108" width="702" height="18" font="2">linguistically. Moreover, it makes us expect an extra operation of theta-role assignment to</text>
+<text top="720" left="108" width="703" height="18" font="2">take place DP-internally (similarly to possessive constructions), which is totally redundant</text>
+<text top="744" left="108" width="250" height="18" font="2">in clitic doubling constructions.</text>
+<text top="768" left="123" width="687" height="18" font="2">Given the disadvantages of the above proposals it has been argued that the clitic selects</text>
+<text top="791" left="108" width="295" height="18" font="2">for the DP-double as its complement.</text>
+<text top="815" left="123" width="687" height="18" font="2">An immediate prediction is that clitics behave in a similar way to strong pronouns, since</text>
+<text top="839" left="108" width="703" height="18" font="2">the latter can occur as complements of the verb. The difference is that full pronouns remain</text>
+<text top="863" left="108" width="702" height="18" font="2">in situ, while clitics need to attach to V. As we have seen, this is borne out in Greek. In</text>
+<text top="886" left="108" width="703" height="18" font="2">addition, the pronoun and the DP may form a constituent. The clitic and its double also</text>
+<text top="910" left="108" width="703" height="18" font="2">behave like a constituent, since they may undergo pronominalization. This is only explained</text>
+<text top="934" left="108" width="360" height="18" font="2">if the clitic starts out from the object position.</text>
+<text top="958" left="123" width="687" height="18" font="2">The two basic points of the hypothesis, namely that the double is the complement of the</text>
+<text top="982" left="108" width="702" height="18" font="2">clitic-head and that this is only possible in languages with morphological case, predict that</text>
+<text top="1005" left="108" width="703" height="18" font="2">extraction from the DP-double of a clitic is allowed in languages with case affixes on</text>
+<text top="1029" left="108" width="703" height="18" font="2">Nouns. In languages without morphological case the double of a clitic is an adjunct</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="653" width="104" height="15" font="8"><i>Clitic Doubling</i></text>
+<text top="132" left="788" width="25" height="15" font="4">499</text>
+<text top="173" left="108" width="702" height="18" font="2">associated with the clitic-argument through corefernce. This is borne out since we can</text>
+<text top="197" left="108" width="702" height="18" font="2">extract from the DP-double of a clitic in Greek but we cannot extract from the double of a</text>
+<text top="221" left="108" width="132" height="18" font="2">clitic in Spanish.</text>
+<text top="293" left="108" width="93" height="18" font="3"><b>References</b></text>
+<text top="336" left="108" width="620" height="15" font="4">Abney, S. (1987) <i>The English Noun Phrase in Its Sentential Aspect</i>. Ph.D. dissertation, MIT.</text>
+<text top="356" left="108" width="703" height="15" font="4">Ackema, P. &amp; A. Neeleman (1998) Optimal Questions.<i> Natural Language and Linguistic Theory </i>16/3: 443-</text>
+<text top="376" left="123" width="30" height="15" font="4">490.</text>
+<text top="396" left="108" width="703" height="15" font="4">Anagnostopoulou, E. (1994) <i>Clitic Dependencies in Modern Greek</i>. Ph.D. dissertation, Universität Salzburg.</text>
+<text top="416" left="108" width="703" height="15" font="4">Aoun, J., N. Hornstein, D. Lightfoot &amp; A. Weinberg (1987) Two types of locality. <i>Linguistic Inquiry</i>  18:</text>
+<text top="437" left="123" width="61" height="15" font="4">537-577.</text>
+<text top="457" left="108" width="522" height="15" font="4">Chomsky, N. (1995) <i>The Minimalist Program</i>. Cambridge, Mass.: MIT Press.</text>
+<text top="477" left="108" width="702" height="15" font="4">Drachman, G. (1997) Some properties of clitics (with special reference to Modern Greek). In Alexiadou A.</text>
+<text top="497" left="123" width="687" height="15" font="4">&amp; A. Hall (eds.). <i>Studies on Universal Grammar and Typological Variation</i>. 219-248. Linguistik Aktuell</text>
+<text top="517" left="123" width="21" height="15" font="4">13.</text>
+<text top="537" left="108" width="455" height="15" font="4">Grimshaw, J. (1991) <i>Extended Projection</i>. Ms. Brandeis University.</text>
+<text top="558" left="108" width="702" height="15" font="4">Holton, D., P. Mackridge &amp; I. Philippaki-Warburton (1997) <i>Greek: A Comprehensive Grammar of</i> <i>the</i></text>
+<text top="578" left="123" width="267" height="15" font="8"><i>Modern Language. </i>London: Routledge.</text>
+<text top="598" left="108" width="703" height="15" font="4">Neeleman, A. &amp; F. Weerman (1999) <i>Flexible Syntax.</i> <i>A Theory of Case and Arguments</i>. Dordrecht: Kluwer.</text>
+<text top="618" left="108" width="703" height="15" font="4">Philippaki-Warburton, I. &amp; G. Catsimali (1999) On control in Greek. In Alexiadou, A., J. Horrocks &amp;  M.</text>
+<text top="638" left="123" width="465" height="15" font="4">Stavrou (eds.). <i>Studies in Greek Syntax</i>. 153-168. Dordrecht: Kluwer.</text>
+<text top="658" left="108" width="617" height="15" font="4">Reinhart, T. (1983) <i>Anaphora and Semantic Interpretation</i>. Croom Helm Linguistics Series.</text>
+<text top="678" left="108" width="469" height="15" font="4">Reuland, E. (1997) Primitives of binding. <i>OTS Working Papers</i>: 1-35.</text>
+<text top="699" left="108" width="618" height="15" font="4">Rizzi, L. (1986) Null objects in Italian and the theory of pro. <i>Linguistic Inquiry </i>17: 501-557.</text>
+<text top="719" left="108" width="475" height="15" font="4">Rizzi, L. (1990) <i>Relativized Minimality</i>. Cambridge, Mass.: MIT Press.</text>
+<text top="739" left="108" width="703" height="15" font="4">Sportiche, D. (1992/1998). Clitic constructions. Ms. UCLA./published in Sportiche, D. (ed.) (1998).</text>
+<text top="759" left="123" width="687" height="15" font="8"><i>Partitions and Atoms of the Clause Structure</i>. <i>Subjects, Case and Clitics</i>. 244-307. London: Routledge.</text>
+<text top="779" left="108" width="703" height="15" font="4">Tsimpli, I.-M. (1995) Focusing in Modern Greek. In Kiss E. K. (ed.). <i>Discourse Configurational</i> <i>Languages</i>.</text>
+<text top="799" left="123" width="311" height="15" font="4">176-206. New York: Oxford University Press.</text>
+<text top="820" left="108" width="702" height="15" font="4">Tsimpli, I.-M. (1999) Null operators, clitics and identification: a comparison between Greek and English.</text>
+<text top="840" left="123" width="687" height="15" font="4">In Alexiadou, A., J. Horrocks &amp; M. Stavrou (eds.). <i>Studies in Greek Syntax. </i>241-262. Dordrecht: Kluwer.</text>
+<text top="860" left="108" width="703" height="15" font="4">Uriagereka, J. (1995) Aspects of the syntax of clitic placement in Western Romance. <i>Linguistic Inquiry </i>26:</text>
+<text top="880" left="123" width="52" height="15" font="4">79-123.</text>
+<text top="900" left="108" width="702" height="15" font="4">Weerman, F. (1997) On the relation between morphological and syntactic case. In Kemenade, V. &amp; N.</text>
+<text top="920" left="123" width="643" height="15" font="4">Vincent (eds.). <i>Parameters of Morphological Change</i>. Cambridge: Cambridge University Press.</text>
+</page>
+</pdf2xml>

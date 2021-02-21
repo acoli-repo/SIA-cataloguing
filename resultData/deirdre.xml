@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="0" size="11" family="HSADDP+TimesNewRoman" color="#000000"/>
+	<fontspec id="1" size="16" family="HSADDP+TimesNewRoman" color="#000000"/>
+	<fontspec id="2" size="16" family="BJAHVK+TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="3" size="9" family="BJAHVK+TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="4" size="36" family="DNIDKP+TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="5" size="20" family="DNIDKP+TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="6" size="19" family="HSADDP+TimesNewRoman" color="#000000"/>
+	<fontspec id="7" size="19" family="ELQDMX+TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="8" size="19" family="BJAHVK+TimesNewRoman,Italic" color="#000000"/>
+<text top="959" left="123" width="6" height="11" font="0">*</text>
+<text top="963" left="129" width="584" height="15" font="1">A version of this paper will appear in the proceedings of the Athens conference on </text>
+<text top="963" left="714" width="71" height="15" font="2"><i>Reviewing</i></text>
+<text top="976" left="108" width="301" height="15" font="2"><i>Linguistic Thought: Perspectives into the 21</i></text>
+<text top="974" left="409" width="7" height="8" font="3"><i>st</i></text>
+<text top="976" left="416" width="66" height="15" font="2"><i> Century. </i></text>
+<text top="976" left="482" width="302" height="15" font="1">I would like to thank Sophia Marmaridou and</text>
+<text top="996" left="108" width="531" height="15" font="1">the other organisers and participants for wonderful hospitality and discussions.</text>
+<text top="1041" left="123" width="6" height="11" font="0">1</text>
+<text top="1045" left="129" width="656" height="15" font="1"> Fodor (1983) describes all computations (whether modular or central) as inferential in a broad</text>
+<text top="1058" left="108" width="677" height="15" font="1">sense. In a narrower sense, a process is inferential only if it takes conceptual representations as</text>
+<text top="1079" left="108" width="676" height="15" font="1">premises and yields conceptual representations as conclusions, and moreover the conclusions are</text>
+<text top="1099" left="108" width="677" height="15" font="1">deducible from, or at least warranted by, the premises (Sperber &amp; Wilson 1986/95: 12-13). In Fodor’s</text>
+<text top="1120" left="108" width="475" height="15" font="1">framework, only central systems are inferential in this narrower sense.</text>
+<text top="137" left="108" width="410" height="32" font="4"><i><b>New directions for research</b></i></text>
+<text top="179" left="108" width="449" height="32" font="4"><i><b>on pragmatics and modularity</b></i></text>
+<text top="175" left="556" width="10" height="19" font="5"><i><b>*</b></i></text>
+<text top="264" left="108" width="169" height="18" font="6">DEIRDRE WILSON</text>
+<text top="361" left="143" width="75" height="17" font="7"><b>Abstract</b></text>
+<text top="407" left="143" width="606" height="15" font="1">This paper considers the relation between the pragmatic abilities used to interpret</text>
+<text top="427" left="143" width="607" height="15" font="1">communicative behaviour and more general mind-reading abilities used to interpret ordinary</text>
+<text top="448" left="143" width="606" height="15" font="1">actions. According to the classical Fodorian view (Fodor 1983), pragmatics and mind-</text>
+<text top="468" left="143" width="606" height="15" font="1">reading are central cognitive systems which are used to attribute mental states to others on</text>
+<text top="489" left="143" width="606" height="15" font="1">the basis of general-purpose reasoning abilities. I will outline an alternative, relevance-</text>
+<text top="509" left="143" width="606" height="15" font="1">theoretic account on which mind-reading is a dedicated inferential module, and pragmatics</text>
+<text top="530" left="143" width="605" height="15" font="1">is a sub-module of the mind-reading module, with its own special-purpose principles and</text>
+<text top="550" left="143" width="88" height="15" font="1">mechanisms.</text>
+<text top="620" left="108" width="125" height="17" font="7"><b>1 Introduction</b></text>
+<text top="666" left="108" width="677" height="18" font="6">In the last half of the twentieth century, two clear trends with implications for</text>
+<text top="690" left="108" width="676" height="18" font="6">pragmatics emerged from research in the cognitive sciences. The first was towards an</text>
+<text top="714" left="108" width="676" height="18" font="6">increasingly inferential view of pragmatics, and the second towards an increasingly</text>
+<text top="738" left="108" width="69" height="18" font="6">modular</text>
+<text top="738" left="177" width="4" height="17" font="7"><b> </b></text>
+<text top="738" left="186" width="598" height="18" font="6">view of the mind. For a time, these trends seemed to pull in opposite</text>
+<text top="761" left="108" width="677" height="18" font="6">directions. According to the classical version of the modularity thesis outlined in Fodor</text>
+<text top="785" left="108" width="677" height="18" font="6">(1983), cognitive systems are of two main types: input modules, which are inferential</text>
+<text top="809" left="108" width="676" height="18" font="6">only in the broadest sense, and central systems, which are properly inferential but not</text>
+<text top="833" left="108" width="118" height="18" font="6">modular at all.</text>
+<text top="830" left="226" width="6" height="11" font="0">1</text>
+<text top="833" left="232" width="431" height="18" font="6"> Within this framework, pragmatics could be seen as </text>
+<text top="833" left="663" width="48" height="18" font="8"><i>either</i></text>
+<text top="833" left="711" width="74" height="18" font="6"> modular</text>
+<text top="856" left="108" width="372" height="18" font="6">(e.g. as part of a Chomskyan language faculty) </text>
+<text top="856" left="480" width="21" height="18" font="8"><i>or </i></text>
+<text top="856" left="502" width="282" height="18" font="6">inferential (e.g. as part of a Gricean</text>
+<text top="880" left="108" width="466" height="18" font="6">ability for inferential intention-recognition), but not both. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">304</text>
+<text top="172" left="123" width="661" height="18" font="6">Fodor himself combined a broadly Chomskyan view of language with a broadly</text>
+<text top="195" left="108" width="677" height="18" font="6">Gricean view of pragmatics. On this approach, language is an autonomous, domain-</text>
+<text top="219" left="108" width="676" height="18" font="6">specific modular system and pragmatics is a domain-general central system. What</text>
+<text top="243" left="108" width="676" height="18" font="6">makes the crucial difference is not just that pragmatics is inferential while language</text>
+<text top="267" left="108" width="677" height="18" font="6">is not, but that pragmatic inferences are heavily context-dependent, and there is no</text>
+<text top="290" left="108" width="676" height="18" font="6">principled limit on the type of contextual information that may be required or the</text>
+<text top="314" left="108" width="677" height="18" font="6">source from which it may come (the interpretation of prior discourse, observation of</text>
+<text top="338" left="108" width="676" height="18" font="6">the physical environment, encyclopaedic memory, knowledge of the speaker, cultural,</text>
+<text top="362" left="108" width="677" height="18" font="6">scientific or religious assumptions, exercise of the imagination, and so on). For Fodor,</text>
+<text top="385" left="108" width="676" height="18" font="6">pragmatic interpretation is a central process because its outcome depends on ‘global’</text>
+<text top="409" left="108" width="677" height="18" font="6">factors such as free access to memorised information. Modular processes, by contrast,</text>
+<text top="433" left="108" width="677" height="18" font="6">are ‘local’, ‘encapsulated’ and heavily restricted in the type or source of contextual</text>
+<text top="457" left="108" width="676" height="18" font="6">information on which they may draw. Accounts of pragmatics compatible with this</text>
+<text top="480" left="108" width="677" height="18" font="6">view of mental architecture are outlined in Sperber &amp; Wilson (1981a, 1986; Wilson</text>
+<text top="504" left="108" width="141" height="18" font="6">&amp; Sperber 1986).</text>
+<text top="528" left="123" width="662" height="18" font="6">While Fodor was developing his classical version of the modularity thesis, research</text>
+<text top="552" left="108" width="677" height="18" font="6">in linguistics was providing strong support for Grice’s view of pragmatic interpretation</text>
+<text top="575" left="108" width="676" height="18" font="6">as a properly inferential process, and suggesting, moreover, that the scope of</text>
+<text top="599" left="108" width="677" height="18" font="6">pragmatics was much wider than Grice had thought. Grice was mainly concerned with</text>
+<text top="623" left="108" width="677" height="18" font="6">the role of inferential intention recognition in implicit communication, but it is now</text>
+<text top="647" left="108" width="677" height="18" font="6">increasingly seen as playing a substantial role in explicit communication too (Sperber</text>
+<text top="670" left="108" width="677" height="18" font="6">&amp; Wilson 1986/95, 2002; Carston 1988, 1997, 2000, 2002a; Levinson 2000;</text>
+<text top="694" left="108" width="545" height="18" font="6">Marmaridou 2000). To illustrate, consider the examples in (1)-(11):</text>
+<text top="742" left="162" width="407" height="17" font="7"><b>Identification of explicit content (explicatures):</b></text>
+<text top="765" left="108" width="28" height="18" font="6">(1) </text>
+<text top="765" left="162" width="75" height="18" font="6">John left </text>
+<text top="765" left="237" width="72" height="18" font="8"><i>the party</i></text>
+<text top="765" left="310" width="311" height="18" font="6">. (‘political group’, ‘festive gathering’)</text>
+<text top="789" left="108" width="28" height="18" font="6">(2) </text>
+<text top="789" left="162" width="235" height="18" font="6">The teachers told the students </text>
+<text top="789" left="397" width="34" height="18" font="8"><i>they</i></text>
+<text top="789" left="431" width="357" height="18" font="6"> needed more holidays. (reference resolution)</text>
+<text top="813" left="108" width="28" height="18" font="6">(3) </text>
+<text top="813" left="162" width="47" height="18" font="6">I met </text>
+<text top="813" left="209" width="56" height="18" font="8"><i>no-one</i></text>
+<text top="813" left="265" width="386" height="18" font="6"> in town. (‘no-one I knew’, ‘no-one interesting’)</text>
+<text top="836" left="108" width="28" height="18" font="6">(4) </text>
+<text top="836" left="162" width="198" height="18" font="6">Your father will be here </text>
+<text top="836" left="360" width="38" height="18" font="8"><i>soon</i></text>
+<text top="836" left="399" width="214" height="18" font="6">. (resolution of vagueness)</text>
+<text top="860" left="108" width="28" height="18" font="6">(5) </text>
+<text top="860" left="162" width="87" height="18" font="6">The sky is </text>
+<text top="860" left="249" width="35" height="18" font="8"><i>blue</i></text>
+<text top="860" left="284" width="408" height="18" font="6">. (‘partly/totally’, ‘blue of a certain shade/blueish’)</text>
+<text top="884" left="108" width="487" height="18" font="6">(6)   You will be there tomorrow. (request, bet, prediction)</text>
+<text top="932" left="162" width="273" height="17" font="7"><b>Implicit content (implicatures):</b></text>
+<text top="955" left="108" width="28" height="18" font="6">(7) </text>
+<text top="955" left="162" width="605" height="18" font="6">This book is as good as any the author has written. (good? mediocre? bad?)</text>
+<text top="979" left="108" width="28" height="18" font="6">(8) </text>
+<text top="979" left="162" width="475" height="18" font="6">Some of the lectures were interesting. (scalar implicatures)</text>
+<text top="1002" left="108" width="28" height="18" font="6">(9) </text>
+<text top="1002" left="162" width="18" height="18" font="6">a. </text>
+<text top="1002" left="181" width="40" height="18" font="8"><i>Jim: </i></text>
+<text top="1002" left="222" width="122" height="18" font="6">Have you read </text>
+<text top="1002" left="344" width="83" height="18" font="8"><i>Relevance</i></text>
+<text top="1002" left="427" width="13" height="18" font="6">? </text>
+<text top="1026" left="162" width="19" height="18" font="6">b. </text>
+<text top="1026" left="182" width="29" height="18" font="8"><i>Sue</i></text>
+<text top="1026" left="211" width="383" height="18" font="6">: I don’t read difficult books. (indirect answers)</text>
+<text top="1050" left="108" width="319" height="18" font="6">(10)  I’m hungry. (indirect speech acts</text>
+<text top="1050" left="428" width="6" height="18" font="8"><i>)</i></text>
+<text top="1074" left="108" width="408" height="18" font="6">(11)  Bill is a giant. (literal/metaphorical/ironical)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">305</text>
+<text top="1041" left="123" width="6" height="11" font="0">2</text>
+<text top="1045" left="129" width="547" height="15" font="1"> It is sometimes claimed that the context for comprehension is restricted to what is </text>
+<text top="1045" left="677" width="107" height="15" font="2"><i>mutually known</i></text>
+<text top="1058" left="108" width="677" height="15" font="1">by participants. For arguments that mutual knowledge is neither necessary nor sufficient for</text>
+<text top="1079" left="108" width="677" height="15" font="1">comprehension, see Sperber &amp; Wilson 1986/95: chapter 1, sections 3, 8; chapter 3, sections 3-4;</text>
+<text top="1099" left="108" width="167" height="15" font="1">Sperber &amp; Wilson 1990.</text>
+<text top="172" left="108" width="676" height="18" font="6">In order to decide what proposition the speaker intended to assert, the hearer may have</text>
+<text top="195" left="108" width="677" height="18" font="6">to disambiguate and assign reference, as in (1) and (2), fix the domain of quantifiers,</text>
+<text top="219" left="108" width="677" height="18" font="6">as in (3), resolve the interpretation of vague expressions, as in (4), and narrow or</text>
+<text top="243" left="108" width="676" height="18" font="6">loosen lexical meaning, as in (5). In order to decide what direct speech act the speaker</text>
+<text top="267" left="108" width="677" height="18" font="6">intended to perform, he may have to resolve illocutionary indeterminacies, as in (6)</text>
+<text top="290" left="108" width="677" height="18" font="6">(which may be intended as a request, a bet or a prediction, for example). Many</text>
+<text top="314" left="108" width="677" height="18" font="6">utterances also convey implicatures (intended implications): thus, (7) may implicate</text>
+<text top="338" left="108" width="677" height="18" font="6">that the book was good (or not so good), (8) may implicate that not all the lectures</text>
+<text top="362" left="108" width="676" height="18" font="6">were interesting, (9) may convey an indirect request and (10) an indirect answer, while</text>
+<text top="385" left="108" width="676" height="18" font="6">(11) may be literally, metaphorically or ironically intended. In each case, the hearer’s</text>
+<text top="409" left="108" width="677" height="18" font="6">goal is to find not some arbitrary interpretation but the interpretation intended by the</text>
+<text top="433" left="108" width="677" height="18" font="6">speaker. For this, he needs to use contextual information, and, as noted above, there</text>
+<text top="457" left="108" width="676" height="18" font="6">seems to be no principled limit on the type of information he may be expected to</text>
+<text top="480" left="108" width="375" height="18" font="6">supply, or the source from which it may come.</text>
+<text top="478" left="483" width="6" height="11" font="0">2</text>
+<text top="504" left="123" width="662" height="18" font="6">Fodor himself was notoriously sceptical about the prospects for progress in the study</text>
+<text top="528" left="108" width="166" height="18" font="6">of central processes:</text>
+<text top="575" left="143" width="606" height="18" font="6">the reason that there is no serious psychology of central processes is the same</text>
+<text top="599" left="143" width="606" height="18" font="6">as the reason there is no serious philosophy of scientific confirmation. Both</text>
+<text top="623" left="143" width="606" height="18" font="6">exemplify the significance of global factors in the fixation of belief, and</text>
+<text top="647" left="143" width="606" height="18" font="6">nobody begins to understand how such factors have their effects. (Fodor</text>
+<text top="670" left="143" width="88" height="18" font="6">1983: 129)</text>
+<text top="718" left="108" width="677" height="18" font="6">In later work (e.g. Fodor 2000), he has continued to emphasise the need for a</text>
+<text top="742" left="108" width="676" height="18" font="6">distinction between local and global processes, modular and central systems. Fodor’s</text>
+<text top="765" left="108" width="676" height="18" font="6">First Law of the Non-Existence of Cognitive Science states that ‘the more global ... a</text>
+<text top="789" left="108" width="677" height="18" font="6">cognitive process is, the less anybody understands it’ (Fodor 1983: 107). One effect</text>
+<text top="813" left="108" width="677" height="18" font="6">of combining the classical version of the modularity thesis with an increasingly</text>
+<text top="837" left="108" width="677" height="18" font="6">inferential view of communication was to suggest that pragmatics was unlikely to be</text>
+<text top="860" left="108" width="629" height="18" font="6">a worthwhile domain for investigation using the methods of cognitive science.</text>
+<text top="884" left="123" width="661" height="18" font="6">More recently, a growing interest in evolutionary approaches to cognition has led to</text>
+<text top="908" left="108" width="677" height="18" font="6">a reconsideration of the nature of modules and a questioning of Fodor’s sharp</text>
+<text top="932" left="108" width="677" height="18" font="6">distinction between modular input processes and relatively undifferentiated central</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">306</text>
+<text top="1061" left="123" width="6" height="11" font="0">3</text>
+<text top="1066" left="129" width="656" height="15" font="1"> See, for example, Hirschfeld &amp; Gelman 1994; Barkow, Cosmides &amp; Tooby 1995; Pinker 1997;</text>
+<text top="1079" left="108" width="677" height="15" font="1">Jackendoff 1997; Plotkin 1997; Carruthers &amp; Chamberlain 2000. For reservationsd, see Fodor 2000.</text>
+<text top="1123" left="123" width="6" height="11" font="0">4</text>
+<text top="1127" left="129" width="442" height="15" font="1"> For Fodor’s later views on mind-reading, see Fodor 1992, 2000.</text>
+<text top="172" left="108" width="83" height="18" font="6">processes.</text>
+<text top="169" left="191" width="6" height="11" font="0">3</text>
+<text top="172" left="197" width="587" height="18" font="6"> From an evolutionary perspective, what characterises a module is not so</text>
+<text top="195" left="108" width="677" height="18" font="6">much the cluster of properties that Fodor (1983: 47-101) ascribed to input systems</text>
+<text top="219" left="108" width="676" height="18" font="6">(being fast, mandatory, local, encapsulated, etc.), but the presence of dedicated</text>
+<text top="243" left="108" width="677" height="18" font="6">mechanisms (typically biological adaptations to regularities in some domain) which</text>
+<text top="267" left="108" width="677" height="18" font="6">cannot be seen as special cases of more general mechanisms operating in broader</text>
+<text top="290" left="108" width="676" height="18" font="6">domains (Sperber 1996, 2002). To illustrate, consider the mind-reading ability which</text>
+<text top="314" left="108" width="677" height="18" font="6">enables humans to predict and explain the behaviour of others in terms of mental states</text>
+<text top="338" left="108" width="677" height="18" font="6">(beliefs, desires, intentions, etc.) (Astington, Harris &amp; Olson, 1988; Davies &amp; Stone,</text>
+<text top="362" left="108" width="677" height="18" font="6">1995a; 1995b; Carruthers &amp; Smith, 1996). According to the classical version of the</text>
+<text top="385" left="108" width="677" height="18" font="6">modularity thesis, mind-reading should be a central rather than a modular process</text>
+<text top="409" left="108" width="677" height="18" font="6">because its outcome depends on global factors: there is no principled restriction on the</text>
+<text top="433" left="108" width="676" height="18" font="6">type of contextual information that may be required to predict and explain someone’s</text>
+<text top="457" left="108" width="62" height="18" font="6">actions.</text>
+<text top="454" left="170" width="6" height="11" font="0">4</text>
+<text top="457" left="176" width="608" height="18" font="6"> From an evolutionary perspective, the question is not so much whether the</text>
+<text top="480" left="108" width="676" height="18" font="6">processes involved are global or local, but whether they are carried out by general-</text>
+<text top="504" left="108" width="676" height="18" font="6">purpose mechanisms or by autonomous, special-purpose mechanisms attuned to</text>
+<text top="528" left="108" width="677" height="18" font="6">regularities existing only in the domain of intentional behaviour. To the extent that</text>
+<text top="552" left="108" width="676" height="18" font="6">mind-reading involves such special-purpose inferential mechanisms, it would be</text>
+<text top="575" left="108" width="291" height="18" font="6">modular in this new, broader sense. </text>
+<text top="599" left="123" width="661" height="18" font="6">Grice’s main contribution to pragmatics was to show that utterance interpretation is</text>
+<text top="623" left="108" width="677" height="18" font="6">essentially an exercise in mind-reading (Grice 1957, 1967, 1969, 1989). Understanding</text>
+<text top="647" left="108" width="677" height="18" font="6">an utterance involves constructing a hypothesis about the speaker’s meaning (the set</text>
+<text top="670" left="108" width="676" height="18" font="6">of propositions, some explicit, others implicit, that the speaker overtly intended to</text>
+<text top="694" left="108" width="676" height="18" font="6">convey). Recognising a speaker’s meaning amounts to recognising the intention behind</text>
+<text top="718" left="108" width="677" height="18" font="6">the speaker’s communicative behaviour, and this is a special case of the more general</text>
+<text top="742" left="108" width="677" height="18" font="6">problem of explaining an individual’s behaviour in terms of attributed mental states.</text>
+<text top="765" left="108" width="677" height="18" font="6">On this approach, utterance interpretation is a variety of mind-reading, and the</text>
+<text top="789" left="108" width="676" height="18" font="6">question of whether mind-reading is a modular or a central system should have direct</text>
+<text top="813" left="108" width="226" height="18" font="6">implications for pragmatics.</text>
+<text top="837" left="123" width="662" height="18" font="6">This paper has two main aims. First, I will consider some of the reasons for thinking</text>
+<text top="860" left="108" width="677" height="18" font="6">that mind-reading is not a Fodorian central system but a domain-specific inferential</text>
+<text top="884" left="108" width="676" height="18" font="6">module (or set of modules), using the term in its recent, broader sense. Second, I will</text>
+<text top="908" left="108" width="676" height="18" font="6">argue that the trend towards an increasingly modular view of the mind can be taken</text>
+<text top="932" left="108" width="676" height="18" font="6">one stage further. Just as there is good reason to think that mind-reading is not merely</text>
+<text top="955" left="108" width="677" height="18" font="6">an application of general reasoning abilities to a particular (behavioral) domain, so</text>
+<text top="979" left="108" width="677" height="18" font="6">there is good reason to think that pragmatic interpretation is not merely an application</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">307</text>
+<text top="1102" left="123" width="6" height="11" font="0">5</text>
+<text top="1107" left="129" width="656" height="15" font="1"> These arguments, many of which were first put forward by Dan Sperber, are developed in more</text>
+<text top="1120" left="108" width="677" height="15" font="1">detail in Sperber 2000; Wilson 2000; Sperber &amp; Wilson 2002; Wilson &amp; Sperber 2002, forthcoming.</text>
+<text top="172" left="108" width="677" height="18" font="6">of general mind-reading abilities to a particular (communicative) domain. Verbal</text>
+<text top="195" left="108" width="677" height="18" font="6">communication presents special challenges, and exhibits certain regularities, not found</text>
+<text top="219" left="108" width="677" height="18" font="6">in other domains, and these may have led to the development of a dedicated</text>
+<text top="243" left="108" width="637" height="18" font="6">comprehension module with its own special-purpose principles and mechanisms.</text>
+<text top="240" left="744" width="6" height="11" font="0">5</text>
+<text top="243" left="751" width="34" height="18" font="6"> The</text>
+<text top="267" left="108" width="677" height="18" font="6">existence of such a module would have interesting implications for pragmatics. It</text>
+<text top="290" left="108" width="677" height="18" font="6">would also give grounds for thinking that the two main twentieth-century research</text>
+<text top="314" left="108" width="677" height="18" font="6">trends in the cognitive sciences with implications for pragmatics may now be</text>
+<text top="338" left="108" width="295" height="18" font="6">converging rather than pulling apart.</text>
+<text top="410" left="108" width="362" height="17" font="7"><b>2 Pragmatics as a variety of mind-reading</b></text>
+<text top="456" left="108" width="677" height="18" font="6">The inferential approach to pragmatics treats understanding an utterance as a special</text>
+<text top="480" left="108" width="676" height="18" font="6">case of understanding intentional behaviour: the hearer explains the speaker’s</text>
+<text top="503" left="108" width="676" height="18" font="6">communicative behaviour by identifying the intention behind it. The link between</text>
+<text top="527" left="108" width="676" height="18" font="6">mind-reading and communication is confirmed by a wealth of developmental and</text>
+<text top="551" left="108" width="677" height="18" font="6">neuropsychological evidence. However, as noted above, mind-reading itself has been</text>
+<text top="575" left="108" width="620" height="18" font="6">analysed in rather different ways, with different implications for pragmatics. </text>
+<text top="598" left="123" width="661" height="18" font="6">Traditionally, philosophers have described mind-reading as an exercise in reflective</text>
+<text top="622" left="108" width="677" height="18" font="6">reasoning (a central process, in Fodor’s terms), involving the application of general</text>
+<text top="646" left="108" width="677" height="18" font="6">reasoning abilities to premises based on explicit assumptions about the relations</text>
+<text top="670" left="108" width="676" height="18" font="6">between mental states and behaviour. Many of Grice’s remarks about pragmatics fit</text>
+<text top="693" left="108" width="677" height="18" font="6">well with this approach. For example, his ‘working-out schema’ for the derivation of</text>
+<text top="717" left="108" width="677" height="18" font="6">conversational implicatures is a straightforward exercise in standard belief-desire</text>
+<text top="741" left="108" width="104" height="18" font="6">psychology: </text>
+<text top="788" left="143" width="606" height="18" font="6">He said that P; he could not have done this unless he thought that Q; he</text>
+<text top="812" left="143" width="606" height="18" font="6">knows (and knows that I know that he knows) that I will realise that it is</text>
+<text top="836" left="143" width="606" height="18" font="6">necessary to suppose that Q; he has done nothing to stop me thinking that Q;</text>
+<text top="860" left="143" width="606" height="18" font="6">so he intends me to think, or is at least willing for me to think, that Q. (Grice,</text>
+<text top="883" left="143" width="105" height="18" font="6">1989: 30-31)</text>
+<text top="931" left="108" width="676" height="18" font="6">A hearer following this Gricean route would have to go through a complex discursive</text>
+<text top="955" left="108" width="677" height="18" font="6">reasoning process in order to identify a single implicature, and the greater the element</text>
+<text top="979" left="108" width="676" height="18" font="6">of inference involved in verbal comprehension, the more such processes there would</text>
+<text top="1002" left="108" width="677" height="18" font="6">be. One problem with this traditional account is that children as young as two or three</text>
+<text top="1026" left="108" width="677" height="18" font="6">seem to be capable of deriving implicatures and tailoring their utterances to the mental</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">308</text>
+<text top="172" left="108" width="676" height="18" font="6">states of their audience, and it is hard to believe that they are going through complex</text>
+<text top="195" left="108" width="676" height="18" font="6">discursive processes of this type (Newcombe &amp; Zaslow 1981; Tomasello, Farrar &amp;</text>
+<text top="219" left="108" width="369" height="18" font="6">Dines 1983; O’Neill 1996; Papafragou 2002).</text>
+<text top="243" left="123" width="661" height="18" font="6">Recent developmental and neuropsychological evidence suggests a more modular</text>
+<text top="267" left="108" width="677" height="18" font="6">approach. Much of this evidence comes from standard tests of mind-reading such as</text>
+<text top="290" left="108" width="677" height="18" font="6">the Sally-Anne (‘false-belief’) task, which tests the participant’s ability to keep track</text>
+<text top="314" left="108" width="677" height="18" font="6">of the beliefs of others (Leslie 1987; Astington, Harris &amp; Olson 1988; Perner, Frith,</text>
+<text top="338" left="108" width="677" height="18" font="6">Leslie &amp; Leekam 1989; Fodor 1992; Baron-Cohen 1995; Smith &amp; Tsimpli 1995;</text>
+<text top="362" left="108" width="676" height="18" font="6">Scholl &amp; Leslie 1999). In a typical Sally-Anne task, the participant (often a child)</text>
+<text top="385" left="108" width="676" height="18" font="6">watches as Sally plays with a ball, puts it away in a covered basket and leaves the</text>
+<text top="409" left="108" width="677" height="18" font="6">room. While Sally is out, Anne removes the ball from the basket, puts it in a nearby</text>
+<text top="433" left="108" width="676" height="18" font="6">box and closes the lid. When Sally returns and wants to play with her ball, the child</text>
+<text top="457" left="108" width="677" height="18" font="6">is asked, ‘Where will Sally look for the ball?’ To pass the test, the child must realise</text>
+<text top="480" left="108" width="677" height="18" font="6">that Sally does not know the ball has been moved, and will therefore look in the basket,</text>
+<text top="504" left="108" width="430" height="18" font="6">where she left it, rather than the box, where it now is.</text>
+<text top="528" left="123" width="662" height="18" font="6">There is a now a substantial body of work on how this mind-reading ability develops</text>
+<text top="552" left="108" width="677" height="18" font="6">and how it may break down. It may be present to varying degrees. For example, by</text>
+<text top="575" left="108" width="676" height="18" font="6">correctly answering the question ‘Where will Sally look for the ball?’, the child</text>
+<text top="599" left="108" width="677" height="18" font="6">displays a first-order mind-reading ability to track Sally’s beliefs about the world; by</text>
+<text top="623" left="108" width="676" height="18" font="6">correctly answering the question ‘Where does Anne think Sally will look for the ball?’</text>
+<text top="647" left="108" width="677" height="18" font="6">the child displays a second-order mind-reading ability to track Anne’s beliefs about</text>
+<text top="670" left="108" width="677" height="18" font="6">Sally’s beliefs, and so on. Children generally pass first-order mind-reading tests</text>
+<text top="694" left="108" width="677" height="18" font="6">towards the end of the fourth year, while people with autism are typically said to be</text>
+<text top="718" left="108" width="677" height="18" font="6">lacking in first- or second-order mind-reading abilities of this type (Baron-Cohen,</text>
+<text top="742" left="108" width="677" height="18" font="6">Leslie and Frith 1985; Leslie 1991; Baron-Cohen, Tager-Flusberg &amp; Cohen 1993;</text>
+<text top="765" left="108" width="325" height="18" font="6">Happé 1993, 1994; Baron-Cohen 1995).</text>
+<text top="789" left="123" width="661" height="18" font="6">This developmental and neuropsychological research is often informed by a Gricean</text>
+<text top="813" left="108" width="676" height="18" font="6">view of pragmatics: it treats inferential communication as a variety of mind-reading,</text>
+<text top="837" left="108" width="677" height="18" font="6">and provides clear evidence of a link between the two. For example, Bloom (2000,</text>
+<text top="860" left="108" width="677" height="18" font="6">2002) surveys a range of experiments which suggests that word learning in children</text>
+<text top="884" left="108" width="677" height="18" font="6">typically involves monitoring the speaker’s referential intentions by checking the</text>
+<text top="908" left="108" width="676" height="18" font="6">direction of her gaze (a particular sub-type of mind-reading ability). Thus, a normally-</text>
+<text top="932" left="108" width="676" height="18" font="6">developing 18-month-old child who is playing with an unfamiliar object and hears an</text>
+<text top="955" left="108" width="676" height="18" font="6">adult say ‘It’s a modi’ does not simply make a mechanical association between the</text>
+<text top="979" left="108" width="676" height="18" font="6">word ‘modi’ and the object he is playing with, but checks to see what the adult is</text>
+<text top="1003" left="108" width="677" height="18" font="6">looking at, and interprets the word accordingly (Baldwin 1991, 1993). By contrast,</text>
+<text top="1027" left="108" width="676" height="18" font="6">autistic children, who are typically said to lack mind-reading abilities of this type, fail</text>
+<text top="1051" left="108" width="677" height="18" font="6">to monitor the adult’s gaze direction and make a purely mechanical association</text>
+<text top="1074" left="108" width="676" height="18" font="6">between the name ‘modi’ and the object that happens to be in the forefront of their</text>
+<text top="1098" left="108" width="166" height="18" font="6">attention at the time.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">309</text>
+<text top="1082" left="123" width="6" height="11" font="0">6</text>
+<text top="1086" left="129" width="655" height="15" font="1"> These results, which are not predicted by standard Gricean accounts of metaphor and irony, provide</text>
+<text top="1099" left="108" width="677" height="15" font="1">some confirmation of the relevance theoretic account, on which irony involves the expression of a</text>
+<text top="1120" left="108" width="676" height="15" font="1">dissociative attitude to an attributed thought. On this approach, the extra layer of mental-state</text>
+<text top="172" left="123" width="662" height="18" font="6">Happé &amp; Loth (2002) use a variant of the Sally-Anne task to test the child’s ability</text>
+<text top="195" left="108" width="677" height="18" font="6">to track the speaker’s false beliefs in word learning. Sally shows the child an</text>
+<text top="219" left="108" width="676" height="18" font="6">unfamiliar object A, puts it in a box, closes the lid and leaves the room. While Sally</text>
+<text top="243" left="108" width="677" height="18" font="6">is out, Anne brings in unfamiliar object B, shows it to the child, removes A from the</text>
+<text top="267" left="108" width="677" height="18" font="6">box, replaces it with B, and closes the lid. Sally returns, holds up the box and says to</text>
+<text top="290" left="108" width="677" height="18" font="6">the child ‘Do you want to see the modi? There’s a modi in this box. Let’s see the modi’</text>
+<text top="314" left="108" width="677" height="18" font="6">(where ‘modi’ is a made-up word that the child could not have heard before). Later,</text>
+<text top="338" left="108" width="676" height="18" font="6">the experimenter puts A and B in front of the child, and says, ‘Show me the modi’. To</text>
+<text top="362" left="108" width="677" height="18" font="6">pass the test, the child must realise that Sally intended to refer to object A, which she</text>
+<text top="385" left="108" width="677" height="18" font="6">left in the box, rather than object B, which was in the box she was holding up when she</text>
+<text top="409" left="108" width="677" height="18" font="6">spoke. A comparison of performance on the standard Sally-Anne task and the word-</text>
+<text top="433" left="108" width="677" height="18" font="6">learning variant shows that children go through similar developmental stages in word-</text>
+<text top="457" left="108" width="677" height="18" font="6">learning and regular mind-reading, but pass the word-learning test significantly earlier</text>
+<text top="480" left="108" width="281" height="18" font="6">than the standard Sally-Anne task. </text>
+<text top="504" left="123" width="662" height="18" font="6">Happé and Loth’s experiment involves a combination of word learning and reference</text>
+<text top="528" left="108" width="676" height="18" font="6">resolution. There is some evidence that reference resolution in general goes through</text>
+<text top="552" left="108" width="676" height="18" font="6">similar developmental stages. For example, Mitchell, Robinson &amp; Thompson (1999)</text>
+<text top="575" left="108" width="676" height="18" font="6">use a variant of the Sally-Anne task to test the child’s ability to track the speaker’s</text>
+<text top="599" left="108" width="676" height="18" font="6">false beliefs in assigning reference to regular definite descriptions (e.g. ‘the car in the</text>
+<text top="623" left="108" width="677" height="18" font="6">garage’), where another object has been substituted for the intended referent in the</text>
+<text top="647" left="108" width="677" height="18" font="6">speaker’s absence. Their results, like those of Happé and Loth, show a link between</text>
+<text top="670" left="108" width="676" height="18" font="6">the development of inferential comprehension and general mind-reading, although here</text>
+<text top="694" left="108" width="676" height="18" font="6">the standard Sally-Anne task appears to be slightly easier than the reference-resolution</text>
+<text top="718" left="108" width="661" height="18" font="6">task (for related results on reference resolution, see Bezuidenhout &amp; Sroda 1998).</text>
+<text top="742" left="123" width="661" height="18" font="6">There are also parallels between the breakdown of mind-reading abilities and the</text>
+<text top="765" left="108" width="677" height="18" font="6">breakdown of abilities for inferential communication. For example, autistic children</text>
+<text top="789" left="108" width="677" height="18" font="6">have difficulty not only with mind-reading but with pointing and other acts of non-</text>
+<text top="813" left="108" width="677" height="18" font="6">verbal communication (Sigman &amp; Kasari 1995). In word learning, as noted above, they</text>
+<text top="837" left="108" width="676" height="18" font="6">appear to make mechanical associations between word and object rather than</text>
+<text top="860" left="108" width="677" height="18" font="6">monitoring the speaker’s referential intentions by checking the direction of her gaze.</text>
+<text top="884" left="108" width="676" height="18" font="6">Happé (1993) compared the interpretation of metaphor and verbal irony in normally</text>
+<text top="908" left="108" width="677" height="18" font="6">developing children and people with autism, and showed a link between metaphor</text>
+<text top="932" left="108" width="676" height="18" font="6">comprehension and first-order mind-reading ability, and irony comprehension and</text>
+<text top="955" left="108" width="677" height="18" font="6">second-order mind-reading ability. Similar results were obtained by Langdon, Davies</text>
+<text top="979" left="108" width="677" height="18" font="6">&amp; Coltheart (2002) from studies of metaphor and irony in people with right-</text>
+<text top="1003" left="108" width="166" height="18" font="6">hemisphere damage.</text>
+<text top="1000" left="273" width="6" height="11" font="0">6</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">310</text>
+<text top="1099" left="108" width="676" height="15" font="1">attribution required by irony should presuppose a higher degree of mind-reading ability (see Sperber</text>
+<text top="1120" left="108" width="381" height="15" font="1">&amp; Wilson 1981b, 1986, 1998; Wilson &amp; Sperber 1992).</text>
+<text top="172" left="123" width="661" height="18" font="6">While there is are clear developmental and neuropsychological parallels between</text>
+<text top="195" left="108" width="677" height="18" font="6">mind-reading and inferential communication, there are clear dissociations between</text>
+<text top="219" left="108" width="677" height="18" font="6">mind-reading and general reasoning abilities, which are not explained by the traditional</text>
+<text top="243" left="108" width="677" height="18" font="6">philosophical account of mind-reading as an exercise in general-purpose reasoning.</text>
+<text top="267" left="108" width="677" height="18" font="6">For example, Williams Syndrome is a rare genetic disorder resulting in an average IQ</text>
+<text top="290" left="108" width="677" height="18" font="6">of around 50, combined with good linguistic abilities and relatively high social skills.</text>
+<text top="314" left="108" width="676" height="18" font="6">People with Williams Syndrome have good abilities for mind-reading and</text>
+<text top="338" left="108" width="677" height="18" font="6">communication but poor general reasoning abilities. They pass the Sally-Anne task</text>
+<text top="362" left="108" width="676" height="18" font="6">with ease, while their general ability to acquire theoretical, explanatory knowledge is</text>
+<text top="385" left="108" width="677" height="18" font="6">seriously impaired (Segal 1996). This suggests that mind-reading cannot be a</text>
+<text top="409" left="108" width="676" height="18" font="6">conscious, reflective process of the type illustrated in Grice’s working out schema for</text>
+<text top="433" left="108" width="676" height="18" font="6">implicatures, but depends on dedicated inferential mechanisms which may remain</text>
+<text top="457" left="108" width="491" height="18" font="6">intact while general-purpose reasoning abilities are impaired.</text>
+<text top="480" left="123" width="662" height="18" font="6">Dissociations are also possible in the opposite direction. For example, people with</text>
+<text top="504" left="108" width="676" height="18" font="6">Asperger’s syndrome may have good general reasoning abilities combined with serious</text>
+<text top="528" left="108" width="677" height="18" font="6">impairments in mind-reading abilities. If anything, these people show what it is like to</text>
+<text top="552" left="108" width="676" height="18" font="6">use general-purpose reflective reasoning to make up for a lack of dedicated, special-</text>
+<text top="575" left="108" width="677" height="18" font="6">purpose skills. Here is an illustration from the autobiography of someone with</text>
+<text top="599" left="108" width="676" height="18" font="6">Asperger’s syndrome describing a conscious attempt to resolve a lexical vagueness</text>
+<text top="623" left="108" width="676" height="18" font="6">that most people would deal with spontaneously and unreflectively in a way more</text>
+<text top="647" left="108" width="520" height="18" font="6">characteristic of modular skills (cf. examples (4) and (5) above):</text>
+<text top="694" left="143" width="606" height="18" font="6">If [my husband] were to tell me he was disappointed he had missed me at</text>
+<text top="718" left="143" width="605" height="18" font="6">lunch, I would wonder if he meant to say he was sad – which is simply</text>
+<text top="742" left="143" width="606" height="18" font="6">regretfully sorry; unhappy – which is somewhere between mad and sad;</text>
+<text top="765" left="143" width="606" height="18" font="6">disheartened – which is a lonely sad; mad – which makes you want to argue</text>
+<text top="789" left="143" width="606" height="18" font="6">with  someone over what they had done; angry – which makes you want to</text>
+<text top="813" left="143" width="606" height="18" font="6">ignore the person you are feeling this way towards; furious – which makes</text>
+<text top="837" left="143" width="606" height="18" font="6">you want to spit; or none of the above. In order for me really to understand</text>
+<text top="860" left="143" width="606" height="18" font="6">what people are saying I need much more than a few words mechanically</text>
+<text top="884" left="143" width="278" height="18" font="6">placed together. (Willey 1999: 63)</text>
+<text top="932" left="108" width="677" height="18" font="6">While we are all capable of carrying out reflective inferences of this type when</text>
+<text top="955" left="108" width="677" height="18" font="6">spontaneous comprehension fails, utterance interpretation is in general a spontaneous,</text>
+<text top="979" left="108" width="676" height="18" font="6">intuitive process which takes place below the level of consciousness. What seems to</text>
+<text top="1003" left="108" width="677" height="18" font="6">be lacking in people with Asperger’s syndrome is this spontaneous, intuitive ability</text>
+<text top="1027" left="108" width="636" height="18" font="6">rather than a conscious, reflective one (Wilson 2000; Sperber &amp; Wilson 2002).</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">311</text>
+<text top="1123" left="123" width="6" height="11" font="0">7</text>
+<text top="1127" left="129" width="539" height="15" font="1"> This interpretation is confirmed by the discussion of reasoning in Grice (2001).</text>
+<text top="172" left="123" width="662" height="18" font="6">Grice himself might not have been opposed to the idea of an intuitive mind-reading</text>
+<text top="195" left="108" width="676" height="18" font="6">ability. What mattered to him was that this ability – whether intuitive or reflective –</text>
+<text top="219" left="108" width="338" height="18" font="6">was not code-like but properly inferential:</text>
+<text top="267" left="143" width="607" height="18" font="6">The presence of a conversational implicature must be capable of being</text>
+<text top="290" left="143" width="606" height="18" font="6">worked out; for even if it can in fact be intuitively grasped, unless the</text>
+<text top="314" left="143" width="606" height="18" font="6">intuition is replaceable by an argument, the implicature (if present at all) will</text>
+<text top="338" left="143" width="606" height="18" font="6">not count as a CONVERSATIONAL implicature; it will be a</text>
+<text top="362" left="143" width="397" height="18" font="6">CONVENTIONAL implicature. (Grice 1989: 31)</text>
+<text top="409" left="108" width="677" height="18" font="6">Grice’s working-out schema for conversational implicatures is best seen as a rational</text>
+<text top="433" left="108" width="677" height="18" font="6">reconstruction designed to show that the process is genuinely inferential, with the</text>
+<text top="457" left="108" width="676" height="18" font="6">conclusion properly warranted by the premises, rather than an empirical hypothesis</text>
+<text top="480" left="108" width="384" height="18" font="6">about how the inference is actually performed.</text>
+<text top="478" left="492" width="6" height="11" font="0">7</text>
+<text top="480" left="499" width="285" height="18" font="6"> However, an empirically plausible</text>
+<text top="504" left="108" width="677" height="18" font="6">pragmatic theory should also be concerned with the nature of the inferential</text>
+<text top="528" left="108" width="676" height="18" font="6">mechanisms involved. Here, the developmental and neuropsychological evidence</text>
+<text top="552" left="108" width="677" height="18" font="6">seems to favour a view of mind-reading as a domain-specific modular system rather</text>
+<text top="575" left="108" width="235" height="18" font="6">than a central, reflective one.</text>
+<text top="647" left="108" width="381" height="17" font="7"><b>3 Pragmatics, modularity and mind-reading</b></text>
+<text top="693" left="108" width="676" height="18" font="6">Evolutionary approaches to psychology treat cognition as a biological function and</text>
+<text top="717" left="108" width="676" height="18" font="6">cognitive mechanisms, in general, as adaptations. The mind is seen as an ‘adaptive</text>
+<text top="741" left="108" width="676" height="18" font="6">toolbox’, a set of dedicated cognitive mechanisms which are likely to have evolved in</text>
+<text top="765" left="108" width="677" height="18" font="6">small incremental steps, typically involving the selection of a variant that performed</text>
+<text top="788" left="108" width="677" height="18" font="6">more efficiently (yielding greater benefits, for smaller costs) than other variants</text>
+<text top="812" left="108" width="676" height="18" font="6">available at the time (Hirschfeld &amp; Gelman 1994; Barkow, Cosmides &amp; Tooby 1995;</text>
+<text top="836" left="108" width="361" height="18" font="6">Sperber 1996, 2002; Gigerenzer et al. 1999).</text>
+<text top="860" left="123" width="662" height="18" font="6">One way a dedicated cognitive mechanism can contribute to overall efficiency is by</text>
+<text top="883" left="108" width="677" height="18" font="6">providing special-purpose inferential procedures (‘fast and frugal heuristics’, in the</text>
+<text top="907" left="108" width="677" height="18" font="6">terms of Gigerenzer et al. 1999) attuned to regularities in some particular domain,</text>
+<text top="931" left="108" width="676" height="18" font="6">which yield reliable conclusions only when applied to input from this domain. Modular</text>
+<text top="955" left="108" width="677" height="18" font="6">accounts of mind-reading, for example, appeal to special-purpose inferential</text>
+<text top="979" left="108" width="677" height="18" font="6">procedures which work reliably in the domain of intentional behaviour, yielding the</text>
+<text top="1002" left="108" width="677" height="18" font="6">same conclusions derivable by general-purpose reasoning mechanisms, but in a less</text>
+<text top="1026" left="108" width="677" height="18" font="6">effort-demanding way. In procedures of this ‘fast and frugal’ type, regularities in the</text>
+<text top="1050" left="108" width="676" height="18" font="6">relations between mental states and behaviour need not be represented and used as</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">312</text>
+<text top="172" left="108" width="677" height="18" font="6">explicit premises in an inference process, as in standard belief-desire psychology (cf.</text>
+<text top="195" left="108" width="677" height="18" font="6">Grice’s working-out schema), but function merely as tacit underpinnings for the</text>
+<text top="219" left="108" width="676" height="18" font="6">working of the device. The result should be an intuitive ability to draw valid</text>
+<text top="243" left="108" width="676" height="18" font="6">conclusions in the domain of intentional behaviour, but without any reflective</text>
+<text top="267" left="108" width="381" height="18" font="6">awareness of how these conclusions are drawn.</text>
+<text top="290" left="123" width="662" height="18" font="6">In fact, given the complexity of mind-reading, the variety of tasks it has to perform</text>
+<text top="314" left="108" width="677" height="18" font="6">and the particular sub-regularities they exhibit, it is reasonable to assume that mind-</text>
+<text top="338" left="108" width="676" height="18" font="6">reading is not a single, relatively homogeneous system but a collection of autonomous</text>
+<text top="362" left="108" width="677" height="18" font="6">mechanisms or sub-modules articulated together in some way. One example of a sub-</text>
+<text top="385" left="108" width="676" height="18" font="6">module investigated in the literature on mind-reading is the Eye Direction Detector</text>
+<text top="409" left="108" width="676" height="18" font="6">which is seen as underlying the ability, already present in infants, to infer what people</text>
+<text top="433" left="108" width="677" height="18" font="6">are seeing or watching from the direction of their gaze (Baron-Cohen 1995).</text>
+<text top="457" left="108" width="676" height="18" font="6">Presumably, an infant who performs this sort of inference is not using a relatively</text>
+<text top="480" left="108" width="677" height="18" font="6">general and internally undifferentiated mind-reading module to derive conclusions</text>
+<text top="504" left="108" width="544" height="18" font="6">such as (14) on the basis of explicit premises such as (12) and (13):</text>
+<text top="552" left="108" width="611" height="18" font="6">(12)  If person P is looking in the direction of object O, then P is seeing O.</text>
+<text top="575" left="108" width="404" height="18" font="6">(13)  Daddy is looking in the direction of the cat.</text>
+<text top="599" left="108" width="250" height="18" font="6">(14)  Daddy is seeing the cat. </text>
+<text top="647" left="108" width="677" height="18" font="6">It is more reasonable to assume that humans are equipped from infancy with a</text>
+<text top="670" left="108" width="676" height="18" font="6">dedicated Eye Direction Detector, which exploits the de facto strong correlation</text>
+<text top="694" left="108" width="676" height="18" font="6">between direction of gaze and visual perception and directly attributes perceptual and</text>
+<text top="718" left="108" width="677" height="18" font="6">attentional states on the basis of direction of gaze (moving directly from premises such</text>
+<text top="742" left="108" width="677" height="18" font="6">as (13) to conclusions such as (14)). This attribution may itself provide input for other</text>
+<text top="765" left="108" width="677" height="18" font="6">dedicated devices, such as those involved in word learning (see above and Bloom,</text>
+<text top="789" left="108" width="676" height="18" font="6">2000, 2002). In infants at least, such attributions need not be available at all for</text>
+<text top="813" left="108" width="384" height="18" font="6">general-purpose inference or verbal expression.</text>
+<text top="837" left="123" width="662" height="18" font="6">Despite this evidence that the mind-reading ability may be broken down into a set</text>
+<text top="860" left="108" width="676" height="18" font="6">of specialised sub-modular abilities, most approaches to mind-reading, whether</text>
+<text top="884" left="108" width="676" height="18" font="6">modular or non-modular, have tended to take for granted that there is no need for a</text>
+<text top="908" left="108" width="677" height="18" font="6">special-purpose inferential comprehension procedure: the standard assumption has</text>
+<text top="932" left="108" width="677" height="18" font="6">been that the mental-state attributions required for comprehension will be</text>
+<text top="955" left="108" width="676" height="18" font="6">automatically generated by more general mind-reading mechanisms which apply</text>
+<text top="979" left="108" width="677" height="18" font="6">across the whole domain (see Bloom 2002 for an explicit defence of such a view).</text>
+<text top="1003" left="108" width="676" height="18" font="6">However, there are serious problems with the view that speakers’ meanings can be</text>
+<text top="1027" left="108" width="676" height="18" font="6">inferred from utterances using the same general mind-reading mechanisms which</text>
+<text top="1051" left="108" width="677" height="18" font="6">attribute intentions on the basis of regular, non-communicative behaviour. In the first</text>
+<text top="1074" left="108" width="676" height="18" font="6">place, the range of ordinary, non-communicative actions an individual can reasonably</text>
+<text top="1098" left="108" width="677" height="18" font="6">intend to perform in a given situation is in practice quite limited. When I reach out my</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">313</text>
+<text top="1082" left="123" width="6" height="11" font="0">8</text>
+<text top="1086" left="129" width="655" height="15" font="1"> This has led some commentators to question whether two- or three-year-old children are engaging</text>
+<text top="1099" left="108" width="677" height="15" font="1">in genuine overt communication at all. For discussion, see Breheny 2002, forthcoming; Carston 2002b;</text>
+<text top="1120" left="108" width="228" height="15" font="1">Papafragou 2002; Recanati 2002.</text>
+<text top="172" left="108" width="677" height="18" font="6">hand, there is a relatively restricted set of objects I could reasonably be intending to</text>
+<text top="195" left="108" width="676" height="18" font="6">grasp, and this makes it much easier for an observer to identify the intention behind</text>
+<text top="219" left="108" width="676" height="18" font="6">my action. By contrast, the gap between sentence meaning and speaker’s meaning is</text>
+<text top="243" left="108" width="677" height="18" font="6">so great that the range of meanings a speaker can reasonably intend to communicate</text>
+<text top="267" left="108" width="676" height="18" font="6">by uttering a sentence in a given physical setting is virtually unlimited. It is simply not</text>
+<text top="290" left="108" width="677" height="18" font="6">clear how the standard procedures for attributing intentions on the basis of regular,</text>
+<text top="314" left="108" width="677" height="18" font="6">non-communicative behaviour could yield adequate attributions of speakers’</text>
+<text top="338" left="108" width="675" height="18" font="6">meanings, except in easy and trivial cases (Sperber 2000; Sperber &amp; Wilson 2002). </text>
+<text top="362" left="123" width="662" height="18" font="6">In the second place, Grice was concerned with a type of communication</text>
+<text top="385" left="108" width="82" height="18" font="6">(‘meaning</text>
+<text top="395" left="190" width="12" height="11" font="0">nn</text>
+<text top="385" left="201" width="583" height="18" font="6">’), which requires a particular, overt form of intention expression not found</text>
+<text top="409" left="108" width="677" height="18" font="6">in ordinary actions (Grice 1957, 1967, 1969, 1989). For communication to be overt,</text>
+<text top="433" left="108" width="677" height="18" font="6">the speaker must not merely intend to convey certain information, but must intend her</text>
+<text top="457" left="108" width="676" height="18" font="6">audience to recognise that she has this intention. In the terms of Sperber &amp; Wilson</text>
+<text top="480" left="108" width="676" height="18" font="6">(1986/95), overt communication involves not only an informative but a communicative</text>
+<text top="504" left="108" width="270" height="18" font="6">intention: the communicator must </text>
+<text top="504" left="379" width="50" height="18" font="8"><i>intend</i></text>
+<text top="504" left="429" width="128" height="18" font="6"> her audience to </text>
+<text top="504" left="557" width="58" height="18" font="8"><i>believe</i></text>
+<text top="504" left="615" width="67" height="18" font="6"> that she </text>
+<text top="504" left="682" width="58" height="18" font="8"><i>intends</i></text>
+<text top="504" left="741" width="43" height="18" font="6"> them</text>
+<text top="528" left="108" width="18" height="18" font="6">to </text>
+<text top="528" left="130" width="58" height="18" font="8"><i>believe</i></text>
+<text top="528" left="188" width="597" height="18" font="6"> a certain set of propositions (Sperber 1994). The interpretation of overt</text>
+<text top="552" left="108" width="676" height="18" font="6">communication therefore involves several orders of mind-reading ability, whereas in</text>
+<text top="575" left="108" width="676" height="18" font="6">explaining ordinary actions, a single level is generally enough. It is hard to believe that</text>
+<text top="599" left="108" width="677" height="18" font="6">two-year-old children, who fail, for instance, on regular first-order false belief tasks,</text>
+<text top="623" left="108" width="676" height="18" font="6">can recognise and understand the peculiar multi-levelled representations required in</text>
+<text top="647" left="108" width="677" height="18" font="6">overt communication, using nothing more than a general ability to attribute intentions</text>
+<text top="670" left="108" width="676" height="18" font="6">to others in order to predict and explain their behaviour (Sperber 2000; Wilson 2000;</text>
+<text top="694" left="108" width="204" height="18" font="6">Sperber &amp; Wilson 2002).</text>
+<text top="691" left="312" width="6" height="11" font="0">8</text>
+<text top="694" left="318" width="4" height="18" font="6"> </text>
+<text top="718" left="123" width="661" height="18" font="6">A third problem with the view that utterance interpretation is simply an exercise in</text>
+<text top="742" left="108" width="676" height="18" font="6">general mind-reading is that the standard procedures for inferring the intentions behind</text>
+<text top="765" left="108" width="676" height="18" font="6">ordinary actions don’t seem to work for overt communication. On standard accounts</text>
+<text top="789" left="108" width="677" height="18" font="6">of mind-reading (cf. Davies and Stone 1995b; Carruthers and Smith 1996), the</text>
+<text top="813" left="108" width="677" height="18" font="6">procedure for inferring the intention behind an action should be as follows: first,</text>
+<text top="837" left="108" width="677" height="18" font="6">identify an effect of the action that the agent might have both predicted and desired;</text>
+<text top="860" left="108" width="676" height="18" font="6">second, assume that this was the effect the agent intended to achieve. However, this</text>
+<text top="884" left="108" width="677" height="18" font="6">procedure would not account for utterance interpretation, because here the desired</text>
+<text top="908" left="108" width="89" height="18" font="6">effect just </text>
+<text top="908" left="198" width="20" height="18" font="8"><i>is </i></text>
+<text top="908" left="218" width="565" height="18" font="6">the recognition of the speaker’s intention. In order to first identify a</text>
+<text top="932" left="108" width="677" height="18" font="6">desirable effect of an utterance and then assume that this was the intended meaning,</text>
+<text top="955" left="108" width="676" height="18" font="6">the hearer would have to have a pretty good advance idea of what the speaker would</text>
+<text top="979" left="108" width="677" height="18" font="6">be wanting to convey. This sometimes happens, of course, but speakers often say</text>
+<text top="1003" left="108" width="677" height="18" font="6">unexpected things, and hearers still manage to understand them. In these cases, the</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">314</text>
+<text top="172" left="108" width="676" height="18" font="6">standard procedures for inferring intentions would not help with utterance</text>
+<text top="195" left="108" width="264" height="18" font="6">interpretation: the hearer cannot </text>
+<text top="195" left="372" width="37" height="18" font="8"><i>first </i></text>
+<text top="195" left="410" width="375" height="18" font="6">identify a desirable effect of the utterance, and</text>
+<text top="219" left="108" width="35" height="18" font="8"><i>then</i></text>
+<text top="219" left="143" width="641" height="18" font="6"> infer that the speaker’s intention was precisely to achieve this effect (Sperber</text>
+<text top="243" left="108" width="255" height="18" font="6">2000; Sperber &amp; Wilson 2002).</text>
+<text top="267" left="123" width="662" height="18" font="6">In this section, I have considered some reasons for thinking that mind-reading is not</text>
+<text top="290" left="108" width="677" height="18" font="6">a single, homogeneous module but a set of special-purpose mechanisms or sub-</text>
+<text top="314" left="108" width="677" height="18" font="6">modules attuned to regularities in narrower domains. I have argued that these may</text>
+<text top="338" left="108" width="677" height="18" font="6">include a dedicated comprehension mechanism, an evolved ‘mental organ’ with its</text>
+<text top="362" left="108" width="676" height="18" font="6">own special-purpose inferential principles or procedures. The workings of such a</text>
+<text top="385" left="108" width="677" height="18" font="6">mechanism should be tacitly underpinned by regularities in the domain of overt</text>
+<text top="409" left="108" width="676" height="18" font="6">intentional communication. What might such regularities be? In the next section, I will</text>
+<text top="433" left="108" width="677" height="18" font="6">outline the relevance-theoretic view that overt intentional communication creates</text>
+<text top="457" left="108" width="677" height="18" font="6">expectations of relevance not raised by ordinary actions, which a dedicated</text>
+<text top="480" left="108" width="677" height="18" font="6">comprehension mechanism might exploit. (For discussion and elaboration of the</text>
+<text top="504" left="108" width="676" height="18" font="6">arguments of this section, see Sperber 1996, 2000, 2002; Origgi &amp; Sperber 2000;</text>
+<text top="528" left="108" width="445" height="18" font="6">Wilson 2000; Carston 2002a; Sperber &amp; Wilson 2002.)</text>
+<text top="600" left="108" width="510" height="17" font="7"><b>4 Pragmatics as a sub-module of the m ind-reading module </b></text>
+<text top="646" left="108" width="677" height="18" font="6">Relevance theory (Sperber and Wilson 1986/1995, 2002; Carston 2002a; Wilson &amp;</text>
+<text top="670" left="108" width="677" height="18" font="6">Sperber 2002, forthcoming) is an account of human communication and cognition</text>
+<text top="693" left="108" width="677" height="18" font="6">based on a definition of relevance and two general principles: a First, or Cognitive,</text>
+<text top="717" left="108" width="677" height="18" font="6">Principle of Relevance and a Second, or Communicative, Principle of Relevance.</text>
+<text top="741" left="108" width="677" height="18" font="6">Relevance is characterised as a property of inputs to cognitive processes and analysed</text>
+<text top="765" left="108" width="677" height="18" font="6">in terms of the notions of cognitive effect and processing effort. When an input (for</text>
+<text top="788" left="108" width="676" height="18" font="6">example, an utterance) is processed in a context of available assumptions, it may yield</text>
+<text top="812" left="108" width="677" height="18" font="6">some cognitive effect (for example, by strengthening these assumptions, contradicting</text>
+<text top="836" left="108" width="676" height="18" font="6">and eliminating them, or combining with them to yield contextual implications). Other</text>
+<text top="860" left="108" width="677" height="18" font="6">things being equal, the greater the cognitive effects achieved, the greater the relevance</text>
+<text top="883" left="108" width="677" height="18" font="6">of the input to the individual who processes it. However, the processing of the input,</text>
+<text top="907" left="108" width="677" height="18" font="6">and the derivation of these effects, involves some effort of perception, memory and</text>
+<text top="931" left="108" width="677" height="18" font="6">inference. Other things being equal, the smaller the processing effort required, the</text>
+<text top="955" left="108" width="677" height="18" font="6">greater the relevance of the input to the individual who processes it. On this account,</text>
+<text top="979" left="108" width="677" height="18" font="6">relevance is a cost-benefit notion (the cost being the mental effort required, and the</text>
+<text top="1002" left="108" width="677" height="18" font="6">benefits the cognitive effects achieved), and a tendency towards increasing the</text>
+<text top="1026" left="108" width="676" height="18" font="6">efficiency of the cognitive system by maximising relevance would fit well with the</text>
+<text top="1050" left="108" width="676" height="18" font="6">evolutionary approach to cognition outlined in section 3. This tendency is described</text>
+<text top="1074" left="108" width="50" height="18" font="6">in the </text>
+<text top="1074" left="158" width="39" height="18" font="8"><i>First</i></text>
+<text top="1074" left="198" width="32" height="18" font="6">, or </text>
+<text top="1074" left="230" width="273" height="18" font="8"><i>Cognitive, Principle of Relevance</i></text>
+<text top="1074" left="503" width="5" height="18" font="6">:</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">315</text>
+<text top="172" left="108" width="33" height="18" font="6">(15)</text>
+<text top="172" left="162" width="282" height="17" font="7"><b>Cognitive principle of relevance:</b></text>
+<text top="196" left="162" width="565" height="18" font="6">Human cognition tends to be geared to the maximisation of relevance.</text>
+<text top="243" left="108" width="677" height="18" font="6">It follows from the Cognitive Principle of Relevance that human attention and</text>
+<text top="267" left="108" width="676" height="18" font="6">processing resources tend to be automatically allocated to information that seems</text>
+<text top="291" left="108" width="677" height="18" font="6">relevant enough to be worth processing. This is not because we have a choice in the</text>
+<text top="314" left="108" width="676" height="18" font="6">matter, but because of the way our cognitive systems have evolved. As a result of</text>
+<text top="338" left="108" width="676" height="18" font="6">constant selection pressure towards increasing efficiency, the human cognitive system</text>
+<text top="362" left="108" width="677" height="18" font="6">has developed in such a way that our perceptual mechanisms tend automatically to</text>
+<text top="386" left="108" width="677" height="18" font="6">pick out potentially relevant stimuli, our memory retrieval mechanisms tend</text>
+<text top="409" left="108" width="676" height="18" font="6">automatically to activate potentially relevant contextual assumptions, and our</text>
+<text top="433" left="108" width="676" height="18" font="6">inferential mechanisms tend spontaneously to process them in the most productive</text>
+<text top="457" left="108" width="613" height="18" font="6">way. It is against this cognitive background that communication takes place.</text>
+<text top="481" left="123" width="661" height="18" font="6">This universal cognitive tendency to maximise relevance makes it possible (at least</text>
+<text top="505" left="108" width="677" height="18" font="6">to some extent) to predict and manipulate the mental states of others. Knowing that</text>
+<text top="528" left="108" width="676" height="18" font="6">you are likely to pick out the most relevant stimuli in your environment and process</text>
+<text top="552" left="108" width="676" height="18" font="6">them so as to maximise their relevance, I may be able to produce a stimulus which is</text>
+<text top="576" left="108" width="677" height="18" font="6">likely to attract your attention, prompt the retrieval of certain contextual assumptions</text>
+<text top="600" left="108" width="677" height="18" font="6">and point you towards an intended conclusion. For example, I may take out my wallet,</text>
+<text top="623" left="108" width="676" height="18" font="6">intending you to notice and conclude that I am about to pay for our drinks. As Grice</text>
+<text top="647" left="108" width="676" height="18" font="6">pointed out, this is not yet a case of overt communication because, although I did</text>
+<text top="671" left="108" width="676" height="18" font="6">intend to affect your thoughts in a certain way, I gave you no evidence that I had this</text>
+<text top="694" left="108" width="676" height="18" font="6">intention. Overt communication involves both an informative and a communicative</text>
+<text top="718" left="108" width="78" height="18" font="6">intention:</text>
+<text top="766" left="108" width="33" height="18" font="6">(16)</text>
+<text top="766" left="162" width="33" height="17" font="7"><b>The</b></text>
+<text top="766" left="195" width="4" height="18" font="6"> </text>
+<text top="766" left="201" width="184" height="17" font="7"><b>informative intention</b></text>
+<text top="766" left="385" width="10" height="18" font="6">: </text>
+<text top="790" left="162" width="404" height="18" font="6">The intention to inform an audience of something.</text>
+<text top="838" left="108" width="33" height="18" font="6">(17)</text>
+<text top="838" left="162" width="253" height="17" font="7"><b>The comm unicative intention</b></text>
+<text top="838" left="416" width="10" height="18" font="6">: </text>
+<text top="862" left="162" width="545" height="18" font="6">The intention to inform the audience of one’s informative intention.</text>
+<text top="909" left="108" width="677" height="18" font="6">How does the communicator indicate to the audience that she is trying to communicate</text>
+<text top="933" left="108" width="677" height="18" font="6">with them in this overt, intentional way? Instead of unostentatiously taking out my</text>
+<text top="957" left="108" width="676" height="18" font="6">wallet, I might touch your arm and point to it, wave it at you, ostentatiously put it</text>
+<text top="980" left="108" width="676" height="18" font="6">down in front of you, catch your eye and stare at it, or say ‘I’ll pay for the drinks’.</text>
+<text top="1004" left="108" width="522" height="18" font="6">More generally, overt communication involves the use of an </text>
+<text top="1004" left="629" width="150" height="18" font="8"><i>ostensive stimulus</i></text>
+<text top="1004" left="780" width="5" height="18" font="6">,</text>
+<text top="1028" left="108" width="676" height="18" font="6">designed to attract an audience’s attention and focus it on the communicator’s</text>
+<text top="1052" left="108" width="214" height="18" font="6">meaning. According to the </text>
+<text top="1052" left="322" width="58" height="18" font="8"><i>Second</i></text>
+<text top="1052" left="380" width="30" height="18" font="6">, or </text>
+<text top="1052" left="410" width="127" height="18" font="8"><i>Communicative</i></text>
+<text top="1052" left="537" width="8" height="18" font="6">, </text>
+<text top="1052" left="546" width="182" height="18" font="8"><i>Principle of Relevance</i></text>
+<text top="1052" left="728" width="57" height="18" font="6">, use of</text>
+<text top="1075" left="108" width="677" height="18" font="6">an ostensive stimulus triggers expectations of relevance not raised by ordinary actions,</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">316</text>
+<text top="172" left="108" width="676" height="18" font="6">which may be enough on their own to guide the audience towards the communicator’s</text>
+<text top="195" left="108" width="73" height="18" font="6">meaning:</text>
+<text top="243" left="108" width="33" height="18" font="6">(18)</text>
+<text top="243" left="162" width="336" height="17" font="7"><b>Communicative principle of relevance:</b></text>
+<text top="267" left="162" width="623" height="18" font="6">Every utterance (or other act of overt communication) communicates a</text>
+<text top="291" left="162" width="623" height="18" font="6">presumption of its own optimal relevance. (Sperber and Wilson 1986/1995:</text>
+<text top="314" left="162" width="37" height="18" font="6">260)</text>
+<text top="362" left="108" width="676" height="18" font="6">It follows from the Communicative Principle of Relevance (and the definition of</text>
+<text top="386" left="108" width="676" height="18" font="6">optimal relevance, cf. Sperber and Wilson 1986/1995: 266-78) that the speaker, by the</text>
+<text top="409" left="108" width="677" height="18" font="6">very act of addressing someone, communicates that her utterance is the most relevant</text>
+<text top="433" left="108" width="677" height="18" font="6">one compatible with her abilities and preferences, and is at least relevant enough to be</text>
+<text top="457" left="108" width="222" height="18" font="6">worth his processing effort:</text>
+<text top="505" left="108" width="33" height="18" font="6">(19)</text>
+<text top="505" left="162" width="293" height="17" font="7"><b>Presumption of optimal relevance</b></text>
+<text top="529" left="162" width="22" height="18" font="6">(a)</text>
+<text top="529" left="185" width="4" height="17" font="7"><b> </b></text>
+<text top="529" left="190" width="559" height="18" font="6">The utterance will be at least relevant enough to be worth processing;</text>
+<text top="553" left="162" width="622" height="18" font="6">(b) The utterance will be the most relevant one (i.e. yielding the most effects for</text>
+<text top="577" left="162" width="605" height="18" font="6">the smallest effort) compatible with the speaker’s abilities and preferences.</text>
+<text top="624" left="108" width="677" height="18" font="6">As illustrated in (1)-(11) above, inferential comprehension starts from the recovery of</text>
+<text top="648" left="108" width="677" height="18" font="6">a linguistically encoded meaning, which is typically quite fragmentary and incomplete.</text>
+<text top="671" left="108" width="677" height="18" font="6">The goal of pragmatic theory is to explain how the hearer, using available contextual</text>
+<text top="695" left="108" width="676" height="18" font="6">information, develops this into a full-fledged speaker’s meaning. The regularity in</text>
+<text top="719" left="108" width="676" height="18" font="6">overt  communication described in the Communicative Principle of Relevance</text>
+<text top="743" left="108" width="677" height="18" font="6">motivates the following special-purpose comprehension procedure which, according</text>
+<text top="766" left="108" width="677" height="18" font="6">to relevance theory, is automatically applied to the on-line processing of attended</text>
+<text top="790" left="108" width="676" height="18" font="6">verbal inputs. The hearer takes the linguistically decoded meaning; following a path</text>
+<text top="814" left="108" width="677" height="18" font="6">of least effort, he uses available contextual information to enrich it at the explicit level</text>
+<text top="838" left="108" width="676" height="18" font="6">and complement it at the implicit level until the resulting interpretation meets his</text>
+<text top="862" left="108" width="404" height="18" font="6">expectation of relevance; at which point, he stops:</text>
+<text top="909" left="108" width="33" height="18" font="6">(20)</text>
+<text top="910" left="162" width="401" height="17" font="7"><b>Relevance-theoretic comprehension procedure</b></text>
+<text top="933" left="162" width="622" height="18" font="6">(a) Follow a path of least effort in computing cognitive effects. Consider</text>
+<text top="957" left="162" width="622" height="18" font="6">interpretations (disambiguations, contextual assumptions, implicatures, etc.) in</text>
+<text top="981" left="162" width="174" height="18" font="6">order of accessibility.</text>
+<text top="1004" left="162" width="454" height="18" font="6">(b) Stop when your expectation of relevance is satisfied.</text>
+<text top="1052" left="108" width="677" height="18" font="6">The mutual adjustment of explicit content and implicatures, constrained by</text>
+<text top="1076" left="108" width="676" height="18" font="6">expectations of relevance, is the central feature of relevance-theoretic pragmatics</text>
+<text top="1099" left="108" width="452" height="18" font="6">(Carston 2002a; Wilson &amp; Sperber 2002, forthcoming). </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">317</text>
+<text top="172" left="108" width="677" height="18" font="6">The relevance-theoretic comprehension procedure may be seen as a fast and frugal</text>
+<text top="195" left="108" width="676" height="18" font="6">heuristic: a special-purpose inferential procedure justified by the regularity described</text>
+<text top="219" left="108" width="676" height="18" font="6">in the Communicative Principle of Relevance, which yields reliable conclusions only</text>
+<text top="243" left="108" width="677" height="18" font="6">when applied to inputs from the domain of overt communication. In general, an</text>
+<text top="267" left="108" width="676" height="18" font="6">observer is not entitled to expect the actions of others to be relevant enough to be</text>
+<text top="290" left="108" width="536" height="18" font="6">worth his attention; in interpreting utterances addressed to him, he </text>
+<text top="290" left="644" width="18" height="18" font="8"><i>is </i></text>
+<text top="290" left="662" width="122" height="18" font="6">entitled to such</text>
+<text top="314" left="108" width="676" height="18" font="6">an expectation (though this expectation, like any other, may be disappointed). The</text>
+<text top="338" left="108" width="676" height="18" font="6">relevance-theoretic comprehension procedure may thus be seen as automatically</text>
+<text top="362" left="108" width="676" height="18" font="6">constructing a hypothesis about the speaker’s meaning on the basis of a description of</text>
+<text top="385" left="108" width="676" height="18" font="6">the utterance plus available contextual information, in much the same way as the Eye</text>
+<text top="409" left="108" width="676" height="18" font="6">Direction Detector automatically constructs a hypothesis about what the individual is</text>
+<text top="433" left="108" width="677" height="18" font="6">seeing on the basis of the direction of her gaze. Since there is no principled restriction</text>
+<text top="457" left="108" width="676" height="18" font="6">on the type or source of contextual information used in constructing hypotheses about</text>
+<text top="480" left="108" width="677" height="18" font="6">the speaker’s meaning, the process would be global in Fodor’s sense. However, it does</text>
+<text top="504" left="108" width="677" height="18" font="6">not follow that all the available contextual information has to be actively taken into</text>
+<text top="528" left="108" width="676" height="18" font="6">consideration as the interpretation proceeds. The relevance-theoretic comprehension</text>
+<text top="552" left="108" width="677" height="18" font="6">procedure simply follows a path of least effort, using whatever contextual information</text>
+<text top="575" left="108" width="677" height="18" font="6">is most highly activated by the automatic workings of the cognitive system at the time.</text>
+<text top="599" left="108" width="676" height="18" font="6">Given the universal cognitive tendency to maximise relevance, the speaker should be</text>
+<text top="623" left="108" width="676" height="18" font="6">able to predict, at least to some extent, what this most highly activated information will</text>
+<text top="647" left="108" width="676" height="18" font="6">be. On this approach, the regularities described in the Cognitive and Communicative</text>
+<text top="670" left="108" width="677" height="18" font="6">Principles of Relevance should thus provide an adequate basis for a dedicated</text>
+<text top="694" left="108" width="573" height="18" font="6">comprehension mechanism, a sub-module of the mind-reading module.</text>
+<text top="718" left="123" width="661" height="18" font="6">Although many aspects of relevance theory have been experimentally tested (see e.g.</text>
+<text top="742" left="108" width="677" height="18" font="6">Sperber, Cara &amp; Girotto 1995; van der Henst, Sperber &amp; Politzer 2002; van der Henst,</text>
+<text top="765" left="108" width="676" height="18" font="6">Carles  &amp; Sperber 2002), the arguments for a dedicated comprehension procedure</text>
+<text top="789" left="108" width="676" height="18" font="6">outlined in the last two sections have been largely theoretical. In the next section, I will</text>
+<text top="813" left="108" width="677" height="18" font="6">consider briefly some lines of experimental investigation that might provide further</text>
+<text top="837" left="108" width="303" height="18" font="6">evidence for or against this approach.</text>
+<text top="909" left="108" width="111" height="17" font="7"><b>5 Conclusion</b></text>
+<text top="955" left="108" width="677" height="18" font="6">An obvious source of evidence for the modularity of pragmatics would be</text>
+<text top="979" left="108" width="677" height="18" font="6">dissociations between the general mind-reading ability and the ability for inferential</text>
+<text top="1003" left="108" width="676" height="18" font="6">communication. Several researchers have reported that such dissociations exist in</text>
+<text top="1026" left="108" width="677" height="18" font="6">people without autism who have ‘pragmatic language impairment’, involving</text>
+<text top="1050" left="108" width="677" height="18" font="6">difficulties in verbal communication combined with satisfactory linguistic and general</text>
+<text top="1074" left="108" width="677" height="18" font="6">mind-reading abilities (Bishop 1997; Botting &amp; Conti-Ramsden 1999; Rinaldi 2000).</text>
+<text top="1098" left="108" width="676" height="18" font="6">So far, this research has focused mainly on the production rather than the</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">318</text>
+<text top="172" left="108" width="677" height="18" font="6">comprehension side (which may be harder to study because general mind-reading</text>
+<text top="195" left="108" width="677" height="18" font="6">abilities might compensate to some extent for specifically pragmatic impairments).</text>
+<text top="219" left="108" width="676" height="18" font="6">Studies of comprehension in people with pragmatic language impairment might shed</text>
+<text top="243" left="108" width="677" height="18" font="6">some light on which interpretive abilities are specifically pragmatic and which are</text>
+<text top="267" left="108" width="346" height="18" font="6">linked to more general mind-reading skills.</text>
+<text top="290" left="123" width="661" height="18" font="6">On the developmental side, the discrepancies found by Happé &amp; Loth (2002) and</text>
+<text top="314" left="108" width="677" height="18" font="6">Mitchell, Robinson &amp; Thompson (1999) in the times at which children pass the false-</text>
+<text top="338" left="108" width="677" height="18" font="6">belief task in word-learning, reference resolution and general mind-reading suggest a</text>
+<text top="362" left="108" width="677" height="18" font="6">further line of research. Happé &amp; Loth see their results as providing some</text>
+<text top="385" left="108" width="676" height="18" font="6">confirmation of the existence of a dedicated comprehension mechanism, and it would</text>
+<text top="409" left="108" width="677" height="18" font="6">be interesting to compare performance on the standard false-belief task with</text>
+<text top="433" left="108" width="677" height="18" font="6">performance on variants designed to test the full range of pragmatic abilities illustrated</text>
+<text top="457" left="108" width="677" height="18" font="6">in (1)-(11). Pragmatic impairments resulting from right-hemisphere damage in adults</text>
+<text top="480" left="108" width="677" height="18" font="6">might shed further light on the relation between specifically pragmatic abilities and</text>
+<text top="504" left="108" width="677" height="18" font="6">general mind-reading skills (e.g. Paradis 1998; Langdon, Davies &amp; Coltheart 2002).</text>
+<text top="528" left="108" width="677" height="18" font="6">The results of these developmental and neuropsychological studies might help to</text>
+<text top="552" left="108" width="677" height="18" font="6">distinguish the relative contributions of pragmatic abilities and general mind-reading</text>
+<text top="575" left="108" width="512" height="18" font="6">abilities in word learning (cf. Bloom 2000, 2002; Akhtar 2002).</text>
+<text top="599" left="123" width="661" height="18" font="6">Sperber (1994) proposes a theoretical framework in which the relation between</text>
+<text top="623" left="108" width="677" height="18" font="6">pragmatic abilities and mind-reading abilities might be investigated and explained. He</text>
+<text top="647" left="108" width="676" height="18" font="6">discusses three increasingly sophisticated strategies which the hearer might use in</text>
+<text top="670" left="108" width="676" height="18" font="6">interpreting an utterance, each requiring an extra order of mind-reading ability. The</text>
+<text top="694" left="108" width="677" height="18" font="6">simplest strategy is one of Naïve Optimism. A Naively Optimistic hearer looks for an</text>
+<text top="718" left="108" width="677" height="18" font="6">interpretation that seems relevant enough: if he finds one, he assumes that it was the</text>
+<text top="742" left="108" width="677" height="18" font="6">intended one and attributes it as a speaker’s meaning; if he does not, he has no further</text>
+<text top="765" left="108" width="677" height="18" font="6">resources, and communication will fail. In Sperber's terms, a Naively Optimistic hearer</text>
+<text top="789" left="108" width="677" height="18" font="6">assumes that the speaker is both competent and benevolent: competent enough to</text>
+<text top="813" left="108" width="676" height="18" font="6">avoid misunderstanding, and benevolent enough not to lead him astray. Suppose a</text>
+<text top="837" left="108" width="550" height="18" font="6">mother nods in the direction of a group of children and tells her son:</text>
+<text top="884" left="108" width="153" height="18" font="6">(21)  It’s his turn.</text>
+<text top="932" left="108" width="677" height="18" font="6">‘His turn’ could mean the turn of any boy in this group the mother has in mind. The</text>
+<text top="955" left="108" width="677" height="18" font="6">mother has spoken competently if the first overall interpretation her son finds relevant</text>
+<text top="979" left="108" width="677" height="18" font="6">enough (via mutual adjustment of context, content and implicatures) is the intended</text>
+<text top="1003" left="108" width="676" height="18" font="6">one; she has spoken benevolently if this interpretation not only seems relevant but is</text>
+<text top="1027" left="108" width="677" height="18" font="6">genuinely so (i.e. his mother is not lying or trying to distract him from something</text>
+<text top="1051" left="108" width="677" height="18" font="6">happening elsewhere). A Naively Optimistic hearer has no need to think about the</text>
+<text top="1074" left="108" width="676" height="18" font="6">speaker’s mental states in order to identify her meaning: the only time he needs to</text>
+<text top="1098" left="108" width="677" height="18" font="6">represent the speaker's thoughts is when, having found an acceptable interpretation,</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">319</text>
+<text top="172" left="108" width="319" height="18" font="6">he concludes that it is the intended one.</text>
+<text top="195" left="123" width="661" height="18" font="6">A more complex strategy, which requires an extra layer of mind-reading ability, is</text>
+<text top="219" left="108" width="676" height="18" font="6">one of Cautious Optimism. A Cautiously Optimistic hearer assumes that the speaker</text>
+<text top="243" left="108" width="677" height="18" font="6">is benevolent, but not necessarily competent. Instead of taking the first interpretation</text>
+<text top="267" left="108" width="677" height="18" font="6">he finds relevant enough and attributing it as the speaker’s meaning, he can ask</text>
+<text top="290" left="108" width="337" height="18" font="6">himself on what interpretation the speaker </text>
+<text top="290" left="446" width="154" height="18" font="8"><i>might have thought</i></text>
+<text top="290" left="600" width="185" height="18" font="6"> her utterance would be</text>
+<text top="314" left="108" width="676" height="18" font="6">relevant enough to him. This extra layer of mind-reading ability allows him to avoid</text>
+<text top="338" left="108" width="676" height="18" font="6">misunderstanding in two types of case where a Naively Optimistic hearer would fail.</text>
+<text top="362" left="123" width="187" height="18" font="6">The first is the case of </text>
+<text top="362" left="310" width="168" height="18" font="8"><i>accidental relevance</i></text>
+<text top="362" left="478" width="306" height="18" font="6">. An utterance is accidentally relevant</text>
+<text top="385" left="108" width="677" height="18" font="6">when the first interpretation the hearer finds relevant enough is not the intended one.</text>
+<text top="409" left="108" width="676" height="18" font="6">Suppose the mother in (21) is looking in the direction of her son’s best friend, and</text>
+<text top="433" left="108" width="676" height="18" font="6">failed to notice the boy beside him, who is highly salient to her son because they have</text>
+<text top="457" left="108" width="676" height="18" font="6">just been quarrelling behind her back about whose turn it was. In this case, the first</text>
+<text top="480" left="108" width="676" height="18" font="6">interpretation of (21) that the child finds relevant enough might be the one on which</text>
+<text top="504" left="108" width="677" height="18" font="6">his mother is saying that it is this boy’s turn. A Naively Optimistic hearer would accept</text>
+<text top="528" left="108" width="677" height="18" font="6">this as the intended interpretation. A Cautiously Optimistic hearer would be able to</text>
+<text top="552" left="108" width="677" height="18" font="6">consider whether his mother could have expected her utterance, on this interpretation,</text>
+<text top="575" left="108" width="676" height="18" font="6">to be relevant enough to him. Notice the parallels with the ‘false-belief’ task as applied</text>
+<text top="599" left="108" width="676" height="18" font="6">to reference resolution (e.g. Bezuidenhout &amp; Sroda 1998; Mitchell, Robinson &amp;</text>
+<text top="623" left="108" width="143" height="18" font="6">Thompson 1999).</text>
+<text top="647" left="123" width="202" height="18" font="6">An utterance may also be </text>
+<text top="647" left="325" width="183" height="18" font="8"><i>accidentally irrelevant</i></text>
+<text top="647" left="509" width="276" height="18" font="6">. An obvious case is when someone</text>
+<text top="670" left="108" width="676" height="18" font="6">makes a slip of the tongue, or mistakenly tells you something you already know.</text>
+<text top="694" left="108" width="659" height="18" font="6">Another arises when an intended reference fails. Suppose a mother tells her child:</text>
+<text top="742" left="108" width="372" height="18" font="6">(22)  Bring me the book on the kitchen table.</text>
+<text top="789" left="108" width="677" height="18" font="6">When the child goes into the kitchen, there is no book on the table but one lying near</text>
+<text top="813" left="108" width="676" height="18" font="6">it on the floor. A Naively Optimistic hearer would restrict himself to the linguistically</text>
+<text top="837" left="108" width="676" height="18" font="6">encoded meaning, would be unable to find an acceptable interpretation, and</text>
+<text top="860" left="108" width="677" height="18" font="6">communication would fail. By adopting a strategy of Cautious Optimism, and asking</text>
+<text top="884" left="108" width="250" height="18" font="6">himself which book his mother </text>
+<text top="884" left="358" width="154" height="18" font="8"><i>might have thought</i></text>
+<text top="884" left="513" width="271" height="18" font="6"> was on the kitchen table, the child</text>
+<text top="908" left="108" width="677" height="18" font="6">may succeed in identifying the intended interpretation despite the speaker’s mistaken</text>
+<text top="932" left="108" width="459" height="18" font="6">belief. Clearly, most ordinary hearers are capable of this.</text>
+<text top="955" left="123" width="661" height="18" font="6">While a Cautiously Optimistic hearer can deal with speaker incompetence, his</text>
+<text top="979" left="108" width="677" height="18" font="6">assumption of speaker benevolence may still lead him astray. The strategy of</text>
+<text top="1003" left="108" width="677" height="18" font="6">Sophisticated Understanding allows hearers to cope with the fact that speakers are</text>
+<text top="1027" left="108" width="495" height="18" font="6">sometimes deceptive: they may intend an interpretation to </text>
+<text top="1027" left="603" width="40" height="18" font="8"><i>seem</i></text>
+<text top="1027" left="643" width="140" height="18" font="6"> relevant enough</text>
+<text top="1051" left="108" width="677" height="18" font="6">without in fact being so. For example, in saying (21), as noted above, the mother may</text>
+<text top="1074" left="108" width="677" height="18" font="6">be lying or attempting to distract her child from something happening elsewhere.</text>
+<text top="1098" left="108" width="677" height="18" font="6">Using the strategy of Sophisticated Understanding, the child may be able to identify</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">320</text>
+<text top="172" left="108" width="676" height="18" font="6">his mother’s meaning even if he knows she is lying, by asking himself under what</text>
+<text top="195" left="108" width="154" height="18" font="6">interpretation she </text>
+<text top="195" left="263" width="294" height="18" font="8"><i>might have thought he would think</i></text>
+<text top="195" left="557" width="228" height="18" font="6"> her utterance was relevant</text>
+<text top="219" left="108" width="677" height="18" font="6">enough. In identifying the intended interpretation, he therefore has to represent the</text>
+<text top="243" left="108" width="676" height="18" font="6">speaker’s thoughts about his thoughts. Most adult speakers are capable of this (for</text>
+<text top="267" left="108" width="599" height="18" font="6">survey and discussion of deceptive communication, see Kleisouras 2002). </text>
+<text top="290" left="123" width="662" height="18" font="6">To sum up. A Naively Optimistic hearer need not represent the speaker's mental</text>
+<text top="314" left="108" width="677" height="18" font="6">states at all in identifying the speaker’s meaning: he simply takes the first</text>
+<text top="338" left="108" width="677" height="18" font="6">interpretation that seems relevant enough and treats it as the intended one. A</text>
+<text top="362" left="108" width="586" height="18" font="6">Cautiously Optimistic hearer considers what interpretation the speaker </text>
+<text top="362" left="694" width="91" height="18" font="8"><i>might have</i></text>
+<text top="385" left="108" width="62" height="18" font="8"><i>thought</i></text>
+<text top="385" left="170" width="615" height="18" font="6"> would be relevant enough: at the cost of an extra layer of mind-reading, he can</text>
+<text top="409" left="108" width="677" height="18" font="6">cope with cases where the speaker tries to be relevant enough, but fails. Finally, a</text>
+<text top="433" left="108" width="677" height="18" font="6">hearer using the strategy of Sophisticated Understanding considers what interpretation</text>
+<text top="457" left="108" width="27" height="18" font="6">the </text>
+<text top="457" left="138" width="347" height="18" font="8"><i>speaker might have thought he would think</i></text>
+<text top="457" left="486" width="299" height="18" font="6"> was relevant enough; at the cost of a</text>
+<text top="480" left="108" width="677" height="18" font="6">further layer of mind-reading, he can cope with deceptive cases in which nothing more</text>
+<text top="504" left="108" width="677" height="18" font="6">than the appearance of relevance is attempted or achieved (see Sperber 2000; Wilson</text>
+<text top="528" left="108" width="170" height="18" font="6">2000 for discussion).</text>
+<text top="552" left="123" width="662" height="18" font="6">These strategies have implications for the development of inferential comprehension.</text>
+<text top="575" left="108" width="676" height="18" font="6">A child starting out as a Naive Optimist should make characteristic mistakes in</text>
+<text top="599" left="108" width="677" height="18" font="6">comprehension (in disambiguation and reference resolution, for example), and as</text>
+<text top="623" left="108" width="676" height="18" font="6">noted above, there is some experimental evidence for this. Roughly speaking, the move</text>
+<text top="647" left="108" width="677" height="18" font="6">from Naive Optimism to Cautious Optimism coincides with the acquisition of first-</text>
+<text top="670" left="108" width="677" height="18" font="6">order mind-reading ability, and this is predictable from the account of Naive Optimism</text>
+<text top="694" left="108" width="677" height="18" font="6">given above. It also coincides with the age when children no longer simply trust what</text>
+<text top="718" left="108" width="677" height="18" font="6">adults tell them, becoming what Harris et al. (2003) call Cautious Disciples, weighing</text>
+<text top="742" left="108" width="676" height="18" font="6">conflicting evidence and monitoring the reliability of speakers in deciding what to</text>
+<text top="765" left="108" width="63" height="18" font="6">believe.</text>
+<text top="789" left="123" width="662" height="18" font="6">The trend towards increasingly inferential views of pragmatics, the wide range of</text>
+<text top="813" left="108" width="677" height="18" font="6">pragmatic abilities illustrated in (1)-(11) and the increasing sophistication of</text>
+<text top="837" left="108" width="676" height="18" font="6">experimental techniques should provide a fertile testing ground for investigating the</text>
+<text top="860" left="108" width="676" height="18" font="6">move from Naive Optimism to Cautious Optimism and comparing the results with</text>
+<text top="884" left="108" width="677" height="18" font="6">performance on the standard ‘false-belief’ task. The appearance of Sophisticated</text>
+<text top="908" left="108" width="676" height="18" font="6">Understanding, with its links to second-order mind-reading and the ability to cope with</text>
+<text top="932" left="108" width="676" height="18" font="6">different types of deception (communicative and non-communicative, overt and</text>
+<text top="955" left="108" width="676" height="18" font="6">covert) should yield further evidence on how the comprehension mechanism is</text>
+<text top="979" left="108" width="677" height="18" font="6">articulated with other sub-modules of the mind-reading mechanism – an obvious</text>
+<text top="1003" left="108" width="218" height="18" font="6">subject for future research.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="9" size="16" family="ELQDMX+TimesNewRoman,Bold" color="#000000"/>
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">321</text>
+<text top="172" left="108" width="79" height="15" font="9"><b>References</b></text>
+<text top="212" left="108" width="371" height="15" font="1">Akhtar, N. (2002) Relevance and early word learning. </text>
+<text top="212" left="478" width="188" height="15" font="2"><i>Journal of Child Language</i></text>
+<text top="212" left="666" width="92" height="15" font="1"> 29: 677-686.</text>
+<text top="233" left="108" width="370" height="15" font="1">Astington, J., Harris, P. &amp; Olson, D. (eds) (1988) </text>
+<text top="233" left="478" width="212" height="15" font="2"><i>Developing Theories of Mind</i></text>
+<text top="233" left="691" width="95" height="15" font="1">. Cambridge:</text>
+<text top="253" left="123" width="196" height="15" font="1">Cambridge University Press.</text>
+<text top="274" left="108" width="520" height="15" font="1">Baldwin, D. (1991) Infants’ contribution to the achievement of joint reference. </text>
+<text top="274" left="628" width="132" height="15" font="2"><i>Child Development</i></text>
+<text top="274" left="760" width="25" height="15" font="1"> 62:</text>
+<text top="294" left="123" width="62" height="15" font="1">875-890.</text>
+<text top="315" left="108" width="564" height="15" font="1">Baldwin, D. (1993) Infants’ ability to consult the speaker for clues to word reference. </text>
+<text top="315" left="673" width="111" height="15" font="2"><i>Journal of Child</i></text>
+<text top="335" left="123" width="69" height="15" font="2"><i>Language</i></text>
+<text top="335" left="192" width="92" height="15" font="1"> 20: 395-418.</text>
+<text top="356" left="108" width="309" height="15" font="1">Barkow, J., Cosmides, L., &amp; Tooby, J. (1995)</text>
+<text top="356" left="417" width="368" height="15" font="2"><i> The Adapted Mind: Evolutionary Psychology and the</i></text>
+<text top="376" left="123" width="153" height="15" font="2"><i>Generation of Culture</i></text>
+<text top="376" left="276" width="236" height="15" font="1">. Oxford: Oxford University Press.</text>
+<text top="397" left="108" width="167" height="15" font="1">Baron-Cohen, S. (1995) </text>
+<text top="397" left="275" width="390" height="15" font="2"><i>Mindblindness: An Essay on Autism and Theory of Mind.</i></text>
+<text top="397" left="665" width="120" height="15" font="1"> Cambridge, MA:</text>
+<text top="417" left="123" width="77" height="15" font="1">MIT Press.</text>
+<text top="438" left="108" width="677" height="15" font="1">Baron-Cohen, S., Leslie, A. and Frith, U. (1985) Does the autistic child have a ‘theory of mind’?</text>
+<text top="458" left="123" width="72" height="15" font="2"><i>Cognition </i></text>
+<text top="458" left="196" width="71" height="15" font="1">21: 37-46.</text>
+<text top="479" left="108" width="469" height="15" font="1">Baron-Cohen, S., Tager-Flusberg, H. &amp; Cohen, D. (eds.) (1993) </text>
+<text top="479" left="576" width="208" height="15" font="2"><i>Understanding Other Minds:</i></text>
+<text top="499" left="123" width="176" height="15" font="2"><i>Perspectives from Autism</i></text>
+<text top="499" left="299" width="236" height="15" font="1">. Oxford: Oxford University Press.</text>
+<text top="520" left="108" width="678" height="15" font="1">Bezuidenhout, A. &amp; Sroda, M.-S. (1998) Children’s use of contextual cues to resolve referential</text>
+<text top="540" left="123" width="317" height="15" font="1">ambiguity: An application of relevance theory. </text>
+<text top="540" left="441" width="187" height="15" font="2"><i>Pragmatics and Cognition </i></text>
+<text top="540" left="627" width="80" height="15" font="1">6: 265-299.</text>
+<text top="561" left="108" width="123" height="15" font="1">Bloom, P. (2000) </text>
+<text top="561" left="231" width="316" height="15" font="2"><i>How Children Learn the Meanings of Words. </i></text>
+<text top="561" left="547" width="197" height="15" font="1">Cambridge, MA: MIT Press.</text>
+<text top="581" left="108" width="620" height="15" font="1">Bloom, P. (2002) Mindreading, communication and the learning of names for things. </text>
+<text top="581" left="728" width="57" height="15" font="2"><i>Mind &amp;</i></text>
+<text top="602" left="123" width="76" height="15" font="2"><i>Language </i></text>
+<text top="602" left="197" width="49" height="15" font="1">17: 1-2</text>
+<text top="602" left="246" width="4" height="15" font="2"><i>.</i></text>
+<text top="622" left="108" width="149" height="15" font="1">Bishop, D. (1997) </text>
+<text top="622" left="258" width="527" height="15" font="2"><i>Uncommon Understanding: Development and Disorders of Language</i></text>
+<text top="643" left="123" width="201" height="15" font="2"><i>Comprehension in Children. </i></text>
+<text top="643" left="324" width="180" height="15" font="1">Sussex: Psychology Press.</text>
+<text top="663" left="108" width="612" height="15" font="1">Botting, N. &amp; Conti-Ramsden, G. (1999) Pragmatic language impairment without autism. </text>
+<text top="663" left="720" width="47" height="15" font="2"><i>Autism</i></text>
+<text top="663" left="767" width="18" height="15" font="1"> 3:</text>
+<text top="684" left="123" width="62" height="15" font="1">371-396.</text>
+<text top="704" left="108" width="621" height="15" font="1">Breheny, R. (2002) The current state of (radical) pragmatics in the cognitive sciences. </text>
+<text top="704" left="729" width="56" height="15" font="2"><i>Mind &amp;</i></text>
+<text top="725" left="123" width="75" height="15" font="2"><i>Language </i></text>
+<text top="725" left="197" width="88" height="15" font="1">17: 169-187.</text>
+<text top="746" left="108" width="677" height="15" font="1">Breheny, R. (forthcoming) Communication and theory of mind. ms., RCEAL, University of</text>
+<text top="766" left="123" width="80" height="15" font="1">Cambridge.</text>
+<text top="787" left="108" width="676" height="15" font="1">Brownell, H.H., Gardner, H., Prather, P., &amp; Martino, G. (1995) Language, communication, and the</text>
+<text top="807" left="123" width="300" height="15" font="1">right hemisphere. In H. S. Kirchner (ed.) </text>
+<text top="807" left="423" width="362" height="15" font="2"><i>Handbook of Neurological Speeech and Language</i></text>
+<text top="828" left="123" width="69" height="15" font="2"><i>Disorders</i></text>
+<text top="828" left="193" width="214" height="15" font="1">: 325-349. New York: Dekker. </text>
+<text top="848" left="108" width="291" height="15" font="1">Carruthers, P. &amp; Smith, P. (eds) (1996) </text>
+<text top="848" left="399" width="215" height="15" font="2"><i>Theories of Theories of Mind.</i></text>
+<text top="848" left="615" width="170" height="15" font="1"> Cambridge: Cambridge</text>
+<text top="869" left="123" width="116" height="15" font="1">University Press.</text>
+<text top="889" left="108" width="345" height="15" font="1">Carruthers, P. &amp; Chamberlain, A. (eds) (2000) </text>
+<text top="889" left="454" width="331" height="15" font="2"><i>Evolution and The Human Mind: Modularity,</i></text>
+<text top="910" left="123" width="213" height="15" font="2"><i>Language and Meta-Cognition</i></text>
+<text top="910" left="337" width="289" height="15" font="1">. Cambridge: Cambridge University Press.</text>
+<text top="930" left="108" width="628" height="15" font="1">Carston, R. (1988) Implicature, explicature and truth-theoretic semantics. In R. Kempson (ed.) </text>
+<text top="930" left="736" width="49" height="15" font="2"><i>Mental</i></text>
+<text top="951" left="123" width="424" height="15" font="2"><i>Representation: The Interface between Language and Reality.</i></text>
+<text top="951" left="547" width="238" height="15" font="1"> Cambridge: Cambridge University</text>
+<text top="971" left="123" width="352" height="15" font="1">Press. Reprinted in Steven Davis (ed.) 1991: 33-51.</text>
+<text top="992" left="108" width="677" height="15" font="1">Carston, R. (1998) Informativeness, relevance and scalar implicature. In R. Carston &amp; S. Uchida (eds)</text>
+<text top="1012" left="123" width="349" height="15" font="2"><i>Relevance Theory: Applications and Implications. </i></text>
+<text top="1012" left="473" width="201" height="15" font="1">Amsterdam: John Benjamins.</text>
+<text top="1033" left="108" width="327" height="15" font="1">Carston, R. (2000) Explicature and semantics. </text>
+<text top="1033" left="436" width="255" height="15" font="2"><i>UCL Working Papers in Linguistics</i></text>
+<text top="1033" left="691" width="94" height="15" font="1"> 12: 1-44. To</text>
+<text top="1053" left="123" width="253" height="15" font="1">appear in S. Davis &amp; B. Gillon (eds) </text>
+<text top="1053" left="375" width="144" height="15" font="2"><i>Semantics: A Reader</i></text>
+<text top="1053" left="520" width="236" height="15" font="1">. Oxford: Oxford University Press.</text>
+<text top="1074" left="108" width="137" height="15" font="1">Carston, R. (2002a) </text>
+<text top="1074" left="246" width="482" height="15" font="2"><i>Thoughts and Utterances: The Pragmatics of Explicit Communication.</i></text>
+<text top="1074" left="727" width="58" height="15" font="1"> Oxford:</text>
+<text top="1094" left="123" width="72" height="15" font="1">Blackwell.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">322</text>
+<text top="171" left="108" width="624" height="15" font="1">Carston, R. (2002b) Linguistic meaning, communicated meaning and cognitive pragmatics. </text>
+<text top="171" left="731" width="54" height="15" font="2"><i>Mind &amp;</i></text>
+<text top="192" left="123" width="69" height="15" font="2"><i>Language</i></text>
+<text top="192" left="192" width="92" height="15" font="1"> 17: 127-148.</text>
+<text top="212" left="108" width="258" height="15" font="1">Davies, M. &amp; Stone, T. (eds) (1995a) </text>
+<text top="212" left="366" width="418" height="15" font="2"><i>Mental Simulation: Philosophical and Psychological Essays.</i></text>
+<text top="233" left="123" width="130" height="15" font="1">Oxford: Blackwell.</text>
+<text top="253" left="108" width="262" height="15" font="1">Davies, M. &amp; Stone, T. (eds) (1995b) </text>
+<text top="253" left="370" width="118" height="15" font="2"><i>Folk Psychology.</i></text>
+<text top="253" left="488" width="134" height="15" font="1"> Oxford: Blackwell.</text>
+<text top="274" left="108" width="154" height="15" font="1">Davis, S. (ed.) (1991) </text>
+<text top="274" left="261" width="153" height="15" font="2"><i>Pragmatics: A Reader</i></text>
+<text top="274" left="415" width="236" height="15" font="1">. Oxford: Oxford University Press.</text>
+<text top="294" left="108" width="121" height="15" font="1">Fodor, J. (1983)) </text>
+<text top="294" left="229" width="26" height="15" font="2"><i>The</i></text>
+<text top="294" left="255" width="3" height="15" font="1"> </text>
+<text top="294" left="259" width="135" height="15" font="2"><i>Modularity of Mind</i></text>
+<text top="294" left="395" width="206" height="15" font="1">. Cambridge, MA: MIT Press.</text>
+<text top="315" left="108" width="379" height="15" font="1">Fodor, J. (1992) A theory of the child’s theory of mind. </text>
+<text top="315" left="487" width="68" height="15" font="2"><i>Cognition</i></text>
+<text top="315" left="556" width="84" height="15" font="1"> 44: 283-96.</text>
+<text top="335" left="108" width="124" height="15" font="1">Fodor, J. (2000) </text>
+<text top="335" left="232" width="553" height="15" font="2"><i>The Mind Doesn't Work That Way: The Scope and Limits of Computational</i></text>
+<text top="356" left="123" width="79" height="15" font="2"><i>Psychology</i></text>
+<text top="356" left="202" width="202" height="15" font="1">. Cambridge MA: MIT Press.</text>
+<text top="376" left="108" width="457" height="15" font="1">Gigerenzer, G., Todd, P.M., &amp; the ABC Research Group (1999) </text>
+<text top="376" left="565" width="220" height="15" font="2"><i>Simple Heuristics that Make us</i></text>
+<text top="397" left="123" width="41" height="15" font="2"><i>Smart</i></text>
+<text top="397" left="165" width="236" height="15" font="1">. Oxford: Oxford University Press.</text>
+<text top="417" left="108" width="205" height="15" font="1">Grice, H. P. (1957) M eaning. </text>
+<text top="417" left="313" width="148" height="15" font="2"><i>Philosophical Review</i></text>
+<text top="417" left="461" width="266" height="15" font="1"> 66: 377-388. Reprinted in Grice 1989.</text>
+<text top="438" left="108" width="134" height="15" font="1">Grice, H.P. (1967) </text>
+<text top="438" left="242" width="168" height="15" font="2"><i>Logic and conversation.</i></text>
+<text top="438" left="411" width="374" height="15" font="1"> William James Lectures, Harvard. Reprinted in Grice</text>
+<text top="458" left="123" width="39" height="15" font="1">1989.</text>
+<text top="479" left="108" width="366" height="15" font="1">Grice, H. P. (1969) Utterer’s meaning and intentions. </text>
+<text top="479" left="474" width="148" height="15" font="2"><i>Philosophical Review</i></text>
+<text top="479" left="621" width="163" height="15" font="1"> 78: 147-177. Reprinted</text>
+<text top="499" left="123" width="98" height="15" font="1">in Grice 1989.</text>
+<text top="520" left="108" width="136" height="15" font="1">Grice, H. P. (1989) </text>
+<text top="520" left="244" width="194" height="15" font="2"><i>Studies in the Way of Words</i></text>
+<text top="520" left="438" width="306" height="15" font="1">. Cambridge, MA: Harvard University Press.</text>
+<text top="540" left="108" width="132" height="15" font="1">Grice, H.P. (2001) </text>
+<text top="540" left="240" width="134" height="15" font="2"><i>Aspects of Reason. </i></text>
+<text top="540" left="374" width="228" height="15" font="1">Oxford: Oxford University Press.</text>
+<text top="561" left="108" width="677" height="15" font="1">Happé, F. (1993) Communicative competence and theory of mind in autism: A test of relevance theory.</text>
+<text top="581" left="123" width="68" height="15" font="2"><i>Cognition</i></text>
+<text top="581" left="192" width="84" height="15" font="1"> 48: 101-19.</text>
+<text top="602" left="108" width="133" height="15" font="1">Happé, F. (1994) </text>
+<text top="602" left="241" width="354" height="15" font="2"><i>Autism: An Introduction to Psychological Theory</i></text>
+<text top="602" left="595" width="189" height="15" font="1">. Cambridge MA: Harvard</text>
+<text top="622" left="123" width="116" height="15" font="1">University Press.</text>
+<text top="643" left="108" width="550" height="15" font="1">Happé, F. &amp; E. Loth. (2002) ‘Theory of mind’ and tracking speakers’ intentions. </text>
+<text top="643" left="658" width="127" height="15" font="2"><i>Mind &amp; Language</i></text>
+<text top="663" left="123" width="71" height="15" font="1">17: 24-36.</text>
+<text top="684" left="108" width="623" height="15" font="1">Harris, P., Koenig, M. &amp; Clement, F. (2003) The cautious disciple. Paper presented to the </text>
+<text top="684" left="731" width="54" height="15" font="2"><i>Mind &amp;</i></text>
+<text top="704" left="123" width="69" height="15" font="2"><i>Language</i></text>
+<text top="704" left="192" width="309" height="15" font="1"> Workshop on Narrative, Cumberland Lodge.</text>
+<text top="725" left="108" width="239" height="15" font="1">Hirschfeld, L. &amp; Gelman, S. (1994) </text>
+<text top="725" left="347" width="437" height="15" font="2"><i>Mapping the Mind: Domain Specificity in Cognition and Culture.</i></text>
+<text top="746" left="123" width="280" height="15" font="1">Cambridge: Cambridge University Press.</text>
+<text top="766" left="108" width="153" height="15" font="1">Jackendoff, R. (1997) </text>
+<text top="766" left="261" width="292" height="15" font="2"><i>The Architecture of the Language Faculty.</i></text>
+<text top="766" left="554" width="198" height="15" font="1"> Cambridge MA: MIT Press.</text>
+<text top="787" left="108" width="676" height="15" font="1">Kleisouras, V. (2002) Deceptive communication. M.Sc. dissertation, Department of Human</text>
+<text top="807" left="123" width="361" height="15" font="1">Communication Science, University College London.</text>
+<text top="828" left="108" width="677" height="15" font="1">Langdon, R., Davies, M. &amp; Coltheart, M. (2002) Understanding minds and understanding</text>
+<text top="848" left="123" width="292" height="15" font="1">communicated meanings in schizophrenia. </text>
+<text top="848" left="415" width="127" height="15" font="2"><i>Mind &amp; Language</i></text>
+<text top="848" left="542" width="87" height="15" font="1"> 17: 68-104. </text>
+<text top="869" left="108" width="528" height="15" font="1">Leslie, A. (1987) Pretense and representation: The origins of ‘theory of mind’. </text>
+<text top="869" left="635" width="150" height="15" font="2"><i>Psychological Review</i></text>
+<text top="889" left="123" width="88" height="15" font="1">94: 412-426.</text>
+<text top="910" left="108" width="676" height="15" font="1">Leslie, A. (1991) The theory of mind impairment in autism: Evidence for a modular mechanism of</text>
+<text top="930" left="123" width="253" height="15" font="1">development? In A. Whiten (ed.) </text>
+<text top="930" left="376" width="409" height="15" font="2"><i>Natural Theories of Mind: Evolution, Development and</i></text>
+<text top="951" left="123" width="256" height="15" font="2"><i>Simulation of Everyday Mindreading</i></text>
+<text top="951" left="379" width="138" height="15" font="1">. Oxford: Blackwell.</text>
+<text top="971" left="108" width="134" height="15" font="1">Levinson, S. (2000) </text>
+<text top="971" left="242" width="542" height="15" font="2"><i>Presumptive Meanings: The Theory of Generalized Conversational Implicature.</i></text>
+<text top="992" left="123" width="193" height="15" font="1">Cambridge MA: MIT Press.</text>
+<text top="1012" left="108" width="163" height="15" font="1">Marmaridou, S. (2000) </text>
+<text top="1012" left="271" width="249" height="15" font="2"><i>Pragmatic Meaning and Cognition. </i></text>
+<text top="1012" left="520" width="201" height="15" font="1">Amsterdam: John Benjamins.</text>
+<text top="1033" left="108" width="676" height="15" font="1">Mitchell, P., Robinson, E. &amp; Thompson, D. (1999) Children’s understanding that utterances emanate</text>
+<text top="1053" left="123" width="372" height="15" font="1">from minds: Using speaker belief to aid interpretation. </text>
+<text top="1053" left="495" width="73" height="15" font="2"><i>Cognition </i></text>
+<text top="1053" left="568" width="71" height="15" font="1">72: 45-66.</text>
+<text top="1074" left="108" width="676" height="15" font="1">Newcombe, N. &amp; Zaslow, M. (1981) Do 2½-year-olds hint? A study of directive forms in the speech</text>
+<text top="1094" left="123" width="179" height="15" font="1">of 2½-year-olds to adults. </text>
+<text top="1094" left="302" width="142" height="15" font="2"><i>Discourse Processes</i></text>
+<text top="1094" left="445" width="84" height="15" font="1"> 4: 239-252.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="314" width="417" height="15" font="2"><i>New Directions for Research on Pragmatics and Modularity</i></text>
+<text top="133" left="759" width="26" height="15" font="1">323</text>
+<text top="171" left="108" width="677" height="15" font="1">O’Neill, D. (1996) Two-year-old children’s sensitivity to a person’s knowledge state when making</text>
+<text top="192" left="123" width="65" height="15" font="1">requests. </text>
+<text top="192" left="188" width="133" height="15" font="2"><i>Child Development</i></text>
+<text top="192" left="321" width="92" height="15" font="1"> 67: 659-677.</text>
+<text top="212" left="108" width="677" height="15" font="1">Origgi, G. &amp; Sperber, D. (2000) Evolution, communication and the proper function of language. In P.</text>
+<text top="233" left="123" width="312" height="15" font="1">Carruthers &amp; A. Chamberlain (eds): 140-169.</text>
+<text top="253" left="108" width="437" height="15" font="1">Papafragou, A. (2002) Mindreading and verbal communication. </text>
+<text top="253" left="545" width="131" height="15" font="2"><i>Mind &amp; Language </i></text>
+<text top="253" left="676" width="71" height="15" font="1">17: 55-67.</text>
+<text top="274" left="108" width="488" height="15" font="1">Paradis, M. (1998). The other side of language: Pragmatic competence. </text>
+<text top="274" left="596" width="188" height="15" font="2"><i>Journal of Neurolinguistics</i></text>
+<text top="294" left="123" width="62" height="15" font="1">11: 1-10.</text>
+<text top="315" left="108" width="677" height="15" font="1">Perner, J., Frith, U., Leslie, A. &amp; Leekam, S. (1989) Explorations of the autistic child’s theory of mind:</text>
+<text top="335" left="123" width="275" height="15" font="1">Knowledge, belief, and communication. </text>
+<text top="335" left="398" width="137" height="15" font="2"><i>Child Development </i></text>
+<text top="335" left="536" width="84" height="15" font="1">60: 689-700</text>
+<text top="335" left="619" width="4" height="15" font="2"><i>.</i></text>
+<text top="356" left="108" width="121" height="15" font="1">Pinker, S. (1997) </text>
+<text top="356" left="229" width="145" height="15" font="2"><i>How the Mind Works</i></text>
+<text top="356" left="375" width="141" height="15" font="1">. New York: Norton.</text>
+<text top="376" left="108" width="128" height="15" font="1">Plotkin, H. (1997) </text>
+<text top="376" left="236" width="125" height="15" font="2"><i>Evolution in Mind</i></text>
+<text top="376" left="361" width="145" height="15" font="1">. London: Alan Lane.</text>
+<text top="397" left="108" width="462" height="15" font="1">Recanati, F. (2002) Does linguistic communication rest on inference? </text>
+<text top="397" left="571" width="124" height="15" font="2"><i>Mind &amp; Language</i></text>
+<text top="397" left="695" width="90" height="15" font="1"> 17: 105-126.</text>
+<text top="417" left="108" width="676" height="15" font="1">Rinaldi, W. (2000) Pragmatic comprehension in secondary school-aged students with specific</text>
+<text top="438" left="123" width="249" height="15" font="1">developmental language disorder. </text>
+<text top="438" left="372" width="413" height="15" font="2"><i>International Journal of Language and Communication</i></text>
+<text top="458" left="123" width="78" height="15" font="2"><i>Disorders </i></text>
+<text top="458" left="197" width="62" height="15" font="1">35: 1-29.</text>
+<text top="479" left="108" width="526" height="15" font="1">Scholl, B. &amp; Leslie, A. (1999) Modularity, development and ‘theory of mind’. </text>
+<text top="479" left="634" width="129" height="15" font="2"><i>Mind &amp; Language </i></text>
+<text top="479" left="763" width="22" height="15" font="1">14:</text>
+<text top="499" left="123" width="62" height="15" font="1">131-153.</text>
+<text top="520" left="108" width="598" height="15" font="1">Segal, G. (1996) The modularity of theory of mind. In P. Carruthers &amp; P. Smith (eds) </text>
+<text top="520" left="706" width="79" height="15" font="2"><i>Theories of</i></text>
+<text top="540" left="123" width="119" height="15" font="2"><i>Theories of Mind</i></text>
+<text top="540" left="242" width="289" height="15" font="1">. Cambridge: Cambridge University Press.</text>
+<text top="561" left="108" width="677" height="15" font="1">Sigman, M. &amp; Kasari, C. (1995) Joint attention across contexts in normal and autistic children. In C.</text>
+<text top="581" left="123" width="187" height="15" font="1">Moore &amp; P. Dunham (eds) </text>
+<text top="581" left="310" width="372" height="15" font="2"><i>Joint Attention: Its Origins and Role in Development. </i></text>
+<text top="581" left="683" width="102" height="15" font="1">Hillsdale, N.J.:</text>
+<text top="602" left="123" width="135" height="15" font="1">Lawrence Erlbaum.</text>
+<text top="622" left="108" width="250" height="15" font="1">Smith, N. &amp; Tsimpli, I.-M. (1995) </text>
+<text top="622" left="359" width="421" height="15" font="2"><i>The Mind of a Savant: Language Learning and Modularity</i></text>
+<text top="622" left="780" width="4" height="15" font="1">.</text>
+<text top="643" left="123" width="130" height="15" font="1">Oxford: Blackwell.</text>
+<text top="663" left="108" width="526" height="15" font="1">Sperber, D. (1994) Understanding verbal understanding. In J. Khalfa (ed.) </text>
+<text top="663" left="635" width="143" height="15" font="2"><i>What is Intelligence</i></text>
+<text top="663" left="778" width="7" height="15" font="1">?</text>
+<text top="684" left="123" width="280" height="15" font="1">Cambridge: Cambridge University Press.</text>
+<text top="704" left="108" width="134" height="15" font="1">Sperber, D. (1996) </text>
+<text top="704" left="242" width="315" height="15" font="2"><i>Explaining Culture: A Naturalistic Approach.</i></text>
+<text top="704" left="558" width="134" height="15" font="1"> Oxford: Blackwell.</text>
+<text top="725" left="108" width="676" height="15" font="1">Sperber, D. (2000) Metarepresentations in an evolutionary perspective. In D. Sperber (ed.)</text>
+<text top="745" left="123" width="375" height="15" font="2"><i>Metarepresentations: An Interdisciplinary Perspective</i></text>
+<text top="746" left="499" width="259" height="15" font="1">. New York: Oxford University Press.</text>
+<text top="766" left="108" width="526" height="15" font="1">Sperber, D. (2002) In defense of massive modularity. In E. Dupoux (ed.) </text>
+<text top="766" left="634" width="151" height="15" font="2"><i>Language, Brain and</i></text>
+<text top="787" left="123" width="412" height="15" font="2"><i>Cognitive Development: Essays in Honor of Jacques Mehler</i></text>
+<text top="787" left="536" width="48" height="15" font="1">: 47-57</text>
+<text top="787" left="585" width="7" height="15" font="2"><i>. </i></text>
+<text top="787" left="593" width="192" height="15" font="1">Cambridge MA: MIT Press.</text>
+<text top="807" left="108" width="583" height="15" font="1">Sperber, D., Cara, F. &amp; Girotto, V. (1995) Relevance theory explains the selection task. </text>
+<text top="807" left="691" width="71" height="15" font="2"><i>Cognition </i></text>
+<text top="807" left="763" width="22" height="15" font="1">57:</text>
+<text top="828" left="123" width="45" height="15" font="1">31-95.</text>
+<text top="848" left="108" width="322" height="15" font="1">Sperber, D. &amp; Wilson, D. (1981a) Pragmatics. </text>
+<text top="848" left="429" width="69" height="15" font="2"><i>Cognition</i></text>
+<text top="848" left="498" width="75" height="15" font="1"> 10: 281-6.</text>
+<text top="869" left="108" width="624" height="15" font="1">Sperber, D. &amp; Wilson, D. (1981b) Irony and the use–mention distinction. In P. Cole (ed.) </text>
+<text top="869" left="731" width="53" height="15" font="2"><i>Radical</i></text>
+<text top="889" left="123" width="79" height="15" font="2"><i>Pragmatics</i></text>
+<text top="889" left="202" width="66" height="15" font="1">: 295-318</text>
+<text top="889" left="269" width="8" height="15" font="2"><i>. </i></text>
+<text top="889" left="277" width="482" height="15" font="1">Academic Press, New York. Reprinted in S. Davis (ed.) 1991: 550-63.</text>
+<text top="910" left="108" width="236" height="15" font="1">Sperber, D. &amp; Wilson, D. (1986) </text>
+<text top="910" left="344" width="297" height="15" font="2"><i>Relevance: Communication and Cognition</i></text>
+<text top="910" left="642" width="142" height="15" font="1">. Oxford: Blackwell.</text>
+<text top="930" left="123" width="151" height="15" font="1">(Second edition 1995)</text>
+<text top="951" left="108" width="542" height="15" font="1">Sperber, D. &amp; Wilson, D. (1990) Spontaneous deduction and mutual knowledge. </text>
+<text top="951" left="650" width="134" height="15" font="2"><i>Behavioral &amp; Brain</i></text>
+<text top="971" left="123" width="59" height="15" font="2"><i>Sciences</i></text>
+<text top="971" left="182" width="84" height="15" font="1"> 13: 179-84.</text>
+<text top="992" left="108" width="677" height="15" font="1">Sperber, D. &amp; Wilson, D. (1998) Irony and relevance: A reply to Seto, Hamamoto and Yamanashi. In</text>
+<text top="1012" left="123" width="243" height="15" font="1">R. Carston and S. Uchida (eds.) </text>
+<text top="1012" left="366" width="353" height="15" font="2"><i>Relevance Theory: Applications and Implications</i></text>
+<text top="1012" left="720" width="65" height="15" font="1">: 283-93.</text>
+<text top="1033" left="123" width="201" height="15" font="1">Amsterdam: John Benjamins.</text>
+<text top="1053" left="108" width="490" height="15" font="1">Sperber, D. &amp; Wilson, D. (2002) Pragmatics, modularity &amp; mindreading. </text>
+<text top="1053" left="598" width="124" height="15" font="2"><i>Mind &amp; Language</i></text>
+<text top="1053" left="721" width="64" height="15" font="1"> 17: 3-23.</text>
+<text top="1074" left="108" width="676" height="15" font="1">Tomasello, M., Farrar, M. &amp; Dines, J. (1983) Children’s speech revisions for a familiar and unfamiliar</text>
+<text top="1094" left="123" width="41" height="15" font="1">adult. </text>
+<text top="1094" left="166" width="284" height="15" font="2"><i>Journal of Speech and Hearing Research</i></text>
+<text top="1094" left="450" width="92" height="15" font="1"> 27: 359-363.</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="106" height="15" font="2"><i>Deirdre Wilson</i></text>
+<text top="133" left="108" width="26" height="15" font="1">324</text>
+<text top="171" left="108" width="676" height="15" font="1">Van der Henst, J.-B., Sperber, D. &amp; Politzer, G. (2002) When is a conclusion worth deriving? A</text>
+<text top="192" left="123" width="425" height="15" font="1">relevance-based analysis of indeterminate relational problems. </text>
+<text top="192" left="549" width="155" height="15" font="2"><i>Thinking &amp; Reasoning</i></text>
+<text top="192" left="704" width="58" height="15" font="1"> 8: 1-20.</text>
+<text top="212" left="108" width="672" height="15" font="1">Van der Henst, J.-B., Carles, L. &amp; Sperber, D. (2002) Truthfulness and relevance in telling the time</text>
+<text top="212" left="780" width="4" height="15" font="2"><i>.</i></text>
+<text top="233" left="123" width="127" height="15" font="2"><i>Mind &amp; Language</i></text>
+<text top="233" left="250" width="92" height="15" font="1"> 17: 457-466.</text>
+<text top="253" left="108" width="128" height="15" font="1">Willey, L. (1999) </text>
+<text top="253" left="236" width="438" height="15" font="2"><i>Pretending to be Normal: Living with Asperger’s Syndrome. </i></text>
+<text top="253" left="675" width="110" height="15" font="1">London: Jessica</text>
+<text top="274" left="123" width="140" height="15" font="1">Kingsley Publishers.</text>
+<text top="294" left="108" width="676" height="15" font="1">Wilson, D. (2000) Metarepresentation in linguistic communication. In D. Sperber (ed.)</text>
+<text top="315" left="123" width="384" height="15" font="2"><i>Metarepresentations: An Interdisciplinary Perspective. </i></text>
+<text top="315" left="507" width="250" height="15" font="1">New York: Oxford University Press.</text>
+<text top="335" left="108" width="484" height="15" font="1">Wilson, D. &amp; Sperber, D. (1986) Pragmatics and modularity. In </text>
+<text top="335" left="591" width="193" height="15" font="2"><i>Chicago Linguistic Society</i></text>
+<text top="356" left="123" width="364" height="15" font="2"><i>Parasession on Pragmatics and Grammatical Theory</i></text>
+<text top="356" left="487" width="298" height="15" font="1"> 22: 67-84. Reprinted in S. Davis (ed.) 1991:</text>
+<text top="376" left="123" width="53" height="15" font="1">583-95.</text>
+<text top="397" left="108" width="344" height="15" font="1">Wilson, D. &amp; Sperber, D. (1992) On verbal irony. </text>
+<text top="397" left="452" width="49" height="15" font="2"><i>Lingua</i></text>
+<text top="397" left="501" width="75" height="15" font="1"> 87: 53-76.</text>
+<text top="417" left="108" width="422" height="15" font="1">Wilson, D. &amp; Sperber, D. (2002) Truthfulness and relevance. </text>
+<text top="417" left="529" width="36" height="15" font="2"><i>Mind</i></text>
+<text top="417" left="566" width="101" height="15" font="1"> 111: 583-632.</text>
+<text top="438" left="108" width="677" height="15" font="1">Wilson, D. &amp; Sperber, D. (forthcoming) Relevance theory. To appear in G. Ward &amp; L. Horn (eds)</text>
+<text top="458" left="123" width="173" height="15" font="2"><i>Handbook of Pragmatics</i></text>
+<text top="458" left="296" width="138" height="15" font="1">. Oxford: Blackwell.</text>
+</page>
+<outline>
+<item page="1">Page 1</item>
+<item page="2">Page 2</item>
+<item page="3">Page 3</item>
+<item page="4">Page 4</item>
+<item page="5">Page 5</item>
+<item page="6">Page 6</item>
+<item page="7">Page 7</item>
+<item page="8">Page 8</item>
+<item page="9">Page 9</item>
+<item page="10">Page 10</item>
+<item page="11">Page 11</item>
+<item page="12">Page 12</item>
+<item page="13">Page 13</item>
+<item page="14">Page 14</item>
+<item page="15">Page 15</item>
+<item page="16">Page 16</item>
+<item page="17">Page 17</item>
+<item page="18">Page 18</item>
+<item page="19">Page 19</item>
+<item page="20">Page 20</item>
+<item page="21">Page 21</item>
+<item page="22">Page 22</item>
+</outline>
+</pdf2xml>

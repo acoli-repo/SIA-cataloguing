@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="17" family="Times" color="#000000"/>
+<text top="999" left="123" width="6" height="11" font="0">*</text>
+<text top="1004" left="129" width="681" height="16" font="1">This paper is part of work in progress (Chan, to appear). I would like to thank Professor Neil Smith</text>
+<text top="1024" left="108" width="702" height="16" font="1">and Dr. Ad Neeleman for many insightful comments they made on previous drafts. All remaining errors</text>
+<text top="1044" left="108" width="65" height="16" font="1">are mine.</text>
+<text top="133" left="108" width="378" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 10 (1998)</text>
+<text top="185" left="108" width="702" height="32" font="4"><i><b>Functional heads, Cantonese phrase structure</b></i></text>
+<text top="227" left="108" width="580" height="32" font="4"><i><b>and Cantonese-English code-switching</b></i></text>
+<text top="222" left="689" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="312" left="108" width="255" height="18" font="3">BRIAN, HOK-SHING, CHAN</text>
+<text top="409" left="143" width="76" height="18" font="6"><b>Abstract</b></text>
+<text top="456" left="143" width="632" height="16" font="1">This paper is concerned with the idea that the morpho-syntax of intra-sentential code-</text>
+<text top="476" left="143" width="631" height="16" font="1">switching is strictly governed by the grammar of the <i>matrix language/ML</i>, whereas the</text>
+<text top="496" left="143" width="632" height="16" font="7"><i>embedded language/EL </i>only contributes certain lexical elements within confines set by ML.</text>
+<text top="517" left="143" width="631" height="16" font="1">A particular model embodying this idea - <i>the</i> <i>Lemma Congruence model </i>(Myers-Scotton and</text>
+<text top="537" left="143" width="632" height="16" font="1">Jake 1995) - is discussed.  The Lemma Congruence model states that an EL word can appear</text>
+<text top="558" left="143" width="631" height="16" font="1">in code-switching provided its <i>lemma </i>(i.e. morpho-syntactic properties) is congruent with its</text>
+<text top="578" left="143" width="632" height="16" font="1">ML equivalents. I argue that the Lemma Congruence model fails to explain recurrent patterns</text>
+<text top="598" left="143" width="631" height="16" font="1">in Cantonese-English code-switching, where various English (i.e. EL) forms may appear</text>
+<text top="619" left="143" width="632" height="16" font="1">despite their “incongruence” with their Cantonese (i.e. ML) counterparts. As an alternative,</text>
+<text top="639" left="143" width="632" height="16" font="1">I suggest that code-switching may occur provided that the c-selection requirements of</text>
+<text top="659" left="143" width="631" height="16" font="1">functional heads are satisfied. I argue that the latter approach - which I call the <i>Functional</i></text>
+<text top="680" left="143" width="631" height="16" font="7"><i>Head Selection </i>approach - is not only superior to the Lemma Congruence model, it also</text>
+<text top="700" left="143" width="632" height="16" font="1">corroborates the idea that intra-sentential code-switching and monolingual sentences are</text>
+<text top="720" left="143" width="631" height="16" font="1">governed by the same principles in Universal Grammar, a line of thought which has been</text>
+<text top="741" left="143" width="467" height="16" font="1">explored most recently by MacSwan (1997) and Mahootian (1993).</text>
+<text top="810" left="108" width="126" height="18" font="6"><b>1 Introduction</b></text>
+<text top="857" left="108" width="701" height="18" font="3">The issue of universal grammatical constraints on intra-sentential code-switching has</text>
+<text top="881" left="108" width="701" height="18" font="3">attracted a great deal of debates in the past two decades. Various proposals have been put</text>
+<text top="905" left="108" width="702" height="18" font="3">forward based on different language-pairs spoken in different communities (e.g. Di</text>
+<text top="929" left="108" width="703" height="18" font="3">Sciullo, Muysken and Singh 1986, Belazi, Rubin and Toribio 1994, etc.). However, these</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="9" height="16" font="1">2</text>
+<text top="979" left="123" width="6" height="11" font="0">1</text>
+<text top="983" left="129" width="681" height="16" font="1">“Lemma” is a term borrowed from Levelt’s (1989) model of speech production. It refers to the cluster</text>
+<text top="1004" left="108" width="701" height="16" font="1">of syntactic-morphological properties associated with a word. Muysken and de Rooij (1995) comment</text>
+<text top="1024" left="108" width="702" height="16" font="1">that the term “lemma” is not strictly defined in the Matrix Language Frame model/Lemma Congruence</text>
+<text top="1044" left="108" width="367" height="16" font="1">model. See Muysken and de Rooij (1995) for details.</text>
+<text top="189" left="108" width="702" height="18" font="3">proposals are soon found to be inadequate with the availability of more data from</text>
+<text top="213" left="108" width="702" height="18" font="3">different language-pairs. There seems to be no single proposal which is widely agreed</text>
+<text top="237" left="108" width="702" height="18" font="3">upon as the definitive, universal syntactic model of code-switching. New models are still</text>
+<text top="261" left="108" width="359" height="18" font="3">proposed constantly (e.g. MacSwan 1997).  </text>
+<text top="285" left="123" width="686" height="18" font="3">This paper focuses on one particular school of thought regarding the syntax of intra-</text>
+<text top="309" left="108" width="702" height="18" font="3">sentential code-switching: One language is dominant and determines the overall morpho-</text>
+<text top="332" left="108" width="702" height="18" font="3">syntactic properties of code-switched utterances. The other language only provides</text>
+<text top="356" left="108" width="702" height="18" font="3">certain lexical categories, and the role of its grammar is severely limited. The most</text>
+<text top="380" left="108" width="702" height="18" font="3">popular model to date which inherits such a tradition is <i>the Matrix Language Frame</i></text>
+<text top="404" left="108" width="702" height="18" font="2"><i>model </i>as developed by Myers-Scotton (1993, 1995). In such a model, the<i> </i>dominant</text>
+<text top="428" left="108" width="702" height="18" font="3">language (i.e. <i>the matrix language/ML</i>) determines word order and supplies all the</text>
+<text top="452" left="108" width="702" height="18" font="3">functional categories in the code-switched sentences. The other language (i.e. <i>the</i></text>
+<text top="476" left="108" width="703" height="18" font="2"><i>embedded language/EL</i>) only contributes lexical elements and fits them into appropriate</text>
+<text top="500" left="108" width="702" height="18" font="3">slots in the structure with ML characteristics. In a more up-to-date version of the Matrix</text>
+<text top="524" left="108" width="702" height="18" font="3">Language Frame model (Myers-Scotton and Jake 1995, Jake and Myers-Scotton 1997),</text>
+<text top="548" left="108" width="643" height="18" font="3">it is proposed that an EL word (or, more abstractly, the <i>lemma </i>of this EL word)</text>
+<text top="545" left="751" width="6" height="11" font="0">1</text>
+<text top="548" left="757" width="53" height="18" font="3"> has to</text>
+<text top="572" left="108" width="702" height="18" font="3">be <i>congruent </i>with its equivalent (lemma) in ML so that it can be inserted into the code-</text>
+<text top="596" left="108" width="152" height="18" font="3">switched sentence.</text>
+<text top="620" left="123" width="687" height="18" font="3">In this paper, I argue that such a <i>Lemma Congruence</i> model is overly restrictive.  As</text>
+<text top="644" left="108" width="704" height="18" font="3">an alternative, I propose that code-switching may take place if the switched element</text>
+<text top="668" left="108" width="702" height="18" font="3">observes the <i>c-selection </i>requirement of its functional head. I will argue that such an</text>
+<text top="692" left="108" width="702" height="18" font="3">approach, which I will call the <i>Functional Head Selection </i>approach, is superior to the</text>
+<text top="716" left="108" width="702" height="18" font="3">Lemma Congruence model: Empirically, I will show that the Lemma Congruence model</text>
+<text top="739" left="108" width="702" height="18" font="3">fails to account for code-switching data from Cantonese-English. Theoretically, the</text>
+<text top="763" left="108" width="701" height="18" font="3">Lemma Congruence model presupposes an additional process which is unnecessary, thus</text>
+<text top="787" left="108" width="326" height="18" font="3">making the whole model uneconomical.</text>
+<text top="811" left="123" width="687" height="18" font="3">This paper is organized as follows. In section 2, I will outline the Lemma Congruence</text>
+<text top="835" left="108" width="702" height="18" font="3">model and the Functional Head Selection approach. In section 3, I will briefly outline the</text>
+<text top="859" left="108" width="702" height="18" font="3">morpho-syntactic characteristics of Cantonese and give a general picture of Cantonese-</text>
+<text top="883" left="108" width="702" height="18" font="3">English code-switching. In section 4 to section 8, I will apply these two approaches to</text>
+<text top="907" left="108" width="667" height="18" font="3">analyze code-switching data from Cantonese-English. Section 9 is the conclusion.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="801" width="9" height="16" font="1">3</text>
+<text top="189" left="108" width="392" height="18" font="6"><b>2 Approaches to the syntax of code-switching</b></text>
+<text top="237" left="108" width="305" height="18" font="6"><b>2.1 The Lemma Congruence model</b></text>
+<text top="284" left="108" width="702" height="18" font="3">The  <i>Lemma Congruence model </i>has its roots in the <i>Matrix Language Frame model</i></text>
+<text top="308" left="108" width="702" height="18" font="3">(Myers-Scotton 1993, 1995). Crucially, the Matrix Language model posits a distinction</text>
+<text top="332" left="108" width="702" height="18" font="3">between <i>the matrix language</i> and <i>the embedded language</i>. The matrix language plays a</text>
+<text top="356" left="108" width="703" height="18" font="3">dominant role in supplying more morphemes to a particular code-switching discourse</text>
+<text top="380" left="108" width="703" height="18" font="3">and in determining the overall morphological-syntactic properties of code-switched</text>
+<text top="404" left="108" width="702" height="18" font="3">sentences. Whenever there is code-switching within a phrasal/maximal projection (i.e.</text>
+<text top="428" left="108" width="702" height="18" font="3">a “mixed” constituent), the word order of that constituent comes from the matrix</text>
+<text top="452" left="108" width="556" height="18" font="3">language. This idea is formalized as the Morpheme Order principle. </text>
+<text top="500" left="108" width="24" height="18" font="3">(1)</text>
+<text top="500" left="162" width="504" height="18" font="6"><b>The Morpheme Order principle </b>(Myers-Scotton 1993: 83)  </text>
+<text top="524" left="162" width="648" height="18" font="3">“In ML + EL constituents consisting of singly-occurring EL lexemes and any</text>
+<text top="548" left="162" width="648" height="18" font="3">number of ML morphemes, surface morpheme order (reflecting syntactic</text>
+<text top="572" left="162" width="250" height="18" font="3">relations) will be that of ML.” </text>
+<text top="620" left="108" width="702" height="18" font="3">In addition, the matrix language also supplies the <i>system morphemes</i>. This idea is</text>
+<text top="644" left="108" width="386" height="18" font="3">formalized as the System Morpheme principle. </text>
+<text top="692" left="108" width="24" height="18" font="3">(2)</text>
+<text top="692" left="162" width="507" height="18" font="6"><b>The System Morpheme principle </b>(Myers-Scotton, 1993: 83)</text>
+<text top="716" left="162" width="648" height="18" font="3">“In ML + EL constituents, all system morphemes which have grammatical</text>
+<text top="740" left="162" width="647" height="18" font="3">relations external to their head constituent (i.e. which participate in the sentence’s</text>
+<text top="764" left="162" width="361" height="18" font="3">thematic role grid) will come from the ML.”</text>
+<text top="809" left="123" width="687" height="18" font="3">What are <i>system morphemes</i>? According to Myers-Scotton (1993), all morphemes are</text>
+<text top="833" left="108" width="702" height="18" font="3">divided into two classes: <i>content morphemes </i>and <i>system morphemes</i>.  System</text>
+<text top="857" left="108" width="519" height="18" font="3">morphemes are defined as having one of the following features:</text>
+<text top="905" left="108" width="24" height="18" font="3">(3)</text>
+<text top="905" left="162" width="598" height="18" font="6"><b>Defining features of system morphemes </b>(Myers-Scotton 1993: 99-101)</text>
+<text top="929" left="162" width="650" height="18" font="3">[+Quantificational] – System morphemes are quantificational, such as quantifiers,</text>
+<text top="953" left="162" width="313" height="18" font="3">determiners and possessive adjectives.</text>
+<text top="977" left="162" width="635" height="18" font="3">[-Thematic Role Assigner] – System morphemes do not assign thematic roles.</text>
+<text top="1001" left="162" width="642" height="18" font="3">[-Thematic Role Receiver] – System morphemes do not receive thematic roles.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="9" height="16" font="1">4</text>
+<text top="923" left="123" width="6" height="11" font="0">2</text>
+<text top="927" left="129" width="625" height="16" font="1">Actually, it has been argued that pronoun is a functional category in D (Longobardi 1994).</text>
+<text top="961" left="123" width="6" height="11" font="0">3</text>
+<text top="966" left="129" width="681" height="16" font="1">The three levels of abstraction are <i>lexical-conceptual structure</i>, <i>predicate-argument structure</i> and</text>
+<text top="986" left="108" width="327" height="16" font="7"><i>morphological realization patterns</i>. See below.</text>
+<text top="1019" left="123" width="6" height="11" font="0">4</text>
+<text top="1024" left="129" width="680" height="16" font="1">Myers-Scotton (1993: 126) considers two types of pronouns as [-Thematic Role Receiver] and hence</text>
+<text top="1044" left="108" width="567" height="16" font="1">system morphemes: dummy pronouns (such as <i>it </i>and <i>there </i>in English) and clitics.</text>
+<text top="189" left="123" width="688" height="18" font="3">On the other hand, content morphemes are non-quantificational; they assign or receive</text>
+<text top="213" left="108" width="702" height="18" font="3">thematic roles. More concretely, content morphemes cover major word classes such as</text>
+<text top="237" left="108" width="701" height="18" font="3">nouns, verbs, pronouns, most adjectives and prepositions. In Myers-Scotton 1995, some</text>
+<text top="261" left="108" width="701" height="18" font="3">conjunctions (e.g. <i>because</i>) are considered content morphemes as well because they</text>
+<text top="285" left="108" width="702" height="18" font="3">assign thematic roles to clauses at the discourse level (e.g. “<i>because</i>” assigns the role</text>
+<text top="311" left="108" width="58" height="15" font="8">CAUSE </text>
+<text top="309" left="165" width="224" height="18" font="3">to the clause it introduces). </text>
+<text top="332" left="123" width="687" height="18" font="3">In a nutshell, most of the system morphemes are what are assumed to be functional</text>
+<text top="356" left="108" width="702" height="18" font="3">categories-determiners, quantifiers, modal verbs, inflectional affixes and</text>
+<text top="380" left="108" width="702" height="18" font="3">complementizers. Some counter-examples have been attested to the above two principles</text>
+<text top="404" left="108" width="702" height="18" font="3">- In one case, what are classified as EL content morphemes, for example, <i>pronouns</i>, do</text>
+<text top="428" left="108" width="344" height="18" font="3">not always appear in mixed constituents.</text>
+<text top="426" left="452" width="6" height="11" font="0">2</text>
+<text top="428" left="458" width="352" height="18" font="3"> To deal with this particular problem, <i>the</i></text>
+<text top="452" left="108" width="472" height="18" font="2"><i>Matrix Language Blocking hypothesis </i>has been proposed.</text>
+<text top="500" left="108" width="24" height="18" font="3">(4)</text>
+<text top="500" left="162" width="483" height="18" font="6"><b>The ML Blocking hypothesis </b>(Myers-Scotton 1993: 120) </text>
+<text top="524" left="162" width="648" height="18" font="3">“In ML + EL constituents, a blocking filter blocks any EL content morpheme</text>
+<text top="548" left="162" width="648" height="18" font="3">which is not congruent with the ML with respect to three levels of abstraction</text>
+<text top="572" left="162" width="242" height="18" font="3">regarding subcategorization.”</text>
+<text top="570" left="403" width="6" height="11" font="0">3</text>
+<text top="620" left="123" width="686" height="18" font="3">For an EL morpheme (say, a pronoun) to appear in a mixed constituent, it is not</text>
+<text top="644" left="108" width="701" height="18" font="3">sufficient that the EL pronoun is a content morpheme. According to the ML Blocking</text>
+<text top="668" left="108" width="702" height="18" font="3">hypothesis, the ML counterpart of this EL morpheme (say, the ML pronoun) has to be</text>
+<text top="692" left="108" width="701" height="18" font="3">“congruent”. In other words, the ML pronoun has to be a content morpheme as well. In</text>
+<text top="716" left="108" width="701" height="18" font="3">other words, the ML Blocking hypothesis blocks EL single pronouns (even when these</text>
+<text top="740" left="108" width="679" height="18" font="3">EL pronouns are content morphemes) if the pronouns in ML are system morphemes.</text>
+<text top="737" left="787" width="6" height="11" font="0">4</text>
+<text top="740" left="793" width="17" height="18" font="3"> It</text>
+<text top="764" left="108" width="701" height="18" font="3">is argued that the ML Blocking hypothesis successfully accounts for the absence of EL</text>
+<text top="788" left="108" width="468" height="18" font="3">pronouns in Spanish-English (Myers-Scotton 1993: 128).</text>
+<text top="812" left="123" width="686" height="18" font="3">Myers-Scotton and Jake (1995) elaborate the idea of “congruence”, and state that the</text>
+<text top="836" left="108" width="702" height="18" font="3">EL morpheme must be congruent with its ML counterpart in terms of <i>predication-</i></text>
+<text top="860" left="108" width="702" height="18" font="2"><i>argument structure </i>(i.e. thematic properties), <i>conceptual-lexical structure </i>(i.e. meaning)</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="801" width="9" height="16" font="1">5</text>
+<text top="189" left="108" width="443" height="18" font="3">and<i> morphological realization patterns </i>(word forms)<i>. </i></text>
+<text top="213" left="123" width="687" height="18" font="3">When the EL morpheme is indeed incongruent with its ML counterpart, it may still</text>
+<text top="237" left="108" width="702" height="18" font="3">appear in mixed constituents in either of these formats - <i>bare forms </i>or <i>EL islands - </i>which</text>
+<text top="261" left="108" width="702" height="18" font="3">Jake and Myers-Scotton (1997) call <i>compromise strategies</i>. In bare forms, the EL</text>
+<text top="285" left="108" width="702" height="18" font="3">morpheme appears in mixed constituents without being inflected at all. In EL islands, the</text>
+<text top="309" left="108" width="702" height="18" font="3">EL morpheme triggers off EL morpho-syntactic procedures and ends up with an EL</text>
+<text top="332" left="108" width="702" height="18" font="3">maximal projection. I will call this latest version of the Matrix Language Frame model</text>
+<text top="356" left="108" width="260" height="18" font="2"><i>the Lemma Congruence model</i>.<i> </i></text>
+<text top="380" left="108" width="702" height="18" font="3">To summarize, the Lemma Congruence model predicts that for an EL word to appear in</text>
+<text top="404" left="108" width="701" height="18" font="3">a mixed constituent, it (or its lemma) must be sufficiently “congruent” with its ML</text>
+<text top="428" left="108" width="702" height="18" font="3">equivalent in terms of semantic, syntactic and morphological properties (namely, lexical-</text>
+<text top="452" left="108" width="702" height="18" font="3">conceptual structure, predication-argument structure, and morphological realization</text>
+<text top="476" left="108" width="702" height="18" font="3">patterns). Under this approach, there has to be an additional process which compares the</text>
+<text top="500" left="108" width="702" height="18" font="3">EL morpheme with its ML counterpart for congruence before it is inserted into an ML-</text>
+<text top="524" left="108" width="139" height="18" font="3">framed structure.</text>
+<text top="596" left="108" width="391" height="18" font="6"><b>2.2  The Functional Head Selection approach</b></text>
+<text top="643" left="108" width="702" height="18" font="3">There is another approach which explicates the role of functional categories in code-</text>
+<text top="667" left="108" width="701" height="18" font="3">switching. Based on their data from Tunisian Arabic-French and Spanish-English,</text>
+<text top="691" left="108" width="701" height="18" font="3">Belazi, Rubin and Toribio (1994) observe that code-switching does not take place</text>
+<text top="715" left="108" width="701" height="18" font="3">between functional heads and their complements. These authors seek to explain this</text>
+<text top="739" left="108" width="702" height="18" font="3">observation by resorting to the close grammatical relationship between functional heads</text>
+<text top="763" left="108" width="702" height="18" font="3">and their complements, as pointed out by previous work done on monolingual syntax (in</text>
+<text top="787" left="108" width="702" height="18" font="3">particular, Abney 1987). It is proposed that a functional head not only “f-selects” specific</text>
+<text top="811" left="108" width="701" height="18" font="3">complements with particular syntactic properties (such as phrasal category, etc.), it also</text>
+<text top="835" left="108" width="702" height="18" font="3">“f-selects” a complement which is in the same language. To put it formally, Belazi et al.</text>
+<text top="859" left="108" width="701" height="18" font="3">(1994) posit that a functional head carries a language feature which specifies its language</text>
+<text top="883" left="108" width="39" height="18" font="3">(e.g. </text>
+<text top="885" left="147" width="70" height="15" font="8">SPANISH </text>
+<text top="883" left="217" width="20" height="18" font="3">or </text>
+<text top="885" left="237" width="68" height="15" font="8">ENGLISH</text>
+<text top="883" left="305" width="505" height="18" font="3">). This language feature has to be matched by the same language</text>
+<text top="906" left="108" width="702" height="18" font="3">feature carried by the complement. This whole idea is captured by <i>the Functional Head</i></text>
+<text top="930" left="108" width="88" height="18" font="2"><i>constraint</i>.</text>
+<text top="979" left="108" width="24" height="18" font="3">(5)</text>
+<text top="979" left="162" width="480" height="18" font="6"><b>The Functional Head constraint </b>(Belazi et al. 1994: 228)</text>
+<text top="1003" left="162" width="648" height="18" font="3">“The language feature of the complement f-selected by a functional head, like all</text>
+<text top="1027" left="162" width="648" height="18" font="3">other relevant features, must match the corresponding feature of the functional</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="20" family="GBMLIG+MSTT31c89000" color="#000000"/>
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="9" height="16" font="1">6</text>
+<text top="189" left="162" width="53" height="18" font="3">head.”</text>
+<text top="237" left="108" width="702" height="18" font="3">Five functional heads are identified, with each one taking a different kind of</text>
+<text top="261" left="108" width="117" height="18" font="3">complement. </text>
+<text top="309" left="108" width="24" height="18" font="3">(6)</text>
+<text top="309" left="162" width="597" height="18" font="6"><b>Functional Heads and their complements </b>(Belazi et al. 1994: 228-230)</text>
+<text top="333" left="162" width="255" height="18" font="3">Complementizer (i.e. C) and IP</text>
+<text top="357" left="162" width="200" height="18" font="3">Inflection (i.e. I) and VP</text>
+<text top="381" left="162" width="222" height="18" font="3">Determiner (i.e. D) and NP</text>
+<text top="405" left="162" width="212" height="18" font="3">Quantifier (i.e. Q) and NP</text>
+<text top="429" left="162" width="231" height="18" font="3">Negation (i.e. NEG) and VP</text>
+<text top="476" left="123" width="688" height="18" font="3">Despite some support from spontaneous speech and judgment data, the Functional</text>
+<text top="500" left="108" width="703" height="18" font="3">Head constraint has been challenged by data in other language pairs. Mahootian and</text>
+<text top="524" left="108" width="703" height="18" font="3">Santorini (1996), in particular, point out a number of counter-examples to the Functional</text>
+<text top="548" left="108" width="138" height="18" font="3">Head constraint. </text>
+<text top="596" left="108" width="24" height="18" font="3">(7)</text>
+<text top="596" left="162" width="231" height="18" font="2"><i>Switching between C and IP</i></text>
+<text top="620" left="162" width="152" height="18" font="3">I seen everything [</text>
+<text top="630" left="314" width="11" height="11" font="0">C </text>
+<text top="620" left="325" width="80" height="18" font="3">’cause]   [</text>
+<text top="630" left="406" width="14" height="11" font="0">IP </text>
+<text top="620" left="420" width="93" height="18" font="2"><i>no cogi na</i>]</text>
+<text top="644" left="162" width="387" height="18" font="3">I saw everything  because      not I took nothing</text>
+<text top="668" left="162" width="410" height="18" font="3">“I saw everything because I didn’t take anything.”</text>
+<text top="692" left="162" width="648" height="18" font="3">(English-<i>Spanish</i>, Sankoff and Poplack 1981: 6, as quoted in Mahootian and</text>
+<text top="716" left="162" width="174" height="18" font="3">Santorini  1996: 465)</text>
+<text top="764" left="108" width="24" height="18" font="3">(8)</text>
+<text top="764" left="162" width="233" height="18" font="3">Switching between I and VP</text>
+<text top="788" left="162" width="121" height="18" font="3">No parce que [</text>
+<text top="797" left="282" width="7" height="11" font="0">I </text>
+<text top="788" left="290" width="70" height="18" font="2"><i>hanno</i>]<i> </i>[</text>
+<text top="797" left="359" width="19" height="11" font="0">VP </text>
+<text top="788" left="378" width="158" height="18" font="3">donné des     cours]</text>
+<text top="812" left="162" width="389" height="18" font="3">No because       have          given  of the lectures</text>
+<text top="836" left="108" width="335" height="18" font="3">         “No, because they gave lectures.”</text>
+<text top="860" left="162" width="648" height="18" font="3">(Italian-<i>French</i>, Di Sciullo, Muysken and Singh 1986:15, as quoted in Mahootian</text>
+<text top="883" left="162" width="213" height="18" font="3">and Santorini 1996: 466)  </text>
+<text top="931" left="108" width="24" height="18" font="3">(9)</text>
+<text top="931" left="162" width="239" height="18" font="2"><i>Switching between D and NP</i></text>
+<text top="955" left="162" width="226" height="18" font="3">E                                wo    [</text>
+<text top="965" left="388" width="19" height="11" font="0">NP </text>
+<text top="955" left="407" width="113" height="18" font="2"><i>green dress</i>]<i> </i>[</text>
+<text top="965" left="519" width="9" height="11" font="0">D</text>
+<text top="955" left="528" width="27" height="18" font="3">ko]</text>
+<text top="979" left="123" width="5" height="18" font="3"> </text>
+<text top="979" left="162" width="389" height="18" font="3">He/she PAST TONE wear green dress       ART</text>
+<text top="1003" left="162" width="211" height="18" font="3">“She wore a green dress.”</text>
+<text top="1027" left="162" width="40" height="18" font="3">(Ada</text>
+<text top="1022" left="203" width="10" height="26" font="9">×</text>
+<text top="1027" left="213" width="597" height="18" font="3">me-<i>English</i>, Nartey 1982: 187, as quoted in Mahootian and Santorini 1996:</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="801" width="9" height="16" font="1">7</text>
+<text top="999" left="123" width="6" height="11" font="0">5</text>
+<text top="1004" left="129" width="681" height="16" font="1">Halmari (1997: 54) included a statistical account of her data, but she did not give statistics on how</text>
+<text top="1024" left="108" width="702" height="16" font="1">much data are instances in which code-switching takes place within phrases - the instances which violate</text>
+<text top="1044" left="108" width="218" height="16" font="1">the Functional Head constraint.</text>
+<text top="189" left="162" width="38" height="18" font="3">471)</text>
+<text top="237" left="108" width="34" height="18" font="3">(10)</text>
+<text top="237" left="162" width="239" height="18" font="2"><i>Switching between Q and NP</i></text>
+<text top="261" left="162" width="76" height="18" font="3">I’ll take [</text>
+<text top="270" left="237" width="12" height="11" font="0">Q </text>
+<text top="261" left="249" width="61" height="18" font="3">some] [</text>
+<text top="270" left="311" width="19" height="11" font="0">NP </text>
+<text top="261" left="329" width="79" height="18" font="2"><i>naemaek</i>]</text>
+<text top="285" left="162" width="145" height="18" font="3">I’ll take some salt</text>
+<text top="309" left="162" width="168" height="18" font="3">“I’ll take some salt.”</text>
+<text top="332" left="162" width="427" height="18" font="3">(English-<i>Farsi</i>, Mahootian and Santorini 1996: 466)</text>
+<text top="380" left="108" width="702" height="18" font="3">Mahootian and Santorini (1996) do not give any instances of code-switching between</text>
+<text top="404" left="108" width="704" height="18" font="3">NEG and the following VP. Nonetheless, such examples can be found in Cantonese-</text>
+<text top="428" left="108" width="67" height="18" font="3">English.</text>
+<text top="476" left="108" width="34" height="18" font="3">(11)</text>
+<text top="476" left="162" width="263" height="18" font="2"><i>Switching between NEG and VP</i></text>
+<text top="500" left="162" width="323" height="18" font="3">nei5 zau6  wui5 gok3 dak1 keoi5 dei6 [</text>
+<text top="510" left="485" width="28" height="11" font="0">NEG </text>
+<text top="500" left="513" width="65" height="18" font="3">mou5] [</text>
+<text top="510" left="578" width="19" height="11" font="0">VP </text>
+<text top="500" left="597" width="126" height="18" font="2"><i>make progress</i>]</text>
+<text top="524" left="162" width="548" height="18" font="3">you  LNK will   feel   ASP he/she PL          not          make progress</text>
+<text top="548" left="162" width="417" height="18" font="3">“You’ll then feel that they haven’t made progress.”</text>
+<text top="572" left="162" width="267" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)</text>
+<text top="620" left="108" width="704" height="18" font="3">In addition to these data, there are some very well-documented corpuses in which code-</text>
+<text top="644" left="108" width="702" height="18" font="3">switching consistently takes place between functional heads and their complements. For</text>
+<text top="668" left="108" width="701" height="18" font="3">instance, in Halmari’s (1997) corpus of Finnish-English, the majority of code-switching</text>
+<text top="692" left="108" width="702" height="18" font="3">instances cited take place between functional heads and their complements (Halmari</text>
+<text top="716" left="108" width="84" height="18" font="3">1997: 93).</text>
+<text top="713" left="192" width="6" height="11" font="0">5</text>
+<text top="716" left="198" width="5" height="18" font="3"> </text>
+<text top="739" left="123" width="687" height="18" font="3">In brief, the validity of the Functional Head constraint as a universal is seriously in</text>
+<text top="763" left="108" width="702" height="18" font="3">doubt in view of the counter-examples. Notice that these counter-examples come from</text>
+<text top="787" left="108" width="701" height="18" font="3">a lot of language-pairs, far more than the ones which Belazi et al. (1994) observed in</text>
+<text top="811" left="108" width="702" height="18" font="3">formulating the Functional Head constraint. Furthermore, there exists data in which</text>
+<text top="835" left="108" width="702" height="18" font="3">code-switching consistently takes place between functional heads and their complements</text>
+<text top="859" left="108" width="702" height="18" font="3">(e.g. Finnish-English - Halmari 1997). Worse still, Halmari (1997: 94) reported that the</text>
+<text top="883" left="108" width="702" height="18" font="3">Spanish-English bilinguals she consulted disagreed with the judgments in Belazi et al.</text>
+<text top="907" left="108" width="702" height="18" font="3">(1994) and accepted code-switched sentences in which the Spanish complementizer</text>
+<text top="931" left="108" width="702" height="18" font="3">“<i>que</i>” takes an English clause as complement, violating the Functional Head constraint.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="9" height="16" font="1">8</text>
+<text top="189" left="108" width="702" height="18" font="3">The Functional Head constraint is at best descriptively adequate in the data Belazi et al.</text>
+<text top="213" left="108" width="168" height="18" font="3">(1994) investigated. </text>
+<text top="237" left="123" width="687" height="18" font="3">I conclude that the Functional Head constraint is not empirically adequate and does not</text>
+<text top="261" left="108" width="702" height="18" font="3">hold as a universal constraint on code-switching. Yet, this constraint brings out an</text>
+<text top="285" left="108" width="702" height="18" font="3">interesting question regarding cases in which code-switching does occur between</text>
+<text top="309" left="108" width="366" height="18" font="3">functional categories and their complements:</text>
+<text top="356" left="108" width="34" height="18" font="3">(12)</text>
+<text top="356" left="162" width="648" height="18" font="2"><i>Do the grammatical relations between functional categories and their</i></text>
+<text top="380" left="162" width="498" height="18" font="2"><i>complements hold across elements from different</i> <i>languages</i>?</text>
+<text top="428" left="108" width="702" height="18" font="3">A quick review shows that the <i>c-selection </i>requirements of functional categories do</text>
+<text top="452" left="108" width="702" height="18" font="3">indeed hold across their complements, even though these complements come from</text>
+<text top="476" left="108" width="702" height="18" font="3">another language. In the above counter-examples to the Functional Head constraint, the</text>
+<text top="500" left="108" width="702" height="18" font="3">complements are of the right syntactic or phrasal categories their functional head selects.</text>
+<text top="524" left="108" width="702" height="18" font="3">Stronger evidence can be found in Morocaan Arabic-French code-switching (Bentahila</text>
+<text top="548" left="108" width="702" height="18" font="3">and Davis 1983).  For instance, the Arabic complementizer <i>/baš/</i> selects finite clauses as</text>
+<text top="572" left="108" width="702" height="18" font="3">complements. This requirement also holds in the following example where <i>/baš/</i> takes</text>
+<text top="596" left="108" width="184" height="18" font="3">a French finite clause. </text>
+<text top="644" left="108" width="34" height="18" font="3">(13)</text>
+<text top="644" left="162" width="261" height="18" font="3">je peux le dire <i>had</i> le truc <i>hada</i>[</text>
+<text top="653" left="423" width="8" height="11" font="0">C</text>
+<text top="644" left="431" width="52" height="18" font="2"><i> baš</i>] [</text>
+<text top="653" left="483" width="11" height="11" font="0">IP</text>
+<text top="644" left="494" width="220" height="18" font="2"><i> </i>je commence à apprendre]</text>
+<text top="668" left="162" width="466" height="18" font="3">“I can say it this thing here in order that I start to learn.”  </text>
+<text top="692" left="162" width="538" height="18" font="3">(French-<i>Moroccan Arabic</i>, Bentahila and Davis 1983: 323, (101))</text>
+<text top="739" left="108" width="702" height="18" font="3">Hypothetical examples where <i>/baš/</i> takes non-finite clauses in French are rejected and</text>
+<text top="763" left="108" width="702" height="18" font="3">corrected so that the non-finite clause is replaced by a finite one (Bentahila and Davis</text>
+<text top="787" left="108" width="702" height="18" font="3">1983: 323). To sum up so far, intra-sentential code-switching can take place between a</text>
+<text top="811" left="108" width="702" height="18" font="3">functional head and its complement. The only constraint is that a switched element has</text>
+<text top="835" left="108" width="701" height="18" font="3">to observe the c-selection requirement of the functional head. Let’s state this observation</text>
+<text top="859" left="108" width="217" height="18" font="3">in the form of a constraint.</text>
+<text top="907" left="108" width="34" height="18" font="3">(14)</text>
+<text top="907" left="162" width="361" height="18" font="6"><b>The Functional Head Selection constraint</b></text>
+<text top="931" left="162" width="649" height="18" font="3">“When code-switching takes place between a functional head and its</text>
+<text top="955" left="162" width="648" height="18" font="3">complements, the c-selection requirements that functional heads impose on their</text>
+<text top="979" left="162" width="364" height="18" font="3">complements still hold cross-linguistically.” </text>
+<text top="1027" left="108" width="702" height="18" font="3">In fact, the Functional Head Selection constraint is not only superior to the Functional</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="801" width="9" height="16" font="1">9</text>
+<text top="918" left="123" width="6" height="11" font="0">6</text>
+<text top="922" left="129" width="680" height="16" font="1">Notice that the Functional Head Selection constraint does not exclude the data in Belazi et al. (1994),</text>
+<text top="943" left="108" width="702" height="16" font="1">in which there is no code-switching between functional heads and complements; it simply says nothing</text>
+<text top="963" left="108" width="702" height="16" font="1">about it. Also, notice that the Functional Head Selection constraint is different from <i>the</i></text>
+<text top="983" left="108" width="702" height="16" font="7"><i>Subcategorization constraint </i>(Bentahila and Davis 1983), which rules that code-switching may take</text>
+<text top="1004" left="108" width="702" height="16" font="1">place provided that the language-specific subcategorization/selection requirements of all categories</text>
+<text top="1024" left="108" width="702" height="16" font="1">(lexical and functional alike) are satisfied. In Chan (to appear), I will show that the latter may not be</text>
+<text top="1044" left="108" width="53" height="16" font="1">correct.</text>
+<text top="189" left="108" width="459" height="18" font="3">Head constraint (Belazi et al. 1994) on empirical grounds.</text>
+<text top="186" left="568" width="6" height="11" font="0">6</text>
+<text top="189" left="574" width="236" height="18" font="3"> Theoretically, the Functional</text>
+<text top="213" left="108" width="702" height="18" font="3">Head Selection constraint also gets rid of the ad hoc stipulation of “language feature” in</text>
+<text top="237" left="108" width="702" height="18" font="3">the Functional Head constraint (a point raised in MacSwan 1997: 63). On the other hand,</text>
+<text top="261" left="108" width="702" height="18" font="3">it can be said that the Functional Head Selection constraint is not a genuine constraint on</text>
+<text top="285" left="108" width="702" height="18" font="3">code-switching per se, but it falls out from a central principle of grammar - Functional</text>
+<text top="309" left="108" width="702" height="18" font="3">heads c-selects the right complements, no matter in a monolingual or a code-switching</text>
+<text top="332" left="108" width="702" height="18" font="3">context. In Chan (to appear), I will argue that there are no specific constraints on code-</text>
+<text top="356" left="108" width="701" height="18" font="3">switching; the same grammar generates both monolingual and code-switching sentences</text>
+<text top="380" left="108" width="538" height="18" font="3">alike, along the lines of Mahootian (1993) and MacSwan (1997).  </text>
+<text top="404" left="123" width="687" height="18" font="3">In any case, under the present approach, a functional head “f-selects” its lexical</text>
+<text top="428" left="108" width="700" height="18" font="3">complement (i.e. a morpheme/chunk of morphemes) from another language, by entering</text>
+<text top="452" left="108" width="702" height="18" font="3">into a configuration with this complement. The two parts are joined directly by some</text>
+<text top="476" left="108" width="702" height="18" font="3">general syntactic rule (say, <i>Merge </i>in the Minimalist framework) - the only requirement</text>
+<text top="500" left="108" width="701" height="18" font="3">being that the c-selection requirements of a functional head are fully satisfied.  There is</text>
+<text top="524" left="108" width="702" height="18" font="3">no filter of the sort found in the Lemma Congruence model, where EL morphemes are</text>
+<text top="548" left="108" width="702" height="18" font="3">compared with their ML counterparts. Nor are there further mechanisms which lead to</text>
+<text top="572" left="108" width="535" height="18" font="3">the compromise strategies when an EL lemma is “not congruent”.</text>
+<text top="644" left="108" width="464" height="18" font="6"><b>3 A brief survey of Cantonese-English code-switching</b></text>
+<text top="691" left="108" width="702" height="18" font="3">In what follows, I will test the applicability of the Lemma Congruence model and the</text>
+<text top="715" left="108" width="702" height="18" font="3">Functional Head Selection constraint with special reference to code-switching data from</text>
+<text top="739" left="108" width="702" height="18" font="3">Cantonese-English code-switching. Cantonese is grammatically very different from</text>
+<text top="763" left="108" width="701" height="18" font="3">English. Highlighted below are some of these differences with reference to the major</text>
+<text top="787" left="108" width="192" height="18" font="3">categories (N, V, A, P).</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">10</text>
+<text top="189" left="108" width="34" height="18" font="3">(15)</text>
+<text top="189" left="162" width="600" height="18" font="6"><b>A brief comparison of the major categories in Cantonese and English</b></text>
+<text top="213" left="162" width="648" height="18" font="3">a. <i>Nouns - </i>English nouns are inflected for number but Cantonese nouns are not.</text>
+<text top="237" left="162" width="647" height="18" font="3">b. <i>Verbs -</i> English verbs are inflected for tense, agreement and aspect, but</text>
+<text top="261" left="187" width="364" height="18" font="3">Cantonese verbs are just inflected for aspect.</text>
+<text top="285" left="162" width="648" height="18" font="3">c. <i>Adjectives </i>- English adjectives may be derived forms with suffixes, and there</text>
+<text top="309" left="187" width="623" height="18" font="3">is a distinction between a present participle (e.g.<i>  interesting</i>) and a past</text>
+<text top="333" left="187" width="623" height="18" font="3">participle (e.g. <i>interested</i>). Cantonese adjectives are not derived and thus do</text>
+<text top="357" left="187" width="547" height="18" font="3">not have a contrast between present participles and past participles.</text>
+<text top="381" left="162" width="648" height="18" font="3">d. <i>Prepositions </i>- Many of the core prepositions in English (e.g. <i>in, out, before,</i></text>
+<text top="405" left="187" width="623" height="18" font="2"><i>after</i>) are encoded in <i>localizers </i>(Matthews and Yip 1994) which appear after</text>
+<text top="429" left="187" width="602" height="18" font="3">the DP complement. These localizers are arguably nouns or postpositions.</text>
+<text top="453" left="108" width="10" height="18" font="3">  </text>
+<text top="476" left="108" width="702" height="18" font="3">Therefore, it seems that the lemmas of the Cantonese major categories are sufficiently</text>
+<text top="500" left="108" width="702" height="18" font="3">dissimilar from the equivalents of English so that Cantonese-English seems a good</text>
+<text top="524" left="108" width="702" height="18" font="3">testing ground for the Lemma Congruence model. Before going into the analysis, let me</text>
+<text top="548" left="108" width="640" height="18" font="3">give a general picture of Cantonese-English and the data I am going to exploit.</text>
+<text top="572" left="123" width="686" height="18" font="3">Code-switching has been a common feature in the speech of Cantonese-English</text>
+<text top="596" left="108" width="702" height="18" font="3">bilinguals in Hong Kong. These bilinguals mostly speak Cantonese as their first</text>
+<text top="620" left="108" width="702" height="18" font="3">language. Gibbons (1987) elicits data from students in the University of Hong Kong.</text>
+<text top="644" left="108" width="703" height="18" font="3">Leung (1988) investigates data from elder professionals. Chan (1992) examines data</text>
+<text top="668" left="108" width="703" height="18" font="3">from university students and elder professionals most of whom have studied abroad, and</text>
+<text top="692" left="108" width="702" height="18" font="3">data from radio phone-in programmes. Li (1996) focuses on written data of Cantonese-</text>
+<text top="716" left="108" width="702" height="18" font="3">English by adult columnists. Pennington, Chan and Lau (1996) consists of data from the</text>
+<text top="740" left="108" width="703" height="18" font="3">widest spectrum of speakers ever recorded for this variety of code-switching – the data</text>
+<text top="764" left="108" width="701" height="18" font="3">come from seven disc-jockeys of various backgrounds, various guests and phone-in</text>
+<text top="788" left="108" width="702" height="18" font="3">audiences. Of course, it is expected that variations may be found among different groups</text>
+<text top="812" left="108" width="701" height="18" font="3">of bilingual speakers. In this paper, however, I would like to focus on the general</text>
+<text top="836" left="108" width="701" height="18" font="3">syntactic patterns of Cantonese-English code-switching as spoken in Hong Kong.</text>
+<text top="860" left="108" width="702" height="18" font="3">Therefore, I will consider all the corpora I have access to, instead of singling out a</text>
+<text top="883" left="108" width="384" height="18" font="3">particular one corpus or one group of speakers.</text>
+<text top="907" left="123" width="686" height="18" font="3">In the following sections, I will discuss code-switching data which involve English</text>
+<text top="931" left="108" width="703" height="18" font="3">verb/verb phrases (section 4), English noun/noun phrases (section 5), English adjectives</text>
+<text top="955" left="108" width="702" height="18" font="3">(section 7) and English prepositions (section 8). Section 6 provides an account of the</text>
+<text top="979" left="108" width="703" height="18" font="3">asymmetric behaviour between English noun/noun phrases and English verb/verb</text>
+<text top="1003" left="108" width="702" height="18" font="3">phrases in Cantonese-English. I will analyze the data and compare the two approaches -</text>
+<text top="1027" left="108" width="622" height="18" font="3">the Lemma Congruence model and the Functional Head Selection approach.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="20" family="Times" color="#000000"/>
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">11</text>
+<text top="920" left="123" width="6" height="11" font="0">7</text>
+<text top="925" left="129" width="681" height="16" font="1">The transcriptions of Cantonese here follow the scheme of the Linguistic Society of Hong Kong</text>
+<text top="945" left="108" width="702" height="16" font="1">(1993). The following are the symbols of the glosses: PL - plural, ASP - aspect, EMP - emphatic, PRT -</text>
+<text top="966" left="108" width="702" height="16" font="1">particle, CL - classifier, NUM - numeral, DEM - demonstrative, COMP - complementizer, COV -</text>
+<text top="986" left="108" width="701" height="16" font="1">coverb, P - preposition/postposition, LNK - linking particle. The numbers denote the distinctive tones</text>
+<text top="1006" left="108" width="102" height="16" font="1">of the syllable.</text>
+<text top="1040" left="123" width="6" height="11" font="0">8</text>
+<text top="1044" left="129" width="564" height="16" font="1">See Matthews and Yip (1994: 206-207) for the difference between <i>zo2 </i>and <i>gwo3</i>.</text>
+<text top="189" left="108" width="574" height="18" font="6"><b>4 English verbs/verb phrases in Cantonese-English code-switching</b></text>
+<text top="236" left="108" width="702" height="18" font="3">One salient pattern which emerges from Cantonese-English data is that the English verbs</text>
+<text top="260" left="108" width="701" height="18" font="3">are in most cases the infinitive or root forms, even though the linguistic context or</text>
+<text top="284" left="108" width="702" height="18" font="3">discourse context would require inflected forms according to the grammar of English.</text>
+<text top="308" left="108" width="702" height="18" font="3">One such context involves a single English verb modified by the Cantonese <i>perfective</i></text>
+<text top="332" left="108" width="702" height="18" font="3">aspect marker “<i>zo2</i>”. This aspect marker signals an event which is “seen as a whole or</text>
+<text top="356" left="108" width="702" height="18" font="3">as completed” (Matthews and Yip 1994: 204). Similar meaning is expressed by either</text>
+<text top="380" left="108" width="702" height="18" font="3">the past tense or the present perfect tense in English. In code-switching, however, the</text>
+<text top="404" left="108" width="378" height="18" font="3">English verbs remain in their infinitive forms. </text>
+<text top="452" left="108" width="34" height="18" font="3">(16)</text>
+<text top="452" left="162" width="394" height="18" font="3">nei5 dei6 kei4 sat6 <i><b>exclude </b></i><b>zo2  </b>hou2 do1   jan4</text>
+<text top="450" left="556" width="6" height="11" font="0">7</text>
+<text top="476" left="162" width="418" height="18" font="3">you  PL   in fact     exclude ASP EMP many people</text>
+<text top="500" left="162" width="346" height="18" font="3">“You have in fact excluded many people.”</text>
+<text top="524" left="162" width="272" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992) </text>
+<text top="572" left="108" width="702" height="18" font="3">Another aspect marker which refers to past events is “<i>gwo3</i>”, the <i>experiential </i>marker.</text>
+<text top="596" left="108" width="702" height="18" font="3">This marker indicates events which have happened “at least once before” (Matthews and</text>
+<text top="620" left="108" width="120" height="18" font="3">Yip 1994:206)</text>
+<text top="617" left="228" width="6" height="11" font="0">8</text>
+<text top="620" left="234" width="576" height="18" font="3">.  Similar meaning is expressed by the present perfect tense in English.</text>
+<text top="644" left="108" width="702" height="18" font="3">Nonetheless, the English verbs remain uninflected but are followed by the Cantonese</text>
+<text top="668" left="108" width="277" height="18" font="3">aspect markers in code-switching.</text>
+<text top="716" left="108" width="34" height="18" font="3">(17)</text>
+<text top="716" left="162" width="393" height="18" font="3">cyun4 bou6 din4 waa2 dou1 mou5 <i><b>screen </b></i><b>gwo3</b></text>
+<text top="740" left="162" width="377" height="18" font="3">all       part   telephone  all     no     screen ASP</text>
+<text top="764" left="162" width="414" height="18" font="3">“All the telephone (calls) have not been screened.”</text>
+<text top="788" left="162" width="441" height="18" font="3">(Cantonese-<i>English</i>, Pennington, Chan and Lau 1996)</text>
+<text top="836" left="108" width="701" height="18" font="3">The <i>continuous</i> aspect is expressed by <i>jyu6</i> in Cantonese, which “describes a continuous</text>
+<text top="860" left="108" width="702" height="18" font="3">activity or state without change” (Matthews and Yip 1994: 206). Similar meaning is</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">12</text>
+<text top="189" left="108" width="702" height="18" font="3">expressed by the continuous or progressive aspect - V + <i>ing</i> - in English. In code-</text>
+<text top="213" left="108" width="702" height="18" font="3">switching, the English verb is uninflected but followed by the Cantonese continuous</text>
+<text top="237" left="108" width="174" height="18" font="3">aspect marker,  <i>jyu6</i>. </text>
+<text top="285" left="108" width="34" height="18" font="3">(18)</text>
+<text top="285" left="162" width="223" height="18" font="3">nei5 <i><b>hold  </b></i><b>jyu6 </b>laa1 maa3?</text>
+<text top="309" left="162" width="204" height="18" font="3">you hold  ASP PRT PRT</text>
+<text top="333" left="162" width="240" height="18" font="3">“Are you holding (the line)?”</text>
+<text top="357" left="162" width="441" height="18" font="3">(Cantonese-<i>English</i>, Pennington, Chan and Lau 1996)</text>
+<text top="405" left="108" width="702" height="18" font="3">Apart from the perfective and experiential aspect markers, past events in Cantonese are</text>
+<text top="429" left="108" width="702" height="18" font="3">also expressed by time adverbials. With Cantonese adverbials referring to past time, the</text>
+<text top="453" left="108" width="347" height="18" font="3">English verbs remain in its infinitive form.</text>
+<text top="501" left="108" width="34" height="18" font="3">(19)</text>
+<text top="501" left="162" width="325" height="18" font="3">keoi5 waa6 <b>ji5 ging1 <i>make</b> up his mind</i></text>
+<text top="525" left="108" width="5" height="18" font="3"> </text>
+<text top="525" left="162" width="328" height="18" font="3">s/he    PL     already    make up his mind</text>
+<text top="549" left="162" width="346" height="18" font="3">“He says (he) already made up his mind.” </text>
+<text top="573" left="162" width="355" height="18" font="3">(Cantonese-<i>English</i>, Leung 1988: 32, 6(a)) </text>
+<text top="621" left="108" width="34" height="18" font="3">(20)</text>
+<text top="621" left="162" width="357" height="18" font="3">jan1 wai6 ngo3 <b>saam1 nin4  cin4   <i>retire</i></b>…</text>
+<text top="645" left="162" width="340" height="18" font="3">because   I        three   years before retire  </text>
+<text top="669" left="162" width="309" height="18" font="3">“Because I retired three years ago… “</text>
+<text top="693" left="162" width="267" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)</text>
+<text top="741" left="108" width="704" height="18" font="3">In some cases linguistic cues are not available. It is just the discourse context which</text>
+<text top="764" left="108" width="704" height="18" font="3">indicates that the speakers are talking about past events. According to English grammar,</text>
+<text top="788" left="108" width="702" height="18" font="3">the past tense is commonly used in such contexts. In the code-switching example below,</text>
+<text top="812" left="108" width="702" height="18" font="3">the speaker was recounting past events, but the English verb remains in the infinitive</text>
+<text top="836" left="108" width="44" height="18" font="3">form.</text>
+<text top="884" left="108" width="34" height="18" font="3">(21)</text>
+<text top="884" left="162" width="427" height="18" font="3">nei5 jau5 mou5 <i><b>make </b>an effort organize </i>keoi5 sin1?</text>
+<text top="908" left="162" width="417" height="18" font="3">you YES/NO   make an effort  organize  it       PRT</text>
+<text top="932" left="162" width="359" height="18" font="3">“Have you made an effort in organizing it?”</text>
+<text top="956" left="162" width="267" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)</text>
+<text top="1004" left="108" width="704" height="18" font="3">Another context where English verbs are inflected is the description of present/ habitual</text>
+<text top="1028" left="108" width="702" height="18" font="3">events for third person singular subjects - According to the grammar of English the</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">13</text>
+<text top="918" left="123" width="6" height="11" font="0">9</text>
+<text top="922" left="129" width="681" height="16" font="1">Myers-Scotton’s (1993, 1995) definition of the <i>matrix language/ML </i>and the <i>embedded language/EL</i></text>
+<text top="943" left="108" width="702" height="16" font="1">has already been criticized by Bentahila (1995) and Muysken and de Rooij (1995). While I fully share</text>
+<text top="963" left="108" width="702" height="16" font="1">the latter authors’ reservations about defining ML in quantitative or discourse terms, I just  <i>assume </i>the</text>
+<text top="983" left="108" width="702" height="16" font="1">ML/EL dichotomy for the current discussion of the Lemma Congruence model. In most of the data I</text>
+<text top="1004" left="108" width="702" height="16" font="1">quote, it appears that Cantonese is always the ML (in terms of <i>the Morpheme Order principle </i>and <i>the</i></text>
+<text top="1024" left="108" width="702" height="16" font="7"><i>System Morpheme principle</i>). This does not imply that I endorse the Matrix Language Frame model or</text>
+<text top="1044" left="108" width="218" height="16" font="1">the Lemma Congruence model.</text>
+<text top="189" left="108" width="702" height="18" font="3">present tense would be warranted. In Cantonese-English code-switching, the English</text>
+<text top="213" left="108" width="306" height="18" font="3">verbs remain in their infinitive forms.</text>
+<text top="261" left="108" width="34" height="18" font="3">(22)</text>
+<text top="261" left="162" width="421" height="18" font="6"><b>go3 <i>goal</i></b><b> <i>guide  </i></b>ngo5 dei6 di1 <i>nurse </i>heoi3 zou6 je5</text>
+<text top="285" left="162" width="434" height="18" font="3">CL goal  guide    I      PL  CL  nurse go     do    things</text>
+<text top="309" left="162" width="410" height="18" font="3">“The goal guides us nurses on how to do our job.”</text>
+<text top="333" left="162" width="267" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)</text>
+<text top="381" left="108" width="34" height="18" font="3">(23)</text>
+<text top="381" left="162" width="550" height="18" font="3">cyun4 kaau3    <b>keoi5</b> jat1 ci3  <i><b>print</b></i> sap6 fan6 bat3  fan6 cing2 syu1</text>
+<text top="405" left="162" width="544" height="18" font="3">all      depend   it       one time print ten   CL  eight  CL   love  letter</text>
+<text top="429" left="162" width="648" height="18" font="3">“It all depends on it (refer to a computer printer) which prints out ten or eight love</text>
+<text top="453" left="162" width="159" height="18" font="3">letters at one time.”</text>
+<text top="477" left="162" width="601" height="18" font="3">(A cartoon bubble - a guy was busy printing out love letters on computer)</text>
+<text top="501" left="162" width="283" height="18" font="3">(Cantonese-<i>English, </i>Li 1996: 196)</text>
+<text top="525" left="108" width="5" height="18" font="3"> </text>
+<text top="549" left="108" width="702" height="18" font="3">A very convenient explanation of this fact would be that English verbs are somehow</text>
+<text top="573" left="108" width="702" height="18" font="3">adapted morphologically to Cantonese. They appear in <i>forms </i>and <i>positions</i> which are</text>
+<text top="597" left="108" width="702" height="18" font="3">similar to Cantonese verbs in Cantonese (Chan 1992).  Indeed, this is an explanation in</text>
+<text top="620" left="108" width="702" height="18" font="3">the spirit of the Lemma Congruence model approach too: An EL item appears in a mixed</text>
+<text top="644" left="108" width="702" height="18" font="3">constituent by establishing some sort of congruence with its ML counterpart in terms of</text>
+<text top="668" left="108" width="701" height="18" font="3">morphological-syntactic properties. Since the English verb with inflections (supposedly</text>
+<text top="692" left="108" width="261" height="18" font="3">the EL morphemes in our case</text>
+<text top="690" left="369" width="6" height="11" font="0">9</text>
+<text top="692" left="376" width="435" height="18" font="3">) is not congruent with the Cantonese verb without</text>
+<text top="716" left="108" width="704" height="18" font="3">inflection for tense/agreement (supposedly the ML morphemes in our case) compromise</text>
+<text top="740" left="108" width="702" height="18" font="3">strategies of some sort have to be taken - the English verb may appear as a <i>bare form</i>,</text>
+<text top="764" left="108" width="701" height="18" font="3">with its distinct morphological-syntactic properties stripped away. In the above cases,</text>
+<text top="788" left="108" width="701" height="18" font="3">the grammatical markers of English verbs - tense and agreement - are all removed so as</text>
+<text top="812" left="108" width="702" height="18" font="3">to be congruent with their ML equivalents - i.e. the Cantonese verbs - and to appear in</text>
+<text top="836" left="108" width="134" height="18" font="3">code-switching. </text>
+<text top="860" left="123" width="686" height="18" font="3">The Lemma Congruence model is not without problems here. Given the</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="10" family="Times" color="#000000"/>
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">14</text>
+<text top="880" left="123" width="12" height="11" font="0">10</text>
+<text top="884" left="136" width="674" height="16" font="1">In Grimshaw’s theory (1991), INFL selects VP by  virtue of forming an <i>extended projection </i>with</text>
+<text top="905" left="108" width="702" height="16" font="1">VP-  INFL and VP share the categorial features of [+V, -N], with INFL being a functional head (bearing</text>
+<text top="925" left="108" width="181" height="16" font="1">the functional feature of F</text>
+<text top="933" left="288" width="5" height="9" font="11">1</text>
+<text top="925" left="294" width="486" height="16" font="1">) but VP being a lexical projection (bearing the functional feature of F</text>
+<text top="933" left="779" width="5" height="9" font="11">0</text>
+<text top="925" left="784" width="10" height="16" font="1">).</text>
+<text top="958" left="123" width="12" height="11" font="0">11</text>
+<text top="963" left="136" width="674" height="16" font="1">Problems arise as to how the aspect marker gets affixed to verbs. Cheng (1991) assumes an operation</text>
+<text top="983" left="108" width="701" height="16" font="1">of aspect lowering, yet a lowering analysis would deviate from standard assumption that movements are</text>
+<text top="1004" left="108" width="702" height="16" font="1">leftwards (Kayne 1994). Further research is needed to sort out which analysis is preferable. The problem</text>
+<text top="1024" left="108" width="701" height="16" font="1">here is totally analogous to how tense/ agreement markers gets affixed to the verb in English, where</text>
+<text top="1044" left="108" width="702" height="16" font="1">English verbs are assumed to stay in VP lower than INFL (or AgrS and T - Pollock 1989). In the</text>
+<text top="189" left="108" width="702" height="18" font="3">“incongruence” between English verbs and Cantonese verbs (in morphological</text>
+<text top="213" left="108" width="702" height="18" font="3">realization patterns), the Lemma Congruence model does allow English verbs to be</text>
+<text top="237" left="108" width="703" height="18" font="3">inflected in <i>EL islands</i>, another compromise strategy. In our case, the EL island would</text>
+<text top="261" left="108" width="703" height="18" font="3">be the whole English VP. In examples (19) and (21) above, the whole English VP</text>
+<text top="285" left="108" width="702" height="18" font="3">appears, but the English main verbs remain in their infinitive forms. This is not predicted</text>
+<text top="309" left="108" width="282" height="18" font="3">by the Lemma Congruence model.</text>
+<text top="332" left="123" width="686" height="18" font="3">Here, I would like to argue that the alternative analysis - the Functional Head Selection</text>
+<text top="356" left="108" width="701" height="18" font="3">approach - can also explain the fact that English verbs, either single verbs or verbs in</text>
+<text top="380" left="108" width="702" height="18" font="3">English VPs, are uninflected. Notice that neither the Cantonese aspect markers (i.e.</text>
+<text top="404" left="108" width="702" height="18" font="3">examples (16) to (18)) nor the time adverbials (i.e. examples (19), (20)) trigger the</text>
+<text top="428" left="108" width="701" height="18" font="3">English tense markers. Nor does the discourse context activate the tense marker (i.e.</text>
+<text top="452" left="108" width="702" height="18" font="3">example (21)). The subjects - in their semantic/ syntactic properties as third person</text>
+<text top="476" left="108" width="702" height="18" font="3">singular DPs (i.e. example (22) to (23)) - do not call for the English agreement markers.</text>
+<text top="500" left="108" width="702" height="18" font="3">The occurrence of the English verbs in their infinitive forms appears to be controlled by</text>
+<text top="524" left="108" width="702" height="18" font="3">some other grammatical factor. This factor, I would like to suggest, is the Cantonese</text>
+<text top="548" left="108" width="702" height="18" font="2"><i>INFL</i>, a separate node in phrase structure which selects a bare VP (which dominates the</text>
+<text top="572" left="108" width="488" height="18" font="3">English infinitive verb) in Cantonese-English code-switching.</text>
+<text top="569" left="596" width="12" height="11" font="0">10</text>
+<text top="572" left="608" width="202" height="18" font="3"> The universal postulation</text>
+<text top="596" left="108" width="702" height="18" font="3">of INFL as head of the sentence has been a standard assumption in (Chomskyan)</text>
+<text top="620" left="108" width="701" height="18" font="3">generative grammar - the theory of Government and Binding (i.e. GB) and also</text>
+<text top="644" left="108" width="701" height="18" font="3">Minimalism - though after Pollock (1989) views differ as to whether there is just one</text>
+<text top="668" left="108" width="702" height="18" font="3">INFL or a split INFL in all languages, and whether all languages have the same INFL</text>
+<text top="692" left="108" width="701" height="18" font="3">structure (Thráinsson 1997). I have no intention of getting into that debate, but it is</text>
+<text top="716" left="108" width="616" height="18" font="3">necessary for me to spell out my assumptions about the INFL in Cantonese.</text>
+<text top="739" left="123" width="685" height="18" font="3">Following Cheng’s (1991) analysis of Mandarin Chinese, I assume that Cantonese</text>
+<text top="763" left="108" width="702" height="18" font="3">sentences are headed by INFL, which she actually names ASP (i.e. <i>aspect</i>). So, a</text>
+<text top="787" left="108" width="702" height="18" font="3">Cantonese sentence is an <i>aspect phrase</i>. The aspect node contains features about the</text>
+<text top="811" left="108" width="689" height="18" font="3">aspect of the whole sentence which are overtly realized by Cantonese aspect markers.</text>
+<text top="809" left="798" width="12" height="11" font="0">11</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">15</text>
+<text top="1004" left="108" width="702" height="16" font="1">minimalist framework (Chomsky 1995, ch.4), a word is supposed to carry its features when it enters</text>
+<text top="1024" left="108" width="702" height="16" font="1">derivations - This implies that the verb is already inflected with tense/ agreement markers when it</text>
+<text top="1044" left="108" width="387" height="16" font="1">merges with another syntactic object, say, an object DP.</text>
+<text top="189" left="108" width="703" height="18" font="3">Matthews and Yip (1994) observe that in some contexts the aspect marker is optional,</text>
+<text top="213" left="108" width="582" height="18" font="3">say, in the presence of other linguistic cues on the aspect of the event.   </text>
+<text top="261" left="108" width="34" height="18" font="3">(24)</text>
+<text top="261" left="162" width="414" height="18" font="3">ngo5 dei6 cam4 maan2 heoi3 (zo2) taai2  jin1 faa1</text>
+<text top="285" left="162" width="426" height="18" font="3">I        PL   last    night    go     ASP   watch fireworks</text>
+<text top="309" left="162" width="404" height="18" font="3">“We went to watch the fireworks last night.”        </text>
+<text top="332" left="162" width="98" height="18" font="3">(Cantonese)</text>
+<text top="356" left="108" width="5" height="18" font="3"> </text>
+<text top="380" left="108" width="702" height="18" font="3">Back to Cantonese-English code-switching, I assume that in the above examples (i.e.</text>
+<text top="404" left="108" width="702" height="18" font="3">examples (16) to (23)), the clauses are headed by the Cantonese aspect head. This aspect</text>
+<text top="428" left="108" width="702" height="18" font="3">head <i>only </i>selects a bare VP (a VP which dominates an infinitive verb form), occasionally</text>
+<text top="452" left="108" width="702" height="18" font="3">inserting a Cantonese aspect marker to attach to the English verb stem - that is the reason</text>
+<text top="476" left="108" width="702" height="18" font="3">why the English verbs do not get inflected with the English tense/ agreement markers.</text>
+<text top="500" left="108" width="702" height="18" font="3">The English tense/ agreement markers are not “stripped away” by a filter, as in the</text>
+<text top="524" left="108" width="702" height="18" font="3">Lemma Congruence model; rather they are actually not called for - They are only</text>
+<text top="548" left="108" width="244" height="18" font="3">licensed by an English INFL. </text>
+<text top="572" left="123" width="687" height="18" font="3">One may question why the examples I have cited all have the Cantonese INFL, or ASP</text>
+<text top="596" left="108" width="702" height="18" font="3">as head, but not the English INFL. This may be due to the fact that Cantonese is the</text>
+<text top="620" left="108" width="702" height="18" font="3">dominant language in discourses from which the above examples are taken. It does not</text>
+<text top="644" left="108" width="701" height="18" font="3">mean that an English INFL is impossible in Cantonese-English code-switching. The</text>
+<text top="668" left="108" width="702" height="18" font="3">following is one example, where the English auxiliary verb “<i>-’m</i>” is supposed to be in</text>
+<text top="692" left="108" width="51" height="18" font="3">INFL:</text>
+<text top="739" left="108" width="34" height="18" font="3">(25)</text>
+<text top="739" left="162" width="393" height="18" font="3">I’m speaking of <i>go3 </i>cost, <i>m4  hai6 </i>functionality</text>
+<text top="763" left="162" width="392" height="18" font="3">I’m speaking of CL  cost  not COP functionality</text>
+<text top="787" left="162" width="356" height="18" font="3">“I’m speaking of the cost, not functionality.</text>
+<text top="811" left="162" width="556" height="18" font="3">(English-<i>Cantonese</i>, Chan 1992, also cited in Chan 1998: 208, (38))</text>
+<text top="859" left="108" width="704" height="18" font="3">Unfortunately we do not have instances where Cantonese verbs are inflected with</text>
+<text top="883" left="108" width="703" height="18" font="3">English tense/ agreement markers - such data may be found only in discourses where</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="12" family="Times" color="#000000"/>
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">16</text>
+<text top="722" left="123" width="12" height="11" font="0">12</text>
+<text top="727" left="136" width="675" height="16" font="1">I assume that <i>descriptively speaking</i> there may be a “dominant language” in code-switching which</text>
+<text top="747" left="108" width="702" height="16" font="1">contributes more morphemes and displays more morpho-syntactic characteristics in code-switched</text>
+<text top="767" left="108" width="702" height="16" font="1">sentences. This does not imply that I accept the MLF model (Myers-Scotton 1993) and its definition of</text>
+<text top="788" left="108" width="263" height="16" font="7"><i>the matrix language</i>. Also see note 9. </text>
+<text top="821" left="123" width="12" height="11" font="0">13</text>
+<text top="826" left="136" width="674" height="16" font="1">Ad Neeleman (personal communication) has suggested to me that a Cantonese verb may not</text>
+<text top="846" left="108" width="702" height="16" font="1">combine with an English tense/agreement marker for some independent morphological reasons. I leave</text>
+<text top="866" left="108" width="178" height="16" font="1">this possibility open here.</text>
+<text top="900" left="123" width="12" height="11" font="0">14</text>
+<text top="905" left="136" width="674" height="16" font="1">Here, I just use the standard term <i>determiner phrase </i>to refer to <i>extended projections </i>of the noun in</text>
+<text top="925" left="108" width="702" height="16" font="1">the sense of Grimshaw (1991). In Chan (to appear), I will assume that sometimes only a ClP (<i>classifier</i></text>
+<text top="945" left="108" width="702" height="16" font="7"><i>phrase)  </i>is projected; sometimes a QP (<i>quantifier phrase</i>) is projected in which the quantifier head</text>
+<text top="966" left="108" width="114" height="16" font="1">dominates a DP.</text>
+<text top="999" left="123" width="12" height="11" font="0">15</text>
+<text top="1004" left="136" width="674" height="16" font="1">Except pronouns.  Like English or Mandarin Chinese,  there are singular and plural forms for</text>
+<text top="1024" left="108" width="702" height="16" font="1">pronouns - i.e. “<i>ngo5</i>(I/me)” vs. “<i>ngo5 dei6</i>(we/us)”, “<i>nei5</i>(you)” vs. “<i>nei5 dei6</i>(you(pl.))” and</text>
+<text top="1044" left="108" width="368" height="16" font="1">“<i>keoi5</i>(he/him/she/her)” vs. “<i>keoi5 dei6</i>(they/them)”.</text>
+<text top="189" left="108" width="283" height="18" font="3">English is the dominant language.</text>
+<text top="186" left="391" width="12" height="11" font="0">12</text>
+<text top="189" left="403" width="301" height="18" font="3"> In the presence of such data (i.e. V</text>
+<text top="199" left="704" width="54" height="11" font="0">Cantonese </text>
+<text top="189" left="759" width="51" height="18" font="3">+ <i>s/ed</i></text>
+<text top="223" left="108" width="37" height="11" font="12"><i>English</i></text>
+<text top="213" left="146" width="593" height="18" font="3">),<i> </i> the Functional Head Selection approach would be much strengthened.</text>
+<text top="210" left="738" width="12" height="11" font="0">13</text>
+<text top="261" left="108" width="5" height="18" font="3"> </text>
+<text top="285" left="108" width="584" height="18" font="6"><b>5 English nouns/noun phrases in Cantonese-English code-switching</b></text>
+<text top="332" left="108" width="700" height="18" font="3">Let’s turn to another prolific pattern in Cantonese-English code-switching. English nouns</text>
+<text top="356" left="108" width="702" height="18" font="3">or noun phrases always occur in the position after Cantonese classifiers or quantifiers.</text>
+<text top="380" left="108" width="702" height="18" font="3">This observation seems to prevail across different corpuses on Cantonese-English code-</text>
+<text top="404" left="108" width="573" height="18" font="3">switching (Chan 1992, Leung 1988, Pennington, Chan and Lau 1996).</text>
+<text top="428" left="108" width="604" height="18" font="3">Let me first present some facts about Cantonese determiner phrases (DPs)</text>
+<text top="425" left="712" width="12" height="11" font="0">14</text>
+<text top="428" left="724" width="86" height="18" font="3"> before we</text>
+<text top="452" left="108" width="704" height="18" font="3">look at the code-switching data. The Cantonese determiner phrase consists of  the basic</text>
+<text top="476" left="108" width="555" height="18" font="3">structure of  “numeral/NUM +  classifier/CL + noun”.  For instance,</text>
+<text top="524" left="108" width="34" height="18" font="3">(26)</text>
+<text top="524" left="162" width="135" height="18" font="3">jat1    bun2 syu1</text>
+<text top="548" left="108" width="5" height="18" font="3"> </text>
+<text top="548" left="162" width="135" height="18" font="3">NUM CL   book</text>
+<text top="572" left="162" width="94" height="18" font="3">“one book”</text>
+<text top="620" left="108" width="577" height="18" font="3">Unlike English, Cantonese nouns do not inflect for number of plurality</text>
+<text top="617" left="685" width="12" height="11" font="0">15</text>
+<text top="620" left="697" width="5" height="18" font="3">.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">17</text>
+<text top="961" left="123" width="12" height="11" font="0">16</text>
+<text top="966" left="136" width="674" height="16" font="1">Although the distinction between mass and count nouns is not grammaticalized in Cantonese, there</text>
+<text top="986" left="108" width="693" height="16" font="1">is evidence that child learners can interpret whether a noun is inherently count or mass (Teng 1997).</text>
+<text top="1019" left="123" width="12" height="11" font="0">17</text>
+<text top="1024" left="136" width="674" height="16" font="1">As with other classifiers, the preceding numeral may be deleted when it means “<i>one</i>”. Since “<i>di1</i>”</text>
+<text top="1044" left="108" width="368" height="16" font="1">only takes “<i>one</i>” as numeral, the numeral is optional.</text>
+<text top="189" left="108" width="34" height="18" font="3">(27)</text>
+<text top="189" left="162" width="146" height="18" font="3">loeng5 bun2 <b>syu1</b></text>
+<text top="213" left="162" width="138" height="18" font="3">two     CL   book</text>
+<text top="237" left="162" width="103" height="18" font="3">“two books”</text>
+<text top="285" left="108" width="702" height="18" font="3">In Cantonese, there is a common classifier “<i>di1</i>”, which, similar to “some” in English,</text>
+<text top="309" left="108" width="507" height="18" font="3">takes both mass nouns (e.g. (28)) and count nouns (e.g. (29)).</text>
+<text top="306" left="615" width="12" height="11" font="0">16</text>
+<text top="309" left="627" width="183" height="18" font="3"> When combined with</text>
+<text top="333" left="108" width="702" height="18" font="3">count nouns, it refers to more than one entity or an object, even though the Cantonese</text>
+<text top="357" left="108" width="268" height="18" font="3">noun is not inflected for number.</text>
+<text top="405" left="108" width="34" height="18" font="3">(28)</text>
+<text top="405" left="162" width="180" height="18" font="3">ngo5 jam2 zo2   (jat1)</text>
+<text top="402" left="342" width="12" height="11" font="0">17</text>
+<text top="405" left="355" width="77" height="18" font="3"> <b>di1 caa4</b></text>
+<text top="429" left="162" width="251" height="18" font="3">I       drink ASP (one)    CL tea</text>
+<text top="453" left="162" width="167" height="18" font="3">“I drank <b>some tea</b>.” </text>
+<text top="501" left="108" width="34" height="18" font="3">(29)</text>
+<text top="501" left="162" width="362" height="18" font="3">zui3 gan6   dou3   zo2  (jat1) <b>di1 san1 syu1</b> </text>
+<text top="525" left="162" width="369" height="18" font="3">most recent arrive ASP (one) CL new   book </text>
+<text top="550" left="162" width="393" height="18" font="3">“Most recently <b>some new books</b> have arrived.” </text>
+<text top="598" left="108" width="702" height="18" font="3">Similar to “<i>di1</i>”, the Cantonese quantifiers “<i>do1</i> (many/much)” and “<i>siu2 </i>(few/little)”</text>
+<text top="622" left="108" width="702" height="18" font="3">may combine with mass (i.e. (30)) or count nouns (i.e. (31)). When combined with count</text>
+<text top="645" left="108" width="702" height="18" font="3">nouns, it is understood that the noun has plural reference (i.e. more than one of the</text>
+<text top="669" left="108" width="204" height="18" font="3">referred object or entity).</text>
+<text top="718" left="108" width="340" height="18" font="3">(30)   gam2 <b>do1           faan6</b>, dim2 sik6?</text>
+<text top="742" left="108" width="322" height="18" font="3">          So    many/much rice     how  eat</text>
+<text top="766" left="108" width="512" height="18" font="3">         “There is so <b>much rice</b>; how can I manage to eat it all?”</text>
+<text top="814" left="108" width="34" height="18" font="3">(31)</text>
+<text top="814" left="162" width="353" height="18" font="3">zui3 gan6 ceot1 zo2  <b>hou2 do1   san1 syu1</b></text>
+<text top="838" left="162" width="350" height="18" font="3">most near  out   ASP EMP many new book</text>
+<text top="862" left="162" width="585" height="18" font="3">“Most recently, <b>many new books </b>have come out (i.e. been published).”</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">18</text>
+<text top="1019" left="123" width="12" height="11" font="0">18</text>
+<text top="1024" left="136" width="675" height="16" font="1">I will discuss the cases in which plural English nouns do not appear after these Cantonese categories</text>
+<text top="1044" left="108" width="47" height="16" font="1">below.</text>
+<text top="189" left="108" width="702" height="18" font="3">Given the nouns do not inflect for number in Cantonese, for the sake of  “congruence”,</text>
+<text top="213" left="108" width="701" height="18" font="3">one would expect that the English nouns would always appear as bare forms.</text>
+<text top="237" left="108" width="702" height="18" font="3">Interestingly, this is not true. Though it is not always the case, there are quite a lot of</text>
+<text top="261" left="108" width="700" height="18" font="3">examples in which English count nouns appear in their plural form after certain</text>
+<text top="285" left="108" width="367" height="18" font="3">Cantonese numerals, classifiers or quantifiers.</text>
+<text top="282" left="475" width="12" height="11" font="0">18</text>
+<text top="285" left="488" width="322" height="18" font="3">  This phenomenon was first observed by</text>
+<text top="309" left="108" width="117" height="18" font="3">Leung (1988):</text>
+<text top="357" left="108" width="34" height="18" font="3">(32)</text>
+<text top="357" left="162" width="648" height="18" font="3">daan6 hai6 <b>saam1 </b>gaan1 <i><b>colleges</b></i> jau6 jau5 <i>short courses for language teachers</i></text>
+<text top="381" left="162" width="645" height="18" font="3">But            three    CL    colleges  also have short courses for language teachers </text>
+<text top="405" left="162" width="572" height="18" font="3">“But the three colleges also have short courses for language teachers.”</text>
+<text top="429" left="162" width="341" height="18" font="3">(Cantonese-<i>English</i>, Leung 1988: 35, (7))</text>
+<text top="476" left="108" width="702" height="18" font="3">In the above example (32), the English noun “<i>colleges</i>” is inflected for number in</text>
+<text top="500" left="108" width="703" height="18" font="3">agreement with the Cantonese numeral “<i>saam1</i>(three)”.  The following are some other</text>
+<text top="524" left="108" width="704" height="18" font="3">examples where English plural nouns appear after Cantonese numerals which are “more</text>
+<text top="548" left="108" width="101" height="18" font="3">than ONE”. </text>
+<text top="597" left="108" width="34" height="18" font="3">(33)</text>
+<text top="597" left="162" width="413" height="18" font="3">hai2 go3 fong1 leoi5 min6 jau5 <b>loeng5 </b>go3 <i><b>judges</b></i></text>
+<text top="620" left="162" width="398" height="18" font="3">P     CL room  inside        have two      CL judges</text>
+<text top="644" left="162" width="289" height="18" font="3">“Inside the room were two judges.”</text>
+<text top="668" left="162" width="272" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992) </text>
+<text top="717" left="108" width="34" height="18" font="3">(34)</text>
+<text top="717" left="162" width="309" height="18" font="3">ngo5 duk6  zo2   <b>gei2     </b>go3 <i><b>chapters</b></i></text>
+<text top="741" left="162" width="301" height="18" font="3">I       read  ASP  several CL  chapters</text>
+<text top="764" left="162" width="231" height="18" font="3">“I’ve read several chapters.”</text>
+<text top="788" left="162" width="267" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)</text>
+<text top="836" left="108" width="702" height="18" font="3">English plural nouns also appear after the Cantonese quantifiers “<i>hou2 do1</i>(many/</text>
+<text top="860" left="108" width="351" height="18" font="3">much)” or “<i>taai do1</i>(too many/too much)”.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">19</text>
+<text top="189" left="108" width="34" height="18" font="3">(35)</text>
+<text top="189" left="162" width="242" height="18" font="3">jau5  <b>hou2 do1           <i>Jews</i></b>…</text>
+<text top="213" left="162" width="251" height="18" font="3">have EMP many/much Jews…</text>
+<text top="237" left="162" width="211" height="18" font="3">“There are many Jews…”</text>
+<text top="261" left="162" width="441" height="18" font="3">(Cantonese-<i>English</i>, Pennington, Chan and Lau 1996)</text>
+<text top="309" left="108" width="34" height="18" font="3">(36)</text>
+<text top="309" left="162" width="265" height="18" font="3">cit3 gei6 <b>taai3 do1</b>           <i><b>details</b></i></text>
+<text top="333" left="162" width="276" height="18" font="3">avoid       too  many/ much details</text>
+<text top="357" left="162" width="213" height="18" font="3">“Avoid too many details.”</text>
+<text top="381" left="162" width="648" height="18" font="3">(Cantonese-<i>English</i>, Li 1996: 69 - from a newspaper column which gives tips for</text>
+<text top="405" left="162" width="100" height="18" font="3">dressing up)</text>
+<text top="453" left="108" width="541" height="18" font="3">English plural nouns follow the Cantonese classifier “<i>di</i>1” as well.</text>
+<text top="501" left="108" width="34" height="18" font="3">(37)</text>
+<text top="501" left="162" width="488" height="18" font="3">daai6 gaa1 ho5 ji6 <i>share</i> jat1   <b>di1 <i>files</i></b><b> </b>(i.e. computer files).</text>
+<text top="525" left="162" width="308" height="18" font="3">We           can      share NUM CL files</text>
+<text top="549" left="162" width="220" height="18" font="3">“We can share some files.”</text>
+<text top="573" left="162" width="267" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)</text>
+<text top="621" left="108" width="34" height="18" font="3">(38)</text>
+<text top="621" left="162" width="286" height="18" font="3">…go3    <b>di1 <i>coasters</i></b> bui1 zin3 aa3</text>
+<text top="645" left="162" width="274" height="18" font="3">DEM  CL coasters  coasters  PRT</text>
+<text top="669" left="143" width="243" height="18" font="3">“ … those coasters, coasters.”</text>
+<text top="693" left="143" width="667" height="18" font="3">(Cantonese-<i>English</i>, Pennington, Chan and Lau 1996, also cited in Pennington, Lau</text>
+<text top="717" left="143" width="214" height="18" font="3">and Chan, to appear, (12))</text>
+<text top="765" left="108" width="701" height="18" font="3">The English nouns are not only sensitive to the classifiers immediately preceding them;</text>
+<text top="789" left="108" width="601" height="18" font="3">they also agree with the Cantonese classifiers with intervening modifiers. </text>
+<text top="837" left="108" width="325" height="18" font="3"> (39) giu3 <b>di1</b> <i>bilingual </i>ge3    <i><b>tutors</b></i>…</text>
+<text top="861" left="162" width="269" height="18" font="3">ask  CL bilingual  LNK  tutors…</text>
+<text top="885" left="162" width="230" height="18" font="3">“Ask the bilingual tutors…”</text>
+<text top="909" left="162" width="565" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992, also cited in Chan 1998: 203, (34))  </text>
+<text top="957" left="108" width="704" height="18" font="3">It is not the case that the plural English nouns only occur as lone nouns after Cantonese</text>
+<text top="981" left="108" width="702" height="18" font="3">modifiers. They may appear after Cantonese quantifiers/ numerals/ classifiers and</text>
+<text top="1005" left="108" width="702" height="18" font="3">English noun phrases. Notice that in (41) the English noun phrase has an internal</text>
+<text top="1029" left="108" width="702" height="18" font="3">constituency of “head noun and postmodifier” - N + PP. This structure is distinctively</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">20</text>
+<text top="981" left="123" width="12" height="11" font="0">19</text>
+<text top="986" left="136" width="473" height="16" font="1">“<i>Liu2”</i> here is a counterpart of  “<i>zo2</i>” in a formal or written register.</text>
+<text top="1019" left="123" width="12" height="11" font="0">20</text>
+<text top="1024" left="136" width="675" height="16" font="1">See Myers-Scotton (1993: 112) and the references there for other language-pairs which show doubly</text>
+<text top="1044" left="108" width="147" height="16" font="1">marked plural nouns.</text>
+<text top="189" left="108" width="536" height="18" font="3">English in character, as Cantonese nouns are strictly final in DPs. </text>
+<text top="237" left="108" width="34" height="18" font="3">(40)</text>
+<text top="237" left="162" width="361" height="18" font="3">nei5 ho2 ji5 gaau2    <b>jat1 </b>go3 <i>farewell <b>party</b></i></text>
+<text top="261" left="162" width="370" height="18" font="3">you   can     organize one  CL farewell  party </text>
+<text top="285" left="162" width="300" height="18" font="3">“You can organize a farewell party.”</text>
+<text top="309" left="162" width="292" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992)     </text>
+<text top="357" left="108" width="34" height="18" font="3">(41)</text>
+<text top="357" left="162" width="468" height="18" font="3">keoi5 hai6  gong2 gan2 <b>loeng2 </b>go3 <i><b>views </b>of world origin</i></text>
+<text top="381" left="162" width="468" height="18" font="3">s/he    COP talk    ASP   two     CL  views of world origin</text>
+<text top="405" left="162" width="411" height="18" font="3">“What he talks about is two views of world origin.</text>
+<text top="429" left="162" width="555" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992, also cited in Chan 1998: 202, (29))</text>
+<text top="477" left="108" width="34" height="18" font="3">(42)</text>
+<text top="477" left="162" width="214" height="18" font="3">syu1  zung1 lit6 gui2  liu2</text>
+<text top="475" left="376" width="12" height="11" font="0">19</text>
+<text top="477" left="388" width="354" height="18" font="3">  <b>hen2 do1   </b><i>dueling <b>proverbs</b></i> dik1  lai6 zi2</text>
+<text top="501" left="162" width="623" height="18" font="3">book inside list         ASP    EMP many dueling proverbs  LNK example       </text>
+<text top="525" left="162" width="595" height="18" font="3">“Inside the book (the author) listed many examples of dueling proverbs.”</text>
+<text top="549" left="162" width="512" height="18" font="3">(Cantonese-<i>English, </i>Li 1996: 199 - from a newspaper column)</text>
+<text top="597" left="108" width="702" height="18" font="3">To summarize the above observations briefly, English nouns, in lone forms or as heads</text>
+<text top="621" left="108" width="702" height="18" font="3">in English NPs, may be inflected in their plural forms after Cantonese numerals (more</text>
+<text top="645" left="108" width="486" height="18" font="3">than ONE), classifiers (<i>di1</i>) and quantifiers (e.g. <i>hou2 do1</i>).</text>
+<text top="669" left="123" width="686" height="18" font="3">An interesting paradox arises between English nouns/noun phrases and English</text>
+<text top="693" left="108" width="704" height="18" font="3">verbs/verb phrases in Cantonese-English code-switching. In the case of English verbs,</text>
+<text top="717" left="108" width="701" height="18" font="3">the main verb in most cases must not be inflected. In the case of English noun phrases,</text>
+<text top="741" left="108" width="702" height="18" font="3">however, the nouns are consistently plural-marked with certain quantifiers or classifiers,</text>
+<text top="764" left="108" width="552" height="18" font="3">even though in Cantonese number is not grammaticalized on nouns.</text>
+<text top="788" left="108" width="702" height="18" font="3">In terms of the Lemma Congruence model, an EL plural marker in a mixed constituent</text>
+<text top="812" left="108" width="702" height="18" font="3">is not the idiosyncratic property of Cantonese-English code-switching. The same</text>
+<text top="836" left="108" width="704" height="18" font="3">phenomenon can also be attested in other language-pairs, for example, Lingala-French</text>
+<text top="860" left="108" width="443" height="18" font="3">(Bokamba 1988: 37, Kamwangamalu 1989: 160, etc.</text>
+<text top="858" left="551" width="12" height="11" font="0">20</text>
+<text top="860" left="564" width="246" height="18" font="3">). Such examples can also be</text>
+<text top="884" left="108" width="294" height="18" font="3">found in Myers-Scotton’s own data:</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">21</text>
+<text top="189" left="108" width="34" height="18" font="3">(43)</text>
+<text top="189" left="162" width="447" height="18" font="3">…dzimwe dzenguva tinenge tichiita <b>ma-<i>game-s</b> </i>panze</text>
+<text top="213" left="162" width="387" height="18" font="3">“…sometimes we will be doing games outside”</text>
+<text top="237" left="162" width="353" height="18" font="3">(Shona-<i>English</i>, Myers-Scotton 1993: 132)</text>
+<text top="285" left="108" width="702" height="18" font="3">Myers-Scotton (1993) calls examples such as (57) <i>double morphology. </i>Double</text>
+<text top="309" left="108" width="702" height="18" font="3">morphology is a problem for the Matrix Language Frame model because the plural</text>
+<text top="333" left="108" width="701" height="18" font="3">marker is defined as a system morpheme. In the above example, the ML is Shona. The</text>
+<text top="357" left="108" width="702" height="18" font="3">English plural marker, as an EL system morpheme, appears in a mixed constituent,</text>
+<text top="381" left="108" width="701" height="18" font="3">violating the System Morpheme principle. Notice that the doubly marked stem is neither</text>
+<text top="405" left="108" width="702" height="18" font="3">a good example of an EL island (i.e. it does not contain more than one word) nor a bare</text>
+<text top="429" left="108" width="702" height="18" font="3">form (i.e. it is inflected), which Myers-Scotton (1993) and Jake and Myers-Scotton</text>
+<text top="453" left="108" width="661" height="18" font="3">(1997) regard as possible “compromise strategies” as a result of non-congruence.</text>
+<text top="476" left="123" width="686" height="18" font="3">To circumvent the model, Myers-Scotton (1993: 132-135) suggests that the ML plural</text>
+<text top="500" left="108" width="702" height="18" font="3">marker is accessed by error when the plural marker of the ML is activated by ML</text>
+<text top="524" left="108" width="701" height="18" font="3">morphological-syntactic procedures. Obviously, this explanation is inadequate in</text>
+<text top="548" left="108" width="701" height="18" font="3">explaining the English plural marker in Cantonese-English code-switching - there is</text>
+<text top="572" left="108" width="504" height="18" font="3">simply no ML (i.e. Cantonese) plural marker being called up. </text>
+<text top="596" left="123" width="686" height="18" font="3">An alternative analysis is to keep to the primary observations and postulate that the</text>
+<text top="620" left="108" width="702" height="18" font="3">quantifiers/ classifiers/ numerals license the plural English marker. One major query</text>
+<text top="644" left="108" width="702" height="18" font="3">immediately arises - Why are the English nouns inflected for number, since Cantonese</text>
+<text top="668" left="108" width="700" height="18" font="3">nouns are not. A tentative yet straightforward answer is that the English nouns do not</text>
+<text top="692" left="108" width="702" height="18" font="3">need to inherit all the characteristics of Cantonese nouns in order to appear in code-</text>
+<text top="716" left="108" width="701" height="18" font="3">switching. Contrary to the Lemma Congruence model, the English nouns (or the</text>
+<text top="740" left="108" width="702" height="18" font="3">corresponding “lemmas”) need not be compared with the Cantonese nouns. Let’s try out</text>
+<text top="764" left="108" width="386" height="18" font="3">the Functional Head Selection approach now.   </text>
+<text top="788" left="123" width="687" height="18" font="3">Assuming the Functional Head Selection approach, one may straightforwardly say that</text>
+<text top="812" left="108" width="702" height="18" font="3">quantifiers, numerals and classifiers are all functional heads which select the plural</text>
+<text top="836" left="108" width="701" height="18" font="3">English nouns. More specifically, one may say that the Cantonese classifiers, numerals</text>
+<text top="860" left="108" width="701" height="18" font="3">or quantifiers, heading extended projections of nouns in the sense of Grimshaw (1991),</text>
+<text top="883" left="108" width="701" height="18" font="3">project a [+plural] feature. Given that the plural form projects a [+plural] feature and a</text>
+<text top="907" left="108" width="701" height="18" font="3">singular form projects a [-plural] feature, the plural form is selected to project a matching</text>
+<text top="931" left="108" width="701" height="18" font="3">[+plural] feature. The occurrence of the English nouns in plural forms can be seen as</text>
+<text top="955" left="108" width="701" height="18" font="3">satisfying the selectional requirement of the Cantonese numerals/ classifiers/ quantifiers</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">22</text>
+<text top="920" left="123" width="12" height="11" font="0">21</text>
+<text top="925" left="136" width="674" height="16" font="1">Grimshaw (1991) assumes that only functional heads and lexical heads may project syntactic/</text>
+<text top="945" left="108" width="702" height="16" font="1">semantic features (e.g. animacy, number). In case more than one head (functional or lexical) projects</text>
+<text top="966" left="108" width="702" height="16" font="1">a similar feature, say [number] in DPs,  these features will percolate up to the highest node of the</text>
+<text top="986" left="108" width="580" height="16" font="1">extended projection, and they have to be matched in order to have an interpretation.</text>
+<text top="1019" left="123" width="12" height="11" font="0">22</text>
+<text top="1024" left="136" width="674" height="16" font="1">In Chan (to appear), I will analyze the structure of Cantonese DPs in greater detail and show how</text>
+<text top="1044" left="108" width="702" height="16" font="1">plurality is encoded by numerals, classifiers and quantifiers.  Contrary to Ritter (1991), I will also argue</text>
+<text top="189" left="108" width="369" height="18" font="3">or general principles of extended projections.</text>
+<text top="186" left="477" width="12" height="11" font="0">21</text>
+<text top="189" left="489" width="5" height="18" font="3"> </text>
+<text top="237" left="108" width="34" height="18" font="3">(44)</text>
+<text top="237" left="162" width="155" height="18" font="3">loeng5 go3 <i>judges</i> </text>
+<text top="261" left="162" width="145" height="18" font="3">two     CL  judges</text>
+<text top="285" left="162" width="113" height="18" font="3">NUM  CL   N</text>
+<text top="309" left="162" width="177" height="18" font="6"><b>[+plural]    [+plural]</b></text>
+<text top="332" left="162" width="107" height="18" font="3">“two judges”</text>
+<text top="356" left="162" width="201" height="18" font="3">(repeat from (33) above)</text>
+<text top="404" left="108" width="701" height="18" font="3">So far so good. Yet, a non-trivial problem arises as in some cases the English singular</text>
+<text top="428" left="108" width="171" height="18" font="3">form is also selected.</text>
+<text top="476" left="108" width="34" height="18" font="3">(45)</text>
+<text top="476" left="162" width="192" height="18" font="3">go2<b>    di1</b> <i><b>waterfall</b> </i>ne1</text>
+<text top="500" left="162" width="208" height="18" font="3">DEM  CL  waterfall PAR</text>
+<text top="524" left="162" width="166" height="18" font="3">“those waterfalls…”</text>
+<text top="548" left="162" width="441" height="18" font="3">(Cantonese-<i>English</i>, Pennington, Chan and Lau 1996)</text>
+<text top="590" left="108" width="704" height="18" font="3">But wait. Let’s remember that Cantonese nouns are not inflected for number. This means</text>
+<text top="614" left="108" width="702" height="18" font="3">that the “plural” Cantonese numerals/ classifiers/ quantifiers do not <i>obligatorily </i>select</text>
+<text top="638" left="108" width="701" height="18" font="3">for a plural noun because they do <i>not</i> in a monolingual Cantonese context. In addition,</text>
+<text top="662" left="108" width="702" height="18" font="3">it makes no sense to speak of Cantonese nouns as projecting a [-plural] feature simply</text>
+<text top="686" left="108" width="702" height="18" font="3">because they may refer to more than one entity (e.g. <i>syu1(book))</i> in example (27) above).</text>
+<text top="710" left="108" width="702" height="18" font="3">Taking these into consideration, we may say that the “plural” Cantonese categories</text>
+<text top="734" left="108" width="702" height="18" font="3">select a noun which is either [+plural] (as in the plural English nouns) or <i>unspecified </i>for</text>
+<text top="758" left="108" width="702" height="18" font="3">plurality (just like the Cantonese nouns). In code-switching, it may be expected that the</text>
+<text top="782" left="108" width="702" height="18" font="3">“plural” Cantonese numerals/ classifiers/ quantifiers select a singular form of English</text>
+<text top="806" left="108" width="702" height="18" font="3">noun which is not [-plural] but unspecified for plurality. This explains a number of other</text>
+<text top="829" left="108" width="702" height="18" font="3">cases where the singular, count English nouns are used after the “plural” Cantonese</text>
+<text top="853" left="108" width="249" height="18" font="3">categories (e.g. example (45)).</text>
+<text top="851" left="357" width="12" height="11" font="0">22</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">23</text>
+<text top="986" left="108" width="702" height="16" font="1">that numerals are specifiers of classifiers rather than a functional head in Cantonese. I skip the details</text>
+<text top="1006" left="108" width="198" height="16" font="1">here for limitations of space.</text>
+<text top="1040" left="123" width="12" height="11" font="0">23</text>
+<text top="1044" left="136" width="159" height="16" font="1">See footnote 22 above.</text>
+<text top="189" left="123" width="687" height="18" font="3">One problem I have ignored so far is that the “plural” Cantonese classifier “<i>di1</i>” and</text>
+<text top="213" left="108" width="662" height="18" font="3">quantifier “<i>hou2 do1</i>” may combine with mass nouns from English. For instance,</text>
+<text top="261" left="108" width="34" height="18" font="3">(46)</text>
+<text top="261" left="162" width="550" height="18" font="2"><i>computer</i> ho2 ji5 tau3 gwo3 <i>keyboard </i>tai4 gong1 jat1 <b>di1</b> <i><b>feedback</b></i></text>
+<text top="285" left="162" width="547" height="18" font="3">computer  can      through     keyboard provide     one  CL feedback</text>
+<text top="309" left="162" width="519" height="18" font="3">“Computers can provide some feedback through the keyboard.”</text>
+<text top="333" left="162" width="266" height="18" font="3">(English-Cantonese, Chan 1992)</text>
+<text top="381" left="108" width="34" height="18" font="3">(47)</text>
+<text top="381" left="162" width="184" height="18" font="6"><b>hou2 do1   <i>handicraft</i></b></text>
+<text top="405" left="162" width="185" height="18" font="3">EMP  many handicraft</text>
+<text top="429" left="162" width="159" height="18" font="3">“many handicrafts”</text>
+<text top="453" left="108" width="546" height="18" font="3"> (Cantonese-<i>English</i>, Pennington, Chan and Lau 1996)<i>    </i>      </text>
+<text top="501" left="108" width="702" height="18" font="3">These classifiers/ quantifiers may not project <i>exactly</i> a [+plural] feature, which, strictly</text>
+<text top="525" left="108" width="702" height="18" font="3">speaking, means “more than one countable object”. Here, I just tentatively assume that</text>
+<text top="549" left="108" width="702" height="18" font="3">they project a feature like [+quantity] (meaning a quantity of something), which has to</text>
+<text top="573" left="108" width="702" height="18" font="3">be matched by a [+plural] feature from the noun (i.e. as in the case of plural English</text>
+<text top="597" left="108" width="702" height="18" font="3">nouns), or <i>nothing </i>(as in the case of all Cantonese nouns and the uninflected English</text>
+<text top="620" left="108" width="700" height="18" font="3">nouns). I assume the mass nouns in English, similar to the Cantonese nouns, are</text>
+<text top="644" left="108" width="233" height="18" font="3">unspecified for plurality too.</text>
+<text top="668" left="123" width="687" height="18" font="3">To sum up briefly, the English plural nouns in Cantonese-English code-switching are</text>
+<text top="692" left="108" width="702" height="18" font="3">licensed by certain “plural” Cantonese categories: numerals (more than ONE), classifiers</text>
+<text top="716" left="108" width="614" height="18" font="3">(e.g. <i>di1</i>) or quantifiers (e.g. <i>taai2 do1)</i> - Numerals are specifiers of classifiers</text>
+<text top="714" left="723" width="12" height="11" font="0">23</text>
+<text top="716" left="735" width="75" height="18" font="3">, whereas</text>
+<text top="740" left="108" width="702" height="18" font="3">classifiers and quantifiers are functional heads.  Apart from plural nouns, these plural</text>
+<text top="764" left="108" width="702" height="18" font="3">Cantonese categories may also take complement nouns which are unspecified for</text>
+<text top="788" left="108" width="702" height="18" font="3">plurality - which include all Cantonese nouns. In case the “plural” Cantonese categories</text>
+<text top="812" left="108" width="702" height="18" font="3">take English count nouns in singular forms, these English forms are treated as being</text>
+<text top="836" left="108" width="701" height="18" font="3">unspecified for plurality. Here, I would like to stress in these cases the English forms are</text>
+<text top="860" left="108" width="702" height="18" font="3">not “adapted” or “compared” with their ML counterparts. They are selected by the</text>
+<text top="884" left="108" width="701" height="18" font="3">Cantonese numerals/ classifiers/ quantifiers - categories in the “functional domain” of</text>
+<text top="908" left="108" width="702" height="18" font="3">DP. Generally speaking, the selectional requirements between the Cantonese “functional</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">24</text>
+<text top="938" left="123" width="12" height="11" font="0">24</text>
+<text top="943" left="136" width="675" height="16" font="1">Neil Smith suggests that the demonstratives “<i>these</i>” and  “<i>those</i>” can also be analyzed as being</text>
+<text top="963" left="108" width="702" height="16" font="1">inflected by the plural marker “<i>-s</i>”. Yet, after these demonstratives the head nouns also have to be</text>
+<text top="983" left="108" width="702" height="16" font="1">inflected by the plural marker “<i>-s</i>” as well. In this respect, the plural marker “<i>-s</i>” is still radically</text>
+<text top="1004" left="108" width="704" height="16" font="1">different from verbal inflection markers (e.g. tense/agreement markers) in that for the latter only one set</text>
+<text top="1024" left="108" width="702" height="16" font="1">of markers appear for a clause - if the modal takes up tense/agreement , the head verb has to be</text>
+<text top="1044" left="108" width="82" height="16" font="1">uninflected.</text>
+<text top="189" left="108" width="701" height="18" font="3">categories” and English “lexical complements” are upheld (i.e. The “plural” Cantonese</text>
+<text top="213" left="108" width="702" height="18" font="3">classifiers/ quantifiers select English nouns which are [+plural] or unspecified). The</text>
+<text top="237" left="108" width="702" height="18" font="3">interesting thing here is that code-switching enlarges, not narrows, the selectional</text>
+<text top="261" left="108" width="104" height="18" font="3">restrictions. </text>
+<text top="332" left="108" width="702" height="18" font="6"><b>6 Towards a unified theory for English nouns and verbs in Cantonese-English code-</b></text>
+<text top="356" left="123" width="83" height="18" font="6"><b>switching</b></text>
+<text top="404" left="108" width="702" height="18" font="3">I have just suggested that the Functional Head Selection approach can explain the formal</text>
+<text top="428" left="108" width="701" height="18" font="3">properties of English nouns and verbs in Cantonese-English code-switching. Notice that</text>
+<text top="451" left="108" width="701" height="18" font="3">the English nouns and verbs are basically asymmetric - the English nouns may be</text>
+<text top="475" left="108" width="702" height="18" font="3">inflected whereas the English verbs are always never inflected for tense/agreement. In</text>
+<text top="499" left="108" width="701" height="18" font="3">order to maintain a uniform approach, I have implicitly made different assumptions about</text>
+<text top="523" left="108" width="702" height="18" font="3">the nature of the inflectional markers of the nouns, namely, the plural marker, and those</text>
+<text top="547" left="108" width="701" height="18" font="3">of the verb, namely (English) tense/ agreement and (Cantonese) aspect markers. What</text>
+<text top="571" left="108" width="702" height="18" font="3">I have assumed is that the plural markers are more closely associated with the English</text>
+<text top="595" left="108" width="702" height="18" font="3">nouns, and they surface when activated by the right context, no matter whether the</text>
+<text top="619" left="108" width="702" height="18" font="3">context is English or Cantonese (e.g. as generic count nouns, after numerals, plural</text>
+<text top="643" left="108" width="702" height="18" font="3">demonstratives, etc.). For English verbs, I have to assume that the tense and agreement</text>
+<text top="667" left="108" width="702" height="18" font="3">markers are represented separately, namely, in the INFL node selecting the verb phrase.</text>
+<text top="691" left="108" width="702" height="18" font="3">In the code-switching data we have examined, it is the Cantonese INFL, or ASP, which</text>
+<text top="715" left="108" width="702" height="18" font="3">is selected in the first place, and therefore the English tense/ agreement markers do not</text>
+<text top="739" left="108" width="303" height="18" font="3">appear with their English verb stems.</text>
+<text top="763" left="123" width="686" height="18" font="3">These assumptions are by no means arbitrary stipulations. Firstly, it has long been</text>
+<text top="787" left="108" width="701" height="18" font="3">assumed that tense and agreement markers are associated with AUX / INFL, a node</text>
+<text top="811" left="108" width="701" height="18" font="3">separate from the verb (in pre-GB theory, as in Chomsky 1965, in GB theory, as in</text>
+<text top="835" left="108" width="700" height="18" font="3">Chomsky 1981, 1986a, 1986b, but not Minimalism, see footnote 10 above). The plural</text>
+<text top="858" left="108" width="701" height="18" font="3">marker does not originate from another node, however. Descriptively, in English, the</text>
+<text top="882" left="108" width="471" height="18" font="3">plural marker is attached to the head nouns of NPs mainly.</text>
+<text top="880" left="579" width="12" height="11" font="0">24</text>
+<text top="882" left="591" width="219" height="18" font="3"> Nonetheless, the tense and</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">25</text>
+<text top="189" left="108" width="702" height="18" font="3">agreement marker may be realized by modal verbs or auxiliary verbs such as “have” or</text>
+<text top="213" left="108" width="420" height="18" font="3">“be”, after which the verb appear in infinitive form.</text>
+<text top="237" left="123" width="686" height="18" font="3">Unlike English, Cantonese modal verbs do not inflect (for aspect). Yet, auxiliary</text>
+<text top="261" left="108" width="702" height="18" font="3">elements like Cantonese <i>coverbs</i>/ <i>prepositions </i>may take up aspect, after which the</text>
+<text top="285" left="108" width="351" height="18" font="3">following verb is uninflected. For instance,</text>
+<text top="333" left="108" width="34" height="18" font="3">(48)</text>
+<text top="333" left="162" width="351" height="18" font="3">ngo3 <b>tung4              zo2 </b>keoi5    sik6 faan6</text>
+<text top="357" left="162" width="337" height="18" font="3">I       with(COV/P)<b>  </b>ASP him/her eat  rice</text>
+<text top="381" left="162" width="517" height="18" font="3">“I had eaten rice with him/her (lit. I had a meal with him/her.).”</text>
+<text top="429" left="108" width="702" height="18" font="3">One may argue that “<i>tung4</i>(and/with)” is just a verb on a par with “<i>sik6</i>(eat)”. That is not</text>
+<text top="453" left="108" width="702" height="18" font="3">correct. It is incomplete to say <i>“ngo3 tung4 keoi5</i>(lit. I and/with him/her)”, except when</text>
+<text top="477" left="108" width="702" height="18" font="3">it is used as a fragment with the remaining part readily retrieved from the context (i.e.</text>
+<text top="501" left="108" width="46" height="18" font="3">(49)).</text>
+<text top="549" left="108" width="34" height="18" font="3">(49)</text>
+<text top="549" left="162" width="249" height="18" font="3">a. *ngo3 tung4              keoi5.</text>
+<text top="573" left="187" width="225" height="18" font="3">I        with(COV/P) him/her</text>
+<text top="597" left="187" width="145" height="18" font="3">*“I with him/her”</text>
+<text top="644" left="162" width="109" height="18" font="3">b. Question: </text>
+<text top="668" left="187" width="92" height="18" font="3">nei5 tung4 </text>
+<text top="668" left="378" width="165" height="18" font="3">bin1go3 sik6 faan6?</text>
+<text top="692" left="187" width="155" height="18" font="3">You  with(COV/P)</text>
+<text top="692" left="378" width="212" height="18" font="3">whom    eat   rice              </text>
+<text top="716" left="187" width="261" height="18" font="3">“Whom did you eat rice with?” </text>
+<text top="740" left="187" width="306" height="18" font="3">(= Whom did you have a meal with?)</text>
+<text top="788" left="108" width="227" height="18" font="3"> Answer: </text>
+<text top="812" left="187" width="120" height="18" font="3">ngo3 </text>
+<text top="812" left="233" width="291" height="18" font="6"><b>tung4            </b>aa3 maa1 (sik6 faan6)</text>
+<text top="837" left="187" width="317" height="18" font="3">I       with(COV/P)<b> </b> mother    (eat  rice)</text>
+<text top="861" left="187" width="457" height="18" font="3">“I (had a meal) with Mom.” (= I had a meal with Mom.)</text>
+<text top="908" left="108" width="702" height="18" font="3">So, the coverb/preposition is different from a typical verb in Cantonese. When the former</text>
+<text top="932" left="108" width="701" height="18" font="3">takes up aspect, the main verb cannot be inflected. In other words, the aspect marker in</text>
+<text top="956" left="108" width="702" height="18" font="3">Cantonese can be assigned to either a coverb/preposition or a main verb, and hence it</text>
+<text top="980" left="108" width="433" height="18" font="3">appears to originate from an independent <i>INFL </i>node.</text>
+<text top="1004" left="123" width="687" height="18" font="3">Let’s look at the second piece of evidence, which comes from language acquisition.</text>
+<text top="1028" left="108" width="702" height="18" font="3">English children acquire the plural marker <i>-s</i> before they acquire the tense and agreement</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">26</text>
+<text top="189" left="108" width="702" height="18" font="3">markers of the verb (Radford 1990). Radford (1990) explains this phenomenon by</text>
+<text top="213" left="108" width="702" height="18" font="3">postulating that the functional category INFL, which carries the tense/agreement</text>
+<text top="237" left="108" width="702" height="18" font="3">markers, is developed later (i.e. after 24 months), though at that time the child seems to</text>
+<text top="261" left="108" width="702" height="18" font="3">have mastered the verbs. Before that (i.e. after 20 months), the child can use the verbs,</text>
+<text top="285" left="108" width="702" height="18" font="3">and the nouns with the plural suffix. The child only masters the tense/ agreement markers</text>
+<text top="309" left="108" width="265" height="18" font="3">after his/her INFL is developed. </text>
+<text top="332" left="123" width="687" height="18" font="3">The third piece of evidence comes from speech errors. In one type of speech errors -</text>
+<text top="356" left="108" width="702" height="18" font="3">the so-called <i>stranding</i> errors - lexical items change position, but inflectional markers do</text>
+<text top="380" left="108" width="570" height="18" font="3">not move with their corresponding stems (Garrett 1980). For instance,</text>
+<text top="428" left="108" width="34" height="18" font="3">(50)</text>
+<text top="428" left="162" width="319" height="18" font="3">You <i>order</i>ed up <i>end</i>ing<i> </i>some fish dish.</text>
+<text top="452" left="162" width="396" height="18" font="3">(Target: You <i>end</i>ed<i> </i>up <i>order</i>ing some fish dish.)</text>
+<text top="476" left="162" width="463" height="18" font="3">(Garrett, in press, quoted by Bock and Levelt 1994: 947)</text>
+<text top="524" left="123" width="686" height="18" font="3">If the plural marker is more closely associated with the noun than the tense/ agreement</text>
+<text top="548" left="108" width="702" height="18" font="3">markers are with the verb, one would expect that the plural markers may move with their</text>
+<text top="572" left="108" width="702" height="18" font="3">noun stems, while tense/agreement markers always strand. In other words, the plural</text>
+<text top="596" left="108" width="701" height="18" font="3">marker may not stay in situ,  but the tense/ agreement markers always remain in their</text>
+<text top="620" left="108" width="702" height="18" font="3">positions even when their verb stems are dislocated in such stranding errors. This turns</text>
+<text top="644" left="108" width="700" height="18" font="3">out to have empirical support, as first noted by Stemberger (1985) and later reported by</text>
+<text top="668" left="108" width="460" height="18" font="3">Myers-Scotton (1993: 62). The following is an example:</text>
+<text top="716" left="108" width="34" height="18" font="3">(51)</text>
+<text top="716" left="162" width="379" height="18" font="3">I presume you could get <i>light </i>in poor <i>pictures.</i></text>
+<text top="739" left="162" width="471" height="18" font="2"><i> </i>(Target: <i> </i>I  presume you could get <i>pictures </i>in poor <i>light</i>.)</text>
+<text top="763" left="162" width="248" height="18" font="3">(Stemberger 1985: 162, (10a))</text>
+<text top="811" left="108" width="704" height="18" font="3">The fourth piece of evidence comes from code-switching data in other language-pairs -</text>
+<text top="835" left="108" width="704" height="18" font="3">instances of  “double morphology” - in which a free morpheme is inflected with markers</text>
+<text top="859" left="108" width="702" height="18" font="3">from both languages. In the Functional Head Selection approach I have been outlining,</text>
+<text top="883" left="108" width="702" height="18" font="3">nominal functional heads (demonstratives/ quantifiers/ classifiers) select noun/noun</text>
+<text top="907" left="108" width="702" height="18" font="3">phrase complements from another language.  Since the plural marker is somehow</text>
+<text top="931" left="108" width="702" height="18" font="3">inherently associated with the noun, it is activated after the right functional heads (i.e.</text>
+<text top="955" left="108" width="702" height="18" font="3">demonstratives/ quantifiers/ classifiers which license plurality). Under this premise,</text>
+<text top="979" left="108" width="702" height="18" font="3">“double morphology” which involves the plural marker is also expected - the plural</text>
+<text top="1003" left="108" width="703" height="18" font="3">markers from both languages are both licensed and activated after the right functional</text>
+<text top="1027" left="108" width="703" height="18" font="3">heads. On the other hand, I have been arguing that the INFL, hosting verbal inflectional</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">27</text>
+<text top="189" left="108" width="701" height="18" font="3">markers (such as tense and agreement in English), selects a bare VP which dominates an</text>
+<text top="213" left="108" width="702" height="18" font="3">infinitive verb. If that were true, one would <i>not</i> expect double morphology which</text>
+<text top="237" left="108" width="702" height="18" font="3">involves tense/agreement - There is only one INFL selecting one VP; only one set of</text>
+<text top="261" left="108" width="701" height="18" font="3">verbal inflectional markers prevail. That appears to be true in the literature on double-</text>
+<text top="285" left="108" width="702" height="18" font="3">morphology that I know (Bokamba 1989, Kamwangamalu 1989, Myers-Scotton 1993).</text>
+<text top="309" left="123" width="686" height="18" font="3">What I have attempted to do is give evidence that the tense/ agreement markers in</text>
+<text top="332" left="108" width="702" height="18" font="3">English and the aspect markers in Cantonese are more “detached” from the verb than the</text>
+<text top="356" left="108" width="701" height="18" font="3">plural markers are from the nouns. This motivates and justifies a standard assumption -</text>
+<text top="380" left="108" width="702" height="18" font="3">Verbal inflectional elements (such as tense/ agreement markers in English or aspect</text>
+<text top="404" left="108" width="702" height="18" font="3">markers in Cantonese) are represented in an INFL node, separate from the verb.</text>
+<text top="428" left="108" width="702" height="18" font="3">Consequently, when an INFL selects a VP, the verb is not attached with any inflectional</text>
+<text top="452" left="108" width="704" height="18" font="3">elements until after an additional operation, be it I-lowering or Verb-raising, Nominal</text>
+<text top="476" left="108" width="702" height="18" font="3">inflectional elements, on the other hand, are linked more closely to the head noun.</text>
+<text top="500" left="108" width="702" height="18" font="3">Accordingly, when a determiner/ classifier/ quantifier selects a plural noun, the noun</text>
+<text top="524" left="108" width="702" height="18" font="3">may already be inflected with the plural marker. This assumption is essential if we want</text>
+<text top="548" left="108" width="702" height="18" font="3">to maintain a uniform approach, namely, the Functional Head Selection approach in</text>
+<text top="572" left="108" width="700" height="18" font="3">explaining the asymmetric behavior of English nouns and verbs in Cantonese-English</text>
+<text top="596" left="108" width="139" height="18" font="3">code-switching.  </text>
+<text top="668" left="108" width="651" height="18" font="6"><b>7 English adjectives/adjective phrases in Cantonese-English code-switching</b></text>
+<text top="715" left="108" width="702" height="18" font="3">English adjectives in Cantonese-English code-switching provide additional evidence</text>
+<text top="739" left="108" width="702" height="18" font="3">against the Lemma Congruence approach. These English adjectives contain a root and</text>
+<text top="763" left="108" width="702" height="18" font="3">a suffix, whereas Cantonese adjectives do not carry any affixes. For Myers-Scotton and</text>
+<text top="787" left="108" width="702" height="18" font="3">Jake (1995), the English adjectives are “incongruent” with their Cantonese ML</text>
+<text top="811" left="108" width="702" height="18" font="3">counterparts in<b> </b>terms of morphological realization patterns. The English adjective can</text>
+<text top="835" left="108" width="702" height="18" font="3">just be avoided, or else its suffix has to be stripped off in order to pass the filter and</text>
+<text top="859" left="108" width="456" height="18" font="3">appear in code-switching. This is not the case, however.</text>
+<text top="908" left="108" width="34" height="18" font="3">(52)</text>
+<text top="908" left="162" width="353" height="18" font="3">ngo5 gwo3 di1 sang1 wut6 hou2 <i> <b>relaxing</b></i><b> </b></text>
+<text top="932" left="162" width="334" height="18" font="3">I       live    CL  life             very  relaxing</text>
+<text top="955" left="162" width="365" height="18" font="3">“The life I’ve been leading is very relaxing.”</text>
+<text top="979" left="162" width="272" height="18" font="3">(Cantonese-<i>English</i>, Chan 1992) </text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">28</text>
+<text top="857" left="123" width="12" height="11" font="0">25</text>
+<text top="861" left="136" width="674" height="16" font="1">In (52), the subject is the external argument of the predicate “<i>relax</i>”, from which the adjective</text>
+<text top="882" left="108" width="342" height="16" font="1">“<i>relaxing</i>” is derived (i.e. <i>Something </i>relaxes me </text>
+<text top="877" left="450" width="360" height="22" font="13"> <i>Something </i>is relaxing). In (53), the subject is the</text>
+<text top="902" left="108" width="702" height="16" font="1">internal argument of the predicate “<i>deprive</i>”, from which the adjective/past participle “<i>deprived</i>” is</text>
+<text top="922" left="108" width="354" height="16" font="1">derived (e.g. Somebody deprives <i>me </i>(of something) </text>
+<text top="918" left="462" width="348" height="22" font="13"> <i>I </i>am deprived (of something).). In Cantonese, the</text>
+<text top="943" left="108" width="702" height="16" font="1">adjectives are not derived from verbs; therefore, it is difficult to speak of equivalent thematic relations</text>
+<text top="963" left="108" width="702" height="16" font="1">between subjects, adjectives/participles and their corresponding predicates/verbs. Actually, in (53), the</text>
+<text top="983" left="108" width="702" height="16" font="1">equivalent word for  “<i>deprive</i>” in Cantonese - “<i>mok1 soek3” - </i>is used as a full verb rather than an</text>
+<text top="1004" left="108" width="702" height="16" font="1">adjective. In this light, it is even doubtful whether the English adjectives/participles in (52) and (53) are</text>
+<text top="1024" left="108" width="702" height="16" font="1">“congruent” with their ML equivalents in terms of <i>predicate-argument </i>structure (assuming that</text>
+<text top="1044" left="108" width="493" height="16" font="1">Cantonese is the ML), further violating the Lemma Congruence model.</text>
+<text top="189" left="108" width="34" height="18" font="3">(53)</text>
+<text top="189" left="162" width="502" height="18" font="3">jau2 jat1 sai3 gei2 mut6 jau5 fong3 gong1 hoei3 <i>have a drink</i></text>
+<text top="213" left="162" width="501" height="18" font="3">have one century    no    have after  work   go      have a drink</text>
+<text top="237" left="162" width="214" height="18" font="3">gam2 gok3 hou2 <i><b>deprived</b></i></text>
+<text top="261" left="162" width="209" height="18" font="3">feel             very deprived</text>
+<text top="285" left="162" width="629" height="18" font="3">“For ages (I) haven’t gone to have a drink after work; (I) feel very deprived.”</text>
+<text top="309" left="162" width="474" height="18" font="3">(Cantonese-<i>English</i>, Li 1996: 190 - newspaper column)    </text>
+<text top="357" left="123" width="687" height="18" font="3">Facing similar forms in Arabic-English, Myers-Scotton and Jake (1995: 998-999)</text>
+<text top="381" left="108" width="703" height="18" font="3">suggest that participles should be exempted from blocking by ML because they are</text>
+<text top="404" left="108" width="702" height="18" font="3">“category-internal” and “syntactically irrelevant” to external syntactic relations. True,</text>
+<text top="428" left="108" width="702" height="18" font="3">the derivational suffix is category-internal in the sense that without it the word would not</text>
+<text top="452" left="108" width="701" height="18" font="3">be an adjective anymore. Nevertheless, it is hard to see how the suffix is “syntactically</text>
+<text top="476" left="108" width="702" height="18" font="3">irrelevant” here - Notice that the alternation of <i>-ing </i>and <i>-ed </i>forms is sensitive to the</text>
+<text top="500" left="108" width="602" height="18" font="3">interpretation of the Cantonese subjects external to the English adjectives.</text>
+<text top="498" left="710" width="12" height="11" font="0">25</text>
+<text top="524" left="123" width="686" height="18" font="3">The Functional Head Selection approach predicts straight away that these adjectives</text>
+<text top="548" left="108" width="702" height="18" font="3">appear in their “full” English form: Only then would they be of the recognized category -</text>
+<text top="572" left="108" width="702" height="18" font="3">adjectives - which are called for in those particular positions. Obviously, they appear not</text>
+<text top="596" left="108" width="702" height="18" font="3">because they are morphologically and syntactically “adapted” to Cantonese - their</text>
+<text top="620" left="108" width="701" height="18" font="3">derivational suffix endings are not shared by their ML counterparts, that is, the</text>
+<text top="644" left="108" width="181" height="18" font="3">Cantonese adjectives. </text>
+<text top="668" left="123" width="687" height="18" font="3">A question arises as to what selects the adjectives then. Following Abney (1987), I</text>
+<text top="692" left="108" width="702" height="18" font="3">assume that what have traditionally been called adjective phrases are actually <i>degree</i></text>
+<text top="716" left="108" width="702" height="18" font="2"><i>phrases/DegP</i>. With reference to examples (52) to (53), the English adjectives are</text>
+<text top="740" left="108" width="594" height="18" font="3">preceded by the Cantonese <i>“hou2</i>”, which carries the meaning of “<i>very</i>”.</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="17" family="Times" color="#000000"/>
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">29</text>
+<text top="798" left="123" width="12" height="11" font="0">26</text>
+<text top="803" left="136" width="674" height="16" font="1">Gasde and Paul (1996) have recently analyzed <i>the</i> <i>linking particle and the N </i>(i.e. in (55)) as a</text>
+<text top="823" left="108" width="702" height="16" font="1">postposition in Mandarin Chinese. Matthews and Yip (1994) call N (in (97)) a <i>localizer</i>, and do not</text>
+<text top="843" left="108" width="702" height="16" font="1">commit themselves to any particular categorial status of these localizers. Here I assume that the localizer</text>
+<text top="864" left="108" width="702" height="16" font="1">is a noun because the linking particle always precedes nouns in other contexts. Though Gasde and Paul</text>
+<text top="884" left="108" width="702" height="16" font="1">(1996) have convincingly shown that the localizers are not typical nouns, I think one can still maintain</text>
+<text top="904" left="108" width="702" height="16" font="1">that the localizers are <i>defective </i>nouns, or [+N] elements. The DP and N in (55) form a complex DP.</text>
+<text top="925" left="108" width="702" height="16" font="1">More will be said about these issues in Chan (to appear). No matter which way one analyses these</text>
+<text top="945" left="108" width="701" height="16" font="1">localizers - as nouns or postpositions - they carry information which is typically encoded in the</text>
+<text top="965" left="108" width="702" height="16" font="1">prepositions of English. This renders English prepositions “incongruent” with Cantonese</text>
+<text top="986" left="108" width="125" height="16" font="1">prepositions(i.e. </text>
+<text top="986" left="224" width="398" height="16" font="7"><i>hai2</i>), the latter not encoding a specific locative meaning.</text>
+<text top="1019" left="123" width="12" height="11" font="0">27</text>
+<text top="1024" left="136" width="674" height="16" font="1">Sometimes, the preposition <i>hai2</i> appears without a localizer, where it means roughly “in” or “at” in</text>
+<text top="1044" left="108" width="702" height="16" font="1">English. For instance, “<i>keoi5 <b>hai2</b> Ying1gwok3 </i>(lit. He/She is in England.).” However, <i>hai2 </i>can be</text>
+<text top="189" left="108" width="702" height="18" font="6"><b>8 English prepositions/prepositional phrases in Cantonese-English code-switching</b></text>
+<text top="237" left="108" width="702" height="18" font="3">The appearance of English prepositions in Cantonese-English code-switching provides</text>
+<text top="260" left="108" width="702" height="18" font="3">yet another counter-example to the Lemma Congruence approach. In the case of English</text>
+<text top="284" left="108" width="702" height="18" font="3">plural nouns or derived adjectives, they should not appear under the Lemma Congruence</text>
+<text top="308" left="108" width="702" height="18" font="3">model because they are “incongruent” with their ML counterparts - that is, Cantonese</text>
+<text top="332" left="108" width="702" height="18" font="3">nouns and adjectives - in terms of morphological realization patterns. In this case,</text>
+<text top="356" left="108" width="702" height="18" font="3">English prepositions should not appear in Cantonese-English code-switching because</text>
+<text top="380" left="108" width="702" height="18" font="3">they are “incongruent” with their ML counterparts - Cantonese prepositions - in terms</text>
+<text top="404" left="108" width="573" height="18" font="3">of  “lexico-conceptual” structures. Let me elaborate on this point now.</text>
+<text top="428" left="123" width="686" height="18" font="3">English is prepositional, and the prepositional phrase(or PP) consists of a preposition</text>
+<text top="452" left="108" width="702" height="18" font="3">and a following determiner phrase (DP). It is the preposition itself which carries the</text>
+<text top="476" left="108" width="370" height="18" font="3">meaning of position or location. For instance,</text>
+<text top="524" left="108" width="34" height="18" font="3">(54)</text>
+<text top="524" left="162" width="7" height="18" font="3">[</text>
+<text top="534" left="169" width="17" height="11" font="0">PP </text>
+<text top="524" left="187" width="7" height="18" font="3">[</text>
+<text top="534" left="194" width="10" height="11" font="0">P </text>
+<text top="524" left="205" width="62" height="18" font="3">After] [</text>
+<text top="534" left="267" width="19" height="11" font="0">DP </text>
+<text top="524" left="287" width="523" height="18" font="3">this review]], we will submit this review to the government for</text>
+<text top="548" left="162" width="81" height="18" font="3">reference.</text>
+<text top="596" left="108" width="701" height="18" font="3">Cantonese has also been analyzed as prepositional. Nevertheless, the internal structure</text>
+<text top="620" left="108" width="702" height="18" font="3">of PP is drastically different from that of English - In Cantonese, the meaning of location</text>
+<text top="644" left="108" width="702" height="18" font="3">or position is carried by a noun (N), which is preceded by another determiner phrase (say</text>
+<text top="667" left="108" width="702" height="18" font="3">DP). What justifies the categorial status of the N is that one can insert a linking particle</text>
+<text top="691" left="108" width="702" height="18" font="2"><i>ge3</i> or <i>zi1 </i>between DP and N. This particle is used to link adjectives or noun phrase</text>
+<text top="715" left="108" width="558" height="18" font="3">modifiers with the head noun (Matthews and Yip 1994: 88, 158-159).</text>
+<text top="713" left="666" width="12" height="11" font="0">26</text>
+<text top="715" left="678" width="132" height="18" font="3"> The preposition</text>
+<text top="739" left="108" width="351" height="18" font="2"><i>hai2</i> does not carry the meaning of location.</text>
+<text top="737" left="459" width="12" height="11" font="0">27</text>
+<text top="739" left="471" width="339" height="18" font="3"> The internal structure of PPs in Cantonese</text>
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="15" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">30</text>
+<text top="983" left="108" width="702" height="16" font="1">analyzed a verb in this context as it may form A-not-A questions on a par with other verbs - “<i>keoi5 <b>hai2-</b></i></text>
+<text top="1003" left="108" width="702" height="16" font="14"><i><b>m4-hai2</b></i>(A-not-A)<i><b> </b>Ying1 gwok3? </i>(lit. “Is he/she in England?). In any case, there is no data in which an</text>
+<text top="1024" left="108" width="702" height="16" font="1">English preposition “in” or “at” appears in the position of <i>hai2 </i>- *<i>keoi4 </i><b>in/at </b><i>Ying1 gwok2</i> (He/she is</text>
+<text top="1044" left="108" width="90" height="16" font="1">in England.).</text>
+<text top="189" left="108" width="146" height="18" font="3">is thus as follows:</text>
+<text top="237" left="108" width="34" height="18" font="3">(55)</text>
+<text top="237" left="162" width="166" height="18" font="3">P      DP (ge3/zi1) N</text>
+<text top="261" left="162" width="226" height="18" font="3">hai2          LNK     <b>localizer</b></text>
+<text top="309" left="108" width="669" height="18" font="3">The following is the Cantonese translation of the English PP - “after this review”: </text>
+<text top="357" left="108" width="34" height="18" font="3">(56)</text>
+<text top="357" left="162" width="7" height="18" font="3">[</text>
+<text top="367" left="169" width="17" height="11" font="0">PP </text>
+<text top="357" left="186" width="7" height="18" font="3">[</text>
+<text top="367" left="192" width="7" height="11" font="0">P</text>
+<text top="357" left="200" width="59" height="18" font="3"> hai2] [</text>
+<text top="367" left="258" width="16" height="11" font="0">DP</text>
+<text top="357" left="274" width="82" height="18" font="3"> ni1   go3 </text>
+<text top="367" left="356" width="3" height="11" font="0"> </text>
+<text top="357" left="359" width="136" height="18" font="3">gim2 tou2] zi1  [</text>
+<text top="367" left="495" width="9" height="11" font="0">N</text>
+<text top="357" left="504" width="66" height="18" font="3"> hou6]]]</text>
+<text top="381" left="187" width="358" height="18" font="3">P           DEM    CL   review       LNK   after</text>
+<text top="405" left="162" width="186" height="18" font="3">“After this review…”  </text>
+<text top="453" left="108" width="701" height="18" font="3">Below is an example in which an English preposition appears in Cantonese-English</text>
+<text top="476" left="108" width="701" height="18" font="3">code-switching - an example which would have been erroneously ruled out by the</text>
+<text top="500" left="108" width="226" height="18" font="3">Lemma Congruence model.</text>
+<text top="548" left="108" width="34" height="18" font="3">(57)</text>
+<text top="548" left="162" width="570" height="18" font="2"><i>After</i> ni1     go2 <i>review</i> zi1   hou6, zau6 bei2 zing3 fu2    caam1 haau2</text>
+<text top="572" left="162" width="510" height="18" font="3">After  DEM CL review LNK after, then give government refer</text>
+<text top="596" left="162" width="52" height="18" font="3">“After</text>
+<text top="606" left="214" width="3" height="11" font="0"> </text>
+<text top="596" left="223" width="586" height="18" font="3">this review, (we) will submit (this review) to the government for</text>
+<text top="620" left="162" width="90" height="18" font="3">reference.”</text>
+<text top="644" left="162" width="648" height="18" font="3">(A police commander was asked about what the police would do after an</text>
+<text top="668" left="162" width="79" height="18" font="3">accident.)</text>
+<text top="692" left="162" width="555" height="18" font="3">(<i>English</i>-Cantonese, Chan 1992, also cited in Chan 1998: 196, (18))</text>
+<text top="740" left="108" width="703" height="18" font="3">Considering the Functional Head Selection approach, one may ask which functional</text>
+<text top="764" left="108" width="701" height="18" font="3">categories select the prepositions. That is not a relevant question for me here, as I follow</text>
+<text top="788" left="108" width="702" height="18" font="3">Grimshaw (1991) in assuming that prepositions are functional categories. What is</text>
+<text top="812" left="108" width="701" height="18" font="3">relevant here is that the English preposition, as in the code-switching example (57),</text>
+<text top="836" left="108" width="702" height="18" font="3">selects a Cantonese DP as complement. Although the Cantonese DP (complement of P)</text>
+<text top="860" left="108" width="702" height="18" font="3">is very different from the English DP (complement of P) in the sense that the former</text>
+<text top="883" left="108" width="702" height="18" font="3">encodes the meaning of location, it seems that code-switching may take place if the c-</text>
+<text top="907" left="108" width="702" height="18" font="3">selection restrictions between functional heads and their complements are satisfied. That</text>
+</page>
+<page number="31" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">31</text>
+<text top="189" left="108" width="327" height="18" font="3">is, the English preposition selects a DP. </text>
+<text top="261" left="108" width="121" height="18" font="6"><b>9 Conclusions</b></text>
+<text top="308" left="108" width="702" height="18" font="3">In this paper, I have compared two approaches to the syntax of intra-sentential code-</text>
+<text top="332" left="108" width="702" height="18" font="3">switching - the Lemma Congruence model and the Functional Head Selection approach -</text>
+<text top="356" left="108" width="702" height="18" font="3">and argue that the latter is superior to the former both empirically and theoretically. The</text>
+<text top="380" left="108" width="702" height="18" font="3">Functional Head Selection approach not only accounts for data from Cantonese-English</text>
+<text top="404" left="108" width="702" height="18" font="3">code-switching which are erroneously ruled out by the Lemma Congruence model, it is</text>
+<text top="428" left="108" width="703" height="18" font="3">also more economical as a theory in entailing no additional “code-switching” grammar.</text>
+<text top="452" left="108" width="702" height="18" font="3">Assuming the Functional Head Selection approach is indeed correct, I would like to</text>
+<text top="476" left="108" width="703" height="18" font="3">highlight a number of important implications (which I have mentioned at various places</text>
+<text top="500" left="108" width="113" height="18" font="3">in this paper).</text>
+<text top="524" left="123" width="687" height="18" font="3">We need to rethink the necessity of a matrix language/ML vs. embedded language/EL</text>
+<text top="548" left="108" width="700" height="18" font="3">dichotomy in the morpho-syntax of intra-sentential code-switching, even though in many</text>
+<text top="572" left="108" width="702" height="18" font="3">code-switching discourses such a distinction is apparent (e.g. ML contributes more</text>
+<text top="595" left="108" width="702" height="18" font="3">morphemes; the sentence structure is basically that of the ML, etc.).  In those cases which</text>
+<text top="619" left="108" width="702" height="18" font="3">I have analyzed as exceptions to the Lemma Congruence model - the English nouns,</text>
+<text top="643" left="108" width="701" height="18" font="3">adjectives and prepositions - Cantonese appears dominant. Indeed, in most of these cases</text>
+<text top="667" left="108" width="702" height="18" font="3">the whole sentence just contains one single English word. Supposedly Cantonese is ML</text>
+<text top="691" left="108" width="702" height="18" font="3">and English is EL. Nonetheless, it is still possible for distinct features of the English</text>
+<text top="715" left="108" width="702" height="18" font="3">grammar (i.e. the plural marker <i>-s</i>, the morphological alternation of <i>-ing/-ed </i>forms) to</text>
+<text top="739" left="108" width="701" height="18" font="3">appear in a code-switched sentence. It follows that the Lemma Congruence model and</text>
+<text top="763" left="108" width="702" height="18" font="3">the Matrix Language Frame model (which the former derives from) must be excessively</text>
+<text top="787" left="108" width="86" height="18" font="3">restrictive.</text>
+<text top="811" left="123" width="686" height="18" font="3">The data and analysis presented in this paper has preferred certain assumptions in the</text>
+<text top="835" left="108" width="700" height="18" font="3">theory of phrase structure which are still subject to controversy. Remember that there is</text>
+<text top="859" left="108" width="701" height="18" font="3">an asymmetry between English verbs and nouns in their behaviour in Cantonese-English</text>
+<text top="883" left="108" width="701" height="18" font="3">code-switching: the former must not be inflected while the latter may be inflected in</text>
+<text top="907" left="108" width="702" height="18" font="3">appropriate contexts. To explain this asymmetry by the Functional Head Selection</text>
+<text top="931" left="108" width="702" height="18" font="3">approach, one has to assign a different status to noun inflection and verb inflection,</text>
+<text top="955" left="108" width="702" height="18" font="3">which seems not widely assumed in the literature. On the other hand, to explain the fact</text>
+<text top="978" left="108" width="702" height="18" font="3">that the English verb is always uninflected in Cantonese-English code-switching, one has</text>
+<text top="1002" left="108" width="702" height="18" font="3">to assume that English tense/agreement markers (and the Cantonese aspect marker as</text>
+<text top="1026" left="108" width="702" height="18" font="3">well) are separately represented in syntactic structure in INFL. This is contrary to a</text>
+</page>
+<page number="32" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">32</text>
+<text top="189" left="108" width="702" height="18" font="3">lexicalist account of English tense/agreement markers (e.g. Chomsky 1995, ch.4 and</text>
+<text top="213" left="108" width="704" height="18" font="3">others) - that these markers have been affixed to a word when it enters syntactic</text>
+<text top="237" left="108" width="96" height="18" font="3">derivations.</text>
+<text top="261" left="123" width="688" height="18" font="3">Last but not least, constraints on intra-sentential code-switching can be reduced to</text>
+<text top="285" left="108" width="702" height="18" font="3">principles which govern monolingual utterances as well. Accordingly, monolinguals,</text>
+<text top="309" left="108" width="704" height="18" font="3">bilinguals and polyglots essentially have the same “grammar” which generates</text>
+<text top="332" left="108" width="702" height="18" font="3">monolingual and code-switched (involving two or more languages) utterances alike. In</text>
+<text top="356" left="108" width="701" height="18" font="3">this paper, the relevant principle is the c-selection of functional categories. Other</text>
+<text top="380" left="108" width="702" height="18" font="3">grammatical principles which have been discussed in this light include word order</text>
+<text top="404" left="108" width="702" height="18" font="3">between heads and complements (Mahootian 1993) and feature-checking (MacSwan</text>
+<text top="428" left="108" width="53" height="18" font="3">1997).</text>
+<text top="524" left="108" width="95" height="18" font="6"><b>References</b></text>
+<text top="571" left="108" width="681" height="16" font="1">Abney, S. (1987) <i>The English Noun Phrase and its Sentential Aspects</i>. Doctoral dissertation. MIT.</text>
+<text top="591" left="108" width="702" height="16" font="1">Belazi, H., Rubin, E. and Toribio, J. (1994) Code switching and X-bar theory: The Functional Head</text>
+<text top="611" left="123" width="298" height="16" font="1">constraint. <i>Linguistic Inquiry </i>25, 221-237. </text>
+<text top="632" left="108" width="701" height="16" font="1">Bentahila, A. (1995) Review of ‘Duelling languages: Grammatical structure in codeswitching’.</text>
+<text top="652" left="123" width="179" height="16" font="7"><i>Language </i>71, 1, 135-140.</text>
+<text top="672" left="108" width="702" height="16" font="1">Bentahila, A. and Davis, E.D. (1983) The syntax of Arabic-French code-switching. <i>Lingua </i>59, 301-330.</text>
+<text top="693" left="123" width="4" height="16" font="1"> </text>
+<text top="713" left="108" width="702" height="16" font="1">Bock, K. and Levelt, W. (1994) Language production: Grammatical encoding. In M. A. Gernsbacher</text>
+<text top="733" left="123" width="518" height="16" font="1">(ed.), <i>Handbook of Psycholinguistics</i>, 945-984.<i>  </i>London:<i> </i>Academic Press. </text>
+<text top="754" left="108" width="700" height="16" font="1">Bokamba, E. G. (1989) Are there syntactic constraints on code-mixing? <i>World Englishes </i>8, 277-292.</text>
+<text top="774" left="108" width="702" height="16" font="1">Chan, B. (1992) <i>Code-mixing in Hong Kong Cantonese-English bilinguals: Constraints and processes.</i></text>
+<text top="794" left="123" width="629" height="16" font="1">Unpublished M.A. dissertation. Department of English, Chinese University of Hong Kong.</text>
+<text top="815" left="108" width="702" height="16" font="1">Chan, B. (1998) How does Cantonese-English code-mixing work? In M.C. Pennington(ed.), <i>Language</i></text>
+<text top="835" left="123" width="547" height="16" font="7"><i>use in Hong Kong at century’s end.</i> Hong Kong: Hong Kong University Press. </text>
+<text top="855" left="108" width="702" height="16" font="1">Chan, B. (to appear) <i>Aspects of the syntax and pragmatics of Cantonese-English intra-sentential code-</i></text>
+<text top="876" left="123" width="268" height="16" font="7"><i>switching</i>. University College London.</text>
+<text top="896" left="108" width="545" height="16" font="1">Cheng, L. (1991) <i>On the typology of wh-questions. </i>Doctoral dissertation. MIT.</text>
+<text top="916" left="108" width="637" height="16" font="1">Chomsky, N. (1965) <i>Aspects of the theory of syntax. </i>Cambridge, Massachusetts: MIT Press.</text>
+<text top="937" left="108" width="534" height="16" font="1">Chomsky, N. (1981) <i>Lectures on Government and Binding</i>. Dordrecht: Foris.</text>
+<text top="957" left="108" width="465" height="16" font="1">Chomsky, N. (1986a) <i>Knowledge of language. </i>New York: Praeger.</text>
+<text top="977" left="108" width="493" height="16" font="1">Chomsky, N. (1986b) <i>Barriers. </i>Cambridge, Massachusetts: MIT Press.</text>
+<text top="998" left="108" width="597" height="16" font="1">Chomsky, N. (1995) <i>The Minimalist Program. </i>Cambridge, Massachusetts: MIT Press.</text>
+<text top="1018" left="108" width="702" height="16" font="1">Di Sciullo, A., Muysken, P. and Singh, R. (1986) Government and code-mixing. <i>Journal of Linguistics</i></text>
+<text top="1038" left="123" width="62" height="16" font="1">22, 1-24.</text>
+</page>
+<page number="33" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="384" width="346" height="16" font="7"><i>Functional heads and Cantonese phrase structure</i></text>
+<text top="132" left="793" width="17" height="16" font="1">33</text>
+<text top="188" left="108" width="702" height="16" font="1">Garrett, M. F. (1980) Levels of processing in sentence production. In B. Butterworth (ed.),<i> Langauge</i></text>
+<text top="208" left="123" width="438" height="16" font="7"><i>Production Vol.1: Speech and Talk</i>, 177-221. Academic Press. </text>
+<text top="229" left="108" width="702" height="16" font="1">Gasde H-D. and Paul, W. (1996) Functional categories, topic prominence and complex sentences in</text>
+<text top="249" left="123" width="304" height="16" font="1">Mandarin Chinese. <i>Linguistics </i>34, 263-294.</text>
+<text top="269" left="108" width="702" height="16" font="1">Gibbons, J. (1987) <i>Code-mixing and Code choice: A Hong Kong Case Study. </i>Clevedon, Avon:</text>
+<text top="290" left="123" width="161" height="16" font="1">Multilingual Matters. <i> </i> </text>
+<text top="310" left="108" width="471" height="16" font="1">Grimshaw, J. (1991) <i>Extended Projection</i>. Ms. Brandeis University.</text>
+<text top="330" left="108" width="700" height="16" font="1">Halmari, H. (1997) <i>Government and code-switching: explaining American-Finnish.</i> John Benjamins.</text>
+<text top="351" left="108" width="702" height="16" font="1">Jake, J. and Myers-Scotton, C. (1997) Codeswsitching and compromise strategies: Implications for</text>
+<text top="371" left="123" width="471" height="16" font="1">lexical structure. <i>International Journal of Bilingualism </i>1 (1), 25-40.</text>
+<text top="391" left="108" width="702" height="16" font="1">Kamwangamalu, N. M. (1989) The morphosyntactic aspects of French/English-Bantu code-mixing:</text>
+<text top="412" left="123" width="687" height="16" font="1">Evidence for Universal Constraints. In <i>CLS 25, Parasession on Language in Context</i>, 157-170.</text>
+<text top="432" left="123" width="288" height="16" font="1">Chicago, IL: Chicago Linguistic Society. </text>
+<text top="452" left="108" width="597" height="16" font="1">Kayne, R. (1994) <i>The Antisymmetry of Syntax</i>. Cambridge, Massachusetts: MIT Press.</text>
+<text top="473" left="108" width="702" height="16" font="1">Leung, Y-B. (1988) Constraints on intrasentential code-mixing in Cantonese and English. <i>Hong Kong</i></text>
+<text top="493" left="123" width="687" height="16" font="7"><i>Papers in Linguistics and Language Teaching: Special Issue</i>, 23-40<i>. </i>Hong Kong: University of Hong</text>
+<text top="513" left="123" width="42" height="16" font="1">Kong.</text>
+<text top="534" left="108" width="399" height="16" font="1">Levelt, W. (1989) <i>Speaking</i>. Cambridge, MA: MIT Press.</text>
+<text top="554" left="108" width="702" height="16" font="1">Li, D.C-S. (1996) <i>Issues in Bilingualism and Biculturalism: a Hong Kong case study</i>. New York: Peter</text>
+<text top="574" left="123" width="39" height="16" font="1">Lang.</text>
+<text top="595" left="108" width="702" height="16" font="1">Longobardi, G. (1994) Reference and proper names: a theory of N-movement in syntax and logical form.</text>
+<text top="615" left="123" width="237" height="16" font="7"><i>Linguistic Inquiry </i>25(4), 609-665.</text>
+<text top="635" left="108" width="702" height="16" font="1">MacSwan, J. (1997) <i>A Minimalist approach to intra-sentential code-switching: Spanish-Nahuatl</i></text>
+<text top="656" left="123" width="646" height="16" font="7"><i>Bilingualism in Central Mexico. </i>Doctoral dissertation. University of California, Los Angeles.</text>
+<text top="676" left="108" width="702" height="16" font="1">Mahootian, S. (1993) <i>A null theory of code-switching. </i>Doctoral dissertation. Northwestern University.</text>
+<text top="697" left="108" width="702" height="16" font="1">Mahootian, S. and Santorini, B. (1996) Code switching and the complement/adjunct distinction.</text>
+<text top="717" left="123" width="234" height="16" font="7"><i>Linguistic Inquiry</i> 27, 3,<i> </i>464-479.</text>
+<text top="737" left="108" width="655" height="16" font="1">Matthews, S. and Yip, V. (1994) <i>Cantonese: A Comprehensive Grammar</i>. London: Routledge.</text>
+<text top="758" left="108" width="702" height="16" font="1">Muysken, P. and de Rooij, V. (1995) Review of ‘Social Motivations for Code-switching: Evidence from</text>
+<text top="778" left="123" width="687" height="16" font="1">Africa’ and ‘Duelling Languages: Grammatical Structure in Codeswitching’. <i>Linguistics </i>33, 1043-</text>
+<text top="798" left="123" width="39" height="16" font="1">1066.</text>
+<text top="819" left="108" width="702" height="16" font="1">Myers-Scotton, C. (1993) <i>Duelling languages: Grammatical structure in codeswitching.</i> Oxford: Oxford</text>
+<text top="839" left="123" width="117" height="16" font="1">University Press.</text>
+<text top="859" left="108" width="702" height="16" font="1">Myers-Scotton, C. (1995) A lexically-based production model in code-switching. In Milroy, L. and</text>
+<text top="880" left="123" width="687" height="16" font="1">Muysken, P. (eds.) <i>One speaker: Two languages: Cross-disciplinary perspectives</i>, 233-256<i>.</i></text>
+<text top="900" left="123" width="298" height="16" font="1">Cambridge: Cambridge University Press. <i> </i> </text>
+<text top="920" left="108" width="702" height="16" font="1">Myers-Scotton, C. and Jake, J. (1995) Matching lemmas in a bilingual language competence and</text>
+<text top="941" left="123" width="629" height="16" font="1">production model: evidence from intrasentential code-switching. <i>Linguistics </i>33, 981-1024.</text>
+<text top="961" left="108" width="702" height="16" font="1">Pennington, M. C., Chan, B. and Lau, L. (1996) Unpublished data of Cantonese-English code-switching.</text>
+<text top="981" left="123" width="688" height="16" font="7"><i>Hong Kong bilingual radio: a changing profile</i>. (Strategic Grants Research from the City University</text>
+<text top="1002" left="123" width="687" height="16" font="1">of Hong Kong, with M. Pennington as principal investigator, B. Chan as assistant investigator and L.</text>
+<text top="1022" left="123" width="227" height="16" font="1">Lau as senior research assistant.)</text>
+<text top="1042" left="108" width="702" height="16" font="1">Pennignton, M. C., Lau, L. and Chan, B. (to appear) Establishing discourse coherence bilingually: A</text>
+</page>
+<page number="34" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="118" height="16" font="7"><i>Hok-shing, Chan</i></text>
+<text top="132" left="108" width="17" height="16" font="1">34</text>
+<text top="188" left="123" width="687" height="16" font="1">comparison of code-switching and code-mixing modes. <i>Conference Proceedings for XVIth</i></text>
+<text top="208" left="123" width="422" height="16" font="7"><i>International Congress of Linguists, Paris, July 20-25, 1997</i>.</text>
+<text top="229" left="108" width="702" height="16" font="1">Pollock, J.-Y. (1989) Verb movement, universal grammar and the structure of IP. <i>Linguistic Inquiry </i>20,</text>
+<text top="249" left="123" width="62" height="16" font="1">365-424.</text>
+<text top="269" left="108" width="642" height="16" font="1">Radford, A. (1990) <i>Syntactic Theory and the Acquisition of English Syntax. </i>Basil Blackwell.</text>
+<text top="290" left="108" width="640" height="16" font="1">Ritter, E. (1991) Two functional categories in noun phrases: evidence from modern Hebrew.</text>
+<text top="310" left="108" width="591" height="16" font="7"><i>Syntax and Semantics, 25: Perspectives on Phrase Structure</i>, 37-62. Academic Press.</text>
+<text top="330" left="108" width="702" height="16" font="1">Stemberger, J.P. (1985) An interactive activation model of language production. In A. W. Ellis (ed.),</text>
+<text top="351" left="123" width="527" height="16" font="7"><i>Progress in the Psychology of Language</i>, 143-186. Norwood, NJ: Erlbaum. </text>
+<text top="371" left="108" width="702" height="16" font="1">Teng, Anne, Y-Y. (1997) <i>Count/Mass distinction in Cantonese and its acquisition.</i> Ms. University</text>
+<text top="391" left="123" width="116" height="16" font="1">College London.</text>
+<text top="412" left="108" width="702" height="16" font="1">Thráinsson, H. (1997) On the (non-)universality of functional categories. In W. Abraham, S. Epstein,</text>
+<text top="432" left="123" width="408" height="16" font="1">H. Thráinsson, J-W. Zwart (eds.), <i>Minimal Ideas</i>, 253-281.</text>
+</page>
+</pdf2xml>

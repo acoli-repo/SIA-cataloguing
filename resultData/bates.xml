@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+<text top="938" left="123" width="6" height="11" font="0">*</text>
+<text top="943" left="129" width="680" height="16" font="1">Authors' affiliations: College of St Mark &amp; St John, Plymouth (Bates), University College London</text>
+<text top="963" left="108" width="701" height="16" font="1">(Harris), Royal Hospital for Sick Children, Edinburgh (Watson). An earlier version of this paper (entitled</text>
+<text top="983" left="108" width="702" height="16" font="1">'Melody and prosody in a vowel disorder') was presented at the Fourth Symposium of the International</text>
+<text top="1004" left="108" width="702" height="16" font="1">Clinical Phonetics and Linguistics Association, New Orleans, November 1994. Our thanks are due to</text>
+<text top="1024" left="108" width="702" height="16" font="1">Nigel Hewlett, Jim Scobbie and Neil Smith for their helpful comments on the paper and to Geoff</text>
+<text top="1044" left="108" width="445" height="16" font="1">Lindsey for his contribution to the research on which it is based.</text>
+<text top="133" left="108" width="367" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 9 (1997)</text>
+<text top="185" left="108" width="564" height="32" font="4"><i><b>Prosody and melody in vowel disorder</b></i></text>
+<text top="181" left="672" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="270" left="108" width="513" height="18" font="3">SALLY BATES, JOHN HARRIS &amp; JOCELYNNE WATSON</text>
+<text top="368" left="152" width="76" height="18" font="6"><b>Abstract</b></text>
+<text top="414" left="152" width="614" height="16" font="1">The paper explores the syllabic and segmental facets of phonological vowel disorder. The</text>
+<text top="434" left="152" width="614" height="16" font="1">independence of the two dimensions is illustrated by the case study of an English-speaking</text>
+<text top="455" left="152" width="615" height="16" font="1">child presenting with a vowel impairment which can be shown to have a specifically</text>
+<text top="475" left="152" width="614" height="16" font="1">syllabic basis. His rendition of adult long vowels displays three main patterns of deviance</text>
+<text top="495" left="152" width="614" height="16" font="1">— shortening, bisyllabification and the hardening of a target off-glide to a stop. Viewed</text>
+<text top="516" left="152" width="614" height="16" font="1">phonemically, these patterns appear as unconnected substitutions and distortions. Viewed</text>
+<text top="536" left="152" width="614" height="16" font="1">syllabically, however, they can be traced to a single underlying deficit, namely a failure to</text>
+<text top="556" left="152" width="609" height="16" font="1">secure the complex nuclear structure necessary for the coding of vowel length contrasts.</text>
+<text top="626" left="108" width="126" height="18" font="6"><b>1 Introduction</b></text>
+<text top="673" left="108" width="701" height="18" font="3">One problem with attempting to specify the nature of disorders affecting the phonology</text>
+<text top="697" left="108" width="220" height="18" font="3">of vowels lies in the notion </text>
+<text top="700" left="328" width="58" height="15" font="7">VOWEL</text>
+<text top="697" left="387" width="68" height="18" font="3"> itself. V</text>
+<text top="700" left="455" width="47" height="15" font="7">OWEL</text>
+<text top="697" left="502" width="308" height="18" font="3"> is a lay term which is ambiguous in so</text>
+<text top="721" left="108" width="702" height="18" font="3">far as it can refer either to a sound's syllabic position or to its phonetic quality. In the first</text>
+<text top="745" left="108" width="702" height="18" font="3">sense, it describes a sound which occupies the nuclear portion of a syllable. In the</text>
+<text top="769" left="108" width="702" height="18" font="3">second, it describes the quality of a sound produced with open approximation of the</text>
+<text top="793" left="108" width="701" height="18" font="3">articulators. The notion has no unique embodiment in modern non-linear constructions</text>
+<text top="817" left="108" width="702" height="18" font="3">of phonological representation, in which the syllabic and qualitative dimensions are kept</text>
+<text top="841" left="108" width="702" height="18" font="3">formally distinct. Syllabic constituents are integrated into the prosodic hierarchy, where</text>
+<text top="865" left="108" width="702" height="18" font="3">they dominate skeletal positions and are themselves gathered into feet and phonological</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="17" family="Times" color="#000000"/>
+	<fontspec id="9" size="20" family="OLNFAC+MSTT31c71200" color="#000000"/>
+	<fontspec id="10" size="20" family="OLNIOM+MSTT31c72200" color="#000000"/>
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="9" height="16" font="1">2</text>
+<text top="189" left="108" width="701" height="18" font="3">words. Phonetic quality for its part expresses the melodic content of segments, composed</text>
+<text top="213" left="108" width="702" height="18" font="3">of featural categories which are autosegmentally deployed on separate tiers. From a non-</text>
+<text top="237" left="108" width="701" height="18" font="3">linear perspective, a 'vowel' disorder could in principle selectively target either prosody</text>
+<text top="261" left="108" width="88" height="18" font="3">or melody.</text>
+<text top="285" left="123" width="687" height="18" font="3">Here we discuss the case study of an English-speaking child who was initially</text>
+<text top="309" left="108" width="702" height="18" font="3">diagnosed as presenting with a vowel impairment. The disorder, we will argue, has a</text>
+<text top="332" left="108" width="702" height="18" font="3">specifically syllabic basis. His production of adult long vowels displays three main</text>
+<text top="357" left="108" width="338" height="18" font="3">patterns of deviance — shortening (as in </text>
+<text top="351" left="446" width="32" height="26" font="9">Y+F</text>
+<text top="357" left="478" width="255" height="18" font="3"> <b>weed</b>), bisyllabification (as in </text>
+<text top="351" left="733" width="37" height="26" font="9">V1[&#34;</text>
+<text top="357" left="770" width="40" height="18" font="3"> <b>tyre</b></text>
+<text top="382" left="108" width="702" height="18" font="3">(<i>y</i> = IPA <i>j</i>)) and, most strikingly, hardening. Under the last of these, the second portion</text>
+<text top="406" left="108" width="624" height="18" font="3">of a target long vowel/diphthong is hardened to a labial or palatal stop, as in </text>
+<text top="401" left="733" width="32" height="26" font="9">MCD</text>
+<text top="406" left="766" width="44" height="18" font="3"> <b>cow</b>,</text>
+<text top="429" left="108" width="28" height="26" font="9">[+D</text>
+<text top="434" left="136" width="47" height="18" font="3"> <b>you</b>, </text>
+<text top="429" left="183" width="20" height="26" font="10">U+Ì</text>
+<text top="434" left="203" width="36" height="18" font="3"> <b>see</b>.</text>
+<text top="460" left="123" width="686" height="18" font="3">Described in traditional phonemic terms, shortening, bisyllabification and hardening</text>
+<text top="484" left="108" width="702" height="18" font="3">might give the impression of being an arbitrary collection of unconnected substitutions</text>
+<text top="508" left="108" width="702" height="18" font="3">and distortions. Viewed in relation to syllable structure, however, they can be shown to</text>
+<text top="531" left="108" width="702" height="18" font="3">stem from the same underlying deficit, namely a failure to secure the complex nuclear</text>
+<text top="555" left="108" width="702" height="18" font="3">structure necessary for the coding of vowel length contrasts. The deficit might have been</text>
+<text top="579" left="108" width="701" height="18" font="3">expected to produce across-the-board vowel shortening, including monophthongisation</text>
+<text top="603" left="108" width="700" height="18" font="3">of the sort reported in certain other studies of developing phonology (e.g. Bleile 1989,</text>
+<text top="627" left="108" width="700" height="18" font="3">Davis &amp; MacNeilage 1990) and disordered phonology (e.g. Gibbon, Shockey &amp; Reid</text>
+<text top="651" left="108" width="702" height="18" font="3">1992, Pollock &amp; Keiser 1990, Reynolds 1990). However, the generalisation of this effect</text>
+<text top="675" left="108" width="701" height="18" font="3">throughout the child's phonology is apparently forestalled by various pressures to retain</text>
+<text top="699" left="108" width="702" height="18" font="3">the overall quantity of target forms. Glide hardening, we will argue, represents a</text>
+<text top="723" left="108" width="654" height="18" font="3">response to the conflict between quantitative imperatives and the nuclear deficit.</text>
+<text top="747" left="123" width="687" height="18" font="3">Before introducing the case study in §3, we set the scene in §2 by considering what we</text>
+<text top="771" left="108" width="702" height="18" font="3">see as the main issues in the specification of vowel disorder. In §4, we provide arguments</text>
+<text top="795" left="108" width="702" height="18" font="3">supporting the assumption that the deficit presented in the case study is authentically</text>
+<text top="819" left="108" width="497" height="18" font="3">phonological in nature. §5 summarises the main conclusions.</text>
+<text top="891" left="108" width="392" height="18" font="6"><b>2 Phonological universals and vowel disorder</b></text>
+<text top="939" left="108" width="235" height="18" font="6"><b>2.1 Phonological 'deviance'</b></text>
+<text top="986" left="108" width="702" height="18" font="3">Research has largely vindicated Jakobson's (1971) claim that explicit parallels can be</text>
+<text top="1010" left="108" width="702" height="18" font="3">drawn between the universal preferences exhibited by primary phonological systems and</text>
+<text top="1034" left="108" width="701" height="18" font="3">the sorts of phenomena that occur in language impairment and the early stages of</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="801" width="9" height="16" font="1">3</text>
+<text top="209" left="108" width="702" height="18" font="3">language acquisition. The congruities are particularly clear in the realm of syllable</text>
+<text top="233" left="108" width="702" height="18" font="3">structure. Broadly speaking, syllabic configurations that are cross-linguistically</text>
+<text top="257" left="108" width="702" height="18" font="3">disfavoured tend to be suppressed in secondary systems — emergent or disordered</text>
+<text top="281" left="108" width="701" height="18" font="3">approximations of primary grammars. The best known examples involve the</text>
+<text top="305" left="108" width="701" height="18" font="3">syllabification of consonants: the relatively low incidence of consonant clusters and</text>
+<text top="329" left="108" width="702" height="18" font="3">word-final consonants in the world's languages is matched by a high incidence of</text>
+<text top="353" left="108" width="702" height="18" font="3">consonant deletion and consonant-supporting vowel epenthesis in language acquisition</text>
+<text top="377" left="108" width="702" height="18" font="3">and impairment. These patterns confirm the unmarked status of, among other things,</text>
+<text top="401" left="108" width="440" height="18" font="3">simplex onsets, open syllables and vowel-final words.</text>
+<text top="425" left="123" width="686" height="18" font="3">Although the facts of consonant syllabification relate to the constituency of onsets and</text>
+<text top="449" left="108" width="701" height="18" font="3">codas, they suggest a general preference for non-branching structure which might be</text>
+<text top="473" left="108" width="700" height="18" font="3">predicted to extend to the syllabification of vowels within nuclei. Only a minority of</text>
+<text top="496" left="108" width="702" height="18" font="3">languages possess a lexical contrast between short and long vowels, expressed</text>
+<text top="520" left="108" width="702" height="18" font="3">syllabically as a distinction between non-branching and branching nuclei (as in English</text>
+<text top="545" left="108" width="702" height="18" font="6"><b>bid</b> versus <b>bead</b>). If the Jakobsonian insight is of general validity, we should expect</text>
+<text top="569" left="108" width="702" height="18" font="3">vowel length contrasts to come under pressure to restructure in language acquisition and</text>
+<text top="593" left="108" width="702" height="18" font="3">disorder. This matter has been largely ignored in the relevant literature, but the</text>
+<text top="617" left="108" width="702" height="18" font="3">expectation appears to be borne out by the available evidence, some of which we discuss</text>
+<text top="640" left="108" width="40" height="18" font="3">here.</text>
+<text top="664" left="123" width="515" height="18" font="3">To the limited extent that the use of the ambiguous notion </text>
+<text top="667" left="639" width="58" height="15" font="7">VOWEL</text>
+<text top="664" left="697" width="113" height="18" font="3"> allows us to</text>
+<text top="688" left="108" width="702" height="18" font="3">formulate explicit hypotheses about the nature of phonological impairment, it makes no</text>
+<text top="712" left="108" width="702" height="18" font="3">particular predictions about whether disorders so designated will target either the</text>
+<text top="736" left="108" width="702" height="18" font="3">qualitative or the syllabic dimensions of segments. If anything, it encourages us to expect</text>
+<text top="760" left="108" width="702" height="18" font="3">a uniform impairment type that affects both dimensions simultaneously. Although non-</text>
+<text top="784" left="108" width="702" height="18" font="3">linear theory does not rule out such composite disorders in principle, the formally</text>
+<text top="808" left="108" width="702" height="18" font="3">established independence of melody and prosody explicitly predicts the occurrence of</text>
+<text top="832" left="108" width="702" height="18" font="3">impairments which target one dimension to the exclusion of the other. This seems to tally</text>
+<text top="856" left="108" width="702" height="18" font="3">with the empirical record. Broadly speaking, patterns traditionally referred to as additions</text>
+<text top="880" left="108" width="702" height="18" font="3">and omissions can be shown to have a primarily prosodic basis, while those described</text>
+<text top="904" left="108" width="702" height="18" font="3">as substitutions and distortions are primarily melodic in nature. Some reported cases of</text>
+<text top="928" left="108" width="702" height="18" font="3">'vowel' impairment evidently fall into the melodic category; that is, they specifically</text>
+<text top="952" left="108" width="702" height="18" font="3">target vowel quality (examples of which we discuss presently). The case study to be</text>
+<text top="976" left="108" width="702" height="18" font="3">discussed below, we will argue, exhibits the other error type predicted to affect vowels,</text>
+<text top="1000" left="108" width="701" height="18" font="3">one in which the prosodic subsystem is the primary site of disturbance (admittedly with</text>
+<text top="1023" left="108" width="176" height="18" font="3">melodic side-effects).</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="9" height="16" font="1">4</text>
+<text top="189" left="123" width="687" height="18" font="3">According to an essentially Jakobsonian line of thinking, the totality of unmarked</text>
+<text top="213" left="108" width="702" height="18" font="3">phonological alternatives defines the initial state in language acquisition. Normal</text>
+<text top="237" left="108" width="702" height="18" font="3">linguistic development proceeds via the switching of options in cases where the target</text>
+<text top="261" left="108" width="701" height="18" font="3">system shows the marked alternative. Any holdup in this resetting process will result in</text>
+<text top="285" left="108" width="702" height="18" font="3">a secondary system that is parochially deviant — one which belongs to the set of</text>
+<text top="309" left="108" width="702" height="18" font="3">universally possible primary systems but is inappropriate in relation to the ambient</text>
+<text top="332" left="108" width="702" height="18" font="3">model. It is a moot point whether impaired development can ever produce a grammar</text>
+<text top="356" left="108" width="701" height="18" font="3">that is universally deviant in the sense that it generates phonological structures which are</text>
+<text top="380" left="108" width="359" height="18" font="3">unattested in the world's primary languages.</text>
+<text top="404" left="123" width="687" height="18" font="3">In the case study to be presented in §3 and §4 below, the child's system shows itself to</text>
+<text top="428" left="108" width="702" height="18" font="3">be parochially deviant with respect to the organisation of nuclear structure. The disorder</text>
+<text top="452" left="108" width="702" height="18" font="3">consists in a failure to consolidate the branching constituent setting necessary for the full</text>
+<text top="476" left="108" width="702" height="18" font="3">acquisition of English vowel length contrasts. The perseverance of unmarked non-</text>
+<text top="500" left="108" width="704" height="18" font="3">branching structure results in a nuclear subsystem that is well-formed in many languages</text>
+<text top="524" left="108" width="411" height="18" font="3">but is inappropriate for languages such as English.</text>
+<text top="596" left="108" width="96" height="18" font="6"><b>2.2 Melody</b></text>
+<text top="644" left="108" width="703" height="18" font="3">The model of melodic representation which we employ in our case-study analysis</text>
+<text top="667" left="108" width="702" height="18" font="3">incorporates the following design properties: (i) all phonological distinctions are</text>
+<text top="691" left="108" width="701" height="18" font="3">privatively expressed in terms of monovalent elements; (ii) a single set of elements codes</text>
+<text top="715" left="108" width="702" height="18" font="3">resonance contrasts in nuclear positions ('vowels') and non-nuclear positions</text>
+<text top="739" left="108" width="702" height="18" font="3">('consonants'); and (iii) each element is phonetically interpretable in isolation from other</text>
+<text top="763" left="108" width="702" height="18" font="3">elements. We assume the traditional tricorn set of resonance elements, symbolised here</text>
+<text top="787" left="108" width="701" height="18" font="3">as [A], [I] and [U] (cf. Anderson &amp; Jones (1974), Schane (1984), van der Hulst (1989),</text>
+<text top="811" left="108" width="701" height="18" font="3">Kaye, Lowenstamm &amp; Vergnaud (1985), and the references in Harris (1994: ch 3)).</text>
+<text top="835" left="108" width="701" height="18" font="3">Individually, these define the corner vocalic values in (1)a; the two-element</text>
+<text top="859" left="108" width="330" height="18" font="3">combinations in (1)b define mid vowels.</text>
+<text top="907" left="108" width="24" height="18" font="3">(1)</text>
+<text top="907" left="152" width="58" height="18" font="3">(a) [A]</text>
+<text top="907" left="259" width="10" height="18" font="2"><i>a</i></text>
+<text top="907" left="438" width="24" height="18" font="3">(b)</text>
+<text top="907" left="486" width="40" height="18" font="3">[A,I]</text>
+<text top="907" left="605" width="9" height="18" font="2"><i>e</i></text>
+<text top="931" left="181" width="20" height="18" font="3">[I]</text>
+<text top="931" left="259" width="6" height="18" font="2"><i>i</i></text>
+<text top="931" left="486" width="48" height="18" font="3">[A,U]</text>
+<text top="931" left="605" width="10" height="18" font="2"><i>o</i></text>
+<text top="955" left="181" width="28" height="18" font="3">[U]</text>
+<text top="955" left="259" width="10" height="18" font="2"><i>u</i></text>
+<text top="1003" left="123" width="686" height="18" font="3">One manner category will figure in the analysis below, the stop element [?]. This</text>
+<text top="1027" left="108" width="701" height="18" font="3">inheres in non-continuant sounds, manifesting itself as an abrupt and sustained drop in</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="801" width="9" height="16" font="1">5</text>
+<text top="209" left="108" width="702" height="18" font="3">overall amplitude. When [?] appears in isolation, this effect is achieved by a glottal stop.</text>
+<text top="233" left="108" width="701" height="18" font="3">Otherwise, as illustrated in (2), the location of the stop gesture is determined by whatever</text>
+<text top="257" left="108" width="328" height="18" font="3">resonance element [?] is combined with.</text>
+<text top="305" left="108" width="24" height="18" font="3">(2)</text>
+<text top="305" left="181" width="91" height="18" font="3">Labial stop</text>
+<text top="305" left="324" width="43" height="18" font="3">[U,?]</text>
+<text top="329" left="181" width="94" height="18" font="3">Palatal stop</text>
+<text top="329" left="324" width="35" height="18" font="3">[I,?]</text>
+<text top="377" left="123" width="686" height="18" font="3">The categorisation of vowel space in terms of [A], [I] and [U] enjoys certain significant</text>
+<text top="401" left="108" width="702" height="18" font="3">empirical advantages over one based on the orthodox features [±high], [±low], [±back]</text>
+<text top="425" left="108" width="701" height="18" font="3">and [±round]. The element-based approach more directly reflects the fundamentally</text>
+<text top="449" left="108" width="702" height="18" font="3">triangular organisation of vowel space that is evidenced in phonological universals,</text>
+<text top="473" left="108" width="702" height="18" font="3">speech production and language acquisition. For example, the cardinal values</text>
+<text top="496" left="108" width="702" height="18" font="3">represented by <i>a, i</i> and <i>u</i> are by far the most common categories encountered in the</text>
+<text top="520" left="108" width="702" height="18" font="3">vowel systems of the world; indeed in many languages they are the only vowels</text>
+<text top="544" left="108" width="702" height="18" font="3">(Maddieson 1984). This universal preference is evidently related to the finding that the</text>
+<text top="568" left="108" width="703" height="18" font="3">corners of vowel space defined by these three cardinal points constitute 'quantal' areas</text>
+<text top="592" left="108" width="701" height="18" font="3">in speech production — regions which exploit the most robust match between distinctive</text>
+<text top="616" left="108" width="702" height="18" font="3">acoustic structure and possible articulatory gestures (Stevens 1989). The primacy of</text>
+<text top="640" left="108" width="701" height="18" font="3">these points is also demonstrated in the early post-babbling stages of vowel acquisition</text>
+<text top="664" left="108" width="189" height="18" font="3">(e.g. Bond <i>et al</i>. 1982).</text>
+<text top="688" left="123" width="686" height="18" font="3">Within an orthodox feature framework, the tricorn organisation of vowel space is no</text>
+<text top="712" left="108" width="702" height="18" font="3">more than a contingent fact. The intersection of one height feature, [±high] say, with</text>
+<text top="736" left="108" width="702" height="18" font="3">[±back] counterfactually predicts a basic rectangular pattern (expanded to further</text>
+<text top="760" left="108" width="702" height="18" font="3">dimensions by the addition of [±low] and  [±round]). Unmarked triangularity can only</text>
+<text top="784" left="108" width="702" height="18" font="3">be derived by the ad hoc expedient of introducing supplementary redundancy rules or</text>
+<text top="808" left="108" width="611" height="18" font="3">constraints, such as one which disables the [±back] contrast in low vowels.</text>
+<text top="832" left="123" width="688" height="18" font="3">In an element-based model, on the other hand, the triangular patterning of vowel space</text>
+<text top="856" left="108" width="701" height="18" font="3">follows as a necessary consequence of there being three basic elements. Moreover, the</text>
+<text top="879" left="108" width="702" height="18" font="3">unmarked status of <i>a, i</i> and <i>u</i> is directly reflected in the fact that, since they consist of</text>
+<text top="903" left="108" width="701" height="18" font="3">only one element each, they are representationally simpler than more marked non-corner</text>
+<text top="927" left="108" width="701" height="18" font="3">vowels, which contain at least two elements each. Any process that pushes contrasts</text>
+<text top="951" left="108" width="702" height="18" font="3">towards the periphery of vowel space is thus straightforwardly expressible as element</text>
+<text top="975" left="108" width="702" height="18" font="3">simplification. This 'centrifugal' effect is widely attested in the raising and lowering of</text>
+<text top="999" left="108" width="702" height="18" font="3">mid vowels that occur in primary grammars. In many languages — Portuguese, Catalan</text>
+<text top="1023" left="108" width="702" height="18" font="3">and Bulgarian, for example — the maximal system of vowel contrasts is restricted to</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="9" height="16" font="1">6</text>
+<text top="979" left="123" width="6" height="11" font="0">1</text>
+<text top="983" left="129" width="681" height="16" font="1">A good case can be made for saying that the reduction in representational complexity accompanying</text>
+<text top="1004" left="108" width="702" height="16" font="1">the diphthongisation of mid vowels to <i>aw</i> and <i>ay</i> goes hand in hand with a decrease in acoustic</text>
+<text top="1024" left="108" width="702" height="16" font="1">complexity. The acoustic signatures of mid vowels can be viewed as amalgamations of simpler spectral</text>
+<text top="1044" left="108" width="472" height="16" font="1">patterns associated with the corner vowels (Harris &amp; Lindsey 1995).</text>
+<text top="189" left="108" width="702" height="18" font="3">positions bearing main word stress; elsewhere we find contracted sets of peripheral</text>
+<text top="213" left="108" width="57" height="18" font="3">values.</text>
+<text top="237" left="123" width="686" height="18" font="3">The primacy of corner vowels and the marked status of mid vowels are further</text>
+<text top="261" left="108" width="702" height="18" font="3">supported by the fact that similar centrifugal effects are observable in the early stages of</text>
+<text top="285" left="108" width="702" height="18" font="3">vowel acquisition. Levelt's (1994) study of normal Dutch-acquiring children amply</text>
+<text top="309" left="108" width="702" height="18" font="3">illustrates the prevalence of processes which, in element terms, constitute melodic</text>
+<text top="332" left="108" width="702" height="18" font="3">simplifications. Mid vowels are subject to lowering ((3)a), raising ((3)b) and</text>
+<text top="356" left="108" width="193" height="18" font="3">diphthongisation ((3)c).</text>
+<text top="404" left="108" width="24" height="18" font="3">(3)</text>
+<text top="404" left="152" width="119" height="18" font="3">(a) [A,I] &gt; [A]</text>
+<text top="404" left="452" width="98" height="18" font="3">[A,U] &gt; [A]</text>
+<text top="428" left="190" width="46" height="18" font="3">Adult</text>
+<text top="428" left="259" width="45" height="18" font="3">Child</text>
+<text top="428" left="452" width="46" height="18" font="3">Adult</text>
+<text top="428" left="540" width="45" height="18" font="3">Child</text>
+<text top="447" left="190" width="31" height="26" font="9">:'M</text>
+<text top="447" left="258" width="32" height="26" font="9">JCM</text>
+<text top="452" left="324" width="42" height="18" font="3">'silly'</text>
+<text top="447" left="452" width="38" height="26" font="9">DQO</text>
+<text top="447" left="540" width="38" height="26" font="9">DCO</text>
+<text top="452" left="605" width="38" height="18" font="3">'tree'</text>
+<text top="501" left="152" width="111" height="18" font="3">(b) [A,I] &gt; [I]</text>
+<text top="501" left="452" width="98" height="18" font="3">[A,U] &gt; [U]</text>
+<text top="525" left="190" width="46" height="18" font="3">Adult</text>
+<text top="525" left="259" width="45" height="18" font="3">Child</text>
+<text top="525" left="452" width="46" height="18" font="3">Adult</text>
+<text top="525" left="540" width="45" height="18" font="3">Child</text>
+<text top="544" left="190" width="27" height="26" font="9">\'U</text>
+<text top="544" left="270" width="24" height="26" font="9">\+U</text>
+<text top="549" left="324" width="31" height="18" font="3">'six'</text>
+<text top="544" left="452" width="32" height="26" font="9">R1R</text>
+<text top="544" left="540" width="34" height="26" font="9">RWR</text>
+<text top="549" left="605" width="39" height="18" font="3">'doll'</text>
+<text top="598" left="152" width="160" height="18" font="3">(c) [A,U] &gt; [A] [U]</text>
+<text top="622" left="190" width="46" height="18" font="3">Adult</text>
+<text top="622" left="259" width="45" height="18" font="3">Child</text>
+<text top="640" left="190" width="41" height="26" font="9">MQM&#34;</text>
+<text top="640" left="259" width="56" height="26" font="9">MCYM&#34;</text>
+<text top="646" left="324" width="47" height="18" font="3">'cook'</text>
+<text top="695" left="108" width="702" height="18" font="3">Representationally, each of these processes produces melodic simplification: a two-</text>
+<text top="719" left="108" width="702" height="18" font="3">element compound, defining an adult mid vowel, is dissolved in one way or another. In</text>
+<text top="743" left="108" width="704" height="18" font="3">the case of lowering ((3)a) and raising ((3)b), the result is a straightforward reduction to</text>
+<text top="767" left="108" width="702" height="18" font="3">one element. Viewed in articulatory terms, diphthongisation of <i>o</i> to <i>aw</i> ((3)c) presents</text>
+<text top="791" left="108" width="702" height="18" font="3">itself as an increase in complexity: a single basic gesture gives way to a movement</text>
+<text top="814" left="108" width="702" height="18" font="3">between two gestures. However, unlike the mid-vowel articulation, the manoeuvres</text>
+<text top="838" left="108" width="701" height="18" font="3">involved in the production of the diphthong execute universally favoured corner</text>
+<text top="862" left="108" width="702" height="18" font="3">qualities, in this case <i>a</i> and <i>i</i>. This change to unmarked structure is captured elementally</text>
+<text top="886" left="108" width="702" height="18" font="3">as a decrease in melodic complexity: a two-element compound is unpacked into a linear</text>
+<text top="910" left="108" width="232" height="18" font="3">sequence of single elements.</text>
+<text top="908" left="340" width="6" height="11" font="0">1</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="801" width="9" height="16" font="1">7</text>
+<text top="209" left="123" width="686" height="18" font="3">Processes which shift vowels in the opposite direction to mid-vowel raising and</text>
+<text top="233" left="108" width="702" height="18" font="3">lowering can only be expressed as an increase in melodic complexity. High-vowel</text>
+<text top="257" left="108" width="702" height="18" font="3">lowering, for example, involves the addition of [A]. In primary grammars, this type of</text>
+<text top="281" left="108" width="702" height="18" font="3">shift almost always occurs under the harmonic influence of a neighbouring non-high</text>
+<text top="305" left="108" width="701" height="18" font="3">vowel. Context-free lowering of high vowels is extremely rare and runs counter to the</text>
+<text top="329" left="108" width="432" height="18" font="3">general patterns reported for early vowel acquisition.</text>
+<text top="353" left="123" width="687" height="18" font="3">Element theory thus provides a direct formal correlation between relative markedness</text>
+<text top="377" left="108" width="701" height="18" font="3">and degree of melodic complexity in vowels: the outputs of processes which move a</text>
+<text top="401" left="108" width="702" height="18" font="3">system towards an unmarked state are simpler than those with more marked</text>
+<text top="425" left="108" width="702" height="18" font="3">directionality. No such correlation is possible in orthodox feature theory, in which any</text>
+<text top="449" left="108" width="701" height="18" font="3">vowel shift, regardless of directionality, has to be expressed as the substitution of one set</text>
+<text top="473" left="108" width="702" height="18" font="3">of feature values by another. For example, an unmarked rule of mid-vowel raising is</text>
+<text top="496" left="108" width="521" height="18" font="3">formally no simpler than a marked rule of high-vowel lowering.</text>
+<text top="520" left="123" width="689" height="18" font="3">The unmarked status of simplification processes in normal acquisition suggests that the</text>
+<text top="544" left="108" width="704" height="18" font="3">occurrence of similar effects in developmental vowel impairment should be considered</text>
+<text top="568" left="108" width="704" height="18" font="3">indicative of delay. This would be the case in the examples of mid-vowel lowering and</text>
+<text top="592" left="108" width="702" height="18" font="3">diphthongisation in (4), reported in the disordered output of RC, one of the children</text>
+<text top="616" left="108" width="702" height="18" font="3">included in the Central Scottish Vowel Project (Watson, Bates, Sinclair &amp; Hewlett 1994).</text>
+<text top="664" left="108" width="24" height="18" font="3">(4)</text>
+<text top="664" left="152" width="119" height="18" font="3">(a) [A,I] &gt; [A]</text>
+<text top="664" left="438" width="24" height="18" font="3">(b)</text>
+<text top="664" left="486" width="115" height="18" font="3">[A,I] &gt; [A] [I]</text>
+<text top="682" left="190" width="39" height="26" font="9">VCFG</text>
+<text top="688" left="259" width="45" height="18" font="3">teddy</text>
+<text top="682" left="486" width="48" height="26" font="9">PC[UV</text>
+<text top="688" left="605" width="33" height="18" font="3">nest</text>
+<text top="708" left="190" width="26" height="26" font="9">UCN</text>
+<text top="713" left="259" width="38" height="18" font="3">shell</text>
+<text top="708" left="486" width="32" height="26" font="9">C[I</text>
+<text top="713" left="605" width="29" height="18" font="3">egg</text>
+<text top="733" left="190" width="49" height="26" font="9">RCFN\</text>
+<text top="738" left="259" width="52" height="18" font="3">pedals</text>
+<text top="733" left="486" width="48" height="26" font="9">&amp;C[O</text>
+<text top="738" left="605" width="41" height="18" font="3">them</text>
+<text top="787" left="108" width="702" height="18" font="3">Further exemplification of the favoured status of corner vowel qualities in developmental</text>
+<text top="811" left="108" width="702" height="18" font="3">disorder is provided by Reynolds (1990) and Stoel-Gammon &amp; Herrington (1990). In</text>
+<text top="835" left="108" width="704" height="18" font="3">contrast, processes which increase melodic complexity by introducing elementary</text>
+<text top="859" left="108" width="704" height="18" font="3">material that has no correspondent in the relevant adult target forms are more likely to</text>
+<text top="883" left="108" width="702" height="18" font="3">be deviant in relation to age norms. Lowering of high vowels, involving the addition of</text>
+<text top="907" left="108" width="640" height="18" font="3">[A], would fall into this category. Reynolds (1990) provides examples (such as </text>
+<text top="902" left="748" width="21" height="26" font="9">'R</text>
+<text top="907" left="769" width="41" height="18" font="3"> <b>leaf</b>,</text>
+<text top="927" left="108" width="31" height="26" font="9">VU1</text>
+<text top="932" left="139" width="414" height="18" font="3"> <b>shoe</b>) which he himself describes as idiosyncratic.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="17" family="Courier" color="#000000"/>
+	<fontspec id="12" size="14" family="Times" color="#000000"/>
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="9" height="16" font="1">8</text>
+<text top="189" left="108" width="102" height="18" font="6"><b>2.3 Prosody</b></text>
+<text top="237" left="108" width="702" height="18" font="3">Quantity contrasts in vowels, it is now generally agreed, are represented in the same</text>
+<text top="260" left="108" width="702" height="18" font="3">constituent-based terms as the syllabification of consonants in onsets and rhymes. A</text>
+<text top="284" left="108" width="702" height="18" font="3">short vowel takes up one nuclear position, while a long monophthong or diphthong takes</text>
+<text top="308" left="108" width="702" height="18" font="3">up two such positions. In other words, short in this context implies non-branching</text>
+<text top="332" left="108" width="703" height="18" font="3">nuclear structure, as in (5)a, while long implies branching structure, as in (5)b and (5)c.</text>
+<text top="380" left="108" width="24" height="18" font="3">(5)</text>
+<text top="380" left="152" width="23" height="18" font="3">(a)</text>
+<text top="375" left="181" width="11" height="26" font="9">C</text>
+<text top="380" left="324" width="24" height="18" font="3">(b)</text>
+<text top="375" left="378" width="16" height="26" font="9">C</text>
+<text top="380" left="540" width="23" height="18" font="3">(c)</text>
+<text top="375" left="605" width="21" height="26" font="9">C[</text>
+<text top="427" left="181" width="-165" height="14" font="11"> </text>
+<text top="427" left="192" width="10" height="14" font="11">N</text>
+<text top="427" left="378" width="-165" height="14" font="11"> </text>
+<text top="427" left="389" width="10" height="14" font="11">N</text>
+<text top="427" left="605" width="-165" height="14" font="11"> </text>
+<text top="427" left="615" width="10" height="14" font="11">N</text>
+<text top="445" left="181" width="10" height="14" font="11"> </text>
+<text top="442" left="192" width="10" height="19" font="12"></text>
+<text top="445" left="378" width="10" height="14" font="11"> </text>
+<text top="442" left="389" width="10" height="19" font="12"></text>
+<text top="445" left="399" width="10" height="14" font="11">\</text>
+<text top="445" left="605" width="10" height="14" font="11"> </text>
+<text top="442" left="615" width="10" height="19" font="12"></text>
+<text top="445" left="626" width="10" height="14" font="11">\</text>
+<text top="464" left="181" width="21" height="14" font="11"> x</text>
+<text top="464" left="378" width="42" height="14" font="11"> x x</text>
+<text top="464" left="605" width="42" height="14" font="11"> x x</text>
+<text top="483" left="181" width="10" height="14" font="11"> </text>
+<text top="479" left="192" width="10" height="19" font="12"></text>
+<text top="483" left="378" width="10" height="14" font="11"> </text>
+<text top="479" left="389" width="10" height="19" font="12"></text>
+<text top="483" left="399" width="10" height="14" font="11">/</text>
+<text top="483" left="605" width="10" height="14" font="11"> </text>
+<text top="479" left="615" width="10" height="19" font="12"></text>
+<text top="483" left="626" width="10" height="14" font="11"> </text>
+<text top="479" left="636" width="10" height="19" font="12"></text>
+<text top="501" left="181" width="31" height="14" font="11">[A]</text>
+<text top="501" left="378" width="31" height="14" font="11">[A]</text>
+<text top="501" left="605" width="31" height="14" font="11">[A]</text>
+<text top="498" left="636" width="10" height="19" font="12"></text>
+<text top="520" left="605" width="52" height="14" font="11">  [I]</text>
+<text top="564" left="108" width="701" height="18" font="3">In terms of their constituent status, short vowels are the nuclear counterpart of simplex</text>
+<text top="588" left="108" width="702" height="18" font="3">onset consonants, while long vowels are equivalent to onset clusters. Moreover, complex</text>
+<text top="612" left="108" width="702" height="18" font="3">nuclei may be considered left-headed in the same way as other syllabic constituents. For</text>
+<text top="636" left="108" width="702" height="18" font="3">example, as in branching onsets, the first position is distributionally better endowed than</text>
+<text top="660" left="108" width="701" height="18" font="3">the second. In English, virtually any vocalic quality can appear in the first nuclear slot</text>
+<text top="684" left="108" width="702" height="18" font="3">(although the details vary from dialect to dialect). Where the second slot is qualitatively</text>
+<text top="708" left="108" width="589" height="18" font="3">distinct from the first, as in a diphthong, it can only support an off-glide.</text>
+<text top="732" left="123" width="687" height="18" font="3">The universal preference for non-branching structure in onsets and rhymes extends to</text>
+<text top="756" left="108" width="700" height="18" font="3">nuclei, indicating that length contrasts in vowels are marked. This raises the question,</text>
+<text top="780" left="108" width="702" height="18" font="3">barely touched on in the relevant literature, of whether a preference for non-branching</text>
+<text top="804" left="108" width="702" height="18" font="3">nuclei is also manifested in phonological acquisition and impairment. If such a parallel</text>
+<text top="828" left="108" width="702" height="18" font="3">does indeed exist, we should expect it to consist in a disruption of vowel length contrasts.</text>
+<text top="852" left="108" width="702" height="18" font="3">In the case of onset clusters (consisting of an obstruent followed by a resonant), two</text>
+<text top="875" left="108" width="702" height="18" font="3">main simplification patterns manifest themselves in emergent or disordered phonology -</text>
+<text top="900" left="108" width="702" height="18" font="3">loss of the second consonant (e.g. <i>pley</i> &gt; <i>pey</i> <b>play</b>) and epenthesis of an intervening</text>
+<text top="924" left="108" width="102" height="18" font="3">vowel (e.g. </text>
+<text top="918" left="210" width="48" height="26" font="9">R&#34;NG[</text>
+<text top="924" left="258" width="550" height="18" font="3">). Corresponding developments in diphthongs would produce the</text>
+<text top="949" left="108" width="250" height="18" font="3">restructurings in (6)b and (6)c.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="10" family="Courier" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="801" width="9" height="16" font="1">9</text>
+<text top="209" left="108" width="24" height="18" font="3">(6)</text>
+<text top="209" left="152" width="23" height="18" font="3">(a)</text>
+<text top="209" left="324" width="24" height="18" font="3">(b)</text>
+<text top="209" left="486" width="23" height="18" font="3">(c)</text>
+<text top="231" left="181" width="10" height="14" font="11">N</text>
+<text top="231" left="378" width="10" height="14" font="11">N</text>
+<text top="231" left="540" width="52" height="14" font="11">N O N</text>
+<text top="246" left="181" width="10" height="19" font="12"></text>
+<text top="249" left="192" width="10" height="14" font="11">\</text>
+<text top="246" left="378" width="10" height="19" font="12"></text>
+<text top="246" left="540" width="10" height="19" font="12"></text>
+<text top="249" left="551" width="10" height="14" font="11"> </text>
+<text top="246" left="561" width="10" height="19" font="12"></text>
+<text top="249" left="571" width="10" height="14" font="11"> </text>
+<text top="246" left="582" width="10" height="19" font="12"></text>
+<text top="268" left="181" width="31" height="14" font="11">x x</text>
+<text top="268" left="378" width="10" height="14" font="11">x</text>
+<text top="268" left="540" width="52" height="14" font="11">x x x</text>
+<text top="283" left="181" width="10" height="19" font="12"></text>
+<text top="286" left="192" width="10" height="14" font="11"> </text>
+<text top="283" left="202" width="10" height="19" font="12"></text>
+<text top="283" left="378" width="10" height="19" font="12"></text>
+<text top="283" left="540" width="10" height="19" font="12"></text>
+<text top="286" left="551" width="31" height="14" font="11">   </text>
+<text top="283" left="582" width="10" height="19" font="12"></text>
+<text top="305" left="181" width="10" height="14" font="11">v</text>
+<text top="313" left="192" width="6" height="8" font="13">1</text>
+<text top="305" left="198" width="17" height="14" font="11"> v</text>
+<text top="313" left="215" width="6" height="8" font="13">2</text>
+<text top="305" left="378" width="10" height="14" font="11">v</text>
+<text top="313" left="389" width="6" height="8" font="13">1</text>
+<text top="305" left="540" width="10" height="14" font="11">v</text>
+<text top="313" left="551" width="6" height="8" font="13">1</text>
+<text top="305" left="557" width="38" height="14" font="11">   v</text>
+<text top="313" left="594" width="6" height="8" font="13">2</text>
+<text top="350" left="108" width="702" height="18" font="3">Straightforward truncation of the right-hand position of the adult branching nucleus in</text>
+<text top="374" left="108" width="703" height="18" font="3">(6)a would result in a short monophthong, as in (6)b — the counterpart of cluster</text>
+<text top="398" left="108" width="702" height="18" font="3">reduction in onsets. Given the left-headedness of branching constituents, it is the first</text>
+<text top="422" left="108" width="702" height="18" font="3">portion of a target diphthong that would be expected to survive shortening. The</text>
+<text top="446" left="108" width="702" height="18" font="3">equivalent of consonant-supporting vowel epenthesis would be the split-nucleus</text>
+<text top="469" left="108" width="702" height="18" font="3">alternative in (6)c. Here the second slot of a target branching nucleus is salvaged through</text>
+<text top="493" left="108" width="701" height="18" font="3">assignment to the nucleus of an independent syllable. In this case, an adult long</text>
+<text top="517" left="108" width="701" height="18" font="3">diphthong would in effect be rendered as a sequence of two short vowels. Corresponding</text>
+<text top="541" left="108" width="701" height="18" font="3">developments affecting target long monophthongs would be expected to produce the</text>
+<text top="565" left="108" width="654" height="18" font="3">outcomes in (7)b (short monophthong) and (7)c (two identical vowels in hiatus).</text>
+<text top="613" left="108" width="24" height="18" font="3">(7)</text>
+<text top="613" left="152" width="23" height="18" font="3">(a)</text>
+<text top="613" left="324" width="24" height="18" font="3">(b)</text>
+<text top="613" left="486" width="23" height="18" font="3">(c)</text>
+<text top="635" left="181" width="10" height="14" font="11">N</text>
+<text top="635" left="378" width="10" height="14" font="11">N</text>
+<text top="635" left="540" width="52" height="14" font="11">N O N</text>
+<text top="650" left="181" width="10" height="19" font="12"></text>
+<text top="653" left="192" width="10" height="14" font="11">\</text>
+<text top="650" left="378" width="10" height="19" font="12"></text>
+<text top="650" left="540" width="10" height="19" font="12"></text>
+<text top="653" left="551" width="10" height="14" font="11"> </text>
+<text top="650" left="561" width="10" height="19" font="12"></text>
+<text top="653" left="571" width="10" height="14" font="11"> </text>
+<text top="650" left="582" width="10" height="19" font="12"></text>
+<text top="672" left="181" width="31" height="14" font="11">x x</text>
+<text top="672" left="378" width="10" height="14" font="11">x</text>
+<text top="672" left="540" width="52" height="14" font="11">x x x</text>
+<text top="687" left="181" width="10" height="19" font="12"></text>
+<text top="690" left="192" width="10" height="14" font="11">/</text>
+<text top="687" left="378" width="10" height="19" font="12"></text>
+<text top="687" left="540" width="10" height="19" font="12"></text>
+<text top="690" left="551" width="31" height="14" font="11">   </text>
+<text top="687" left="582" width="10" height="19" font="12"></text>
+<text top="709" left="181" width="10" height="14" font="11">v</text>
+<text top="709" left="378" width="10" height="14" font="11">v</text>
+<text top="709" left="540" width="10" height="14" font="11">v</text>
+<text top="717" left="551" width="6" height="8" font="13">i</text>
+<text top="709" left="557" width="38" height="14" font="11">   v</text>
+<text top="717" left="594" width="6" height="8" font="13">i</text>
+<text top="754" left="123" width="686" height="18" font="3">Both sets of alternatives in (6)b/(7)b and (6)c/(7)c are attested in the literature on</text>
+<text top="778" left="108" width="702" height="18" font="3">normal acquisition (even though particular examples are not always described in syllabic</text>
+<text top="802" left="108" width="702" height="18" font="3">terms). In a detailed study of the early emergence of prosodic structure in Dutch, Fikkert</text>
+<text top="825" left="108" width="700" height="18" font="3">(1994) reports the widespread appearance of shortened reflexes of adult long vowels</text>
+<text top="849" left="108" width="702" height="18" font="3">(pattern (6)b/(7)b) during a period before the stabilisation of length contrasts. A version</text>
+<text top="873" left="108" width="702" height="18" font="3">of the split-nucleus pattern in (6)c/(7)c is in fact well established in some dialects of</text>
+<text top="897" left="108" width="702" height="18" font="3">English, where it represents the 'broken' development of original long vowels,</text>
+<text top="922" left="108" width="346" height="18" font="3">particularly before historical <i>r</i> and <i>l</i> (as in </text>
+<text top="916" left="455" width="62" height="26" font="9">HK[&#34;T</text>
+<text top="922" left="517" width="50" height="18" font="3"> <b>fear</b>, </text>
+<text top="916" left="567" width="45" height="26" font="9">HK[&#34;N</text>
+<text top="922" left="612" width="198" height="18" font="3"> <b>feel</b>). Significantly, it is</text>
+<text top="947" left="108" width="702" height="18" font="3">also reported in early child approximations of dialects which do not display the broken</text>
+<text top="971" left="108" width="258" height="18" font="3">variants (e.g. Smith 1973: 130).</text>
+<text top="994" left="123" width="686" height="18" font="3">There is some indication that the alternative treatments of target long vowels in (6)b</text>
+<text top="1018" left="108" width="702" height="18" font="3">and (6)c also occur in developmental disorder. Published evidence potentially relating</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">10</text>
+<text top="189" left="108" width="702" height="18" font="3">to shortening is not always easy to interpret, since the relevant vowel disorders are often</text>
+<text top="213" left="108" width="702" height="18" font="3">described in terms of phonemic substitutions, and not all phonemic transcription systems</text>
+<text top="237" left="108" width="702" height="18" font="3">record vowel length. Cases of diphthong reduction (e.g. Gibbon <i>et al</i>. 1992, Pollock &amp;</text>
+<text top="261" left="108" width="703" height="18" font="3">Keiser 1990, Reynolds 1990) present prima facie evidence of shortening, but before</text>
+<text top="285" left="108" width="702" height="18" font="3">drawing any such conclusion it would be necessary to exclude the possibility of</text>
+<text top="309" left="108" width="702" height="18" font="3">compensatory lengthening in the output monophthong. The generalised laxing of English</text>
+<text top="332" left="108" width="702" height="18" font="3">tense vowels, reported in some studies of developmental disorder (see Stoel-Gammon</text>
+<text top="356" left="108" width="704" height="18" font="3">&amp; Herrington 1990 for references), almost certainly also implies concomitant shortening.</text>
+<text top="380" left="108" width="511" height="18" font="3">We discuss some unambiguous examples of shortening below.</text>
+<text top="404" left="123" width="688" height="18" font="3">As to the bisyllabification pattern in (6)c, Reynolds reports a particularly clear case,</text>
+<text top="429" left="108" width="151" height="18" font="3">with forms such as </text>
+<text top="423" left="259" width="49" height="26" font="9">R+[&#34;F</text>
+<text top="429" left="308" width="52" height="18" font="3"> <b>peas</b>, </text>
+<text top="423" left="359" width="41" height="26" font="9">5'Y&#34;</text>
+<text top="429" left="400" width="52" height="18" font="3"> <b>shoe</b>, </text>
+<text top="423" left="450" width="54" height="26" font="9">DC[&#34;F</text>
+<text top="429" left="504" width="53" height="18" font="3"> <b>boys</b>, </text>
+<text top="423" left="555" width="44" height="26" font="9">NC[&#34;V</text>
+<text top="429" left="600" width="79" height="18" font="3"> <b>light</b> and </text>
+<text top="423" left="679" width="43" height="26" font="9">CY&#34;V</text>
+<text top="429" left="721" width="89" height="18" font="3"> <b>out</b> (1990:</text>
+<text top="454" left="108" width="702" height="18" font="3">131). Examples such as these conform to the normal broken development just mentioned</text>
+<text top="478" left="108" width="702" height="18" font="3">in that they contain a medial glide. This, it is reasonable to assume, represents the onset</text>
+<text top="501" left="108" width="702" height="18" font="3">that splits independent nuclei. The quality of the onset either extends that of the</text>
+<text top="525" left="108" width="268" height="18" font="3">preceding nucleus (e.g. palatal in </text>
+<text top="520" left="376" width="27" height="26" font="9">+[&#34;</text>
+<text top="525" left="403" width="408" height="18" font="3">) or retains some portion of that present in the adult</text>
+<text top="551" left="108" width="199" height="18" font="3">target (as in the labial of </text>
+<text top="545" left="307" width="41" height="26" font="9">5'Y&#34;</text>
+<text top="551" left="347" width="337" height="18" font="3"> <b>shoe</b>). (The use of a transcription such as </text>
+<text top="545" left="684" width="16" height="26" font="9">+[</text>
+<text top="551" left="701" width="109" height="18" font="3"> in such cases</text>
+<text top="576" left="108" width="702" height="18" font="3">is thus a segmentalised way of alphabeticising the simultaneous association of a single</text>
+<text top="600" left="108" width="563" height="18" font="3">melodic unit ([I] in this instance) to a nucleus and a following onset.)</text>
+<text top="624" left="123" width="687" height="18" font="3">The intrusion of a <i>y</i> or <i>w</i> glide in the split-nucleus development reflects the suitability</text>
+<text top="648" left="108" width="702" height="18" font="3">of palatal and labial vocoids as onset occupants. It is instructive to consider what happens</text>
+<text top="672" left="108" width="702" height="18" font="3">when neither quality is available in the first position of an input nucleus — that is, when</text>
+<text top="695" left="108" width="343" height="18" font="3">this portion contains an open vowel (as in </text>
+<text top="690" left="452" width="16" height="26" font="9">C</text>
+<text top="695" left="468" width="10" height="18" font="3">, </text>
+<text top="690" left="478" width="26" height="26" font="9">CY</text>
+<text top="695" left="504" width="27" height="18" font="3"> or </text>
+<text top="690" left="531" width="21" height="26" font="9">C[</text>
+<text top="695" left="552" width="259" height="18" font="3">, for example). Bisyllabification</text>
+<text top="721" left="108" width="702" height="18" font="3">might be expected to be blocked under these conditions, and this is indeed what we find</text>
+<text top="744" left="108" width="702" height="18" font="3">in the study of disorder to be presented below. (It is also what occurs in those varieties</text>
+<text top="768" left="108" width="701" height="18" font="3">of adult English which otherwise show the broken pattern described above.)  However,</text>
+<text top="792" left="108" width="701" height="18" font="3">we have encountered the case of a phonologically impaired child in which the split-</text>
+<text top="816" left="108" width="615" height="18" font="3">nucleus strategy does appear to have been adopted in precisely this context.</text>
+<text top="840" left="123" width="686" height="18" font="3">DB, aged 4;1 at the time he was recorded as part of the Queen Margaret College</text>
+<text top="864" left="108" width="702" height="18" font="3">Cluster Acquisition Database project (Hardcastle, Fletcher, Gibbon &amp; Scobbie 1997),</text>
+<text top="888" left="108" width="702" height="18" font="3">displays thorough-going monophthongisation of Scottish English <i>ay</i>, which has long and</text>
+<text top="912" left="108" width="702" height="18" font="3">short reflexes in the adult system. His production of the long reflex is characterised by</text>
+<text top="936" left="108" width="702" height="18" font="3">a suite of variably present phonetic effects which are typically activated roughly midway</text>
+<text top="960" left="108" width="702" height="18" font="3">through the vowel; these include an abrupt change in phonation, especially to creaky</text>
+<text top="984" left="108" width="701" height="18" font="3">voice, an abrupt change in pitch, and an interval of significantly reduced overall</text>
+<text top="1008" left="108" width="702" height="18" font="3">amplitude (for a detailed instrumental analysis, see Scobbie &amp; Harris, in prep.). Most</text>
+<text top="1032" left="108" width="702" height="18" font="3">frequently, the extent of amplitude reduction is such as to indicate the presence of an</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">11</text>
+<text top="209" left="108" width="238" height="18" font="3">intervening glottal stop (i.e. </text>
+<text top="204" left="346" width="32" height="26" font="9">C!C</text>
+<text top="209" left="379" width="431" height="18" font="3">). A good case can be made for treating the medial</text>
+<text top="234" left="108" width="702" height="18" font="3">period of laryngeal activity as the consonantal reflex of an onset separating two short</text>
+<text top="258" left="108" width="595" height="18" font="3">vowels — in other words, an example of the split-nucleus pattern in (6)c.</text>
+<text top="282" left="123" width="686" height="18" font="3">Unlike simple truncation in (6)b, bisyllabification in (6)c preserves the overall bi-</text>
+<text top="306" left="108" width="702" height="18" font="3">positional quantity of an input branching nucleus, albeit redistributed over two nuclei.</text>
+<text top="330" left="108" width="702" height="18" font="3">There is in principle another means of retaining weight in the absence of branching</text>
+<text top="354" left="108" width="701" height="18" font="3">nuclear structure — vowel shortening accompanied by conversion of the second position</text>
+<text top="378" left="108" width="702" height="18" font="3">to a non-nuclear position (i.e. VV &gt; VC). Provided the non-nuclear position in question</text>
+<text top="402" left="108" width="702" height="18" font="3">bears weight (as in a closed VC rhyme, for example), it will compensate for the loss of</text>
+<text top="426" left="108" width="702" height="18" font="3">the nuclear slot. Several reported cases of vowel disorder appear to fit this pattern. SD,</text>
+<text top="450" left="108" width="702" height="18" font="3">one of the children studied by the Central Scottish Vowel Project (Watson <i>et al</i>. 1994),</text>
+<text top="474" left="108" width="701" height="18" font="3">shows a tendency to render target diphthongs as a short vowel followed by a nasal stop,</text>
+<text top="498" left="108" width="33" height="18" font="3">e.g. </text>
+<text top="492" left="141" width="37" height="26" font="9">VC0\</text>
+<text top="498" left="178" width="43" height="18" font="3"> <b>ties</b>, </text>
+<text top="492" left="219" width="36" height="26" font="9">CO\</text>
+<text top="498" left="255" width="50" height="18" font="3"> <b>eyes</b>, </text>
+<text top="492" left="303" width="42" height="26" font="9">JCPU</text>
+<text top="498" left="346" width="64" height="18" font="3"> <b>house</b>, </text>
+<text top="492" left="408" width="48" height="26" font="9">MNCPU</text>
+<text top="498" left="455" width="69" height="18" font="3"> <b>clouds</b>, </text>
+<text top="492" left="523" width="34" height="26" font="9">DCP</text>
+<text top="498" left="557" width="254" height="18" font="3"> <b>boy</b>. Here and below, A similar</text>
+<text top="523" left="108" width="702" height="18" font="3">pattern is recorded by Gibbon <i>et al</i>. (1992). A more dramatic version of this strategy, we</text>
+<text top="547" left="108" width="526" height="18" font="3">will argue, is observable in the case study to which we now turn.</text>
+<text top="619" left="108" width="279" height="18" font="6"><b>3 Nuclear disorder: a case study</b></text>
+<text top="667" left="108" width="54" height="18" font="6"><b>3.1 PS</b></text>
+<text top="714" left="108" width="702" height="18" font="3">PS was referred by his speech-language clinician to the Central Scottish Vowel Project</text>
+<text top="738" left="108" width="702" height="18" font="3">at 4;11 years, on the grounds of unusual vowel production. He had a history of recurrent</text>
+<text top="762" left="108" width="701" height="18" font="3">otitis media; audiometric testing at 4;10 years revealed a conductive hearing loss (30-40</text>
+<text top="786" left="108" width="702" height="18" font="3">dB) in the left ear. At 5 years his receptive language ability was judged to be at a stage</text>
+<text top="810" left="108" width="702" height="18" font="3">of 7+ years and his expressive language skills at 6+ years. Although PS lived in the north</text>
+<text top="834" left="108" width="702" height="18" font="3">of Ireland (Belfast) until he was three and has subsequently been resident in Scotland</text>
+<text top="858" left="108" width="701" height="18" font="3">(Edinburgh), his main target system appears to be essentially of the standard type</text>
+<text top="882" left="108" width="702" height="18" font="3">historically associated with the south of England (henceforth simply the 'southern'</text>
+<text top="906" left="108" width="702" height="18" font="3">system). This is the dialect of the family home (although his father is from the north of</text>
+<text top="929" left="108" width="702" height="18" font="3">England (Nottingham) and his mother from Belfast) and is also used by his sister (four</text>
+<text top="953" left="108" width="493" height="18" font="3">years his elder) and his neighbouring maternal grandparents.</text>
+<text top="977" left="123" width="686" height="18" font="3">The data to be discussed here were collected during eight sessions when PS was aged</text>
+<text top="1001" left="108" width="701" height="18" font="3">between 4;11 and 6;7 years and have previously been reported in Bates &amp; Watson (1995)</text>
+<text top="1025" left="108" width="702" height="18" font="3">and Bates, Hewlett, Kaighin, Sinclair, Sweet &amp; Watson (1993). The bulk of examples</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">12</text>
+<text top="189" left="108" width="701" height="18" font="3">are drawn from two corpora: one comprises 493 vowel tokens elicited during three</text>
+<text top="213" left="108" width="702" height="18" font="3">presentations of a single-word picture naming task at 4;11, 5;5 and 6;2 years; the other</text>
+<text top="237" left="108" width="702" height="18" font="3">(exploiting PS's precocious reading ability) consists of 317 read tokens gathered at 5;7</text>
+<text top="261" left="108" width="702" height="18" font="3">and 6;7 years. The productions were transcribed phonetically both at the time of data</text>
+<text top="285" left="108" width="701" height="18" font="3">collection and afterwards from audio-recordings (Sony TCD D3 DAT with ECM S220</text>
+<text top="309" left="108" width="109" height="18" font="3">microphone).</text>
+<text top="381" left="108" width="306" height="18" font="6"><b>3.2 Shortening and glide hardening</b></text>
+<text top="428" left="108" width="702" height="18" font="3">We start by considering PS's subsystem of short stressed vowels. Here he shows a five-</text>
+<text top="452" left="108" width="702" height="18" font="3">way contrast in place of the standard six-term inventory. As illustrated in the forms in</text>
+<text top="476" left="108" width="273" height="18" font="3">(8), the distinction between short </text>
+<text top="470" left="382" width="6" height="26" font="9">+</text>
+<text top="476" left="388" width="40" height="18" font="3"> and </text>
+<text top="470" left="428" width="11" height="26" font="9">7</text>
+<text top="476" left="439" width="157" height="18" font="3"> is collapsed under </text>
+<text top="470" left="596" width="6" height="26" font="9">+</text>
+<text top="476" left="603" width="123" height="18" font="3"> in PS's output.</text>
+<text top="525" left="108" width="24" height="18" font="3">(8)</text>
+<text top="525" left="181" width="30" height="18" font="3">lick</text>
+<text top="519" left="270" width="23" height="26" font="9">N+M</text>
+<text top="525" left="438" width="41" height="18" font="3">book</text>
+<text top="519" left="540" width="28" height="26" font="9">D+M</text>
+<text top="550" left="181" width="31" height="18" font="3">red </text>
+<text top="544" left="259" width="36" height="26" font="9">Y'F</text>
+<text top="550" left="438" width="36" height="18" font="3">mug</text>
+<text top="544" left="540" width="37" height="26" font="9">O8I</text>
+<text top="575" left="181" width="30" height="18" font="3">jam</text>
+<text top="569" left="259" width="42" height="26" font="9">F]O</text>
+<text top="575" left="438" width="45" height="18" font="3">socks</text>
+<text top="569" left="540" width="39" height="26" font="9">U3MU</text>
+<text top="623" left="108" width="702" height="18" font="3">It would probably be wide of the mark to view the merger as a straightforward</text>
+<text top="647" left="108" width="121" height="18" font="3">substitution of </text>
+<text top="642" left="229" width="11" height="26" font="9">7</text>
+<text top="647" left="241" width="29" height="18" font="3"> by </text>
+<text top="642" left="270" width="6" height="26" font="9">+</text>
+<text top="647" left="277" width="533" height="18" font="3">. All of the adult systems to which PS has had prolonged exposure</text>
+<text top="672" left="108" width="700" height="18" font="3">have relatively fronted variants of high round vowels, both short and long.</text>
+<text top="696" left="108" width="702" height="18" font="3">Representationally, this quality comprises not only [U] (contributing labiality) but also</text>
+<text top="720" left="108" width="181" height="18" font="3">[I] (palatality). PS's </text>
+<text top="715" left="289" width="24" height="26" font="9">7+</text>
+<text top="720" left="313" width="497" height="18" font="3"> merger thus consists in a failure to sustain [U] in this</text>
+<text top="746" left="108" width="142" height="18" font="3">combination; the </text>
+<text top="740" left="250" width="6" height="26" font="9">+</text>
+<text top="746" left="257" width="458" height="18" font="3"> in a word such as <b>book</b> manifests the residual target [I].</text>
+<text top="771" left="123" width="686" height="18" font="3">The most noteworthy characteristics of PS's vocalic phonology occur in his version of</text>
+<text top="795" left="108" width="700" height="18" font="3">the adult long subsystem, comprising both diphthongs and long monophthongs.</text>
+<text top="818" left="108" width="702" height="18" font="3">Although adult-like long vowels occasionally appear in his data (more so in the later</text>
+<text top="842" left="108" width="702" height="18" font="3">recording sessions), his output diverges in a number of systematic ways from the</text>
+<text top="866" left="108" width="702" height="18" font="3">presumed target. Three main developments are in evidence here. One is shortening,</text>
+<text top="890" left="108" width="294" height="18" font="3">exemplified by the following forms:</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">13</text>
+<text top="897" left="123" width="6" height="11" font="0">2</text>
+<text top="902" left="129" width="681" height="16" font="1">Of the other dialects to which PS has been exposed, northern Irish English also shows a long vowel</text>
+<text top="922" left="108" width="702" height="16" font="1">in at least some of the words in (9)c (albeit one that is phonologically conditioned rather than distinctive</text>
+<text top="943" left="108" width="702" height="16" font="1">as in the southern system). A corresponding short vowel can occur in some of the relevant varieties of</text>
+<text top="963" left="108" width="702" height="16" font="1">Scottish English. The father's geographical background in the north of England (where shortness is the</text>
+<text top="983" left="108" width="701" height="16" font="1">basic pattern) is an unlikely source of the short vowel in (9)c, since his dialect is basically southern in</text>
+<text top="1004" left="108" width="702" height="16" font="1">type. We cannot rule out the possibility that PS's short vowel here reflects a system-internal</text>
+<text top="1024" left="108" width="702" height="16" font="1">development. Whatever its source, the favouring of shortness over southern length is consistent with</text>
+<text top="1044" left="108" width="469" height="16" font="1">what we will try to show is the overall design of PS's vowel system.</text>
+<text top="209" left="108" width="24" height="18" font="3">(9)</text>
+<text top="209" left="152" width="72" height="18" font="3">(a) weed</text>
+<text top="204" left="259" width="32" height="26" font="9">Y+F</text>
+<text top="209" left="452" width="38" height="18" font="3">beak</text>
+<text top="204" left="540" width="28" height="26" font="9">D+M</text>
+<text top="258" left="152" width="80" height="18" font="3">(b) height</text>
+<text top="253" left="259" width="32" height="26" font="9">J1F</text>
+<text top="258" left="452" width="35" height="18" font="3">tube</text>
+<text top="253" left="540" width="24" height="26" font="9">V+D</text>
+<text top="283" left="181" width="46" height="18" font="3">spade</text>
+<text top="278" left="259" width="38" height="26" font="9">UR+F</text>
+<text top="283" left="452" width="47" height="18" font="3">groan</text>
+<text top="278" left="540" width="44" height="26" font="9">IY+P</text>
+<text top="332" left="152" width="69" height="18" font="3">(c) class</text>
+<text top="327" left="259" width="49" height="26" font="9">MY]U</text>
+<text top="332" left="452" width="42" height="18" font="3">grass</text>
+<text top="327" left="540" width="50" height="26" font="9">IY]U</text>
+<text top="357" left="181" width="55" height="18" font="3">branch</text>
+<text top="352" left="259" width="61" height="26" font="9">DY]PU</text>
+<text top="357" left="452" width="58" height="18" font="3">banana</text>
+<text top="352" left="540" width="69" height="26" font="9">D&#34;P]P&#34;</text>
+<text top="406" left="108" width="702" height="18" font="3">As the forms in (9)b illustrate, shortening goes hand in hand with monophthongisation.</text>
+<text top="430" left="108" width="251" height="18" font="3">The words with short low front </text>
+<text top="425" left="360" width="15" height="26" font="9">]</text>
+<text top="430" left="375" width="435" height="18" font="3"> in (9)c are included here on the grounds that they have</text>
+<text top="455" left="108" width="93" height="18" font="3">long broad </text>
+<text top="450" left="201" width="16" height="26" font="9">C</text>
+<text top="455" left="217" width="192" height="18" font="3"> in the southern system.</text>
+<text top="452" left="410" width="6" height="11" font="0">2</text>
+<text top="455" left="416" width="357" height="18" font="3"> A second pattern is  bisyllabification, as in </text>
+<text top="450" left="773" width="37" height="26" font="9">V1[&#34;</text>
+<text top="480" left="108" width="70" height="18" font="6"><b>tire</b> and </text>
+<text top="475" left="178" width="54" height="26" font="9">H4CY&#34;</text>
+<text top="480" left="232" width="53" height="18" font="3"> <b>flour</b>.</text>
+<text top="505" left="123" width="686" height="18" font="3">The third main development in the long subsystem, and perhaps the most striking</text>
+<text top="529" left="108" width="701" height="18" font="3">feature of PS's phonology, is a process of hardening. In its most general form, this results</text>
+<text top="553" left="108" width="701" height="18" font="3">in an adult up-gliding vowel being rendered as a short vowel followed by an oral stop.</text>
+<text top="577" left="108" width="702" height="18" font="3">The hardened offset retains the basic place property of the target, producing labial <i>b</i> for</text>
+<text top="604" left="108" width="112" height="18" font="2"><i>w</i> and palatal </text>
+<text top="599" left="220" width="6" height="26" font="10">Ì</text>
+<text top="604" left="226" width="212" height="18" font="3"> for <i>y</i>, as in forms such as </text>
+<text top="599" left="439" width="32" height="26" font="9">MCD</text>
+<text top="604" left="471" width="79" height="18" font="3"> <b>cow</b> and </text>
+<text top="599" left="550" width="20" height="26" font="10">U+Ì</text>
+<text top="604" left="570" width="36" height="18" font="3"> <b>see</b>.</text>
+<text top="630" left="123" width="637" height="18" font="3">Hardening of the labial up-gliding series is illustrated by the following forms :</text>
+<text top="678" left="108" width="34" height="18" font="3">(10)</text>
+<text top="672" left="181" width="26" height="26" font="9">WY</text>
+<text top="678" left="207" width="24" height="18" font="2"><i> = </i></text>
+<text top="672" left="231" width="18" height="26" font="9">+D</text>
+<text top="672" left="378" width="25" height="26" font="9">&#34;Y</text>
+<text top="678" left="403" width="24" height="18" font="2"><i> = </i></text>
+<text top="672" left="427" width="21" height="26" font="9">&#34;D</text>
+<text top="672" left="605" width="26" height="26" font="9">CY</text>
+<text top="678" left="631" width="24" height="18" font="2"><i> = </i></text>
+<text top="672" left="655" width="22" height="26" font="9">CD</text>
+<text top="703" left="190" width="16" height="18" font="3">to</text>
+<text top="697" left="259" width="24" height="26" font="9">V+D</text>
+<text top="703" left="378" width="45" height="18" font="3">know</text>
+<text top="697" left="438" width="32" height="26" font="9">P&#34;D</text>
+<text top="703" left="605" width="34" height="18" font="3">cow</text>
+<text top="697" left="648" width="32" height="26" font="9">MCD</text>
+<text top="728" left="190" width="31" height="18" font="3">you</text>
+<text top="722" left="259" width="28" height="26" font="9">[+D</text>
+<text top="728" left="378" width="18" height="18" font="3">so</text>
+<text top="722" left="438" width="30" height="26" font="9">U&#34;D</text>
+<text top="728" left="605" width="35" height="18" font="3">now</text>
+<text top="722" left="648" width="34" height="26" font="9">PCD</text>
+<text top="753" left="190" width="20" height="18" font="3">do</text>
+<text top="747" left="259" width="29" height="26" font="9">F+D</text>
+<text top="753" left="378" width="25" height="18" font="3">toe</text>
+<text top="747" left="438" width="28" height="26" font="9">V&#34;D</text>
+<text top="802" left="108" width="480" height="18" font="3">Note the absence of rounding in the vocalic portion of </text>
+<text top="796" left="590" width="26" height="26" font="9">WY</text>
+<text top="802" left="616" width="28" height="18" font="3"> = </text>
+<text top="796" left="644" width="18" height="26" font="9">+D</text>
+<text top="802" left="662" width="148" height="18" font="3">, an effect that is</text>
+<text top="827" left="108" width="239" height="18" font="3">consistent with the merger of </text>
+<text top="821" left="346" width="11" height="26" font="9">7</text>
+<text top="827" left="357" width="38" height="18" font="3"> and </text>
+<text top="821" left="395" width="6" height="26" font="9">+</text>
+<text top="827" left="402" width="408" height="18" font="3"> in the short subsystem (cf. (8)). (Lack of rounding</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="18" family="Times" color="#000000"/>
+	<fontspec id="15" size="12" family="Times" color="#000000"/>
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">14</text>
+<text top="189" left="108" width="703" height="18" font="3">in the corresponding portion of the vowel in <b>know, so</b>, etc. is unremarkable, given the</text>
+<text top="208" left="108" width="25" height="26" font="9">&#34;Y</text>
+<text top="213" left="133" width="393" height="18" font="3"> value of this diphthong in the southern system.)</text>
+<text top="238" left="123" width="652" height="18" font="3">The effects of hardening on the palatal up-gliding series are exemplified in (11).</text>
+<text top="289" left="108" width="66" height="18" font="3">(11) (a)</text>
+<text top="284" left="181" width="16" height="26" font="9">K[</text>
+<text top="289" left="198" width="24" height="18" font="2"><i> = </i></text>
+<text top="284" left="221" width="12" height="26" font="10">+Ì</text>
+<text top="284" left="378" width="20" height="26" font="9">G[</text>
+<text top="289" left="398" width="24" height="18" font="2"><i> = </i></text>
+<text top="284" left="422" width="15" height="26" font="10">'Ì</text>
+<text top="318" left="181" width="24" height="18" font="3">we</text>
+<text top="312" left="216" width="20" height="26" font="10">Y+</text>
+<text top="319" left="236" width="5" height="16" font="14"><i>ï</i></text>
+<text top="318" left="378" width="35" height="18" font="3">they</text>
+<text top="312" left="438" width="20" height="26" font="10">&amp;'</text>
+<text top="319" left="458" width="5" height="16" font="14"><i>ï</i></text>
+<text top="346" left="181" width="26" height="18" font="3">see</text>
+<text top="341" left="216" width="20" height="26" font="10">U+Ì</text>
+<text top="346" left="378" width="29" height="18" font="3">bay</text>
+<text top="341" left="438" width="26" height="26" font="10">D'Ì</text>
+<text top="375" left="181" width="19" height="18" font="3">he</text>
+<text top="369" left="216" width="22" height="26" font="10">J+Ì</text>
+<text top="375" left="378" width="29" height="18" font="3">day</text>
+<text top="369" left="438" width="26" height="26" font="10">F'Ì</text>
+<text top="428" left="152" width="24" height="18" font="3">(b)</text>
+<text top="422" left="181" width="21" height="26" font="9">C[</text>
+<text top="428" left="202" width="24" height="18" font="2"><i> = </i></text>
+<text top="422" left="226" width="16" height="26" font="10">#Ì</text>
+<text top="422" left="378" width="19" height="26" font="10">n[</text>
+<text top="428" left="397" width="24" height="18" font="2"><i> = </i></text>
+<text top="422" left="421" width="15" height="26" font="10">nÌ</text>
+<text top="456" left="181" width="28" height="18" font="3">eye</text>
+<text top="451" left="216" width="17" height="26" font="10">#Ì</text>
+<text top="456" left="378" width="31" height="18" font="3">boy</text>
+<text top="451" left="438" width="26" height="26" font="10">DnÌ</text>
+<text top="485" left="181" width="28" height="18" font="3">sky</text>
+<text top="479" left="216" width="34" height="26" font="10">UM#Ì</text>
+<text top="534" left="108" width="702" height="18" font="3">Where the short vowel before the hardened reflex is front, as in the examples in (11)a,</text>
+<text top="558" left="108" width="702" height="18" font="3">the whole VC sequence is fully palatal. The basic palatal identity of the stop is confirmed</text>
+<text top="582" left="108" width="701" height="18" font="3">by the fact that it is retained even after a back vowel ((11)b). This gives rise to a</text>
+<text top="606" left="108" width="702" height="18" font="3">transitional palatal glide between the vocalic and consonantal phases; narrowly</text>
+<text top="633" left="108" width="315" height="18" font="3">transcribed, a form such as <b>eye</b> is thus </text>
+<text top="628" left="423" width="11" height="26" font="10">#</text>
+<text top="623" left="433" width="6" height="16" font="15">[</text>
+<text top="628" left="439" width="6" height="26" font="10">Ì</text>
+<text top="633" left="445" width="5" height="18" font="3">.</text>
+<text top="659" left="123" width="686" height="18" font="3">For reasons to be expanded on presently, we consider it significant that shortening in</text>
+<text top="683" left="108" width="701" height="18" font="3">PS's output only occurs preconsonantally, as suggested by the forms in (9). Glide</text>
+<text top="710" left="108" width="383" height="18" font="3">hardening is also possible in this context, e.g. </text>
+<text top="704" left="491" width="33" height="26" font="10">O+ÌV</text>
+<text top="710" left="524" width="59" height="18" font="3"> <b>meat</b>, </text>
+<text top="704" left="585" width="33" height="26" font="9">U+DV</text>
+<text top="710" left="618" width="192" height="18" font="3"> <b>shoot</b> (more extensive</text>
+<text top="735" left="108" width="702" height="18" font="3">exemplification below). Also taking into account the occasional appearance of adult-like</text>
+<text top="759" left="108" width="702" height="18" font="3">long tokens, we are thus faced with the fact that PS's output diverges from the adult</text>
+<text top="783" left="108" width="702" height="18" font="3">target in a variable fashion. This observation will hardly come as a surprise to anyone</text>
+<text top="807" left="108" width="702" height="18" font="3">familiar with the nature of speech data reflecting disorder. An important general point</text>
+<text top="831" left="108" width="702" height="18" font="3">that should be borne in mind in this connection is that variability does not necessarily</text>
+<text top="855" left="108" width="702" height="18" font="3">imply a lack of systematicity (something that can also be said of sociolinguistic</text>
+<text top="879" left="108" width="702" height="18" font="3">variability in adult speech). The manner in which PS's phonology deviates from the adult</text>
+<text top="903" left="108" width="702" height="18" font="3">long-vowel subsystem may not be fully invariant, but it is not at all random. This point</text>
+<text top="927" left="108" width="364" height="18" font="3">is acknowledged in the very use of the terms </text>
+<text top="929" left="471" width="96" height="15" font="7">HARDENING</text>
+<text top="927" left="567" width="38" height="18" font="3"> and </text>
+<text top="929" left="605" width="103" height="15" font="7">SHORTENING</text>
+<text top="927" left="709" width="101" height="18" font="3"> as labels for</text>
+<text top="951" left="108" width="700" height="18" font="3">observed regularities. Moreover, as we will see below, these processes are not fully</text>
+<text top="974" left="108" width="702" height="18" font="3">interchangeable in PS's output but are sensitive to significantly different sets of regular</text>
+<text top="998" left="108" width="202" height="18" font="3">phonological conditions.</text>
+<text top="1022" left="123" width="687" height="18" font="3">Before proceeding with our analysis of PS's disorder, we should first ask ourselves</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">15</text>
+<text top="209" left="108" width="702" height="18" font="3">whether it is indeed phonological at all. In considering the possibility that the deficit</text>
+<text top="233" left="108" width="702" height="18" font="3">might be located outside the grammar, our attention is naturally directed towards the</text>
+<text top="257" left="108" width="704" height="18" font="3">process of glide hardening. We might speculate that PS experiences some difficulty in</text>
+<text top="281" left="108" width="704" height="18" font="3">executing the fine-tuned tongue and lower mandible manoeuvres necessary to sustain an</text>
+<text top="305" left="108" width="702" height="18" font="3">approximant gesture that is close enough to deliver high vocalic quality but not so close</text>
+<text top="329" left="108" width="702" height="18" font="3">as to cause friction. Or we might appeal to some notion of tense articulatory set. Either</text>
+<text top="353" left="108" width="702" height="18" font="3">way, the articulatory closure effected by hardening would be attributed to target</text>
+<text top="377" left="108" width="86" height="18" font="3">overshoot.</text>
+<text top="401" left="123" width="686" height="18" font="3">Any suggestion that hardening might be symptomatic of some global deficit in motor</text>
+<text top="425" left="108" width="702" height="18" font="3">programming can be discounted straight away. Given a purely mechanical basis, the</text>
+<text top="449" left="108" width="702" height="18" font="3">effect would be expected to manifest itself in vocalisations which do not draw directly</text>
+<text top="473" left="108" width="700" height="18" font="3">on phonological knowledge. However, PS has no difficulty in producing quasi-iconic</text>
+<text top="496" left="108" width="700" height="18" font="3">utterances which involve simultaneous lip rounding and high back tongue bunching</text>
+<text top="520" left="108" width="702" height="18" font="3">(<i>'woooo!'</i>) and which he is able to sustain for time intervals much longer than anything</text>
+<text top="544" left="108" width="415" height="18" font="3">normally associated with vowel production proper.</text>
+<text top="568" left="123" width="686" height="18" font="3">Two important considerations tilt the balance of evidence in favour of a phonological</text>
+<text top="592" left="108" width="702" height="18" font="3">explanation of hardening. Firstly, the regularity needs to be evaluated in conjunction with</text>
+<text top="616" left="108" width="702" height="18" font="3">shortening and bisyllabification. These processes conspire to produce output that is</text>
+<text top="640" left="108" width="701" height="18" font="3">commensurate with what we will try to show is a parochially deviant system. In other</text>
+<text top="664" left="108" width="702" height="18" font="3">words, the combined effect of the processes is consistent with the conclusion that they</text>
+<text top="688" left="108" width="701" height="18" font="3">replace one possible primary phonological grammar by another. It would be somewhat</text>
+<text top="712" left="108" width="702" height="18" font="3">far-fetched to suggest that this substitution could be accidentally achieved by some</text>
+<text top="736" left="108" width="208" height="18" font="3">grammar-external deficit.</text>
+<text top="760" left="123" width="687" height="18" font="3">Furthermore, the regularities of PS's disorder can be shown to be sensitive to</text>
+<text top="784" left="108" width="702" height="18" font="3">contextual effects which have no obvious articulatory dimensions but are</text>
+<text top="808" left="108" width="701" height="18" font="3">straightforwardly defined in phonological terms. As we will see presently, there is one</text>
+<text top="832" left="108" width="701" height="18" font="3">site in which hardening occurs to the total exclusion of shortening — adult long vowels</text>
+<text top="856" left="108" width="701" height="18" font="3">in absolute word-final position. The absence of shortening in this context is attributable</text>
+<text top="879" left="108" width="702" height="18" font="3">to an independent constraint on the minimum size of the English word. It is quite</text>
+<text top="903" left="108" width="702" height="18" font="3">implausible that the constraint has a basis in articulation, particularly in view of the fact</text>
+<text top="927" left="108" width="702" height="18" font="3">that it is active in some languages but not others. On the other hand, it has a very obvious</text>
+<text top="951" left="108" width="523" height="18" font="3">phonological definition, one that invokes prosodic constituency.</text>
+<text top="975" left="123" width="358" height="18" font="3">We develop these points in the next section.</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">16</text>
+<text top="189" left="108" width="430" height="18" font="6"><b>4 The prosodic dimensions of PS's vowel disorder</b></text>
+<text top="237" left="108" width="435" height="18" font="6"><b>4.1 The syllabic basis of shortening and hardening</b></text>
+<text top="284" left="108" width="701" height="18" font="3">The effects of hardening in PS's system receive straightforward expression in the</text>
+<text top="308" left="108" width="702" height="18" font="3">element-based model of melodic form outlined in §2.2. In general, a hardening or</text>
+<text top="332" left="108" width="701" height="18" font="3">fortition process consists in the addition of the stop element [?] to a segment, such as a</text>
+<text top="356" left="108" width="702" height="18" font="3">fricative or glide, which otherwise lacks it. A vocalic glide contains a single resonance</text>
+<text top="380" left="108" width="702" height="18" font="3">element — [U] in the case of <i>w</i>, [I] in the case of <i>y</i>. The fusion of either of these elements</text>
+<text top="404" left="108" width="702" height="18" font="3">with [?] produces a homorganic oral stop; as shown in (2), [U,?] defines <i>b</i>, while [I,?]</text>
+<text top="431" left="108" width="64" height="18" font="3">defines </text>
+<text top="425" left="172" width="6" height="26" font="10">Ì</text>
+<text top="431" left="178" width="368" height="18" font="3">. In PS's case, this yields an outcome such as </text>
+<text top="425" left="546" width="22" height="26" font="9">CD</text>
+<text top="431" left="568" width="80" height="18" font="3"> for adult </text>
+<text top="425" left="648" width="26" height="26" font="9">CY</text>
+<text top="431" left="674" width="53" height="18" font="3">, as in </text>
+<text top="425" left="727" width="32" height="26" font="9">MCD</text>
+<text top="431" left="759" width="45" height="18" font="3"> <b>cow</b>:</text>
+<text top="480" left="108" width="125" height="18" font="3">(12) (a) Adult </text>
+<text top="475" left="233" width="26" height="26" font="9">CY</text>
+<text top="480" left="378" width="24" height="18" font="3">(b)</text>
+<text top="480" left="438" width="28" height="18" font="3">PS </text>
+<text top="475" left="466" width="22" height="26" font="9">CD</text>
+<text top="527" left="181" width="63" height="14" font="11"> x   x</text>
+<text top="527" left="438" width="63" height="14" font="11"> x   x</text>
+<text top="546" left="181" width="10" height="14" font="11"> </text>
+<text top="542" left="192" width="10" height="19" font="12"></text>
+<text top="546" left="202" width="31" height="14" font="11">   </text>
+<text top="542" left="233" width="10" height="19" font="12"></text>
+<text top="546" left="438" width="10" height="14" font="11"> </text>
+<text top="542" left="448" width="10" height="19" font="12"></text>
+<text top="546" left="459" width="31" height="14" font="11">   </text>
+<text top="542" left="490" width="10" height="19" font="12"></text>
+<text top="561" left="181" width="10" height="19" font="12"></text>
+<text top="564" left="192" width="10" height="14" font="11"> </text>
+<text top="561" left="202" width="10" height="19" font="12"></text>
+<text top="564" left="212" width="21" height="14" font="11">  </text>
+<text top="561" left="233" width="10" height="19" font="12"></text>
+<text top="561" left="438" width="10" height="19" font="12"></text>
+<text top="564" left="448" width="10" height="14" font="11"> </text>
+<text top="561" left="459" width="10" height="19" font="12"></text>
+<text top="564" left="469" width="21" height="14" font="11">  </text>
+<text top="561" left="490" width="10" height="19" font="12"></text>
+<text top="579" left="181" width="10" height="19" font="12"></text>
+<text top="583" left="192" width="10" height="14" font="11">A</text>
+<text top="579" left="202" width="10" height="19" font="12"></text>
+<text top="583" left="212" width="10" height="14" font="11"> </text>
+<text top="579" left="223" width="10" height="19" font="12"></text>
+<text top="583" left="233" width="10" height="14" font="11"> </text>
+<text top="579" left="244" width="10" height="19" font="12"></text>
+<text top="579" left="438" width="10" height="19" font="12"></text>
+<text top="583" left="448" width="10" height="14" font="11">A</text>
+<text top="579" left="459" width="10" height="19" font="12"></text>
+<text top="583" left="469" width="10" height="14" font="11"> </text>
+<text top="579" left="480" width="10" height="19" font="12"></text>
+<text top="583" left="490" width="10" height="14" font="11"> </text>
+<text top="579" left="501" width="10" height="19" font="12"></text>
+<text top="598" left="181" width="10" height="19" font="12"></text>
+<text top="601" left="192" width="10" height="14" font="11"> </text>
+<text top="598" left="202" width="10" height="19" font="12"></text>
+<text top="601" left="212" width="10" height="14" font="11"> </text>
+<text top="598" left="223" width="10" height="19" font="12"></text>
+<text top="601" left="233" width="10" height="14" font="11">U</text>
+<text top="598" left="244" width="10" height="19" font="12"></text>
+<text top="598" left="438" width="10" height="19" font="12"></text>
+<text top="601" left="448" width="10" height="14" font="11"> </text>
+<text top="598" left="459" width="10" height="19" font="12"></text>
+<text top="601" left="469" width="10" height="14" font="11"> </text>
+<text top="598" left="480" width="10" height="19" font="12"></text>
+<text top="601" left="490" width="10" height="14" font="11">U</text>
+<text top="598" left="501" width="10" height="19" font="12"></text>
+<text top="620" left="181" width="42" height="14" font="11">    </text>
+<text top="617" left="223" width="10" height="19" font="12"></text>
+<text top="620" left="233" width="10" height="14" font="11"> </text>
+<text top="617" left="244" width="10" height="19" font="12"></text>
+<text top="620" left="438" width="42" height="14" font="11">    </text>
+<text top="617" left="480" width="10" height="19" font="12"></text>
+<text top="620" left="490" width="10" height="14" font="11">?</text>
+<text top="617" left="501" width="10" height="19" font="12"></text>
+<text top="638" left="438" width="42" height="14" font="11">    </text>
+<text top="635" left="480" width="10" height="19" font="12"></text>
+<text top="638" left="490" width="10" height="14" font="11"> </text>
+<text top="635" left="501" width="10" height="19" font="12"></text>
+<text top="683" left="108" width="702" height="18" font="3">One question that arises at this point is whether PS's output forms containing the</text>
+<text top="707" left="108" width="701" height="18" font="3">hardened representation in (12)b are independently stored (as would be assumed under</text>
+<text top="731" left="108" width="700" height="18" font="3">a dual-lexicon account (cf. Menn &amp; Mattei 1992) or are derived from input forms</text>
+<text top="755" left="108" width="701" height="18" font="3">containing adult-like representations of the type in (12)a (cf. Macken 1992). Although</text>
+<text top="779" left="108" width="702" height="18" font="3">we happen to prefer the first of these alternatives, it should be stressed that this issue is</text>
+<text top="803" left="108" width="701" height="18" font="3">a derivational matter and is thus quite independent of the representational question of</text>
+<text top="827" left="108" width="370" height="18" font="3">how hardening is best expressed melodically.</text>
+<text top="851" left="123" width="687" height="18" font="3">Our transcription of PS's stopped reflexes indicates that they are in some sense voiced.</text>
+<text top="875" left="108" width="702" height="18" font="3">This is to be understood in the same way that the label is attached to the so-called voiced</text>
+<text top="899" left="108" width="702" height="18" font="3">plosives of normal English — the series that may exhibit full vocal-fold vibration in</text>
+<text top="922" left="108" width="704" height="18" font="3">phonetically voiced contexts (for example intervocalically) but typically not elsewhere.</text>
+<text top="946" left="108" width="702" height="18" font="3">That is, stops of this type are not independently voiced in the way that, say, French <i>b/d/g</i></text>
+<text top="970" left="108" width="701" height="18" font="3">are. In element theory, absence of true voicing in obstruents signals the absence of any</text>
+<text top="994" left="108" width="703" height="18" font="3">independent laryngeal specification. [U,?] and [I,?] are thus full representations of the</text>
+<text top="1018" left="108" width="701" height="18" font="3">hardened sounds in PS's output; no additional elements relating to voicing, or indeed to</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="16" size="17" family="Times" color="#000000"/>
+	<fontspec id="17" size="17" family="Times" color="#000000"/>
+	<fontspec id="18" size="20" family="OMBDIH+MSTT31c78b00" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">17</text>
+<text top="916" left="123" width="6" height="11" font="0">3</text>
+<text top="921" left="129" width="306" height="16" font="1">Under one widely held view, a form such as </text>
+<text top="916" left="436" width="374" height="22" font="16">U+Ì <b>see</b> would be deemed to end in a closed VC rhyme.</text>
+<text top="943" left="108" width="702" height="16" font="1">This analysis is at odds with a significant body of facts which show that a word-final consonant behaves</text>
+<text top="963" left="108" width="702" height="16" font="1">more like a word-medial onset than a coda (see Harris 1994 (66 ff.) for a fully referenced summary of</text>
+<text top="983" left="108" width="701" height="16" font="1">the evidence). This is consistent with a more ancient tradition, associated with various eastern syllabic</text>
+<text top="1004" left="108" width="702" height="16" font="1">writing systems, which treats a word-final consonant as the onset of a syllable with a silent nucleus. For</text>
+<text top="1024" left="108" width="702" height="16" font="1">our immediate purposes, we may sidestep this theoretical disagreement, since the two approaches</text>
+<text top="1044" left="108" width="620" height="16" font="1">converge on the main point being made here: the hardening site is a non-nuclear position.</text>
+<text top="209" left="108" width="694" height="18" font="3">any other effect, need to be specified in order to secure their phonetic interpretability.</text>
+<text top="233" left="123" width="687" height="18" font="3">The correspondence between (12)a and (12)b illustrates how the segmental effects of</text>
+<text top="257" left="108" width="701" height="18" font="3">hardening follow directly from the inherent design properties of element theory. Note</text>
+<text top="281" left="108" width="702" height="18" font="3">that there is no call for supplementary patch-up rules such as would be required in a</text>
+<text top="305" left="108" width="701" height="18" font="3">feature-based treatment of the same facts. (In conventional feature terms, glide hardening</text>
+<text top="329" left="108" width="702" height="18" font="3">has to be expressed as the rewriting of no fewer than three specifications (more if vowels</text>
+<text top="353" left="108" width="690" height="18" font="3">and consonants are represented in terms of different place categories): [+continuant] </text>
+<text top="347" left="798" width="12" height="26" font="18"></text>
+<text top="377" left="108" width="7" height="18" font="3">[</text>
+<text top="371" left="115" width="12" height="26" font="18"></text>
+<text top="377" left="127" width="110" height="18" font="3">continuant], [</text>
+<text top="371" left="236" width="12" height="26" font="18"></text>
+<text top="377" left="249" width="109" height="18" font="3">consonantal] </text>
+<text top="371" left="358" width="12" height="26" font="18"></text>
+<text top="377" left="370" width="267" height="18" font="3"> [+consonantal] and [+sonorant] </text>
+<text top="371" left="637" width="12" height="26" font="18"></text>
+<text top="377" left="649" width="12" height="18" font="3"> [</text>
+<text top="371" left="661" width="12" height="26" font="18"></text>
+<text top="377" left="673" width="89" height="18" font="3">sonorant].)</text>
+<text top="401" left="123" width="688" height="18" font="3">Of course, specifying the melodic effects of hardening does not in itself explain why</text>
+<text top="425" left="108" width="702" height="18" font="3">the process occurs in the first place. In particular, why should the glide portion of a target</text>
+<text top="449" left="108" width="701" height="18" font="3">vowel acquire an extra element that is more usually associated with a consonant? The</text>
+<text top="472" left="108" width="701" height="18" font="3">reason, we contend, is rooted in the syllabic contexts the sounds in question occupy:</text>
+<text top="496" left="108" width="702" height="18" font="3">while the adult glide resides in a nucleus, PS's corresponding stop appears in a non-</text>
+<text top="520" left="108" width="702" height="18" font="3">nuclear position. Whether this position forms the coda portion of a closed rhyme or an</text>
+<text top="544" left="108" width="374" height="18" font="3">onset is a question we can set on one side here.</text>
+<text top="542" left="482" width="6" height="11" font="0">3</text>
+<text top="544" left="488" width="322" height="18" font="3"> Of more immediate relevance is the fact</text>
+<text top="568" left="108" width="702" height="18" font="3">that oral closure is the most favoured manner state for sounds occurring in non-nuclear</text>
+<text top="592" left="108" width="678" height="18" font="3">positions. Glide hardening produces conformity with this unmarked state of affairs.</text>
+<text top="616" left="123" width="686" height="18" font="3">The most direct way of accounting for this resyllabification effect is to assume that PS's</text>
+<text top="640" left="108" width="702" height="18" font="3">nuclear template is simply not big enough to accommodate the adult glide. This we</text>
+<text top="664" left="108" width="702" height="18" font="3">interpret as a failure to establish the marked branching setting necessary for the</text>
+<text top="688" left="108" width="702" height="18" font="3">representation of vowel-length contrasts. In the absence of branching structure, a nucleus</text>
+<text top="712" left="108" width="700" height="18" font="3">only makes provision for the first portion of an adult long vowel (the head). If the second</text>
+<text top="736" left="108" width="702" height="18" font="3">portion is to receive phonetic interpretation, it must be accommodated in some other type</text>
+<text top="760" left="108" width="702" height="18" font="3">of constituent. This account is consistent with the fact that PS's system also exhibits</text>
+<text top="784" left="108" width="702" height="18" font="3">shortening of adult long vowels. Here the lack of a second nuclear slot is not</text>
+<text top="808" left="108" width="702" height="18" font="3">compensated for by the reassignment of the adult glide to a non-nuclear position. As a</text>
+<text top="832" left="108" width="518" height="18" font="3">result, the glide has no corresponding realisation in PS's output.</text>
+<text top="856" left="123" width="686" height="18" font="3">Under this account, shortening and hardening may thus be viewed as different</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">18</text>
+<text top="189" left="108" width="702" height="18" font="3">responses to the same fundamental prosodic deficit. As anticipated by the discussion in</text>
+<text top="213" left="108" width="702" height="18" font="3">§2.3, they represent two of the possible outcomes predicted to occur whenever syllabic</text>
+<text top="237" left="108" width="701" height="18" font="3">restructuring is forced by an absence of branching nuclear structure. Simple truncation</text>
+<text top="261" left="108" width="701" height="18" font="3">of the right-hand position of a branching nucleus ((13)a) produces vowel shortening, as</text>
+<text top="285" left="108" width="231" height="18" font="3">in (13)b (repeated from (6)).</text>
+<text top="332" left="108" width="66" height="18" font="3">(13) (a)</text>
+<text top="332" left="324" width="24" height="18" font="3">(b)</text>
+<text top="332" left="486" width="23" height="18" font="3">(c)</text>
+<text top="354" left="181" width="10" height="14" font="11">N</text>
+<text top="354" left="378" width="10" height="14" font="11">N</text>
+<text top="354" left="540" width="10" height="14" font="11">N</text>
+<text top="369" left="181" width="10" height="19" font="12"></text>
+<text top="373" left="192" width="10" height="14" font="11">\</text>
+<text top="369" left="378" width="10" height="19" font="12"></text>
+<text top="369" left="540" width="10" height="19" font="12"></text>
+<text top="391" left="181" width="31" height="14" font="11">x x</text>
+<text top="391" left="378" width="10" height="14" font="11">x</text>
+<text top="391" left="540" width="31" height="14" font="11">x x</text>
+<text top="406" left="181" width="10" height="19" font="12"></text>
+<text top="410" left="192" width="10" height="14" font="11"> </text>
+<text top="406" left="202" width="10" height="19" font="12"></text>
+<text top="406" left="378" width="10" height="19" font="12"></text>
+<text top="406" left="540" width="10" height="19" font="12"></text>
+<text top="410" left="551" width="10" height="14" font="11"> </text>
+<text top="406" left="561" width="10" height="19" font="12"></text>
+<text top="428" left="181" width="31" height="14" font="11">v v</text>
+<text top="428" left="378" width="10" height="14" font="11">v</text>
+<text top="428" left="540" width="31" height="14" font="11">v c</text>
+<text top="469" left="108" width="702" height="18" font="3">Preservation of the second slot can be achieved by reassigning it to a non-nuclear</text>
+<text top="493" left="108" width="700" height="18" font="3">position, as in (13)c, where the melodic content falls under the influence of hardening</text>
+<text top="517" left="108" width="122" height="18" font="3">in PS's system.</text>
+<text top="541" left="123" width="686" height="18" font="3">Further confirmation of the essentially syllabic nature of PS's vowel disorder comes</text>
+<text top="565" left="108" width="701" height="18" font="3">from the observation that he also shows some evidence of the split-nucleus alternative</text>
+<text top="589" left="108" width="702" height="18" font="3">in (6)c. Here the second slot of a primary branching nucleus is salvaged by assigning it</text>
+<text top="613" left="108" width="701" height="18" font="3">to the nucleus of an independent syllable. Although not so prevalent as shortening and</text>
+<text top="637" left="108" width="700" height="18" font="3">hardening, this strategy is observable in PS's rendition of adult in-gliding vowels (mostly</text>
+<text top="661" left="108" width="702" height="18" font="3">originating from historical VV<i>r</i>; the relevant southern target system is non-rhotic). As</text>
+<text top="685" left="108" width="577" height="18" font="3">illustrated in (14)a and (14)b, these are frequently treated as bisyllabic:</text>
+<text top="733" left="108" width="105" height="18" font="3">(14) (a) hire</text>
+<text top="727" left="259" width="41" height="26" font="9">J1[&#34;</text>
+<text top="733" left="452" width="27" height="18" font="3">tire</text>
+<text top="727" left="540" width="37" height="26" font="9">V1[&#34;</text>
+<text top="758" left="181" width="35" height="18" font="3">cure</text>
+<text top="752" left="259" width="51" height="26" font="9">M%+Y&#34;</text>
+<text top="758" left="452" width="40" height="18" font="3">flour</text>
+<text top="752" left="540" width="54" height="26" font="9">H4CY&#34;</text>
+<text top="810" left="152" width="64" height="18" font="3">(b) here</text>
+<text top="804" left="259" width="32" height="26" font="10">J+Ì</text>
+<text top="810" left="452" width="78" height="18" font="3">disappear</text>
+<text top="804" left="540" width="66" height="26" font="10">F+UR+Ì</text>
+<text top="862" left="152" width="63" height="18" font="3">(c) idea</text>
+<text top="857" left="259" width="55" height="26" font="10">3[F+Ì</text>
+<text top="862" left="452" width="46" height="18" font="3">fewer</text>
+<text top="857" left="540" width="48" height="26" font="9">H%+Y&#34;</text>
+<text top="912" left="108" width="702" height="18" font="3">The independent nuclei in such forms are separated by an onset that is filled by a glide</text>
+<text top="936" left="108" width="703" height="18" font="3">(as in (14)a) or its hardened counterpart (as in (14)b). The bisyllabicity of the relevant</text>
+<text top="960" left="108" width="704" height="18" font="3">sequence makes it prosodically identical to the structure encountered in PS's version of</text>
+<text top="984" left="108" width="704" height="18" font="3">adult heterosyllabic sequences of long vowel followed by schwa (see (14)c). The nuclear</text>
+<text top="1008" left="108" width="702" height="18" font="3">split here is strongly reminiscent of the breaking that occurs in some primary types of</text>
+<text top="1032" left="108" width="702" height="18" font="3">English, although it is not particularly well-established in any of the dialects to which PS</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="19" size="20" family="OMBLFJ+MSTT31c72f00" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">19</text>
+<text top="996" left="123" width="6" height="11" font="0">4</text>
+<text top="1001" left="129" width="436" height="16" font="1">In London English, for example, the original contrast between </text>
+<text top="996" left="566" width="244" height="22" font="16">W and WN is maintained as a vowel-</text>
+<text top="1022" left="108" width="200" height="16" font="1">quality distinction (compare </text>
+<text top="1018" left="307" width="503" height="22" font="16">V&#34;Y <b>two</b> with VQY <b>tool</b>). Lowland Scots, in contrast, does bear the marks</text>
+<text top="1044" left="108" width="107" height="16" font="1">of merger (e.g. </text>
+<text top="1039" left="215" width="141" height="22" font="16">MW 'cow', RW 'pull').</text>
+<text top="209" left="108" width="702" height="18" font="3">has had prolonged exposure. A significant difference is that the initial vowel in such</text>
+<text top="233" left="108" width="702" height="18" font="3">sequences is long in the relevant primary systems but short in PS's case, in keeping with</text>
+<text top="257" left="108" width="216" height="18" font="3">his nuclear branch deficit, </text>
+<text top="281" left="123" width="685" height="18" font="3">As noted in §2.3, the bisyllabification of originally tautosyllabic vocoids extends to</text>
+<text top="305" left="108" width="543" height="18" font="3">historical (V)V<i>l</i> sequences in some primary types of English, as in </text>
+<text top="300" left="651" width="45" height="26" font="9">HK[&#34;N</text>
+<text top="305" left="695" width="115" height="18" font="3"> <b>feel</b>, etc. This</text>
+<text top="330" left="108" width="702" height="18" font="3">development is potentially bound up with vocalisation of post-vocalic <i>l</i> to <i>w</i>, a process</text>
+<text top="354" left="108" width="702" height="18" font="3">that is attested to some extent in PS's linguistic environment and appears to be quite</text>
+<text top="378" left="108" width="702" height="18" font="3">general in the early stages of normal phonological acquisition. Vocalisation potentially</text>
+<text top="402" left="108" width="702" height="18" font="3">swells the set of words containing labial up-gliding vowels. Both bisyllabification and</text>
+<text top="426" left="108" width="460" height="18" font="3">some analogue of <i>l</i>-vocalisation show up in PS's system.</text>
+<text top="450" left="123" width="687" height="18" font="3">In one pattern involving the lateral, hardening affects original V<i>l</i> forms no less than</text>
+<text top="474" left="108" width="361" height="18" font="3">V<i>w</i>, as the following examples demonstrate:</text>
+<text top="522" left="108" width="105" height="18" font="3">(15) (a) bull</text>
+<text top="516" left="259" width="29" height="26" font="9">D+D</text>
+<text top="522" left="438" width="24" height="18" font="3">(b)</text>
+<text top="522" left="486" width="53" height="18" font="3">school</text>
+<text top="516" left="605" width="37" height="26" font="9">UM+D</text>
+<text top="547" left="190" width="37" height="18" font="3">milk</text>
+<text top="541" left="259" width="43" height="26" font="9">O+DM</text>
+<text top="547" left="486" width="49" height="18" font="3">wheel</text>
+<text top="541" left="605" width="32" height="26" font="9">Y+D</text>
+<text top="572" left="190" width="50" height="18" font="3">pencil</text>
+<text top="566" left="259" width="58" height="26" font="9">R'PU+D</text>
+<text top="597" left="190" width="26" height="18" font="3">tell</text>
+<text top="591" left="259" width="27" height="26" font="9">V'D</text>
+<text top="622" left="190" width="31" height="18" font="3">belt</text>
+<text top="616" left="259" width="38" height="26" font="9">D'DV</text>
+<text top="671" left="108" width="702" height="18" font="3">In primary dialects, <i>l</i>-vocalisation has not necessarily resulted in a merger of historical</text>
+<text top="695" left="108" width="41" height="18" font="3">V<i>l</i>-V</text>
+<text top="689" left="149" width="5" height="26" font="19"></text>
+<text top="695" left="154" width="82" height="18" font="3"> contrasts.</text>
+<text top="692" left="236" width="6" height="11" font="0">4</text>
+<text top="695" left="242" width="568" height="18" font="3">  In PS's case, however, the neutralisation of the standard vowel-length</text>
+<text top="720" left="108" width="702" height="18" font="3">contrast before <i>b</i> in the forms in (15) (compare adult short (15)a with long (15)b) shows</text>
+<text top="744" left="108" width="702" height="18" font="3">vocalisation to have produced potentially diphthongal inputs to hardening which are, as</text>
+<text top="768" left="108" width="438" height="18" font="3">far as we can tell, indistinguishable from original V<i>w</i>.</text>
+<text top="792" left="123" width="687" height="18" font="3">The other relevant pattern affecting laterals, which typically co-occurs with hardening,</text>
+<text top="816" left="108" width="450" height="18" font="3">is bisyllabification, exemplified in the following forms:</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">20</text>
+<text top="192" left="108" width="34" height="18" font="3">(16)</text>
+<text top="192" left="181" width="32" height="18" font="3">seal</text>
+<text top="186" left="259" width="31" height="26" font="10">U+Ì7</text>
+<text top="192" left="452" width="24" height="18" font="3">eel</text>
+<text top="186" left="540" width="32" height="26" font="10">+ÌD</text>
+<text top="220" left="181" width="56" height="18" font="3">wheels</text>
+<text top="215" left="259" width="50" height="26" font="10">Y+Ì+D\</text>
+<text top="220" left="452" width="37" height="18" font="3">field</text>
+<text top="215" left="540" width="34" height="26" font="10">H+Ì7V</text>
+<text top="249" left="181" width="34" height="18" font="3">bale</text>
+<text top="244" left="259" width="46" height="26" font="10">D'ÌD</text>
+<text top="249" left="452" width="31" height="18" font="3">bell</text>
+<text top="244" left="540" width="37" height="26" font="10">D'Ì7</text>
+<text top="278" left="181" width="26" height="18" font="3">tail</text>
+<text top="272" left="259" width="32" height="26" font="10">V'Ì7</text>
+<text top="278" left="452" width="26" height="18" font="3">tile</text>
+<text top="272" left="540" width="32" height="26" font="10">VnÌ7</text>
+<text top="327" left="108" width="702" height="18" font="3">The bisyllabicity evident in such forms further confirms that nuclear split is available to</text>
+<text top="351" left="108" width="703" height="18" font="3">PS as a means of dealing with the nuclear branch deficit. The validity of this conclusion</text>
+<text top="375" left="108" width="702" height="18" font="3">is not diluted by whatever doubts there might be about whether bisyllabification before</text>
+<text top="399" left="108" width="701" height="18" font="3">an original lateral is a development that is internal to PS's system or is triggered by</text>
+<text top="423" left="108" width="116" height="18" font="3">primary input.</text>
+<text top="495" left="108" width="207" height="18" font="6"><b>4.2 Prosodic minimality</b></text>
+<text top="543" left="108" width="702" height="18" font="3">There is yet another piece of evidence which confirms the prosodic basis of PS's vowel</text>
+<text top="566" left="108" width="702" height="18" font="3">disorder: the variation between hardening and shortening is not entirely free. Under one</text>
+<text top="590" left="108" width="702" height="18" font="3">set of conditions that can only be specified in prosodic terms, hardening occurs to the</text>
+<text top="614" left="108" width="702" height="18" font="3">total exclusion of shortening. As we will now see, shortening is blocked if it presents a</text>
+<text top="638" left="108" width="489" height="18" font="3">threat to the minimal size of the English phonological word.</text>
+<text top="662" left="123" width="686" height="18" font="3">Before a word-final consonant, both hardening and shortening are in evidence in PS's</text>
+<text top="686" left="108" width="702" height="18" font="3">system. In the case of hardening, this results in VCC] sequences, both in the palatal</text>
+<text top="710" left="108" width="291" height="18" font="3">((17)a) and the labial ((17)b) series:</text>
+<text top="761" left="108" width="112" height="18" font="3">(17) (a) meat</text>
+<text top="756" left="259" width="33" height="26" font="10">O+ÌV</text>
+<text top="761" left="378" width="45" height="18" font="3">Keith</text>
+<text top="756" left="438" width="27" height="26" font="10">M+ÌH</text>
+<text top="790" left="181" width="42" height="18" font="3">sheet</text>
+<text top="784" left="259" width="26" height="26" font="10">U+ÌV</text>
+<text top="790" left="378" width="39" height="18" font="3">teeth</text>
+<text top="784" left="438" width="24" height="26" font="10">V+ÌH</text>
+<text top="818" left="181" width="34" height="18" font="3">neat</text>
+<text top="813" left="259" width="28" height="26" font="10">P+ÌV</text>
+<text top="818" left="378" width="36" height="18" font="3">seep</text>
+<text top="813" left="438" width="31" height="26" font="10">U+ÌR</text>
+<text top="847" left="181" width="49" height="18" font="3">wheat</text>
+<text top="842" left="259" width="32" height="26" font="10">Y+ÌV</text>
+<text top="847" left="378" width="30" height="18" font="3">leaf</text>
+<text top="842" left="438" width="32" height="26" font="10">Y+ÌH</text>
+<text top="876" left="181" width="54" height="18" font="3">sweets</text>
+<text top="870" left="259" width="48" height="26" font="10">UY+ÌVU</text>
+<text top="876" left="378" width="43" height="18" font="3">leave</text>
+<text top="870" left="438" width="32" height="26" font="10">Y+ÌH</text>
+<text top="904" left="181" width="36" height="18" font="3">bees</text>
+<text top="899" left="259" width="49" height="26" font="10">D+Ì\</text>
+<text top="904" left="378" width="32" height="18" font="3">five</text>
+<text top="899" left="438" width="32" height="26" font="10">H#ÌX</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">21</text>
+<text top="793" left="123" width="6" height="11" font="0">5</text>
+<text top="798" left="129" width="680" height="16" font="1">Many of the forms in (18) (and in (19) below) also have short vowels in Scottish English, conditioned</text>
+<text top="818" left="108" width="702" height="16" font="1">by the following consonant in accordance with a regularity known as Aitken's Law (see Lass 1974 for</text>
+<text top="839" left="108" width="701" height="16" font="1">analysis and references). However, the Scottish pattern does not disturb the basic tense-lax contrast, with</text>
+<text top="859" left="108" width="171" height="16" font="1">the result that shortened </text>
+<text top="855" left="279" width="531" height="22" font="16">DKF <b>bead</b>, for instance, remains distinct from <b>bid</b>. The fact that shortening in</text>
+<text top="881" left="108" width="515" height="16" font="1">PS's case does potentially produce neutralisation (under the lax series, as in </text>
+<text top="876" left="623" width="187" height="22" font="16">D+M <b>beak</b>) suggests that this</text>
+<text top="902" left="108" width="433" height="16" font="1">is an independent development which is internal to his system.</text>
+<text top="922" left="123" width="687" height="16" font="1">It is interesting to speculate that PS's vowel-length deficit might at least in part be a response to</text>
+<text top="943" left="108" width="702" height="16" font="1">conflicting primary input data derived from the typologically distinct grammars that are represented in</text>
+<text top="963" left="108" width="702" height="16" font="1">his linguistic environment. He is confronted on the one hand by the southern system, in which vowel</text>
+<text top="983" left="108" width="702" height="16" font="1">length is lexically distinctive, and on the other by Scottish English, in which length is largely determined</text>
+<text top="1004" left="108" width="701" height="16" font="1">by phonological context. One effect of this is that many words will be presented to him in long- and</text>
+<text top="1024" left="108" width="702" height="16" font="1">short-vowelled variants. In the absence of any conclusive evidence bearing on this possible explanation,</text>
+<text top="1044" left="108" width="260" height="16" font="1">it must remain a matter of conjecture.</text>
+<text top="209" left="152" width="74" height="18" font="3">(b) shoot</text>
+<text top="204" left="259" width="33" height="26" font="9">U+DV</text>
+<text top="209" left="378" width="35" height="18" font="3">boat</text>
+<text top="204" left="438" width="40" height="26" font="9">DCRV</text>
+<text top="209" left="540" width="26" height="18" font="3">out</text>
+<text top="204" left="605" width="29" height="26" font="9">CRV</text>
+<text top="234" left="181" width="36" height="18" font="3">rude</text>
+<text top="229" left="259" width="44" height="26" font="9">Y+DF</text>
+<text top="234" left="378" width="34" height="18" font="3">coat</text>
+<text top="229" left="438" width="38" height="26" font="9">M&#34;DV</text>
+<text top="234" left="540" width="36" height="18" font="3">loud</text>
+<text top="229" left="605" width="44" height="26" font="9">YCDV</text>
+<text top="259" left="181" width="37" height="18" font="3">food</text>
+<text top="254" left="259" width="31" height="26" font="9">H+DV</text>
+<text top="259" left="378" width="35" height="18" font="3">goat</text>
+<text top="254" left="438" width="39" height="26" font="9">I&#34;DV</text>
+<text top="259" left="540" width="56" height="18" font="3">crowd </text>
+<text top="254" left="605" width="54" height="26" font="9">MYCRV</text>
+<text top="284" left="181" width="42" height="18" font="3">Luke</text>
+<text top="279" left="259" width="42" height="26" font="9">Y+DM</text>
+<text top="284" left="378" width="40" height="18" font="3">bone</text>
+<text top="279" left="438" width="44" height="26" font="9">D&#34;DP</text>
+<text top="284" left="540" width="48" height="18" font="3">house</text>
+<text top="279" left="605" width="42" height="26" font="9">JCRU</text>
+<text top="309" left="181" width="50" height="18" font="3">bruise</text>
+<text top="304" left="259" width="52" height="26" font="9">DY+D\</text>
+<text top="309" left="378" width="39" height="18" font="3">cone</text>
+<text top="304" left="438" width="43" height="26" font="9">M&#34;DP</text>
+<text top="309" left="540" width="53" height="18" font="3">mouse</text>
+<text top="304" left="605" width="47" height="26" font="9">OCRU</text>
+<text top="334" left="181" width="33" height="18" font="3">lose</text>
+<text top="329" left="259" width="41" height="26" font="9">Y+DU</text>
+<text top="359" left="181" width="60" height="18" font="3">smooth</text>
+<text top="354" left="259" width="49" height="26" font="9">UO+DH</text>
+<text top="384" left="181" width="34" height="18" font="3">roof</text>
+<text top="379" left="259" width="39" height="26" font="9">Y+DH</text>
+<text top="409" left="181" width="45" height="18" font="3">move</text>
+<text top="404" left="259" width="40" height="26" font="9">O+DH</text>
+<text top="434" left="181" width="57" height="18" font="3">groove</text>
+<text top="429" left="259" width="50" height="26" font="9">IY+DH</text>
+<text top="483" left="123" width="686" height="18" font="3">Shortening also occurs freely before a word-final consonant. (18) expands on the</text>
+<text top="507" left="108" width="325" height="18" font="3">exemplification already provided in (9).</text>
+<text top="505" left="433" width="6" height="11" font="0">5</text>
+<text top="555" left="108" width="116" height="18" font="3">(18) (a) weed</text>
+<text top="550" left="259" width="32" height="26" font="9">Y+F</text>
+<text top="555" left="378" width="45" height="18" font="3">white</text>
+<text top="550" left="438" width="36" height="26" font="9">Y1F</text>
+<text top="555" left="540" width="47" height="18" font="3">groan</text>
+<text top="550" left="605" width="44" height="26" font="9">IY+P</text>
+<text top="580" left="181" width="35" height="18" font="3">beef</text>
+<text top="575" left="259" width="24" height="26" font="9">D+H</text>
+<text top="580" left="378" width="51" height="18" font="3">height</text>
+<text top="575" left="438" width="33" height="26" font="9">J1F</text>
+<text top="605" left="181" width="47" height="18" font="3">spade</text>
+<text top="600" left="259" width="38" height="26" font="9">UR+F</text>
+<text top="605" left="378" width="40" height="18" font="3">sight</text>
+<text top="600" left="438" width="25" height="26" font="9">U1V</text>
+<text top="654" left="152" width="68" height="18" font="3">(b) beak</text>
+<text top="649" left="259" width="28" height="26" font="9">D+M</text>
+<text top="654" left="378" width="35" height="18" font="3">tube</text>
+<text top="649" left="438" width="24" height="26" font="9">V+D</text>
+<text top="679" left="181" width="43" height="18" font="3">week</text>
+<text top="674" left="259" width="31" height="26" font="9">Y+M</text>
+<text top="679" left="378" width="41" height="18" font="3">boob</text>
+<text top="674" left="438" width="29" height="26" font="9">D+D</text>
+<text top="704" left="181" width="44" height="18" font="3">meek</text>
+<text top="699" left="259" width="32" height="26" font="9">O+M</text>
+<text top="704" left="378" width="39" height="18" font="3">soup</text>
+<text top="699" left="438" width="27" height="26" font="9">U+D</text>
+<text top="729" left="181" width="36" height="18" font="3">seek</text>
+<text top="724" left="259" width="27" height="26" font="9">U+I</text>
+<text top="729" left="378" width="36" height="18" font="3">robe</text>
+<text top="724" left="438" width="30" height="26" font="9">T&#34;D</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="20" size="12" family="Courier" color="#000000"/>
+	<fontspec id="21" size="10" family="Times" color="#000000"/>
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">22</text>
+<text top="915" left="123" width="6" height="11" font="0">6</text>
+<text top="920" left="129" width="680" height="16" font="1">Representationally, this effect consists in the labial element [U], cut adrift from the nucleus through</text>
+<text top="940" left="108" width="575" height="16" font="1">truncation of the second position, docking onto the following non-nuclear position:</text>
+<text top="960" left="181" width="39" height="16" font="1">Adult</text>
+<text top="960" left="378" width="19" height="16" font="1">PS</text>
+<text top="978" left="181" width="29" height="9" font="20">   N</text>
+<text top="978" left="378" width="29" height="9" font="20">   N</text>
+<text top="991" left="181" width="22" height="9" font="20">   </text>
+<text top="989" left="203" width="7" height="14" font="21"></text>
+<text top="991" left="210" width="7" height="9" font="20">\</text>
+<text top="991" left="378" width="-153" height="9" font="20"> </text>
+<text top="991" left="385" width="-153" height="9" font="20"> </text>
+<text top="991" left="392" width="-153" height="9" font="20"> </text>
+<text top="989" left="400" width="7" height="14" font="21"></text>
+<text top="1004" left="181" width="65" height="9" font="20">...x x x]</text>
+<text top="1004" left="378" width="50" height="9" font="20">...x x]</text>
+<text top="1016" left="181" width="36" height="9" font="20">     </text>
+<text top="1014" left="217" width="7" height="14" font="21"></text>
+<text top="1016" left="378" width="36" height="9" font="20">     </text>
+<text top="1014" left="414" width="7" height="14" font="21"></text>
+<text top="1029" left="181" width="50" height="9" font="20">    [U]</text>
+<text top="1029" left="378" width="50" height="9" font="20">    [U]</text>
+<text top="1044" left="108" width="702" height="16" font="1">The syllabic repositioning of labiality has also been observed in normal development (Smith 1973: 16).</text>
+<text top="189" left="108" width="701" height="18" font="3">As suggested by the examples in (18)b, shortening is particularly favoured if the final</text>
+<text top="213" left="108" width="701" height="18" font="3">consonant of the target is already of the same manner and general place as the hardened</text>
+<text top="237" left="108" width="402" height="18" font="3">reflex of the glide. For example, the labial stop of </text>
+<text top="232" left="510" width="24" height="26" font="9">V+D</text>
+<text top="237" left="534" width="276" height="18" font="3"> <b>tube</b> coincides both with the final</text>
+<text top="262" left="108" width="702" height="18" font="3">consonant of the adult form and with the output of hardening. A related effect is</text>
+<text top="286" left="108" width="703" height="18" font="3">observable in sequences which consist of a labial up-glider followed by coronal nasal in</text>
+<text top="310" left="108" width="702" height="18" font="3">the adult grammar. In PS's rendition of forms featuring this structure, we find shortening</text>
+<text top="334" left="108" width="461" height="18" font="3">accompanied by a transfer of the labiality onto the nasal:</text>
+<text top="331" left="569" width="6" height="11" font="0">6</text>
+<text top="382" left="108" width="34" height="18" font="3">(19)</text>
+<text top="382" left="181" width="52" height="18" font="3">throne</text>
+<text top="376" left="259" width="44" height="26" font="9">HY+O</text>
+<text top="382" left="378" width="52" height="18" font="3">brown</text>
+<text top="376" left="452" width="38" height="26" font="9">DCO</text>
+<text top="407" left="181" width="43" height="18" font="3">sown</text>
+<text top="401" left="259" width="31" height="26" font="9">U+O</text>
+<text top="407" left="378" width="51" height="18" font="3">crown</text>
+<text top="401" left="452" width="62" height="26" font="9">M&#34;YCO</text>
+<text top="432" left="181" width="35" height="18" font="3">loan</text>
+<text top="426" left="259" width="29" height="26" font="9">N+O</text>
+<text top="432" left="378" width="59" height="18" font="3">bounce</text>
+<text top="426" left="452" width="47" height="26" font="9">DCOU</text>
+<text top="457" left="181" width="40" height="18" font="3">bone</text>
+<text top="451" left="259" width="37" height="26" font="9">D&#34;O</text>
+<text top="506" left="123" width="687" height="18" font="3">Significantly, the preconsonantal site is the only one in which shortening is permitted</text>
+<text top="530" left="108" width="701" height="18" font="3">in PS's system. The process never affects a word-final vowel. In this particular context,</text>
+<text top="554" left="108" width="702" height="18" font="3">PS's grammar apparently responds to some imperative to preserve the overall quantity</text>
+<text top="578" left="108" width="701" height="18" font="3">of an adult final long vowel (VV]). In the absence of branching structure, the second</text>
+<text top="602" left="108" width="700" height="18" font="3">portion of the long vowel cannot be accommodated within the nucleus in PS's output and</text>
+<text top="626" left="108" width="702" height="18" font="3">must instead be assigned to a following non-nuclear position, where it falls prey to</text>
+<text top="653" left="108" width="427" height="18" font="3">hardening — the result illustrated in forms such as </text>
+<text top="647" left="535" width="24" height="26" font="9">V+D</text>
+<text top="653" left="559" width="80" height="18" font="3"> <b>two</b> and </text>
+<text top="647" left="639" width="26" height="26" font="10">Y+Ì</text>
+<text top="653" left="665" width="145" height="18" font="3"> <b>we</b> (see (10) and</text>
+<text top="678" left="108" width="702" height="18" font="3">(11)). The explanation for this contextually determined ban on shortening appears to lie</text>
+<text top="702" left="108" width="702" height="18" font="3">in a constraint which places a lower limit on the size of the phonological word in</text>
+<text top="726" left="108" width="702" height="18" font="3">English. The fact that adult VV] forms are the only ones to resist shortening reflects the</text>
+<text top="750" left="108" width="702" height="18" font="3">fact that this is precisely the context where the process would place the quantitative</text>
+<text top="774" left="108" width="181" height="18" font="3">minimum in jeopardy.</text>
+<text top="798" left="123" width="686" height="18" font="3">Consider the following well-known facts about words containing a single stressed</text>
+<text top="822" left="108" width="702" height="18" font="3">vowel in English. They are required to end either in a long vowel (<b>see, cow</b>, etc.) or in</text>
+<text top="846" left="108" width="702" height="18" font="3">at least one consonant, in which case the preceding vowel can be either long (<b>bead,</b></text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">23</text>
+<text top="836" left="123" width="6" height="11" font="0">7</text>
+<text top="840" left="129" width="681" height="16" font="1">According to one of the two approaches outlined in note 4, final VC] is defined as a bimoraic rhyme.</text>
+<text top="861" left="108" width="701" height="16" font="1">The other treats the C as the onset of syllable containing a silent nucleus. Under the latter approach, it</text>
+<text top="881" left="108" width="702" height="16" font="1">is the silent nucleus that constitutes the second mora of a final VC] sequence. A form such as <b>pit</b></text>
+<text top="902" left="108" width="702" height="16" font="1">(CVCØ) is binuclear and hence bimoraic in just the same was as, say, <b>pity</b> (CVCV). The disagreement</text>
+<text top="922" left="108" width="703" height="16" font="1">between the two approaches does not undermine the main point in hand — the fact that the English word</text>
+<text top="943" left="108" width="237" height="16" font="1">is subject to a bimoraic minimum.</text>
+<text top="963" left="123" width="686" height="16" font="1">The second approach allows us to maintain that feet universally contain two nuclear positions; that</text>
+<text top="983" left="108" width="701" height="16" font="1">is, there are no 'degenerate' mono-nuclear feet. This in turn avoids a potential anomaly whereby non-</text>
+<text top="1004" left="108" width="702" height="16" font="1">branching structure would have to be deemed unmarked in all syllabic constituents but marked in feet.</text>
+<text top="1024" left="108" width="702" height="16" font="1">In the case of PS, this would have made it difficult to explain why branching feet but not branching</text>
+<text top="1044" left="108" width="295" height="16" font="1">nuclei are firmly established in his system.</text>
+<text top="210" left="108" width="702" height="18" font="6"><b>shout</b>, etc.) or short (<b>bid, bit</b>, etc.). There are no words ending in a short stressed vowel</text>
+<text top="233" left="108" width="17" height="18" font="3">(*</text>
+<text top="228" left="125" width="18" height="26" font="9">D+</text>
+<text top="233" left="143" width="19" height="18" font="3">, *</text>
+<text top="228" left="162" width="18" height="26" font="9">U'</text>
+<text top="233" left="180" width="630" height="18" font="3">, etc.). These facts follow from the assumption that, as in many other languages,</text>
+<text top="258" left="108" width="702" height="18" font="3">the phonological word in English must consist minimally of a bimoraic foot — a metrical</text>
+<text top="282" left="108" width="702" height="18" font="3">unit containing two weight-bearing positions (see McCarthy &amp; Prince 1986). (Only</text>
+<text top="306" left="108" width="703" height="18" font="3">rhymal positions contribute to the calculation of weight.) The bimoraic minimum is</text>
+<text top="331" left="108" width="702" height="18" font="3">satisfied in words that end in VV] or VC]. In VV] words (<b>see, cow</b>, etc.), the two weight-</text>
+<text top="355" left="108" width="702" height="18" font="3">bearing positions are housed within a final branching nucleus. In VC] words (<b>bit, back</b>,</text>
+<text top="379" left="108" width="702" height="18" font="3">etc.), weight is distributed over a nucleus (V) and a following non-nuclear constituent</text>
+<text top="403" left="108" width="32" height="18" font="3">(C).</text>
+<text top="401" left="140" width="6" height="11" font="0">7</text>
+<text top="403" left="146" width="664" height="18" font="3"> The requirement is also met in (V)VCV] words (<b>city, treaty</b>, etc.), with each</text>
+<text top="427" left="108" width="702" height="18" font="3">nucleus contributing at least one mora's worth of weight. The ungrammaticality of forms</text>
+<text top="451" left="108" width="75" height="18" font="3">such as *</text>
+<text top="446" left="183" width="18" height="26" font="9">D+</text>
+<text top="451" left="201" width="38" height="18" font="3"> or *</text>
+<text top="446" left="239" width="18" height="26" font="9">U'</text>
+<text top="451" left="258" width="552" height="18" font="3"> is due to the fact that, in containing a final single-position nucleus,</text>
+<text top="476" left="108" width="315" height="18" font="3">they fall below the bimoraic threshold.</text>
+<text top="500" left="123" width="686" height="18" font="3">The failure of PS's nuclear branch deficit to produce across-the-board shortening finds</text>
+<text top="524" left="108" width="702" height="18" font="3">explanation in the assumption that prosodic minimality is respected in his grammar no</text>
+<text top="548" left="108" width="702" height="18" font="3">less than in the adult's. This accounts for why shortening can be found in PS's version</text>
+<text top="572" left="108" width="702" height="18" font="3">of adult VC] but not VV] words. In the absence of branching nuclei, one way in which</text>
+<text top="596" left="108" width="702" height="18" font="3">PS's system can retain the bimoraicity of VV] forms is to render them as VC]. In other</text>
+<text top="620" left="108" width="702" height="18" font="3">words, while hardening is an option in this context (see (20)b), shortening is not. Simple</text>
+<text top="644" left="108" width="702" height="18" font="3">nuclear truncation of VV] to V] would allow a word to slip below the bimoraic minimum</text>
+<text top="668" left="108" width="93" height="18" font="3">(see (20)c).</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">24</text>
+<text top="189" left="108" width="123" height="18" font="3">(20) (a) Adult </text>
+<text top="184" left="231" width="37" height="26" font="9">FWY</text>
+<text top="189" left="268" width="27" height="18" font="3"> <b>do</b></text>
+<text top="189" left="378" width="57" height="18" font="3">(b) PS </text>
+<text top="184" left="435" width="29" height="26" font="9">F+D</text>
+<text top="189" left="540" width="38" height="18" font="3">(c) *</text>
+<text top="184" left="578" width="18" height="26" font="9">F+</text>
+<text top="236" left="181" width="42" height="14" font="11">   N</text>
+<text top="236" left="378" width="42" height="14" font="11">   N</text>
+<text top="236" left="540" width="63" height="14" font="11">     N</text>
+<text top="254" left="181" width="31" height="14" font="11">   </text>
+<text top="251" left="212" width="10" height="19" font="12"></text>
+<text top="254" left="223" width="10" height="14" font="11">\</text>
+<text top="254" left="378" width="-133" height="14" font="11"> </text>
+<text top="254" left="388" width="-133" height="14" font="11"> </text>
+<text top="254" left="399" width="-133" height="14" font="11"> </text>
+<text top="251" left="409" width="10" height="19" font="12"></text>
+<text top="254" left="540" width="52" height="14" font="11">     </text>
+<text top="251" left="592" width="10" height="19" font="12"></text>
+<text top="273" left="181" width="73" height="14" font="11">...x x]</text>
+<text top="273" left="378" width="73" height="14" font="11">...x x]</text>
+<text top="273" left="540" width="73" height="14" font="11">* ...x]</text>
+<text top="292" left="181" width="31" height="14" font="11">   </text>
+<text top="288" left="212" width="10" height="19" font="12"></text>
+<text top="292" left="223" width="10" height="14" font="11"> </text>
+<text top="288" left="233" width="10" height="19" font="12"></text>
+<text top="292" left="378" width="31" height="14" font="11">   </text>
+<text top="288" left="409" width="10" height="19" font="12"></text>
+<text top="292" left="420" width="10" height="14" font="11"> </text>
+<text top="288" left="430" width="10" height="19" font="12"></text>
+<text top="292" left="540" width="52" height="14" font="11">     </text>
+<text top="288" left="592" width="10" height="19" font="12"></text>
+<text top="312" left="181" width="31" height="14" font="11">   </text>
+<text top="307" left="212" width="31" height="22" font="16">W Y</text>
+<text top="307" left="409" width="31" height="22" font="16">+ D</text>
+<text top="307" left="592" width="10" height="22" font="16">+</text>
+<text top="362" left="108" width="446" height="18" font="3">Bisyllabification is also an option in this context (as in </text>
+<text top="357" left="554" width="32" height="26" font="10">V'Ì7</text>
+<text top="362" left="586" width="224" height="18" font="3"> <b>tail</b>), since it preserves two</text>
+<text top="388" left="108" width="523" height="18" font="3">weight-bearing positions, albeit split between separate syllables.</text>
+<text top="412" left="123" width="687" height="18" font="3">On the other hand, shortening in the VVC] context does not threaten prosodic</text>
+<text top="436" left="108" width="702" height="18" font="3">minimality, because the final consonant already satisfies the bimoraic minimum</text>
+<text top="460" left="108" width="702" height="18" font="3">irrespectively of whether a long or short vowel precedes. In this context, PS's system</text>
+<text top="483" left="108" width="601" height="18" font="3">thus has options for either hardening ((21)b) or simple shortening ((21)c).</text>
+<text top="532" left="108" width="123" height="18" font="3">(21) (a) Adult </text>
+<text top="526" left="231" width="47" height="26" font="9">D&#34;YP</text>
+<text top="532" left="278" width="47" height="18" font="3"> <b>bone</b></text>
+<text top="532" left="438" width="57" height="18" font="3">(b) PS </text>
+<text top="526" left="495" width="44" height="26" font="9">D&#34;DP</text>
+<text top="532" left="648" width="55" height="18" font="3">(c) PS </text>
+<text top="526" left="703" width="37" height="26" font="9">D&#34;O</text>
+<text top="576" left="181" width="42" height="14" font="11">   N</text>
+<text top="576" left="438" width="42" height="14" font="11">   N</text>
+<text top="576" left="689" width="42" height="14" font="11">   N</text>
+<text top="595" left="181" width="31" height="14" font="11">   </text>
+<text top="591" left="212" width="10" height="19" font="12"></text>
+<text top="595" left="223" width="10" height="14" font="11">\</text>
+<text top="595" left="438" width="-193" height="14" font="11"> </text>
+<text top="595" left="448" width="-193" height="14" font="11"> </text>
+<text top="595" left="459" width="-193" height="14" font="11"> </text>
+<text top="591" left="469" width="10" height="19" font="12"></text>
+<text top="595" left="689" width="31" height="14" font="11">   </text>
+<text top="591" left="720" width="10" height="19" font="12"></text>
+<text top="613" left="181" width="94" height="14" font="11">...x x x]</text>
+<text top="613" left="438" width="94" height="14" font="11">...x x x]</text>
+<text top="613" left="702" width="73" height="14" font="11">...x x]</text>
+<text top="632" left="181" width="31" height="14" font="11">   </text>
+<text top="628" left="212" width="10" height="19" font="12"></text>
+<text top="632" left="223" width="10" height="14" font="11"> </text>
+<text top="628" left="233" width="10" height="19" font="12"></text>
+<text top="632" left="244" width="10" height="14" font="11"> </text>
+<text top="628" left="254" width="10" height="19" font="12"></text>
+<text top="632" left="438" width="31" height="14" font="11">   </text>
+<text top="628" left="469" width="10" height="19" font="12"></text>
+<text top="632" left="480" width="10" height="14" font="11"> </text>
+<text top="628" left="490" width="10" height="19" font="12"></text>
+<text top="632" left="501" width="10" height="14" font="11"> </text>
+<text top="628" left="511" width="10" height="19" font="12"></text>
+<text top="632" left="702" width="31" height="14" font="11">   </text>
+<text top="628" left="733" width="10" height="19" font="12"></text>
+<text top="632" left="744" width="10" height="14" font="11"> </text>
+<text top="628" left="754" width="10" height="19" font="12"></text>
+<text top="653" left="181" width="31" height="14" font="11">   </text>
+<text top="647" left="212" width="52" height="22" font="16">&#34; Y P</text>
+<text top="647" left="469" width="52" height="22" font="16">&#34; D P</text>
+<text top="647" left="733" width="31" height="22" font="16">&#34; O</text>
+<text top="720" left="108" width="111" height="18" font="6"><b>5 Conclusion</b></text>
+<text top="767" left="108" width="702" height="18" font="3">PS's version of the adult subsystem of long vowels is characterised by three main</text>
+<text top="791" left="108" width="702" height="18" font="3">developments — shortening, bisyllabification and glide hardening. Each of these has clear</text>
+<text top="815" left="108" width="701" height="18" font="3">analogues in developments affecting primary systems, for example in linguistic change</text>
+<text top="838" left="108" width="701" height="18" font="3">and inter-language borrowing. For instance, shortening occurred in the evolution of Latin,</text>
+<text top="862" left="108" width="701" height="18" font="3">which had a vowel length contrast, into daughter languages such as Italian and Spanish,</text>
+<text top="886" left="108" width="702" height="18" font="3">which do not. In Sesotho (Bantu, southern Africa), English loan words containing</text>
+<text top="910" left="108" width="702" height="18" font="3">diphthongs are subject to nuclear split (e.g. <i>biya</i> 'beer'). The hardening of original VV to</text>
+<text top="933" left="108" width="479" height="18" font="3">VC is attested in certain dialects of Romansch (e.g. <i>fayra</i> &gt; </text>
+<text top="928" left="587" width="47" height="26" font="9">H'ITC</text>
+<text top="933" left="634" width="176" height="18" font="3"> 'market'; Lutta 1923).</text>
+<text top="958" left="108" width="701" height="18" font="3">All three of these examples reflect a situation in which the earlier or donor language</text>
+<text top="982" left="108" width="573" height="18" font="3">possesses branching nuclei but the later or recipient language does not.</text>
+<text top="1006" left="123" width="686" height="18" font="3">The same type of syllabic mismatch, we have argued, is responsible for the appearance</text>
+<text top="1029" left="108" width="702" height="18" font="3">of similar processes in PS's output. Far from being accidental, the co-occurrence of these</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>Prosody</i></text>
+<text top="152" left="108" width="206" height="16" font="8"><i>and melody in vowel disorder</i></text>
+<text top="132" left="793" width="17" height="16" font="1">25</text>
+<text top="209" left="108" width="702" height="18" font="3">effects within the same system thus stems from a single fundamental deficit — a failure</text>
+<text top="233" left="108" width="701" height="18" font="3">to secure the branching structure necessary for the acquisition of nuclear length contrasts</text>
+<text top="257" left="108" width="702" height="18" font="3">in English. The entrenchment of non-branching nuclear structure reflects the perseverance</text>
+<text top="280" left="108" width="702" height="18" font="3">of an unmarked alternative which would make for a well-formed primary subsystem but</text>
+<text top="304" left="108" width="467" height="18" font="3">happens not to coincide with what is required for English.</text>
+<text top="328" left="123" width="687" height="18" font="3">Besides offering insights into the syllabic dimensions of vowel disorder, the case study</text>
+<text top="352" left="108" width="702" height="18" font="3">provides external confirmation of the independence of the prosodic and melodic facets</text>
+<text top="375" left="108" width="251" height="18" font="3">of phonological representation.</text>
+<text top="471" left="108" width="94" height="18" font="6"><b>References</b></text>
+<text top="517" left="108" width="702" height="16" font="1">Anderson, J. M. &amp; C. Jones (1974). Three theses concerning phonological representations. <i>Journal of</i></text>
+<text top="538" left="123" width="142" height="16" font="8"><i>Linguistics</i> 10. 1-26.</text>
+<text top="558" left="108" width="702" height="16" font="1">Bates, S.A.R., Hewlett, N.F.R., Kaighin, S., Sinclair, A.E., Sweet, J. &amp; Watson, J.M.M. (1993). <i>Unusual</i></text>
+<text top="578" left="123" width="687" height="16" font="8"><i>vowel systems in some Edinburgh children presenting with developmental phonological disorder</i>.</text>
+<text top="599" left="123" width="686" height="16" font="1">Paper presented at the 3rd. Congress of the International Clinical Phonetics and Linguistics</text>
+<text top="619" left="123" width="153" height="16" font="1">Association, Helsinki.</text>
+<text top="639" left="108" width="702" height="16" font="1">Bates, S.A.R &amp; Watson, J.M.M. (1995) Consonant-vowel interactions in developmental phonological</text>
+<text top="660" left="123" width="687" height="16" font="1">disorder.  <i>Caring to communicate. The proceedings of the golden jubilee conference of the Royal</i></text>
+<text top="680" left="123" width="342" height="16" font="8"><i>College of Speech &amp; Language Therapists</i>. York.</text>
+<text top="700" left="108" width="702" height="16" font="1">Bleile, K. M. (1989). A note on vowel patterns in two normally developing children. <i>Clinical Linguistics</i></text>
+<text top="721" left="123" width="169" height="16" font="8"><i>&amp; Phonetics</i> 3. 203-212.</text>
+<text top="741" left="108" width="702" height="16" font="1">Bond, Z.S., L. Petrosino &amp; C.R. Dean (1982). The emergence of vowels: 17 to 26 months. <i>Journal of</i></text>
+<text top="761" left="123" width="161" height="16" font="8"><i>Phonetics</i> 10. 417-422.</text>
+<text top="782" left="108" width="701" height="16" font="1">Davis, B. L. &amp; P.F. MacNeilage (1990). Acquisition of correct vowel production: A quantitative case</text>
+<text top="802" left="123" width="394" height="16" font="1">study. <i>Journal of Speech &amp; Hearing Research</i> 33. 16-27.</text>
+<text top="823" left="108" width="702" height="16" font="1">Ferguson, C. A., L. Menn &amp; C. Stoel-Gammon (eds.) (1992). <i>Phonological development: models,</i></text>
+<text top="843" left="123" width="363" height="16" font="8"><i>research, implications</i>. Timonium, MD: York Press.</text>
+<text top="863" left="108" width="702" height="16" font="1">Fikkert, P. (1994). <i>On the acquisition of prosodic structure. HIL Dissertations</i> 6. Leiden: Holland</text>
+<text top="884" left="123" width="241" height="16" font="1">Institute of Generative Linguistics.</text>
+<text top="904" left="108" width="702" height="16" font="1">Gibbon, F., Shockey, L. &amp; Reid, J. (1992). Description and treatment of abnormal vowels. <i>Child</i></text>
+<text top="924" left="123" width="296" height="16" font="8"><i>Language Teaching and Therapy</i> 8. 30-59.</text>
+<text top="945" left="108" width="702" height="16" font="1">Hardcastle, W.P., P. Fletcher, F. Gibbon &amp; J.M. Scobbie (1997).<i> The Queen Margaret College Cluster</i></text>
+<text top="965" left="123" width="687" height="16" font="8"><i>Acquisition Database: final report</i>. MRC Research Grant no. G9117453. Edinburgh: Queen Margaret</text>
+<text top="985" left="123" width="58" height="16" font="1">College.</text>
+<text top="1006" left="108" width="429" height="16" font="1">Harris, J. (1994). <i>English sound structure</i>. Oxford: Blackwell.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="181" width="166" height="16" font="8"><i>Bates, Harris &amp; Watson</i></text>
+<text top="132" left="108" width="17" height="16" font="1">26</text>
+<text top="188" left="108" width="702" height="16" font="1">Harris, J. &amp; G. Lindsey (1995). The elements of phonological representation. In Jacques Durand &amp;</text>
+<text top="208" left="123" width="687" height="16" font="1">Francis Katamba (eds.), <i>Frontiers of phonology: atoms, structures and derivations</i>, 34-79. Harlow,</text>
+<text top="229" left="123" width="120" height="16" font="1">Essex: Longman.</text>
+<text top="249" left="108" width="702" height="16" font="1">Hulst, H. van der (1989). Atoms of segmental structure: components, gestures and dependency.</text>
+<text top="269" left="123" width="150" height="16" font="8"><i>Phonology</i> 6. 253-84.</text>
+<text top="290" left="108" width="566" height="16" font="1">Jakobson, R. (1971). <i>Studies in child language and aphasia</i>. The Hague: Mouton.</text>
+<text top="310" left="108" width="702" height="16" font="1">Kaye, J., J. Lowenstamm &amp; J-R. Vergnaud. (1985). The internal structure of phonological elements: a</text>
+<text top="330" left="123" width="464" height="16" font="1">theory of charm and government. <i>Phonology Yearbook</i> 2. 305-328.</text>
+<text top="351" left="108" width="702" height="16" font="1">Lass, R. (1974). Linguistic orthogenesis? Scots vowel quantity and the English length conspiracy. In</text>
+<text top="371" left="123" width="687" height="16" font="1">John Anderson &amp; Charles Jones (eds), <i>Historical Linguistics II: theory and description in phonology,</i></text>
+<text top="391" left="123" width="687" height="16" font="8"><i>Proceedings of the First International Conference on Historical Linguistics, Edinburgh, September</i></text>
+<text top="412" left="123" width="306" height="16" font="8"><i>1973</i>, 311-352. Amsterdam: North-Holland.</text>
+<text top="432" left="108" width="702" height="16" font="1">Levelt, C. (1994). <i>On the acquisition of place. HIL Dissertations</i> 8. Leiden: Holland Institute of</text>
+<text top="452" left="123" width="161" height="16" font="1">Generative Linguistics.</text>
+<text top="473" left="108" width="702" height="16" font="1">Lutta, C. M. (1923). <i>Der Dialekt von Bergün und seine Stellung innerhalb der rätoromanischen</i></text>
+<text top="493" left="123" width="682" height="16" font="8"><i>Mundarten Graubündens. Zeitschrift für romanische Philologie</i>, Supplement 71. Halle: Niemeyer.</text>
+<text top="513" left="108" width="639" height="16" font="1">McCarthy, J. J. &amp; A. Prince (1986). Prosodic morphology. Ms. University of Massachusetts.</text>
+<text top="534" left="108" width="541" height="16" font="1">Macken, M. A. (1992). Where's phonology? In Ferguson <i>et al</i>. 1992, 249-269.</text>
+<text top="554" left="108" width="572" height="16" font="1">Maddieson, I. (1984). <i>Patterns of sounds</i>. Cambridge: Cambridge University Press</text>
+<text top="574" left="108" width="702" height="16" font="1">Menn, L. &amp; E. Mattei (1992). The 'two-lexicon' account of child phonology: looking back, looking</text>
+<text top="595" left="123" width="280" height="16" font="1">ahead. In Ferguson <i>et al</i>. 1992, 211-247.</text>
+<text top="615" left="108" width="702" height="16" font="1">Pollock, K. E. &amp; N.J. Keiser (1990). An examination of vowel errors in phonologically disordered</text>
+<text top="635" left="123" width="375" height="16" font="1">children. <i>Clinical Linguistics &amp; Phonetics </i>4. 161-178.</text>
+<text top="656" left="108" width="702" height="16" font="1">Reynolds, J. (1990). Abnormal vowel patterns in phonological disorder: some data and a hypothesis.</text>
+<text top="676" left="123" width="421" height="16" font="8"><i>British Journal of Disorders of Communication</i> 25. 115-148.</text>
+<text top="697" left="108" width="596" height="16" font="1">Schane, S. S. (1984). The fundamentals of Particle Phonology. <i>Phonology</i> 1. 129-156.</text>
+<text top="717" left="108" width="702" height="16" font="1">Scobbie, J. &amp; J. Harris (in prep.). An instrumental and phonological analysis of a vowel-length disorder.</text>
+<text top="737" left="123" width="521" height="16" font="1">Ms., Queen Margaret College (Edinburgh) and University College London.</text>
+<text top="758" left="108" width="643" height="16" font="1">Smith, N. V. (1973). <i>The acquisition of phonology</i>. Cambridge: Cambridge University Press.</text>
+<text top="778" left="108" width="598" height="16" font="1">Stevens, K. N. (1989). On the quantal nature of speech. <i>Journal of Phonetics</i> 17. 3-46.</text>
+<text top="798" left="108" width="702" height="16" font="1">Stoel-Gammon, C. &amp; P. Beckett Herrington (1990). Vowel systems of normally developing and</text>
+<text top="819" left="123" width="573" height="16" font="1">phonologically disordered children. <i>Clinical Linguistics and Phonetics</i> 4. 145-160.</text>
+<text top="839" left="108" width="702" height="16" font="1">Watson, J.M.M., S.A.R. Bates, A.E. Sinclair &amp; N.F.R. Hewlett (1994). Unusual vowel systems in some</text>
+<text top="859" left="123" width="687" height="16" font="1">Edinburgh children with phonological disorder. Paper presented at the American Speech-Language-</text>
+<text top="880" left="123" width="330" height="16" font="1">Hearing Association Convention, New Orleans.</text>
+</page>
+</pdf2xml>

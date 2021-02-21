@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="0" size="11" family="JXLOTS+TimesNewRoman" color="#000000"/>
+	<fontspec id="1" size="16" family="JXLOTS+TimesNewRoman" color="#000000"/>
+	<fontspec id="2" size="36" family="VYHEMQ+TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="3" size="20" family="VYHEMQ+TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="4" size="19" family="JXLOTS+TimesNewRoman" color="#000000"/>
+	<fontspec id="5" size="19" family="QPBYGB+TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="6" size="14" family="JXLOTS+TimesNewRoman" color="#000000"/>
+<text top="1061" left="123" width="6" height="11" font="0">*</text>
+<text top="1066" left="129" width="655" height="15" font="1">Authors’ affiliations: Neil Smith is in the Department of Phonetics and Linguistics at UCL; Beate</text>
+<text top="1079" left="108" width="677" height="15" font="1">Hermelin is in the Department of Psychology, Goldsmiths College, University of London;  Ianthi</text>
+<text top="1099" left="108" width="677" height="15" font="1">Tsimpli is in the School of English, Aristotle University of Thessaloniki, Greece.  We are grateful to</text>
+<text top="1120" left="108" width="338" height="15" font="1">KH and his mother for their help and cooperation.</text>
+<text top="137" left="108" width="580" height="32" font="2"><i><b>Dissociation of social affect and theory</b></i></text>
+<text top="179" left="108" width="590" height="32" font="2"><i><b>of mind in a case of Asperger syndrome</b></i></text>
+<text top="175" left="698" width="10" height="19" font="3"><i><b>*</b></i></text>
+<text top="264" left="108" width="485" height="18" font="4">NEIL SMITH, BEATE HERMELIN and IANTHI TSIMPLI</text>
+<text top="361" left="143" width="75" height="17" font="5"><b>Abstract</b></text>
+<text top="406" left="143" width="606" height="14" font="6">We report on a case of Asperger syndrome (KH), who has considerable linguistic ability with a verbal</text>
+<text top="424" left="143" width="607" height="14" font="6">IQ of 153. Strikingly, he readily and correctly identifies the use of sarcasm, showing mastery of  the</text>
+<text top="442" left="143" width="607" height="14" font="6">meta-representation and dissociation characteristic of  ‘interpretive use’. Current theories of the</text>
+<text top="460" left="143" width="606" height="14" font="6">syndrome largely agree on the constellation of properties which define it, but disagree on whether the</text>
+<text top="478" left="143" width="606" height="14" font="6">basic cause resides in a deficit in Theory of Mind or in a social and emotional deficit. We suggest an</text>
+<text top="496" left="143" width="606" height="14" font="6">account in a ‘quasi-modular’ version of the modularity hypothesis, as developed by Smith and Tsimpli.</text>
+<text top="514" left="143" width="606" height="14" font="6">We specify a range of quasi-modules (including Theory of Mind and Social Interaction, itself divided</text>
+<text top="532" left="143" width="606" height="14" font="6">into Social Cognition and Social Affect); we outline the structure of the Emotional component,</text>
+<text top="550" left="143" width="606" height="14" font="6">including basic and derived emotions;  and we then spell out some of  their inter-connections and their</text>
+<text top="568" left="143" width="605" height="14" font="6">relation to the Language Faculty. Our tentative conclusion is that all these components may dissociate,</text>
+<text top="586" left="143" width="606" height="14" font="6">and that high intelligence, combined with linguistic ability, may mask a deficit in Theory of Mind,</text>
+<text top="604" left="143" width="169" height="14" font="6">though not in Social Affect.</text>
+<text top="671" left="108" width="125" height="17" font="5"><b>1 Introduction</b></text>
+<text top="718" left="108" width="677" height="18" font="4">Asperger syndrome is standardly viewed (see e.g. Wing, 1991) as a form of autism,</text>
+<text top="742" left="108" width="442" height="18" font="4">characterised by the constellation of properties in (1):  </text>
+<text top="789" left="108" width="23" height="18" font="4">(1)</text>
+<text top="789" left="162" width="437" height="18" font="4">A lack of understanding of the mental states of others.</text>
+<text top="813" left="162" width="251" height="18" font="4">Ineptitude in social interaction.</text>
+<text top="837" left="162" width="623" height="18" font="4">Impairment of emotional responses from the earliest stages of development,</text>
+<text top="860" left="162" width="622" height="18" font="4">both as regards the expression of emotions and, especially, understanding those</text>
+<text top="884" left="162" width="128" height="18" font="4">of other people.</text>
+<text top="932" left="108" width="676" height="18" font="4">That these properties are typical of Asperger syndrome subjects is not at issue, but it</text>
+<text top="955" left="108" width="677" height="18" font="4">is unclear whether the syndrome is correctly characterised by their individual necessity</text>
+<text top="979" left="108" width="677" height="18" font="4">and joint sufficiency. Ultimately, this doubt follows from the fact that the aetiology of</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="7" size="19" family="HQDRFP+TimesNewRoman,Italic" color="#000000"/>
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">304</text>
+<text top="172" left="108" width="676" height="18" font="4">autism itself is a matter of controversy. There is a consensus that it involves a problem</text>
+<text top="195" left="108" width="677" height="18" font="4">with Theory of Mind  (see e.g. Frith, 1989; Baron-Cohen, 1995; Yirmiya et al, 1998),</text>
+<text top="219" left="108" width="676" height="18" font="4">but there is disagreement over whether this is the root of the condition or a side-effect</text>
+<text top="243" left="108" width="677" height="18" font="4">of a more basic emotional or social deficit (e.g. Hobson, 2002; Klin, 2000). We</text>
+<text top="267" left="108" width="676" height="18" font="4">attempt to shed light on the issue by reference to a case (KH) in which these properties</text>
+<text top="290" left="108" width="169" height="18" font="4">appear to dissociate. </text>
+<text top="314" left="123" width="662" height="18" font="4">We are not the first to highlight such dissociation. Klin (2000), Tager-Flusberg and</text>
+<text top="338" left="108" width="677" height="18" font="4">Sullivan (1999), and Garfield et al (2001) have argued that Theory of Mind may</text>
+<text top="362" left="108" width="676" height="18" font="4">fractionate, with identifiable cognitive and affective sub-parts. We build on this work,</text>
+<text top="385" left="108" width="676" height="18" font="4">and argue further that a cognitive deficit may be compensated for by high linguistic</text>
+<text top="409" left="108" width="677" height="18" font="4">and meta-linguistic ability, whereas an affective deficit may not be. As a result,</text>
+<text top="433" left="108" width="676" height="18" font="4">someone with all the other manifestations of Asperger syndrome may appear to have</text>
+<text top="457" left="108" width="394" height="18" font="4">an intact Theory of Mind in the traditional sense.</text>
+<text top="529" left="108" width="121" height="17" font="5"><b>2 Background</b></text>
+<text top="575" left="108" width="676" height="18" font="4">There has been considerable progress in the controlled experimental study of the</text>
+<text top="599" left="108" width="677" height="18" font="4">nature and origin of autistic children’s apparent withdrawal from the world. Following</text>
+<text top="622" left="108" width="677" height="18" font="4">the pioneering work of O’Connor &amp; Hermelin (1970), Premack &amp; Woodruff (1978),</text>
+<text top="646" left="108" width="677" height="18" font="4">Wimmer &amp; Perner (1983), Baron-Cohen et al (1985), Perner et al (1989), (see also</text>
+<text top="670" left="108" width="676" height="18" font="4">Hermelin, 2001), a consensus gradually emerged that the primary cause of autism in</text>
+<text top="694" left="108" width="677" height="18" font="4">all its forms was a defective Theory of Mind. The explanatory force of this aetiology</text>
+<text top="718" left="108" width="677" height="18" font="4">was then generalised beyond the cognitive domain to include the emotions. Thus, it has</text>
+<text top="741" left="108" width="677" height="18" font="4">been suggested that Asperger syndrome subjects’ emotional ineptitude is a function</text>
+<text top="765" left="108" width="676" height="18" font="4">of a deficit in theory of mind - e.g. Tantam, (1991: 158) who writes that Asperger</text>
+<text top="789" left="108" width="316" height="18" font="4">subjects characteristically have trouble </text>
+<text top="789" left="425" width="101" height="18" font="7"><i>interpreting </i></text>
+<text top="789" left="527" width="258" height="18" font="4">emotions, especially from facial</text>
+<text top="813" left="108" width="676" height="18" font="4">expressions; and Rieffe &amp; Terwogt (2000:601), who suggest that deaf children’s</text>
+<text top="836" left="108" width="677" height="18" font="4">impaired understanding of emotions is attributable to “an impaired theory of mind”,</text>
+<text top="860" left="108" width="677" height="18" font="4">specifically: “[d]eaf children explain other people’s emotions by means of desires</text>
+<text top="884" left="108" width="455" height="18" font="4">regardless of the typicality of that emotion” (2000:607). </text>
+<text top="908" left="123" width="661" height="18" font="4">More recently, alternative explanations have been provided by Hobson (2002) and</text>
+<text top="931" left="108" width="677" height="18" font="4">Klin et al (2002), who trace the origin of autistic disorders to social and emotional</text>
+<text top="955" left="108" width="677" height="18" font="4">problems. Hobson writes (2002:5) that the “autistic child’s lack of emotional</text>
+<text top="979" left="108" width="677" height="18" font="4">connectedness with others … has quite startling implications for the child’s ability to</text>
+<text top="1003" left="108" width="676" height="18" font="4">think”; and Klin et al (2002:895) claim that “the core social disorder defines the</text>
+<text top="1026" left="108" width="677" height="18" font="4">condition and likely affects the development and expression of these other skills”. That</text>
+<text top="1050" left="108" width="677" height="18" font="4">is, these researchers reverse the direction of causation between the emotional and the</text>
+<text top="1074" left="108" width="676" height="18" font="4">cognitive, attributing the impairments characteristic of autism (“often including</text>
+<text top="1098" left="108" width="677" height="18" font="4">abnormalities in language” – Hobson, 2002:6) to social and emotional</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="8" size="16" family="HQDRFP+TimesNewRoman,Italic" color="#000000"/>
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">305</text>
+<text top="172" left="108" width="135" height="18" font="4">impoverishment.</text>
+<text top="195" left="123" width="661" height="18" font="4">It is clear then that the relation between the cognitive and affective components of</text>
+<text top="219" left="108" width="677" height="18" font="4">Asperger syndrome is not straightforward. We think that the case of KH may</text>
+<text top="243" left="108" width="677" height="18" font="4">contribute to an understanding of the situation,  and argue that the characterisation of</text>
+<text top="267" left="108" width="676" height="18" font="4">Asperger subjects needs to be cast in terms of a dissociable combination of deficits in</text>
+<text top="290" left="108" width="434" height="18" font="4">two modules: Theory of Mind and Social Interaction. </text>
+<text top="314" left="123" width="662" height="18" font="4">The effects of a defective Theory of Mind are seen most clearly in variants of ‘false</text>
+<text top="338" left="108" width="677" height="18" font="4">belief’ tasks, such as ‘Sally-Anne’ and ‘Smarties’, where children below the age of</text>
+<text top="362" left="108" width="677" height="18" font="4">four or so, and autistic subjects regardless of age, are unable to conceive that someone</text>
+<text top="385" left="108" width="677" height="18" font="4">else can have a representation of the world at variance with their own representation</text>
+<text top="409" left="108" width="676" height="18" font="4">of the true state of affairs. Such meta-representations (i.e. representations of</text>
+<text top="433" left="108" width="677" height="18" font="4">representations) emerge at about the age of two, when children also begin to develop</text>
+<text top="457" left="108" width="677" height="18" font="4">pretend play (Leslie, 1987). During normal development, such mental representations</text>
+<text top="480" left="108" width="677" height="18" font="4">develop into the ability to ‘read the minds’ of others for their intentions, feelings and</text>
+<text top="504" left="108" width="677" height="18" font="4">mental states. There is a certain tension between the early age at which pretend play</text>
+<text top="528" left="108" width="676" height="18" font="4">appears (around 2) and the later age at which success in false belief tasks begins</text>
+<text top="552" left="108" width="677" height="18" font="4">(around 4). However, a more elaborated version of Theory of Mind (see e.g. Baron-</text>
+<text top="575" left="108" width="677" height="18" font="4">Cohen, 1995) breaks it down into a number of precursory sub-abilities, e.g. EDD -</text>
+<text top="599" left="108" width="677" height="18" font="4">Eye-Direction Detector, and SAM - Shared-Attention Mechanism), which come on-</text>
+<text top="623" left="108" width="676" height="18" font="4">line at different stages. For instance, Harris (1989:212-213) observes that while</text>
+<text top="647" left="108" width="677" height="18" font="4">autistic children are incapable of attributing emotions to others they have a Shared-</text>
+<text top="670" left="108" width="677" height="18" font="4">Attention Mechanism, as shown by the fact that they can understand pointing to an</text>
+<text top="694" left="108" width="676" height="18" font="4">object as attracting their visual attention, but fail to deduce other implications of this</text>
+<text top="718" left="108" width="676" height="18" font="4">pointing, such as that the object may cause emotions in the person pointing at it, which</text>
+<text top="742" left="108" width="375" height="18" font="4">he in turn may want the other person to share. </text>
+<text top="765" left="123" width="661" height="18" font="4">Fruitful as this attempt in terms of a Theory of Mind deficit has been to account for</text>
+<text top="789" left="108" width="677" height="18" font="4">the impairments in social interaction by those with autism, there have also been</text>
+<text top="813" left="108" width="677" height="18" font="4">indications that such an explanation may be necessary but not sufficient (Klin, 2000),</text>
+<text top="837" left="108" width="676" height="18" font="4">as it is well-known that perceptual, affective and cognitive factors interact in a range</text>
+<text top="860" left="108" width="676" height="18" font="4">of other conditions. Thus profoundly deaf children (Peterson &amp; Siegal, 1995, 2000)</text>
+<text top="884" left="108" width="677" height="18" font="4">and mentally retarded children (Yirmiya et al, 1998) show impaired social interaction.</text>
+<text top="908" left="108" width="677" height="18" font="4">Hobson (2002) shows that children with normal mental development, but who are</text>
+<text top="932" left="108" width="677" height="18" font="4">congenitally blind or severely visually impaired, pass fewer theory of mind tests than</text>
+<text top="955" left="108" width="677" height="18" font="4">sighted children, and that this latter group’s verbal mental age is highly correlated with</text>
+<text top="979" left="108" width="677" height="18" font="4">performance on theory of mind tasks. Similar correlations between IQ and success</text>
+<text top="1003" left="108" width="676" height="18" font="4">with theory of mind problems have been widely reported in relation to autism (e.g.</text>
+<text top="1027" left="108" width="677" height="18" font="4">Happé, 1995.). Moreover, Hermelin (2001) reported that in normal development,</text>
+<text top="1051" left="108" width="677" height="18" font="4">recognition of emotions involves the integration of different modalities in that it uses</text>
+<text top="1074" left="108" width="306" height="18" font="4">both voice cues and facial expression.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">306</text>
+<text top="172" left="123" width="662" height="18" font="4">A further complicating factor is that Frith et al. (1994) have reported that some</text>
+<text top="195" left="108" width="677" height="18" font="4">autistic children who passed Theory of Mind tests also showed better social adaptation</text>
+<text top="219" left="108" width="677" height="18" font="4">in real life situations than those who were unable to pass these tests. They concluded</text>
+<text top="243" left="108" width="676" height="18" font="4">that there was a minority amongst those with autism who had at least some</text>
+<text top="267" left="108" width="677" height="18" font="4">competence in thinking about the thoughts of others in real life interpersonal context.</text>
+<text top="290" left="123" width="661" height="18" font="4">In one attempt to tease out the respective roles of social and cognitive factors, Klin</text>
+<text top="314" left="108" width="677" height="18" font="4">(2000) developed a Social Attribution Task (SAT) and tested it on normal, autistic and</text>
+<text top="338" left="108" width="676" height="18" font="4">Asperger Syndrome subjects. Using geometric shapes that “act like people”, Klin</text>
+<text top="362" left="108" width="676" height="18" font="4">(2000:833; cf. Heider &amp; Simmel, 1944; also Abell et al, 2000) predicted that AS</text>
+<text top="385" left="108" width="677" height="18" font="4">subjects would base their descriptions more on physical/geometric considerations than</text>
+<text top="409" left="108" width="676" height="18" font="4">social ones. That is, their ‘folk physics’ should be better preserved than their ‘folk</text>
+<text top="433" left="108" width="676" height="18" font="4">psychology’, where both of these domains are conceptualised cognitively. It follows</text>
+<text top="457" left="108" width="676" height="18" font="4">that a deficit in Theory of Mind alone is inadequate to explain certain aspects of</text>
+<text top="480" left="108" width="676" height="18" font="4">autistic behaviour, as “having Theory of Mind skills does not guarantee commensurate</text>
+<text top="504" left="108" width="341" height="18" font="4">social adaptation skills” (Klin, 2000:832). </text>
+<text top="528" left="123" width="662" height="18" font="4">Hobson (2002) highlights a number of interesting difference between autists and</text>
+<text top="552" left="108" width="677" height="18" font="4">normals. In the interpretation of point-light people,  autists made no mention of</text>
+<text top="575" left="108" width="677" height="18" font="4">feelings (2002:56); on IQ tests where the vocabulary pertained to emotion (2002:187)</text>
+<text top="599" left="108" width="677" height="18" font="4">there were systematic difference between autists and normals; and in tests where the</text>
+<text top="623" left="108" width="677" height="18" font="4">subjects had to draw a ‘house’ versus ‘my house’, as opposed to a ‘person’ versus</text>
+<text top="647" left="108" width="677" height="18" font="4">‘self’ (2002:236f.) there was a marked disparity in ability: autists were as good as or</text>
+<text top="670" left="108" width="677" height="18" font="4">better than normals in drawing different houses, but markedly worse in characterising</text>
+<text top="694" left="108" width="676" height="18" font="4">the difference between self and other. Most strikingly, picture sorting tasks</text>
+<text top="718" left="108" width="677" height="18" font="4">differentiated between normals and autists: normals typically sorted by facial</text>
+<text top="742" left="108" width="676" height="18" font="4">expression, whilst autists never did (Lee &amp; Hobson, 1998; Hobson, 2002:214), yet</text>
+<text top="765" left="108" width="677" height="18" font="4">autists were equally good at identifying the emotions expressed on faces and upside</text>
+<text top="789" left="108" width="677" height="18" font="4">down faces (Hobson, 2002:247), whereas normals were markedly better at interpreting</text>
+<text top="813" left="108" width="677" height="18" font="4">faces the right way up. Similarly, autists fail to develop a concept of ‘friend’ (Hobson,</text>
+<text top="837" left="108" width="600" height="18" font="4">2002:228) and seem to have minds that are “thinly populated” (idem 233).</text>
+<text top="860" left="123" width="661" height="18" font="4">For present purposes, the most important point to be derived from Klin’s and</text>
+<text top="884" left="108" width="676" height="18" font="4">Hobson’s work is the differentiation into ‘cognitive’ and ‘affective’ components of the</text>
+<text top="908" left="108" width="677" height="18" font="4">mind, reminiscent of Tager-Flusberg and Sullivan’s (1999) division of social</text>
+<text top="932" left="108" width="676" height="18" font="4">intelligence into ‘social-cognitive’ and ‘social-affective’ (cited in Garfield et al,</text>
+<text top="955" left="108" width="676" height="18" font="4">2001:523). We would highlight Klin’s observations that: “…although higher ToM or</text>
+<text top="979" left="108" width="676" height="18" font="4">metalinguistic capacity may have given the HFA [high-functioning autist] and AS</text>
+<text top="1003" left="108" width="676" height="18" font="4">[Asperger syndrome] participants a higher vocabulary to use when questioned, it did</text>
+<text top="1027" left="108" width="676" height="18" font="4">not necessarily facilitate spontaneous understanding of the social plot depicted in the</text>
+<text top="1051" left="108" width="676" height="18" font="4">cartoon” (Klin, 2000:840), and: “If one does not naturally seek social meaning in the</text>
+<text top="1074" left="108" width="677" height="18" font="4">environment, one’s ToM capacities are of little avail: in other words, there is a need</text>
+<text top="1098" left="108" width="553" height="18" font="4">for a theory of how ToM skills are put into action” (Klin, 2000:841).</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">307</text>
+<text top="172" left="123" width="392" height="18" font="4">This leads us to the subject of the present report.</text>
+<text top="243" left="108" width="151" height="17" font="5"><b>3 The Participant</b></text>
+<text top="290" left="108" width="677" height="18" font="4">At the time of testing, KH was an 11 year old boy (date of birth 22.8.89), diagnosed</text>
+<text top="314" left="108" width="677" height="18" font="4">with Asperger syndrome and with a verbal IQ (WISC, administered 13/8/98 by Ms J.</text>
+<text top="337" left="108" width="676" height="18" font="4">Wilson) of 153, a performance IQ of 105 and a full scale IQ of 135. These verbal skills</text>
+<text top="361" left="108" width="676" height="18" font="4">reflect an ability better than 99.9% of his age band. He is also reported (Connell, 1998)</text>
+<text top="385" left="108" width="677" height="18" font="4">as having most success in “non-verbal reasoning tasks” such as Raven’s matrices,</text>
+<text top="409" left="108" width="676" height="18" font="4">though he found it “very difficult to cope … socially and emotionally” with (a Rudolf</text>
+<text top="433" left="108" width="677" height="18" font="4">Steiner) school, and had been educated at home by his mother since Easter 1998. He</text>
+<text top="456" left="108" width="677" height="18" font="4">is agile and has a great sense of balance, but is nonetheless mildly apraxic, being</text>
+<text top="480" left="108" width="677" height="18" font="4">unable to “tie his shoe laces or ride a bike” (Moore); he cooperates well, but has “an</text>
+<text top="504" left="108" width="676" height="18" font="4">over-concern with rituals and routines”, and displays an array of autistic like</text>
+<text top="528" left="108" width="676" height="18" font="4">behaviours, as revealed in the PIA (Parent Interview for Autism), reported in Moore;</text>
+<text top="551" left="108" width="546" height="18" font="4">and he is also said to live “in a fantasy world of his own” (Connell).</text>
+<text top="575" left="123" width="662" height="18" font="4">From the beginning his mother noticed that he was in many ways different from</text>
+<text top="599" left="108" width="676" height="18" font="4">other small children. He never smiled back at her and did not seem to respond</text>
+<text top="622" left="108" width="676" height="18" font="4">differently to people and objects. As a toddler he developed various obsessive</text>
+<text top="646" left="108" width="677" height="18" font="4">mannerisms such as rubbing his head to the point of injury, biting his cheek, and</text>
+<text top="670" left="108" width="676" height="18" font="4">making strange repetitive noises. He also hummed incessantly and monotonously,</text>
+<text top="694" left="108" width="676" height="18" font="4">shook his head for long periods of time and ran round and round in circles. Repetitive</text>
+<text top="718" left="108" width="677" height="18" font="4">movements and a need for sameness were also noted as well as a failure to respond to</text>
+<text top="741" left="108" width="676" height="18" font="4">painful stimuli, allied with over-sensitivity to certain noises. He was quite unable to</text>
+<text top="765" left="108" width="676" height="18" font="4">relate to, or play with, other children - when other children chatted, he would cover his</text>
+<text top="789" left="108" width="676" height="18" font="4">ears with his hands; and it seemed to his mother that he was living in a world of his</text>
+<text top="813" left="108" width="485" height="18" font="4">own. However, he showed advanced language development.</text>
+<text top="836" left="123" width="661" height="18" font="4">He entered primary school when he was 5 years old but, despite the fact that his</text>
+<text top="860" left="108" width="677" height="18" font="4">reading skills were outstanding from the beginning, it soon became obvious that he</text>
+<text top="884" left="108" width="677" height="18" font="4">was anxious and unhappy  there, especially during ‘playtime’. When he was 6 he</text>
+<text top="908" left="108" width="677" height="18" font="4">transferred to a Rudolf Steiner school, but his social and behavioural problems became</text>
+<text top="931" left="108" width="677" height="18" font="4">even more obvious, his school performance was erratic and unpredictable, and it was</text>
+<text top="955" left="108" width="676" height="18" font="4">decided that he should be taught at home. Accordingly, until the age of 12 he was</text>
+<text top="979" left="108" width="677" height="18" font="4">tutored at home by a professional. He was diagnosed at age 8 as suffering from</text>
+<text top="1003" left="108" width="677" height="18" font="4">Asperger  Syndrome. The report was based on Rutter’s (1978) classical criteria of</text>
+<text top="1026" left="108" width="676" height="18" font="4">autism: deficits in reciprocal social and emotional interactions, impaired</text>
+<text top="1050" left="108" width="677" height="18" font="4">communication and stereotyped behaviour with an insistence on fixed routines. It was</text>
+<text top="1074" left="108" width="677" height="18" font="4">also noted that despite his verbal skill, he did not take the abilities of his interlocutor</text>
+<text top="1098" left="108" width="677" height="18" font="4">into account, and tended to use unusually complex language and rare words which</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">308</text>
+<text top="172" left="108" width="676" height="18" font="4">even his 17 year old sister did not understand. His non-verbal communication was</text>
+<text top="195" left="108" width="677" height="18" font="4">impaired in that he often could not understand other people’s facial expressions or</text>
+<text top="219" left="108" width="677" height="18" font="4">gestures. He loved word-play such as anagrams, he invented elaborate fantasy games,</text>
+<text top="243" left="108" width="249" height="18" font="4">and he read books voraciously.</text>
+<text top="267" left="123" width="219" height="18" font="4">At age 11, KH wrote a book </text>
+<text top="267" left="342" width="393" height="18" font="7"><i>Asperger Syndrome, the Universe and Everything</i></text>
+<text top="267" left="735" width="49" height="18" font="4"> (Hall,</text>
+<text top="290" left="108" width="677" height="18" font="4">2000), in which he comments on how happy the diagnosis of Asperger Syndrome had</text>
+<text top="314" left="108" width="677" height="18" font="4">made him, as at last he understood why he had always felt different from other people.</text>
+<text top="338" left="108" width="677" height="18" font="4">In addition to his linguistic ability, which we summarise shortly, KH has other talents.</text>
+<text top="362" left="108" width="677" height="18" font="4">At 11 he passed the GCSE maths exam at grade B, and at age 12 obtained a grade A</text>
+<text top="385" left="108" width="676" height="18" font="4">in the GCSE Information Technology exam. In September 2001, KH started as a</text>
+<text top="409" left="108" width="676" height="18" font="4">boarder at a special school for children with Asperger Syndrome. Lessons are highly</text>
+<text top="433" left="108" width="677" height="18" font="4">structured and there is an excellent staff: pupil ratio. From the beginning, KH has been</text>
+<text top="457" left="108" width="676" height="18" font="4">positive and enthusiastic about the school, and claims to have experienced no</text>
+<text top="480" left="108" width="117" height="18" font="4">homesickness.</text>
+<text top="504" left="123" width="661" height="18" font="4">When we met KH, he was not unfriendly but rather remote. After he had tested us</text>
+<text top="528" left="108" width="676" height="18" font="4">on our (somewhat minimal) knowledge of Ulster English, he became co-operative and</text>
+<text top="552" left="108" width="504" height="18" font="4">enthusiastic, and provided us with the data reported on below. </text>
+<text top="624" left="108" width="99" height="17" font="5"><b>4 The Tests</b></text>
+<text top="670" left="108" width="677" height="18" font="4">We tested KH on a battery of linguistic tasks which had been previously devised to test</text>
+<text top="694" left="108" width="676" height="18" font="4">the polyglot savant Christopher (Smith &amp; Tsimpli, 1995, Tsimpli &amp; Smith, 1998). The</text>
+<text top="718" left="108" width="676" height="18" font="4">aim had been to establish whether Christopher’s knowledge of his first language</text>
+<text top="741" left="108" width="676" height="18" font="4">(English) and various aspects of his use of that language fell within normal limits, and</text>
+<text top="765" left="108" width="676" height="18" font="4">we applied the same reasoning to KH.  Accordingly, the tests covered a wide range</text>
+<text top="789" left="108" width="443" height="18" font="4">including examples of the kind illustrated in (2) to (7). </text>
+<text top="836" left="108" width="440" height="18" font="4">(2) Judgements of grammaticality across a wide range</text>
+<text top="884" left="108" width="677" height="18" font="4">In each case KH was given a written sentence and asked to mark it right or wrong and,</text>
+<text top="908" left="108" width="400" height="18" font="4">if wrong, to provide a corrected version, as in (c):</text>
+<text top="955" left="123" width="287" height="18" font="4">a. Remember Susan to feed the dog</text>
+<text top="955" left="648" width="14" height="18" font="4">X</text>
+<text top="979" left="123" width="427" height="18" font="4">b. Would you remind her to buy some ginger, please.</text>
+<text top="979" left="648" width="20" height="18" font="4">ok</text>
+<text top="1003" left="123" width="371" height="18" font="4">c. Alex gets often into trouble with the police.</text>
+<text top="1003" left="648" width="14" height="18" font="4">X</text>
+<text top="1026" left="143" width="364" height="18" font="4">“Alex often gets into trouble with the police”</text>
+<text top="1050" left="123" width="313" height="18" font="4">d. The weather today is beautiful, is it?</text>
+<text top="1050" left="648" width="14" height="18" font="4">X</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">309</text>
+<text top="172" left="108" width="676" height="18" font="4">KH’s judgements of well- and ill-formedness were normal: that is we have reason to</text>
+<text top="195" left="108" width="676" height="18" font="4">believe that his knowledge of language (his I-language, in Chomsky’s, 1986, sense) is</text>
+<text top="219" left="108" width="677" height="18" font="4">not distinct from that of the normal population. These results indicate that KH has</text>
+<text top="243" left="108" width="677" height="18" font="4">control of simple agreement relations, selection  (both c-selection and s-selection),</text>
+<text top="267" left="108" width="676" height="18" font="4">phenomena of binding, basic movement and adjacency constraints, etc. More</text>
+<text top="290" left="108" width="677" height="18" font="4">interestingly, when NS pronounced (d) with a sarcastic Fall + Rise intonation, he</text>
+<text top="314" left="108" width="677" height="18" font="4">immediately accepted it, commenting that it was then ‘sarcasm’. This mastery of so-</text>
+<text top="338" left="108" width="653" height="18" font="4">called ‘interpretive use’ is extremely rare in the autistic and Asperger population.</text>
+<text top="385" left="108" width="677" height="18" font="4">(3) Tests of inferential ability involving the use of modus ponens, modus tollens, etc.</text>
+<text top="409" left="143" width="642" height="18" font="4">in which KH had to read a dialogues and then answer the question in the last line by</text>
+<text top="433" left="143" width="380" height="18" font="4">underlining either ’Yes’ or ‘No’ or ‘Don’t know’.</text>
+<text top="480" left="143" width="435" height="18" font="4">Michael said: ‘If George comes I shan’t be able to play.’</text>
+<text top="504" left="143" width="234" height="18" font="4">Fred said: ‘George is coming.’</text>
+<text top="528" left="143" width="328" height="18" font="4">Do you think Michael will be able to play?</text>
+<text top="528" left="540" width="158" height="18" font="4">Yes/No/Don’t know</text>
+<text top="575" left="108" width="677" height="18" font="4">Given that autistic people are usually literal minded and often incapable of lying, it is of</text>
+<text top="599" left="108" width="547" height="18" font="4">considerable interest that he added spontaneously: “Unless he’s lying”.</text>
+<text top="647" left="108" width="677" height="18" font="4">(4) Tests of the use of implicated assumptions and conclusions, in which he had to</text>
+<text top="670" left="143" width="641" height="18" font="4">read a dialogue and then answer the question in the last line by underlining either</text>
+<text top="694" left="143" width="239" height="18" font="4">‘Yes’ or ‘No’ or ‘Don’t know’.</text>
+<text top="742" left="123" width="359" height="18" font="4">a. John said:  ‘Would you like some coffee?’</text>
+<text top="765" left="143" width="375" height="18" font="4">Mary replied:  ‘Coffee would keep me awake.’</text>
+<text top="789" left="143" width="325" height="18" font="4">Do you think Mary accepted the coffee?</text>
+<text top="789" left="540" width="169" height="18" font="4"> Yes/No/Don’t know</text>
+<text top="837" left="108" width="677" height="18" font="4">He spontaneously asked “What time of day was it?” before answering; again showing</text>
+<text top="860" left="108" width="677" height="18" font="4">appropriate awareness of possible divergence from a default interpretation. This was</text>
+<text top="884" left="108" width="381" height="18" font="4">confirmed by his response to the next example:</text>
+<text top="932" left="123" width="378" height="18" font="4">b. Mary said: ‘I have to work all night tonight.’</text>
+<text top="955" left="143" width="334" height="18" font="4">John said: ‘Would you like some coffee?’</text>
+<text top="979" left="143" width="375" height="18" font="4">Mary replied:  ‘Coffee would keep me awake.’</text>
+<text top="1003" left="143" width="325" height="18" font="4">Do you think Mary accepted the coffee?</text>
+<text top="1003" left="540" width="164" height="18" font="4">Yes/No/Don’t know</text>
+<text top="1051" left="108" width="432" height="18" font="4">(5) Tests of the use of discourse connectives, such as </text>
+<text top="1051" left="540" width="73" height="18" font="7"><i>after all, </i></text>
+<text top="1051" left="614" width="33" height="18" font="4">and </text>
+<text top="1051" left="648" width="59" height="18" font="7"><i>you see</i></text>
+<text top="1051" left="707" width="77" height="18" font="4">, in which</text>
+<text top="1074" left="143" width="641" height="18" font="4">he was asked to read an example and fill the gap, marked by ---, with one of the</text>
+<text top="1098" left="143" width="57" height="18" font="4">forms: </text>
+<text top="1098" left="201" width="401" height="18" font="7"><i>After all/Anyway/Moreover/So/Therefore/You see</i></text>
+<text top="1098" left="602" width="5" height="18" font="4">:</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">310</text>
+<text top="172" left="123" width="661" height="18" font="4">a. Jill was waiting for her boyfriend in the park. She was very depressed and</text>
+<text top="195" left="143" width="558" height="18" font="4">miserable. ---  she’d just lost the pet dog her boyfriend had given her.</text>
+<text top="219" left="143" width="84" height="18" font="4">“You see”</text>
+<text top="267" left="123" width="661" height="18" font="4">b. John and Bill wanted to catch an elephant. They spent six weeks hunting for one</text>
+<text top="290" left="144" width="640" height="18" font="4">in the jungle, but however hard they looked they couldn’t find one. They thought</text>
+<text top="314" left="144" width="616" height="18" font="4">this was very strange:  ---  elephants are very big and should be easy to find. </text>
+<text top="338" left="143" width="85" height="18" font="4">“After all”</text>
+<text top="385" left="123" width="662" height="18" font="4">c. When I was young I wanted to be a pilot. At that time I used to have all sorts of</text>
+<text top="409" left="143" width="637" height="18" font="4">mad ideas; I even hoped to become chief test pilot.  --- I decided to learn to fly.</text>
+<text top="433" left="143" width="39" height="18" font="4">“So”</text>
+<text top="480" left="108" width="677" height="18" font="4">(6) Tests of the construal of discourse referents in ambiguous contexts. Here he was</text>
+<text top="504" left="143" width="641" height="18" font="4">asked: “Who do you think ‘he’ refers to in sentence (a)?  Who does ‘he’ refer to in</text>
+<text top="528" left="143" width="421" height="18" font="4">sentence (b)?  Are sentences (c) and (d) both correct?”</text>
+<text top="575" left="123" width="399" height="18" font="4">a. John telephoned Bill. He needed to speak to him.</text>
+<text top="599" left="123" width="401" height="18" font="4">b. John telephoned Bill. He refused to speak to him.</text>
+<text top="647" left="108" width="571" height="18" font="4">KH underlined as indicated, and added re (b) “or pointless if it was John”.</text>
+<text top="694" left="123" width="406" height="18" font="4">c. John telephoned Mary. She refused to talk to him.</text>
+<text top="694" left="648" width="19" height="18" font="4">ok</text>
+<text top="718" left="123" width="405" height="18" font="4">d. John telephoned Mary. She wanted to talk to him.</text>
+<text top="718" left="648" width="19" height="18" font="4">ok</text>
+<text top="742" left="143" width="297" height="18" font="4">[KH added re (d) “He wants to talk to </text>
+<text top="742" left="440" width="26" height="18" font="7"><i>her</i></text>
+<text top="742" left="465" width="15" height="18" font="4">”]</text>
+<text top="789" left="108" width="606" height="18" font="4">(7) Tests of making anagrams; word-making from a given head-word; etc. </text>
+<text top="837" left="123" width="662" height="18" font="4">a. He provided ‘dawn’ for ‘wand’, and ‘anger’ for ‘range’. He was unable to provide</text>
+<text top="860" left="143" width="561" height="18" font="4">an anagram for ‘chesty’, but was pleased when ‘scythe’ was supplied.</text>
+<text top="908" left="123" width="661" height="18" font="4">b. He was equally proficient at making words from a Head-word: given the examples</text>
+<text top="932" left="144" width="610" height="18" font="4">shown in (c) and (d), he provided those in inverted commas in (c’) and (d’):</text>
+<text top="979" left="123" width="121" height="18" font="4">c. DISASTER:</text>
+<text top="979" left="432" width="150" height="18" font="4">star, aster, tried …</text>
+<text top="1027" left="123" width="215" height="18" font="4">c’. “A, I, AS, DISASTER”</text>
+<text top="1074" left="123" width="162" height="18" font="4">d. BATTLEFIELD: </text>
+<text top="1074" left="432" width="51" height="18" font="4">file …</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">311</text>
+<text top="172" left="123" width="384" height="18" font="4">d’. “BATTLE,  FIELD, A, I, AT, BAT, FILED”</text>
+<text top="219" left="108" width="677" height="18" font="4">He was reasonably competent at completing word-ladders (something that Christopher,</text>
+<text top="243" left="108" width="677" height="18" font="4">for instance, never understood at all). Given: ‘Hate - Love’ in (e) as an example, he</text>
+<text top="267" left="108" width="589" height="18" font="4">provided the examples for ‘Heat - Fire’, and  ‘Hand - Foot’ in (f) and (g):</text>
+<text top="314" left="123" width="72" height="18" font="4">e. HATE</text>
+<text top="314" left="216" width="171" height="18" font="4">have hove LOVE  </text>
+<text top="338" left="123" width="72" height="18" font="4">f. HEAT</text>
+<text top="338" left="216" width="30" height="18" font="4">feat</text>
+<text top="338" left="270" width="32" height="18" font="4">fear</text>
+<text top="338" left="324" width="47" height="18" font="4">FIRE </text>
+<text top="362" left="123" width="183" height="18" font="4">g. HAND hood hoot</text>
+<text top="362" left="324" width="52" height="18" font="4">FOOT</text>
+<text top="409" left="108" width="676" height="18" font="4">On all of these tests KH performed extremely well. Most strikingly, he performed</text>
+<text top="433" left="108" width="677" height="18" font="4">flawlessly on judgements of irony and sarcasm (8a); metaphor (8b); jokes (8c); the</text>
+<text top="457" left="108" width="677" height="18" font="4">use/mention distinction (8d), and other examples involving what is known as</text>
+<text top="480" left="108" width="622" height="18" font="4">‘interpretive use’ (Sperber &amp; Wilson, 1995) or meta-representational ability. </text>
+<text top="528" left="108" width="49" height="18" font="4">(8) a.</text>
+<text top="528" left="181" width="584" height="18" font="4">Can you explain what is meant by the following underlined expressions?</text>
+<text top="552" left="181" width="10" height="18" font="4">i.</text>
+<text top="552" left="216" width="486" height="18" font="4">“He’s a fine friend”. Said of someone who has just kicked you.</text>
+<text top="575" left="216" width="490" height="18" font="4">His instantaneous response was: “They’re not much. Sarcasm”.</text>
+<text top="599" left="181" width="15" height="18" font="4">ii.</text>
+<text top="599" left="216" width="569" height="18" font="4">John and Mary went to a party, where both of them became very sick, and</text>
+<text top="623" left="216" width="569" height="18" font="4">had to go home early, because John gave Mary too much to eat and drink.</text>
+<text top="647" left="216" width="304" height="18" font="4">Mary said: “What a wonderful party!”  </text>
+<text top="670" left="216" width="133" height="18" font="4">“More sarcasm”.</text>
+<text top="694" left="181" width="519" height="18" font="4">iii. The judge told the traitor that he was “a credit to his country”. </text>
+<text top="718" left="216" width="304" height="18" font="4">“More sarcasm; or he was a foreigner”.</text>
+<text top="765" left="143" width="15" height="18" font="4">b.</text>
+<text top="765" left="181" width="153" height="18" font="4">No man is an island</text>
+<text top="789" left="181" width="140" height="18" font="4">“No-one’s alone”.</text>
+<text top="837" left="143" width="14" height="18" font="4">c.</text>
+<text top="837" left="181" width="10" height="18" font="4">i.</text>
+<text top="837" left="216" width="394" height="18" font="4">Diner:  “Waiter, what’s that fly doing in my soup?”</text>
+<text top="860" left="216" width="335" height="18" font="4">Waiter: “It looks like the breast-stroke, Sir”</text>
+<text top="884" left="216" width="332" height="18" font="4">He responded with “It’s called a bad joke”.</text>
+<text top="908" left="181" width="15" height="18" font="4">ii.</text>
+<text top="908" left="216" width="569" height="18" font="4">A Russian minister visits a car factory. The manager goes out of his way to</text>
+<text top="932" left="216" width="560" height="18" font="4">show him around and at the end of the tour offers the minister a free car.</text>
+<text top="955" left="216" width="361" height="18" font="4">“Oh no”, says the minister, “I can’t accept it”. </text>
+<text top="979" left="216" width="368" height="18" font="4">“In that case I’ll sell it to you for five roubles”. </text>
+<text top="1003" left="216" width="322" height="18" font="4">The minister hands him a ten rouble bill:  </text>
+<text top="1027" left="216" width="218" height="18" font="4">“In that case, I’ll have two”.</text>
+<text top="1051" left="216" width="569" height="18" font="4">His response to this one was to laugh - presumably, not such a bad joke -</text>
+<text top="1074" left="216" width="198" height="18" font="4">but surprisingly normal. </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">312</text>
+<text top="172" left="108" width="50" height="18" font="4">(8) d.</text>
+<text top="172" left="181" width="603" height="18" font="4">He found nothing remarkable with the use/mention distinction, illustrated in (i)</text>
+<text top="195" left="181" width="564" height="18" font="4">versus  (ii), and (iii) versus (iv) (that is, with and without ‘scare quotes’):</text>
+<text top="219" left="181" width="10" height="18" font="4">i.</text>
+<text top="219" left="216" width="155" height="18" font="4">Dogs have four legs</text>
+<text top="243" left="108" width="10" height="18" font="4">  </text>
+<text top="243" left="181" width="15" height="18" font="4">ii.</text>
+<text top="243" left="216" width="161" height="18" font="4">Dogs has four letters</text>
+<text top="267" left="181" width="227" height="18" font="4">iii. Kenneth is a great writer</text>
+<text top="290" left="108" width="10" height="18" font="4">  </text>
+<text top="290" left="181" width="240" height="18" font="4">iv. “Kenneth” is a great name</text>
+<text top="338" left="108" width="677" height="18" font="4">Most strikingly, he gave perfect judgements on written versions of ‘Sally-Anne’ (false</text>
+<text top="362" left="108" width="266" height="18" font="4">belief) tasks, as illustrated in (9):</text>
+<text top="409" left="108" width="576" height="18" font="4">(9) He was asked to answer the questions at the end of the description:</text>
+<text top="433" left="143" width="14" height="18" font="4">a.</text>
+<text top="433" left="181" width="604" height="18" font="4">Three children, Alexia, Maureen and Jill are playing in the kitchen. While the</text>
+<text top="457" left="181" width="604" height="18" font="4">others are watching, Alexia puts a chocolate under a teacup. Maureen then</text>
+<text top="480" left="181" width="604" height="18" font="4">goes out of the room. While she is away, Jill removes the chocolate from</text>
+<text top="504" left="181" width="604" height="18" font="4">under the cup and puts it in a saucepan. When Maureen comes back into the</text>
+<text top="528" left="181" width="359" height="18" font="4">room, where will she look for the chocolate?</text>
+<text top="552" left="181" width="506" height="18" font="4">He responded: “Under the cup unless she heard the saucepan”.</text>
+<text top="599" left="143" width="15" height="18" font="4">b.</text>
+<text top="599" left="181" width="603" height="18" font="4">John, Clare and Chris were tidying up the house together. They agreed to put</text>
+<text top="623" left="181" width="604" height="18" font="4">the stamps in the top drawer of the desk. When Clare had gone out, John and</text>
+<text top="647" left="181" width="604" height="18" font="4">Chris changed their mind and put the stamps on the bookcase. Where do you</text>
+<text top="670" left="181" width="473" height="18" font="4">think Clare will look for the stamps when she comes back?</text>
+<text top="694" left="181" width="162" height="18" font="4">“In the top drawer”.</text>
+<text top="742" left="143" width="14" height="18" font="4">c.</text>
+<text top="742" left="181" width="603" height="18" font="4">John, Tony and Paddy agreed to meet in the House of Commons on</text>
+<text top="765" left="181" width="603" height="18" font="4">Wednesday. Later, John and Tony changed the meeting till Thursday, but</text>
+<text top="789" left="181" width="603" height="18" font="4">neither of them remembered to tell Paddy. Which day did Paddy arrive for</text>
+<text top="813" left="181" width="102" height="18" font="4">the meeting?</text>
+<text top="837" left="181" width="288" height="18" font="4">“Wednesday, except in [inaudible]”</text>
+<text top="884" left="108" width="677" height="18" font="4">An interesting partial parallel in the literature is provided by Happé’s (1991) subject</text>
+<text top="908" left="108" width="676" height="18" font="4">David, who has “apparently good understanding of others’ minds” (1991:218). This</text>
+<text top="932" left="108" width="676" height="18" font="4">conclusion was arrived at on the basis of his use of mental state predicates like ‘think’;</text>
+<text top="955" left="108" width="676" height="18" font="4">though even here there was a lot of “I think …” but only one example of  “I think he</text>
+<text top="979" left="108" width="676" height="18" font="4">thought …”. Given the performance of KH and David, it is of interest to read Happé’s</text>
+<text top="1003" left="108" width="676" height="18" font="4">(1991:234) remark: “It is widely reported that even the most verbally able autistic</text>
+<text top="1027" left="108" width="677" height="18" font="4">people (that is, people with Asperger syndrome) fail to understand non-literal speech</text>
+<text top="1051" left="108" width="676" height="18" font="4">such as sarcasm, joking and metaphorical expression”. She stresses Sperber &amp;</text>
+<text top="1074" left="108" width="677" height="18" font="4">Wilson’s (1995) notion of comprehension of intention, and the use of inferential</text>
+<text top="1098" left="108" width="503" height="18" font="4">communication, and we should test KH further in this domain.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">313</text>
+<text top="172" left="108" width="156" height="17" font="5"><b>5 The Framework</b></text>
+<text top="219" left="108" width="677" height="18" font="4">In earlier work, we argued that the ‘central system’ (in either Fodor’s, 1983, or</text>
+<text top="242" left="108" width="677" height="18" font="4">Chomsky’s, 1975, 1984 sense) was characterised by a Basic Processing Mechanism</text>
+<text top="266" left="108" width="677" height="18" font="4">(à la Anderson, 1992), a general memory structure, a set of Special Processors, and,</text>
+<text top="290" left="108" width="677" height="18" font="4">crucially, a set of (quasi-)modules. Quasi-modules (Tsimpli &amp; Smith, 1998; see also</text>
+<text top="314" left="108" width="676" height="18" font="4">Smith &amp; Tsimpli, 1995, where they are described as ‘central modules’) have some of</text>
+<text top="337" left="108" width="677" height="18" font="4">the properties characteristic of Fodorian modules (Fodor, 1983): their operations are</text>
+<text top="361" left="108" width="676" height="18" font="4">domain specific, fast, mandatory, general to the species, and subject to idiosyncratic</text>
+<text top="385" left="108" width="676" height="18" font="4">pathological breakdown. Importantly, however, they do not share all of those</text>
+<text top="409" left="108" width="676" height="18" font="4">characteristics: their operations are not informationally encapsulated and the</text>
+<text top="433" left="108" width="676" height="18" font="4">vocabulary over which they operate is conceptual rather than perceptual. These quasi-</text>
+<text top="456" left="108" width="677" height="18" font="4">modules include at least: the language faculty (in part), Theory of Mind, moral</text>
+<text top="480" left="108" width="677" height="18" font="4">judgement, folk physics, folk psychology, number and music, plus Social Interaction.</text>
+<text top="504" left="123" width="662" height="18" font="4">Before elaborating the details of the framework we presuppose, it is necessary to</text>
+<text top="528" left="108" width="676" height="18" font="4">make a number of conceptual clarifications. The first is the difference between</text>
+<text top="551" left="108" width="676" height="18" font="4">language and communication. The traditional philosophical position which equates the</text>
+<text top="575" left="108" width="677" height="18" font="4">two is untenable: one can communicate without using language and one can use</text>
+<text top="599" left="108" width="677" height="18" font="4">language for purposes other than communication (for discussion, see Smith,</text>
+<text top="622" left="108" width="677" height="18" font="4">1999:149f.). This is not to deny that communication using language is infinitely more</text>
+<text top="646" left="108" width="676" height="18" font="4">subtle than non-verbal communication, nor that language is used most strikingly for</text>
+<text top="670" left="108" width="677" height="18" font="4">communication, but the two are in principle separable. The need to make such a</text>
+<text top="694" left="108" width="676" height="18" font="4">distinction in the present context arises from the recently expressed view that</text>
+<text top="718" left="108" width="676" height="18" font="4">“communication leads to thought” (Hobson, 2002:106). There is a sense in which this</text>
+<text top="741" left="108" width="677" height="18" font="4">is obviously true, but there is a logically prior need for the  mental (linguistic)</text>
+<text top="765" left="108" width="484" height="18" font="4">representation of what the speaker intends to communicate. </text>
+<text top="789" left="123" width="661" height="18" font="4">Second, it is essential to differentiate competence and performance in Chomsky’s</text>
+<text top="813" left="108" width="677" height="18" font="4">sense; (e.g. Chomsky, 1965; Smith, 1999); that is knowledge of Natural Language and</text>
+<text top="836" left="108" width="676" height="18" font="4">the use of that knowledge in the production and comprehension of utterances. In order</text>
+<text top="860" left="108" width="676" height="18" font="4">to distinguish these notions from other aspects of cognition, we designate this</text>
+<text top="884" left="108" width="100" height="18" font="4">Competence</text>
+<text top="893" left="209" width="16" height="11" font="0">NL</text>
+<text top="884" left="225" width="147" height="18" font="4"> and Performance</text>
+<text top="893" left="372" width="16" height="11" font="0">NL</text>
+<text top="884" left="389" width="396" height="18" font="4">. The development of such knowledge in normal</text>
+<text top="908" left="108" width="677" height="18" font="4">children is standardly seen as a matter of ‘growth’ (the joint product of innate and</text>
+<text top="931" left="108" width="677" height="18" font="4">environmental factors) rather than the result of explicit teaching. That is, along with</text>
+<text top="955" left="108" width="677" height="18" font="4">the general community of linguists, we do not accept such claims as: “to learn</text>
+<text top="979" left="108" width="677" height="18" font="4">language and to use words correctly, a child needs to receive correction as</text>
+<text top="1003" left="108" width="677" height="18" font="4">correction…” (Hobson, 2002:113). For discussion, see Bowerman, 1987; Smith,</text>
+<text top="1026" left="108" width="52" height="18" font="4">1999).</text>
+<text top="1050" left="123" width="662" height="18" font="4">The competence/performance distinction we are appealing to is a classic one and</text>
+<text top="1074" left="108" width="676" height="18" font="4">now relatively uncontroversial. We also think it is necessary to draw a third basic</text>
+<text top="1098" left="108" width="676" height="18" font="4">distinction which, while parallel to this, is less widely discussed: that between</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">314</text>
+<text top="172" left="108" width="676" height="18" font="4">knowledge of the Language of Thought in the sense of  Fodor (1975) and the use of</text>
+<text top="195" left="108" width="677" height="18" font="4">that knowledge in particular acts of thinking. That is, we assume that the thought</text>
+<text top="219" left="108" width="676" height="18" font="4">processes deployed in (e.g.) problem solving and the ‘fixation of belief’ are in</text>
+<text top="243" left="108" width="676" height="18" font="4">principle distinct from processes which use natural languages such as German, Yoruba</text>
+<text top="267" left="108" width="445" height="18" font="4">or English. We refer to this distinction as  Competence</text>
+<text top="276" left="553" width="21" height="11" font="0">LoT</text>
+<text top="267" left="574" width="145" height="18" font="4"> and Performance</text>
+<text top="276" left="720" width="22" height="11" font="0">LoT</text>
+<text top="267" left="742" width="41" height="18" font="4">.  It is</text>
+<text top="290" left="108" width="676" height="18" font="4">necessary to make this distinction explicit, because of the tendency in some of the</text>
+<text top="314" left="108" width="676" height="18" font="4">literature to run them together. For instance, in discussing “the child’s ability to think”</text>
+<text top="338" left="108" width="677" height="18" font="4">and “the roots of thought” Hobson (2002:5, 7, see especially p.105.) fails to</text>
+<text top="362" left="108" width="677" height="18" font="4">distinguish the content of thought and the algebra or syntax of thought, which renders</text>
+<text top="385" left="108" width="677" height="18" font="4">that content transparent. Despite this conceptual distinction between competence of</text>
+<text top="409" left="108" width="676" height="18" font="4">two different kinds, it remains the case that the demands of compositionality (the claim</text>
+<text top="433" left="108" width="677" height="18" font="4">that the meaning of the whole is made up of the meaning of its parts) entail that there</text>
+<text top="457" left="108" width="505" height="18" font="4">can’t be too much divergence (in the adult) between Competence</text>
+<text top="466" left="613" width="17" height="11" font="0">NL </text>
+<text top="457" left="631" width="133" height="18" font="4">and Competence</text>
+<text top="466" left="763" width="21" height="11" font="0">LoT</text>
+<text top="480" left="108" width="677" height="18" font="4">(see Cormack &amp; Smith, 2002).  Indeed, the usual evidence for the nature of both</text>
+<text top="504" left="108" width="100" height="18" font="4">Competence</text>
+<text top="514" left="209" width="21" height="11" font="0">LoT</text>
+<text top="504" left="230" width="144" height="18" font="4"> and Competence</text>
+<text top="514" left="374" width="21" height="11" font="0">NL </text>
+<text top="504" left="395" width="216" height="18" font="4"> comes from Performance</text>
+<text top="514" left="611" width="16" height="11" font="0">NL</text>
+<text top="504" left="628" width="156" height="18" font="4">, but it is generally</text>
+<text top="528" left="108" width="677" height="18" font="4">accepted that one can deploy the resources provided by one’s ability to think without</text>
+<text top="552" left="108" width="660" height="18" font="4">using natural language to do so. This holds, even if the link between Competence</text>
+<text top="561" left="768" width="16" height="11" font="0">NL</text>
+<text top="575" left="108" width="136" height="18" font="4">and Competence</text>
+<text top="585" left="244" width="21" height="11" font="0">LoT</text>
+<text top="575" left="266" width="518" height="18" font="4">  is typically mediated by conceptual elements represented in a</text>
+<text top="599" left="108" width="207" height="18" font="4">natural language lexicon. </text>
+<text top="623" left="123" width="661" height="18" font="4">There is then an interesting empirical question whether normal and autistic subjects</text>
+<text top="647" left="108" width="595" height="18" font="4">are differentiated - inter alia - by the former having ‘perfect’ Competence</text>
+<text top="656" left="704" width="16" height="11" font="0">NL</text>
+<text top="647" left="720" width="64" height="18" font="4"> and the</text>
+<text top="670" left="108" width="411" height="18" font="4">latter having a putatively imperfect Competence</text>
+<text top="680" left="519" width="16" height="11" font="0">NL</text>
+<text top="670" left="536" width="249" height="18" font="4">, or if the difference resides</text>
+<text top="694" left="108" width="677" height="18" font="4">elsewhere. It is relatively uncontroversial that autistic subjects manifest anomalous</text>
+<text top="718" left="108" width="104" height="18" font="4">Performance</text>
+<text top="727" left="212" width="16" height="11" font="0">NL</text>
+<text top="718" left="228" width="556" height="18" font="4"> in their language behaviour, but it is not self-evident that this is a</text>
+<text top="742" left="108" width="676" height="18" font="4">function of the language faculty alone or of its interaction with other modules. To</text>
+<text top="765" left="108" width="660" height="18" font="4">illustrate the kind of interaction we mean, consider the development of  Competence</text>
+<text top="775" left="768" width="16" height="11" font="0">NL</text>
+<text top="789" left="108" width="677" height="18" font="4">and Theory of Mind. On the one hand, it has been claimed that the development of</text>
+<text top="813" left="108" width="6" height="18" font="4">‘</text>
+<text top="813" left="114" width="31" height="18" font="7"><i>that</i></text>
+<text top="813" left="146" width="639" height="18" font="4">-clauses’in the language faculty is necessary for the emergence of Theory of Mind</text>
+<text top="837" left="108" width="677" height="18" font="4">(De Villiers &amp; de Villiers, 1999; see also Papafragou, 2002; Tsimpli &amp; Smith, 1998);</text>
+<text top="860" left="108" width="676" height="18" font="4">on the other hand, it has been argued that the linguistic ability to give an epistemic</text>
+<text top="884" left="108" width="677" height="18" font="4">rather than a deontic interpretation to modal sentences is dependent on the emergence</text>
+<text top="908" left="108" width="677" height="18" font="4">of the metarepresentational ability of Theory of Mind feeding into the language faculty</text>
+<text top="932" left="108" width="677" height="18" font="4">(see Papafragou, 1998, for discussion). This contrast is exemplified by the difference</text>
+<text top="955" left="108" width="519" height="18" font="4">in interpretation of the examples containing the modal auxiliary </text>
+<text top="955" left="628" width="38" height="18" font="7"><i>must</i></text>
+<text top="955" left="666" width="118" height="18" font="4"> in (10), where</text>
+<text top="979" left="108" width="676" height="18" font="4">(10a) is ‘epistemic’ – reporting an inference - and (10b) is ‘deontic’ – reporting a</text>
+<text top="1003" left="108" width="103" height="18" font="4">requirement:</text>
+<text top="1051" left="108" width="33" height="18" font="4">(10)</text>
+<text top="1051" left="162" width="185" height="18" font="4">a. John’s so untidy, he </text>
+<text top="1051" left="347" width="38" height="18" font="7"><i>must</i></text>
+<text top="1051" left="385" width="117" height="18" font="4"> be unmarried </text>
+<text top="1074" left="162" width="331" height="18" font="4">b. If John is to enter this competition, he </text>
+<text top="1074" left="493" width="38" height="18" font="7"><i>must</i></text>
+<text top="1074" left="532" width="117" height="18" font="4"> be unmarried </text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">315</text>
+<text top="172" left="108" width="676" height="18" font="4">These various conceptual distinctions are usually associated with claims about the</text>
+<text top="195" left="108" width="676" height="18" font="4">innateness of the faculties concerned. The issue of innateness is largely irrelevant to</text>
+<text top="219" left="108" width="676" height="18" font="4">our present concerns: that something is innate in each domain seems to us to be</text>
+<text top="243" left="108" width="676" height="18" font="4">undeniable, but we see no reason for the a priori acceptance of innateness in one</text>
+<text top="267" left="108" width="677" height="18" font="4">domain and its rejection in others. Thus Hobson talks about  the “infant’s innate</text>
+<text top="290" left="108" width="676" height="18" font="4">capacity for social engagement” (2002:28), and appears happy to accept innateness for</text>
+<text top="314" left="108" width="676" height="18" font="4">vision (2002:54),  but he rejects “the innateness hypothesis” (2002:257) for language</text>
+<text top="338" left="108" width="634" height="18" font="4">and theory of mind, saying that it is merely “a cloak for ignorance” (2002:29). </text>
+<text top="362" left="123" width="662" height="18" font="4">We are happy to agree with Hobson’s claims about the importance of social</text>
+<text top="385" left="108" width="677" height="18" font="4">interaction, but it seems clear that there are cognitive prerequisites to socialisation</text>
+<text top="409" left="108" width="643" height="18" font="4">(where ‘cognitive prerequisites’ means in our terms some mastery of Competence</text>
+<text top="419" left="752" width="21" height="11" font="0">LoT</text>
+<text top="409" left="773" width="12" height="18" font="4">).</text>
+<text top="433" left="108" width="676" height="18" font="4">The converse view that there are social prerequisites to cognition could only be true</text>
+<text top="457" left="108" width="353" height="18" font="4">on a construal of cognition as Performance</text>
+<text top="466" left="461" width="21" height="11" font="0">LoT</text>
+<text top="457" left="482" width="207" height="18" font="4">, rather than Competence</text>
+<text top="466" left="689" width="21" height="11" font="0">LoT</text>
+<text top="457" left="711" width="73" height="18" font="4">. What is</text>
+<text top="480" left="108" width="677" height="18" font="4">crucial is the direction (if any) of causation. A similar conceptual issue arises with</text>
+<text top="504" left="108" width="677" height="18" font="4">regard to the emotions and whether there are social prerequisites to emotional</text>
+<text top="528" left="108" width="676" height="18" font="4">development. We believe with Hobson that there must be such prerequisites, though</text>
+<text top="552" left="108" width="677" height="18" font="4">we are unconvinced that “to perceive emotion is also to react to emotion” (Hobson,</text>
+<text top="575" left="108" width="677" height="18" font="4">2002:39), as we think that this links emotion and thought too closely (cf. p.151 where</text>
+<text top="599" left="108" width="677" height="18" font="4">he says “thinking and feeling [are] integral to each other”). It is anyway noteworthy</text>
+<text top="623" left="108" width="677" height="18" font="4">that emotion and cognition dissociate in moral judgement – see Greene &amp; Haidt, 2002.</text>
+<text top="647" left="123" width="661" height="18" font="4">It is implausible that the gamut of emotions should be subserved by one or even</text>
+<text top="670" left="108" width="677" height="18" font="4">several quasi-modules of the type postulated to account for social interaction.</text>
+<text top="694" left="108" width="676" height="18" font="4">Following de Sousa’s (1987) ground-breaking work, we adopt a (Platonist) tri-partite</text>
+<text top="718" left="108" width="677" height="18" font="4">characterisation of human nature in terms of desire, reason and emotion. Sperber &amp;</text>
+<text top="742" left="108" width="676" height="18" font="4">Wilson (1995:73-74) have argued for the special status of ‘belief’ and ‘desire’ vis-à-vis</text>
+<text top="765" left="108" width="677" height="18" font="4">other mental states, and we would add the emotions to these. (See Smith, 2002). That</text>
+<text top="789" left="108" width="676" height="18" font="4">is, these three categories do not themselves define quasi-modules, but underlie some</text>
+<text top="813" left="108" width="677" height="18" font="4">of the quasi-modules that make up the rest of mental structure, specifically  Social</text>
+<text top="837" left="108" width="265" height="18" font="4">Interaction and Theory of Mind. </text>
+<text top="860" left="123" width="662" height="18" font="4">Any theory of the emotions must take account of the distinction between ‘basic’ and</text>
+<text top="884" left="108" width="677" height="18" font="4">‘derived’ emotions. The former include those emotions which have a direct</text>
+<text top="908" left="108" width="677" height="18" font="4">physiological underpinning and are instantly (perhaps universally) identifiable: fear,</text>
+<text top="932" left="108" width="677" height="18" font="4">terror, happiness, disgust, anger, joy - perhaps the six basic emotions of Ekman (1973).</text>
+<text top="955" left="108" width="677" height="18" font="4">These are, we take it, ‘decoded’ from facial expression together with other bodily</text>
+<text top="979" left="108" width="677" height="18" font="4">manifestations  such as trembling. The ‘derived’ emotions, such as envy, shame,</text>
+<text top="1003" left="108" width="677" height="18" font="4">embarrassment, and jealousy, are more complex in a variety of ways. First, they</text>
+<text top="1027" left="108" width="677" height="18" font="4">necessitate an understanding of the distinction between Self and Other; second, they</text>
+<text top="1051" left="108" width="677" height="18" font="4">rely on what is made mutually manifest – usually on the basis of linguistic evidence,</text>
+<text top="1074" left="108" width="677" height="18" font="4">and hence what is inferentially as opposed to directly Interpretable; and third, they</text>
+<text top="1098" left="108" width="677" height="18" font="4">presuppose access to other systems, specifically Social Interaction and Theory of</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">316</text>
+<text top="172" left="108" width="676" height="18" font="4">Mind, demonstrating their lack of informational encapsulation. Both kinds of emotion</text>
+<text top="195" left="108" width="676" height="18" font="4">may be the object of conscious introspection: ‘being afraid’ and ‘knowing that one is</text>
+<text top="219" left="108" width="396" height="18" font="4">afraid’ are quite different (see e.g. Kenny, 1963).</text>
+<text top="243" left="123" width="662" height="18" font="4">Even the derived emotions are not of uniform complexity: shame and envy are</text>
+<text top="267" left="108" width="677" height="18" font="4">typically a relation among three entities - two persons and a property: e.g. person A</text>
+<text top="290" left="108" width="677" height="18" font="4">envies person B some property or possession (her good looks or large income);</text>
+<text top="314" left="108" width="677" height="18" font="4">whereas jealousy is a layered relation among three persons: e.g. person A is jealous of</text>
+<text top="338" left="108" width="676" height="18" font="4">person B because of B’s relation to person C. Experiencing derived emotions would</text>
+<text top="362" left="108" width="676" height="18" font="4">then necessitate the availability of a Theory of Mind, and the identification of derived</text>
+<text top="385" left="108" width="677" height="18" font="4">emotions in others would require both this and some further interpretive or inferential</text>
+<text top="409" left="108" width="676" height="18" font="4">ability. One implication of this complexity is that experiencing some emotions involves</text>
+<text top="433" left="108" width="676" height="18" font="4">a fully functioning Theory of Mind, and their identification in others presupposes both</text>
+<text top="457" left="108" width="509" height="18" font="4">this and some considerable sophistication in Social Interaction.</text>
+<text top="480" left="123" width="661" height="18" font="4">As is clear from the earlier discussion, there is widespread agreement that it is</text>
+<text top="504" left="108" width="676" height="18" font="4">necessary to separate the affective and the cognitive. It is less clear how that</text>
+<text top="528" left="108" width="676" height="18" font="4">separation should be effected. It is uncontroversial that Theory of Mind includes a</text>
+<text top="552" left="108" width="676" height="18" font="4">cognitive component that allows an individual to understand the point of view of</text>
+<text top="575" left="108" width="677" height="18" font="4">someone else. It is also clear that one could have a cognitive component of social</text>
+<text top="599" left="108" width="677" height="18" font="4">interaction, which allowed one to understand the role of other individuals (e.g. as</text>
+<text top="623" left="108" width="677" height="18" font="4">authority figures) without being able to ascribe to those individuals a point of view</text>
+<text top="647" left="108" width="677" height="18" font="4">distinct from one’s own. Similarly, we think that there is an affective (i.e. non-</text>
+<text top="670" left="108" width="677" height="18" font="4">cognitive) component which interacts with each of these others, but whose status as</text>
+<text top="694" left="108" width="677" height="18" font="4">part of either one is unclear. We assume that KH suffers from (putatively related)</text>
+<text top="718" left="108" width="677" height="18" font="4">deficits in his ability to represent and interpret (derived) emotions and in his Social</text>
+<text top="742" left="108" width="677" height="18" font="4">Interaction quasi-module. His Theory of Mind may either be intact or, if impaired, then</text>
+<text top="765" left="108" width="677" height="18" font="4">his high intelligence enables him to circumvent any resulting cognitive problems, even</text>
+<text top="789" left="108" width="677" height="18" font="4">though it is not similarly effective in the affective and social domains. We discuss both</text>
+<text top="813" left="108" width="103" height="18" font="4">possibilities. </text>
+<text top="885" left="108" width="126" height="17" font="5"><b>6 The Analysis</b></text>
+<text top="931" left="108" width="676" height="18" font="4">KH’s linguistic and cognitive abilities indicate either that he has no significant deficit</text>
+<text top="955" left="108" width="677" height="18" font="4">in his Theory of Mind or that any deficit is compensated by his high intelligence. We</text>
+<text top="979" left="108" width="676" height="18" font="4">accept the distinction drawn by many between the cognitive and the affective</text>
+<text top="1003" left="108" width="677" height="18" font="4">components of human mentation, and suggest that different components of the mind</text>
+<text top="1026" left="108" width="677" height="18" font="4">may be differentially compensated by high intelligence, especially verbal intelligence:</text>
+<text top="1050" left="108" width="677" height="18" font="4">that is, intelligence might mask a cognitive deficit but is relatively unhelpful in the</text>
+<text top="1074" left="108" width="360" height="18" font="4">presence of affective or emotional disorders.</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">317</text>
+<text top="172" left="123" width="661" height="18" font="4">This claim is clearly in need of justification, as there is a general consensus that high</text>
+<text top="195" left="108" width="677" height="18" font="4">Verbal  Mental Age (VMA) in autistic and Asperger Syndrome subjects is not</text>
+<text top="219" left="108" width="677" height="18" font="4">sufficient to guarantee success on (second-order) Theory of Mind tasks, even if they</text>
+<text top="243" left="108" width="676" height="18" font="4">can pass first-order tasks. We accordingly need to spell out the distinction between a</text>
+<text top="267" left="108" width="676" height="18" font="4">cognitive deficit in Theory of Mind and an affective deficit in the Social Interaction</text>
+<text top="290" left="108" width="677" height="18" font="4">quasi-module, assuming that these involve respectively the attribution of beliefs and</text>
+<text top="314" left="108" width="215" height="18" font="4">the attribution of emotions.</text>
+<text top="315" left="324" width="3" height="17" font="5"><b> </b></text>
+<text top="314" left="327" width="457" height="18" font="4">That is, we take it that KH’s affective deficit is attributable</text>
+<text top="338" left="108" width="677" height="18" font="4">to an impairment of his Social Interaction quasi-module which inhibits the formulation</text>
+<text top="362" left="108" width="296" height="18" font="4">and expression of derived emotions. </text>
+<text top="386" left="123" width="661" height="18" font="4">We hypothesize that KH’s Theory of Mind is intact, but even if it is somewhat</text>
+<text top="409" left="108" width="677" height="18" font="4">impaired, we argue that the potential cognitive effects of  such a deficit may be masked</text>
+<text top="433" left="108" width="677" height="18" font="4">by the presence of exceptionally good language, including not only a high VMA but</text>
+<text top="457" left="108" width="677" height="18" font="4">also a system which underpins good inferential abilities carried out in the language of</text>
+<text top="481" left="108" width="676" height="18" font="4">thought. Specifically, KH’s normal performance in language-based Theory of Mind</text>
+<text top="505" left="108" width="677" height="18" font="4">tasks may be explained by reference to his exceptionally good language and meta-</text>
+<text top="528" left="108" width="676" height="18" font="4">linguistic abilities, where meta-linguistic skills presuppose ‘central coherence’ in the</text>
+<text top="552" left="108" width="677" height="18" font="4">sense of Frith (1989; see also Happé, 1999), and require inferential processes whose</text>
+<text top="576" left="108" width="677" height="18" font="4">premises involve linguistic and linguistically-based representations. If this is the case,</text>
+<text top="600" left="108" width="677" height="18" font="4">KH’s exceptional abilities lie in the central workings of a Basic Processing Mechanism</text>
+<text top="623" left="108" width="677" height="18" font="4">(in the sense of Anderson, 1992; see Smith &amp; Tsimpli, 1995 for discussion), which</text>
+<text top="647" left="108" width="677" height="18" font="4">appears to be within the middle/high range of performance. This shows a marked</text>
+<text top="671" left="108" width="136" height="18" font="4">contrast with the </text>
+<text top="671" left="244" width="53" height="18" font="7"><i>savant</i></text>
+<text top="671" left="297" width="487" height="18" font="4"> Christopher, whose performance IQ is drastically lower. Our</text>
+<text top="694" left="108" width="676" height="18" font="4">claim is then that compensatory strategies for a deficit in Theory of Mind</text>
+<text top="718" left="108" width="677" height="18" font="4">representations may be developed on the basis of an intact Basic Processing</text>
+<text top="742" left="108" width="319" height="18" font="4">Mechanism and meta-linguistic ability. </text>
+<text top="766" left="123" width="661" height="18" font="4">We attribute KH’s understanding of the second-order representations involved in</text>
+<text top="790" left="108" width="677" height="18" font="4">sarcasm, irony and standard Theory of Mind tasks to compensatory strategies that are</text>
+<text top="813" left="108" width="677" height="18" font="4">exceptionally developed on the basis of a high IQ and explicit (taught) knowledge. We</text>
+<text top="837" left="108" width="677" height="18" font="4">know, for instance, that his mother has identified instances of sarcasm for him in her</text>
+<text top="861" left="108" width="677" height="18" font="4">attempts to explain the workings of the world to him. The combination of an intact</text>
+<text top="885" left="108" width="676" height="18" font="4">Basic Processing Mechanism, which can efficiently process ‘explicit’ knowledge of</text>
+<text top="908" left="108" width="676" height="18" font="4">belief concepts, together with his meta-linguistic ability manipulating lexical, syntactic</text>
+<text top="932" left="108" width="677" height="18" font="4">and prosodic information, enable KH to distinguish between literal and non-literal uses</text>
+<text top="956" left="108" width="677" height="18" font="4">of language. It is also significant that KH understands epistemic uses of modal verbs</text>
+<text top="980" left="108" width="677" height="18" font="4">(e.g. “that will be his wife” as an inference about the present rather than a prediction</text>
+<text top="1003" left="108" width="112" height="18" font="4">of the future).</text>
+<text top="1027" left="123" width="662" height="18" font="4">The possibility of developing this kind of compensatory strategy for a putatively</text>
+<text top="1051" left="108" width="677" height="18" font="4">deficient Theory of Mind is compatible with the claim that it is quasi-modular.</text>
+<text top="1075" left="108" width="677" height="18" font="4">Whether Theory of Mind is unitary, or fractionated into the Cognitive and the</text>
+<text top="1098" left="108" width="677" height="18" font="4">Affective, we would expect impairment to lead to a deficit in the attribution of</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">318</text>
+<text top="172" left="108" width="676" height="18" font="4">emotions,  because emotions – unlike beliefs – are not encoded exclusively</text>
+<text top="195" left="108" width="677" height="18" font="4">linguistically. Indeed, the contrast between the need for language in expressing beliefs</text>
+<text top="219" left="108" width="51" height="18" font="7"><i>versus</i></text>
+<text top="219" left="160" width="625" height="18" font="4"> emotions is clear from the pattern that is observed in children’s development</text>
+<text top="243" left="108" width="677" height="18" font="4">(e.g. Harris, 1989, and Garfield et al, 2001, on hearing-impaired children with Theory</text>
+<text top="267" left="108" width="676" height="18" font="4">of Mind deficits). In particular, the attribution of emotions which are not shared by the</text>
+<text top="290" left="108" width="676" height="18" font="4">subject seems to precede the attribution of beliefs (by roughly a year and a half). Given</text>
+<text top="314" left="108" width="676" height="18" font="4">KH’s problems of social and emotional interaction, it seems natural to assume a deficit</text>
+<text top="338" left="108" width="677" height="18" font="4">in some quasi-modular domain responsible for generating mental representations of</text>
+<text top="362" left="108" width="676" height="18" font="4">the Self/Other type (cf. Smith &amp; Tsimpli, 1995). In fact, if the attribution of emotions</text>
+<text top="385" left="108" width="677" height="18" font="4">to others is as problematic for him as appears to be the case, we would expect the</text>
+<text top="409" left="108" width="677" height="18" font="4">explanation to reside either in his having a deficit in his Theory of Mind or, more</text>
+<text top="433" left="108" width="676" height="18" font="4">plausibly, in an affective module (the Social Interaction quasi-module) which is</text>
+<text top="457" left="108" width="677" height="18" font="4">accessible to the Theory of Mind. As we have argued independently for Christopher,</text>
+<text top="480" left="108" width="676" height="18" font="4">the quasi-modular status of Theory of Mind allows for compensatory strategies to</text>
+<text top="504" left="108" width="677" height="18" font="4">develop. What is exceptional in KH’s case is that a high-functioning Basic Processing</text>
+<text top="528" left="108" width="677" height="18" font="4">Mechanism, together with his inferential and meta-linguistic abilities, enables these</text>
+<text top="552" left="108" width="677" height="18" font="4">strategies to mask the effects of a deficit in the cognitive domain, but not in the</text>
+<text top="575" left="108" width="141" height="18" font="4">affective domain.</text>
+<text top="599" left="123" width="661" height="18" font="4">To make such an analysis plausible, we need to flesh out somewhat the quasi-</text>
+<text top="623" left="108" width="676" height="18" font="4">modular framework we are presupposing. We take it as axiomatic that we all have</text>
+<text top="647" left="108" width="677" height="18" font="4">some mentally represented theory of Social Interaction. In line with Tager-Flusberg</text>
+<text top="670" left="108" width="677" height="18" font="4">and Sullivan (1999), we suggest that Social Interaction is itself divided into Social</text>
+<text top="694" left="108" width="676" height="18" font="4">Cognition, which links most directly to Theory of Mind, and Social Affect, which links</text>
+<text top="718" left="108" width="677" height="18" font="4">most directly to the emotions. Social Cognition must include categories of Authority,</text>
+<text top="742" left="108" width="677" height="18" font="4">Equality, and Propinquity, where Authority, for instance, may in turn be subdivided</text>
+<text top="765" left="108" width="677" height="18" font="4">into the Known (family, teachers, etc.) and the Unknown (police, traffic wardens, God,</text>
+<text top="789" left="108" width="524" height="18" font="4">etc.); Propinquity and Equality are subdivisible in terms of Family </text>
+<text top="789" left="631" width="51" height="18" font="7"><i>versus</i></text>
+<text top="789" left="683" width="101" height="18" font="4"> Friends, and</text>
+<text top="813" left="108" width="677" height="18" font="4">so on. Social Affect pertains mainly to the nature of the engagement with the others</text>
+<text top="837" left="108" width="677" height="18" font="4">identified by Social Cognition, and draws heavily on the emotions. The two may</text>
+<text top="860" left="108" width="676" height="18" font="4">dissociate independently, and both may link with other components of the mind. Thus</text>
+<text top="884" left="108" width="677" height="18" font="4">even though Social Cognition is more directly related to Theory of Mind than is Social</text>
+<text top="908" left="108" width="676" height="18" font="4">Affect, the latter crucially shares with the developing Theory of Mind the need to</text>
+<text top="932" left="108" width="677" height="18" font="4">exploit a Shared Attention Mechanism (in the sense of Baron-Cohen, 1995) to provide</text>
+<text top="955" left="108" width="677" height="18" font="4">a foundation for emotional engagement. Whether each of Social Cognition and Social</text>
+<text top="979" left="108" width="676" height="18" font="4">Affect is an autonomous Quasi-module in its own right, or should rather be viewed as</text>
+<text top="1003" left="108" width="677" height="18" font="4">sub-structures of a single entity is still moot. The way we have formulated it here</text>
+<text top="1027" left="108" width="241" height="18" font="4">leaves both possibilities open.</text>
+<text top="1051" left="123" width="661" height="18" font="4">This account is directly compatible with the analysis we had constructed for</text>
+<text top="1074" left="108" width="677" height="18" font="4">Christopher to accommodate the fact that the familiarity of the participants improved</text>
+<text top="1098" left="108" width="676" height="18" font="4">his Theory of Mind performance. In Tsimpli &amp; Smith (1998) we used Johnson Laird’s</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">319</text>
+<text top="172" left="108" width="676" height="18" font="4">(1983) notion of Mental Model to account for Christopher’s improvement when the</text>
+<text top="195" left="108" width="677" height="18" font="4">stories included known protagonists, suggesting that this reduces the amount of</text>
+<text top="219" left="108" width="677" height="18" font="4">processing that the central processing mechanism or some system parasitic on Theory</text>
+<text top="243" left="108" width="677" height="18" font="4">of Mind will use. This indicates that Theory of Mind and Social Interaction are</text>
+<text top="267" left="108" width="677" height="18" font="4">penetrable and have quasi-modular status. The absence of informational encapsulation</text>
+<text top="290" left="108" width="676" height="18" font="4">is likewise implicit in any attempt to derive deficits in social ability from an impaired</text>
+<text top="314" left="108" width="676" height="18" font="4">Theory of Mind, even if this derivation is in fact insufficient to account for the whole</text>
+<text top="338" left="108" width="632" height="18" font="4">of the observed phenomena. It is to this putative inadequacy that we turn next.</text>
+<text top="362" left="123" width="661" height="18" font="4">Given our framework as modified here, there are several plausible hypotheses which</text>
+<text top="385" left="108" width="677" height="18" font="4">could account for the behaviour of KH and other Asperger syndrome subjects: they</text>
+<text top="409" left="108" width="677" height="18" font="4">could have a defective Social Interaction quasi-module, with repercussions for both</text>
+<text top="433" left="108" width="677" height="18" font="4">Social Cognition and Social Affect; either of the latter two could be intact or impaired;</text>
+<text top="457" left="108" width="677" height="18" font="4">they could have an intact Social Interaction Quasi-module but an impaired Theory of</text>
+<text top="480" left="108" width="677" height="18" font="4">Mind (as perhaps in congenitally blind or profoundly deaf children); or both these</text>
+<text top="504" left="108" width="676" height="18" font="4">could be intact but the interaction between them be impaired. Given the pattern of</text>
+<text top="528" left="108" width="677" height="18" font="4">behaviour shown by KH, we think that the most plausible scenario is that his Theory</text>
+<text top="552" left="108" width="677" height="18" font="4">of Mind is intact, his Social Cognition is largely unimpaired, and the locus of difficulty</text>
+<text top="575" left="108" width="294" height="18" font="4">resides in an impaired Social Affect.</text>
+<text top="599" left="123" width="661" height="18" font="4">Asperger subjects characteristically have a problem with the imaginative projection</text>
+<text top="623" left="108" width="676" height="18" font="4">of emotions (cf. Harris, 2000); that is, their problem is cognitive AND emotional.</text>
+<text top="647" left="108" width="677" height="18" font="4">These conceptual domains meet in Theory of Mind and in Social Intelligence, in both</text>
+<text top="670" left="108" width="512" height="18" font="4">of which the distinction between Self and Other is represented. </text>
+<text top="694" left="123" width="661" height="18" font="4">We have argued that Theory of Mind is quasi-modular in virtue both of its</text>
+<text top="718" left="108" width="677" height="18" font="4">dependence on conceptual representation and its lack of informational encapsulation.</text>
+<text top="742" left="108" width="676" height="18" font="4">We wish to make the same claim with regard to Social Intelligence. However, there is</text>
+<text top="765" left="108" width="676" height="18" font="4">a putative distinction between the cognitive and affective domains. Whereas cognitive</text>
+<text top="789" left="108" width="677" height="18" font="4">representations are necessarily propositional, affective representations are in part</text>
+<text top="813" left="108" width="677" height="18" font="4">propositional and in part non-propositional. We take it that the propositional is directly</text>
+<text top="837" left="108" width="676" height="18" font="4">related to the linguistically encoded in a way that the non-propositional is not. It is</text>
+<text top="860" left="108" width="677" height="18" font="4">accordingly plausible that the distinction between the cognitive and the affective may</text>
+<text top="884" left="108" width="677" height="18" font="4">be linguistically manifest in, for instance, the earlier development of basic emotions</text>
+<text top="908" left="108" width="677" height="18" font="4">than beliefs. If this is the case, the correlation between verbal abilities and Theory of</text>
+<text top="932" left="108" width="677" height="18" font="4">Mind in high-functioning autists and Asperger Syndrome subjects reflects the</text>
+<text top="955" left="108" width="676" height="18" font="4">availability of a possible compensatory strategy. Crucially, language is a necessary but</text>
+<text top="979" left="108" width="677" height="18" font="4">not sufficient condition for apparently successful performance in Theory of Mind</text>
+<text top="1003" left="108" width="677" height="18" font="4">tasks. That it is not sufficient is clear from Christopher’s defective performance;</text>
+<text top="1027" left="108" width="676" height="18" font="4">probably attributable to his impaired ‘central coherence’, which entails that his</text>
+<text top="1051" left="108" width="643" height="18" font="4">excellent linguistic abilities cannot mask his Theory of Mind deficit completely.</text>
+<text top="1074" left="123" width="661" height="18" font="4">By contrast, the partly non-propositional nature of an affective deficit means that it</text>
+<text top="1098" left="108" width="677" height="18" font="4">cannot be masked by such linguistically-based compensatory strategies. Given that the</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="9" size="19" family="PHDXGF+WPMathB" color="#000000"/>
+	<fontspec id="10" size="16" family="QPBYGB+TimesNewRoman,Bold" color="#000000"/>
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">320</text>
+<text top="172" left="108" width="677" height="18" font="4">development of emotions is deficient in all autistic children, including Asperger</text>
+<text top="195" left="108" width="676" height="18" font="4">Syndrome subjects, the basic question is whether the development of emotions can</text>
+<text top="219" left="108" width="677" height="18" font="4">proceed without a well-functioning Theory of Mind.  We suspect that the answer to</text>
+<text top="243" left="108" width="676" height="18" font="4">this is negative but with the following two conditions: the distinction between basic</text>
+<text top="267" left="108" width="677" height="18" font="4">and derived emotions, and the distinction between recognizing basic emotions and</text>
+<text top="290" left="108" width="677" height="18" font="4">processing this information further. More specifically, basic emotions - e.g. anger,</text>
+<text top="314" left="108" width="677" height="18" font="4">disgust, surprise - may have transparent physiological counterparts and be thereby</text>
+<text top="338" left="108" width="676" height="18" font="4">recognisable. For example, even autistic children can perceive an angry face and even</text>
+<text top="362" left="108" width="677" height="18" font="4">experience some sympathy on the basis of their corresponding feelings. The difference</text>
+<text top="385" left="108" width="677" height="18" font="4">between the normal and the autistic child is that the autistic child is incapable of</text>
+<text top="409" left="108" width="677" height="18" font="4">inferring what the implications of this emotion would be for the other person, e.g. that</text>
+<text top="433" left="108" width="677" height="18" font="4">he or she would like the object that caused this emotion to be removed from sight. For</text>
+<text top="457" left="108" width="676" height="18" font="4">this a functioning Theory of Mind is required. Complex emotions by hypothesis</text>
+<text top="480" left="108" width="676" height="18" font="4">require Theory of Mind representations and hence are not within the autistic child’s</text>
+<text top="504" left="108" width="676" height="18" font="4">cognitive range. Similarly, if Social intelligence is dependent on the appropriate</text>
+<text top="528" left="108" width="653" height="18" font="4">attribution of concepts such as authority, Theory of Mind is again a prerequisite. </text>
+<text top="552" left="123" width="661" height="18" font="4">In sum, we suggest that KH’s unusual pattern of performance both supports a</text>
+<text top="575" left="108" width="49" height="18" font="4">(quasi</text>
+<text top="573" left="157" width="12" height="19" font="9">&amp;</text>
+<text top="575" left="170" width="614" height="18" font="4">)modular analysis of human cognition, and simultaneously casts doubt on the</text>
+<text top="599" left="108" width="676" height="18" font="4">two simplest assumptions in the literature: that the aetiology of Asperger syndrome is</text>
+<text top="623" left="108" width="677" height="18" font="4">attributable exclusively to either a deficit in Theory of Mind or to a deficit in Social</text>
+<text top="647" left="108" width="93" height="18" font="4">Interaction.</text>
+<text top="718" left="108" width="79" height="15" font="10"><b>References</b></text>
+<text top="758" left="108" width="677" height="15" font="1">Abell, F., F. Happé &amp; U. Frith (2000) “Do triangles play tricks? Attribution of mental states to</text>
+<text top="779" left="123" width="385" height="15" font="1">animated shapes in normal and abnormal development”. </text>
+<text top="779" left="508" width="162" height="15" font="8"><i>Cognitive Development</i></text>
+<text top="779" left="670" width="62" height="15" font="1"> 15:1-16.</text>
+<text top="800" left="108" width="149" height="15" font="1">Anderson, M. (1992) </text>
+<text top="799" left="257" width="334" height="15" font="8"><i>Intelligence and Development: A Cognitive Theory</i></text>
+<text top="800" left="590" width="132" height="15" font="1">. Oxford, Blackwell.</text>
+<text top="820" left="108" width="167" height="15" font="1">Baron-Cohen, S. (1995) </text>
+<text top="820" left="275" width="390" height="15" font="8"><i>Mindblindness: An Essay on Autism and Theory of Mind</i></text>
+<text top="820" left="665" width="119" height="15" font="1">. Cambridge MA,</text>
+<text top="841" left="123" width="77" height="15" font="1">MIT Press.</text>
+<text top="861" left="108" width="676" height="15" font="1">Baron-Cohen, S., A. Leslie &amp; U. Frith (1985) “Does the autistic child have a Theory of Mind?”</text>
+<text top="882" left="123" width="68" height="15" font="8"><i>Cognition</i></text>
+<text top="882" left="192" width="71" height="15" font="1"> 21:37-46.</text>
+<text top="902" left="108" width="677" height="15" font="1">Bowerman, M. (1987) “The ‘no negative evidence’ problem. How do children avoid constructing an overly</text>
+<text top="923" left="123" width="258" height="15" font="1">general grammar?”. In J. Hawkins (ed) </text>
+<text top="923" left="378" width="217" height="15" font="8"><i>Explaining Language Universals</i></text>
+<text top="923" left="595" width="77" height="15" font="1">. Blackwell.</text>
+<text top="943" left="108" width="141" height="15" font="1">Chomsky, N. (1975) </text>
+<text top="943" left="246" width="163" height="15" font="8"><i>Reflections on Language</i></text>
+<text top="943" left="409" width="148" height="15" font="1">. New York, Pantheon.</text>
+<text top="964" left="108" width="141" height="15" font="1">Chomsky, N. (1980) </text>
+<text top="964" left="246" width="175" height="15" font="8"><i>Rules and Representations</i></text>
+<text top="964" left="420" width="132" height="15" font="1">. Oxford, Blackwell.</text>
+<text top="984" left="108" width="143" height="15" font="1">Chomsky, N. (1984) </text>
+<text top="984" left="247" width="282" height="15" font="8"><i>Modular Approaches to the Study of Mind.</i></text>
+<text top="984" left="528" width="257" height="15" font="1"> San Diego, San Diego State University</text>
+<text top="1005" left="123" width="39" height="15" font="1">Press.</text>
+<text top="1025" left="108" width="142" height="15" font="1">Chomsky, N. (1986) </text>
+<text top="1025" left="246" width="346" height="15" font="8"><i>Knowledge of Language: Its Nature, Origin and Use</i></text>
+<text top="1025" left="592" width="139" height="15" font="1">. New York, Praeger.</text>
+<text top="1046" left="108" width="401" height="15" font="1">Connell, J. (1998) Report by Mrs J. Connell on KH: 21.10.98.</text>
+<text top="1066" left="108" width="460" height="15" font="1">Cormack, A. &amp; N. Smith (2002) “Compositionality, Copy theory, and </text>
+<text top="1066" left="561" width="71" height="15" font="1">Control”. </text>
+<text top="1066" left="625" width="160" height="15" font="8"><i>UCL Working Papers in</i></text>
+<text top="1087" left="123" width="83" height="15" font="8"><i>Linguistics </i></text>
+<text top="1087" left="199" width="90" height="15" font="1">14:355-373. </text>
+<text top="1107" left="108" width="140" height="15" font="1">de Sousa, R. (1987) </text>
+<text top="1107" left="242" width="182" height="15" font="8"><i>The Rationality of Emotion.</i></text>
+<text top="1107" left="423" width="189" height="15" font="1"> Cambridge MA, MIT Press.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="354" width="377" height="15" font="8"><i>Social affect and theory of mind in Asperger syndrome</i></text>
+<text top="133" left="759" width="26" height="15" font="1">321</text>
+<text top="171" left="108" width="116" height="15" font="1">Ekman, P. (1973) </text>
+<text top="171" left="223" width="419" height="15" font="8"><i>Darwin and Facial Expression: A Century of Research in Review.</i></text>
+<text top="171" left="642" width="143" height="15" font="1"> New York, Academic</text>
+<text top="192" left="123" width="39" height="15" font="1">Press.</text>
+<text top="212" left="108" width="111" height="15" font="1">Fodor, J. (1975) </text>
+<text top="212" left="218" width="175" height="15" font="8"><i>The Language of Thought.</i></text>
+<text top="212" left="394" width="138" height="15" font="1"> New York, Crowell.</text>
+<text top="233" left="108" width="111" height="15" font="1">Fodor, J. (1983) </text>
+<text top="233" left="218" width="163" height="15" font="8"><i>The Modularity of Mind.</i></text>
+<text top="233" left="381" width="190" height="15" font="1"> Cambridge MA, MIT Press.</text>
+<text top="253" left="108" width="109" height="15" font="1">Frith, U. (1989) </text>
+<text top="253" left="216" width="216" height="15" font="8"><i>Autism: Explaining the Enigma. </i></text>
+<text top="253" left="431" width="124" height="15" font="1">Oxford, Blackwell.</text>
+<text top="274" left="108" width="447" height="15" font="1">Frith,  U.  (1991)  “Asperger  and  his  syndrome”.  In U.  Frith  (ed) </text>
+<text top="274" left="556" width="228" height="15" font="8"><i>Autism  and  Asperger  Syndrome.</i></text>
+<text top="294" left="123" width="182" height="15" font="1">Cambridge, CUP; pp. 1-36.</text>
+<text top="315" left="108" width="633" height="15" font="1">Frith,  U.,  F.  Happé,  &amp;  F.  Siddons  (1994)  “Autism  and  theory  of  mind  in  everyday  life”. </text>
+<text top="315" left="743" width="42" height="15" font="8"><i>Social</i></text>
+<text top="335" left="123" width="87" height="15" font="8"><i>Development</i></text>
+<text top="335" left="210" width="89" height="15" font="1">, 3, 108-124. </text>
+<text top="356" left="108" width="677" height="15" font="1">Garfield, J., C. Peterson &amp; T. Perry (2001) “Social cognition, language acquisition and the development of</text>
+<text top="376" left="123" width="145" height="15" font="1">the Theory of Mind”. </text>
+<text top="376" left="265" width="122" height="15" font="8"><i>Mind &amp; Language</i></text>
+<text top="376" left="387" width="84" height="15" font="1"> 16:494-541.</text>
+<text top="397" left="108" width="496" height="15" font="1">Greene, J. &amp; J. Haidt (2002) “How (and where) does moral judgment work?”. </text>
+<text top="397" left="599" width="186" height="15" font="8"><i>Trends in Cognitive Sciences</i></text>
+<text top="417" left="123" width="72" height="15" font="1">6:517-523.</text>
+<text top="438" left="108" width="106" height="15" font="1">Hall, K. (2000)  </text>
+<text top="438" left="214" width="325" height="15" font="8"><i>Asperger Syndrome, the Universe and Everything</i></text>
+<text top="438" left="538" width="247" height="15" font="1">. London, Jessica Kingsley Publishers.</text>
+<text top="458" left="108" width="677" height="15" font="1">Happé,  F.  (1991)  “The  autobiographical  writings  of  three  Asperger  syndrome  adults:  problems  of</text>
+<text top="479" left="123" width="373" height="15" font="1">interpretation and implications for theory”. In U. Frith (ed) </text>
+<text top="479" left="494" width="211" height="15" font="8"><i>Autism and Asperger Syndrome.</i></text>
+<text top="479" left="705" width="80" height="15" font="1"> Cambridge,</text>
+<text top="499" left="123" width="126" height="15" font="1">CUP; pp. 207-242.</text>
+<text top="520" left="108" width="677" height="15" font="1">Happé, F. (1995)  “The role of age and verbal ability in the theory of mind task performance of subjects with</text>
+<text top="540" left="123" width="63" height="15" font="1">autism”. </text>
+<text top="540" left="182" width="128" height="15" font="8"><i>Child Development</i></text>
+<text top="540" left="309" width="84" height="15" font="1"> 66:843-855.</text>
+<text top="561" left="108" width="418" height="15" font="1">Happé, F. (1999) “Autism: cognitive deficit or cognitive style?” </text>
+<text top="561" left="519" width="190" height="15" font="8"><i>Trends in Cognitive Sciences</i></text>
+<text top="561" left="709" width="76" height="15" font="1"> 3:216-222.</text>
+<text top="581" left="108" width="135" height="15" font="1">Harris, P.L. (1989) </text>
+<text top="581" left="237" width="162" height="15" font="8"><i>Children and Emotion. </i></text>
+<text top="581" left="393" width="124" height="15" font="1">Oxford, Blackwell.</text>
+<text top="602" left="108" width="138" height="15" font="1">Harris, P. L. (2000) </text>
+<text top="602" left="241" width="195" height="15" font="8"><i>The Work of the Imagination.</i></text>
+<text top="602" left="436" width="128" height="15" font="1"> Oxford, Blackwell.</text>
+<text top="622" left="108" width="518" height="15" font="1">Heider, F. &amp; M. Simmel (1944) “An experimental study of apparent behavior”. </text>
+<text top="622" left="621" width="164" height="15" font="8"><i>The American Journal of</i></text>
+<text top="643" left="123" width="76" height="15" font="8"><i>Psychology</i></text>
+<text top="643" left="198" width="84" height="15" font="1"> 57:243-259.</text>
+<text top="663" left="108" width="140" height="15" font="1">Hermelin, B. (2001) </text>
+<text top="663" left="246" width="535" height="15" font="8"><i>Bright Splinters of the Mind: A Personal Story of Research with Autistic Savants</i></text>
+<text top="663" left="781" width="4" height="15" font="1">.</text>
+<text top="684" left="123" width="241" height="15" font="1">London, Jessica Kingsley Publishers.</text>
+<text top="704" left="108" width="237" height="15" font="1">Hermelin, B. &amp; N. O’Connor  (1970) </text>
+<text top="704" left="345" width="314" height="15" font="8"><i>Psychological Experiments with Autistic Children</i></text>
+<text top="704" left="659" width="126" height="15" font="1">. Oxford, Pergamon</text>
+<text top="725" left="123" width="39" height="15" font="1">Press.</text>
+<text top="746" left="108" width="125" height="15" font="1">Hobson, P. (2002) </text>
+<text top="745" left="233" width="152" height="15" font="8"><i>The Cradle of Thought</i></text>
+<text top="746" left="384" width="140" height="15" font="1">. London, Macmillan.</text>
+<text top="766" left="108" width="170" height="15" font="1">Johnson Laird, P. (1983)  </text>
+<text top="766" left="278" width="104" height="15" font="8"><i> Mental Models</i></text>
+<text top="766" left="382" width="130" height="15" font="1">.  Cambridge, CUP.</text>
+<text top="787" left="108" width="120" height="15" font="1">Kenny, A. (1963) </text>
+<text top="787" left="228" width="171" height="15" font="8"><i>Action, Emotion, and Will</i></text>
+<text top="787" left="398" width="157" height="15" font="1">. New York, Routledge.</text>
+<text top="807" left="108" width="677" height="15" font="1">Klin, A. (2000) “Attributing social meaning to ambiguous visual stimuli in higher-functioning autism and</text>
+<text top="828" left="123" width="330" height="15" font="1">Asperger syndrome: the Social Attribution Task”. </text>
+<text top="828" left="448" width="290" height="15" font="8"><i>Journal of Child Psychology and Psychiatry</i></text>
+<text top="828" left="738" width="47" height="15" font="1"> 7:831-</text>
+<text top="848" left="123" width="29" height="15" font="1">846.</text>
+<text top="869" left="108" width="678" height="15" font="1">Klin, A., W. Jones, R. Schultz, F. Volkmar &amp; D. Cohen (2002) “Defining and quantifying the social</text>
+<text top="889" left="123" width="148" height="15" font="1">phenotype in autism”. </text>
+<text top="889" left="269" width="210" height="15" font="8"><i>American Journal of Psychiatry</i></text>
+<text top="889" left="479" width="98" height="15" font="1"> 159:895-908. </text>
+<text top="910" left="108" width="677" height="15" font="1">Lee, A. &amp; P. Hobson (1998) “Self-description: A controlled study of children and adolescents with autism”.</text>
+<text top="930" left="123" width="291" height="15" font="8"><i>Journal of Child Psychology and Psychiatry</i></text>
+<text top="930" left="414" width="68" height="15" font="1"> 39:00-00.</text>
+<text top="951" left="108" width="535" height="15" font="1">Leslie, A. (1987) “Pretense and representation: the origins of ‘theory of mind’”. </text>
+<text top="951" left="641" width="145" height="15" font="8"><i>Psychological Review</i></text>
+<text top="971" left="123" width="80" height="15" font="1">94:412-426.</text>
+<text top="992" left="108" width="376" height="15" font="1">Moore, P. (1998) Report by Dr P.Moore on KH, 31.5.98.</text>
+<text top="1012" left="108" width="677" height="15" font="1">Perner, J., U. Frith, A. Leslie &amp; S. Leekam (1989) “Exploration of the autistic child’s Theory of Mind:</text>
+<text top="1033" left="123" width="269" height="15" font="1">Knowledge, belief and communication”. </text>
+<text top="1033" left="389" width="128" height="15" font="8"><i>Child Development</i></text>
+<text top="1033" left="517" width="84" height="15" font="1"> 60:689-700.</text>
+<text top="1053" left="108" width="566" height="15" font="1">Peterson, C. &amp; M. Siegal (1995) “Deafness, conversation and the Theory of Mind”. </text>
+<text top="1053" left="674" width="110" height="15" font="8"><i>Journal of Child</i></text>
+<text top="1074" left="123" width="343" height="15" font="8"><i>Psychology, Child Psychiatry and Allied Disciplines</i></text>
+<text top="1074" left="466" width="84" height="15" font="1"> 36:459-474.</text>
+<text top="1094" left="108" width="623" height="15" font="1">Peterson, C. &amp; M.  Siegal  (2000)  “Insights  into  Theory  of  Mind from deafness and autism”. </text>
+<text top="1094" left="731" width="54" height="15" font="8"><i>Mind &amp;</i></text>
+<text top="1115" left="123" width="67" height="15" font="8"><i>Language</i></text>
+<text top="1115" left="189" width="84" height="15" font="1"> 15:123-145.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="317" height="15" font="1">Neil Smith, Beate Hermelin and Ianthi Tsimpli</text>
+<text top="133" left="108" width="26" height="15" font="1">322</text>
+<text top="171" left="108" width="539" height="15" font="1">Premack, D. &amp; G. Woodruff (1978) “Does the chimpanzee have a Theory of Mind?” </text>
+<text top="171" left="644" width="140" height="15" font="8"><i>Behavioral and Brain</i></text>
+<text top="192" left="123" width="56" height="15" font="8"><i>Sciences</i></text>
+<text top="192" left="179" width="76" height="15" font="1"> 1:515-526.</text>
+<text top="212" left="108" width="677" height="15" font="1">Rieffe, C. M.M. Terwogt (2000) “Deaf children’s understanding of emotions: desire takes precedence”.</text>
+<text top="233" left="123" width="295" height="15" font="8"><i>Journal of Child Psychology and Psychiatry </i></text>
+<text top="233" left="419" width="80" height="15" font="1">41:601-608.</text>
+<text top="253" left="108" width="512" height="15" font="1">Rutter, M. (1978) “Diagnosis and definition”. In M. Rutter &amp; E. Schopler (eds) </text>
+<text top="253" left="620" width="165" height="15" font="8"><i>Autism: A Reappraisal of</i></text>
+<text top="274" left="123" width="163" height="15" font="8"><i>Concepts and Treatment</i></text>
+<text top="274" left="285" width="204" height="15" font="1">. New York, Plenum. Pp. 1-25.</text>
+<text top="294" left="108" width="131" height="15" font="1">Smith, N.V. (1999) </text>
+<text top="294" left="240" width="179" height="15" font="8"><i>Chomsky: Ideas and Ideals</i></text>
+<text top="294" left="419" width="126" height="15" font="1">. Cambridge, CUP.</text>
+<text top="315" left="108" width="207" height="15" font="1">Smith, N.V. (2002) “Wonder”. </text>
+<text top="315" left="315" width="120" height="15" font="8"><i>Glot International</i></text>
+<text top="315" left="435" width="59" height="15" font="1"> 6:55-57.</text>
+<text top="335" left="108" width="241" height="15" font="1">Smith, N.V. &amp; I.-M. Tsimpli (1995) </text>
+<text top="335" left="349" width="143" height="15" font="8"><i>The Mind of a Savant</i></text>
+<text top="335" left="491" width="132" height="15" font="1">. Oxford, Blackwell.</text>
+<text top="356" left="108" width="216" height="15" font="1">Sperber, D. &amp; D. Wilson (1995) </text>
+<text top="356" left="324" width="285" height="15" font="8"><i>Relevance: Communication and Cognition.</i></text>
+<text top="356" left="609" width="128" height="15" font="1"> Oxford, Blackwell.</text>
+<text top="376" left="108" width="677" height="15" font="1">Tager-Flusberg, H. &amp; K. Sullivan (1999) “Are children with Williams Syndrome spared in the Theory of</text>
+<text top="397" left="123" width="354" height="15" font="1">Mind? Unpublished MS, University of Massachusetts.</text>
+<text top="417" left="108" width="465" height="15" font="1">Tantam, D. (1991) “Asperger syndrome in adulthood”. In U. Frith (ed) </text>
+<text top="417" left="572" width="213" height="15" font="8"><i>Autism and Asperger Syndrome.</i></text>
+<text top="438" left="123" width="207" height="15" font="1">Cambridge, CUP; pp. 147-183.</text>
+<text top="458" left="108" width="677" height="15" font="1">Tsimpli, I.-M &amp; N.V.  Smith (1998) “Modules and Quasi-modules: Language and theory of mind in a</text>
+<text top="479" left="123" width="115" height="15" font="1">polyglot savant”. </text>
+<text top="479" left="236" width="240" height="15" font="8"><i>Learning and Individual Differences</i></text>
+<text top="479" left="476" width="88" height="15" font="1">. 10:193-215.</text>
+<text top="499" left="108" width="677" height="15" font="1">Wimmer, H. &amp; J. Perner (1983) “Belief about beliefs: representation and constraining function of</text>
+<text top="520" left="123" width="431" height="15" font="1">wrong beliefs in young children’s understanding of deception”. </text>
+<text top="520" left="554" width="68" height="15" font="8"><i>Cognition</i></text>
+<text top="520" left="622" width="88" height="15" font="1"> 13:103-128.</text>
+<text top="540" left="108" width="677" height="15" font="1">Wing, L. (1991) “The relationship between Asperger’s syndrome and Kanner’s autism”. In U. Frith</text>
+<text top="561" left="123" width="30" height="15" font="1">(ed) </text>
+<text top="561" left="153" width="213" height="15" font="8"><i>Autism and Asperger Syndrome.</i></text>
+<text top="561" left="366" width="201" height="15" font="1"> Cambridge, CUP; pp. 93-121.</text>
+<text top="581" left="108" width="677" height="15" font="1">Yirmiya, N., O. Erel, M. Shaked &amp; D. Solomonica-Levi (1998) “Meta-analyses comparing theory of mind</text>
+<text top="602" left="123" width="662" height="15" font="1">abilities  of  individuals  with  autism,  individuals with mental retardation, and normally developing</text>
+<text top="622" left="123" width="82" height="15" font="1">individuals. </text>
+<text top="622" left="201" width="147" height="15" font="8"><i>Psychological Bulletin</i></text>
+<text top="622" left="348" width="92" height="15" font="1"> 124:283-307.</text>
+</page>
+<outline>
+<item page="1">Page 1</item>
+<item page="2">Page 2</item>
+<item page="3">Page 3</item>
+<item page="4">Page 4</item>
+<item page="5">Page 5</item>
+<item page="6">Page 6</item>
+<item page="7">Page 7</item>
+<item page="8">Page 8</item>
+<item page="9">Page 9</item>
+<item page="10">Page 10</item>
+<item page="11">Page 11</item>
+<item page="12">Page 12</item>
+<item page="13">Page 13</item>
+<item page="14">Page 14</item>
+<item page="15">Page 15</item>
+<item page="16">Page 16</item>
+<item page="17">Page 17</item>
+<item page="18">Page 18</item>
+<item page="19">Page 19</item>
+<item page="20">Page 20</item>
+</outline>
+</pdf2xml>

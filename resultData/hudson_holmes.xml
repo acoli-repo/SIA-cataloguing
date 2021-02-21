@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="18" family="Times" color="#000000"/>
+	<fontspec id="3" size="36" family="Times" color="#000000"/>
+	<fontspec id="4" size="21" family="Times" color="#000000"/>
+	<fontspec id="5" size="20" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="17" family="Times" color="#000000"/>
+	<fontspec id="8" size="20" family="Times" color="#000000"/>
+<text top="997" left="123" width="6" height="11" font="0">*</text>
+<text top="1002" left="129" width="91" height="16" font="1">To appear in  </text>
+<text top="1001" left="221" width="454" height="16" font="2">Bert Peeters (ed.) The Lexicon/Encyclopedia Interface. Elsevier</text>
+<text top="1002" left="675" width="12" height="16" font="1">.  </text>
+<text top="1001" left="686" width="123" height="16" font="2">We should like to</text>
+<text top="1023" left="108" width="702" height="16" font="2">thank Joe Hilferty, Bert Peeters and an anonymous reviewer for comments on an earlier version of</text>
+<text top="1044" left="108" width="74" height="16" font="2">this paper.</text>
+<text top="137" left="108" width="459" height="32" font="3"><i><b>Re–cycling in the encyclopedia</b></i></text>
+<text top="133" left="567" width="11" height="19" font="4"><i><b>*</b></i></text>
+<text top="222" left="108" width="374" height="18" font="5">RICHARD HUDSON and JASPER HOLMES</text>
+<text top="318" left="152" width="75" height="18" font="6"><b>Abstract</b></text>
+<text top="365" left="152" width="614" height="16" font="1">‘Re-cycling’ is the principle that  concepts are ‘re-cycled’ rather than duplicated. At the</text>
+<text top="385" left="152" width="615" height="16" font="1">interface between the encyclopedia and the lexicon, this means that a concept may serve both</text>
+<text top="406" left="152" width="614" height="16" font="1">as the meaning of a word and also as part of ordinary non-linguistic cognition; for example,</text>
+<text top="426" left="152" width="615" height="16" font="1">the ordinary concept ‘bicycle’ which we use in everyday life in classifying experiences is also</text>
+<text top="447" left="152" width="614" height="16" font="1">the sense of the noun <i>BICYCLE</i>, and similarly for the concept ‘cycling’, which is the sense</text>
+<text top="467" left="152" width="615" height="16" font="1">of the verb <i>CYCLE</i>. We offer a partial analysis of both these concepts which illustrates the</text>
+<text top="488" left="152" width="614" height="16" font="1">difficulty, and pointlessness, of trying to separate lexical and encyclopedic properties. The ‘re-</text>
+<text top="508" left="152" width="614" height="16" font="1">cycling’ principle also means that wherever possible meanings of words should be re-cycled</text>
+<text top="529" left="152" width="614" height="16" font="1">in the definitions of other words. It is therefore wrong in principle to try to define all word</text>
+<text top="549" left="152" width="614" height="16" font="1">meanings in terms of a universal semantic vocabulary. We show, for example, how ‘cycling’</text>
+<text top="570" left="152" width="615" height="16" font="1">must be defined in terms of concepts such as ‘bicycle’, which must in turn be defined in</text>
+<text top="591" left="152" width="614" height="16" font="1">terms of ‘pedal’, ‘pedalling’ and so on. The analysis is expressed in terms of a Word</text>
+<text top="611" left="152" width="130" height="16" font="1">Grammar network.</text>
+<text top="680" left="108" width="99" height="18" font="6"><b>1 Recycling</b></text>
+<text top="727" left="108" width="702" height="18" font="5">The principle of ‘recycling’ holds that (mental) concepts are ‘recycled’ rather than</text>
+<text top="751" left="108" width="702" height="18" font="5">duplicated. On the one hand, a concept that is used outside language may be recycled as</text>
+<text top="774" left="108" width="702" height="18" font="5">the meaning of a word (language external recycling); and on the other, a concept which</text>
+<text top="798" left="108" width="702" height="18" font="5">serves as the meaning of one word may be recycled as part of the meaning of another</text>
+<text top="822" left="108" width="702" height="18" font="5">(language internal recycling). The alternative in both cases is to postulate a concept which</text>
+<text top="846" left="108" width="702" height="18" font="5">is both similar in ‘content’ but distinct in status (and name). At one level, this is just a</text>
+<text top="869" left="108" width="702" height="18" font="5">matter of common sense (Hudson 1985): why should we, as learners, build two distinct</text>
+<text top="893" left="108" width="702" height="18" font="5">concepts when one concept could do both jobs? For example, if a child has a concept</text>
+<text top="917" left="108" width="702" height="18" font="5">‘bicycle’ for dealing with the world (of bicycles), why should it construct a distinct</text>
+<text top="941" left="108" width="702" height="18" font="5">concept for dealing with the word <i>BICYCLE</i>? Much more likely, surely, is that a single</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">350</text>
+<text top="171" left="108" width="702" height="18" font="5">concept will be used for both purposes. Similarly, if a child has a concept ‘bicycle’ for</text>
+<text top="195" left="108" width="702" height="18" font="5">dealing with the word <i>BICYCLE</i>, why should it construct a further concept to fill the</text>
+<text top="219" left="108" width="386" height="18" font="5">vehicle role in the meaning of the verb <i>CYCLE</i>?</text>
+<text top="242" left="123" width="686" height="18" font="5">However this principle is clearly not self-evident because there are well-established</text>
+<text top="266" left="108" width="702" height="18" font="5">intellectual traditions which deny it. Theories of meaning traditionally distinguish sharply</text>
+<text top="290" left="108" width="702" height="18" font="5">between dictionary-meaning and encyclopedic information, which at least allows the</text>
+<text top="314" left="108" width="702" height="18" font="5">interpretation that the concepts involved must be different - there must be one ‘bicycle’</text>
+<text top="337" left="108" width="702" height="18" font="5">concept defined by the dictionary, and a different one defined by the encyclopedia.</text>
+<text top="361" left="108" width="702" height="18" font="5">Another tradition that ignores the principle is that of practical lexicography, where</text>
+<text top="385" left="108" width="702" height="18" font="5">different words are defined separately (often by separate lexicographers) without any</text>
+<text top="409" left="108" width="702" height="18" font="5">attempt to build one word’s meaning into that of the other. For example, in Collins</text>
+<text top="432" left="108" width="613" height="18" font="5">Cobuild English Language Dictionary we find the following two definitions:</text>
+<text top="480" left="108" width="24" height="18" font="5">(1)</text>
+<text top="480" left="152" width="658" height="18" font="5">a. <b>Skill</b> is the knowledge and ability that enables you to do something such as a</text>
+<text top="504" left="181" width="236" height="18" font="5">job, game, or sport very well.</text>
+<text top="528" left="152" width="482" height="18" font="5">b. Someone who is <b>skilful</b> at doing something does it well.</text>
+<text top="576" left="108" width="702" height="18" font="5">Does this mean that skill requires a higher level of competence (‘... very well’) than</text>
+<text top="599" left="108" width="702" height="18" font="5">merely being skilful (‘... well’), or that it is possible to be skilful at doing something which</text>
+<text top="623" left="108" width="702" height="18" font="5">is not covered by the list of examples mentioned for skill? If the principle of recycling had</text>
+<text top="647" left="108" width="702" height="18" font="5">been respected, the second definition would have included the word <i>skill</i> (e.g. ‘Someone</text>
+<text top="671" left="108" width="702" height="18" font="5">who is skilful has a skill.’). In view of these departures from the principle, it clearly needs</text>
+<text top="695" left="108" width="231" height="18" font="5">to be supported by evidence.</text>
+<text top="718" left="123" width="687" height="18" font="5">The theory of recycling allows testable predictions. If a concept is involved in the</text>
+<text top="742" left="108" width="702" height="18" font="5">definitions of two words, it should carry the same uncertainties of interpretation in both</text>
+<text top="766" left="108" width="702" height="18" font="5">words. This seems to be true in at least some cases. For example, take the concept</text>
+<text top="790" left="108" width="702" height="18" font="5">‘mother’. The meaning of <i>MOTHER</i> applies clearly in some cases, but less clearly in</text>
+<text top="813" left="108" width="702" height="18" font="5">others where the traditional roles are divided between a birth-mother and a nurture-mother</text>
+<text top="837" left="108" width="702" height="18" font="5">(Lakoff 1987:74-84). As predicted by recycling, exactly the same uncertainties arise in</text>
+<text top="861" left="108" width="702" height="18" font="5">interpreting words such as <i>PARENT</i>, <i>GRANDMOTHER</i> and all the terms whose</text>
+<text top="885" left="108" width="702" height="18" font="5">definitions build on ‘parent’ - <i>AUNT</i>, <i>UNCLE</i>, <i>COUSIN</i> and so on (Hudson 1995:63-72).</text>
+<text top="908" left="108" width="702" height="18" font="5">This supports the view that the definition of (for example) ‘parent’ really is ‘mother or</text>
+<text top="932" left="108" width="702" height="18" font="5">father’, where ‘mother’ is exactly the same concept that is also the sense of <i>MOTHER</i>.</text>
+<text top="956" left="123" width="687" height="18" font="5">The purpose of this paper is to explore the concept ‘cycling’, the sense of the verb</text>
+<text top="980" left="108" width="701" height="18" font="8"><i>CYCLE</i> as used in sentence (2) (which is normal British usage, though we are told that it</text>
+<text top="1003" left="108" width="702" height="18" font="5">is less familiar in America; as we shall recognise below, there are synonyms such as the</text>
+<text top="1027" left="108" width="97" height="18" font="5">verb <i>BIKE</i>).</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">351</text>
+<text top="195" left="108" width="24" height="18" font="5">(2)</text>
+<text top="195" left="152" width="136" height="18" font="5">I cycled to work.</text>
+<text top="242" left="108" width="702" height="18" font="5">The discussion will provide further evidence for language-external recycling of concepts.</text>
+<text top="266" left="108" width="702" height="18" font="5">If the same concepts which are linked to words are also linked to more general conceptual</text>
+<text top="290" left="108" width="702" height="18" font="5">‘frames’, then in principle anything language users know about bicycles should be able</text>
+<text top="314" left="108" width="360" height="18" font="5">to affect the linguistic behaviour of <i>CYCLE</i>. </text>
+<text top="337" left="108" width="702" height="18" font="5">However our conclusion will not be that word meanings are simply non-linguistic</text>
+<text top="361" left="108" width="701" height="18" font="5">concepts that have names. We shall show that the language itself imposes a structure of</text>
+<text top="385" left="108" width="701" height="18" font="5">its own on the concepts. We shall argue that far from refuting the claim of recycling this</text>
+<text top="409" left="108" width="702" height="18" font="5">is exactly what we should expect. The analysis will be couched in terms of Word</text>
+<text top="432" left="108" width="259" height="18" font="5">Grammar (Hudson 1990, 1998).</text>
+<text top="480" left="108" width="85" height="18" font="6"><b>2 Bicycles</b></text>
+<text top="527" left="108" width="702" height="18" font="5">The most obvious fact about cycling is that it typically involves a bicycle. (We return to</text>
+<text top="551" left="108" width="703" height="18" font="5">atypical cases below.) Any analysis of Cycling must therefore recycle Bicycle. (From now</text>
+<text top="575" left="108" width="702" height="18" font="5">on we shall capitalize the names of concepts, to save repeating the phrase <i>the concept</i></text>
+<text top="598" left="108" width="703" height="18" font="8"><i>‘X’</i>.) It would be ridiculous to define the means of locomotion in cycling without any</text>
+<text top="622" left="108" width="212" height="18" font="5">reference at all to Bicycle.</text>
+<text top="646" left="123" width="686" height="18" font="5">What, then, is a bicycle? This question has been answered at length by Wierzbicka</text>
+<text top="670" left="108" width="702" height="18" font="5">(1985:104-23), whose discussion shows how much we all know about bicycles. The</text>
+<text top="693" left="108" width="702" height="18" font="5">definition she offers takes a whole page (ibid:112), but we quote only the first few lines:</text>
+<text top="741" left="108" width="24" height="18" font="5">(3)</text>
+<text top="741" left="152" width="658" height="18" font="5">A KIND OF THING MADE BY PEOPLE, it is made for one person to be able to</text>
+<text top="765" left="152" width="658" height="18" font="5">go by means of it from one place to another faster than by walking and with less</text>
+<text top="789" left="152" width="61" height="18" font="5">effort...</text>
+<text top="836" left="108" width="702" height="18" font="5">This definition is expressed in part in terms of a universal metalanguage containing a</text>
+<text top="860" left="108" width="702" height="18" font="5">limited number of terms, what Wierzbicka calls a ‘Natural Semantics Metalanguage’,</text>
+<text top="884" left="108" width="702" height="18" font="5">which she claims reflects a ‘language-like innate conceptual system’ and which could in</text>
+<text top="907" left="108" width="702" height="18" font="5">principle be used as the sole metalanguage for semantic definitions (Wierzbicka 1996:22).</text>
+<text top="931" left="123" width="687" height="18" font="5">We find this claim unconvincing. First, we notice that her own definition of Bicycle</text>
+<text top="955" left="108" width="702" height="18" font="5">applies the principle of recycling by using terms which are not part of the universal</text>
+<text top="979" left="108" width="702" height="18" font="5">metalanguage. The passage quoted includes <i>faster</i>, <i>walking</i> and <i>effort</i>, and in the later</text>
+<text top="1002" left="108" width="702" height="18" font="5">parts of the definition we find <i>legs</i>, <i>feet</i>, <i>hands</i>, <i>wheels</i>, <i>frame</i>, and <i>stick out</i>. Without</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">352</text>
+<text top="171" left="108" width="702" height="18" font="5">these terms, the definition would have been much worse - not only impossibly long and</text>
+<text top="195" left="108" width="251" height="18" font="5">tedious, but also less revealing.</text>
+<text top="219" left="123" width="687" height="18" font="5">However, more importantly, there is a fundamental conflict between her theory and the</text>
+<text top="242" left="108" width="702" height="18" font="5">principle of recycling. Her aim is to define all concepts in terms of the same set of</text>
+<text top="266" left="108" width="702" height="18" font="5">primitives, but this excludes recycling in principle. As we have just seen, <i>WHEEL</i> is</text>
+<text top="290" left="108" width="702" height="18" font="5">included in her definition as a concession to practicality, but this presumably counts as</text>
+<text top="314" left="108" width="702" height="18" font="5">a weakness in the analysis, when judged by her principle, whereas we consider it a</text>
+<text top="337" left="108" width="702" height="18" font="5">strength. When the principle is applied rigidly, the result is surely a poor analysis. To take</text>
+<text top="361" left="108" width="702" height="18" font="5">a simple example, her definition of Bicycle repeatedly refers to the pedals, but avoids</text>
+<text top="385" left="108" width="701" height="18" font="5">using the term <i>PEDAL</i> because this is not part of the universal metalanguage. Consider</text>
+<text top="409" left="108" width="400" height="18" font="5">the following extracts from later in the definition:</text>
+<text top="456" left="108" width="24" height="18" font="5">(4)</text>
+<text top="456" left="152" width="659" height="18" font="5">a. it has two parts for the person’s feet which are attached to the frame near the</text>
+<text top="480" left="181" width="631" height="18" font="5">bottom and which are connected with the wheels so that by pushing these parts</text>
+<text top="504" left="181" width="387" height="18" font="5">with one’s feet one can cause the wheels to turn</text>
+<text top="528" left="152" width="660" height="18" font="5">b. the parts for the feet are as small as they can be without being too small to</text>
+<text top="551" left="181" width="184" height="18" font="5">support a person’s feet</text>
+<text top="599" left="108" width="702" height="18" font="5">The definition leaves everything to the reader’s linguistic and pragmatic skills, whereas</text>
+<text top="623" left="108" width="702" height="18" font="5">a good analysis would surely make the link between the ‘parts for the feet’ explicit by</text>
+<text top="646" left="108" width="419" height="18" font="5">assigning them a single name within this definition. </text>
+<text top="670" left="123" width="687" height="18" font="5">Worse still, the ban on recycling prevents the definition of one concept from building</text>
+<text top="694" left="108" width="702" height="18" font="5">on that of another concept. What about Pedal itself? It too needs a definition, but this will</text>
+<text top="718" left="108" width="702" height="18" font="5">have to start from scratch, rather than building on the information about pedals in the</text>
+<text top="741" left="108" width="702" height="18" font="5">definition for Bicycle. This is exactly the opposite of what recycling demands. We believe</text>
+<text top="765" left="108" width="702" height="18" font="5">that the definition of Bicycle should refer to Pedal, so that each definition supports the</text>
+<text top="789" left="108" width="702" height="18" font="5">other; and the reason why we believe this is not just for analytical brevity, but because we</text>
+<text top="813" left="108" width="458" height="18" font="5">believe that knowledge is, in fact, integrated in this way. </text>
+<text top="836" left="123" width="687" height="18" font="5">Another theoretical claim that underlies Wierzbicka’s analysis of Bicycle is that a</text>
+<text top="860" left="108" width="702" height="18" font="5">distinction can be drawn between the ‘mental dictionary’ and the ‘mental encyclopedia’</text>
+<text top="884" left="108" width="702" height="18" font="5">(1985:113, 1996:335). This allows her to exclude a great deal of historical information</text>
+<text top="908" left="108" width="703" height="18" font="5">which she finds in the Encyclopedia Britannica, on the grounds that most people know</text>
+<text top="931" left="108" width="702" height="18" font="5">what a bicycle is without knowing about its history. This may well be true (though most</text>
+<text top="955" left="108" width="702" height="18" font="5">people probably know a few things about the history), but what does the claim mean? As</text>
+<text top="979" left="108" width="702" height="18" font="5">we commented earlier, one possible interpretation is that there are in fact two concepts,</text>
+<text top="1003" left="108" width="702" height="18" font="5">one of which acts as the meaning of <i>BICYCLE</i> while the other is the locus of the</text>
+<text top="1026" left="108" width="702" height="18" font="5">encyclopedic knowledge. But if that is the case, what is the relationship between these two</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">353</text>
+<text top="171" left="108" width="702" height="18" font="5">concepts? Surely the whole point of the distinction is to distinguish different kinds of</text>
+<text top="195" left="108" width="702" height="18" font="5">knowledge about the <b>same</b> concept? But if the same concept is involved in both kinds of</text>
+<text top="219" left="108" width="702" height="18" font="5">knowledge (as we assume is the case), what does the distinction mean in psychological</text>
+<text top="243" left="108" width="702" height="18" font="5">terms? After all, it is generally accepted that radically different kinds of knowledge may</text>
+<text top="266" left="108" width="702" height="18" font="5">converge on a single concept - consider, for example, how different a lexeme’s</text>
+<text top="290" left="108" width="702" height="18" font="5">phonological structure is from its syntactic classification - so there is no general</text>
+<text top="314" left="108" width="701" height="18" font="5">requirement that a concept’s characteristics should be in some sense uniform. The issues</text>
+<text top="338" left="108" width="702" height="18" font="5">that arise are too general and fundamental to pursue here, but we register serious doubts</text>
+<text top="362" left="108" width="174" height="18" font="5">about this distinction.</text>
+<text top="385" left="123" width="687" height="18" font="5">What, then, is a bicycle? As suggested for this very concept in Hudson (1995:24-28),</text>
+<text top="409" left="108" width="702" height="18" font="5">we believe that Bicycle is part of a network of concepts that define each other, each</text>
+<text top="433" left="108" width="702" height="18" font="5">concept being recycled in the definitions of other concepts. As Wierzbicka’s definition</text>
+<text top="457" left="108" width="701" height="18" font="5">shows, the concepts relevant to Bicycle are of different types and have to do with at least</text>
+<text top="480" left="108" width="702" height="18" font="5">the following: a bicycle’s function, structure, mode of operation and size. We shall not</text>
+<text top="504" left="108" width="702" height="18" font="5">attempt a ‘complete’ definition simply because we do not believe this is a meaningful</text>
+<text top="528" left="108" width="702" height="18" font="5">target. After all, if we are trying to model the knowledge of actual speakers, we must</text>
+<text top="552" left="108" width="702" height="18" font="5">accept that different speakers have different amounts of knowledge. (For example,</text>
+<text top="575" left="108" width="702" height="18" font="5">Wierzbicka reports that spokes are mounted tangentially, i.e. at right angles to the radius</text>
+<text top="599" left="108" width="703" height="18" font="5">of the hub; this is a fact that some people know and others do not - one of us did not know</text>
+<text top="623" left="108" width="316" height="18" font="5">it until he learned it from Wierzbicka.) </text>
+<text top="647" left="123" width="463" height="18" font="5">Here is an attempt at the beginnings of a prose definition:</text>
+<text top="694" left="108" width="24" height="18" font="5">(5)</text>
+<text top="694" left="152" width="641" height="18" font="5">a. A bicycle has a frame, two wheels, a saddle, pedals, a chain and handlebars.</text>
+<text top="718" left="152" width="307" height="18" font="5">b. A bicycle’s rider sits on its saddle.</text>
+<text top="742" left="152" width="334" height="18" font="5">c. A bicycle’s rider holds its handlebars.</text>
+<text top="765" left="152" width="367" height="18" font="5">d. A bicycle’s rider pushes the pedals round.</text>
+<text top="789" left="152" width="229" height="18" font="5">e. A bicycle’s rider rides it.</text>
+<text top="837" left="108" width="702" height="18" font="5">This definition contains much less information than Wierzbicka’s, so it is not fair to</text>
+<text top="861" left="108" width="702" height="18" font="5">compare its length with hers; but it is fair to point out how its length is minimized by the</text>
+<text top="884" left="108" width="702" height="18" font="5">repetition of single terms like <i>PEDAL</i> which will be defined separately. In fact, all the</text>
+<text top="908" left="108" width="702" height="18" font="5">statements in (5) form part of the definitions of the other terms involved: just as Riding</text>
+<text top="932" left="108" width="702" height="18" font="5">is part of the definition of Bicycle, so Bicycle is part of the definition of Riding.</text>
+<text top="956" left="108" width="702" height="18" font="5">Circularity is avoided because neither concept is defined exclusively in terms of the other.</text>
+<text top="979" left="108" width="702" height="18" font="5">The idea that concepts are defined by their relationships to other concepts is reminiscent</text>
+<text top="1003" left="108" width="702" height="18" font="5">of traditional ‘field theories’ of semantics, but unlike those theories the notion of</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">354</text>
+<text top="171" left="108" width="702" height="18" font="5">‘contrast’ plays no part here; a concept is defined by what it ‘is’ (i.e. by its positive links</text>
+<text top="195" left="108" width="524" height="18" font="5">to other concepts) rather than by its contrasts with what it is not. </text>
+<text top="219" left="123" width="687" height="18" font="5">To further clarify this idea, consider (b). This helps to define Bicycle by specifying that</text>
+<text top="242" left="108" width="701" height="18" font="5">a bicycle is  ridden by someone who sits on its saddle. It also helps to define a number of</text>
+<text top="266" left="108" width="702" height="18" font="5">other concepts: Rider (one kind of rider sits on a bicycle’s saddle), Sitting (one kind of</text>
+<text top="290" left="108" width="702" height="18" font="5">sitting is the relationship between a bicycle’s rider and its saddle) and Saddle (one kind</text>
+<text top="314" left="108" width="702" height="18" font="5">of saddle is the part of a bicycle where the rider sits). Ultimately, the analysis of any one</text>
+<text top="337" left="108" width="702" height="18" font="5">concept is complete only when every other concept in the (same) mind has been analysed.</text>
+<text top="361" left="108" width="702" height="18" font="5">We shall partially satisfy this obligation for Riding, but we shall have to leave all the other</text>
+<text top="385" left="108" width="162" height="18" font="5">concepts undefined.</text>
+<text top="433" left="108" width="254" height="18" font="6"><b>3 Networks as flexible frames</b></text>
+<text top="480" left="108" width="702" height="18" font="5">One of the leading ideas in recent theorizing about lexical semantics has been the idea that</text>
+<text top="503" left="108" width="701" height="18" font="5">concepts are linked in complex structures called ‘frames’.  These are the foundation of</text>
+<text top="527" left="108" width="702" height="18" font="5">the theory of Frame Semantics (Fillmore 1985, Fillmore and Atkins 1992), according to</text>
+<text top="551" left="108" width="702" height="18" font="5">which a word’s meaning is understood ‘with reference to a structured background of</text>
+<text top="575" left="108" width="701" height="18" font="5">experience, beliefs or practices, ... the background frames that motivate the concept that</text>
+<text top="598" left="108" width="702" height="18" font="5">the word encodes.’ (Fillmore and Atkins 1992:77). The classic examples of frames are</text>
+<text top="622" left="108" width="702" height="18" font="5">Commercial Transaction (background to Buying, Selling, Paying, Charging and so on)</text>
+<text top="646" left="108" width="702" height="18" font="5">and Risk (background to the meanings of <i>DANGER</i>, <i>VENTURE</i>, <i>GAMBLE</i>, <i>RISKY</i> and</text>
+<text top="670" left="108" width="702" height="18" font="5">other words, in addition to <i>RISK</i> itself). More generally, there are general theories of</text>
+<text top="693" left="108" width="702" height="18" font="5">knowledge which claim that all of knowledge is organised in terms of frames (Barsalou</text>
+<text top="717" left="108" width="52" height="18" font="5">1992).</text>
+<text top="741" left="123" width="687" height="18" font="5">One of the attractions of these ideas is the importance they give to relationships, in</text>
+<text top="765" left="108" width="701" height="18" font="5">contrast with theories that merely recognise ‘associations’ among concepts (what</text>
+<text top="789" left="108" width="702" height="18" font="5">Barsalou calls ‘feature-list representations’) - e.g. an association between Bird and</text>
+<text top="812" left="108" width="702" height="18" font="5">Feathers, Wings, Eggs and so on. The structures we actually find are more like a bicycle</text>
+<text top="836" left="108" width="702" height="18" font="5">frame, where each part has a definite (and rigid) relationship to each other part. Cognitive</text>
+<text top="860" left="108" width="702" height="18" font="5">science has established that mere association is not enough, so we must pay attention to</text>
+<text top="884" left="108" width="702" height="18" font="5">the specific relationships among concepts (Reisberg 1997:280-5). The essential</text>
+<text top="907" left="108" width="702" height="18" font="5">characteristic of frames is that they define a set of more or less specific relationships</text>
+<text top="931" left="108" width="702" height="18" font="5">among the concepts that they bring together - e.g. ‘buyer’, ‘seller’, ‘money’ and ‘goods’</text>
+<text top="955" left="108" width="336" height="18" font="5">in the frame for Commercial Transaction.</text>
+<text top="979" left="123" width="687" height="18" font="5">A more negative feature of frames is the implication that knowledge is divided into</text>
+<text top="1002" left="108" width="702" height="18" font="5">frame-sized packages, each with its own natural boundaries and identity. As Lehrer and</text>
+<text top="1026" left="108" width="702" height="18" font="5">Kittay point out this raises serious analytical problems to which it is hard to see any</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">355</text>
+<text top="171" left="108" width="702" height="18" font="5">solution: ‘How do we decide that terms belong to different semantic frames ..., rather than</text>
+<text top="195" left="108" width="702" height="18" font="5">saying that they have different meanings within one frame ...?’ (1992:16). For instance,</text>
+<text top="219" left="108" width="702" height="18" font="5">by claiming that Money is part of the Commercial Transactions frame are we denying that</text>
+<text top="242" left="108" width="702" height="18" font="5">it is part of the Wealth frame, the Banking frame or the Work frame? Similarly, Goods</text>
+<text top="266" left="108" width="702" height="18" font="5">seems to belong just as much to Ownership as to Commercial Transactions. When</text>
+<text top="290" left="108" width="702" height="18" font="5">boundaries are problematic, it is often worth considering whether they really exist and to</text>
+<text top="314" left="108" width="655" height="18" font="5">look for a theoretical alternative in which the boundaries concerned play no part. </text>
+<text top="337" left="123" width="687" height="18" font="5">In this case, the  alternative is the widely held view that knowledge constitutes a</text>
+<text top="361" left="108" width="702" height="18" font="6"><b>network</b> (Reisberg 1997:257-303). A network can give the same information about</text>
+<text top="385" left="108" width="702" height="18" font="5">relationships as frames, but without demanding any boundaries between parcels of</text>
+<text top="409" left="108" width="702" height="18" font="5">knowledge. The difference between networks and frames is largely a matter of metaphor.</text>
+<text top="433" left="108" width="702" height="18" font="5">In a frame analysis each concept is a box, whereas in a network it is a point or node. In</text>
+<text top="457" left="108" width="702" height="18" font="5">both cases the concept is defined by its relationships to other concepts, but in a frame</text>
+<text top="480" left="108" width="702" height="18" font="5">analysis the definition is contained in the box, whereas in a network it is just the totality</text>
+<text top="504" left="108" width="702" height="18" font="5">of links from the concept concerned to other concepts. In a frame analysis it is possible</text>
+<text top="528" left="108" width="702" height="18" font="5">to imagine a distinction between the ‘defining’ relationships, contained inside the box, and</text>
+<text top="552" left="108" width="702" height="18" font="5">other, descriptive or encyclopedic relationships, which are left outside; but such a</text>
+<text top="575" left="108" width="702" height="18" font="5">distinction is impossible, in principle, in a network. Frame analysis raises the problem of</text>
+<text top="599" left="108" width="608" height="18" font="5">frame boundaries defined by Lehrer and Kittay; network analysis does not. </text>
+<text top="623" left="123" width="687" height="18" font="5">Returning now to the definition of Bicycle, we can show how the prose definition given</text>
+<text top="647" left="108" width="702" height="18" font="5">in (5) can be translated into a network. Each of the concepts named is represented by a</text>
+<text top="670" left="108" width="701" height="18" font="5">node, and each relationship is a function which is represented by a labelled arrow that</text>
+<text top="694" left="108" width="702" height="18" font="5">points from the argument to its value. Some of the nodes are labelled for convenience, but</text>
+<text top="718" left="108" width="702" height="18" font="5">the labels are actually redundant, since every node is already defined uniquely by its</text>
+<text top="742" left="108" width="702" height="18" font="5">relations to other nodes. Suppose we assume, to start with, that each sentence in the prose</text>
+<text top="765" left="108" width="702" height="18" font="5">definition corresponds to just one relationship in the diagram. The result is shown in</text>
+<text top="790" left="108" width="702" height="18" font="6"><b>Figure 1</b>, which contains some relationships that are rather implausible, such as ‘sits on’</text>
+<text top="813" left="108" width="159" height="18" font="5">and ‘pushes round’.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="22" family="Times" color="#000000"/>
+	<fontspec id="10" size="18" family="Times" color="#000000"/>
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">356</text>
+<text top="270" left="453" width="69" height="20" font="9"><b>Bicycle</b></text>
+<text top="280" left="222" width="63" height="20" font="9"><b>Pedals</b></text>
+<text top="467" left="240" width="113" height="20" font="9"><b>Handlebars</b></text>
+<text top="458" left="614" width="65" height="20" font="9"><b>Saddle</b></text>
+<text top="438" left="472" width="6" height="20" font="9"><b>.</b></text>
+<text top="219" left="367" width="25" height="16" font="10"><b>has</b></text>
+<text top="309" left="380" width="25" height="16" font="10"><b>has</b></text>
+<text top="315" left="570" width="25" height="16" font="10"><b>has</b></text>
+<text top="441" left="511" width="48" height="16" font="10"><b>sits on</b></text>
+<text top="440" left="388" width="40" height="16" font="10"><b>holds</b></text>
+<text top="541" left="450" width="73" height="18" font="6"><b>Figure 1</b></text>
+<text top="588" left="108" width="702" height="18" font="5">However the main point of the diagram is that a concept may be shown as just one node</text>
+<text top="612" left="108" width="702" height="18" font="5">on which several relationships converge, providing its ‘definition’. Thus Bicycle is by</text>
+<text top="636" left="108" width="702" height="18" font="5">definition the concept which stands in this particular set of relationships to Pedal,</text>
+<text top="660" left="108" width="702" height="18" font="5">Handlebars, and so on, and the rider (shown by the unnamed dot) is defined by its</text>
+<text top="683" left="108" width="108" height="18" font="5">relationships.</text>
+<text top="707" left="123" width="687" height="18" font="5"> We can improve this network in various ways. One unsatisfactory feature is the naive</text>
+<text top="731" left="108" width="702" height="18" font="5">way in which the distinction between concepts and relationships is applied, based as it is</text>
+<text top="755" left="108" width="702" height="18" font="5">directly on grammatical categories: nouns define concepts and verbs define relationships.</text>
+<text top="778" left="108" width="702" height="18" font="5">Like many other linguists (e.g. Jackendoff 1983:67), we believe that grammatical class</text>
+<text top="802" left="108" width="703" height="18" font="5">is irrelevant to status in conceptual structure, so concepts may be defined by verbs as well</text>
+<text top="826" left="108" width="702" height="18" font="5">as by nouns. Accordingly we assume that the network will include concepts for ‘states of</text>
+<text top="850" left="108" width="702" height="18" font="5">affairs’ like Sitting (or Sitting-on) and Pushing (or Pushing-round) which can be exploited</text>
+<text top="874" left="108" width="702" height="18" font="5">here, so we can revise the network to give <b>Figure 2</b>. All the relationships are now rather</text>
+<text top="898" left="108" width="702" height="18" font="5">general and drawn from a small list - in this case just Part (replacing the less informative</text>
+<text top="921" left="108" width="659" height="18" font="5">Has) and the two provisional role names Er (for Sitter, Pusher and so on) and Ee. </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">357</text>
+<text top="559" left="450" width="73" height="18" font="6"><b>Figure 2</b></text>
+<text top="606" left="108" width="702" height="18" font="5">This diagram is more complicated than the first because single direct relationships (e.g.</text>
+<text top="629" left="108" width="702" height="18" font="5">‘sits on’) have been replaced by pairs of relationships (Er, Ee) to a linking concept</text>
+<text top="653" left="108" width="702" height="18" font="5">(Sitting-on), but this price is worth paying for the benefit of a more homogeneous</text>
+<text top="677" left="108" width="702" height="18" font="5">semantics. Instead of assuming that nouns map onto concepts and verbs onto</text>
+<text top="701" left="108" width="702" height="18" font="5">relationships, we can assume that both kinds of word map onto concepts; and instead of</text>
+<text top="724" left="108" width="702" height="18" font="5">assuming that noun meanings are defined by links whereas verb meanings are links, we</text>
+<text top="748" left="108" width="702" height="18" font="5">can define both in the same way. Thus Sitting is a concept node linked to others (Posture,</text>
+<text top="772" left="108" width="702" height="18" font="5">Vertical, Bottom, Seat, Weight, On and so on), and just like Bicycle, the concept Sitting</text>
+<text top="796" left="108" width="702" height="18" font="5">is defined by the sum total of these links. This unified view of word meaning is rather</text>
+<text top="819" left="108" width="702" height="18" font="5">uncontroversial among cognitive linguists, who would probably agree for example that</text>
+<text top="843" left="108" width="702" height="18" font="5">the concept Arriving can be expressed equally well either by a verb or by a noun</text>
+<text top="867" left="108" width="702" height="18" font="5">(<i>ARRIVE</i>,  <i>ARRIVAL</i>) and most relationships double up as the sense of some noun</text>
+<text top="891" left="108" width="702" height="18" font="5">(<i>DIFFERENCE</i>, <i>MIDDLE</i>, <i>RELATIONSHIP</i> and so on). Somewhat more controversially,</text>
+<text top="915" left="108" width="702" height="18" font="5">however, we are not convinced by those like Wierzbicka (1988) and Langacker (1987)</text>
+<text top="938" left="108" width="701" height="18" font="5">who argue that grammatical differences always indicate subtle semantic differences of</text>
+<text top="962" left="108" width="701" height="18" font="5">‘construal’ which should affect the semantic structure. In our view, the sense of the verb</text>
+<text top="986" left="108" width="702" height="18" font="8"><i>ARRIVE</i> is precisely the same concept as the sense of the noun <i>ARRIVAL</i>; they are exact</text>
+<text top="1010" left="108" width="702" height="18" font="5">synonyms (though semantic differences result, of course, from the effects of verb and</text>
+<text top="1033" left="108" width="142" height="18" font="5">noun inflections).</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">358</text>
+<text top="171" left="123" width="687" height="18" font="5">Our approach is therefore basically orthodox in relation to the tradition of Cognitive</text>
+<text top="195" left="108" width="702" height="18" font="5">Linguistics, but it departs from the tradition of predicate logic by denying the simple</text>
+<text top="219" left="108" width="702" height="18" font="5">mapping between syntax and semantics which underlies much of predicate logic; in this,</text>
+<text top="242" left="108" width="702" height="18" font="5">however, it follows a widely accepted recent tradition which includes ACT-R (Anderson</text>
+<text top="266" left="108" width="702" height="18" font="5">1993), Conceptual Dependency analysis (Schank and Rieger 1974) and Conceptual</text>
+<text top="290" left="108" width="702" height="18" font="5">Graphs (Sowa 1984). The traditional assumption is that the semantic predicate is defined</text>
+<text top="314" left="108" width="702" height="18" font="5">by the syntactic predicate (which includes at least the verb), and its arguments are defined</text>
+<text top="337" left="108" width="702" height="18" font="5">by the syntactic subject and possibly other syntactic ‘arguments’. For instance, in this</text>
+<text top="361" left="108" width="702" height="18" font="5">tradition <i>Pat sat on the bicycle</i> maps to something like ‘Sitting-on (Pat, The-bicycle)’. The</text>
+<text top="385" left="108" width="702" height="18" font="5">predicate and its arguments have quite different statuses in the logic - for example, the</text>
+<text top="409" left="108" width="702" height="18" font="5">arguments may be variables, but this is (normally) not allowed for the predicate. In our</text>
+<text top="432" left="108" width="702" height="18" font="5">analysis, in contrast, the semantic structure consists of three concepts (Pat, The-bicycle,</text>
+<text top="456" left="108" width="702" height="18" font="5">Sitting-on) and two relationships (Er and Ee) each of which has an argument (Sitting-on)</text>
+<text top="480" left="108" width="702" height="18" font="5">and a value (respectively Pat and The-bicycle). The two analyses are contrasted in <b>Figure</b></text>
+<text top="504" left="108" width="20" height="18" font="6"><b>3</b>. </text>
+<text top="528" left="123" width="687" height="18" font="5">However in spite of this fundamental difference our analysis does preserve one of the</text>
+<text top="552" left="108" width="702" height="18" font="5">assumptions of predicate logic, which is that concepts are not linked as equals (except in</text>
+<text top="576" left="108" width="702" height="18" font="5">coordination). Wherever a pair of concepts is linked, the link ‘belongs’ to one of them;</text>
+<text top="600" left="108" width="702" height="18" font="5">for example, the Er link belongs to Sitting-on, not to the cyclist, because we know that</text>
+<text top="623" left="108" width="702" height="18" font="5">Sitting-on needs an Er, a sitter, (just as a grin needs a grinner, in spite of the Cheshire</text>
+<text top="647" left="108" width="702" height="18" font="5">Cat); but a person need not be involved in Sitting-on, and only becomes a sitter by virtue</text>
+<text top="671" left="108" width="702" height="18" font="5">of a link to Sitting-on. In the diagram this asymmetry is shown by the direction of the</text>
+<text top="695" left="108" width="702" height="18" font="5">arrow, which goes from the owning concept (its argument) to the other concept, which is</text>
+<text top="718" left="108" width="78" height="18" font="5">its value. </text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">359</text>
+<text top="475" left="385" width="73" height="18" font="6"><b>Figure 3</b></text>
+<text top="545" left="108" width="702" height="18" font="5">In summary, then, grammatical word classes are not reflected in the semantics. As far as</text>
+<text top="569" left="108" width="701" height="18" font="5">verbs and nouns are concerned, they are all linked permanently to at least one sense, and</text>
+<text top="593" left="108" width="702" height="18" font="5">all senses have the same status: they are concepts which are linked in many different ways</text>
+<text top="616" left="108" width="702" height="18" font="5">to other concepts. Instead of being divided into ‘frames’, knowledge spreads without</text>
+<text top="640" left="108" width="702" height="18" font="5">boundaries across the whole network. We now address an important question for any such</text>
+<text top="664" left="108" width="573" height="18" font="5">theory, which is how to distinguish the various links from one another. </text>
+<text top="688" left="123" width="687" height="18" font="5">The example just given might suggest that we are committed to searching for a very</text>
+<text top="711" left="108" width="702" height="18" font="5">small set of primitive relationships such as Er and Ee, but this is not so. Indeed, as we</text>
+<text top="735" left="108" width="702" height="18" font="5">shall show below, it is possible to interpret the label <i>er</i> either as the name of a constant</text>
+<text top="759" left="108" width="702" height="18" font="5">(like the traditional Agent) or as a variable whose value depends on the owning concept -</text>
+<text top="783" left="108" width="702" height="18" font="5">the rider of Riding, the sitter of Sitting and so on. As in Sowa’s theory of Conceptual</text>
+<text top="807" left="108" width="702" height="18" font="5">Graphs (conveniently summarised in Luger and Stubblefield 1993:368-78), we assume</text>
+<text top="830" left="108" width="702" height="18" font="5">that a large number of relationships may be distinguished: rider, sitter, colour, name,</text>
+<text top="854" left="108" width="702" height="18" font="5">meaning, pronunciation, and so on and on. This is helpful, even essential, if each concept</text>
+<text top="878" left="108" width="702" height="18" font="5">is linked in many different ways to other concepts. For example, a word has a</text>
+<text top="902" left="108" width="702" height="18" font="5">pronunciation, a spelling, a meaning, a word-class, a language, a style and perhaps other</text>
+<text top="925" left="108" width="701" height="18" font="5">attributes, each of which is shown by a separate link, and each of these links must be</text>
+<text top="949" left="108" width="246" height="18" font="5">distinguished from the others. </text>
+<text top="973" left="123" width="687" height="18" font="5">It is controversial to assume an open-ended list of relationships, because each one must</text>
+<text top="997" left="108" width="702" height="18" font="5">somehow be defined; the same objection can be made of course to any set of concepts,</text>
+<text top="1020" left="108" width="702" height="18" font="5">but it is easier to see how non-relational concepts define each other. It is often objected</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">360</text>
+<text top="171" left="108" width="701" height="18" font="5">that the attractions of a network approach presuppose a small, pre-defined list of</text>
+<text top="195" left="108" width="702" height="18" font="5">relationships (Reisberg 1997:280-1), so we must ask how relationships are defined. The</text>
+<text top="219" left="108" width="702" height="18" font="5">answer is that they are defined in just the same way as concepts: by their place in the total</text>
+<text top="242" left="108" width="702" height="18" font="5">network, so the labels are strictly redundant. Firstly, a complex relationship can be</text>
+<text top="266" left="108" width="702" height="18" font="5">defined in terms of simpler ones: for example, the Grandparent relationship can be</text>
+<text top="290" left="108" width="701" height="18" font="5">defined in terms of Parent (Grandparent of X = Parent of Parent of X), and Rider-of (a</text>
+<text top="314" left="108" width="702" height="18" font="5">direct link between the rider and the vehicle) can be defined in terms of Er, Ee and Riding,</text>
+<text top="338" left="108" width="182" height="18" font="5">as shown in <b>Figure 4</b>. </text>
+<text top="739" left="392" width="73" height="18" font="6"><b>Figure 4</b></text>
+<text top="786" left="108" width="702" height="18" font="5">The second way of defining relationships in the network is the same mechanism by which</text>
+<text top="809" left="108" width="702" height="18" font="5">concepts are linked in an ‘Isa’ hierarchy. So just as Dog isa Mammal, we can classify</text>
+<text top="833" left="108" width="702" height="18" font="5">relationships: Parent isa Relative, Rider isa Er, and Rider-of isa User-of. In WG diagrams</text>
+<text top="857" left="108" width="702" height="18" font="5">the Isa link is shown by a small triangle which rests on the supercategory and whose apex</text>
+<text top="881" left="108" width="702" height="18" font="5">is linked by a line to the instance. <b>Figure 5</b> shows how this system can also be applied to</text>
+<text top="905" left="108" width="702" height="18" font="5">relationships. As far as the analysis of Bicycle is concerned, this means that we can define</text>
+<text top="929" left="108" width="702" height="18" font="5">Rider as a derived relationship, based on the Concept Riding and the two more basic</text>
+<text top="952" left="108" width="702" height="18" font="5">relationships Er and Ee, and similarly for Pedaller, Holder and Pusher. If necessary we</text>
+<text top="976" left="108" width="702" height="18" font="5">can even define specific variations on the Part relationship, such as ‘Saddle-of’ and</text>
+<text top="1000" left="108" width="702" height="18" font="5">‘Frame-of’, in terms of the basic Part relationship plus the categories to which the things</text>
+<text top="1024" left="108" width="153" height="18" font="5">concerned belong. </text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">361</text>
+<text top="587" left="450" width="73" height="18" font="6"><b>Figure 5</b></text>
+<text top="634" left="108" width="701" height="18" font="5">Such derived relationships may be needed in natural-language semantics for possessive</text>
+<text top="657" left="108" width="702" height="18" font="5">constructions (so <i>my nose</i> involves a relationship Nose-of), but they also have two</text>
+<text top="681" left="108" width="702" height="18" font="5">advantages in network analysis. First, they reduce long-distance relationships to</text>
+<text top="705" left="108" width="702" height="18" font="5">combinations of local relationships; for example, Grandparent establishes a direct link</text>
+<text top="729" left="108" width="702" height="18" font="5">between nodes which would otherwise be linked only indirectly, but once established this</text>
+<text top="752" left="108" width="702" height="18" font="5">link may itself be used in defining other relationships (e.g. in this case, Great-grandchild</text>
+<text top="776" left="108" width="702" height="18" font="5">of X = Child of Grandchild of X). This affects the shape of the network and seriously</text>
+<text top="800" left="108" width="702" height="18" font="5">affects the way in which activation will spread from node to node when the network is in</text>
+<text top="824" left="108" width="702" height="18" font="5">use. Clearly the process of defining one relationship in terms of a chain of others is</text>
+<text top="848" left="108" width="702" height="18" font="5">selective, because spreading activation is selective; so it is important to discover the</text>
+<text top="871" left="108" width="339" height="18" font="5">principles on which the selection is based.</text>
+<text top="895" left="123" width="686" height="18" font="5">The second advantage of recognising derived relationships is that they combine the</text>
+<text top="919" left="108" width="702" height="18" font="5">flexibility of a network with the internal specificity of a frame. Suppose a concept has</text>
+<text top="943" left="108" width="702" height="18" font="5">many different parts whose internal relationships are rigidly fixed; this internal structure</text>
+<text top="966" left="108" width="702" height="18" font="5">can easily be defined in a frame, but it can also be specified in a network provided that</text>
+<text top="990" left="108" width="702" height="18" font="5">the various parts can be distinguished from one another in terms of their relationship to</text>
+<text top="1014" left="108" width="702" height="18" font="5">the whole - in other words, if they are defined ‘functionally’. This is made possible by</text>
+<text top="1038" left="108" width="702" height="18" font="5">derived relationships. Take the example Bicycle. If a network for Bicycle defines the</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="13" family="Helvetica" color="#000000"/>
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">362</text>
+<text top="171" left="108" width="702" height="18" font="5">functions Frame-of, Front-Wheel-of and so on, it can then define the relationships among</text>
+<text top="195" left="108" width="702" height="18" font="5">their values, as in <b>Figure 6</b> which shows the spatial relationships among some of the</text>
+<text top="219" left="108" width="701" height="18" font="5">parts. In this diagram we use the two dimensions as an analog equivalent of true space,</text>
+<text top="243" left="108" width="702" height="18" font="5">just as one might use the left-right dimension to represent time; but unlike the left-right</text>
+<text top="266" left="108" width="702" height="18" font="5">convention we assume that this picture is in fact a plausible approximation to our actual</text>
+<text top="290" left="108" width="702" height="18" font="5">mental representation of Bicycle (some kind of mental image, rather than a truly</text>
+<text top="314" left="108" width="702" height="18" font="5">propositional structure - ‘a pattern in the 2½-D sketch that is loaded from long-term</text>
+<text top="338" left="108" width="702" height="18" font="5">memory rather than from the eyes’ Pinker 1997:286). It should be obvious how this</text>
+<text top="362" left="108" width="472" height="18" font="5">network could be expanded to include the remaining parts.</text>
+<text top="401" left="317" width="40" height="12" font="11">bicycle</text>
+<text top="748" left="338" width="73" height="18" font="6"><b>Figure 6</b></text>
+<text top="795" left="108" width="702" height="18" font="5">This analysis could be taken much further; for example, we could build an isa hierarchy</text>
+<text top="819" left="108" width="702" height="18" font="5">for all the objects (Bicycle, Pedal, etc), people (Rider) and activities (e.g. Riding,</text>
+<text top="843" left="108" width="702" height="18" font="5">Holding), and provide fuller definitions of the parts in terms of their physical,</text>
+<text top="867" left="108" width="702" height="18" font="5">interactional (e.g. force-dynamic) and functional properties. We could also discuss the</text>
+<text top="890" left="108" width="701" height="18" font="5">status of non-typical bicycles by discussing the logic of default inheritance and the Best</text>
+<text top="914" left="108" width="702" height="18" font="5">Fit Principle, which are central to the theory of Word Grammar. However the main point</text>
+<text top="938" left="108" width="702" height="18" font="5">that we have established is that the concept Bicycle can be fully defined by its</text>
+<text top="962" left="108" width="702" height="18" font="5">relationships to other concepts, and that these relationships integrate the concept into a</text>
+<text top="985" left="108" width="702" height="18" font="5">vast network which includes the totality of our conceptual knowledge. We shall now take</text>
+<text top="1009" left="108" width="500" height="18" font="5">this view for granted and move on to the definition of cycling.</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">363</text>
+<text top="171" left="108" width="162" height="18" font="6"><b>4 Cycling as riding</b></text>
+<text top="218" left="108" width="702" height="18" font="5">The meaning of <i>CYCLE</i> is closely related to that of <i>RIDE</i>, so <i>ride a bicycle</i> is a close</text>
+<text top="242" left="108" width="702" height="18" font="5">paraphrase. However, the two are not exact synonyms. We shall explore the difference</text>
+<text top="266" left="108" width="676" height="18" font="5">between them in a later section, but meanwhile our task is to reveal the similarities. </text>
+<text top="290" left="123" width="687" height="18" font="5">If the senses of <i>CYCLE</i> and <i>RIDE</i> are the concepts Cycling and Riding, the first step is</text>
+<text top="314" left="108" width="702" height="18" font="5">to show that Cycling is a kind of Riding - that Cycling isa Riding, as shown in <b>Figure 7</b>,</text>
+<text top="337" left="108" width="702" height="18" font="5">which also includes an Ee link (for the ‘ride-ee’, the thing ridden) whose value isa</text>
+<text top="361" left="108" width="551" height="18" font="5">Bicycle. In short, the diagram shows that cycling is riding a bicycle. </text>
+<text top="611" left="392" width="73" height="18" font="6"><b>Figure 7</b></text>
+<text top="658" left="108" width="702" height="18" font="5">Of course, we know far more about Riding than the fact that it has an Ee. Riding is the</text>
+<text top="682" left="108" width="340" height="18" font="5">sense of <i>RIDE</i> in examples like (a) below:</text>
+<text top="729" left="108" width="24" height="18" font="5">(6)</text>
+<text top="729" left="152" width="325" height="18" font="5">a. I rode the bicycle/*car/*plane/*boat.</text>
+<text top="753" left="152" width="334" height="18" font="5">b. I drove the car/*bicycle/*plane/*boat.</text>
+<text top="777" left="152" width="324" height="18" font="5">c. I flew the plane/*bicycle/*car/*boat.</text>
+<text top="800" left="152" width="335" height="18" font="5">d. I sailed the boat/*plane/*bicycle/*car.</text>
+<text top="848" left="108" width="702" height="18" font="5">The first thing we see is that Riding is restricted to certain kinds of vehicles - bicycles, but</text>
+<text top="872" left="108" width="702" height="18" font="5">not cars or planes. Riding is not limited to bicycles, however: it is also possible with</text>
+<text top="895" left="108" width="701" height="18" font="5">motorcycles and horses; indeed, horses are probably the default, as can be seen from the</text>
+<text top="919" left="108" width="702" height="18" font="5">normal meaning of <i>RIDE</i> when used intransitively (e.g. <i>I go riding every evening</i>.) What</text>
+<text top="943" left="108" width="702" height="18" font="5">these three ‘vehicles’ have in common is that the rider sits on them, not in them, so this</text>
+<text top="967" left="108" width="685" height="18" font="5">is another fact that we can include: the rider is in the ‘on’ relationship to the vehicle. </text>
+<text top="990" left="123" width="687" height="18" font="5">Thirdly, the rider is in control of the vehicle in contrast with a different use of <i>RIDE</i></text>
+<text top="1014" left="108" width="612" height="18" font="5">where it is used intransitively with <i>in</i> or <i>on</i>, which we can call Mere-Riding:</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">364</text>
+<text top="171" left="108" width="24" height="18" font="5">(7)</text>
+<text top="171" left="152" width="320" height="18" font="5">a. I rode the bicycle/*bus/*ship/*train.</text>
+<text top="195" left="152" width="316" height="18" font="5">b. I rode on the bicycle/bus/ship/train.</text>
+<text top="219" left="152" width="253" height="18" font="5">c. I rode in the car/plane/boat.</text>
+<text top="266" left="108" width="702" height="18" font="5">(Notice that, though the preposition varies with the vehicle, in the b/c examples any</text>
+<text top="290" left="108" width="702" height="18" font="5">vehicle is possible, which again confirms that a different sense is involved.) If A rides on</text>
+<text top="314" left="108" width="702" height="18" font="5">the back of B’s bicycle, A is riding on the bicycle, but not riding it. If Riding involves</text>
+<text top="337" left="108" width="702" height="18" font="5">being in control, it must be an example of Controlling, so Riding isa Controlling (as</text>
+<text top="361" left="108" width="702" height="18" font="5">Cycling isa Riding). However, it must also isa Mere-Riding, because whenever you ride</text>
+<text top="385" left="108" width="702" height="18" font="5">a bicycle you necessarily ride on it as well (and likewise for horses and motorcycles).</text>
+<text top="409" left="108" width="702" height="18" font="5">Consequently, Riding isa Mere-Riding as well as Controlling: if you ride a bicycle, you</text>
+<text top="433" left="108" width="702" height="18" font="5">ride on it and control it. All these relationships are shown in <b>Figure 8</b> (where the</text>
+<text top="457" left="108" width="499" height="18" font="5">relationship labelled <i>lm</i> is the ‘landmark’ of Langacker 1987).</text>
+<text top="825" left="392" width="73" height="18" font="6"><b>Figure 8</b></text>
+<text top="872" left="108" width="301" height="18" font="6"><b>5 Language and concept formation</b></text>
+<text top="919" left="108" width="702" height="18" font="5">Now that we have part of the analysis in place we can pause to consider a very general</text>
+<text top="943" left="108" width="702" height="18" font="5">question: what part does language play in the learning of concepts? The principle of</text>
+<text top="966" left="108" width="702" height="18" font="5">recycling predicts that language and general thinking share the same concepts - that</text>
+<text top="990" left="108" width="702" height="18" font="5">Bicycle is used not only in understanding the word <i>BICYCLE</i> but also in coping with</text>
+<text top="1014" left="108" width="702" height="18" font="5">bicycles in daily life. The question is whether these concepts are learned through language</text>
+<text top="1038" left="108" width="702" height="18" font="5">or through direct experience. Clearly our most honest answer is that we (the authors)</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">365</text>
+<text top="171" left="108" width="702" height="18" font="5">simply don’t know, and we cannot offer a well-developed theory of concept formation.</text>
+<text top="195" left="108" width="702" height="18" font="5">However some of the facts about the verb <i>CYCLE</i> are suggestive, and support the</text>
+<text top="219" left="108" width="702" height="18" font="5">conclusion that some word-meanings must be learned primarily on the basis of language,</text>
+<text top="242" left="108" width="702" height="18" font="5">whereas others are probably learned primarily through direct observation. This conclusion</text>
+<text top="266" left="108" width="512" height="18" font="5">is uncontroversial, but the relevant facts strike us as interesting.</text>
+<text top="290" left="123" width="687" height="18" font="5">It is easy to learn concepts for animals, foods and daily activities such as waking up,</text>
+<text top="314" left="108" width="702" height="18" font="5">eating and walking simply by direct observation because the categories are distinguished</text>
+<text top="337" left="108" width="702" height="18" font="5">clearly by bundles of cooccurring observable features (Rosch 1978:28). If concepts are</text>
+<text top="361" left="108" width="702" height="18" font="5">defined by their links to other concepts, then a new concept is defined as soon as a unique</text>
+<text top="385" left="108" width="702" height="18" font="5">bundle of links is established. It is easy to imagine a child learning the concept Bicycle</text>
+<text top="409" left="108" width="702" height="18" font="5">in this way, since bicycles are so distinctive both visually and functionally, and similarly</text>
+<text top="432" left="108" width="702" height="18" font="5">for Cycling. There is no reason to believe that either of these concepts depends on</text>
+<text top="456" left="108" width="702" height="18" font="5">experience of the relevant word, provided that the child has direct experience of bicycles</text>
+<text top="480" left="108" width="183" height="18" font="5">and of people cycling. </text>
+<text top="504" left="123" width="687" height="18" font="5">The same is not true, however, of the concepts Riding, Driving, Sailing and Flying as</text>
+<text top="528" left="108" width="677" height="18" font="5">illustrated in (6). Take Riding, which is applied to horses, bicycles and motorcycles:</text>
+<text top="575" left="108" width="24" height="18" font="5">(8)</text>
+<text top="575" left="152" width="441" height="18" font="5">I rode my horse/bicycle/motorcycle/*car/*boat/*plane.</text>
+<text top="623" left="108" width="702" height="18" font="5">This list of vehicles is motivated by the fact that in each case the rider sits on the vehicle,</text>
+<text top="646" left="108" width="702" height="18" font="5">not in it, and the vehicle goes on land, not water or air. It seems, then, that the verb <i>RIDE</i>,</text>
+<text top="670" left="108" width="701" height="18" font="5">at least as used in examples like (8), always has the same concept as its sense. Similar</text>
+<text top="694" left="108" width="702" height="18" font="5">conclusions apply to the other three verbs, so our minds must also contain the concepts</text>
+<text top="718" left="108" width="702" height="18" font="5">Sailing and Flying. But how did we learn these concepts? It is always possible that we</text>
+<text top="741" left="108" width="701" height="18" font="5">might have arrived at the same classification of ‘transported going’ on the basis of direct</text>
+<text top="765" left="108" width="701" height="18" font="5">observation, but many other classifications are equally easy to imagine - for example, we</text>
+<text top="789" left="108" width="701" height="18" font="5">might have made a fundamental distinction according to whether or not the vehicle had</text>
+<text top="813" left="108" width="702" height="18" font="5">wheels, or had a motor, each of which would have been different from the one that we</text>
+<text top="836" left="108" width="701" height="18" font="5">actually have. (The criterion of wheels puts bicycles with cars, not with horses, and that</text>
+<text top="860" left="108" width="702" height="18" font="5">of a motor puts motorcycles with cars, not with bicycles.) Nor can we assume that each</text>
+<text top="884" left="108" width="702" height="18" font="5">concept is defined by the skill that it demands - riding a motorcycle requires some of the</text>
+<text top="908" left="108" width="702" height="18" font="5">skills of driving and some of riding, and an ability to ride a horse scarcely generalises at</text>
+<text top="931" left="108" width="180" height="18" font="5">all to riding a bicycle. </text>
+<text top="955" left="123" width="687" height="18" font="5">In short, the four-way division into Riding, Driving, Sailing and Flying is not ‘natural’</text>
+<text top="979" left="108" width="702" height="18" font="5">and determined by the way the world is. Rather, we assume that it is learned largely on</text>
+<text top="1003" left="108" width="702" height="18" font="5">the basis of language: when we learned the verb <i>RIDE</i> we created a concept for its sense</text>
+<text top="1026" left="108" width="702" height="18" font="5">on the basis of how we heard this verb used. This is a coherent concept definable by a</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">366</text>
+<text top="171" left="108" width="702" height="18" font="5">single bundle of links to other concepts, but it is not an inevitable outcome of non-verbal</text>
+<text top="195" left="108" width="702" height="18" font="5">experience. It is learned on the basis of experience, but verbal experience plays a crucial</text>
+<text top="219" left="108" width="702" height="18" font="5">part, so our concept formation has been guided by the idiosyncracies of English. (We</text>
+<text top="242" left="108" width="702" height="18" font="5">assume that these in turn reflect the history of English society, going back to the days</text>
+<text top="266" left="108" width="702" height="18" font="5">when Riding was exclusively tied to horseback, Driving to horse-drawn vehicles and</text>
+<text top="290" left="108" width="702" height="18" font="5">Sailing to boats with sails and when Flying was defined by birds and insects.) If this</text>
+<text top="314" left="108" width="702" height="18" font="5">conclusion is correct, we might expect other languages to have organised this part of</text>
+<text top="337" left="108" width="702" height="18" font="5">experience differently - as is indeed the case. For instance in German the verb used with</text>
+<text top="361" left="108" width="702" height="18" font="5">bicycles is the same as for cars (<i>FAHREN</i>), and different from the one used with horses</text>
+<text top="385" left="108" width="97" height="18" font="5">(<i>REITEN</i>).  </text>
+<text top="409" left="123" width="687" height="18" font="5">Examples like these seem to us to support strongly the view that ‘knowledge of the</text>
+<text top="432" left="108" width="702" height="18" font="5">world’ and ‘knowledge of language’ merge in a single network of knowledge to which</text>
+<text top="456" left="108" width="702" height="18" font="5">both linguistic and non-linguistic experience can contribute. It is true that some concepts</text>
+<text top="480" left="108" width="702" height="18" font="5">are relatively independent of language while others are relatively dependent on it, but</text>
+<text top="504" left="108" width="702" height="18" font="5">there is no clear boundary between them, and no clear advantage in trying to draw one.</text>
+<text top="528" left="108" width="552" height="18" font="5">We shall see further evidence for this view in the following sections.</text>
+<text top="575" left="108" width="280" height="18" font="6"><b>6 Cycling as a manner of motion</b></text>
+<text top="622" left="108" width="702" height="18" font="5">Mere-riding in general (and cycling in particular) is a way of moving, so the analysis must</text>
+<text top="646" left="108" width="702" height="18" font="5">relate it to the notion of moving. In this section, we shall look more closely at the concept</text>
+<text top="670" left="108" width="352" height="18" font="5">Moving, and the relationships that define it.</text>
+<text top="693" left="123" width="686" height="18" font="5">Moving is associated with three relationships: manner, result and path, displayed in</text>
+<text top="718" left="108" width="701" height="18" font="6"><b>Figure 9</b>.The first two of these are, in fact, inherited from higher categories: any event</text>
+<text top="741" left="108" width="702" height="18" font="5">can have a manner and many events other than cases of moving may have results. Specific</text>
+<text top="765" left="108" width="702" height="18" font="5">to Moving, however, is the fact that there is a path, the end of which corresponds to the</text>
+<text top="789" left="108" width="702" height="18" font="5">result. The path is a spatial relationship between three parts: a beginning, a middle and an</text>
+<text top="813" left="108" width="702" height="18" font="5">end. Each of these isa Location: a relationship between a located (er) and a place (lm).</text>
+<text top="836" left="108" width="702" height="18" font="5">The last part of the path, its end, is the same as the result of Moving, which is also a</text>
+<text top="860" left="108" width="76" height="18" font="5">Location.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">367</text>
+<text top="538" left="472" width="73" height="18" font="6"><b>Figure 9</b></text>
+<text top="585" left="108" width="701" height="18" font="5">Notice that, though the path and the result are closely connected as described, they must</text>
+<text top="608" left="108" width="702" height="18" font="5">nevertheless remain separate. In (9), the second adjunct refers to the duration of the</text>
+<text top="632" left="108" width="572" height="18" font="5">result; in (10), it refers to the duration of the movement along the path.</text>
+<text top="680" left="108" width="24" height="18" font="5">(9)</text>
+<text top="680" left="152" width="303" height="18" font="5">We went to Manchester for two days.</text>
+<text top="704" left="108" width="352" height="18" font="5">(10) We went over the moors for two days.</text>
+<text top="751" left="108" width="702" height="18" font="5">Since these three relationships are associated with Moving, different kinds of Moving can</text>
+<text top="775" left="108" width="702" height="18" font="5">be defined in terms of each of them, or in terms of combinations of them.  As shown in</text>
+<text top="799" left="108" width="702" height="18" font="5">(9,10), Going has a path as well as a result. Arriving, however, is defined only in terms</text>
+<text top="822" left="108" width="702" height="18" font="5">of its result (At). Rising is defined in terms of its path (the end is Higher-than the</text>
+<text top="846" left="108" width="702" height="18" font="5">beginning). Walking is defined in terms of its manner (using the feet). Soaring is defined</text>
+<text top="870" left="108" width="702" height="18" font="5">in terms of both manner (rapid, uncontrolled) and path (as for Rising). Scramming is</text>
+<text top="894" left="108" width="494" height="18" font="5">defined in terms of both manner (rapid) and result (not here).</text>
+<text top="917" left="123" width="687" height="18" font="5">Where a kind of Moving is specified as to one of these relationships, it can be</text>
+<text top="941" left="108" width="603" height="18" font="5">overridden or made more specific by the referents of syntactic dependents:</text>
+<text top="989" left="108" width="258" height="18" font="5">(11) We arrived in Manchester.</text>
+<text top="1012" left="108" width="207" height="18" font="5">(12) He fell up the stairs.</text>
+<text top="1036" left="108" width="307" height="18" font="5">(13) My uncle can walk on his hands.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">368</text>
+<text top="195" left="108" width="702" height="18" font="5">In (11), the result is made more specific, in (12) the default direction is reversed and in</text>
+<text top="219" left="108" width="702" height="18" font="5">(13), the default manner is overridden. Notice that this is possible only when the</text>
+<text top="242" left="108" width="702" height="18" font="5">overriding specification is close to the default value. Walking on your hands counts as</text>
+<text top="266" left="108" width="702" height="18" font="5">walking under the Best-Fit principle (Walking is the closest kind of locomotion available</text>
+<text top="290" left="108" width="702" height="18" font="5">in the lexicon). Moving around on your belly counts as a kind of Crawling for the same</text>
+<text top="314" left="108" width="58" height="18" font="5">reason.</text>
+<text top="337" left="123" width="687" height="18" font="5">Of course, even where a kind of Moving is not specified as to one of these relationships,</text>
+<text top="361" left="108" width="610" height="18" font="5">the relationship is still inherited and can be expressed in syntactic structure:</text>
+<text top="409" left="108" width="361" height="18" font="5">(14) We arrived by bicycle via Saddleworth.</text>
+<text top="432" left="108" width="371" height="18" font="5">(15) The float suddenly rose out of the water.</text>
+<text top="456" left="108" width="380" height="18" font="5">(16) We cycled over the moors to Manchester.</text>
+<text top="504" left="108" width="702" height="18" font="5">In (14) the result verb <i>ARRIVE</i> has adjuncts referring to its path and manner; in (15) the</text>
+<text top="527" left="108" width="702" height="18" font="5">path verb <i>RISE</i> has adjuncts referring to its manner and result; and in (16) the manner</text>
+<text top="551" left="108" width="456" height="18" font="5">verb <i>CYCLE</i> has adjuncts referring to its path and result.</text>
+<text top="575" left="123" width="687" height="18" font="5">However, only those verbs that have a (compatible) lexically specified result may</text>
+<text top="599" left="108" width="306" height="18" font="5">appear with certain result dependents:</text>
+<text top="646" left="108" width="211" height="18" font="5">(17) We went in the park.</text>
+<text top="670" left="108" width="261" height="18" font="5">(18) The float rose in the water.</text>
+<text top="694" left="108" width="252" height="18" font="5">(19) We cycled in the sand pit.</text>
+<text top="741" left="108" width="702" height="18" font="5">Going has a result and it is this that is the referent of the preposition in (17). Rising and</text>
+<text top="765" left="108" width="702" height="18" font="5">Cycling, by contrast, have no specific result, so the prepositions in (18,19) refer to the</text>
+<text top="789" left="108" width="702" height="18" font="5">location of the respective activities. In order to specify the result of Rising, we must do</text>
+<text top="813" left="108" width="702" height="18" font="5">so through the path relationship, by using a preposition like <i>INTO</i>.  <i>INTO</i>, since it refers</text>
+<text top="836" left="108" width="652" height="18" font="5">unambiguously to a path, can also force a directional interpretation onto <i>CYCLE</i>.</text>
+<text top="860" left="123" width="687" height="18" font="5">These differences lie behind the widely recognised distinction between manner-of-</text>
+<text top="884" left="108" width="702" height="18" font="5">motion and direction-of-motion verbs (Levin 1993, 263-4, Slobin1996). In terms of this</text>
+<text top="908" left="108" width="702" height="18" font="5">contrast, <i>CYCLE</i> is a manner-of-motion verb, and Mere-riding is a concept that defines</text>
+<text top="931" left="108" width="702" height="18" font="5">motion in terms of its manner rather than its direction. The manner that all examples of</text>
+<text top="955" left="108" width="702" height="18" font="5">Mere-riding have in common is the fact that the rider is carried by a vehicle; but in</text>
+<text top="979" left="108" width="702" height="18" font="5">contrast with (say) a load of coal, what the vehicle carries is a person. Thus our definition</text>
+<text top="1003" left="108" width="702" height="18" font="5">of Mere-riding must relate it to the concepts Carrying, Vehicle and Person via the</text>
+<text top="1027" left="108" width="702" height="18" font="5">relationship Manner. The definition is shown in <b>Figure 10</b>,  which could be paraphrased</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="16" family="Times" color="#000000"/>
+	<fontspec id="13" size="13" family="Times" color="#000000"/>
+	<fontspec id="14" size="17" family="Times" color="#000000"/>
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">369</text>
+<text top="171" left="108" width="702" height="18" font="5">as follows: &#34;You ride by being carried by a vehicle.&#34; or &#34;When you ride you are carried</text>
+<text top="195" left="108" width="702" height="18" font="5">by a vehicle.&#34; Notice how the role relations are reversed between carrying and riding,</text>
+<text top="219" left="108" width="700" height="18" font="5">since the ride-er is the carry-ee, and the carry-er is the location of the ride-er. This</text>
+<text top="242" left="108" width="702" height="18" font="5">example justifies treating the movement and its manner as two different events, in spite</text>
+<text top="266" left="108" width="627" height="18" font="5">of the fact that they are simply different conceptualisations of the same event.</text>
+<text top="473" left="424" width="88" height="15" font="12"><b>Mere-riding</b></text>
+<text top="552" left="441" width="49" height="15" font="12"><b>Riding</b></text>
+<text top="624" left="443" width="56" height="15" font="12"><b>Cycling</b></text>
+<text top="378" left="442" width="56" height="15" font="12"><b>Moving</b></text>
+<text top="377" left="209" width="67" height="15" font="12"><b>Carrying</b></text>
+<text top="468" left="301" width="4" height="15" font="12"><b>.</b></text>
+<text top="504" left="347" width="4" height="15" font="12"><b>.</b></text>
+<text top="508" left="258" width="4" height="15" font="12"><b>.</b></text>
+<text top="565" left="334" width="50" height="15" font="12"><b>Person</b></text>
+<text top="319" left="397" width="44" height="12" font="13"><b>manner</b></text>
+<text top="360" left="400" width="12" height="12" font="13"><b>er</b></text>
+<text top="312" left="539" width="51" height="12" font="13"><b>direction</b></text>
+<text top="416" left="363" width="44" height="12" font="13"><b>manner</b></text>
+<text top="477" left="385" width="12" height="12" font="13"><b>er</b></text>
+<text top="474" left="271" width="12" height="12" font="13"><b>er</b></text>
+<text top="472" left="321" width="12" height="12" font="13"><b>ee</b></text>
+<text top="434" left="164" width="53" height="15" font="12"><b>Vehicle</b></text>
+<text top="567" left="287" width="23" height="16" font="14"><b>On</b></text>
+<text top="541" left="282" width="15" height="12" font="13"><b>lm</b></text>
+<text top="541" left="311" width="12" height="12" font="13"><b>er</b></text>
+<text top="672" left="387" width="83" height="18" font="6"><b>Figure 10</b></text>
+<text top="719" left="108" width="702" height="18" font="5">We could now go on to define Carrying as a combination of supporting and movement;</text>
+<text top="742" left="108" width="702" height="18" font="5">for example, if you carry a tray, you support the tray and move at the same time, so the</text>
+<text top="766" left="108" width="702" height="18" font="5">carrying isa both supporting and moving. However the analyses given so far already show</text>
+<text top="790" left="108" width="702" height="18" font="5">how the concept can be defined ‘upwards’ in relation to more general concepts. These</text>
+<text top="814" left="108" width="702" height="18" font="5">higher-level concepts are relevant because of default inheritance, so we now have a rich</text>
+<text top="837" left="108" width="702" height="18" font="5">definition of Cycling which either by stipulation or by inheritance has the following</text>
+<text top="861" left="108" width="122" height="18" font="5">characteristics:</text>
+<text top="909" left="108" width="227" height="18" font="5">(20) a. Cycling isa Riding.</text>
+<text top="932" left="152" width="226" height="18" font="5">b. Cycling isa Mere-riding.</text>
+<text top="956" left="152" width="193" height="18" font="5">c. Cycling isa Moving.</text>
+<text top="980" left="152" width="325" height="18" font="5">d. The manner of Cycling isa Carrying.</text>
+<text top="1004" left="152" width="313" height="18" font="5">e. The cycle-er of Cycling isa Person.</text>
+<text top="1028" left="152" width="312" height="18" font="5">f. The vehicle of Cycling isa Bicycle.</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">370</text>
+<text top="171" left="152" width="447" height="18" font="5">g. The vehicle of Cycling is the carry-er of its manner.</text>
+<text top="195" left="152" width="456" height="18" font="5">h. The cycle-er of Cycling is the carry-ee of its manner.</text>
+<text top="219" left="152" width="10" height="18" font="5">i.</text>
+<text top="219" left="181" width="629" height="18" font="5">The cycle-er of Cycling is the Er of the On state whose landmark is its vehicle.</text>
+<text top="266" left="108" width="700" height="18" font="5">These facts are all represented formally in the network, so the prose versions are a direct</text>
+<text top="290" left="108" width="289" height="18" font="5">translation of the network notation. </text>
+<text top="314" left="123" width="687" height="18" font="5">The semi-formal metalanguage reads oddly, but it should be comprehensible and can</text>
+<text top="337" left="108" width="702" height="18" font="5">easily be turned into ordinary prose (with the technical terms and concept-names</text>
+<text top="361" left="108" width="78" height="18" font="5">retained):</text>
+<text top="409" left="108" width="295" height="18" font="5">(21) a. Cycling is a kind of Riding.</text>
+<text top="432" left="152" width="294" height="18" font="5">b. Cycling is a kind of Mere-riding.</text>
+<text top="456" left="152" width="260" height="18" font="5">c. Cycling is a kind of Moving.</text>
+<text top="480" left="152" width="241" height="18" font="5">d. Cycling involves carrying.</text>
+<text top="504" left="152" width="197" height="18" font="5">e. A cyclist is a person.</text>
+<text top="527" left="152" width="350" height="18" font="5">f. The vehicle used in cycling is a bicycle.</text>
+<text top="551" left="152" width="622" height="18" font="5">g. In the carrying involved in cycling, it is the bicycle that does the carrying.</text>
+<text top="575" left="152" width="399" height="18" font="5">h. In this carrying, it is the cyclist that is carried.</text>
+<text top="599" left="152" width="10" height="18" font="5">i.</text>
+<text top="599" left="181" width="256" height="18" font="5">The cyclist rides on the bicycle.</text>
+<text top="646" left="108" width="481" height="18" font="5">We shall now consider cycling from a different perspective.</text>
+<text top="694" left="108" width="189" height="18" font="6"><b>7 Cycling as pedalling</b></text>
+<text top="741" left="108" width="702" height="18" font="5">One of the special features of cycling, as an example of riding, is that it is the only kind</text>
+<text top="765" left="108" width="702" height="18" font="5">of riding in which the rider has to provide the energy. (Horse-riding may be energetic, but</text>
+<text top="788" left="108" width="701" height="18" font="5">the energy produced by the rider is not what keeps the horse and rider moving forwards.)</text>
+<text top="812" left="108" width="702" height="18" font="5">A closely related feature, of course, is that it is only bicycles that have pedals; and the link</text>
+<text top="836" left="108" width="702" height="18" font="5">between the features is that the pedals receive the rider’s energy and help to turn it into</text>
+<text top="860" left="108" width="163" height="18" font="5">forward movement. </text>
+<text top="884" left="123" width="687" height="18" font="5">Somewhat surprisingly perhaps, these characteristics of cycling may be reflected in the</text>
+<text top="907" left="108" width="702" height="18" font="5">lexical relations of the verb <i>CYCLE</i>. The verb has the same stem as the noun, whose sense</text>
+<text top="931" left="108" width="702" height="18" font="5">is Bicycle: thus (for those who have <i>CYCLE</i> meaning Bicycle) to cycle is to ride a cycle.</text>
+<text top="955" left="108" width="702" height="18" font="5">The same is true of the lexemes <i>BICYCLE</i> and <i>BIKE</i>: to bicycle is to ride a bicycle, and</text>
+<text top="979" left="108" width="702" height="18" font="5">to bike is to ride a bike. The same is not true, however, of other verbs of riding. For</text>
+<text top="1002" left="108" width="702" height="18" font="5">horses, we have no verb <i>HORSE</i>, nor, for Mere-Riding, do we have verbs derived from</text>
+<text top="1026" left="108" width="702" height="18" font="8"><i>CAR</i>, <i>WAGON</i>, <i>TRAIN</i>, <i>PLANE</i> or any other kind of vehicle. Levin (1993:267-8) claims</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">371</text>
+<text top="171" left="108" width="702" height="18" font="5">that most vehicle-nouns can be used as verbs, quoting examples such as <i>BALLOON</i> and</text>
+<text top="195" left="108" width="702" height="18" font="8"><i>BOAT</i>, but our intuitions differ from hers, and we feel sure that even she could not use</text>
+<text top="219" left="108" width="702" height="18" font="8"><i>CAR</i> or <i>AUTOMOBILE</i> as a verb. Admittedly we can go boating (a pattern we shall</text>
+<text top="242" left="108" width="702" height="18" font="5">consider below), but we can hardly boat to the next village. Even <i>MOTORCYCLE</i> and</text>
+<text top="266" left="108" width="702" height="18" font="8"><i>MOTORBIKE</i> have no verb: you can cycle to the next village, but not motorcycle there.</text>
+<text top="290" left="108" width="701" height="18" font="5">In short it is only verbs whose sense is Cycling that are ‘zero-derived’ from a noun which</text>
+<text top="314" left="108" width="149" height="18" font="5">names the vehicle.</text>
+<text top="337" left="123" width="687" height="18" font="5">On the other hand, there is a different area of vocabulary where this zero-derivation is</text>
+<text top="361" left="108" width="702" height="18" font="5">very productive, and which may have provided the model for these exceptional lexemes.</text>
+<text top="385" left="108" width="702" height="18" font="5">This is the semantic field which includes skating and skiing; so when you skate you wear</text>
+<text top="409" left="108" width="702" height="18" font="5">skates and when you ski you wear skis. The productivity of the system can be seen in</text>
+<text top="432" left="108" width="701" height="18" font="5">neologisms like <i>ROLLER-BLADE</i>, which can be used either as a verb or as a noun. What</text>
+<text top="456" left="108" width="702" height="18" font="5">these activities have in common is that the user provides the energy for forward</text>
+<text top="480" left="108" width="702" height="18" font="5">movement through some kind of device fixed to their feet - let us call it (for want of an</text>
+<text top="504" left="108" width="702" height="18" font="5">established term) ‘Foot-Powering’. Admittedly not all noun-verb pairs that define ways</text>
+<text top="528" left="108" width="702" height="18" font="5">of moving fit this formula: exceptions include <i>SKI-BOARD</i> and <i>SURF-BOARD</i>, where the</text>
+<text top="551" left="108" width="702" height="18" font="5">energy comes from elsewhere, and <i>SLEDGE</i> and <i>TOBOGGAN</i>, where there is not even</text>
+<text top="575" left="108" width="702" height="18" font="5">a device fixed to the feet. Nevertheless, the pattern may be clear enough to motivate the</text>
+<text top="599" left="108" width="271" height="18" font="5">zero-derivation of Cycling verbs. </text>
+<text top="623" left="123" width="686" height="18" font="5">However suggestive it may be, though, the linguistic evidence does not show that</text>
+<text top="646" left="108" width="702" height="18" font="5">Cycling isa Foot-Powering, even if there are enough similarities to justify the zero-</text>
+<text top="670" left="108" width="702" height="18" font="5">derivation. The pattern is productive in skating and skiing, but not in cycling. We can ride</text>
+<text top="694" left="108" width="702" height="18" font="5">a tandem, but when doing so we are not tandeming, and likewise for <i>TRICYCLE</i> and</text>
+<text top="718" left="108" width="702" height="18" font="8"><i>MONOCYCLE</i>. The most we can assume is that Cycling shares some features with Foot-</text>
+<text top="741" left="108" width="702" height="18" font="5">Powering which motivated the extension of the zero-derivation pattern - in the same way</text>
+<text top="765" left="108" width="702" height="18" font="5">that it may perhaps have extended from skiing to ski-boarding and thence to surf-</text>
+<text top="789" left="108" width="306" height="18" font="5">boarding, and from skiing to sledging.</text>
+<text top="813" left="123" width="687" height="18" font="5">Much more persuasive, however, is the analogy of a different verb in the field of</text>
+<text top="836" left="108" width="702" height="18" font="5">cycling: <i>PEDAL</i>. This makes a close fit for Foot-Powering, both linguistically (to pedal</text>
+<text top="860" left="108" width="702" height="18" font="5">is to use pedals) and conceptually, since it is the transmission of forward energy via a</text>
+<text top="884" left="108" width="702" height="18" font="5">device fixed to the feet. (The only uncertainty is whether pedals count as ‘fixed’ to one’s</text>
+<text top="908" left="108" width="702" height="18" font="5">feet.) We can therefore conclude that the ‘pedalling’ part of cycling isa Foot-Powering.</text>
+<text top="931" left="123" width="687" height="18" font="5">On a theoretical note, this is a clear example of the benefits of basing the analysis on</text>
+<text top="955" left="108" width="701" height="18" font="5">a network rather than on frames. The analysis just suggested would be hard to express in</text>
+<text top="979" left="108" width="702" height="18" font="5">frames because the frames for Riding and Foot-Powering are in general distinct, but show</text>
+<text top="1003" left="108" width="702" height="18" font="5">this small area of overlap. The frames cannot be simply combined by unification, but</text>
+<text top="1026" left="108" width="454" height="18" font="5">neither can either of them be treated as part of the other.</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">372</text>
+<text top="171" left="123" width="687" height="18" font="5">How, then, can we integrate Pedalling and Foot-Powering into the network for Cycling?</text>
+<text top="195" left="108" width="702" height="18" font="5">The force-dynamic chain takes the energy from the rider’s foot through the pedal (and</text>
+<text top="219" left="108" width="701" height="18" font="5">chain) to the wheels, which convert the energy into forward movement. It is the forward</text>
+<text top="242" left="108" width="702" height="18" font="5">movement of the bicycle that takes the rider forwards, so pedalling is only indirectly</text>
+<text top="266" left="108" width="702" height="18" font="5">related to the rider’s forward movement. Pedalling is not the manner of the cycling itself,</text>
+<text top="290" left="108" width="702" height="18" font="5">but of its manner - it is the manner of movement for the bicycle, not for the cyclist. This</text>
+<text top="314" left="108" width="702" height="18" font="5">is a happy conclusion, because Pedalling and Carrying would otherwise have been in</text>
+<text top="337" left="108" width="702" height="18" font="5">competition as the value for the Manner function of a single concept. The solution,</text>
+<text top="361" left="108" width="702" height="18" font="5">therefore, is to analyse Cycling as a kind of Riding whose manner is an example of</text>
+<text top="385" left="108" width="302" height="18" font="5">Carrying whose manner is Pedalling. </text>
+<text top="409" left="123" width="687" height="18" font="5">The first step in the analysis is to focus on Pedalling. Unfortunately, as we have seen</text>
+<text top="432" left="108" width="702" height="18" font="5">this is itself a manner-of-motion like Skating and Skiing; so it has a manner of its own,</text>
+<text top="456" left="108" width="702" height="18" font="5">which we shall call simply Pushing a device with the foot. This is the meaning of the verb</text>
+<text top="480" left="108" width="702" height="18" font="8"><i>PEDAL</i>, as in (22). The analysis of Pedalling is shown in <b>Figure 11</b> as one example of</text>
+<text top="504" left="108" width="441" height="18" font="5">Foot-Powering contrasting with (for example) Skating.</text>
+<text top="552" left="108" width="413" height="18" font="5">(22) We pedalled across the lake in the pedal-boat.</text>
+<text top="1026" left="396" width="83" height="18" font="6"><b>Figure 11</b></text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">373</text>
+<text top="171" left="108" width="702" height="18" font="5">The next (and last) step is to show how the analysis of Pedalling is recycled as part of the</text>
+<text top="195" left="108" width="702" height="18" font="5">analysis of Cycling. Ignoring the details that have already been covered in other diagrams,</text>
+<text top="219" left="108" width="399" height="18" font="6"><b>Figure 12</b> shows the overall structure of Cycling.</text>
+<text top="477" left="380" width="83" height="18" font="6"><b>Figure 12</b></text>
+<text top="524" left="108" width="702" height="18" font="5">According to this definition, pedalling is an essential component of cycling. This seems</text>
+<text top="548" left="108" width="702" height="18" font="5">to us correct; for example, if we had to describe someone free-wheeling down a hill we</text>
+<text top="571" left="108" width="522" height="18" font="5">would use <i>RIDE</i> (or a verb such as <i>COAST</i>) rather than <i>CYCLE</i>. </text>
+<text top="619" left="108" width="467" height="18" font="5">(23) I rode/*cycled down the steep hill without pedalling.</text>
+<text top="666" left="108" width="702" height="18" font="5">Pedalling is so important for Cycling that we may even be able to apply <i>CYCLE</i> to</text>
+<text top="690" left="108" width="556" height="18" font="5">stationary exercise-bikes, where movement is obviously not relevant.</text>
+<text top="738" left="108" width="531" height="18" font="5">(24) ?I cycle on the exercise-bike for half an hour every morning.</text>
+<text top="785" left="108" width="702" height="18" font="5">However if this is possible it must be a special use of <i>CYCLE</i> where the default  Moving</text>
+<text top="809" left="108" width="702" height="18" font="5">is overridden - depending on experience and entrenchment, either a nonce exception or</text>
+<text top="833" left="108" width="702" height="18" font="5">a lexicalized sub-case of Cycle. The ‘cyclist’ is still supported by the bike, so half of the</text>
+<text top="857" left="108" width="702" height="18" font="5">definition of Carrying is still relevant, but it is not complete Carrying, nor is it complete</text>
+<text top="880" left="108" width="68" height="18" font="5">Cycling.</text>
+<text top="904" left="123" width="687" height="18" font="5">What this section has achieved is to show that Pedalling is an important element of</text>
+<text top="928" left="108" width="702" height="18" font="5">Cycling, which can be incorporated in a network definition in spite of the complexities</text>
+<text top="952" left="108" width="632" height="18" font="5">caused by the fact that Pedalling defines the manner of the manner of Cycling.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">374</text>
+<text top="171" left="108" width="385" height="18" font="6"><b>8 Cycling as outdoor fun and indoor exercise</b></text>
+<text top="218" left="108" width="614" height="18" font="5">The analysis so far has focussed only on the observable, physical aspects of </text>
+<text top="242" left="108" width="702" height="18" font="5">Cycling - what the cyclist does, and what the results are in terms of movement. However</text>
+<text top="266" left="108" width="702" height="18" font="5">we have ignored an important part of the activity, its purpose. Why do people cycle? The</text>
+<text top="290" left="108" width="702" height="18" font="5">fact is, of course, that an infinite number of purposes are possible, and an ordinary</text>
+<text top="313" left="108" width="702" height="18" font="5">sentence containing <i>CYCLE</i> leaves the choice completely open, so any of the</text>
+<text top="337" left="108" width="274" height="18" font="5">continuations in (24) are possible:</text>
+<text top="385" left="108" width="175" height="18" font="5">(25) I cycled to work</text>
+<text top="408" left="152" width="132" height="18" font="5">a. to save time.</text>
+<text top="432" left="152" width="150" height="18" font="5">b. to save money.</text>
+<text top="456" left="152" width="116" height="18" font="5">c. to keep fit.</text>
+<text top="480" left="152" width="299" height="18" font="5">d. to remind myself of my boyhood.</text>
+<text top="503" left="152" width="190" height="18" font="5">e. to outwit the police.</text>
+<text top="527" left="152" width="129" height="18" font="5">f. to win a bet.</text>
+<text top="551" left="152" width="204" height="18" font="5">g. to avoid the martians.</text>
+<text top="598" left="108" width="702" height="18" font="5">However there are two purposes which have been picked out for special linguistic</text>
+<text top="622" left="108" width="216" height="18" font="5">treatment: fun and fitness. </text>
+<text top="646" left="123" width="687" height="18" font="5">At least two grammatical patterns signal that an activity is being done for fun or for</text>
+<text top="670" left="108" width="701" height="18" font="5">fitness, so we assume that these purposes belong together conceptually as different</text>
+<text top="693" left="108" width="702" height="18" font="5">manifestations of a single super-purpose. In the absence of an established term we shall</text>
+<text top="717" left="108" width="702" height="18" font="5">call it ‘Life-Enhancing’, the point being that the activity is done for the benefit it does to</text>
+<text top="741" left="108" width="702" height="18" font="5">the actor’s emotional or physical well-being, and not for the specific results produced by</text>
+<text top="765" left="108" width="702" height="18" font="5">the action. (It is interesting to speculate about the role that language plays in the</text>
+<text top="789" left="108" width="702" height="18" font="5">development of this concept.) In the case of cycling, this means that the cycling is done</text>
+<text top="812" left="108" width="702" height="18" font="5">for fun or to improve fitness, rather than in order to get to the destination - indeed, there</text>
+<text top="836" left="108" width="702" height="18" font="5">may not be a destination (as when cycling round a race-track). The effect of these</text>
+<text top="860" left="108" width="702" height="18" font="5">grammatical patterns, then, is to signal explicitly that what is normally just a by-product</text>
+<text top="884" left="108" width="433" height="18" font="5">of the activity has been promoted to its main purpose.</text>
+<text top="907" left="123" width="687" height="18" font="5">The purpose of Life-Enhancing can be signalled by means of two different kinds of</text>
+<text top="931" left="108" width="702" height="18" font="5">nominalization. Both patterns are highly productive, so we shall start by exploring their</text>
+<text top="955" left="108" width="702" height="18" font="5">use in domains other than cycling. One involves (once again) zero-derivation, but in this</text>
+<text top="979" left="108" width="702" height="18" font="5">case the derivation of a noun from a verb. For example, <i>WALK</i> may be used as an</text>
+<text top="1002" left="108" width="194" height="18" font="5">ordinary common noun:</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">375</text>
+<text top="171" left="108" width="176" height="18" font="5">(26) a. I had a walk.</text>
+<text top="195" left="152" width="171" height="18" font="5">b. I went for a walk.</text>
+<text top="219" left="152" width="215" height="18" font="5">c. The walk did me good.</text>
+<text top="242" left="152" width="338" height="18" font="5">d. I told them about my walk in the park.</text>
+<text top="266" left="152" width="277" height="18" font="5">e. What you need is a good walk.</text>
+<text top="314" left="108" width="702" height="18" font="5">If you walk to the kitchen to make a cup of coffee, you have not had a walk, less still gone</text>
+<text top="337" left="108" width="702" height="18" font="5">for a walk. A walk is certainly an example of Walking, but it is walking whose purpose</text>
+<text top="361" left="108" width="702" height="18" font="5">is not to reach a specific destination, but enjoyment. If you are invited to go for a walk,</text>
+<text top="385" left="108" width="702" height="18" font="5">the route is open for negotiation and the destination may well be the same as the starting</text>
+<text top="409" left="108" width="702" height="18" font="5">point. What these observations suggest is that the noun <i>WALK</i> has its purpose specified</text>
+<text top="432" left="108" width="702" height="18" font="5">as Life-Enhancing. We do not know whether the verb has a default purpose (reaching the</text>
+<text top="456" left="108" width="702" height="18" font="5">destination) or a completely unspecified purpose, though the result may be taken as the</text>
+<text top="480" left="108" width="538" height="18" font="5">purpose in the absence of any other specification (it is the default).</text>
+<text top="504" left="123" width="687" height="18" font="5">The same seems to be true of all manner-of-motion verbs. A drive in the countryside</text>
+<text top="528" left="108" width="702" height="18" font="5">aims at pleasure, not achievement, and likewise for a swim, a ride, a paddle, and so on.</text>
+<text top="551" left="108" width="702" height="18" font="5">However there are complications with some verbs, one of which happens to be <i>CYCLE</i></text>
+<text top="575" left="108" width="702" height="18" font="5">and its synonyms. We cannot go for a bike or a bicycle; and presumably the reason for</text>
+<text top="599" left="108" width="702" height="18" font="5">this is that as we pointed out earlier, the nouns <i>BIKE</i> and <i>BICYCLE</i> are already in use as</text>
+<text top="623" left="108" width="702" height="18" font="5">the concrete nouns from which the verbs are derived - a bike/bicycle is what we ride on</text>
+<text top="646" left="108" width="702" height="18" font="5">when we bike/bicycle. (This explanation is supported by a minor dialect difference</text>
+<text top="670" left="108" width="702" height="18" font="5">between the two authors regarding the possible meaning of the noun CYCLE: it can have</text>
+<text top="694" left="108" width="702" height="18" font="5">either a concrete meaning (Bicycle) or an abstract one, as in ‘go for a cycle’, but not</text>
+<text top="718" left="108" width="702" height="18" font="5">both.) Instead, we use a completely different noun, <i>BIKE-RIDE</i>. A bike-ride is certainly</text>
+<text top="741" left="108" width="702" height="18" font="5">something one does for pleasure or fitness, and not just as a way to reach the destination:</text>
+<text top="765" left="108" width="702" height="18" font="5">so when you cycle to work, you have not had a bike-ride. The choice of noun is not</text>
+<text top="789" left="108" width="702" height="18" font="5">arbitrary, of course, if Cycling isa Riding, and <i>BIKE-RIDE</i> sits comfortably alongside</text>
+<text top="813" left="108" width="702" height="18" font="8"><i>HORSE-RIDE</i>, <i>DONKEY-RIDE</i> and so on, as well as examples like <i>TRAIN-RIDE</i> which</text>
+<text top="836" left="108" width="416" height="18" font="5">involve Mere-Riding rather than controlled Riding. </text>
+<text top="860" left="123" width="687" height="18" font="5">These verb-noun relations can be included in the network, but we must first explain how</text>
+<text top="884" left="108" width="702" height="18" font="5">generalizable lexical relations can be handled. Since a network is purely declarative, there</text>
+<text top="908" left="108" width="702" height="18" font="5">is no place for procedures which create one lexeme on the basis of another - e.g. a rule</text>
+<text top="931" left="108" width="702" height="18" font="5">which creates an adverb by taking an adjective and adding <i>-ly</i>. Instead, relations between</text>
+<text top="955" left="108" width="702" height="18" font="5">lexemes must be handled by named functions such as ‘noun-of’ or ‘adverb-of’; thus</text>
+<text top="979" left="108" width="702" height="18" font="8"><i>QUICKLY</i> is the adverb-of <i>QUICK</i>. The generalisation in this case is that the adverb-of</text>
+<text top="1003" left="108" width="702" height="18" font="5">an adjective shares the adjective’s stem but also has <i>-ly</i>. In the case of zero-derivation, the</text>
+<text top="1026" left="108" width="702" height="18" font="5">two lexemes simply share the same stem. For verb-noun pairs where the verb is</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">376</text>
+<text top="171" left="108" width="702" height="18" font="5">considered basic, the noun-of the verb has the verb’s stem - hence the fact that <i>WALK</i> can</text>
+<text top="195" left="108" width="302" height="18" font="5">be used either as a verb or as a noun. </text>
+<text top="219" left="123" width="686" height="18" font="5">As far as meaning is concerned, the derived lexeme also has a sense which is based on</text>
+<text top="242" left="108" width="702" height="18" font="5">that of its source lexeme. As already indicated, we assume that a concept may act as the</text>
+<text top="266" left="108" width="701" height="18" font="5">sense of either a noun or a verb, so the noun-of the verb may have exactly the same sense</text>
+<text top="290" left="108" width="702" height="18" font="5">as the verb; we believe this is true of many nominalizations (e.g. <i>ARRIVAL</i>, <i>LOVE</i>) but</text>
+<text top="314" left="108" width="702" height="18" font="5">as the discussion above showed, it is not quite true of manner-of-motion verb-noun pairs</text>
+<text top="337" left="108" width="702" height="18" font="5">like <i>WALK</i>, since the noun has the specific purpose of Life-Enhancing. This is the analysis</text>
+<text top="362" left="108" width="702" height="18" font="5">which is presented in <b>Figure 13</b>, which can be paraphrased as follows: the sense of a</text>
+<text top="385" left="108" width="702" height="18" font="5">Mom (‘manner of motion’) verb is a motion which has a manner, and its noun (i.e. its</text>
+<text top="409" left="108" width="702" height="18" font="5">nominalization) has the same stem and almost the same sense, but its sense has the added</text>
+<text top="433" left="108" width="314" height="18" font="5">feature of aiming at Life-enhancement.</text>
+<text top="854" left="387" width="83" height="18" font="6"><b>Figure 13</b></text>
+<text top="900" left="108" width="702" height="18" font="5">The other grammatical pattern that signals Life-Enhancing is illustrated by the following</text>
+<text top="924" left="108" width="81" height="18" font="5">examples.</text>
+<text top="972" left="108" width="326" height="18" font="5">(27) a. I went swimming with the kids.</text>
+<text top="995" left="152" width="284" height="18" font="5">b. Would you like to come flying?</text>
+<text top="1019" left="152" width="263" height="18" font="5">c. We went mushroom-picking.</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">377</text>
+<text top="171" left="152" width="281" height="18" font="5">d. Please come paddling with me!</text>
+<text top="219" left="108" width="702" height="18" font="5">If you go swimming then you do it for fun or for fitness, and not to save your life; so you</text>
+<text top="242" left="108" width="702" height="18" font="5">have not been swimming if you swim to the shore after being ship-wrecked. Similarly for</text>
+<text top="266" left="108" width="702" height="18" font="5">all the other examples; if you come flying, the destination is secondary, and most</text>
+<text top="290" left="108" width="702" height="18" font="5">probably we will take off and land at the same place; if you go mushroom-picking this is</text>
+<text top="314" left="108" width="442" height="18" font="5">a pastime, not your way of earning a living; and so on. </text>
+<text top="337" left="123" width="687" height="18" font="5">Unlike the zero-derived nouns, manner-of-movement is only one of many possibilities,</text>
+<text top="361" left="108" width="702" height="18" font="5">as illustrated by the example of mushroom-picking. Almost any activity which can be</text>
+<text top="385" left="108" width="702" height="18" font="5">done for the sake of Life-Enhancing qualifies - fishing, painting, singing, etc. - but we</text>
+<text top="409" left="108" width="702" height="18" font="5">cannot go (or come) working because Working conflicts fundamentally with the purpose</text>
+<text top="432" left="108" width="702" height="18" font="5">of fun or fitness. However, there are some exceptions which we cannot explain: we cannot</text>
+<text top="456" left="108" width="702" height="18" font="5">go cooking, eating, coffee-drinking, chatting or sleeping, however life-enhancing these</text>
+<text top="480" left="108" width="702" height="18" font="5">activities may be. Nor can we explain why some examples of the grammatical pattern</text>
+<text top="504" left="108" width="702" height="18" font="5">define traditional activities which were (and are) done as jobs: we would go harvesting,</text>
+<text top="528" left="108" width="702" height="18" font="5">hay-making or fruit-picking for money rather than for fun or fitness. However the main</text>
+<text top="551" left="108" width="701" height="18" font="5">point is that we can easily go or come cycling, and that when we do so we are doing it for</text>
+<text top="575" left="108" width="112" height="18" font="5">fun or fitness.</text>
+<text top="599" left="123" width="687" height="18" font="5">The grammatical pattern is more complicated than the zero-derived nouns discussed</text>
+<text top="623" left="108" width="702" height="18" font="5">earlier. Indeed, we cannot claim to understand the grammatical pattern fully, as will</text>
+<text top="646" left="108" width="702" height="18" font="5">become clear below. Its first part is one of the verbs <i>GO</i> and <i>COME</i>, which have their</text>
+<text top="670" left="108" width="701" height="18" font="5">normal senses as deictically restricted verbs of direction-of-motion. You can either go or</text>
+<text top="694" left="108" width="702" height="18" font="5">come swimming according to the deictic status of the destination, the swimming-place.</text>
+<text top="718" left="108" width="702" height="18" font="5">However, in this pattern it is not possible to define the destination more precisely in the</text>
+<text top="741" left="108" width="86" height="18" font="5">usual way:</text>
+<text top="789" left="108" width="355" height="18" font="5">(28) a. I went (*swimming) to the seaside.</text>
+<text top="813" left="152" width="310" height="18" font="5">b. I went *(swimming) at the seaside.</text>
+<text top="860" left="108" width="702" height="18" font="5">The normal possibilities for spatial location seem to be replaced by those of the second</text>
+<text top="884" left="108" width="702" height="18" font="5">word: so <i>at the seaside</i> is possible in (b) because it depends on <i>swimming</i>, but the</text>
+<text top="908" left="108" width="702" height="18" font="5">expected dependency between <i>went</i> and <i>to the seaside</i> in (a) is suppressed. We cannot</text>
+<text top="931" left="108" width="702" height="18" font="5">explain how this verb can have a deictically specified direction but does not allow a</text>
+<text top="955" left="108" width="203" height="18" font="5">normal direction adjunct.</text>
+<text top="979" left="123" width="687" height="18" font="5">The other part of the pattern is the ‘ing-word’, which is much harder to analyse. This</text>
+<text top="1003" left="108" width="702" height="18" font="5">is partly because it is hard to distinguish from two other constructions: the non-movement</text>
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">378</text>
+<text top="171" left="108" width="702" height="18" font="5">pattern in (a) below, which has negative overtones, and the pattern in (b) where the</text>
+<text top="195" left="108" width="499" height="18" font="5">ordinary <i>GO</i> or <i>COME</i> is combined with a participial adjunct.</text>
+<text top="242" left="108" width="445" height="18" font="5">(29) a. Don’t go/*come saying anything you’ll regret.</text>
+<text top="266" left="152" width="562" height="18" font="5">b. He went/came/walked (to the woods) humming his favourite tune.</text>
+<text top="314" left="108" width="702" height="18" font="5">Another problem is that it is quite unclear what kind of word the ing-word is. Examples</text>
+<text top="337" left="108" width="702" height="18" font="5">like (a) in (29) suggest that it may be a participle, i.e. a verb, but (b) shows that it can be</text>
+<text top="361" left="108" width="702" height="18" font="5">a noun or adjective, because there is no verb <i>MUSHROOM-PICK</i>, as can be seen from</text>
+<text top="385" left="108" width="28" height="18" font="5">(c).</text>
+<text top="432" left="108" width="318" height="18" font="5">(30) a. We went picking mushrooms. </text>
+<text top="456" left="152" width="263" height="18" font="5">b. We went mushroom-picking.</text>
+<text top="480" left="152" width="223" height="18" font="5">c. *We mushroom-picked.</text>
+<text top="527" left="108" width="702" height="18" font="5">Because of these uncertainties we shall not try to suggest a proper analysis for the  syntax</text>
+<text top="552" left="108" width="702" height="18" font="5">of the ing-word, nor for the semantics of <i>GO</i>/<i>COME</i>, so the diagram in <b>Figure 14</b> is</text>
+<text top="575" left="108" width="702" height="18" font="5">particularly provisional in syntax and in its treatment of the deictic meaning. In the</text>
+<text top="599" left="108" width="702" height="18" font="5">semantics, ‘There’ summarises the complex contrast between Going and Coming and is</text>
+<text top="623" left="108" width="702" height="18" font="5">a reminder of the need to explain the ban on ordinary direction adjuncts that we saw in</text>
+<text top="647" left="108" width="121" height="18" font="5">example (27a).</text>
+<text top="990" left="387" width="83" height="18" font="6"><b>Figure 14</b></text>
+</page>
+<page number="31" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="15" size="20" family="Times" color="#000000"/>
+<text top="132" left="556" width="254" height="16" font="7"><i>Re-cycling in the encyclopedia</i>          </text>
+<text top="132" left="784" width="26" height="16" font="1">379</text>
+<text top="171" left="108" width="702" height="18" font="5">The details of the analysis are unimportant for our main point, which is the possibility of</text>
+<text top="195" left="108" width="702" height="18" font="8"><i>go cycling</i> where the cycling has to be taken as something we do for fun or fitness. Like</text>
+<text top="219" left="108" width="702" height="18" font="5">the zero-derivation pattern discussed earlier, this one defines the purpose as Life-</text>
+<text top="242" left="108" width="702" height="18" font="5">enhancing, but as we have seen (24) this is not the only purpose that can be forced on</text>
+<text top="266" left="108" width="702" height="18" font="5">Cycling by the linguistic context. The flexibility of purpose suggests a semantic analysis</text>
+<text top="290" left="108" width="702" height="18" font="5">of Cycling in which the purpose is left undefined, so that it can be filled in by the</text>
+<text top="314" left="108" width="624" height="18" font="5">‘construction meaning’ as illustrated by the two constructions just discussed. </text>
+<text top="361" left="108" width="120" height="18" font="6"><b>9 Conclusions</b></text>
+<text top="408" left="108" width="702" height="18" font="5">Although we have left some important threads dangling loose, we have been able to</text>
+<text top="432" left="108" width="702" height="18" font="5">develop a reasonably insightful semantic analysis of Cycling which reveals its links to the</text>
+<text top="456" left="108" width="702" height="18" font="5">notions Bicycle, Riding, Moving, Pedalling and a number of others for which there are</text>
+<text top="480" left="108" width="702" height="18" font="5">no established names such as Life-enhancing and Mere-riding. The most important gap</text>
+<text top="503" left="108" width="702" height="18" font="5">in the semantic analysis is the concept Cycle (as in <i>the cycle of the seasons</i>), which we</text>
+<text top="527" left="108" width="424" height="18" font="5">think is probably closer to Pedalling than to Cycling.</text>
+<text top="551" left="123" width="687" height="18" font="5">While discussing Cycling, however, we have tried to establish a number of general</text>
+<text top="575" left="108" width="702" height="18" font="5">theoretical principles which we now summarise in order to stress that this kind of work</text>
+<text top="598" left="108" width="702" height="18" font="5">cannot be done in a theoretical vacuum; indeed, we feel that it depends on a general</text>
+<text top="622" left="108" width="159" height="18" font="5">theory of cognition.</text>
+<text top="641" left="108" width="702" height="26" font="15">3 Concepts are recycled rather than duplicated - for example, the concept Bicycle is</text>
+<text top="670" left="108" width="702" height="18" font="5">referred to directly in the definition of Cycling, rather than represented in that definition</text>
+<text top="693" left="108" width="357" height="18" font="5">by some other concept which is similar to it.</text>
+<text top="712" left="108" width="702" height="26" font="15">3 Recycling means that the sense of one word may be recycled as part of the definition</text>
+<text top="741" left="108" width="702" height="18" font="5">of another; so the concept Bicycle which defines Cycling is the same concept as the one</text>
+<text top="765" left="108" width="338" height="18" font="5">that is the sense of the lexeme <i>BICYCLE</i>. </text>
+<text top="783" left="108" width="701" height="26" font="15">3 If non-language concepts are recycled as word senses, and vice versa, language</text>
+<text top="812" left="108" width="702" height="18" font="5">contributes to the defining of concepts in the same way as other kinds of experience do,</text>
+<text top="836" left="108" width="702" height="18" font="5">with its contribution ranging from zero (e.g. Bicycle) to almost totality (e.g. Riding or,</text>
+<text top="860" left="108" width="207" height="18" font="5">perhaps, Life-enhancing).</text>
+<text top="878" left="108" width="702" height="26" font="15">3 Network notations reflect recycling by assigning to each concept a single point on which</text>
+<text top="907" left="108" width="311" height="18" font="5">many different relationships converge.</text>
+<text top="926" left="108" width="702" height="26" font="15">3 Networks are a better model for conceptual structures than frames are because they do</text>
+<text top="955" left="108" width="176" height="18" font="5">not imply boundaries.</text>
+<text top="973" left="108" width="702" height="26" font="15">3 Networks and recycling are hard to reconcile with the traditional distinction between</text>
+<text top="1002" left="108" width="701" height="18" font="5">encyclopedic and dictionary meaning, because a network allows no such modular</text>
+</page>
+<page number="32" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="171" height="16" font="1">          <i>Hudson &amp; Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="1">380</text>
+<text top="171" left="108" width="702" height="18" font="5">distinctions and any concept defined in the dictionary would also be recycled as a focus</text>
+<text top="195" left="108" width="241" height="18" font="5">of encyclopedic relationships.</text>
+<text top="266" left="108" width="80" height="16" font="14"><b>References</b></text>
+<text top="307" left="108" width="581" height="16" font="1">Anderson, J. (1993). Problem solving and learning. <i>American Psychologist </i><b>48</b>. 35-44</text>
+<text top="327" left="108" width="609" height="16" font="1">Barsalou, L. (1992). Frames, concepts and conceptual fields. In Lehrer and Kittay, 21-74.</text>
+<text top="348" left="108" width="575" height="16" font="1">Chaffin, R. (1992). The concept of a semantic relation. In Lehrer and Kittay, 253-88.</text>
+<text top="369" left="108" width="679" height="16" font="1">Fillmore, C. (1985). Frames and the semantics of understanding. <i>Quaderni di Semantica </i><b>6</b>. 223-53.</text>
+<text top="389" left="108" width="702" height="16" font="1">Fillmore, C. and Atkins, S. (1992). Toward a frame-based lexicon: the semantics of RISK and its</text>
+<text top="410" left="123" width="283" height="16" font="1">neighbours. In Lehrer and Kittay, 75-102.</text>
+<text top="430" left="108" width="702" height="16" font="1">Hudson, R. (1985). Some basic assumptions about linguistic and non-linguistic knowledge. <i>Quaderni di</i></text>
+<text top="451" left="123" width="138" height="16" font="7"><i>Semantica </i><b>6</b>. 284-7.</text>
+<text top="472" left="108" width="444" height="16" font="1">Hudson, R. (1990). <i>English Word Grammar.</i> Oxford: Blackwell.</text>
+<text top="492" left="108" width="384" height="16" font="1">Hudson, R. (1995). <i>Word Meaning.</i> London: Routledge.</text>
+<text top="513" left="108" width="359" height="16" font="1">Hudson,R.(1998). <i>Encyclopedia of Word Grammar.</i></text>
+<text top="533" left="123" width="315" height="16" font="1"> http://www.phon.ucl.ac.uk/home/dick/papers.</text>
+<text top="554" left="108" width="537" height="16" font="1">Jackendoff, R. (1983). <i>Semantics and Cognition.</i> Cambridge, MA: MIT Press.</text>
+<text top="574" left="108" width="650" height="16" font="1">Lakoff, G. (1987). <i>Women, Fire and Dangerous Things. </i>Chicago: University of Chicago Press.</text>
+<text top="595" left="108" width="702" height="16" font="1">Langacker, R. (1987). <i>Foundations of Cognitive Grammar I. Theoretical Prerequisites.</i> Stanford:</text>
+<text top="615" left="123" width="178" height="16" font="1">Stanford University Press.</text>
+<text top="636" left="108" width="702" height="16" font="1">Lehrer, A. and Kittay, E. (1992). <i>Frames, Fields and Contrasts. New essays in semantic and lexical</i></text>
+<text top="656" left="123" width="329" height="16" font="7"><i>organization. </i>Hillsdale, NJ: Lawrence Erlbaum.</text>
+<text top="677" left="108" width="703" height="16" font="1">Levin, B. (1993). <i>English verb classes and alternations: a preliminary investigation.</i> Chicago: University</text>
+<text top="698" left="123" width="119" height="16" font="1">of Chicago Press.</text>
+<text top="718" left="108" width="702" height="16" font="1">Luger, G. and Stubblefield, W. (1993). <i>Artificial Intelligence. Structures and Strategies for Complex</i></text>
+<text top="739" left="123" width="466" height="16" font="7"><i>Problem Solving. Second Edition. </i>New York: Benjamin/Cummings.</text>
+<text top="759" left="108" width="401" height="16" font="1">Pinker, S. (1997). <i>How the Mind Works. </i>London: Penguin.</text>
+<text top="780" left="108" width="598" height="16" font="1">Reisberg, D. (1997). <i>Cognition. Exploring the Science of the Mind. </i>New York: Norton.</text>
+<text top="800" left="108" width="702" height="16" font="1">Rosch, E. (1978). Principles of categorisation. In: Rosch, E. and Lloyd, B. (eds.) <i>Cognition and</i></text>
+<text top="821" left="123" width="447" height="16" font="7"><i>categorisation. </i>Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.</text>
+<text top="841" left="108" width="702" height="16" font="1">Schank, R. and Rieger, C. 1974. Inference and the computer understanding of natural language. <i>Artificial</i></text>
+<text top="862" left="123" width="164" height="16" font="7"><i>Intelligence </i><b>5</b>. 373-412.</text>
+<text top="883" left="108" width="326" height="16" font="1">Slobin, D. (1996). Mind, code and text. Mimeo.</text>
+<text top="903" left="108" width="702" height="16" font="1">Sowa, J. (1984). <i>Conceptual Structures: Information Processing in Mind and Machine.</i> Reading, MA:</text>
+<text top="924" left="123" width="118" height="16" font="1">Addison-Wesley.</text>
+<text top="944" left="108" width="584" height="16" font="1">Wierzbicka, A. (1985). <i>Lexicography and Conceptual Analysis.</i> Ann Arbor: Karoma.</text>
+<text top="965" left="108" width="527" height="16" font="1">Wierzbicka, A. (1988). <i>The Semantics of Grammar. </i>Amsterdam: Benjamins.</text>
+<text top="985" left="108" width="636" height="16" font="1">Wierzbicka, A. (1996). <i>Semantics: Primes and Universals. </i>Oxford: Oxford University Press.</text>
+</page>
+</pdf2xml>

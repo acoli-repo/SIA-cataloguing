@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="36" family="Times" color="#000000"/>
+	<fontspec id="6" size="21" family="Times" color="#000000"/>
+	<fontspec id="7" size="20" family="Times" color="#000000"/>
+	<fontspec id="8" size="17" family="Times" color="#000000"/>
+<text top="1048" left="123" width="6" height="11" font="0">*</text>
+<text top="1053" left="129" width="552" height="16" font="1">This short note corresponds to parts of a chapter of Savoia &amp; Manzini (in prep.)</text>
+<text top="133" left="108" width="367" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 9 (1997)</text>
+<text top="185" left="108" width="377" height="32" font="4"><i><b>Null subjects without</b></i><b> pro</b></text>
+<text top="181" left="486" width="11" height="19" font="6"><i><b>*</b></i></text>
+<text top="271" left="108" width="418" height="18" font="3">M. RITA MANZINI &amp; LEONARDO M. SAVOIA</text>
+<text top="368" left="143" width="76" height="18" font="7"><b>Abstract</b></text>
+<text top="414" left="143" width="631" height="16" font="1">We argue that the notion of <i>pro</i> meets both empirical and theoretical difficulties within the</text>
+<text top="435" left="143" width="631" height="16" font="1">minimalist framework of Chomsky (1995). We present an alternative theory which gives up</text>
+<text top="455" left="143" width="631" height="16" font="1">pronominal empty categories, as well as DP-movement, in favor of an operation of feature</text>
+<text top="475" left="143" width="631" height="16" font="1">movement which relates thematic to inflectional positions. The proposed analysis is</text>
+<text top="496" left="143" width="631" height="16" font="1">compatible with a particularly simple formulation of the null subject parameter, which</text>
+<text top="516" left="143" width="631" height="16" font="1">reinterprets  strong and weak features as overtly realized and non-overtly realized features</text>
+<text top="536" left="143" width="632" height="16" font="1">respectively, while accounting for subject clitic varieties, such as Northern Italian dialects, as</text>
+<text top="557" left="143" width="407" height="16" font="1">well as classical null subject ones, such as standard Italian.</text>
+<text top="622" left="108" width="702" height="18" font="3">In this note we shall first argue that the notion of <i>pro</i> meets both empirical and</text>
+<text top="646" left="108" width="701" height="18" font="3">theoretical difficulties within the minimalist framework of  Chomsky (1995).  We shall</text>
+<text top="670" left="108" width="702" height="18" font="3">therefore present an alternative theory which gives up pronominal empty categories, as</text>
+<text top="694" left="108" width="701" height="18" font="3">well as DP-movement, in favor of an operation of feature movement which relates</text>
+<text top="718" left="108" width="701" height="18" font="3">thematic to inflectional positions, as first proposed by Manzini and Roussou (1997). As</text>
+<text top="742" left="108" width="702" height="18" font="3">we shall show, the analysis that we propose is compatible with a particularly simple</text>
+<text top="766" left="108" width="702" height="18" font="3">formulation of the null subject parameter, which reinterprets  strong and weak features</text>
+<text top="790" left="108" width="702" height="18" font="3">as overtly realized and non-overtly realized features respectively, while accounting for</text>
+<text top="814" left="108" width="702" height="18" font="3">subject clitic varieties, such as Northern Italian dialects, as well as classical null subject</text>
+<text top="838" left="108" width="243" height="18" font="3">ones, such as standard Italian.</text>
+<text top="862" left="123" width="687" height="18" font="3">Borer (1986) was first to point out that within a principles and parameters framework,</text>
+<text top="886" left="108" width="472" height="18" font="3">expletive <i>pro</i> is redundant in examples such as Italian (1):</text>
+<text top="934" left="108" width="168" height="18" font="3">(1) <i>Telefona Gianni</i></text>
+<text top="957" left="143" width="131" height="18" font="3">telephones John</text>
+<text top="981" left="143" width="149" height="18" font="3">“John telephones”</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="20" family="PFDHLI+MSTT31c73a00" color="#000000"/>
+<text top="132" left="162" width="125" height="16" font="8"><i>Manzini &amp; Savoia</i></text>
+<text top="132" left="108" width="9" height="16" font="1">2</text>
+<text top="189" left="108" width="702" height="18" font="3">Since Case, Agreement and thematic properties are all borne by <i>Gianni</i>, it is difficult to</text>
+<text top="213" left="108" width="702" height="18" font="3">see how expletive <i>pro</i> can be justified except on strictly theory-internal grounds, notably</text>
+<text top="237" left="108" width="702" height="18" font="3">with respect to the Extended Projection Principle (EPP) of Chomsky (1981). Within the</text>
+<text top="261" left="108" width="702" height="18" font="3">minimalist framework of Chomsky (1995), even this justification for <i>pro</i> becomes</text>
+<text top="285" left="108" width="702" height="18" font="3">problematic. Indeed, as first pointed out by Platzack (1994), the minimalist EPP is</text>
+<text top="309" left="108" width="702" height="18" font="3">perfectly consistent with a derivation for (1) which takes the D-feature of I to be weak.</text>
+<text top="332" left="108" width="702" height="18" font="3">If so, the [Spec, IP] position remains unrealized, by <i>pro</i> or other material, before Spell-</text>
+<text top="356" left="108" width="702" height="18" font="3">Out, while after Spell-Out the postverbal DP raises to this position to satisfy the weak</text>
+<text top="380" left="108" width="701" height="18" font="3">D-feature. Alternatively, as proposed by Alexiadou and Anagnostopoulou (1997), Nash</text>
+<text top="404" left="108" width="701" height="18" font="3">and Rouveret (1997), Pollock (1996), the D-feature of I is strong, but V is sufficient to</text>
+<text top="428" left="108" width="400" height="18" font="3">check it, in the absence of DP-raising and/or <i>pro</i>.</text>
+<text top="452" left="123" width="687" height="18" font="3">The problem takes on a different shape when it come to argument <i>pro</i>, as in Italian (2):</text>
+<text top="500" left="108" width="106" height="18" font="3">(2) <i>Telefona</i></text>
+<text top="524" left="143" width="87" height="18" font="3">telephones</text>
+<text top="548" left="143" width="146" height="18" font="3">“S/he telephones”</text>
+<text top="596" left="108" width="702" height="18" font="3">In this case, within the principles and parameters framework, <i>pro</i> is the only element able</text>
+<text top="620" left="108" width="111" height="18" font="3">to carry Case, </text>
+<text top="614" left="219" width="12" height="26" font="9"></text>
+<text top="620" left="231" width="579" height="18" font="3">- and Agreement features. Within a minimalist framework, its elimination</text>
+<text top="644" left="108" width="702" height="18" font="3">is correspondingly more difficult. Consider first the approach of Platzack (1994),</text>
+<text top="668" left="108" width="702" height="18" font="3">whereby the D-feature of I is weak in a <i>pro</i>-drop language like Italian. <i>pro</i> is necessary</text>
+<text top="692" left="108" width="702" height="18" font="3">in (2) to check this D-feature; but if it is weak, we expect <i>pro</i> to be in VP-internal</text>
+<text top="715" left="108" width="702" height="18" font="3">position before Spell-Out. As Donati and Tomaselli (1997) point out, an argument</text>
+<text top="739" left="108" width="701" height="18" font="3">against this analysis is provided by the evidence presented by Cardinaletti (1994), to the</text>
+<text top="763" left="108" width="702" height="18" font="3">effect that <i>pro</i> cannot be in the position of the postverbal subject in the overt syntax. A</text>
+<text top="787" left="108" width="702" height="18" font="3">different kind of problem holds for theories such as Pollock’s (1997), that have recourse</text>
+<text top="811" left="108" width="702" height="18" font="3">to V to check the D-feature of I, taken to be strong. In these theories, which apparently</text>
+<text top="835" left="108" width="702" height="18" font="3">dispense with <i>pro</i> altogether, it is not clear what derives its argument interpretation. In</text>
+<text top="859" left="108" width="702" height="18" font="3">particular, within the framework of Chomsky (1995), thematic roles are conceived of as</text>
+<text top="883" left="108" width="702" height="18" font="3">assigned to XP positions within a VP-shell, following Hale and Keyser (1993). If so, it</text>
+<text top="907" left="108" width="702" height="18" font="3">is not clear how they could be picked up by a V, albeit one capable of satisfying the EPP.</text>
+<text top="931" left="123" width="687" height="18" font="3">In short, the role of  <i>pro</i> in principles and parameters grammars is largely redundant,</text>
+<text top="955" left="108" width="702" height="18" font="3">providing a clear simplicity argument in favor of its elimination. At the same time, there</text>
+<text top="979" left="108" width="702" height="18" font="3">is one respect in which it appears to be uneliminable, namely the carrying of thematic</text>
+<text top="1003" left="108" width="702" height="18" font="3">properties. In addressing this apparent contradiction, we shall base ourselves on the work</text>
+<text top="1027" left="108" width="701" height="18" font="3">of Manzini and Roussou (1997), who independently build a grammar which eliminates</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>N u l l</i></text>
+<text top="152" left="108" width="139" height="16" font="8"><i>subjects without</i> pro</text>
+<text top="132" left="801" width="9" height="16" font="1">3</text>
+<text top="209" left="108" width="145" height="18" font="2"><i>PRO</i> and A-trace </text>
+<text top="233" left="123" width="686" height="18" font="3">The first crucial step in this grammar is a treatment of thematic properties as features,</text>
+<text top="257" left="108" width="702" height="18" font="3">also argued for by Hornstein (1996) as a necessary move in building a theory of control</text>
+<text top="281" left="108" width="702" height="18" font="3">without <i>PRO</i>. By feature, we understand simply an elementary property of syntax, that</text>
+<text top="305" left="108" width="702" height="18" font="3">basic syntactic processes apply to. The choice of a theory of thematic structure is</text>
+<text top="329" left="108" width="702" height="18" font="3">relatively less important. If a VP-shell approach is adopted, along the lines suggested by</text>
+<text top="353" left="108" width="702" height="18" font="3">Larson (1988), Hale and Keyser (1993), Chomsky (1995), we can construe thematic</text>
+<text top="377" left="108" width="702" height="18" font="3">features as corresponding to primitive predicates of some sort. If we adopt the Aspectual</text>
+<text top="401" left="108" width="701" height="18" font="3">approach of Borer (1994), Arad (1996), we can identify thematic features with Asp</text>
+<text top="425" left="108" width="701" height="18" font="3">features, such as  Or (Originator of the event) or Meas (Measure of the event). For</text>
+<text top="449" left="108" width="702" height="18" font="3">present purposes, we shall use a VP-shell notation, where each V bears an Asp</text>
+<text top="473" left="108" width="702" height="18" font="3">specification. Concretly, under this approach, the predicate shell corresponding to a</text>
+<text top="496" left="108" width="402" height="18" font="3">simple intransitive sentence takes the form in (3):</text>
+<text top="544" left="108" width="42" height="18" font="3">(3) [</text>
+<text top="554" left="150" width="29" height="11" font="0">VOrP</text>
+<text top="544" left="179" width="65" height="18" font="3"> <i>John</i> V</text>
+<text top="554" left="243" width="13" height="11" font="0">Or</text>
+<text top="544" left="256" width="12" height="18" font="3"> [</text>
+<text top="554" left="268" width="16" height="11" font="0">VP</text>
+<text top="544" left="284" width="113" height="18" font="3"> <i>telephoned</i> ]]</text>
+<text top="592" left="123" width="687" height="18" font="3">The second crucial step in Manzini and Roussou’s (1997) elimination of <i>PRO</i> and A-</text>
+<text top="616" left="108" width="703" height="18" font="3">trace is represented by the assumption that thematic, hence aspectual, features are weak,</text>
+<text top="640" left="108" width="702" height="18" font="3">and do not therefore need to be satisfied as soon as they are introduced within the</text>
+<text top="664" left="108" width="702" height="18" font="3">derivation. In other words, DP’s are not first introduced in a derivation in their thematic</text>
+<text top="688" left="108" width="702" height="18" font="3">position, where they are arguably never seen. Rather DP’s are typically introduced in the</text>
+<text top="712" left="108" width="702" height="18" font="3">derivation to satisfy strong features such as D. Concretely, the classical derivation of a</text>
+<text top="736" left="108" width="701" height="18" font="3">simple intransitive sentence implies that a structure of the type in (3) is created at some</text>
+<text top="760" left="108" width="702" height="18" font="3">stage of the derivation, while the need for feature checking subsequently determines</text>
+<text top="784" left="108" width="677" height="18" font="3">movement of the subject from its original position to [Spec, IP], as indicated in (4):</text>
+<text top="832" left="108" width="42" height="18" font="3">(4) [</text>
+<text top="841" left="150" width="14" height="11" font="0">IP </text>
+<text top="832" left="164" width="68" height="18" font="2"><i>John</i>  I [</text>
+<text top="841" left="232" width="29" height="11" font="0">VOrP</text>
+<text top="832" left="261" width="63" height="18" font="3"> John V</text>
+<text top="841" left="325" width="13" height="11" font="0">Or</text>
+<text top="832" left="338" width="12" height="18" font="3"> [</text>
+<text top="841" left="349" width="16" height="11" font="0">VP</text>
+<text top="832" left="365" width="120" height="18" font="3"> <i>telephoned</i> ]]]</text>
+<text top="879" left="108" width="701" height="18" font="3">What Manzini and Roussou (1997) propose instead is that since Or is not a strong</text>
+<text top="903" left="108" width="702" height="18" font="3">property, <i>John</i> is merged directly into [Spec, IP] to satisfy the strong D-feature of I, as</text>
+<text top="927" left="108" width="130" height="18" font="3">indicated in (5):</text>
+<text top="975" left="108" width="42" height="18" font="3">(5) [</text>
+<text top="985" left="150" width="14" height="11" font="0">IP </text>
+<text top="975" left="164" width="69" height="18" font="2"><i>John</i>  I [</text>
+<text top="985" left="232" width="29" height="11" font="0">VOrP</text>
+<text top="975" left="261" width="20" height="18" font="3"> V</text>
+<text top="985" left="281" width="13" height="11" font="0">Or</text>
+<text top="975" left="294" width="12" height="18" font="3"> [</text>
+<text top="985" left="306" width="16" height="11" font="0">VP</text>
+<text top="975" left="322" width="120" height="18" font="3"> <i>telephoned</i> ]]]</text>
+<text top="1023" left="123" width="686" height="18" font="3">Remember that the one respect in which <i>pro</i> appears to be motivated in structures of</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="125" height="16" font="8"><i>Manzini &amp; Savoia</i></text>
+<text top="132" left="108" width="9" height="16" font="1">4</text>
+<text top="189" left="108" width="702" height="18" font="3">the type in (2) is as a conveyor of thematic properties to inflectional positions. Under the</text>
+<text top="213" left="108" width="701" height="18" font="3">grammar in (5), the problem of connecting DP positions to Asp positions is generalized</text>
+<text top="237" left="108" width="702" height="18" font="3">to lexical subjects as well. On the other hand, much work under the heading of the VP-</text>
+<text top="261" left="108" width="701" height="18" font="3">Internal Subject Hypothesis, from Koopman and Sportiche (1991) onwards, argues that</text>
+<text top="285" left="108" width="702" height="18" font="3">the relation between Asp and DP is a movement one, precisely as in (4), since it obeys</text>
+<text top="309" left="108" width="701" height="18" font="3">constraints on movement such as Chomsky’s (1995) MLC, or some other version of</text>
+<text top="332" left="108" width="702" height="18" font="3">Minimality. Taking this evidence into account, Manzini and Roussou (1997) propose that</text>
+<text top="356" left="108" width="702" height="18" font="3">the derivation of (5) simply includes a covert process of feature movement, whereby Or</text>
+<text top="380" left="108" width="702" height="18" font="3">is attracted to the checking domain of  DP. Technically, we say that every DP is</text>
+<text top="404" left="108" width="702" height="18" font="3">associated with a [-interpretable] Asp feature that needs to be checked. It is on order to</text>
+<text top="428" left="108" width="703" height="18" font="3">check this feature that a [+interpretable] Asp moves to the checking domain of DP,</text>
+<text top="452" left="108" width="702" height="18" font="3">adjoining to the I head. By this mechanism of feature movement, the Or role is conveyed</text>
+<text top="476" left="108" width="345" height="18" font="3">to the lexical DP subject in (6), as desired:</text>
+<text top="524" left="108" width="42" height="18" font="3">(6) [</text>
+<text top="534" left="150" width="14" height="11" font="0">IP </text>
+<text top="524" left="164" width="120" height="18" font="2"><i>John</i>  [Or - I] [</text>
+<text top="534" left="284" width="29" height="11" font="0">VOrP</text>
+<text top="524" left="313" width="20" height="18" font="3"> V</text>
+<text top="534" left="333" width="13" height="11" font="0">Or</text>
+<text top="524" left="346" width="12" height="18" font="3"> [</text>
+<text top="534" left="358" width="16" height="11" font="0">VP</text>
+<text top="524" left="373" width="120" height="18" font="3"> <i>telephoned</i> ]]]</text>
+<text top="572" left="123" width="687" height="18" font="3">The empirical debate between the derivation in (4) and the derivation in (6) centers on</text>
+<text top="596" left="108" width="702" height="18" font="3">the evidence for or against the presence of a copy of the lexical DP in thematic position.</text>
+<text top="620" left="108" width="702" height="18" font="3">In this debate, a theory of Asp-movement arguably has the upper hand. Chomsky (1995)</text>
+<text top="644" left="108" width="701" height="18" font="3">notices that unlike traces of wh-movement, traces of DP-movement do not give rise to</text>
+<text top="668" left="108" width="702" height="18" font="3">reconstruction effects. Thus under the derivation in (7), we might expect <i>each other</i> to</text>
+<text top="692" left="108" width="697" height="18" font="3">receive a bound interpretation in its reconstructed position; this is in fact not possible:</text>
+<text top="739" left="108" width="42" height="18" font="3">(7) [</text>
+<text top="749" left="150" width="11" height="11" font="0">IP</text>
+<text top="739" left="161" width="119" height="18" font="3"> <i>Each other</i> I [</text>
+<text top="749" left="280" width="16" height="11" font="0">VP</text>
+<text top="739" left="295" width="151" height="18" font="3"> <i>seem to the boys</i> [</text>
+<text top="749" left="446" width="11" height="11" font="0">IP</text>
+<text top="739" left="457" width="122" height="18" font="3"> each other <i>to</i> [</text>
+<text top="749" left="579" width="16" height="11" font="0">VP</text>
+<text top="739" left="595" width="168" height="18" font="3"> each other <i>sleep</i> ]]]]</text>
+<text top="787" left="108" width="702" height="18" font="3">Chomsky (1995) therefore proposes that reconstruction should be understood as a</text>
+<text top="811" left="108" width="702" height="18" font="3">property of operator-variable interpretation, and therefore restricted to wh-traces. In the</text>
+<text top="835" left="108" width="701" height="18" font="3">grammar that we adopt, there is no need for such a stipulation. The DP-trace in the</text>
+<text top="859" left="108" width="702" height="18" font="3">embedded [Spec, IP] in (7) can be eliminated simply by making the natural assumption</text>
+<text top="883" left="108" width="702" height="18" font="3">that infinitival I, unlike finite I, is not associated with a strong D-feature. As for raising</text>
+<text top="907" left="108" width="702" height="18" font="3">from thematic position to matrix [Spec, IP], we can express it precisely as movement of</text>
+<text top="931" left="108" width="702" height="18" font="3">an Asp feature to the checking domain of DP. Thus the derivation in (7) translates into</text>
+<text top="955" left="108" width="168" height="18" font="3">the derivation in (8):</text>
+<text top="1003" left="108" width="42" height="18" font="3">(8) [</text>
+<text top="1013" left="150" width="11" height="11" font="0">IP</text>
+<text top="1003" left="161" width="175" height="18" font="3"> <i>Each other</i>  [Or - I] [</text>
+<text top="1013" left="336" width="16" height="11" font="0">VP</text>
+<text top="1003" left="352" width="151" height="18" font="3"> <i>seem to the boys</i> [</text>
+<text top="1013" left="503" width="11" height="11" font="0">IP</text>
+<text top="1003" left="514" width="33" height="18" font="3"> <i>to</i> [</text>
+<text top="1013" left="547" width="29" height="11" font="0">VOrP</text>
+<text top="1003" left="575" width="20" height="18" font="3"> V</text>
+<text top="1013" left="595" width="13" height="11" font="0">Or</text>
+<text top="1003" left="608" width="12" height="18" font="3"> [</text>
+<text top="1013" left="620" width="16" height="11" font="0">VP</text>
+<text top="1003" left="636" width="85" height="18" font="3"> <i>sleep</i> ]]]]]</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>N u l l</i></text>
+<text top="152" left="108" width="139" height="16" font="8"><i>subjects without</i> pro</text>
+<text top="132" left="801" width="9" height="16" font="1">5</text>
+<text top="209" left="108" width="702" height="18" font="3">Since the only material that moves in (8) is the Or feature, we straightforwardly predict</text>
+<text top="233" left="108" width="702" height="18" font="3">that there is no reconstruction effect for the lexical anaphor, which is directly merged at</text>
+<text top="257" left="108" width="105" height="18" font="3">the matrix I. </text>
+<text top="281" left="123" width="687" height="18" font="3">We are now in a position to proceed to the elimination of argument <i>pro</i> as well. Before</text>
+<text top="305" left="108" width="702" height="18" font="3">turning to classical null subject languages such as Italian, we shall consider Northern</text>
+<text top="329" left="108" width="702" height="18" font="3">Italian dialects, which fall somewhere in between these and classical non-null subject</text>
+<text top="353" left="108" width="702" height="18" font="3">languages. Northern Italian dialects have an obligatory subject clitic, as illustrated with</text>
+<text top="377" left="108" width="701" height="18" font="3">the variety of Firenze in (9). When a lexical subject is present, it doubles the subject</text>
+<text top="401" left="108" width="702" height="18" font="3">clitic; sentences without subject clitic, whether a lexical subject is present or not, are</text>
+<text top="425" left="108" width="127" height="18" font="3">ungrammatical:</text>
+<text top="473" left="108" width="49" height="18" font="3">(9) a.</text>
+<text top="473" left="181" width="170" height="18" font="2"><i>La Maria *(la) viene</i></text>
+<text top="473" left="486" width="61" height="18" font="3">Firenze</text>
+<text top="496" left="181" width="170" height="18" font="3">The Mary she comes</text>
+<text top="520" left="181" width="119" height="18" font="3">“Mary comes”</text>
+<text top="568" left="143" width="15" height="18" font="3">b.</text>
+<text top="568" left="181" width="93" height="18" font="2"><i>*(La) viene</i></text>
+<text top="592" left="181" width="87" height="18" font="3">She comes</text>
+<text top="640" left="108" width="702" height="18" font="3">On the basis of the cluster of properties individuated by Rizzi (1982) as typical of null</text>
+<text top="664" left="108" width="702" height="18" font="3">subject languages, Brandi and Cordin (1989), Rizzi (1986) conclude that Northern Italian</text>
+<text top="688" left="108" width="702" height="18" font="3">dialects are null subject languages, and analyze the obligatory subject clitic as an</text>
+<text top="712" left="108" width="701" height="18" font="3">inflection. The lexical subject in (9a) fills therefore the Spec of this inflection, which</text>
+<text top="736" left="108" width="702" height="18" font="3">Cardinaletti and Roberts (1991) identify with AgrS under the Split-Infl hypothesis of</text>
+<text top="760" left="108" width="410" height="18" font="3">Pollock (1989); <i>pro</i> fills the same position in (9b).</text>
+<text top="784" left="123" width="687" height="18" font="3">Within the framework of Manzini and Roussou (1997), however, a straightforward</text>
+<text top="808" left="108" width="702" height="18" font="3">alternative becomes available. Assuming as before that the subject clitic of Northern</text>
+<text top="832" left="108" width="702" height="18" font="3">Italian dialects is an inflection, associated with a categorial D-feature, it will attract an</text>
+<text top="856" left="108" width="702" height="18" font="3">Asp role. It is the movement of Asp to the subject clitic that contributes an argumental</text>
+<text top="879" left="108" width="704" height="18" font="3">interpretation to the latter. More specifically, following the treatment of object clitics</text>
+<text top="903" left="108" width="702" height="18" font="3">suggested by Sportiche (1992), we shall assume that subject clitics have their own</text>
+<text top="927" left="108" width="255" height="18" font="3">projection, which we shall call I</text>
+<text top="937" left="363" width="12" height="11" font="0">Cl</text>
+<text top="927" left="375" width="435" height="18" font="3">; the derivation of (9b) will then proceed by movement</text>
+<text top="951" left="108" width="99" height="18" font="3">of Meas to I</text>
+<text top="961" left="207" width="12" height="11" font="0">Cl</text>
+<text top="951" left="218" width="93" height="18" font="3">, as in (10):</text>
+<text top="999" left="108" width="34" height="18" font="3">(10)</text>
+<text top="999" left="162" width="7" height="18" font="3">[</text>
+<text top="1009" left="169" width="22" height="11" font="0">IClP</text>
+<text top="999" left="191" width="94" height="18" font="3"> Meas - <i>la</i> [</text>
+<text top="1009" left="284" width="11" height="11" font="0">IP</text>
+<text top="999" left="295" width="60" height="18" font="3"> <i>viene</i> [</text>
+<text top="1009" left="355" width="42" height="11" font="0">VMeasP</text>
+<text top="999" left="397" width="20" height="18" font="3"> V</text>
+<text top="1009" left="417" width="26" height="11" font="0">Meas</text>
+<text top="999" left="443" width="12" height="18" font="3"> [</text>
+<text top="1009" left="455" width="16" height="11" font="0">VP</text>
+<text top="999" left="470" width="76" height="18" font="3"> viene]]]]</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="125" height="16" font="8"><i>Manzini &amp; Savoia</i></text>
+<text top="132" left="108" width="9" height="16" font="1">6</text>
+<text top="189" left="123" width="687" height="18" font="3">The question that arises next is how to treat the doubling of the clitic inflection by a</text>
+<text top="213" left="108" width="702" height="18" font="3">lexical subject in (9a). There are empirical reasons to believe that the subject DP does not</text>
+<text top="237" left="108" width="189" height="18" font="3">itself move to [Spec, I</text>
+<text top="247" left="297" width="12" height="11" font="0">Cl</text>
+<text top="237" left="309" width="501" height="18" font="3">], but to a different position. To begin with, in a number of</text>
+<text top="261" left="108" width="702" height="18" font="3">varieties, for instance the Padova variety studied by Benincà (1994), Poletto (1993), the</text>
+<text top="285" left="108" width="702" height="18" font="3">Neg clitic precedes the 3p subject clitic; the lexical subject however precedes Neg, as</text>
+<text top="309" left="108" width="147" height="18" font="3">illustrated in (11):</text>
+<text top="356" left="108" width="34" height="18" font="3">(11)</text>
+<text top="356" left="162" width="163" height="18" font="2"><i>La Maria no la vien</i></text>
+<text top="356" left="486" width="60" height="18" font="3">Padova</text>
+<text top="380" left="162" width="201" height="18" font="3">The Mary not she comes</text>
+<text top="404" left="162" width="185" height="18" font="3">“Mary does not come”</text>
+<text top="452" left="108" width="702" height="18" font="3">On the assumption that the clitic Neg corresponds to an independent head, the conclusion</text>
+<text top="476" left="108" width="528" height="18" font="3">that the lexical subject is in the Spec of a head higher than I</text>
+<text top="486" left="636" width="12" height="11" font="0">Cl</text>
+<text top="476" left="648" width="162" height="18" font="3"> is forced. Another</text>
+<text top="500" left="108" width="702" height="18" font="3">argument can be based on the interaction of subject clitics with I-to-C movement in</text>
+<text top="524" left="108" width="701" height="18" font="3">questions. This movement always leaves the subject clitic to the right of the inflected</text>
+<text top="548" left="108" width="702" height="18" font="3">verb; the lexical subject however can only appear in a left- or right-peripheral position,</text>
+<text top="572" left="108" width="400" height="18" font="3">as illustrated in (12), with the variety of Modena:</text>
+<text top="620" left="108" width="34" height="18" font="3">(12)</text>
+<text top="620" left="162" width="197" height="18" font="3">a. <i>E-la gnuda la Maria?</i></text>
+<text top="620" left="486" width="67" height="18" font="3">Modena</text>
+<text top="644" left="181" width="177" height="18" font="3">Is-she come the Mary</text>
+<text top="668" left="181" width="157" height="18" font="3">“Has Mary come?”</text>
+<text top="716" left="143" width="15" height="18" font="3">b.</text>
+<text top="716" left="181" width="181" height="18" font="2"><i>La Maria e-la gnuda?</i></text>
+<text top="739" left="181" width="182" height="18" font="3">The Mary is-she come</text>
+<text top="787" left="143" width="14" height="18" font="3">c.</text>
+<text top="787" left="181" width="194" height="18" font="2"><i>*E’ la Maria la gnuda?</i></text>
+<text top="811" left="181" width="175" height="18" font="3">Is the Mary she come</text>
+<text top="859" left="108" width="702" height="18" font="3">Different approaches are possible to the ungrammaticality of (12c). Poletto (1997)</text>
+<text top="883" left="108" width="702" height="18" font="3">assumes that the lexical subject is in a position above C. Savoia and Manzini (in prep.)</text>
+<text top="907" left="108" width="702" height="18" font="3">on the other hand argue that the lexical subject occupies a Topic position; the</text>
+<text top="931" left="108" width="702" height="18" font="3">impossibility of moving to an operator-like position like C across the Topic-like subject</text>
+<text top="955" left="108" width="702" height="18" font="3">is therefore accounted for by the MLC. In either case, the impossibility of (12c), as</text>
+<text top="979" left="108" width="702" height="18" font="3">opposed to (12a)-(12b), in itself provides an argument against generating the lexical</text>
+<text top="1003" left="108" width="170" height="18" font="3">subject in the same I</text>
+<text top="1013" left="279" width="12" height="11" font="0">Cl</text>
+<text top="1003" left="290" width="520" height="18" font="3"> projection as the subject clitic. Let us assume with Savoia and</text>
+<text top="1027" left="108" width="542" height="18" font="3">Manzini (in prep.) that the preverbal lexical subject is hosted in an I</text>
+<text top="1037" left="649" width="20" height="11" font="0">Top</text>
+<text top="1027" left="668" width="142" height="18" font="3"> position between</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>N u l l</i></text>
+<text top="152" left="108" width="139" height="16" font="8"><i>subjects without</i> pro</text>
+<text top="132" left="801" width="9" height="16" font="1">7</text>
+<text top="209" left="108" width="7" height="18" font="3">I</text>
+<text top="219" left="115" width="12" height="11" font="0">Cl</text>
+<text top="209" left="126" width="297" height="18" font="3"> and C, as indicated in (13), for (9a):</text>
+<text top="257" left="108" width="34" height="18" font="3">(13)</text>
+<text top="257" left="162" width="7" height="18" font="3">[</text>
+<text top="267" left="169" width="30" height="11" font="0">ITopP</text>
+<text top="257" left="199" width="89" height="18" font="3"> <i>la Maria</i> [</text>
+<text top="267" left="288" width="22" height="11" font="0">IClP</text>
+<text top="257" left="310" width="33" height="18" font="3"> <i>la</i> [</text>
+<text top="267" left="343" width="11" height="11" font="0">IP</text>
+<text top="257" left="354" width="68" height="18" font="3"> <i>viene</i> ...</text>
+<text top="305" left="108" width="64" height="18" font="3">While I</text>
+<text top="315" left="172" width="12" height="11" font="0">Cl</text>
+<text top="305" left="183" width="380" height="18" font="3"> is associated with the categorial D-feature, I</text>
+<text top="315" left="564" width="20" height="11" font="0">Top</text>
+<text top="305" left="583" width="227" height="18" font="3"> is associated with a Topic</text>
+<text top="329" left="108" width="703" height="18" font="3">feature. The checking of  this latter feature by the DP subject is therefore independent</text>
+<text top="353" left="108" width="429" height="18" font="3">of the checking of the D-feature by the subject clitic.</text>
+<text top="377" left="123" width="686" height="18" font="3">By the natural assumption that functional projections reflect an universal hierarchy, as</text>
+<text top="401" left="108" width="566" height="18" font="3">also suggested by Cinque (1997), we extend  the nominal inflection I</text>
+<text top="410" left="675" width="12" height="11" font="0">Cl</text>
+<text top="401" left="686" width="124" height="18" font="3"> from Northern</text>
+<text top="425" left="108" width="702" height="18" font="3">Italian dialects to all languages considered here. We are then in a position to provide a</text>
+<text top="449" left="108" width="702" height="18" font="3">first systematization of the null subject parameter within the present framework.</text>
+<text top="473" left="108" width="702" height="18" font="3">Classical non-null subject languages, such as English, are simply languages which</text>
+<text top="496" left="108" width="133" height="18" font="3">overtly realize  I</text>
+<text top="506" left="241" width="12" height="11" font="0">Cl</text>
+<text top="496" left="253" width="557" height="18" font="3">, i.e. overtly check its D-feature, by merging a lexical DP in its Spec.</text>
+<text top="520" left="108" width="594" height="18" font="3">Subject clitic languages, such as Northern Italian dialects, overtly realize I</text>
+<text top="530" left="702" width="12" height="11" font="0">Cl</text>
+<text top="520" left="713" width="97" height="18" font="3"> by merging</text>
+<text top="544" left="108" width="702" height="18" font="3">a specialized subject clitic in its head. In terms of the parametric theory of Chomsky</text>
+<text top="568" left="108" width="205" height="18" font="3">(1995) we can say that I</text>
+<text top="578" left="313" width="12" height="11" font="0">Cl</text>
+<text top="568" left="325" width="485" height="18" font="3"> is associated with a strong D-feature in this case as well.</text>
+<text top="592" left="108" width="606" height="18" font="3">Merger in head rather than Spec position is however employed to check it.</text>
+<text top="616" left="123" width="687" height="18" font="3">Let us then consider classical null subject languages such as standard Italian. It is</text>
+<text top="640" left="108" width="702" height="18" font="3">natural to say, following in essence Platzack (1994), that the D-feature associated with</text>
+<text top="664" left="108" width="7" height="18" font="3">I</text>
+<text top="674" left="115" width="12" height="11" font="0">Cl</text>
+<text top="664" left="126" width="332" height="18" font="3"> in Italian is weak; in other words that I</text>
+<text top="674" left="458" width="12" height="11" font="0">Cl</text>
+<text top="664" left="469" width="340" height="18" font="3"> is not overtly realized. This immediately</text>
+<text top="688" left="108" width="702" height="18" font="3">predicts that lexical material is not merged either in its head or Spec position. In abstract</text>
+<text top="712" left="108" width="701" height="18" font="3">syntax, on the other hand, we can assume that movement of Asp takes place exactly as</text>
+<text top="736" left="108" width="702" height="18" font="3">detailed for English and Northern Italian dialects, triggered by the uninterpretable Asp</text>
+<text top="760" left="108" width="399" height="18" font="3">feature associated with the (weak) D-feature of I</text>
+<text top="770" left="507" width="12" height="11" font="0">Cl</text>
+<text top="760" left="518" width="292" height="18" font="3">.This in turn derives the argumental</text>
+<text top="784" left="108" width="143" height="18" font="3">interpretation of I</text>
+<text top="794" left="252" width="14" height="11" font="0">Cl </text>
+<text top="784" left="266" width="202" height="18" font="3">itself, as detailed in (14):</text>
+<text top="832" left="108" width="34" height="18" font="3">(14)</text>
+<text top="832" left="162" width="7" height="18" font="3">[</text>
+<text top="841" left="169" width="19" height="11" font="0">IclP</text>
+<text top="832" left="188" width="66" height="18" font="3"> Or - 0 [</text>
+<text top="841" left="254" width="11" height="11" font="0">IP</text>
+<text top="832" left="265" width="82" height="18" font="3"> <i>telefona</i> [</text>
+<text top="841" left="347" width="29" height="11" font="0">VOrP</text>
+<text top="832" left="376" width="20" height="18" font="3"> V</text>
+<text top="841" left="396" width="13" height="11" font="0">Or</text>
+<text top="832" left="409" width="12" height="18" font="3"> [</text>
+<text top="841" left="420" width="16" height="11" font="0">VP</text>
+<text top="832" left="436" width="97" height="18" font="3"> telefona]]]]</text>
+<text top="879" left="123" width="657" height="18" font="3">Remember now that according to Donati and Tomaselli (1997) the proposal that I</text>
+<text top="889" left="781" width="12" height="11" font="0">Cl</text>
+<text top="879" left="792" width="18" height="18" font="3"> is</text>
+<text top="903" left="108" width="702" height="18" font="3">weak in Italian is undermined by Cardinaletti’s (1994) conclusion that <i>pro</i> is always</text>
+<text top="927" left="108" width="703" height="18" font="3">overtly fronted. This in turn is based on the observation that a number of  properties of</text>
+<text top="951" left="108" width="702" height="18" font="3">null subject sentences contrast with those of sentences with post-verbal subjects. In the</text>
+<text top="975" left="108" width="703" height="18" font="3">present framework without <i>pro</i> this observation must of course be independently</text>
+<text top="999" left="108" width="702" height="18" font="3">explained.  We have already seen in the discussion of subject clitic languages that the</text>
+<text top="1023" left="108" width="501" height="18" font="3">preverbal subject DP, when present, realizes a Topic position, I</text>
+<text top="1033" left="609" width="20" height="11" font="0">Top</text>
+<text top="1023" left="628" width="182" height="18" font="3">. Naturally enough, we</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="125" height="16" font="8"><i>Manzini &amp; Savoia</i></text>
+<text top="132" left="108" width="9" height="16" font="1">8</text>
+<text top="189" left="108" width="702" height="18" font="3">can extend the same treatment to classical null subject languages, which share with</text>
+<text top="213" left="108" width="702" height="18" font="3">subject clitic varieties the apparent optionality of subject DP’s. By contrast, Zubizarreta</text>
+<text top="237" left="108" width="702" height="18" font="3">(1997), among others, argues that postverbal lexical subjects in Italian are in a Focus</text>
+<text top="261" left="108" width="702" height="18" font="3">position. Concretely, we shall assume that the postverbal subject is in a predicate internal</text>
+<text top="285" left="108" width="701" height="18" font="3">position, where it is stranded by leftward movement of the Verb and eventually of its</text>
+<text top="309" left="108" width="702" height="18" font="3">complements. Thus the subject finds itself in the most deeply embedded position in the</text>
+<text top="332" left="108" width="702" height="18" font="3">sentence, which is to be identified with its Focus according to Cinque (1993). In short,</text>
+<text top="356" left="108" width="701" height="18" font="3">while the lexical subject in preverbal position is topicalized, the lexical subject in</text>
+<text top="380" left="108" width="702" height="18" font="3">postverbal position is focussed. Remember that the former conclusion was extended from</text>
+<text top="404" left="108" width="702" height="18" font="3">subject clitic to null subject languages; analogously the latter can hold for both types of</text>
+<text top="428" left="108" width="87" height="18" font="3">languages.</text>
+<text top="452" left="123" width="686" height="18" font="3">On the basis of the discussion that precedes, Cardinaletti’s (1994) generalization can</text>
+<text top="476" left="108" width="702" height="18" font="3">be rephrased by saying that null subject sentences have properties that distinguish them</text>
+<text top="500" left="108" width="702" height="18" font="3">from sentences with focussed subjects. This generalization in turn can easily be</text>
+<text top="524" left="108" width="702" height="18" font="3">explained within the present <i>pro</i>-less framework. Indeed we independently know from</text>
+<text top="548" left="108" width="701" height="18" font="3">Cinque (1993) that Focus/ Topic properties have correlates at the PF interface; thus</text>
+<text top="572" left="108" width="702" height="18" font="3">focussed material bears primary stress, Topic material is destressed. The fact that null</text>
+<text top="596" left="108" width="701" height="18" font="3">subjects have a number of  properties that contrast sharply with those of postverbal</text>
+<text top="620" left="108" width="702" height="18" font="3">subjects can simply be imputed to the fact that the latter are focussed; the former, being</text>
+<text top="644" left="108" width="702" height="18" font="3">empty categories, hence pure features without phonological realization in the present</text>
+<text top="668" left="108" width="374" height="18" font="3">approach, are of course (radically) destressed.</text>
+<text top="692" left="123" width="686" height="18" font="3">We have not considered so far one question which figures in a particularly prominent</text>
+<text top="716" left="108" width="701" height="18" font="3">way in most theories of null subjects, starting with Taraldsen (1978), namely the question</text>
+<text top="739" left="108" width="702" height="18" font="3">of the relation between null subjects and verbal inflection. Contrary to Alexiadou and</text>
+<text top="763" left="108" width="701" height="18" font="3">Anagnostopoulou (1997), Nash and Rouveret (1997), Pollock (1997), we exclude that</text>
+<text top="787" left="108" width="128" height="18" font="3">any features of I</text>
+<text top="797" left="236" width="12" height="11" font="0">Cl</text>
+<text top="787" left="248" width="562" height="18" font="3"> are overtly checked by the raising of V, as is implicit in our acceptance</text>
+<text top="811" left="108" width="702" height="18" font="3">of Platzack’s (1994) EPP parameter. Within the framework we are assuming, there is an</text>
+<text top="835" left="108" width="435" height="18" font="3">immediate counterargument to overt raising of V to I</text>
+<text top="845" left="543" width="12" height="11" font="0">Cl</text>
+<text top="835" left="555" width="255" height="18" font="3">. Indeed, as we already pointed</text>
+<text top="859" left="108" width="702" height="18" font="3">out, in Northern Italian dialects a Neg head can intervene between a subject clitic and the</text>
+<text top="883" left="108" width="704" height="18" font="3">inflected Verb in I; object clitics furthermore systematically intervene between the two</text>
+<text top="907" left="108" width="701" height="18" font="3">positions. Under a rigid view of phrase structure, it is reasonable to expect that the</text>
+<text top="931" left="108" width="107" height="18" font="3">positions of I</text>
+<text top="941" left="216" width="12" height="11" font="0">Cl</text>
+<text top="931" left="227" width="583" height="18" font="3"> and of I are equally separated by Neg and Cl in a null subject language</text>
+<text top="955" left="108" width="395" height="18" font="3">like standard Italian; if so, overt raising of V to I</text>
+<text top="965" left="504" width="12" height="11" font="0">Cl</text>
+<text top="955" left="516" width="294" height="18" font="3"> to check the EPP is excluded, since</text>
+<text top="979" left="108" width="584" height="18" font="3">object clitics and Neg are systematically pre-verbal and not post-verbal.</text>
+<text top="1003" left="123" width="687" height="18" font="3">On the other hand, in the present framework not less than in preceding ones, a</text>
+<text top="1027" left="108" width="540" height="18" font="3">mechanism is necessary to insure that the inflectional features of I</text>
+<text top="1037" left="648" width="12" height="11" font="0">Cl</text>
+<text top="1027" left="659" width="151" height="18" font="3"> and I match when</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>N u l l</i></text>
+<text top="152" left="108" width="139" height="16" font="8"><i>subjects without</i> pro</text>
+<text top="132" left="801" width="9" height="16" font="1">9</text>
+<text top="209" left="108" width="423" height="18" font="3">they are both overtly expressed; furthermore, if the I</text>
+<text top="219" left="531" width="12" height="11" font="0">Cl</text>
+<text top="209" left="543" width="268" height="18" font="3"> inflection remains unrealized, as</text>
+<text top="233" left="108" width="702" height="18" font="3">in classical null subject languages, it can be recovered from the I inflection. It is useful</text>
+<text top="257" left="108" width="701" height="18" font="3">to consider first subject clitic languages, which present the strongest evidence in favor</text>
+<text top="281" left="108" width="296" height="18" font="3">of the existence of  separate I and I</text>
+<text top="291" left="404" width="12" height="11" font="0">Cl</text>
+<text top="281" left="415" width="363" height="18" font="3"> projections. We have so far assumed that I</text>
+<text top="291" left="779" width="12" height="11" font="0">Cl</text>
+<text top="281" left="790" width="20" height="18" font="3"> is</text>
+<text top="305" left="108" width="702" height="18" font="3">associated with a strong D-feature satisfied by the subject clitic; the latter is furthermore</text>
+<text top="329" left="108" width="702" height="18" font="3">endowed with phi-features, which we can take to be +interpretable. Correspondingly, -</text>
+<text top="353" left="108" width="702" height="18" font="3">interpretable phi-features appear to be associated with the V in I. In order for the two sets</text>
+<text top="377" left="108" width="702" height="18" font="3">of phi-features to agree, the lower set can be moved to the higher one. However, by the</text>
+<text top="401" left="108" width="472" height="18" font="3">discussion that precedes, the higher set, associated with I</text>
+<text top="410" left="581" width="12" height="11" font="0">Cl</text>
+<text top="401" left="592" width="218" height="18" font="3">, is +interpretable and, not</text>
+<text top="425" left="108" width="702" height="18" font="3">being strong, cannot attract the lower -interpretable set generated on I. We can correct</text>
+<text top="449" left="108" width="702" height="18" font="3">this problem by reverting to the idea of Chomsky (1995) that I itself is associated with</text>
+<text top="473" left="108" width="702" height="18" font="3">a D-feature, again a -interpretable one. If this feature is weak it does not of course require</text>
+<text top="496" left="108" width="702" height="18" font="3">overt satisfaction. At the same time, we can assume that like all D-features it attracts Asp.</text>
+<text top="520" left="108" width="354" height="18" font="3">This will mean that Asp can only move to I</text>
+<text top="530" left="462" width="12" height="11" font="0">Cl</text>
+<text top="520" left="474" width="336" height="18" font="3"> via I. Asp itself can then take along the -</text>
+<text top="544" left="108" width="380" height="18" font="3">interpretable phi-features of I as free riders to I</text>
+<text top="554" left="488" width="12" height="11" font="0">Cl</text>
+<text top="544" left="500" width="311" height="18" font="3">, yielding the desired agreement effect</text>
+<text top="568" left="108" width="125" height="18" font="3">between I and I</text>
+<text top="578" left="233" width="11" height="11" font="0">Cl</text>
+<text top="568" left="244" width="566" height="18" font="3"> as a result. In other words, the derivation in (10) is to be completed as</text>
+<text top="592" left="108" width="61" height="18" font="3">in (15):</text>
+<text top="640" left="108" width="34" height="18" font="3">(15)</text>
+<text top="640" left="162" width="7" height="18" font="3">[</text>
+<text top="650" left="169" width="22" height="11" font="0">IClP</text>
+<text top="640" left="191" width="94" height="18" font="3"> Meas - <i>la</i> [</text>
+<text top="650" left="284" width="11" height="11" font="0">IP</text>
+<text top="640" left="295" width="121" height="18" font="3"> Meas - <i>viene</i> [</text>
+<text top="650" left="416" width="42" height="11" font="0">VMeasP</text>
+<text top="640" left="458" width="20" height="18" font="3"> V</text>
+<text top="650" left="478" width="26" height="11" font="0">Meas</text>
+<text top="640" left="504" width="12" height="18" font="3"> [</text>
+<text top="650" left="515" width="16" height="11" font="0">VP</text>
+<text top="640" left="531" width="76" height="18" font="3"> viene]]]]</text>
+<text top="688" left="123" width="687" height="18" font="3">Consider next null subject languages.  In this case, it is natural to assume with Pollock</text>
+<text top="712" left="108" width="206" height="18" font="3">(1996) and others, that I</text>
+<text top="722" left="314" width="12" height="11" font="0">Cl</text>
+<text top="712" left="325" width="485" height="18" font="3"> is not associated with  phi-features, and that it is I on the</text>
+<text top="736" left="108" width="701" height="18" font="3">contrary that is associated with  phi-features, that are +interpretable. At the same time,</text>
+<text top="760" left="108" width="703" height="18" font="3">the analysis that we have just provided for subject clitic languages commits us to the</text>
+<text top="784" left="108" width="702" height="18" font="3">assumption that I is also associated with a D-feature. If we took the latter to be</text>
+<text top="808" left="108" width="478" height="18" font="3">+interpretable, it is obvious that we could dispense with I</text>
+<text top="817" left="587" width="12" height="11" font="0">Cl</text>
+<text top="808" left="598" width="212" height="18" font="3"> in null subject languages</text>
+<text top="832" left="108" width="702" height="18" font="3">altogether. However we reject this move on conceptual, if not on empirical grounds, in</text>
+<text top="856" left="108" width="702" height="18" font="3">keeping with the hypothesis that the basic hierarchy of functional categories is not</text>
+<text top="879" left="108" width="285" height="18" font="3">parametrized. Intuitively, we take I</text>
+<text top="889" left="393" width="12" height="11" font="0">Cl</text>
+<text top="879" left="404" width="405" height="18" font="3"> to be necessary precisely as a representation of D</text>
+<text top="903" left="108" width="702" height="18" font="3">properties, even in languages where phi-features are +interpretable in I. As before, the</text>
+<text top="927" left="108" width="630" height="18" font="3">mechanism for associating the phi-features of I with the pure D-feature of I</text>
+<text top="937" left="738" width="12" height="11" font="0">Cl</text>
+<text top="927" left="750" width="61" height="18" font="3"> can be</text>
+<text top="951" left="108" width="700" height="18" font="3">identified with the raising of Asp from one position to the other, which takes the phi-</text>
+<text top="975" left="108" width="702" height="18" font="3">features of I along as free riders. Thus the derivation in  (14) is to be refined as in (16):</text>
+<text top="1023" left="108" width="34" height="18" font="3">(16)</text>
+<text top="1023" left="162" width="7" height="18" font="3">[</text>
+<text top="1033" left="169" width="19" height="11" font="0">IclP</text>
+<text top="1023" left="188" width="66" height="18" font="3"> Or - 0 [</text>
+<text top="1033" left="254" width="11" height="11" font="0">IP</text>
+<text top="1023" left="265" width="121" height="18" font="3"> Or - <i>telefona</i> [</text>
+<text top="1033" left="386" width="29" height="11" font="0">VOrP</text>
+<text top="1023" left="414" width="20" height="18" font="3"> V</text>
+<text top="1033" left="434" width="13" height="11" font="0">Or</text>
+<text top="1023" left="447" width="12" height="18" font="3"> [</text>
+<text top="1033" left="459" width="16" height="11" font="0">VP</text>
+<text top="1023" left="475" width="97" height="18" font="3"> telefona]]]]</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="125" height="16" font="8"><i>Manzini &amp; Savoia</i></text>
+<text top="132" left="108" width="17" height="16" font="1">10</text>
+<text top="189" left="123" width="687" height="18" font="3">Finally, consider classical non-null subject languages like English, for which we have</text>
+<text top="213" left="108" width="301" height="18" font="3">assumed that the strong D feature of I</text>
+<text top="223" left="410" width="12" height="11" font="0">Cl</text>
+<text top="213" left="421" width="389" height="18" font="3"> is overtly checked by the merger of a lexical DP</text>
+<text top="237" left="108" width="702" height="18" font="3">in its Spec. Obviously the phi-features of DP are +interpretable, whilst the phi-features</text>
+<text top="261" left="108" width="563" height="18" font="3">of V are not.  Therefore if we want to move the phi-features of  V to I</text>
+<text top="270" left="672" width="12" height="11" font="0">Cl</text>
+<text top="261" left="683" width="127" height="18" font="3"> for purposes of</text>
+<text top="285" left="108" width="702" height="18" font="3">checking, we face the problem of +interpretable features attracting -interpretable ones</text>
+<text top="309" left="108" width="702" height="18" font="3">once again. As before, we can circumvent this problem by having resort to the idea that</text>
+<text top="332" left="108" width="690" height="18" font="3">I attracts Asp first, being associated with a -interpretable D feature; Asp movement to I</text>
+<text top="342" left="799" width="12" height="11" font="0">Cl</text>
+<text top="356" left="108" width="702" height="18" font="3">takes then along the -interpretable phi-features of I as free riders, checking them against</text>
+<text top="380" left="108" width="702" height="18" font="3">the DP in [Spec, I]. In this case, the question of what justifies the doubling of inflectional</text>
+<text top="404" left="108" width="702" height="18" font="3">projections acquires even greater urgency. In the schema of derivation that we have</text>
+<text top="428" left="108" width="272" height="18" font="3">postulated, only the D-feature of I</text>
+<text top="438" left="380" width="11" height="11" font="0">Cl</text>
+<text top="428" left="391" width="419" height="18" font="3"> is strong and therefore imposes overt merger of DP;</text>
+<text top="452" left="108" width="38" height="18" font="3">but I</text>
+<text top="462" left="146" width="14" height="11" font="0">Cl </text>
+<text top="452" left="160" width="650" height="18" font="3">could be dispensed with by simply assuming, with Chomsky (1995), that the D-</text>
+<text top="476" left="108" width="704" height="18" font="3">feature of I itself is strong. Nevertheless, in the absence of empirical evidence to the</text>
+<text top="500" left="108" width="702" height="18" font="3">contrary, we take our analysis to be once again correct on conceptual grounds, in that it</text>
+<text top="524" left="108" width="702" height="18" font="3">allows us to keep maximum consistency in underlying structure among the different</text>
+<text top="548" left="108" width="695" height="18" font="3">types of languages examined. Thus the derivation in (6) is to be completed as in (17):</text>
+<text top="596" left="108" width="34" height="18" font="3">(17)</text>
+<text top="596" left="162" width="7" height="18" font="3">[</text>
+<text top="606" left="169" width="25" height="11" font="0">IClP </text>
+<text top="596" left="194" width="102" height="18" font="2"><i>John</i>  [Or - I</text>
+<text top="606" left="296" width="12" height="11" font="0">Cl</text>
+<text top="596" left="307" width="19" height="18" font="3">] [</text>
+<text top="606" left="326" width="11" height="11" font="0">IP</text>
+<text top="596" left="337" width="62" height="18" font="3"> Or - I [</text>
+<text top="606" left="399" width="29" height="11" font="0">VOrP</text>
+<text top="596" left="428" width="20" height="18" font="3"> V</text>
+<text top="606" left="447" width="13" height="11" font="0">Or</text>
+<text top="596" left="460" width="12" height="18" font="3"> [</text>
+<text top="606" left="472" width="16" height="11" font="0">VP</text>
+<text top="596" left="488" width="126" height="18" font="3"> <i>telephoned</i> ]]]]</text>
+<text top="644" left="123" width="687" height="18" font="3">In conclusion, in terms of the present theory, the three-way parameter that opposes</text>
+<text top="668" left="108" width="702" height="18" font="3">classical null subject languages such as Italian, subject clitic languages such as Northern</text>
+<text top="692" left="108" width="701" height="18" font="3">Italian dialects and standard non-null subject languages such as English, is easily</text>
+<text top="716" left="108" width="391" height="18" font="3">expressed in terms of whether the D-feature of I</text>
+<text top="725" left="499" width="12" height="11" font="0">Cl</text>
+<text top="716" left="510" width="300" height="18" font="3"> is overtly realized or not, and if it is,</text>
+<text top="739" left="108" width="702" height="18" font="3">whether it is realized by a head or by a Spec. It appears in fact that at least as far as the</text>
+<text top="763" left="108" width="702" height="18" font="3">null subject parameter is concerned, the notions of strong and weak feature of Chomsky</text>
+<text top="787" left="108" width="701" height="18" font="3">(1995) can be substituted by the more transparent notions of overtly realized or non</text>
+<text top="811" left="108" width="702" height="18" font="3">realized feature. The obligatory checking of a strong feature in overt syntax reduces to</text>
+<text top="835" left="108" width="702" height="18" font="3">its overt realization; as for a weak feature, checked only in abstract syntax, it reduces of</text>
+<text top="859" left="108" width="701" height="18" font="3">course to a non-realized feature. Standard Italian is a case of the D-feature not being</text>
+<text top="883" left="108" width="702" height="18" font="3">realized; English and Northern Italian dialects on the other hand share the obligatory</text>
+<text top="907" left="108" width="701" height="18" font="3">realization of this feature. However Northern Italian dialects possess a specialized head</text>
+<text top="931" left="108" width="702" height="18" font="3">to realize it, while English does not, and therefore realizes it via its Spec. Our parametric</text>
+<text top="955" left="108" width="245" height="18" font="3">schema is therefore as in (18):</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="8"><i>N u l l</i></text>
+<text top="152" left="108" width="139" height="16" font="8"><i>subjects without</i> pro</text>
+<text top="132" left="793" width="17" height="16" font="1">11</text>
+<text top="209" left="108" width="34" height="18" font="3">(18)</text>
+<text top="209" left="324" width="74" height="18" font="3">as a head</text>
+<text top="209" left="486" width="81" height="18" font="3">as a  Spec</text>
+<text top="233" left="162" width="7" height="18" font="3">I</text>
+<text top="243" left="169" width="12" height="11" font="0">Cl</text>
+<text top="233" left="180" width="69" height="18" font="3"> realized</text>
+<text top="233" left="324" width="134" height="18" font="2"><i>Northern Italian</i></text>
+<text top="233" left="486" width="62" height="18" font="2"><i>English</i></text>
+<text top="257" left="162" width="7" height="18" font="3">I</text>
+<text top="267" left="169" width="12" height="11" font="0">Cl</text>
+<text top="257" left="180" width="100" height="18" font="3"> not realized</text>
+<text top="257" left="378" width="134" height="18" font="2"><i>Standard Italian</i></text>
+<text top="305" left="123" width="687" height="18" font="3">A second interesting dimension of parametric variation involving null subjects is</text>
+<text top="329" left="108" width="556" height="18" font="3">represented by the presence or absence of agreement of the I and I</text>
+<text top="339" left="664" width="12" height="11" font="0">Cl</text>
+<text top="329" left="676" width="134" height="18" font="3"> inflections with</text>
+<text top="353" left="108" width="702" height="18" font="3">postverbal subjects. Similarly, languages differ as to whether they impose definitess</text>
+<text top="377" left="108" width="702" height="18" font="3">restrictions in one form or another on the postverbal subject itself. Considering these</text>
+<text top="401" left="108" width="702" height="18" font="3">parameters is beyond the scope of the present note. Savoia and Manzini (in prep.) argue</text>
+<text top="425" left="108" width="702" height="18" font="3">however that a treatment of such parameters within the framework sketched here is not</text>
+<text top="449" left="108" width="485" height="18" font="3">only possible, but strongly motivated on empirical grounds.</text>
+<text top="545" left="108" width="95" height="18" font="7"><b>References</b></text>
+<text top="591" left="108" width="701" height="16" font="1">Alexiadou. A. and E. Anagnostopoulou. 1997. Parametrizing Agr: Word-Order, V-movement and EPP-</text>
+<text top="612" left="123" width="362" height="16" font="1">checking. Ms. FAS Berlin and University of Tilburg</text>
+<text top="632" left="108" width="687" height="16" font="1">Arad, M. 1996. A minimalist view of the syntax-lexical semantics interface. <i>UCL Working Papers in</i></text>
+<text top="652" left="123" width="151" height="16" font="8"><i>Linguistics</i> 8:215-242</text>
+<text top="673" left="108" width="433" height="16" font="1">Benincà, P. 1994. <i>La variazione sintattica</i>. Bologna: Il Mulino</text>
+<text top="693" left="108" width="404" height="16" font="1">Borer, H. 1986. I-Subjects. <i>Linguistic Inquiry </i>17: 375-416</text>
+<text top="713" left="108" width="671" height="16" font="1">Borer, H. 1994. The projection of arguments. <i>University of Massachusetts Occasional Papers </i>17</text>
+<text top="734" left="108" width="687" height="16" font="1">Brandi, L. e P. Cordin 1989. Two Italian dialects and the Null Subject parameter. In <i>The Null Subject</i></text>
+<text top="754" left="123" width="410" height="16" font="8"><i>Parameter</i>, ed. O. Jaeggli and K. Safir. Dordrecht: Kluwer </text>
+<text top="774" left="108" width="422" height="16" font="1">Cardinaletti, A. 1994. Subject positions. <i>GenGenP</i> 2.1:64-78</text>
+<text top="795" left="108" width="686" height="16" font="1">Cardinaletti, A. and I. Roberts. 1991. Levels of representation of Agreement. Ms. Università di</text>
+<text top="815" left="123" width="240" height="16" font="1">Venezia and Université de Genève</text>
+<text top="835" left="108" width="523" height="16" font="1">Chomsky, N. 1981. <i>Lectures on Government and Binding</i>. Dordrecht: Foris</text>
+<text top="856" left="108" width="554" height="16" font="1">Chomsky, N. 1995. <i>The Minimalist Program</i>. Cambridge, Mass: The MIT Press</text>
+<text top="876" left="108" width="654" height="16" font="1">Cinque, G. 1993. A null theory of phrase and compound stress. <i>Linguistic Inquiry</i> 24: 239-298</text>
+<text top="896" left="108" width="687" height="16" font="1">Cinque, G. 1997<i>. Adverbs and Functional Heads - A Cross-Linguistic Perspective</i>. Ms., Università</text>
+<text top="917" left="123" width="74" height="16" font="1">di Venezia</text>
+<text top="937" left="108" width="687" height="16" font="1">Donati, C. and A. Tomaselli. 1997. La sintassi del soggetto nel quadro minimalista. Riflessioni su EPP</text>
+<text top="957" left="123" width="272" height="16" font="1">e <i>pro-drop</i>. <i>Lingua e Stile</i> 32: 261-283 </text>
+<text top="978" left="108" width="686" height="16" font="1">Hale, K. and J. Keyser. 1993.  On argument structure and the lexical expression of syntactic relations.</text>
+<text top="998" left="123" width="632" height="16" font="1">In <i>The view from Building 20</i>, ed. K. Hale and J. Keyser. Cambridge, Mass: The MIT Press</text>
+<text top="1018" left="108" width="421" height="16" font="1">Hornstein, N. 1996. On control. Ms., University of Maryland</text>
+<text top="1039" left="108" width="578" height="16" font="1">Koopman. H. and D. Sportiche. 1991. The position of subjects. <i>Lingua</i> 85: 211-258</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="125" height="16" font="8"><i>Manzini &amp; Savoia</i></text>
+<text top="132" left="108" width="17" height="16" font="1">12</text>
+<text top="188" left="108" width="576" height="16" font="1">Larson, R. 1988. On the double object construction. <i>Linguistic Inquiry</i> 19: 335-391</text>
+<text top="208" left="108" width="686" height="16" font="1">Manzini, M.R. and A. Roussou. 1997. A minimalist theory of A-movement and control. Ms., UCL and</text>
+<text top="229" left="123" width="51" height="16" font="1">Bangor</text>
+<text top="249" left="108" width="687" height="16" font="1">Nash, L. and A. Rouveret. 1997.  Proxy categories in Phrase Structure theory. Ms., Université de Paris</text>
+<text top="269" left="123" width="88" height="16" font="1">VIII/ CNRS </text>
+<text top="290" left="108" width="687" height="16" font="1">Platzack, C. 1995. Null subjects, weak Agr and syntactic differences in Scandinavian. <i>Working Papers</i></text>
+<text top="310" left="123" width="238" height="16" font="8"><i>in Scandinavian Syntax</i> 53:85-106</text>
+<text top="330" left="108" width="645" height="16" font="1">Poletto, C. 1993. <i>La sintassi del soggetto nei dialetti italiani settentrionali</i>. Padova: Unipress</text>
+<text top="351" left="108" width="687" height="16" font="1">Poletto, C. 1997. The internal structure of AgrS and subject clitics. Ms., Università di Padova/ CNR</text>
+<text top="371" left="108" width="686" height="16" font="1">Pollock, J.-Y. 1989. Verb-Movement, Universal Grammar and the structure of IP. <i>Linguistic Inquiry</i></text>
+<text top="391" left="123" width="80" height="16" font="1">20:365-424</text>
+<text top="412" left="108" width="687" height="16" font="1">Pollock, J.-Y. 1997. <i>Langage et cognition: Introduction au programme minimaliste de la grammaire</i></text>
+<text top="432" left="123" width="354" height="16" font="8"><i>générative</i>. Paris: Presses Universitaires de France.</text>
+<text top="452" left="108" width="392" height="16" font="1">Rizzi, L. 1982. <i>Issues in Italian Syntax</i>. Dordrecht: Foris</text>
+<text top="473" left="108" width="687" height="16" font="1">Rizzi, L. 1986. On the status of subject clitics in Romance. In<i> Studies in Romance Linguistics,</i> ed. O.</text>
+<text top="493" left="123" width="314" height="16" font="1">Jaeggli e C. Silva-Corvalan. Dordrecht: Foris</text>
+<text top="513" left="108" width="523" height="16" font="1">Savoia, L. and M.R. Manzini. in prep. <i>I dialetti italiani</i>. Bologna: Il Mulino</text>
+<text top="534" left="108" width="365" height="16" font="1">Sportiche, D. 1992. Clitic constructions. Ms., UCLA</text>
+<text top="554" left="108" width="583" height="16" font="1">Taraldsen, T. 1978. On the NIC, vacuous application, and the that-t Filter. Ms., MIT</text>
+<text top="574" left="108" width="679" height="16" font="1">Zubizarreta, M.-L. 1997. <i>Prosody, Focus and Word Order</i>. Ms., University of Southern California</text>
+</page>
+</pdf2xml>

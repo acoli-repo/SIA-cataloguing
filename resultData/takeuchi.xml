@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+<text top="920" left="123" width="6" height="11" font="0">*</text>
+<text top="925" left="129" width="681" height="16" font="1">I am greatly indebted to Deirdre Wilson for her insightful guidance and detailed comments, and above</text>
+<text top="945" left="108" width="702" height="16" font="1">all her constant encouragement. I am also grateful to Robyn Carston and Villy Rouchota for their useful</text>
+<text top="966" left="108" width="702" height="16" font="1">discussions on the topic, and Seiji Uchida with whom I enjoyed discussing the Japanese data. Finally,</text>
+<text top="986" left="108" width="680" height="16" font="1">I want to thank Kanagawa University and my colleagues in Japan for allowing my studies at UCL.</text>
+<text top="1019" left="123" width="6" height="11" font="0">1</text>
+<text top="1024" left="129" width="680" height="16" font="1">In what follows, the Japanese examples are followed by word-by-word gloss, literal translation and</text>
+<text top="1044" left="108" width="268" height="16" font="1">finally translation into natural English.</text>
+<text top="133" left="108" width="367" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 9 (1997)</text>
+<text top="185" left="108" width="563" height="32" font="4"><i><b>Conceptual and procedural encoding:</b></i></text>
+<text top="227" left="108" width="703" height="32" font="4"><i><b>cause-consequence conjunctive particles in</b></i></text>
+<text top="268" left="108" width="138" height="32" font="4"><i><b>Japanese</b></i></text>
+<text top="264" left="246" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="354" left="108" width="199" height="18" font="3">MICHIKO TAKEUCHI</text>
+<text top="451" left="143" width="76" height="18" font="6"><b>Abstract</b></text>
+<text top="498" left="143" width="631" height="16" font="1">A number of Japanese grammarians have proposed analyses of the causal connectives, KARA</text>
+<text top="518" left="143" width="631" height="16" font="1">and NODE; however, these analyses do not appear to account in a fully adequate manner for</text>
+<text top="538" left="143" width="631" height="16" font="1">the phenomena involved. This paper aims to clarify, using Sperber and Wilson's Relevance</text>
+<text top="559" left="143" width="631" height="16" font="1">Theory, their similarities and differences in meaning. It is argued that they encode both</text>
+<text top="579" left="143" width="631" height="16" font="1">conceptual and procedural information. On the conceptual level, KARA/NODE contribute to</text>
+<text top="599" left="143" width="632" height="16" font="1">the truth-conditional content of an utterance, while on the procedural level they indicate where</text>
+<text top="620" left="143" width="630" height="16" font="1">presupposition and focus are to be found. I will argue that their conceptual semantics is</text>
+<text top="640" left="143" width="403" height="16" font="1">identical, and that they differ only on the procedural level.</text>
+<text top="681" left="108" width="4" height="16" font="1"> </text>
+<text top="702" left="108" width="131" height="18" font="6"><b>1 Introduction</b> </text>
+<text top="750" left="108" width="702" height="18" font="3">Japanese has two conjunctive particles Kara and NODE, which are used to express the</text>
+<text top="774" left="108" width="484" height="18" font="3">cause-consequence relationship. Examples are given in (1):</text>
+<text top="771" left="591" width="6" height="11" font="0">1</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="9" height="16" font="1">2</text>
+<text top="999" left="123" width="6" height="11" font="0">2</text>
+<text top="1004" left="129" width="680" height="16" font="1">Copulative <i>da</i> is realized as <i>na</i> (or <i>no</i>) in an adjectival clause. The only syntactic difference between</text>
+<text top="1024" left="108" width="702" height="16" font="1">KARA and NODE is that KARA follows the bare form of Copula, e.g. <i>da</i>, while NODE follows a</text>
+<text top="1044" left="108" width="140" height="16" font="1">conjugated form <i>na</i>.</text>
+<text top="189" left="108" width="49" height="18" font="3">(1) a.</text>
+<text top="189" left="181" width="230" height="18" font="3">kuuki-ga kirei da KARA,</text>
+<text top="189" left="432" width="134" height="18" font="3">kenkou-ni     yoi</text>
+<text top="213" left="181" width="202" height="18" font="3">air-NOM clean Copula</text>
+<text top="213" left="432" width="149" height="18" font="3">health-LOC  good</text>
+<text top="237" left="181" width="370" height="18" font="3">'The air is clean KARA, it is good for health.'</text>
+<text top="261" left="181" width="456" height="18" font="3">'It is good for one's health here, because the air is clean.'</text>
+<text top="309" left="143" width="15" height="18" font="3">b.</text>
+<text top="309" left="181" width="141" height="18" font="3">kuuki-ga kirei-na</text>
+<text top="306" left="322" width="6" height="11" font="0">2</text>
+<text top="309" left="328" width="196" height="18" font="3">  NODE, kenkou-ni yoi </text>
+<text top="356" left="108" width="704" height="18" font="3">Both particles connect two clauses: let me formalize this as P KARA/NODE, Q, where</text>
+<text top="380" left="108" width="703" height="18" font="3">P and Q are distinct. KARA and NODE play a cohesive role, building a complex</text>
+<text top="404" left="108" width="660" height="18" font="3">proposition in which Q is presented as a consequence of P or P as a reason for Q.</text>
+<text top="428" left="108" width="702" height="18" font="3">How do KARA and NODE differ in meaning? What makes the speaker choose one form</text>
+<text top="452" left="108" width="701" height="18" font="3">or the other? Since they are in many cases interchangeable, there has been considerable</text>
+<text top="476" left="108" width="701" height="18" font="3">debate about these questions, the aim being to find a rule of thumb to distinguish the</text>
+<text top="500" left="108" width="702" height="18" font="3">conditions in which they are used. In this paper I shall outline Japanese grammarians'</text>
+<text top="524" left="108" width="702" height="18" font="3">treatments and show that existing analyses are far from satisfactory. Next, looking in</text>
+<text top="548" left="108" width="702" height="18" font="3">detail at the behaviour of these particles, I shall explore the possibility of using the</text>
+<text top="572" left="108" width="702" height="18" font="3">Relevance-based approach of Sperber and Wilson (1986/1995) to clarify their similarities</text>
+<text top="596" left="108" width="702" height="18" font="3">and differences. I shall draw two conclusions: first, these two particles have a single</text>
+<text top="620" left="108" width="703" height="18" font="3">conceptual semantics, and are truth-conditionally equivalent: second, the distinction</text>
+<text top="644" left="108" width="702" height="18" font="3">emerges at the procedural level, as a difference in indications about the way the utterance</text>
+<text top="668" left="108" width="701" height="18" font="3">is to be processed in terms of focus and presupposition. My conclusion is that the case</text>
+<text top="692" left="108" width="702" height="18" font="3">of KARA/NODE shows that two terms may have both conceptual and procedural</text>
+<text top="716" left="108" width="84" height="18" font="3">meaning. </text>
+<text top="764" left="108" width="283" height="18" font="6"><b>                                                        </b></text>
+<text top="787" left="108" width="156" height="18" font="6"><b>2 Previous studies</b></text>
+<text top="835" left="108" width="420" height="18" font="6"><b>2.1 Nagano's theory and the surrounding debate</b></text>
+<text top="882" left="108" width="702" height="18" font="3">At the centre of the debate has been the so-called Nagano theory, which has been adapted</text>
+<text top="906" left="108" width="701" height="18" font="3">for use in writing dictionary entries. Nagano (1952=1972) tries to show the fundamental</text>
+<text top="930" left="108" width="701" height="18" font="3">differences in meaning and usage between KARA and NODE, while acknowledging</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="801" width="9" height="16" font="1">3</text>
+<text top="981" left="123" width="6" height="11" font="0">3</text>
+<text top="986" left="129" width="518" height="16" font="1">There is a convenient summary of Nagano's observation in Nakada (1977).</text>
+<text top="1019" left="123" width="6" height="11" font="0">4</text>
+<text top="1024" left="129" width="680" height="16" font="1">As his examples are rather archaic and sometimes taken out-of-context, the examples cited here are</text>
+<text top="1044" left="108" width="431" height="16" font="1">modified, but not to the extent that they undermine his claims.</text>
+<text top="209" left="108" width="702" height="18" font="3">their similarities. His conclusions may be summarized as follows (See Nagano 1988; Tio</text>
+<text top="233" left="108" width="53" height="18" font="3">1988).</text>
+<text top="230" left="161" width="6" height="11" font="0">3</text>
+<text top="233" left="167" width="643" height="18" font="3"> KARA relates the first clause (P) with the second clause (Q) from the speaker's</text>
+<text top="257" left="108" width="702" height="18" font="3">point of view. The cause-consequence relation between P and Q exists in the speaker's</text>
+<text top="281" left="108" width="701" height="18" font="3">mind, and the hearer need not anticipate it at all before the utterance is produced. The</text>
+<text top="305" left="108" width="702" height="18" font="3">speaker therefore has to present the cause or reason in order for the hearer to understand</text>
+<text top="329" left="108" width="702" height="18" font="3">it or agree with it. Nagano adds that the two states are not dependent on each other in the</text>
+<text top="353" left="108" width="702" height="18" font="3">real world and the speaker must be responsible for their being related. In other terms, he</text>
+<text top="377" left="108" width="621" height="18" font="3">seems to claim that KARA invokes an inferential relation between P and Q. </text>
+<text top="401" left="123" width="687" height="18" font="3">With NODE, on the other hand, the cause-consequence relation between P and Q is</text>
+<text top="425" left="108" width="702" height="18" font="3">presented as actual fact beyond the speaker's subjective opinion. Here, P is seen as less</text>
+<text top="449" left="108" width="702" height="18" font="3">independent of Q than when KARA is used. As I see it, Nagano wants to claim that with</text>
+<text top="473" left="108" width="702" height="18" font="3">NODE the relationship is not so much inferential as causal. Sweetser (1990) might say</text>
+<text top="496" left="108" width="702" height="18" font="3">that KARA sets up a connection in the epistemic domain, and NODE in the causal</text>
+<text top="520" left="108" width="151" height="18" font="3">domain (see 4.1).  </text>
+<text top="544" left="123" width="687" height="18" font="3">Nagano argues that the appeal to subjectivity vs. objectivity correlates with the fact that</text>
+<text top="568" left="108" width="702" height="18" font="3">only KARA is used when Q represents a state connected in some way with futurity, e.g.</text>
+<text top="592" left="108" width="702" height="18" font="3">guessing, volition, request, suggestion, asking why, etc., while NODE should be used</text>
+<text top="616" left="108" width="702" height="18" font="3">when Q represents natural phenomena or social facts, or when describing one's feelings</text>
+<text top="640" left="108" width="530" height="18" font="3">and actions objectively. The following are some of his examples:</text>
+<text top="637" left="637" width="6" height="11" font="0">4</text>
+<text top="688" left="108" width="104" height="18" font="3">(2) Taro-wa</text>
+<text top="688" left="270" width="240" height="18" font="3">kata-ga   itai  KARA, kyo-no</text>
+<text top="688" left="540" width="87" height="18" font="3">pitcher-wa</text>
+<text top="688" left="648" width="30" height="18" font="3">Jiro</text>
+<text top="688" left="702" width="52" height="18" font="3">da roo</text>
+<text top="712" left="143" width="90" height="18" font="2"><i>name</i>-TOP</text>
+<text top="712" left="270" width="113" height="18" font="3">shoulder ache</text>
+<text top="712" left="452" width="90" height="18" font="3">today-POS</text>
+<text top="712" left="648" width="93" height="18" font="2"><i>name </i>FUT</text>
+<text top="736" left="143" width="520" height="18" font="3">'Taro has a shoulder ache KARA, Jiro will be the pitcher today.'</text>
+<text top="760" left="143" width="533" height="18" font="3">'Since Taro has a shoulder-ache today, Jiro should be the pitcher.'</text>
+<text top="808" left="108" width="121" height="18" font="3">(3) Mariko-ga</text>
+<text top="808" left="270" width="277" height="18" font="3">kinodoku da KARA, nagusamete</text>
+<text top="808" left="593" width="65" height="18" font="3">yar-roo </text>
+<text top="832" left="143" width="44" height="18" font="2"><i>name</i></text>
+<text top="832" left="270" width="42" height="18" font="3">sorry</text>
+<text top="832" left="452" width="64" height="18" font="3">comfort</text>
+<text top="832" left="594" width="121" height="18" font="3">give-FUTURE</text>
+<text top="856" left="143" width="438" height="18" font="3">'I feel sorry for Mariko KARA, I'll try to comfort her.'</text>
+<text top="879" left="143" width="446" height="18" font="3">'I'll try to comfort Mariko, because I feel sorry for her.'</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="9" height="16" font="1">4</text>
+<text top="189" left="108" width="423" height="18" font="3">(4) kiken      da KARA, chikazuite-wa ikimasen </text>
+<text top="213" left="143" width="84" height="18" font="3">dangerous</text>
+<text top="213" left="324" width="61" height="18" font="3">go near</text>
+<text top="213" left="452" width="106" height="18" font="3">don't (polite)</text>
+<text top="237" left="143" width="332" height="18" font="3">'It is dangerous KARA, don't  go nearer.'</text>
+<text top="261" left="143" width="338" height="18" font="3">'Don't go nearer, because it is dangerous.'</text>
+<text top="309" left="108" width="702" height="18" font="3">He claims that to replace KARA with NODE in (2) - (4) is almost impossible, whereas</text>
+<text top="332" left="108" width="584" height="18" font="3">in (5) - (7) the result of replacing NODE with KARA sounds unnatural:</text>
+<text top="380" left="108" width="102" height="18" font="3">(5) yama-ni</text>
+<text top="380" left="270" width="122" height="18" font="3">chikai  NODE,</text>
+<text top="380" left="433" width="88" height="18" font="3">hiruma-wa</text>
+<text top="380" left="541" width="31" height="18" font="3">atui</text>
+<text top="404" left="143" width="77" height="18" font="3">mountain</text>
+<text top="404" left="270" width="35" height="18" font="3">near</text>
+<text top="404" left="432" width="65" height="18" font="3">daytime</text>
+<text top="404" left="540" width="26" height="18" font="3">hot</text>
+<text top="428" left="143" width="515" height="18" font="3">'It is close to the mountain NODE, it is hot during the daytime.'</text>
+<text top="452" left="143" width="555" height="18" font="3">'It's hot here during the daytime, because it is close to the mountain.'</text>
+<text top="500" left="108" width="170" height="18" font="3">(6) sono seisaku-wa</text>
+<text top="500" left="324" width="174" height="18" font="3">bukka-no jyoushou-o</text>
+<text top="500" left="540" width="182" height="18" font="3">motarashi ta   NODE, </text>
+<text top="524" left="143" width="87" height="18" font="3">that policy</text>
+<text top="524" left="324" width="124" height="18" font="3">price rise-ACC</text>
+<text top="524" left="540" width="159" height="18" font="3">bring PAST            </text>
+<text top="548" left="181" width="144" height="18" font="3">infure-de nayamu</text>
+<text top="548" left="378" width="171" height="18" font="3">hito-ga zoudaishi ta</text>
+<text top="572" left="181" width="164" height="18" font="3">inflation-with suffer</text>
+<text top="572" left="378" width="54" height="18" font="3">people</text>
+<text top="572" left="452" width="67" height="18" font="3">increase</text>
+<text top="596" left="143" width="665" height="18" font="3">'The policy brought a price rise NODE, an increasing number of people suffered </text>
+<text top="620" left="143" width="122" height="18" font="3">from inflation.'</text>
+<text top="644" left="143" width="667" height="18" font="3">'An increasing number of people suffered from inflation, because the policy resulted</text>
+<text top="668" left="143" width="119" height="18" font="3">in a price rise.'</text>
+<text top="716" left="108" width="82" height="18" font="3">(7) yo-ga</text>
+<text top="716" left="216" width="125" height="18" font="3">ake ta   NODE,</text>
+<text top="716" left="378" width="186" height="18" font="3">hutatabi aruki-dashi ta</text>
+<text top="739" left="143" width="42" height="18" font="3">night</text>
+<text top="739" left="216" width="95" height="18" font="3">open PAST</text>
+<text top="739" left="378" width="44" height="18" font="3">again</text>
+<text top="739" left="452" width="169" height="18" font="3">begin-to-walk PAST</text>
+<text top="763" left="143" width="383" height="18" font="3">'The day broke NODE, I began walking again.'</text>
+<text top="787" left="143" width="395" height="18" font="3">'Because it was daylight, I began walking again.'</text>
+<text top="835" left="108" width="702" height="18" font="3">According to Nagano, (5) - (7) describe a causal relation between objective states of</text>
+<text top="859" left="108" width="702" height="18" font="3">affairs: (5) describes natural phenomena, (6) social matters and (7) gives an objective</text>
+<text top="883" left="108" width="291" height="18" font="3">description of the speaker's action.  </text>
+<text top="907" left="123" width="550" height="18" font="3">Tio (1988) argues against Nagano's theory using (8) as an example:</text>
+<text top="955" left="108" width="116" height="18" font="3">(8) kakekomi</text>
+<text top="955" left="270" width="94" height="18" font="3">jyousha-wa</text>
+<text top="955" left="432" width="276" height="18" font="3">kiken na   NODE, yamema-shoo</text>
+<text top="979" left="143" width="63" height="18" font="3">dashing</text>
+<text top="979" left="270" width="124" height="18" font="3">getting on train</text>
+<text top="979" left="432" width="84" height="18" font="3">dangerous</text>
+<text top="979" left="594" width="66" height="18" font="3">stop-let </text>
+<text top="1003" left="143" width="458" height="18" font="3">'Dashing onto a train is dangerous NODE, don't do that.'</text>
+<text top="1027" left="143" width="588" height="18" font="3">(Announcement): 'Do not run; please board trains in an orderly manner.'</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="801" width="9" height="16" font="1">5</text>
+<text top="209" left="108" width="702" height="18" font="3">In (8), NODE is used with an imperative form (Q), despite its connection with volition</text>
+<text top="233" left="108" width="702" height="18" font="3">and futurity, which in Nagano's system should lead to the use of KARA. Tio is also</text>
+<text top="257" left="108" width="702" height="18" font="3">doubtful of the objectivity of the connection between the two states of affairs, which is,</text>
+<text top="281" left="108" width="702" height="18" font="3">according to Nagano, the main characteristic of the NODE form. He notes that NODE</text>
+<text top="305" left="108" width="702" height="18" font="3">is not always used in this way: there are cases where it imposes a more subjective</text>
+<text top="329" left="108" width="701" height="18" font="3">connection. His objection is chiefly to Nagano's linking of subjectivity with Q clauses</text>
+<text top="353" left="108" width="702" height="18" font="3">expressing futurity, volition, command, prohibition, request, suggestion, asking whether,</text>
+<text top="377" left="108" width="451" height="18" font="3">etc., as a rationale for using KARA rather than NODE. </text>
+<text top="401" left="123" width="687" height="18" font="3">In Tio's view, KARA is used when the speaker considers that the cause or reason will</text>
+<text top="425" left="108" width="702" height="18" font="3">be easily understood by the hearer. By contrast, NODE is used when the speaker wants</text>
+<text top="449" left="108" width="701" height="18" font="3">to emphasize the cause or reason to the addressee, assuming that the hearer has an</text>
+<text top="473" left="108" width="702" height="18" font="3">insufficient understanding. He gives two concrete illustrations: first, only KARA is used</text>
+<text top="496" left="108" width="701" height="18" font="3">when a parent gives a cause or reason to a child, in order to minimize the child's burden</text>
+<text top="520" left="108" width="703" height="18" font="3">and facilitate his/her understanding. In such a situation the parent chooses KARA, since</text>
+<text top="544" left="108" width="702" height="18" font="3">he considers that the cause or reason is already clear enough for the child to be</text>
+<text top="568" left="108" width="702" height="18" font="3">convinced. Second, only NODE is used in directions or instruction manuals. Among</text>
+<text top="592" left="108" width="226" height="18" font="3">Tio's many examples is (9):</text>
+<text top="640" left="108" width="116" height="18" font="3">(9) rouden ya</text>
+<text top="640" left="270" width="76" height="18" font="3">kosho-no</text>
+<text top="640" left="378" width="72" height="18" font="3">gen'in-to</text>
+<text top="640" left="486" width="244" height="18" font="3">narimasu  NODE, hontai-wa</text>
+<text top="664" left="143" width="97" height="18" font="3">leakage and</text>
+<text top="664" left="270" width="419" height="18" font="3">breakdown cause-LOC make PRE (Polite) body</text>
+<text top="688" left="162" width="60" height="18" font="3">zettaini</text>
+<text top="688" left="270" width="101" height="18" font="3">mizu-araishi</text>
+<text top="688" left="432" width="121" height="18" font="3">nai de kudasai </text>
+<text top="712" left="162" width="84" height="18" font="3">absolutely</text>
+<text top="712" left="270" width="120" height="18" font="3">water-washing</text>
+<text top="712" left="432" width="123" height="18" font="3">not ask (polite)</text>
+<text top="736" left="143" width="659" height="18" font="3">'An electric leakage/breakdown will be caused NODE, don't wash the appliance.'</text>
+<text top="760" left="143" width="543" height="18" font="3">'Washing the appliance will lead to an electric fault or breakdown.'</text>
+<text top="808" left="108" width="702" height="18" font="3">According to Tio, the reason why NODE is used in directions and instruction manuals</text>
+<text top="832" left="108" width="550" height="18" font="3">is that the consumers' understanding is supposed to be 'insufficient'.</text>
+<text top="856" left="123" width="687" height="18" font="3">Teramura (1981) partly agrees with both Nagano and Tio. Using the chart below, he</text>
+<text top="879" left="108" width="702" height="18" font="3">confirms Nagano's view that NODE is unlikely to be followed by clauses expressing</text>
+<text top="903" left="108" width="313" height="18" font="3">questions, commands or exhortations: </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="20" family="AIPGKE+MSTT31c63000" color="#000000"/>
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="9" height="16" font="1">6</text>
+<text top="1019" left="123" width="6" height="11" font="0">5</text>
+<text top="1024" left="129" width="681" height="16" font="1">Followed by interrogative sentences, only KARA is used, and NODE is hardly possible. For example:</text>
+<text top="1044" left="108" width="561" height="16" font="1">I'll wash the dishes KARA (*NODE), will you dry them? For discussion, see 4.1.</text>
+<text top="189" left="108" width="34" height="18" font="3">(10)</text>
+<text top="189" left="162" width="313" height="18" font="3">                                                              </text>
+<text top="218" left="256" width="15" height="18" font="3">Q</text>
+<text top="218" left="416" width="86" height="18" font="3">P - KARA</text>
+<text top="218" left="606" width="85" height="18" font="3">P - NODE</text>
+<text top="247" left="171" width="152" height="18" font="3">Description of fact</text>
+<text top="241" left="451" width="15" height="26" font="8">7</text>
+<text top="241" left="641" width="15" height="26" font="8">7</text>
+<text top="276" left="171" width="93" height="18" font="3">Conclusion</text>
+<text top="270" left="451" width="15" height="26" font="8">7</text>
+<text top="270" left="641" width="15" height="26" font="8">7</text>
+<text top="305" left="171" width="86" height="18" font="3">Possibility</text>
+<text top="299" left="451" width="15" height="26" font="8">7</text>
+<text top="299" left="641" width="15" height="26" font="8">7</text>
+<text top="334" left="171" width="122" height="18" font="3">Intention/Wish</text>
+<text top="328" left="451" width="15" height="26" font="8">7</text>
+<text top="328" left="641" width="15" height="26" font="8">7</text>
+<text top="363" left="171" width="74" height="18" font="3">Question</text>
+<text top="357" left="450" width="12" height="26" font="8">;</text>
+<text top="360" left="462" width="6" height="11" font="0">5</text>
+<text top="357" left="642" width="12" height="26" font="8">;</text>
+<text top="392" left="171" width="181" height="18" font="3">Command/Suggestion</text>
+<text top="386" left="451" width="15" height="26" font="8">7</text>
+<text top="386" left="642" width="12" height="26" font="8">;</text>
+<text top="421" left="171" width="88" height="18" font="3">Persuasion</text>
+<text top="415" left="451" width="15" height="26" font="8">7</text>
+<text top="415" left="642" width="12" height="26" font="8">;</text>
+<text top="470" left="108" width="701" height="18" font="3">Here a cross indicates that the whole sentence sounds unnatural. He concludes that the</text>
+<text top="494" left="108" width="701" height="18" font="3">use of NODE is responsible for the sentence sounding unnatural in these cases, but  gives</text>
+<text top="518" left="108" width="339" height="18" font="3">no explanation of his own for why this is.</text>
+<text top="542" left="123" width="687" height="18" font="3">Kunihiro (1992) argues that NODE is a polite expression, while KARA is not. In his</text>
+<text top="566" left="108" width="702" height="18" font="3">view, NODE sentences sound indirect, so NODE is a subjective rather than objective</text>
+<text top="590" left="108" width="702" height="18" font="3">expression, while KARA sentences sound direct and straightforward. Consider (11a) and</text>
+<text top="614" left="108" width="50" height="18" font="3">(11b):</text>
+<text top="662" left="108" width="34" height="18" font="3">(11)</text>
+<text top="662" left="162" width="14" height="18" font="3">a.</text>
+<text top="662" left="216" width="54" height="18" font="3">kaze-o</text>
+<text top="662" left="324" width="157" height="18" font="3">hikimasi ta KARA,</text>
+<text top="662" left="540" width="84" height="18" font="3">kessekishi</text>
+<text top="662" left="648" width="48" height="18" font="3">masu </text>
+<text top="685" left="216" width="35" height="18" font="3">cold</text>
+<text top="685" left="324" width="43" height="18" font="3">catch</text>
+<text top="685" left="540" width="76" height="18" font="3">be absent</text>
+<text top="685" left="648" width="102" height="18" font="3">PRE (polite)</text>
+<text top="709" left="216" width="322" height="18" font="3">'I've got a cold KARA, I will be absent.</text>
+<text top="733" left="216" width="371" height="18" font="3">'I can't come to class, because I've got a cold.'</text>
+<text top="781" left="162" width="15" height="18" font="3">b.</text>
+<text top="781" left="216" width="363" height="18" font="3">kaze-o hikimashi ta NODE, kessekishi masu</text>
+<text top="829" left="108" width="701" height="18" font="3">According to Kunihiro, (11a) sounds impolite, because it indicates that catching a cold</text>
+<text top="853" left="108" width="702" height="18" font="3">is a generally accepted reason for being absent; he concludes that students would usually</text>
+<text top="877" left="108" width="334" height="18" font="3">use (11b) when addressing teachers (28).</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="801" width="9" height="16" font="1">7</text>
+<text top="209" left="108" width="204" height="18" font="6"><b>2.2 A common problem</b></text>
+<text top="257" left="108" width="702" height="18" font="3">This survey of past studies of KARA and NODE suggests that although grammarians</text>
+<text top="281" left="108" width="702" height="18" font="3">have tried to characterize the differences in meaning between these two particles, they</text>
+<text top="305" left="108" width="701" height="18" font="3">have not fully succeeded. As we have seen, there are objections to each argument, and</text>
+<text top="329" left="108" width="701" height="18" font="3">counter-examples to each claim. In this section I will point out what I take to be their</text>
+<text top="353" left="108" width="149" height="18" font="3">common problem.</text>
+<text top="377" left="123" width="686" height="18" font="3">First, few of the cited grammarians maintain a clear distinction between semantics and</text>
+<text top="401" left="108" width="702" height="18" font="3">pragmatics. As seen above, their analyses and explanations tend to involve a mixture of</text>
+<text top="424" left="108" width="701" height="18" font="3">semantic matters (mood, e.g. interrogative, imperative, etc.) and pragmatic notions</text>
+<text top="448" left="108" width="702" height="18" font="3">(speech act, e.g. question, command, etc.). It is not always clear whether they believe that</text>
+<text top="472" left="108" width="702" height="18" font="3">these expressions affect truth-conditional content. Only Kunihiro seems to maintain</text>
+<text top="496" left="108" width="702" height="18" font="3">consistently that the difference in interpretation is determined pragmatically rather than</text>
+<text top="520" left="108" width="702" height="18" font="3">semantically. In the tradition to which Kunihiro belongs, pragmatics is taken to be the</text>
+<text top="544" left="108" width="702" height="18" font="3">study of all non-truth-conditional aspects of meaning. KARA and NODE are generally</text>
+<text top="568" left="108" width="702" height="18" font="3">considered to have the same truth-conditional meaning, expressing the cause-</text>
+<text top="592" left="108" width="701" height="18" font="3">consequence relationship, and to differ only non-truth-conditionally. So first we have to</text>
+<text top="616" left="108" width="702" height="18" font="3">clarify the truth-conditional semantics of these expressions: what do KARA and NODE</text>
+<text top="640" left="108" width="702" height="18" font="3">contribute to the proposition expressed? Then we have to explain how to capture the</text>
+<text top="664" left="108" width="465" height="18" font="3">difference in interpretation between, say (11a) and (11b).</text>
+<text top="688" left="123" width="686" height="18" font="3">The blurring of the boundaries between semantics and pragmatics is also seen in</text>
+<text top="712" left="108" width="702" height="18" font="3">Nakada (1977). Basically following Nagano's theory, he analyses the differences</text>
+<text top="736" left="108" width="700" height="18" font="3">between KARA and NODE in terms of the effect each has on sentence structure. His</text>
+<text top="760" left="108" width="702" height="18" font="3">claim is that 'P NODE, Q' is structured as a single sentence ('mono-sentential structure'),</text>
+<text top="784" left="108" width="702" height="18" font="3">whereas in 'P KARA, Q' P and Q are two separate sentences ('bisentential structure'). On</text>
+<text top="807" left="108" width="703" height="18" font="3">his account, P appended with NODE functions as a presupposition of the assertion in Q,</text>
+<text top="831" left="108" width="702" height="18" font="3">whereas P appended with KARA and the following Q are two separate assertions,</text>
+<text top="855" left="108" width="702" height="18" font="3">connected from the speaker's point of view. However, what he means by structural</text>
+<text top="879" left="108" width="702" height="18" font="3">difference is not clear. He might mean that the clause appended with NODE is a</text>
+<text top="903" left="108" width="702" height="18" font="3">subordinate clause, while the one appended by KARA is a coordinate clause. If so, we</text>
+<text top="927" left="108" width="702" height="18" font="3">must accept that the two particles are of different syntactic types, but carry an identical</text>
+<text top="951" left="108" width="702" height="18" font="3">meaning. However, the view that they differ syntactically is not immediately plausible,</text>
+<text top="975" left="108" width="702" height="18" font="3">since KARA and NODE are not free lexical forms but bound forms which are always</text>
+<text top="999" left="108" width="536" height="18" font="3">appended to a clause, and they are interchangeable in most cases. </text>
+<text top="1023" left="123" width="687" height="18" font="3">I will argue later that in the Relevance-theoretic framework these two particles should</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="9" height="16" font="1">8</text>
+<text top="189" left="108" width="702" height="18" font="3">be seen as a single complex proposition, and that the role of KARA/NODE is to indicate</text>
+<text top="213" left="108" width="702" height="18" font="3">how the proposition to which it is appended contributes to the interpretation of the</text>
+<text top="237" left="108" width="170" height="18" font="3">utterance as a whole.</text>
+<text top="261" left="123" width="687" height="18" font="3">Secondly, grammarians generally describe speakers' preferences between KARA and</text>
+<text top="285" left="108" width="701" height="18" font="3">NODE by giving contexts in which only one of the two is fully acceptable. In fact,</text>
+<text top="309" left="108" width="702" height="18" font="3">however, both are equally acceptable in almost all contexts. Nagano (1988), in reply to</text>
+<text top="332" left="108" width="701" height="18" font="3">Tio's counterexamples, states clearly that KARA and NODE are so similar in meaning</text>
+<text top="356" left="108" width="702" height="18" font="3">that a clear-cut distinction is not possible, and that so there are considerable overlapping</text>
+<text top="380" left="108" width="701" height="18" font="3">synonymous uses. He comments (1988: 68-69): 'The subjectivity/objectivity distinction</text>
+<text top="404" left="108" width="702" height="18" font="3">is a fundamental difference and there are many cases in everyday discourse where we</text>
+<text top="428" left="108" width="702" height="18" font="3">can't say which to choose or where NODE can be accepted, even though NODE is</text>
+<text top="452" left="108" width="626" height="18" font="3">'incorrect' and KARA is preferred '. This sounds like an admission of defeat. </text>
+<text top="476" left="123" width="687" height="18" font="3">Furthermore, Nagano himself gives an objection to his own earlier view. Consider the</text>
+<text top="500" left="108" width="201" height="18" font="3">pair of examples in (12):</text>
+<text top="548" left="108" width="34" height="18" font="3">(12)</text>
+<text top="548" left="162" width="14" height="18" font="3">a.</text>
+<text top="548" left="216" width="190" height="18" font="3">kiiteorimase-n  KARA,</text>
+<text top="548" left="432" width="149" height="18" font="3">wakari-kane masu</text>
+<text top="572" left="216" width="133" height="18" font="3">hear (polite)-not</text>
+<text top="572" left="432" width="133" height="18" font="3">know-difficult   </text>
+<text top="596" left="216" width="489" height="18" font="3">'I haven't heard anything KARA, I don't know (what to do).'</text>
+<text top="620" left="216" width="594" height="18" font="3">'Since I haven't heard anything about the matter, I don't know what to do.'</text>
+<text top="668" left="162" width="15" height="18" font="3">b.</text>
+<text top="668" left="216" width="338" height="18" font="3">kiiteorimase-n NODE, wakari-kane masu</text>
+<text top="692" left="216" width="594" height="18" font="3">'Since I haven't heard anything about the matter, (I'm afraid) I don't know</text>
+<text top="716" left="216" width="95" height="18" font="3">what to do.'</text>
+<text top="763" left="108" width="702" height="18" font="3">He claims that when a polite form is used in the second clause Q, KARA must be</text>
+<text top="787" left="108" width="702" height="18" font="3">replaced by NODE, because KARA sounds 'offensive'. Indeed, the use of NODE does</text>
+<text top="811" left="108" width="701" height="18" font="3">make Q sound polite, as 'I'm afraid' suggests in the translation (12b). This has been seen</text>
+<text top="835" left="108" width="702" height="18" font="3">by Kunihiro (1992) as a problem for Nagano's theory. Kunihiro claims that politeness</text>
+<text top="859" left="108" width="702" height="18" font="3">relates to subjectivity rather than objectivity. In his view, while KARA in (11) indicates</text>
+<text top="883" left="108" width="702" height="18" font="3">an objectively admitted reason, NODE has the effect of softening the causal/explanatory</text>
+<text top="907" left="108" width="703" height="18" font="3">connection. Yet on Nagano's account, KARA is connected with subjectivity and NODE</text>
+<text top="931" left="108" width="702" height="18" font="3">with objectivity. This raises the question of how the objectivity/subjectivity distinction</text>
+<text top="955" left="108" width="212" height="18" font="3">correlates with politeness.</text>
+<text top="979" left="123" width="686" height="18" font="3">Tio, unlike Nagano, does not stipulate a basic relationship between KARA and</text>
+<text top="1003" left="108" width="702" height="18" font="3">subjective reasoning on the one hand, and NODE and objective reasoning on the other.</text>
+<text top="1027" left="108" width="702" height="18" font="3">As we have seen, he argues that the distinction lies in the speaker's judgement of the</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="801" width="9" height="16" font="1">9</text>
+<text top="209" left="108" width="702" height="18" font="3">degree to which the hearer has been familiarized with the existence of the connection.</text>
+<text top="233" left="108" width="702" height="18" font="3">Nagano (1988) objects that Tio's examples are rather slanted. Consider Tio's example</text>
+<text top="257" left="108" width="40" height="18" font="3">(13):</text>
+<text top="281" left="108" width="5" height="18" font="3"> </text>
+<text top="305" left="108" width="34" height="18" font="3">(13)</text>
+<text top="305" left="162" width="356" height="18" font="3">(to a child who has just got out of the bath):</text>
+<text top="329" left="162" width="354" height="18" font="3">o-naka-o dashite-i  ru  to  kaminari-sama-ni</text>
+<text top="329" left="540" width="228" height="18" font="3">o-heso-o tor-rare ru KARA,</text>
+<text top="353" left="162" width="138" height="18" font="3">belly        expose</text>
+<text top="353" left="324" width="137" height="18" font="3">if  lightning-Mr. </text>
+<text top="353" left="540" width="142" height="18" font="3">navel steal-PASS</text>
+<text top="377" left="181" width="193" height="18" font="3">o-yohfuku-o kima-shoo</text>
+<text top="401" left="181" width="204" height="18" font="3">clothes wear let's (polite)</text>
+<text top="425" left="162" width="647" height="18" font="3">'If you are in the nude, Mr. Lightning will steal tummies away KARA, you should</text>
+<text top="449" left="162" width="111" height="18" font="3">wear clothes.'</text>
+<text top="473" left="162" width="483" height="18" font="3">'Cover up your tummy, or Mr. Lightning will steal it away.'</text>
+<text top="520" left="108" width="701" height="18" font="3">Nagano says that he can't understand why Tio considers (13) to provide a familiar reason</text>
+<text top="544" left="108" width="702" height="18" font="3">for the child: the claim that lightning steals the tummies of naked children would be quite</text>
+<text top="568" left="108" width="702" height="18" font="3">unfamiliar. In Nagano's view, parents use KARA because they want to emphasize the</text>
+<text top="592" left="108" width="506" height="18" font="3">cause-consequence relationship in order to persuade the child.</text>
+<text top="616" left="123" width="687" height="18" font="3">In my opinion, it is not the case that KARA in general expresses subjective reason or</text>
+<text top="640" left="108" width="702" height="18" font="3">obviously admitted reason, nor that KARA sentences in general sound rather offensive.</text>
+<text top="664" left="108" width="702" height="18" font="3">The point is that the speaker chooses to use one rather than the other in a particular</text>
+<text top="688" left="108" width="702" height="18" font="3">instance. Since in most cases KARA and NODE are interchangeable, the question is</text>
+<text top="712" left="108" width="702" height="18" font="3">what makes the speaker choose between the two? Why are there some cases where</text>
+<text top="736" left="108" width="702" height="18" font="3">substitution is not possible? I have suggested that the speaker's decision does not affect</text>
+<text top="760" left="108" width="702" height="18" font="3">the content of her message, but has some effect on the overall communication</text>
+<text top="784" left="108" width="702" height="18" font="3">nonetheless. I will try to show what this effect is, and use it to clarify the differences</text>
+<text top="808" left="108" width="232" height="18" font="3">between KARA and NODE.</text>
+<text top="832" left="123" width="688" height="18" font="3">Though previous studies have presented interesting linguistic data, they do not analyze</text>
+<text top="856" left="108" width="702" height="18" font="3">them in an adequate explanatory framework, but try to always accumulate examples in</text>
+<text top="879" left="108" width="702" height="18" font="3">the hope that generalisations will emerge. However, it is not necessarily the case that</text>
+<text top="903" left="108" width="702" height="18" font="3">inductive observation of a great number of examples will point in the right direction. We</text>
+<text top="927" left="108" width="702" height="18" font="3">need first an adequate semantics for these particles, Then, we need an account of how</text>
+<text top="951" left="108" width="702" height="18" font="3">these encoded meanings interact with pragmatic factors to yield the range of possible</text>
+<text top="975" left="108" width="702" height="18" font="3">interpretations. I will turn first to semantic question approached within the more general</text>
+<text top="999" left="108" width="366" height="18" font="3">pragmatic framework of Relevance Theory.  </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">10</text>
+<text top="938" left="123" width="6" height="11" font="0">6</text>
+<text top="943" left="129" width="627" height="16" font="1">TE is a contracted form of a verb stem + sosite 'and', followed by a sentence. For example:</text>
+<text top="963" left="143" width="16" height="16" font="1">(i)</text>
+<text top="963" left="181" width="57" height="16" font="1">boku-ga</text>
+<text top="963" left="270" width="130" height="16" font="1">shokuji-o tsuku ru.</text>
+<text top="963" left="432" width="160" height="16" font="1">sosite kimi-ga tabe ru</text>
+<text top="983" left="181" width="55" height="16" font="1">I (male)</text>
+<text top="983" left="270" width="76" height="16" font="1">meal make</text>
+<text top="983" left="432" width="25" height="16" font="1">and</text>
+<text top="983" left="486" width="76" height="16" font="1">you       eat</text>
+<text top="1004" left="181" width="278" height="16" font="1">'I will make a meal. And you will eat it.'</text>
+<text top="1024" left="143" width="21" height="16" font="1">(ii)</text>
+<text top="1024" left="181" width="57" height="16" font="1">boku-ga</text>
+<text top="1024" left="270" width="111" height="16" font="1">shokuji-o tsuku </text>
+<text top="1024" left="432" width="21" height="16" font="1">TE</text>
+<text top="1024" left="486" width="106" height="16" font="1">kimi-ga tabe ru</text>
+<text top="1044" left="181" width="268" height="16" font="1">'I will make a meal and you will eat it.'</text>
+<text top="189" left="108" width="255" height="18" font="6"><b>3 Semantics of KARA/NODE</b></text>
+<text top="237" left="108" width="186" height="18" font="6"><b>3.1 Explicit encoding </b></text>
+<text top="284" left="108" width="702" height="18" font="3">Both P KARA, Q and P NODE, Q express a cause-consequence relation between P and</text>
+<text top="308" left="108" width="703" height="18" font="3">Q: P is a consequence of Q/Q is a reason for P. The cause-consequence relation can be</text>
+<text top="332" left="108" width="703" height="18" font="3">implicitly communicated, as in P TE, Q, where P and Q are just connected by TE</text>
+<text top="356" left="108" width="440" height="18" font="3">(translated as <i>and</i>), which is equivalent to logical '&amp;'.</text>
+<text top="353" left="548" width="6" height="11" font="0">6</text>
+<text top="356" left="554" width="256" height="18" font="3"> There the relation is recovered</text>
+<text top="380" left="108" width="702" height="18" font="3">inferentially using pragmatic principles and general knowledge about the way things are</text>
+<text top="403" left="108" width="702" height="18" font="3">related in the world (see Carston 1988, 1995; Wilson &amp; Sperber forthcoming). Let P and</text>
+<text top="426" left="108" width="97" height="18" font="3">Q stand for:</text>
+<text top="473" left="108" width="34" height="18" font="3">(14)</text>
+<text top="473" left="162" width="269" height="18" font="3">P = I drank too much yesterday.</text>
+<text top="497" left="162" width="300" height="18" font="3">Q = I have a headache this morning.</text>
+<text top="543" left="108" width="702" height="18" font="3">A pragmatic theory should explain why we can interpret (15) along the lines of (16),</text>
+<text top="567" left="108" width="357" height="18" font="3">relying on general knowledge such as (17): </text>
+<text top="614" left="108" width="34" height="18" font="3">(15)</text>
+<text top="614" left="162" width="523" height="18" font="3">I drank too much yesterday TE, I have a headache this morning.</text>
+<text top="660" left="108" width="34" height="18" font="3">(16)</text>
+<text top="660" left="162" width="648" height="18" font="3">I drank too much yesterday and [as a consequence/because of that ] I have a</text>
+<text top="684" left="162" width="190" height="18" font="3">headache this morning.</text>
+<text top="731" left="108" width="34" height="18" font="3">(17)</text>
+<text top="731" left="162" width="507" height="18" font="3">Too much drinking may lead to a headache the following day.</text>
+<text top="777" left="108" width="701" height="18" font="3">One reason for claiming that the cause/consequence relation is not part of the encoded</text>
+<text top="801" left="108" width="701" height="18" font="3">meaning of TE is that there are utterances with TE which do not communicate a cause-</text>
+<text top="824" left="108" width="375" height="18" font="3">consequence relation. Consider the following:</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">11</text>
+<text top="209" left="108" width="34" height="18" font="3">(18)</text>
+<text top="209" left="162" width="649" height="18" font="3">I finished the work with which I had been concerned for months TE, made a</text>
+<text top="232" left="162" width="174" height="18" font="3">report of the mission.</text>
+<text top="279" left="108" width="34" height="18" font="3">(19)</text>
+<text top="279" left="162" width="443" height="18" font="3">It is close to the sea here TE, it's good for one's health.</text>
+<text top="326" left="108" width="702" height="18" font="3">In (18) a cause-consequence interpretation is not necessarily recovered. In (19) the</text>
+<text top="349" left="108" width="701" height="18" font="3">relation understood to hold is more or less indeterminate: closeness to the sea may be</text>
+<text top="373" left="108" width="702" height="18" font="3">interpreted as a possible cause of good health, or the two clauses may simply be</text>
+<text top="396" left="108" width="702" height="18" font="3">interpreted as describing two characteristics of the place. This is the standard mark of a</text>
+<text top="420" left="108" width="356" height="18" font="3">relation that is inferred rather than encoded.</text>
+<text top="443" left="123" width="686" height="18" font="3">Inferring a causal relation needs some effort, but it also yields more contextual effects</text>
+<text top="466" left="108" width="701" height="18" font="3">than other types of relation, e.g. temporal or spatial relations. Because inference involves</text>
+<text top="490" left="108" width="702" height="18" font="3">some effort and risk of misunderstanding, the speaker may encode the causal relation</text>
+<text top="513" left="108" width="601" height="18" font="3">explicitly by using KARA or NODE. Compare (20a) and (20b) with (19):</text>
+<text top="537" left="108" width="15" height="18" font="3">   </text>
+<text top="560" left="108" width="34" height="18" font="3">(20)</text>
+<text top="560" left="162" width="14" height="18" font="3">a.</text>
+<text top="560" left="216" width="469" height="18" font="3">It's close to the sea here KARA, it's good for one's health.</text>
+<text top="583" left="162" width="15" height="18" font="3">b.</text>
+<text top="583" left="216" width="468" height="18" font="3">It's close to the sea here NODE, it's good for one's health.</text>
+<text top="630" left="108" width="701" height="18" font="3">The examples in (20) explicitly encode the information that good health is a consequence</text>
+<text top="654" left="108" width="702" height="18" font="3">of closeness to the sea. The hearer has no option of supplying some weaker relation, as</text>
+<text top="677" left="108" width="143" height="18" font="3">he does with TE. </text>
+<text top="700" left="123" width="687" height="18" font="3">So far, I have demonstrated that KARA and NODE explicitly encode a cause-</text>
+<text top="724" left="108" width="703" height="18" font="3">consequence relation. The next question to be examined is whether this relation is truth-</text>
+<text top="747" left="108" width="702" height="18" font="3">conditional or not. I will argue that in the case of both KARA and NODE , it is truth-</text>
+<text top="771" left="108" width="97" height="18" font="3">conditional.</text>
+<text top="841" left="108" width="416" height="18" font="6"><b>3.2 Truth-conditional or non-truth-conditional?</b></text>
+<text top="888" left="108" width="701" height="18" font="3">Within the framework of Relevance Theory, Blakemore (1987) drew a distinction</text>
+<text top="911" left="108" width="702" height="18" font="3">between conceptual and procedural meaning. For her, conceptual meaning was truth-</text>
+<text top="934" left="108" width="702" height="18" font="3">conditional and procedural meaning was non-truth-conditional. In analysing the meaning</text>
+<text top="958" left="108" width="702" height="18" font="3">of KARA/NODE, our first step must therefore be to establish to what extent, if any, their</text>
+<text top="981" left="108" width="236" height="18" font="3">meaning is truth-conditional.</text>
+<text top="1005" left="123" width="686" height="18" font="3">There is a standard test to distinguish truth-conditional from non-truth-conditional</text>
+<text top="1028" left="108" width="701" height="18" font="3">meaning. It involves embedding into a conditional a sentence which includes the</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">12</text>
+<text top="189" left="108" width="702" height="18" font="3">expression to be tested, and seeing if this expression falls within the scope of the <i>if</i></text>
+<text top="212" left="108" width="702" height="18" font="3">(Carston 1988; Ifantidou 1993). Let me illustrate this by looking at KEDO '<i>but</i>', which</text>
+<text top="236" left="108" width="702" height="18" font="3">is generally claimed to have a contrastive and non-truth-conditional meaning. Consider</text>
+<text top="259" left="108" width="197" height="18" font="3">the conditional in (21):  </text>
+<text top="306" left="108" width="34" height="18" font="3">(21)</text>
+<text top="306" left="162" width="648" height="18" font="3">If fish are plentiful KEDO, it's cold in winter, then we won't live here when we get</text>
+<text top="329" left="162" width="31" height="18" font="3">old.</text>
+<text top="376" left="108" width="702" height="18" font="3">The question is under what conditions the speaker of (21) is claiming that we won't live</text>
+<text top="400" left="108" width="702" height="18" font="3">here when we get old: Is she saying that if (a) and (b) in (22) are true we won't live here</text>
+<text top="423" left="108" width="702" height="18" font="3">when we get old, or that if (a), (b) and (c) are true we won't live here when we get old?</text>
+<text top="446" left="108" width="702" height="18" font="3">If the former, KEDO is non-truth-conditional, and if the latter, KEDO is truth-</text>
+<text top="470" left="108" width="97" height="18" font="3">conditional:</text>
+<text top="517" left="108" width="34" height="18" font="3">(22)</text>
+<text top="517" left="162" width="14" height="18" font="3">a.</text>
+<text top="517" left="216" width="184" height="18" font="3">Fish are plentiful here.</text>
+<text top="540" left="162" width="15" height="18" font="3">b.</text>
+<text top="540" left="216" width="147" height="18" font="3">It's cold in winter.</text>
+<text top="563" left="162" width="14" height="18" font="3">c.</text>
+<text top="563" left="216" width="594" height="18" font="3">There is a contrast between the fact that fish are plentiful here and the fact</text>
+<text top="587" left="216" width="181" height="18" font="3">that it's cold in winter.</text>
+<text top="634" left="108" width="702" height="18" font="3">Here it seems clear that the connotation of contrast in (22c) does not contribute to the</text>
+<text top="657" left="108" width="702" height="18" font="3">truth-conditions of (21), and the contrastive meaning of KEDO is therefore non-truth-</text>
+<text top="680" left="108" width="97" height="18" font="3">conditional.</text>
+<text top="704" left="123" width="687" height="18" font="3">Now we can see how sentences with KARA/NODE behave in similar condition. The</text>
+<text top="727" left="108" width="702" height="18" font="3">question is whether the speaker of (23) is claiming that if (a) and (b) in (24) are true we</text>
+<text top="751" left="108" width="702" height="18" font="3">want to live here when we get old, or that if (a), (b) and (c) are true we want to live here</text>
+<text top="774" left="108" width="702" height="18" font="3">when we get old. In other words, does (24c) contribute to the truth conditions of (23),</text>
+<text top="798" left="108" width="343" height="18" font="3">or does it remain outside the scope of '<i>if '</i>?</text>
+<text top="844" left="108" width="34" height="18" font="3">(23)</text>
+<text top="844" left="162" width="649" height="18" font="3">If it's close to the sea KARA/NODE, the climate is mild all year round, then we</text>
+<text top="868" left="162" width="280" height="18" font="3">want to live here when we get old.</text>
+<text top="891" left="162" width="648" height="18" font="3">'If the climate is mild all year round, because it's close to the sea, then we would</text>
+<text top="915" left="162" width="284" height="18" font="3">want to live here when we get old.'</text>
+<text top="961" left="108" width="34" height="18" font="3">(24)</text>
+<text top="961" left="162" width="14" height="18" font="3">a.</text>
+<text top="961" left="216" width="158" height="18" font="3">It's close to the sea.</text>
+<text top="985" left="162" width="15" height="18" font="3">b.</text>
+<text top="985" left="216" width="281" height="18" font="3">The climate is mild all year round.</text>
+<text top="1008" left="162" width="14" height="18" font="3">c.</text>
+<text top="1008" left="216" width="576" height="18" font="3">The fact that it's close to the sea makes the climate mild all year round.</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">13</text>
+<text top="209" left="108" width="702" height="18" font="3">Here, the result are different from those with KEDO. (24) clearly falls within the scope</text>
+<text top="232" left="108" width="701" height="18" font="3">of 'if' in (23).' Thus the intuition that KARA/NODE are truth-conditional is confirmed.</text>
+<text top="256" left="123" width="686" height="18" font="3">The fact that KARA/NODE are truth-conditional suggests that they should be seen as</text>
+<text top="279" left="108" width="702" height="18" font="3">encoding conceptual rather than procedural meaning. Understanding the sentences in</text>
+<text top="303" left="108" width="702" height="18" font="3">(20) involves recovering three propositions: (i) the place is close to the sea (P), (ii) it is</text>
+<text top="326" left="108" width="702" height="18" font="3">good for one's health(Q) and (iii) Q is a consequence of P. Contributing to the truth</text>
+<text top="349" left="108" width="702" height="18" font="3">conditions of the utterance, they are therefore best treated as involving conceptual</text>
+<text top="373" left="108" width="80" height="18" font="3">encoding.</text>
+<text top="396" left="123" width="294" height="18" font="3">Now compare the sentences in (25):</text>
+<text top="420" left="108" width="5" height="18" font="3"> </text>
+<text top="443" left="108" width="34" height="18" font="3">(25)</text>
+<text top="443" left="162" width="14" height="18" font="3">a.</text>
+<text top="443" left="216" width="46" height="18" font="3">kinoo</text>
+<text top="443" left="324" width="238" height="18" font="3">nomi-sugi TE ne-busoku TE,</text>
+<text top="443" left="594" width="106" height="18" font="3">atama-ga itai</text>
+<text top="466" left="216" width="78" height="18" font="3">yesterday</text>
+<text top="466" left="324" width="59" height="18" font="3">drink  </text>
+<text top="466" left="432" width="93" height="18" font="3">  sleep-lack</text>
+<text top="466" left="594" width="76" height="18" font="3">headache</text>
+<text top="490" left="216" width="595" height="18" font="3">'I drank too much yesterday and had a lack of sleep, and I have a headache.'</text>
+<text top="537" left="162" width="15" height="18" font="3">b.</text>
+<text top="537" left="216" width="520" height="18" font="3">kinoo nomi-sugi TE ne-busoku da KARA/NODE, atama-ga itai</text>
+<text top="583" left="162" width="14" height="18" font="3">c.</text>
+<text top="583" left="216" width="594" height="18" font="3">kinoh nomi-sugi ta KARA/NODE ne-busoku na NODE/ da KARA, atama-</text>
+<text top="607" left="216" width="50" height="18" font="3">ga itai</text>
+<text top="654" left="108" width="703" height="18" font="3">(25a), with two occurrences of TE, provides the hearer with an immediately accessible</text>
+<text top="677" left="108" width="702" height="18" font="3">context for interpretation but may not be clear where a causal relation is being proposed.</text>
+<text top="700" left="108" width="702" height="18" font="3">In conversation, the speaker might make her intention clearer by the use of</text>
+<text top="724" left="108" width="702" height="18" font="3">KARA/NODE: in (b) she presents both drinking too much and a lack of sleep as causes</text>
+<text top="747" left="108" width="703" height="18" font="3">of her headache, while in (c) the main clause can only be a lack of sleep. These</text>
+<text top="771" left="108" width="702" height="18" font="3">differences in interpretation confirm the views that KARA/NODE affect the truth-</text>
+<text top="794" left="108" width="555" height="18" font="3">conditions of utterances, and therefore encode conceptual meaning. </text>
+<text top="817" left="123" width="686" height="18" font="3">A further reason for treating that KARA/NODE encode conceptual meaning is given</text>
+<text top="841" left="108" width="700" height="18" font="3">by Wilson &amp; Sperber (1993) and Ifantidou (1993). Conceptual representations have</text>
+<text top="864" left="108" width="701" height="18" font="3">logical properties: they may be true or false, entail or contradict each other. It follows</text>
+<text top="888" left="108" width="702" height="18" font="3">that if KARA/NODE encode concepts, then the speaker who uses them may be open to</text>
+<text top="911" left="108" width="702" height="18" font="3">charges of untruthfulness in their use. This turns out to be the case. Consider the</text>
+<text top="934" left="108" width="167" height="18" font="3">following exchange:</text>
+<text top="981" left="108" width="34" height="18" font="3">(26)</text>
+<text top="981" left="162" width="78" height="18" font="3">Husband:</text>
+<text top="981" left="270" width="531" height="18" font="3">I had a lack of sleep yesterday KARA/NODE, I have a headache.</text>
+<text top="1005" left="162" width="46" height="18" font="3">Wife:</text>
+<text top="1005" left="270" width="540" height="18" font="3">That's not true. It's not that you had a lack of sleep KARA /NODE,</text>
+<text top="1028" left="270" width="504" height="18" font="3">but you drank too much KARA/NODE, you have a headache.</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">14</text>
+<text top="189" left="108" width="702" height="18" font="3">Here, the wife is not necessarily denying that her husband had a lack of sleep, but she is</text>
+<text top="212" left="108" width="702" height="18" font="3">denying that it was the cause of his headache. Parallel examples with non-truth-</text>
+<text top="235" left="108" width="702" height="18" font="3">conditional KEDO are hard to construct. Thus, KARA/NODE are both truth-conditional</text>
+<text top="259" left="108" width="128" height="18" font="3">and conceptual.</text>
+<text top="329" left="108" width="357" height="18" font="6"><b>4 Differences between KARA and NODE</b></text>
+<text top="376" left="108" width="185" height="18" font="6"><b>4.1 What is asserted?</b></text>
+<text top="423" left="108" width="702" height="18" font="3">I have argued that KARA/NODE have a common truth-conditional semantics. Now it</text>
+<text top="446" left="108" width="701" height="18" font="3">remains to explain the differences between the two cause-consequence particles. My</text>
+<text top="469" left="108" width="702" height="18" font="3">hypothesis is that the resulting utterances differ in their information structure, i.e. in what</text>
+<text top="493" left="108" width="702" height="18" font="3">clause is indicated as pragmatically most important, and that the semantic difference</text>
+<text top="516" left="108" width="689" height="18" font="3">between KARA and NODE are linked to these differences in information structure.  </text>
+<text top="540" left="123" width="687" height="18" font="3">Sweetser (1990) argues that conjunctives such as <i>because</i> have differing interpretations</text>
+<text top="563" left="108" width="702" height="18" font="3">in three domains of usage. I will compare KARA/NODE with her analysis of <i>because</i>,</text>
+<text top="587" left="108" width="702" height="18" font="3">to bring out their similarities and differences. Sweetser argues (p77) that P <i>because</i> Q</text>
+<text top="610" left="108" width="702" height="18" font="3">can link (a) states of affairs, (b) the speaker's thoughts and (c) speech acts, as seen in the</text>
+<text top="634" left="108" width="138" height="18" font="3">sentences below:</text>
+<text top="681" left="108" width="34" height="18" font="3">(27)</text>
+<text top="681" left="162" width="14" height="18" font="3">a.</text>
+<text top="681" left="216" width="308" height="18" font="3">John came back because he loves her.</text>
+<text top="704" left="162" width="15" height="18" font="3">b.</text>
+<text top="704" left="216" width="316" height="18" font="3">John loved her, because he came back.</text>
+<text top="727" left="162" width="14" height="18" font="3">c.</text>
+<text top="727" left="216" width="489" height="18" font="3">What are you doing tonight, because there's good movie on.</text>
+<text top="774" left="108" width="702" height="18" font="3">Sweetser calls (27a) a content-conjunction, (27b) an epistemic-conjunction and (27c) a</text>
+<text top="798" left="108" width="703" height="18" font="3">speech-act conjunction. She argues that in (27a), the speaker asserts a real-world causal</text>
+<text top="821" left="108" width="702" height="18" font="3">connection between P and Q. Example (27b) would normally be understood as</text>
+<text top="844" left="108" width="702" height="18" font="3">conveying that the speaker's knowledge of John's return causes her to draw the</text>
+<text top="868" left="108" width="655" height="18" font="3">conclusion that John loved her. Utterances of this type may be ambiguous as in: </text>
+<text top="915" left="108" width="34" height="18" font="3">(28)</text>
+<text top="915" left="162" width="543" height="18" font="3">She went, because she left her book in the movie theatre last night.</text>
+<text top="962" left="108" width="702" height="18" font="3">Here, it would be possible to read the <i>because</i>-clause either as a real-world cause of the</text>
+<text top="985" left="108" width="702" height="18" font="3">departure or as a conclusion drawn from the speaker's knowledge of the person's</text>
+<text top="1009" left="108" width="702" height="18" font="3">departure. The <i>because</i>-clause in (27c) gives the cause of the speech-act expressed by</text>
+<text top="1032" left="108" width="701" height="18" font="3">P: the reading is something like 'I ask you what you are doing tonight because I want to</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">15</text>
+<text top="1040" left="123" width="6" height="11" font="0">7</text>
+<text top="1044" left="129" width="364" height="16" font="1">The apparent counter examples are discussed below.</text>
+<text top="209" left="108" width="702" height="18" font="3">suggest that we go see this good movie.' Thus, <i>because</i> may be interpreted as relating to</text>
+<text top="233" left="108" width="702" height="18" font="3">three different domains, and the correct interpretation depends on 'pragmatically</text>
+<text top="256" left="108" width="702" height="18" font="3">motivated choice between viewing the conjoined clauses as representing content units,</text>
+<text top="279" left="108" width="296" height="18" font="3">logical entities, or speech acts (78).' </text>
+<text top="303" left="108" width="703" height="18" font="3">It is interesting to note that only KARA is used in conversation in Sweetser's speech-act</text>
+<text top="326" left="108" width="66" height="18" font="3">domain.</text>
+<text top="323" left="174" width="6" height="11" font="0">7</text>
+<text top="326" left="180" width="280" height="18" font="3"> Consider the following examples:</text>
+<text top="373" left="108" width="34" height="18" font="3">(29)</text>
+<text top="373" left="162" width="75" height="18" font="3">omae-wa</text>
+<text top="373" left="270" width="81" height="18" font="3">nan-demo</text>
+<text top="373" left="378" width="191" height="18" font="3">yoku sittei ru     KARA</text>
+<text top="373" left="594" width="115" height="18" font="3">tazune ru ga,  </text>
+<text top="396" left="162" width="31" height="18" font="3">you</text>
+<text top="396" left="270" width="87" height="18" font="3">everything</text>
+<text top="396" left="378" width="179" height="18" font="3">well know PRESENT</text>
+<text top="396" left="594" width="109" height="18" font="3">(I) ask           </text>
+<text top="420" left="181" width="155" height="18" font="3">Elizabeth jyoou-no</text>
+<text top="420" left="378" width="241" height="18" font="3">taikansiki-wa nan-nen dat-ta?</text>
+<text top="443" left="181" width="53" height="18" font="3">Queen</text>
+<text top="443" left="378" width="87" height="18" font="3">coronation</text>
+<text top="443" left="486" width="80" height="18" font="3">what year</text>
+<text top="467" left="162" width="647" height="18" font="3">'Since you know anything very well KARA I ask, when did Queen Elizabeth II's</text>
+<text top="490" left="162" width="188" height="18" font="3">coronation take place? </text>
+<text top="513" left="162" width="648" height="18" font="3">'Since you seem to know the answer to everything, can you tell me when Queen</text>
+<text top="537" left="162" width="230" height="18" font="3">Elizabeth's coronation was?'</text>
+<text top="584" left="108" width="34" height="18" font="3">(30)</text>
+<text top="584" left="162" width="507" height="18" font="3">mituke-rare nai you da KARA oshiete-age ru ga, kotae-wa</text>
+<text top="607" left="162" width="181" height="18" font="3">find out-can not seem</text>
+<text top="607" left="432" width="26" height="18" font="3">tell</text>
+<text top="607" left="594" width="58" height="18" font="3">answer</text>
+<text top="630" left="181" width="175" height="18" font="3">tugino page-ni aru yo</text>
+<text top="654" left="181" width="79" height="18" font="3">next page</text>
+<text top="677" left="162" width="618" height="18" font="3">'Since you can't find out the answer KARA I tell you, it is on the next page.'</text>
+<text top="701" left="162" width="648" height="18" font="3">'Since you don't seem to be able to find the answer, you'd better look on the next</text>
+<text top="724" left="162" width="47" height="18" font="3">page.'</text>
+<text top="747" left="108" width="71" height="18" font="3">              </text>
+<text top="771" left="108" width="34" height="18" font="3">(31)</text>
+<text top="771" left="162" width="354" height="18" font="3">kisoku-wa kisoku da   KARA  (ii masu ga),</text>
+<text top="771" left="540" width="84" height="18" font="3">ikemase-n</text>
+<text top="794" left="162" width="339" height="18" font="3">rules                                         say (polite)</text>
+<text top="794" left="541" width="45" height="18" font="3">don't </text>
+<text top="818" left="162" width="406" height="18" font="3">'The rules are rules KARA (I say), 'no'/'you don't.'</text>
+<text top="841" left="162" width="248" height="18" font="3">'Rules are rules, so don't do it.'</text>
+<text top="864" left="123" width="5" height="18" font="3"> </text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">16</text>
+<text top="1019" left="123" width="6" height="11" font="0">8</text>
+<text top="1024" left="129" width="680" height="16" font="7"><i>Kure</i>,  <i>kudasai</i> (polite) and c<i>houdai</i> (informal) are imperative forms of <i>give</i>, which can be</text>
+<text top="1044" left="108" width="651" height="16" font="1">paraphrased, followed by a (real) verb, something like 'make the action/the thing come to me'.</text>
+<text top="189" left="108" width="34" height="18" font="3">(32)</text>
+<text top="189" left="162" width="624" height="18" font="3">sekkaku London-ni i-ru KARA, Paris-no gakkai-ni iku-beki da to omoimasu</text>
+<text top="212" left="162" width="619" height="18" font="3">fortunately              stay                            conference go-should COMP think</text>
+<text top="235" left="162" width="648" height="18" font="3">'Fortunately, you are in London KARA, I think you should go to the conference</text>
+<text top="259" left="162" width="70" height="18" font="3">in Paris.'</text>
+<text top="282" left="162" width="648" height="18" font="3">'Since it's a good thing you're in London, I think you ought to go to the conference</text>
+<text top="306" left="162" width="70" height="18" font="3">in Paris.'</text>
+<text top="329" left="108" width="45" height="18" font="3">         </text>
+<text top="352" left="108" width="702" height="18" font="3">It is characteristic of Japanese that speech-act verbs are usually explicitly encoded:</text>
+<text top="376" left="108" width="702" height="18" font="2"><i>tazune-ru</i>  'I  ask'  in  (29<i>), oshie-ru</i> 'I tell/teach' in (30), <i>omow-ru</i> 'I think' in (32).</text>
+<text top="400" left="108" width="702" height="18" font="3">Sometimes, as shown in (31)(<i> iw-ru</i> 'I say'), the speech-act verbs are optional as in</text>
+<text top="423" left="108" width="272" height="18" font="3">English. Compare (31) with (33):</text>
+<text top="470" left="108" width="34" height="18" font="3">(33)</text>
+<text top="470" left="162" width="88" height="18" font="3">watashi-ga</text>
+<text top="470" left="270" width="458" height="18" font="3">shokki-o arau KARA, anata-wa hukin-de huite choudai</text>
+<text top="466" left="728" width="6" height="11" font="0">8</text>
+<text top="493" left="162" width="7" height="18" font="3">I</text>
+<text top="493" left="270" width="116" height="18" font="3">china      wash</text>
+<text top="493" left="452" width="31" height="18" font="3">you</text>
+<text top="493" left="540" width="208" height="18" font="3">dishcloth-with  wipe IMP</text>
+<text top="517" left="162" width="533" height="18" font="3">'I wash the dishes KARA, I ask you to wipe them with the cloth.' </text>
+<text top="540" left="162" width="279" height="18" font="3">'If I wash the dishes will you dry?'</text>
+<text top="563" left="108" width="5" height="18" font="3"> </text>
+<text top="587" left="108" width="702" height="18" font="3">In (33) the speech-act verb is implicitly understood with the imperative ending of the</text>
+<text top="610" left="108" width="142" height="18" font="3">second conjunct. </text>
+<text top="634" left="123" width="687" height="18" font="3">In examples (29) - (32), Sweetser's content-conjunction reading is impossible. Instead</text>
+<text top="657" left="108" width="703" height="18" font="3">the causal conjunctions are used to justify the speech act whose content is given in the</text>
+<text top="680" left="108" width="703" height="18" font="3">following clause. Intuitively the hearer interprets the KARA-appended clauses as</text>
+<text top="704" left="108" width="702" height="18" font="3">modifying higher-level explicatures, which sometimes are not encoded but only inferred.</text>
+<text top="727" left="108" width="702" height="18" font="3">In (29), where the main clause is not a statement, the KARA-appended clause justifies</text>
+<text top="751" left="108" width="702" height="18" font="3">the question about when the coronation took place. Similarly, in (30) - (32) the KARA</text>
+<text top="774" left="108" width="703" height="18" font="3">clauses motivate the speaker's assertion or suggestion. It is clear that while the KARA</text>
+<text top="797" left="108" width="701" height="18" font="3">clauses concern the speaker's attitudes to her asserting, telling, asking or suggesting, the</text>
+<text top="821" left="108" width="701" height="18" font="3">main point of each utterance is understood to be in the propositional content of the main</text>
+<text top="844" left="108" width="487" height="18" font="3">clause, to which the KARA clause gives secondary support.</text>
+<text top="868" left="123" width="687" height="18" font="3">In connection with speech-act verbs and KARA, I note that when the main clauses are</text>
+<text top="891" left="108" width="702" height="18" font="3">marked by sentence-final particles, KARA sounds much better than NODE. Compare</text>
+<text top="914" left="108" width="133" height="18" font="3">(34a) and (34b):</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="20" family="AJBBPO+MSTT31c63e00" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">17</text>
+<text top="1019" left="123" width="6" height="11" font="0">9</text>
+<text top="1024" left="129" width="680" height="16" font="1">Uyeno (1971) is, to the best of my knowledge, the first systematic study of the sentence-final</text>
+<text top="1044" left="108" width="523" height="16" font="1">particles; Itani (1995) analyses them in the Relevance-theoretic framework.</text>
+<text top="209" left="108" width="34" height="18" font="3">(34)</text>
+<text top="209" left="162" width="14" height="18" font="3">a.</text>
+<text top="209" left="216" width="71" height="18" font="3">koko-wa</text>
+<text top="209" left="324" width="250" height="18" font="3">umi-ni chikai   KARA/NODE,</text>
+<text top="209" left="594" width="99" height="18" font="3">kenkou-ni ii</text>
+<text top="232" left="216" width="35" height="18" font="3">here</text>
+<text top="232" left="324" width="98" height="18" font="3">sea      close</text>
+<text top="232" left="594" width="95" height="18" font="3">health good</text>
+<text top="256" left="216" width="482" height="18" font="3">'It is close to the sea here KARA, it is good for one's health</text>
+<text top="303" left="162" width="15" height="18" font="3">b.</text>
+<text top="303" left="216" width="461" height="18" font="3">kokowa umi-ni chikai KARA (?NODE), kenkou-ni ii yo</text>
+<text top="349" left="108" width="702" height="18" font="3">In face-to-face conversation in Japanese, it is usual for the sentence to be marked by such</text>
+<text top="373" left="108" width="362" height="18" font="3">sentence-final particles as <i>ka, ne,sa</i>, <i>yo </i>etc.</text>
+<text top="370" left="470" width="6" height="11" font="0">9</text>
+<text top="373" left="476" width="334" height="18" font="3">  They are assumed not to contribute to</text>
+<text top="397" left="108" width="702" height="18" font="3">propositional content. <i>Yo </i>is considered emphatic: it forces the hearer to interpret the</text>
+<text top="420" left="108" width="702" height="18" font="3">information given as a claim, advice, warning or the like (Uyeno 1971). Thus, in (34b)</text>
+<text top="443" left="108" width="702" height="18" font="3">the KARA clause serves to motivate the speaker's emphatic assertion that the place is</text>
+<text top="467" left="108" width="181" height="18" font="3">good for one's health. </text>
+<text top="490" left="123" width="630" height="18" font="3">Nakada (1977) makes a similar point, discussing the paired sentences in (35):</text>
+<text top="537" left="108" width="34" height="18" font="3">(35)</text>
+<text top="537" left="162" width="14" height="18" font="3">a.</text>
+<text top="537" left="216" width="75" height="18" font="3">atama-ga</text>
+<text top="537" left="324" width="178" height="18" font="3">itai NODE (?KARA),</text>
+<text top="537" left="540" width="203" height="18" font="3">iinkai-wa kesseki simasu</text>
+<text top="560" left="216" width="38" height="18" font="3">head</text>
+<text top="560" left="324" width="37" height="18" font="3">ache</text>
+<text top="560" left="540" width="212" height="18" font="3">meeting absent be (polite)</text>
+<text top="584" left="216" width="500" height="18" font="3">'I have a headache KARA, I will be absent from the meeting.'</text>
+<text top="607" left="216" width="560" height="18" font="3">'Because I have a headache, I will not attend the committee meeting.'</text>
+<text top="654" left="162" width="15" height="18" font="3">b.</text>
+<text top="654" left="216" width="75" height="18" font="3">atama-ga</text>
+<text top="654" left="324" width="178" height="18" font="3">itai KARA (?NODE),</text>
+<text top="654" left="540" width="229" height="18" font="3">iinkai-wa kesseki simasu yo</text>
+<text top="701" left="108" width="702" height="18" font="3">(35a), with KARA and without <i>yo,</i> has 'a lower degree of acceptability', because a</text>
+<text top="724" left="108" width="702" height="18" font="3">'declarative sentence without some particle at the end is less compatible with KARA'</text>
+<text top="748" left="108" width="701" height="18" font="3">(257). To quote Nakada further: [the particle] 'involves the mental operation of S2 [in</text>
+<text top="771" left="108" width="224" height="18" font="3">S1 KARA S2 construction]</text>
+<text top="766" left="333" width="13" height="26" font="9">&lt;</text>
+<text top="771" left="346" width="464" height="18" font="3">, and it is a device resorted to only when the speaker has</text>
+<text top="794" left="108" width="704" height="18" font="3">strong motivation to create some impact (a command, advice, invitation, etc.) upon the</text>
+<text top="818" left="108" width="701" height="18" font="3">hearer' (257). Nakada's claim is that the speaker of (35b) strongly asserts a reason, while</text>
+<text top="841" left="108" width="702" height="18" font="3">in contrast, sentences using NODE ((35a)) presuppose the reason and assert the main</text>
+<text top="865" left="108" width="702" height="18" font="3">clause. My claim is the opposite: (35a) with NODE is equivalent to: I will not attend the</text>
+<text top="888" left="108" width="702" height="18" font="3">committee meeting, because I have a headache, and (35b) with KARA is equivalent to:</text>
+<text top="911" left="108" width="702" height="18" font="3">since I have a headache, I will not attend the committee meeting. That is to say, the fact</text>
+<text top="935" left="108" width="702" height="18" font="3">that <i>yo</i> can be appended only to the clause following the KARA clause shows that the</text>
+<text top="959" left="108" width="299" height="18" font="3">main clause is highlighted.               <i> </i></text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">18</text>
+<text top="189" left="123" width="686" height="18" font="3">Recall that KARA and NODE are in most cases interchangeable but sometimes KARA</text>
+<text top="212" left="108" width="702" height="18" font="3">makes the sentence sound unnatural. So in (7) (repeated as (36) below), NODE is</text>
+<text top="235" left="108" width="88" height="18" font="3">preferable:</text>
+<text top="282" left="108" width="34" height="18" font="3">(36)</text>
+<text top="282" left="162" width="416" height="18" font="3">yo-ga ake ta NODE/KARA, hutatabi aruki-dashi ta</text>
+<text top="306" left="162" width="373" height="18" font="3">'Since it was daylight, I began walking again.'</text>
+<text top="352" left="108" width="702" height="18" font="3">In Sweetser's terms, here P and Q are connected by real-world causality: the day's</text>
+<text top="376" left="108" width="702" height="18" font="3">breaking was the cause of my walking again. The NODE-appended clause forces the</text>
+<text top="399" left="108" width="702" height="18" font="3">reading which asserts the causal relation between p and Q and also the truth of the main</text>
+<text top="423" left="108" width="702" height="18" font="3">clause. Thus, (36), with NODE, is interpreted as asserting that I began walking again,</text>
+<text top="446" left="108" width="701" height="18" font="3">and that this action is caused by the daylight. On the other hand, with KARA my</text>
+<text top="469" left="108" width="702" height="18" font="3">resumption walking as asserted, presupposing that it was daylight. In (34a), with NODE</text>
+<text top="493" left="108" width="702" height="18" font="3">the closeness to the sea is asserted and the cause is asserted, too., while with KARA it</text>
+<text top="516" left="108" width="701" height="18" font="3">is asserted that the place is good for one's health and presupposed that the place is close</text>
+<text top="540" left="108" width="702" height="18" font="3">to the sea. My point is that the use of NODE presents a clause as an independent</text>
+<text top="563" left="108" width="702" height="18" font="3">assertion, hence the main clause tends to remain in the background. What is</text>
+<text top="586" left="108" width="702" height="18" font="3">focused/highlighted in (34), (35) as well as (36) with KARA is the content of P and with</text>
+<text top="610" left="108" width="702" height="18" font="3">NODE both P and Q; the difference between KARA and NODE lies in relative</text>
+<text top="633" left="108" width="190" height="18" font="3">importance of P and Q.</text>
+<text top="657" left="108" width="702" height="18" font="3">If we accept the claim that the KARA clauses present a presupposition and with NODE</text>
+<text top="680" left="108" width="702" height="18" font="3">clauses a causal relation is more asserted, this offers an explanation for the fact that</text>
+<text top="703" left="108" width="702" height="18" font="3">KARA is connected with the expression of subjectivity (with opinion, volition,</text>
+<text top="727" left="108" width="702" height="18" font="3">persuasion, command, request, suggestion, question, etc.; see 2.1, and that in these</text>
+<text top="750" left="108" width="415" height="18" font="3">contexts NODE is strange. Consider the following:</text>
+<text top="774" left="108" width="15" height="18" font="3">   </text>
+<text top="797" left="108" width="34" height="18" font="3">(37)</text>
+<text top="797" left="162" width="68" height="18" font="3">yooji-ga</text>
+<text top="797" left="270" width="243" height="18" font="3">aru KARA, hayaku kaeritai</text>
+<text top="820" left="162" width="69" height="18" font="3">business</text>
+<text top="820" left="270" width="19" height="18" font="3">be</text>
+<text top="820" left="378" width="41" height="18" font="3">early</text>
+<text top="820" left="452" width="164" height="18" font="3">come home (I) wish</text>
+<text top="844" left="162" width="474" height="18" font="3">'I have some business KARA, I want to come home soon.'</text>
+<text top="867" left="162" width="485" height="18" font="3">'Since I've got something to do, I want to come home soon.'</text>
+<text top="914" left="108" width="34" height="18" font="3">(38)</text>
+<text top="914" left="162" width="389" height="18" font="3">kuraku natte-ki ta KARA, akari-o tsukete kure</text>
+<text top="937" left="162" width="142" height="18" font="3">dark     becoming</text>
+<text top="937" left="378" width="37" height="18" font="3">light</text>
+<text top="937" left="452" width="98" height="18" font="3">put on  IMP</text>
+<text top="961" left="162" width="336" height="18" font="3">'It's getting dark KARA, put on the light.'</text>
+<text top="984" left="162" width="274" height="18" font="3">'Put on the light: it's getting dark.'</text>
+<text top="1008" left="108" width="10" height="18" font="3">  </text>
+<text top="1031" left="108" width="701" height="18" font="3">The assumptions expressed in the KARA clauses are presupposed; and the speaker uses</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">19</text>
+<text top="209" left="108" width="702" height="18" font="3">them to justify her wish (as in (37)) or her suggestion, to persuade the hearer of her</text>
+<text top="232" left="108" width="373" height="18" font="3">opinion or to obey her directions (as in (38)). </text>
+<text top="256" left="123" width="686" height="18" font="3">Recall Tio's (1988) claim that NODE is used with an imperative form, when the</text>
+<text top="279" left="108" width="702" height="18" font="3">speaker wants to emphasize the cause or reason to the addressee. Let me cite again his</text>
+<text top="303" left="108" width="418" height="18" font="3">examples (8) and (9), as (39) and (40) respectively:</text>
+<text top="349" left="108" width="34" height="18" font="3">(39)</text>
+<text top="349" left="162" width="440" height="18" font="3">kakekomi jyousha-wa kiken na NODE, yamema-shoo</text>
+<text top="373" left="162" width="459" height="18" font="3">'Dashing onto a train is dangerous NODE, don't do that.'</text>
+<text top="420" left="108" width="34" height="18" font="3">(40)</text>
+<text top="420" left="162" width="552" height="18" font="3">rouden ya koshou-no gen'in-to nari masu NODE, hontai-wa zettaini</text>
+<text top="443" left="181" width="230" height="18" font="3">mizu-arai-shi nai de kudasai</text>
+<text top="466" left="162" width="648" height="18" font="3">'An electric leakage or breakdown will be caused NODE, don't wash the</text>
+<text top="490" left="162" width="87" height="18" font="3">appliance.'</text>
+<text top="537" left="108" width="702" height="18" font="3">Note that (39) and (40) are examples of directions and instructions. In such contexts the</text>
+<text top="560" left="108" width="702" height="18" font="3">speaker wants to assert the imperative cause as well as to persuade the hearer to carry out</text>
+<text top="583" left="108" width="702" height="18" font="3">the instruction. The use of NODE marks the presence of two assertions rather than</text>
+<text top="607" left="108" width="393" height="18" font="3">making the imperative clause a presupposition.  </text>
+<text top="607" left="594" width="10" height="18" font="3">  </text>
+<text top="630" left="123" width="687" height="18" font="3">Finally I would like to touch on Kunihiro's (1992) claim that KARA sentences</text>
+<text top="654" left="108" width="701" height="18" font="3">sometimes make the utterance sound impolite. Look at his examples in (11), repeated</text>
+<text top="677" left="108" width="117" height="18" font="3">below as (41):</text>
+<text top="724" left="108" width="34" height="18" font="3">(41)</text>
+<text top="724" left="162" width="14" height="18" font="3">a.</text>
+<text top="724" left="216" width="354" height="18" font="3">kaze-o hikimasi ta KARA, kessekishi masu</text>
+<text top="771" left="162" width="15" height="18" font="3">b.</text>
+<text top="771" left="216" width="358" height="18" font="3">kaze-o hikimasi ta NODE, kessekishi masu </text>
+<text top="794" left="216" width="371" height="18" font="3">'I can't come to class, because I've got a cold.'</text>
+<text top="841" left="108" width="701" height="18" font="3">Suppose that a student addresses a teacher before class. Being absent from class is an</text>
+<text top="864" left="108" width="702" height="18" font="3">impolite action, and should not be highlighted and what matters is the excuse. Using</text>
+<text top="888" left="108" width="702" height="18" font="3">(41b), even if two assertions are made, the main clause is presented as relatively less</text>
+<text top="911" left="108" width="701" height="18" font="3">highlighted. With (41a), by contrast, it is the main clause that is highlighted, which</text>
+<text top="934" left="108" width="702" height="18" font="3">makes it sound impolite. Thus, by using NODE the speaker can soften the impoliteness</text>
+<text top="958" left="108" width="701" height="18" font="3">and so she can protect herself from damaging her relationship with the hearer. Being</text>
+<text top="981" left="108" width="703" height="18" font="3">polite, however, is not explicitly conveyed to the hearer but only implicitly conveyed:</text>
+<text top="1005" left="108" width="702" height="18" font="3">with the use of NODE that the speaker is polite is supposed to be recovered as one of</text>
+<text top="1028" left="108" width="702" height="18" font="3">implications. The point of utterance does not lie with this. My claim is that politeness is</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">20</text>
+<text top="189" left="108" width="701" height="18" font="3">not a deciding factor when choosing which utterance to use, but it is derived from the</text>
+<text top="212" left="108" width="456" height="18" font="3">interaction of contextual information with the utterance.</text>
+<text top="235" left="108" width="5" height="18" font="3"> </text>
+<text top="282" left="108" width="322" height="18" font="6"><b>4.2 KARA and NODE as procedural </b></text>
+<text top="329" left="108" width="702" height="18" font="3">What type of information is encoded by KARA and NODE? I want to claim that they</text>
+<text top="352" left="108" width="701" height="18" font="3">encode procedural constraints on 'information structure' i.e. the foregrounding and</text>
+<text top="376" left="108" width="702" height="18" font="3">backgrounding of propositions. In this section I propose that these particles, besides</text>
+<text top="399" left="108" width="702" height="18" font="3">contributing to the truth-conditional content of utterances, also encode constraints on</text>
+<text top="423" left="108" width="702" height="18" font="3">focus or presupposition. That is to say, they encode both procedural and conceptual</text>
+<text top="446" left="108" width="702" height="18" font="3">meaning. I will also argue that where the speaker has a choice between the two</text>
+<text top="469" left="108" width="702" height="18" font="3">conjunctive particles, the form she chooses will follow from considerations of Optimal</text>
+<text top="493" left="108" width="94" height="18" font="3">Relevance. </text>
+<text top="516" left="123" width="686" height="18" font="3">Sperber &amp; Wilson's Relevance theory, on which this analysis is based, claims that the</text>
+<text top="540" left="108" width="701" height="18" font="3">interpretation of any utterance is guided by an expectation of Optimal Relevance. This</text>
+<text top="563" left="108" width="702" height="18" font="3">entitles the hearer to assume that the utterance will yield adequate cognitive effects and</text>
+<text top="586" left="108" width="701" height="18" font="3">require no gratuitous processing effort, or at least that the speaker expected it to do so.</text>
+<text top="610" left="123" width="687" height="18" font="3">It is often the case that two utterances with the same linguistically determined truth</text>
+<text top="633" left="108" width="702" height="18" font="3">conditions differ in both contextual effects and processing effort. Consider the following</text>
+<text top="657" left="108" width="149" height="18" font="3">pairs of examples:</text>
+<text top="703" left="108" width="34" height="18" font="3">(42)</text>
+<text top="703" left="162" width="14" height="18" font="3">a.</text>
+<text top="703" left="216" width="272" height="18" font="3">He is unhappy because he is rich.</text>
+<text top="727" left="162" width="15" height="18" font="3">b.</text>
+<text top="727" left="216" width="246" height="18" font="3">Since he is rich, he's unhappy.</text>
+<text top="750" left="162" width="14" height="18" font="3">c.</text>
+<text top="750" left="216" width="332" height="18" font="3">It's because he is rich that he is unhappy.</text>
+<text top="797" left="108" width="702" height="18" font="3">In (42a) 'he is unhappy' is treated as given or uncontroversial information, while the</text>
+<text top="821" left="108" width="702" height="18" font="2"><i>because</i>- clause is presented as focal (new) information. In (42b), the fact that he is rich</text>
+<text top="844" left="108" width="702" height="18" font="3">is taken for granted, and the fact that he is unhappy is focal. While (42a) is interpreted</text>
+<text top="867" left="108" width="702" height="18" font="3">as an answer to the question 'Why is he unhappy?', (42b) might be a response to someone</text>
+<text top="891" left="108" width="459" height="18" font="3">who has just said 'He is rich.' (42c) is a variant of (42a). </text>
+<text top="914" left="123" width="686" height="18" font="3">I believe that the similar arguments apply to the KARA/NODE distinction. Consider</text>
+<text top="938" left="108" width="216" height="18" font="3">again the examples below:</text>
+<text top="984" left="108" width="34" height="18" font="3">(43)</text>
+<text top="984" left="162" width="14" height="18" font="3">a.</text>
+<text top="984" left="216" width="555" height="18" font="3">I drank too much yesterday KARA, I have a headache this morning.</text>
+<text top="1008" left="162" width="15" height="18" font="3">b.</text>
+<text top="1008" left="216" width="554" height="18" font="3">I drank too much yesterday NODE, I have a headache this morning.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">21</text>
+<text top="209" left="108" width="702" height="18" font="3">The speaker who chooses NODE intends to highlight the preceding clause and</text>
+<text top="232" left="108" width="701" height="18" font="3">encourages the hearer to interpret this as her main assertion. The resulting structure is</text>
+<text top="256" left="108" width="702" height="18" font="3">something like (42a) or (42c). By contrast, the speaker who chooses KARA puts the</text>
+<text top="279" left="108" width="701" height="18" font="3">preceding clause in the background and intends to emphasize the following clause. The</text>
+<text top="303" left="108" width="701" height="18" font="3">resulting structure is something like (42b). Thus, the difference in the choice of linguistic</text>
+<text top="326" left="108" width="443" height="18" font="3">forms creates a difference in pragmatic interpretation. </text>
+<text top="349" left="123" width="687" height="18" font="3">In either utterance in (43), the proposition expressed by P is a part of the context for</text>
+<text top="373" left="108" width="702" height="18" font="3">interpreting the proposition expressed by Q. In (43a) KARA indicates that the preceding</text>
+<text top="396" left="108" width="702" height="18" font="3">clause expresses a presupposition for Q. In (43b), by contrast, NODE indicates that the</text>
+<text top="420" left="108" width="260" height="18" font="3">preceding clause is an assertion </text>
+<text top="414" left="368" width="15" height="26" font="9">&amp;</text>
+<text top="420" left="383" width="427" height="18" font="3"> typically presenting what the speaker has inferred is</text>
+<text top="443" left="108" width="702" height="18" font="3">the best explanation for Q. The speaker uses the linguistic form to guide the</text>
+<text top="466" left="108" width="702" height="18" font="3">interpretation process by indicating which information is in focus and which is</text>
+<text top="490" left="108" width="114" height="18" font="3">'presupposed.'</text>
+<text top="513" left="123" width="686" height="18" font="3">Blakemore (1987, 1992) suggests that within the framework of Relevance theory, a</text>
+<text top="537" left="108" width="702" height="18" font="3">language may be expected to develop certain linguistic forms whose function is to guide</text>
+<text top="560" left="108" width="702" height="18" font="3">the interpretation process by indicating how the inferential phase of comprehension is</text>
+<text top="583" left="108" width="701" height="18" font="3">expected to go. These linguistic expressions are claimed to encode procedures rather than</text>
+<text top="607" left="108" width="532" height="18" font="3">concepts. For instance, to take examples from Blakemore (1996):</text>
+<text top="654" left="108" width="34" height="18" font="3">(44)</text>
+<text top="654" left="162" width="14" height="18" font="3">a.</text>
+<text top="654" left="216" width="206" height="18" font="3">Tom can open Bill's safe.</text>
+<text top="677" left="162" width="15" height="18" font="3">b.</text>
+<text top="677" left="216" width="246" height="18" font="3">So he knows the combination.</text>
+<text top="724" left="108" width="34" height="18" font="3">(45)</text>
+<text top="724" left="162" width="14" height="18" font="3">a.</text>
+<text top="724" left="216" width="206" height="18" font="3">Tom can open Bill's safe.</text>
+<text top="747" left="162" width="15" height="18" font="3">b.</text>
+<text top="747" left="216" width="298" height="18" font="3">After all, he knows the combination.</text>
+<text top="794" left="108" width="701" height="18" font="3">The role of <i>so</i> or <i>after all</i> in (44b) and (45b) is not to contribute to the proposition</text>
+<text top="818" left="108" width="701" height="18" font="3">expressed by the utterance it prefaces, but to instruct the hearer to interpret that</text>
+<text top="841" left="108" width="702" height="18" font="3">proposition as a contextual implication of (44a) and a premise for (45a) respectively. She</text>
+<text top="864" left="108" width="702" height="18" font="3">suggests that expressions such as <i>so</i> and <i>after all</i> impose constraints on the inferential</text>
+<text top="888" left="108" width="701" height="18" font="3">computations that the following proposition enters into. That is to say, linguistic meaning</text>
+<text top="911" left="108" width="702" height="18" font="3">may amount to a procedure for manipulating propositional representations in inferential</text>
+<text top="935" left="108" width="115" height="18" font="3">computations.</text>
+<text top="958" left="123" width="687" height="18" font="3">My hypothesis is that the differences in meaning between KARA and NODE are</text>
+<text top="981" left="108" width="702" height="18" font="3">differences in procedural meaning. In the course of comprehension, an utterance with</text>
+<text top="1005" left="108" width="702" height="18" font="3">KARA/NODE is assigned a conceptual representation and completed into a fully</text>
+<text top="1028" left="108" width="702" height="18" font="3">propositional form by a combination of decoding and inference. At the same time, these</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">22</text>
+<text top="189" left="108" width="702" height="18" font="3">expressions function as indicators of the relative importance of the clause P in which</text>
+<text top="212" left="108" width="702" height="18" font="3">they occur and the main clause Q: the KARA clause provides background for an</text>
+<text top="235" left="108" width="702" height="18" font="3">inference presented in Q, while the NODE clause is asserted based on evidence provided</text>
+<text top="259" left="108" width="702" height="18" font="3">by Q. Both contribute to relevance by guiding the hearer towards the intended contextual</text>
+<text top="282" left="108" width="559" height="18" font="3">effects and hence reducing the overall effort required for processing.</text>
+<text top="306" left="123" width="687" height="18" font="3">Blakemore treated <i>so</i> and <i>after all</i> as encoding semantic constraints on implicature,</text>
+<text top="329" left="108" width="701" height="18" font="3">which contribute purely to non-truth conditional meaning (also Blass 1990). Later, other</text>
+<text top="353" left="108" width="702" height="18" font="3">analysts (Wilson &amp; Sperber 1993; Ifantidou 1994; Ifantidou-Trouki 1993; Rouchouta</text>
+<text top="376" left="108" width="701" height="18" font="3">1996), argued for various types of expression encoding procedural constraints on</text>
+<text top="399" left="108" width="702" height="18" font="3">explicature. The general idea behind the conceptual-procedural distinction is that</text>
+<text top="423" left="108" width="702" height="18" font="3">linguistic decoding yields two types of information: information which is part of a</text>
+<text top="446" left="108" width="702" height="18" font="3">conceptual representation and information governing the manipulation of conceptual</text>
+<text top="470" left="108" width="702" height="18" font="3">representations. Most words encode concepts which are part of conceptual</text>
+<text top="493" left="108" width="702" height="18" font="3">representations. What I am proposing here is that there might be certain expressions</text>
+<text top="516" left="108" width="701" height="18" font="3">which encode both conceptual and procedural information. On the one hand, KARA and</text>
+<text top="540" left="108" width="702" height="18" font="3">NODE encode concepts which are constituents of the proposition expressed, and on the</text>
+<text top="563" left="108" width="702" height="18" font="3">other, they impose constraints on the processing of the proposition expressed, guiding</text>
+<text top="587" left="108" width="514" height="18" font="3">the hearer towards the intended context and contextual effects. </text>
+<text top="657" left="108" width="113" height="18" font="6"><b>5 Conclusion</b></text>
+<text top="680" left="108" width="5" height="18" font="3"> </text>
+<text top="704" left="108" width="702" height="18" font="3">My major concern in this study has been the relation between linguistic form and</text>
+<text top="727" left="108" width="702" height="18" font="3">pragmatic interpretation: how speakers use particular forms to achieve pragmatic effects.</text>
+<text top="750" left="108" width="702" height="18" font="3">I have tried to look at the data involving KARA and NODE with two questions in mind:</text>
+<text top="774" left="108" width="704" height="18" font="3">what do they have in common, and how can their differences be explained? The first</text>
+<text top="797" left="108" width="702" height="18" font="3">question has not been answered explicitly by traditional Japanese grammarians, and the</text>
+<text top="821" left="108" width="621" height="18" font="3">second has not been fully dealt with in any adequate theoretical framework. </text>
+<text top="844" left="123" width="687" height="18" font="3">I have argued that these conjunctive particles are linguistic devices whose function is</text>
+<text top="867" left="108" width="702" height="18" font="3">to relate two propositions, P and Q, in such a way that Q is a consequence of P. Thus,</text>
+<text top="891" left="108" width="701" height="18" font="3">they have truth-conditional content which contributes to the construction of a single</text>
+<text top="914" left="108" width="702" height="18" font="3">proposition, and they may be seen as encoding concepts. However, on the procedural</text>
+<text top="938" left="108" width="703" height="18" font="3">level they also function as guides to the interpretation process by indicating where the</text>
+<text top="961" left="108" width="702" height="18" font="3">presupposition/focus of an utterance is to be found. My claim is then that KARA and</text>
+<text top="984" left="108" width="702" height="18" font="3">NODE, in addition to their truth-conditional meaning, carry semantic constraints on</text>
+<text top="1008" left="108" width="667" height="18" font="3">relevance, indicating how the associated utterance is to be processed in a context. </text>
+<text top="1031" left="123" width="686" height="18" font="3">In the framework of Relevance Theory, utterance interpretation is not just a matter of</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Conceptual</i></text>
+<text top="152" left="108" width="261" height="16" font="7"><i>and procedural encoding in Japanese</i></text>
+<text top="132" left="793" width="17" height="16" font="1">23</text>
+<text top="209" left="108" width="701" height="18" font="3">identifying the propositional content of an utterance: the hearer is also expected to</text>
+<text top="232" left="108" width="703" height="18" font="3">perform computations on it. In section 3 we saw how the use of KARA/NODE enables</text>
+<text top="256" left="108" width="704" height="18" font="3">the speaker to help the hearer identify the proposition expressed and in section 4 we saw</text>
+<text top="279" left="108" width="703" height="18" font="3">how the form itself simultaneously constrains the hearer in processing that proposition.</text>
+<text top="303" left="108" width="701" height="18" font="3">This shows that, in analysing word meaning, the issue is not whether a form is specified</text>
+<text top="326" left="108" width="702" height="18" font="3">for either conceptual or procedural meaning. Rather, I have argued that certain forms</text>
+<text top="349" left="108" width="613" height="18" font="3">encode both types of information: they are both conceptual and procedural.</text>
+<text top="373" left="123" width="687" height="18" font="3">In embarking on this study, I had two main aims. On the one hand, I wanted to provide</text>
+<text top="396" left="108" width="704" height="18" font="3">a semantic and pragmatic analysis of one of the most controversial pairs of expressions</text>
+<text top="420" left="108" width="703" height="18" font="3">in Japanese. On the other, I hoped that my analysis might make some explanatory</text>
+<text top="443" left="108" width="704" height="18" font="3">contribution to Sperber and Wilson's Relevance Theory. In particular, though there may</text>
+<text top="466" left="108" width="704" height="18" font="3">be great variation in languages, the principles which the speaker and the hearer use in</text>
+<text top="490" left="108" width="702" height="18" font="3">producing and interpreting utterances are supposed to be universal. In focusing on the</text>
+<text top="513" left="108" width="702" height="18" font="3">specific area of Japanese KARA and NODE, I hope I have gone some way towards</text>
+<text top="537" left="108" width="215" height="18" font="3">achieving these two aims. </text>
+<text top="630" left="108" width="95" height="18" font="6"><b>References</b></text>
+<text top="677" left="108" width="541" height="16" font="1">Blakemore, D. (1987). <i>Semantic constraints on relevance</i>. Blackwell: Oxford.</text>
+<text top="697" left="108" width="701" height="16" font="1">Blakemore, D. (1992). <i>Understanding utterances</i>: <i>An introduction to</i> <i>pragmatics</i>. Blackwell: Oxford.</text>
+<text top="717" left="108" width="702" height="16" font="1">Blakemore, D. (1996). Are apposition markers discourse markers? <i>Journal of Linguistics</i> 32. 325-347.</text>
+<text top="738" left="108" width="702" height="16" font="1">Blass, R. (1990). <i>Relevance relations in discourse: A study with special reference to Sissala. </i>Cambridge</text>
+<text top="758" left="123" width="204" height="16" font="1">University Press: Cambridge.</text>
+<text top="778" left="108" width="702" height="16" font="1">Carston, R. (1988). Implicature, explicature, and truth-theoretic semantics. In Kempson, R. (ed.), <i>Mental</i></text>
+<text top="799" left="123" width="622" height="16" font="7"><i>representations</i>:  <i>The interface between</i> <i>language and reality. </i>155-181. CUP: Cambridge. </text>
+<text top="819" left="108" width="702" height="16" font="1">Carston, R. (1995). Postscript to implicature, explicature, and truth-theoretic semantics. Ms. University</text>
+<text top="839" left="123" width="116" height="16" font="1">College London.</text>
+<text top="860" left="108" width="579" height="16" font="1">Ifantidou-Trouki, E. (1993). 'Sentential adverbs and relevance.' <i>Lingua</i> 90. 69-90.<i> </i>  </text>
+<text top="880" left="108" width="693" height="16" font="1">Ifantidou, E. (1994). <i>Parentheticals and relevance. </i>Ph. D. dissertation, University College London.<i> </i></text>
+<text top="900" left="108" width="702" height="16" font="1">Itani<i>, </i>R. (1995)<i>. Semantics and pragmatics of hedges in English and Japanese</i>. Hitsuji Shobo: Tokyo.</text>
+<text top="921" left="108" width="702" height="16" font="1">Kunihiro, T. (1992). 'Noda' kara 'noni' , 'node' e : 'No' no kyoutsuusei (From <i>noda</i> to <i>noni</i>, <i>node</i>: Some</text>
+<text top="941" left="123" width="687" height="16" font="1">common characteristics of <i>no</i>)<i> </i>. In Quadenbush , H. <i>et al.</i> (eds.), <i>Nippongo kenkyuu to nippongo</i></text>
+<text top="962" left="123" width="616" height="16" font="7"><i>kyouiku (Studies on Japanese and Japanese education)</i>. 17-34. Nagoya University Press.</text>
+<text top="982" left="108" width="702" height="16" font="1">Nagano, M. (1951). 'Kara' to 'node' wa doo chigau ka (How are KARA and NODE different). In Kokugo</text>
+<text top="1002" left="123" width="687" height="16" font="1">to kokubungaku (Japanese Language and Japanese Literature). 29.2. University of Tokyo, 30-41.</text>
+<text top="1022" left="123" width="687" height="16" font="1">Reprinted in Hattori, S. <i>et al.</i> (eds<i>.), </i>1972<i>. Nippon no</i>  <i>Gengogaku</i> (Linguistics in Japan), vol. 4:</text>
+<text top="1043" left="123" width="366" height="16" font="7"><i>Bunpoo</i> (Grammar) II, Taishuukan, Tokyo, 467-488.</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="63" height="16" font="7"><i>Takeuchi</i></text>
+<text top="132" left="108" width="17" height="16" font="1">24</text>
+<text top="188" left="108" width="432" height="16" font="1">Nagano, M. (1988). Saisetsu: 'kara' to 'node' wa doo chigauka </text>
+<text top="184" left="541" width="269" height="22" font="10">&amp; Tio Sanbun-eno hihan-o humaete &amp;</text>
+<text top="209" left="123" width="686" height="16" font="1">(How are KARA and NODE different, revisited: In reply to Tio Sanbun (1988)). In Nippongo gaku</text>
+<text top="229" left="123" width="362" height="16" font="1">(Journal of Japanese Linguistics), December, 67-83.</text>
+<text top="249" left="108" width="702" height="16" font="1">Nakada, S. (1977). Kara and node revisited. In <i>Journal of the Association of Teachers of Japanese </i>12.</text>
+<text top="270" left="123" width="62" height="16" font="1">249-279.</text>
+<text top="290" left="108" width="702" height="16" font="1">Rouchota, V. (1996). Procedural meaning and parenthetical discourse markers. To appear in A. Jucker</text>
+<text top="310" left="123" width="455" height="16" font="1">&amp; Y. Ziv (eds.) <i>Discourse markers</i>. John Benjamins: Amsterdam.</text>
+<text top="331" left="108" width="702" height="16" font="1">Sperber, D. &amp; D. Wilson (1986), <i>Relevance: Communication and cognition</i>.<i> </i>Blackwell:<i> </i>Oxford. Revised</text>
+<text top="351" left="123" width="39" height="16" font="1">1995.</text>
+<text top="371" left="108" width="702" height="16" font="1">Sweetser, E. (1990). <i>From etymology to pragmatics: Metaphorical and cultural aspects of semantic</i></text>
+<text top="392" left="123" width="357" height="16" font="7"><i>structure. </i>Cambridge University Press: Cambridge.</text>
+<text top="412" left="108" width="702" height="16" font="1">Teramura, H. (1981). <i>Nippongo no bunpoo</i> (The grammar of Japanese) II. National Language Research</text>
+<text top="432" left="123" width="61" height="16" font="1">Institute.</text>
+<text top="453" left="108" width="217" height="16" font="1">Tio, S. (1988). 'Kara' to 'node' </text>
+<text top="448" left="325" width="485" height="22" font="10">&amp; Nagano setsu o kaishakusu (KARA and NODE &amp; Interpreting the</text>
+<text top="473" left="123" width="605" height="16" font="1">Nagano's theory). In <i>Nippongo gaku</i> (Journal of the Japanese Linguistics), July, 63-77. </text>
+<text top="493" left="108" width="335" height="16" font="1">Uyeno, T. (1972). <i>A study of Japanese modality </i></text>
+<text top="489" left="442" width="368" height="22" font="10">&amp;<i> A performative analysis of sentence particles.</i> PhD</text>
+<text top="514" left="123" width="255" height="16" font="1">dissertation, University of Michigan.</text>
+<text top="534" left="108" width="702" height="16" font="1">Wilson, D. and D. Sperber. (1993). Relevance and time. <i>UCL Working Papers in Linguistics</i> 5. 277-298.</text>
+<text top="554" left="123" width="687" height="16" font="1">To appear in Carston, R., S. Uchida, and N. S. Song, (eds). <i>Proceedings of the Osaka workshop on</i></text>
+<text top="575" left="123" width="340" height="16" font="7"><i>relevance theory. </i>John Benjamins<i>: </i>Amsterdam.<i>  </i></text>
+<text top="595" left="108" width="580" height="16" font="1">Wilson, D. and D. Sperber. (1993). Linguistic form and relevance. <i>Lingua </i>90. 1-25.</text>
+</page>
+</pdf2xml>

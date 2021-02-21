@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="20" family="Times" color="#000000"/>
+	<fontspec id="1" size="20" family="Times" color="#000000"/>
+	<fontspec id="2" size="36" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+<text top="132" left="108" width="365" height="18" font="0"><i>UCL Working Papers in Linguistics</i> 8 (1996)</text>
+<text top="184" left="108" width="702" height="32" font="2"><i><b>Strong features, pied-piping and the overt/covert</b></i></text>
+<text top="226" left="108" width="157" height="32" font="2"><i><b>distinction</b></i></text>
+<text top="311" left="108" width="194" height="18" font="1">HANS VAN DE KOOT</text>
+<text top="383" left="162" width="75" height="18" font="3"><b>Abstract</b></text>
+<text top="429" left="162" width="594" height="15" font="4">The purpose of this paper is to determine whether the different properties of the operation</text>
+<text top="449" left="162" width="595" height="15" font="4">Move before and after Spell-Out can be grounded in independently motivated properties</text>
+<text top="468" left="162" width="594" height="15" font="4">of the minimalist program. To this end I will address two potential problems for the</text>
+<text top="488" left="162" width="594" height="15" font="4">requirement that derivations must be uniform: (i) the obligatory nature of pied-piping prior</text>
+<text top="508" left="162" width="594" height="15" font="4">to Spell-Out and (ii) the obligatory elimination of strong features prior to Spell-Out. If</text>
+<text top="528" left="162" width="594" height="15" font="4">these problems cannot be addressed in a satisfactory way, the motivation for the</text>
+<text top="548" left="162" width="594" height="15" font="4">overt/covert distinction in the minimalist program is seriously undermined. I will show that</text>
+<text top="567" left="162" width="594" height="15" font="4">the special properties associated with Move pre-Spell-Out can be derived from the</text>
+<text top="587" left="162" width="594" height="15" font="4">economy condition requiring that an item enters the derivation only if it has an effect on</text>
+<text top="607" left="162" width="594" height="15" font="4">output. Since it has recently been argued by Johnson and Lappin (Johnson and Lappin</text>
+<text top="627" left="162" width="594" height="15" font="4">1996)  that this economy condition gives rise to serious complexity problems when</text>
+<text top="647" left="162" width="594" height="15" font="4">combined with the theory of QR proposed by Reinhart (1993, 1995), I conclude the paper</text>
+<text top="666" left="162" width="471" height="15" font="4">with a discussion of these claims and show that they are unwarranted.</text>
+<text top="735" left="108" width="126" height="18" font="3"><b>1 Introduction</b></text>
+<text top="782" left="108" width="702" height="18" font="1">One characteristic the Minimalist Program has inherited from its predecessor,</text>
+<text top="805" left="108" width="702" height="18" font="1">Government and Binding theory, is the distinction between overt and covert movement.</text>
+<text top="829" left="108" width="702" height="18" font="1">The operation Move may apply both before and after the point in a derivation where the</text>
+<text top="853" left="108" width="702" height="18" font="1">operation Spell-Out maps the phrase marker already formed to the articulatory-perceptual</text>
+<text top="877" left="108" width="702" height="18" font="1">interface (henceforth PF). After Spell-Out the derivation continues to the conceptual-</text>
+<text top="900" left="108" width="702" height="18" font="1">intentional interface (henceforth LF). Whereas in GB theory the point at which Spell-Out</text>
+<text top="924" left="108" width="703" height="18" font="1">applied corresponded to a syntactic level (S-Structure), this is no longer the case in the</text>
+<text top="948" left="108" width="702" height="18" font="1">Minimalist Program, in which there are no levels internal to the computational system.</text>
+<text top="972" left="108" width="702" height="18" font="1">For the purposes of this paper, the main consequence of the assumption that there is no</text>
+<text top="995" left="108" width="701" height="18" font="1">level corresponding to S-structure is that derivations must meet the requirement of</text>
+<text top="1019" left="108" width="703" height="18" font="1">uniformity: we expect derivations to exhibit identical properties before and after Spell-</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="10" height="18" font="1">2</text>
+<text top="869" left="130" width="680" height="15" font="4">Chomsky (1995) suggests that overt raising without pied-piping could be permitted, depending</text>
+<text top="864" left="123" width="6" height="11" font="6">1</text>
+<text top="888" left="108" width="702" height="15" font="4">on morphological particulars of the language (as in the theory of overt raising of empty operators</text>
+<text top="908" left="108" width="702" height="15" font="4">in Japanese developed by Watanabe 1992). But since the uniformity requirement implies that overt</text>
+<text top="928" left="108" width="702" height="15" font="4">and covert feature-raising should satisfy the same principles, it is hard to see how we could ever find</text>
+<text top="948" left="108" width="230" height="15" font="4">evidence for overt feature-raising.</text>
+<text top="986" left="130" width="680" height="15" font="4">As in Brody's (1995a) radically minimalist theory of grammar. Since this appears to be the simpler</text>
+<text top="981" left="123" width="6" height="11" font="6">2</text>
+<text top="1005" left="108" width="702" height="15" font="4">theory, the question arises whether the complications introduced by the standard overt/covert distinction</text>
+<text top="1025" left="108" width="702" height="15" font="4">can bear the explanatory burden. In this paper I will not be concerned with this more ambitious question,</text>
+<text top="1045" left="108" width="530" height="15" font="4">which has been addressed in great detail elsewhere (see Brody 1995b, 1995c).</text>
+<text top="194" left="108" width="702" height="18" font="1">Out. Uniformity did not hold in GB theory because movement was assumed to be subject</text>
+<text top="218" left="108" width="702" height="18" font="1">to different principles before and after S-structure. For instance, movement only obeyed</text>
+<text top="242" left="108" width="702" height="18" font="1">Subjacency  before S-structure. With S-Structure gone, there is no obvious way to</text>
+<text top="265" left="108" width="702" height="18" font="1">distinguish between pre- and post-Spell-Out operations and therefore such distinctions</text>
+<text top="289" left="108" width="702" height="18" font="1">either should not exist or, if they do, be attributable to properties of Morphology in the</text>
+<text top="313" left="108" width="702" height="18" font="1">PF component or to considerations of economy. There are, however, at least two aspects</text>
+<text top="337" left="108" width="623" height="18" font="1">of the theory of Chomsky (1995) that raise questions with regard uniformity. </text>
+<text top="360" left="123" width="686" height="18" font="1">One concerns the relation between the overt/covert distinction and pied-piping:</text>
+<text top="384" left="108" width="702" height="18" font="1">movement prior to Spell-Out always requires pied-piping . Why should this be so? This</text>
+<text top="382" left="566" width="6" height="11" font="6">1</text>
+<text top="408" left="108" width="702" height="18" font="1">question is made even more pertinent by the fact that the distinction between moving just</text>
+<text top="432" left="108" width="702" height="18" font="1">the formal features of a category and pied-piping could in principle make the overt/covert</text>
+<text top="455" left="108" width="702" height="18" font="1">distinction entirely superfluous. Suppose there were no principled reasons to exclude</text>
+<text top="479" left="108" width="702" height="18" font="1">raising of just formal features pre-Spell-Out. Then all covert syntax could in principle be</text>
+<text top="503" left="108" width="701" height="18" font="1">&#34;overt&#34; (i.e. pre-Spell-Out). One would never notice the difference. Thus, we would end</text>
+<text top="527" left="108" width="702" height="18" font="1">up with a theory in which Spell-Out is an operation mapping LF to PF and the derivation</text>
+<text top="550" left="108" width="702" height="18" font="1">to LF satisfies uniformity trivially.   One question that must minimally be answered, then,</text>
+<text top="548" left="372" width="6" height="11" font="6">2</text>
+<text top="574" left="108" width="701" height="18" font="1">is whether considerations of PF-convergence in general suffice to exclude raising of just</text>
+<text top="598" left="108" width="702" height="18" font="1">formal features pre-Spell-Out. And if they do not, as seems likely, we must look for other</text>
+<text top="622" left="108" width="657" height="18" font="1">ways in which the obligatoriness of pied-piping prior to Spell-Out can be derived.</text>
+<text top="645" left="123" width="687" height="18" font="1">Uniformity is also threatened by the properties of so-called strong features: why should</text>
+<text top="669" left="108" width="703" height="18" font="1">it be the case that strong features can only be introduced and eliminated pre-Spell-Out?</text>
+<text top="693" left="108" width="702" height="18" font="1">More precisely, strong features (i) can only be introduced pre-Spell-Out and (ii) must be</text>
+<text top="717" left="108" width="702" height="18" font="1">eliminated  &#34;quickly&#34;. Chomsky (1995) stipulates (ii), while offering a potential</text>
+<text top="740" left="108" width="702" height="18" font="1">explanation for (i) in terms of an economy condition requiring that an item enters the</text>
+<text top="764" left="108" width="702" height="18" font="1">derivation only if it has an effect on output (henceforth the Have an Effect on Output</text>
+<text top="788" left="108" width="702" height="18" font="1">Condition or HEOC). The stipulation (ii) is partly justified on the grounds that strict</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="320" width="411" height="15" font="5"><i>Strong features, pied-piping and the overt/covert distinction</i></text>
+<text top="132" left="800" width="10" height="18" font="1">3</text>
+<text top="194" left="108" width="702" height="18" font="1">cyclicity directly follows from it. Unfortunately, the stipulated property can easily be</text>
+<text top="218" left="108" width="702" height="18" font="1">shown to be empirically inadequate. What appears to be required instead is that strong</text>
+<text top="242" left="108" width="702" height="18" font="1">features be eliminated before the derivation reaches Spell-Out. This creates two problems.</text>
+<text top="265" left="108" width="702" height="18" font="1">First, we can of course no longer derive the strict cycle from properties of strength. But</text>
+<text top="289" left="108" width="703" height="18" font="1">more seriously, the stipulation that strong features must be eliminated before Spell-Out</text>
+<text top="313" left="108" width="700" height="18" font="1">amounts to an S-Structure principle and therefore  violates the uniformity requirement.</text>
+<text top="337" left="123" width="686" height="18" font="1">The purpose of this paper is to determine whether the standard overt/covert distinction</text>
+<text top="360" left="108" width="702" height="18" font="1">can be grounded in independently motivated properties of the minimalist program. To this</text>
+<text top="384" left="108" width="702" height="18" font="1">end I will address two problems for the uniformity requirement: (i) why is pied-piping</text>
+<text top="408" left="108" width="702" height="18" font="1">obligatory prior to Spell-Out and (ii) why must strong features be eliminated prior to</text>
+<text top="432" left="108" width="702" height="18" font="1">Spell-Out. If these two questions concerning uniformity cannot be answered in a</text>
+<text top="455" left="108" width="703" height="18" font="1">satisfactory way, then the motivation for the overt/covert distinction in the minimalist</text>
+<text top="479" left="108" width="702" height="18" font="1">program is seriously undermined. I will suggest that the special properties associated with</text>
+<text top="503" left="108" width="702" height="18" font="1">Move pre-Spell-Out can be explained by fully exploiting the effects of the Have an Effect</text>
+<text top="527" left="108" width="702" height="18" font="1">on Output Condition. Since it has recently been argued by Johnson and Lappin (Johnson</text>
+<text top="550" left="108" width="702" height="18" font="1">and Lappin 1996) that the HEOC gives rise to serious complexity problems when</text>
+<text top="574" left="108" width="702" height="18" font="1">combined with the theory of QR proposed by Reinhart (1993, 1995), I conclude the paper</text>
+<text top="598" left="108" width="562" height="18" font="1">with a discussion of these claims and show that they are unwarranted.</text>
+<text top="670" left="108" width="437" height="18" font="3"><b>2 Movement in the &#34;overt&#34; syntax and pied-piping</b></text>
+<text top="716" left="108" width="702" height="18" font="1">In the framework of Chomsky (1995) &#34;overt&#34; (pre-Spell-Out) movement might in</text>
+<text top="740" left="108" width="702" height="18" font="1">principle be movement of just formal features, so that its effects would not be overt at all.</text>
+<text top="764" left="108" width="702" height="18" font="1">Move targets a feature F and economy considerations require that F carries along enough</text>
+<text top="787" left="108" width="702" height="18" font="1">material for convergence and no more. Chomsky suggests (p. 262-263) that full scale</text>
+<text top="811" left="108" width="701" height="18" font="1">pied-piping pre-Spell-Out is due to properties of the phonological component. Failure to</text>
+<text top="835" left="108" width="702" height="18" font="1">raise a full constituent would create problems in the phonological component, since</text>
+<text top="859" left="108" width="702" height="18" font="1">isolated features might not be subject to its rules, causing the derivation to cancel. For</text>
+<text top="882" left="108" width="702" height="18" font="1">instance, raising of just a <i>wh</i>-feature before Spell-Out would cause the derivation to crash</text>
+<text top="906" left="108" width="703" height="18" font="1">at PF on the assumption that the resulting phrase marker contains unpronounceable</text>
+<text top="930" left="108" width="84" height="18" font="1">elements. </text>
+<text top="954" left="123" width="687" height="18" font="1">Johnson and Lappin (1996) point out that this cannot possibly be the whole story. They</text>
+<text top="977" left="108" width="702" height="18" font="1">argue that since the introduction of null elements (like pro and PRO) into a derivation</text>
+<text top="1001" left="108" width="702" height="18" font="1">prior to Spell-Out does not cause the derivation to crash at PF,  there is nothing that</text>
+<text top="1025" left="108" width="702" height="18" font="1">prevents pre-Spell-Out raising of the formal features of a lexical item LI (FF[LI]). They</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="19" family="Times" color="#000000"/>
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="10" height="18" font="1">4</text>
+<text top="1045" left="130" width="459" height="15" font="4">In fact, the LFs differ trivially in form but not at all in interpretation.</text>
+<text top="1040" left="123" width="6" height="11" font="6">3</text>
+<text top="194" left="108" width="702" height="18" font="1">point out that the apparent reason for blocking pre-Spell-Out covert movement (raising</text>
+<text top="218" left="108" width="702" height="18" font="1">of formal features only) is that the presence of FF[LI] in a structure will cause a</text>
+<text top="242" left="108" width="702" height="18" font="1">derivation to crash at PF, but that this cannot be the case if elements without PF-features</text>
+<text top="265" left="108" width="702" height="18" font="1">can be introduced in the derivation before Spell-Out. To my mind this is a strong</text>
+<text top="289" left="108" width="702" height="18" font="1">argument against the claim that properties of the phonological component have a major</text>
+<text top="313" left="108" width="702" height="18" font="1">effect on determining pied-piping. Since at best a subset of pied-piping facts can be</text>
+<text top="337" left="108" width="702" height="18" font="1">derived from considerations of PF convergence, a potentially serious problem arises with</text>
+<text top="360" left="108" width="173" height="18" font="1">regard to uniformity. </text>
+<text top="384" left="123" width="687" height="18" font="1">Let us take a look at possible solutions. In theory a property associated with Move (such</text>
+<text top="408" left="108" width="702" height="18" font="1">as pied-piping) can have three different sources: it could be necessary for PF convergence</text>
+<text top="432" left="108" width="702" height="18" font="1">or for LF convergence or it could be required by considerations of derivational economy.</text>
+<text top="455" left="108" width="702" height="18" font="1">Suppose that pied-piping is a reflex of morphological requirements at LF, as in the</text>
+<text top="479" left="108" width="702" height="18" font="1">minimalist theory of Brody (1995a). In that case, there is no need and therefore no</text>
+<text top="503" left="108" width="702" height="18" font="1">motivation to maintain the overt/covert distinction at all and Spell-Out can map LF to PF.</text>
+<text top="527" left="108" width="702" height="18" font="1">Of course uniformity is satisfied trivially by such a theory. We have seen that in the</text>
+<text top="550" left="108" width="702" height="18" font="1">minimalist program PF convergence cannot account fully for the property that movement</text>
+<text top="574" left="108" width="702" height="18" font="1">prior to Spell-Out  requires pied-piping. But we could explore the possibility that pied-</text>
+<text top="598" left="108" width="630" height="18" font="1">piping is a reflex of a combination of PF-triggering and derivational economy.</text>
+<text top="622" left="123" width="688" height="18" font="1">The argument that pied-piping is at least partly a reflex of derivational economy could</text>
+<text top="645" left="108" width="702" height="18" font="1">run as follows. Suppose we follow Chomsky's suggestion and adopt the economy principle</text>
+<text top="669" left="108" width="702" height="18" font="1">(1), which following Johnson and Lappin (1996) we have dubbed the HEOC (Have an</text>
+<text top="693" left="108" width="234" height="18" font="1">Effect on Output Condition):</text>
+<text top="740" left="108" width="24" height="18" font="1">(1)</text>
+<text top="740" left="162" width="54" height="18" font="1">HEOC</text>
+<text top="760" left="162" width="13" height="25" font="7">&#34;</text>
+<text top="764" left="175" width="634" height="18" font="1"> enters the numeration only if it has an effect on output (Chomsky 1995: p.294).</text>
+<text top="812" left="108" width="702" height="18" font="1">As Chomsky points out, (1) bars the covert introduction of strong features on the</text>
+<text top="836" left="108" width="702" height="18" font="1">assumption that the LFs produced with and without the strong feature are the same . But</text>
+<text top="833" left="765" width="6" height="11" font="6">3</text>
+<text top="859" left="108" width="702" height="18" font="1">we can also use the HEOC to bar raising of just formal features prior to Spell-Out.</text>
+<text top="883" left="108" width="702" height="18" font="1">Suppose an application of Move prior to Spell-Out checked a strong feature by raising</text>
+<text top="907" left="108" width="702" height="18" font="1">formal features only. The operation would not have an effect on PF output. The LF output</text>
+<text top="931" left="108" width="702" height="18" font="1">is the same no matter whether a strong feature is present or not. Therefore, the strong</text>
+<text top="954" left="108" width="701" height="18" font="1">feature has no effect on output at all. Therefore, by (1), the strong feature cannot enter</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="320" width="411" height="15" font="5"><i>Strong features, pied-piping and the overt/covert distinction</i></text>
+<text top="132" left="800" width="10" height="18" font="1">5</text>
+<text top="194" left="108" width="702" height="18" font="1">the numeration. We conclude that considerations of derivational economy force pied-</text>
+<text top="218" left="108" width="528" height="18" font="1">piping whenever Move targets a strong feature prior to Spell-Out.</text>
+<text top="242" left="123" width="687" height="18" font="1">Brody (1995b) points out that neither the PF nor the LF triggered version of pied-piping</text>
+<text top="265" left="108" width="702" height="18" font="1">can account for the exact relation between the pied-piped phrase and the checking feature</text>
+<text top="289" left="108" width="542" height="18" font="1">it contains. He gives the following example to exemplify this point:</text>
+<text top="337" left="108" width="24" height="18" font="1">(2)</text>
+<text top="337" left="162" width="523" height="18" font="1">Pictures of whose mother did you think were on the mantelpiece.</text>
+<text top="384" left="108" width="702" height="18" font="1">I assume that what is intended is that under the standard (narrow) interpretation of the</text>
+<text top="408" left="108" width="701" height="18" font="1">notions of PF and LF convergence in terms of Full Interpretation it would suffice if the</text>
+<text top="432" left="108" width="702" height="18" font="0"><i>wh</i>-feature pied-piped no more than <i>whose mother</i>. The problem is the same for an</text>
+<text top="455" left="108" width="702" height="18" font="1">approach which links pied-piping to derivational economy. The amount of material that</text>
+<text top="479" left="108" width="702" height="18" font="1">is pied-piped by an instance of Move might well depend on other factors, such as</text>
+<text top="503" left="108" width="702" height="18" font="1">whatever principles are invoked to account for CED effects. Thus, failure to pied-pipe the</text>
+<text top="527" left="108" width="573" height="18" font="1">whole embedded subject in (2) causes the derivation to crash, as in (3):</text>
+<text top="574" left="108" width="24" height="18" font="1">(3)</text>
+<text top="574" left="162" width="537" height="18" font="1">*Whose mother did you think pictures of were on the mantelpiece.</text>
+<text top="622" left="108" width="702" height="18" font="1">In the worst case, however, the account of pied-piping proposed here is in the same boat</text>
+<text top="645" left="108" width="702" height="18" font="1">with any other theory with respect to this problem. Let us therefore tentatively adopt this</text>
+<text top="669" left="108" width="702" height="18" font="1">proposal and develop it more fully in the next section, in which we look at the properties</text>
+<text top="693" left="108" width="147" height="18" font="1">of strong features.</text>
+<text top="765" left="108" width="406" height="18" font="3"><b>3 Strength and the instant elimination problem</b></text>
+<text top="812" left="108" width="259" height="18" font="3"><b>3.1 Strong features in the root</b></text>
+<text top="859" left="108" width="701" height="18" font="1">Chomsky (1995) defines a strong feature as one that a derivation cannot &#34;tolerate&#34;: a</text>
+<text top="882" left="108" width="701" height="18" font="1">derivation is cancelled if H contains a strong feature and is in a category not headed by</text>
+<text top="906" left="108" width="702" height="18" font="1">H. This formulation of the descriptive property of strength allows an adjunct to intervene</text>
+<text top="930" left="108" width="702" height="18" font="1">between a strong head and its checker, in keeping with the observed facts. He also points</text>
+<text top="954" left="108" width="702" height="18" font="1">out that the instant elimination requirement associated with strong features has the</text>
+<text top="977" left="108" width="702" height="18" font="1">desirable property that cyclicity follows at once and that we also virtually derive the</text>
+<text top="1001" left="108" width="703" height="18" font="1">conclusion that a strong feature triggers a pre-Spell-Out operation to eliminate it by</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="10" height="18" font="1">6</text>
+<text top="1045" left="130" width="436" height="15" font="4">The same point has been made independently by Brody (1995c).</text>
+<text top="1040" left="123" width="6" height="11" font="6">4</text>
+<text top="194" left="108" width="702" height="18" font="1">checking, with the single exception of covert merger (at the root) of a lexical item that has</text>
+<text top="218" left="108" width="367" height="18" font="1">a strong feature but no phonological features.</text>
+<text top="242" left="123" width="687" height="18" font="1">There is a problem with this definition of strength, however, as can be seen if we</text>
+<text top="265" left="108" width="702" height="18" font="1">consider a derivation in which a category with a strong head remains the root until Spell-</text>
+<text top="289" left="108" width="703" height="18" font="1">Out. Since the strong feature does not require elimination prior to Spell-Out in this case,</text>
+<text top="313" left="108" width="701" height="18" font="1">Procrastinate determines that it cannot be eliminated prior to Spell-Out. Therefore, a</text>
+<text top="337" left="108" width="702" height="18" font="1">category with a strong head which is the root node at Spell-Out should never have an</text>
+<text top="360" left="108" width="702" height="18" font="1">overt specifier and its head should never be the target for overt adjunction . These</text>
+<text top="358" left="742" width="6" height="11" font="6">4</text>
+<text top="384" left="108" width="703" height="18" font="1">predictions are of course at odds with the facts. Suppose declarative C is merged with T</text>
+<text top="408" left="108" width="702" height="18" font="1">after Spell-Out (as Chomsky suggests). If matrix T contains a strong D-feature, then it</text>
+<text top="432" left="108" width="702" height="18" font="1">does not require elimination prior to Spell-Out, since it can be eliminated after Spell-Out</text>
+<text top="455" left="108" width="223" height="18" font="1">before merger of C and T</text>
+<text top="455" left="351" width="458" height="18" font="1">. We therefore predict, counterfactually, that in such a</text>
+<text top="453" left="331" width="20" height="11" font="6">max</text>
+<text top="479" left="108" width="261" height="18" font="1">language the subject (or rather FF</text>
+<text top="479" left="394" width="416" height="18" font="1">, the collection of its formal features) raises covertly.</text>
+<text top="489" left="368" width="26" height="11" font="6">SUBJ</text>
+<text top="503" left="108" width="702" height="18" font="1">Similarly, if matrix T contains a strong V-feature, the verb does not need to raise prior to</text>
+<text top="527" left="108" width="702" height="18" font="1">Spell-Out. Similar problems arise when strong &lt;+<i>wh</i>&gt; is present in C and C projects the</text>
+<text top="550" left="108" width="702" height="18" font="1">root node, except that in that case the problem is to account for the presence of a <i>wh</i>-</text>
+<text top="574" left="108" width="593" height="18" font="1">operator in SpecC and/or for adjunction of a verbal head to C (inversion).</text>
+<text top="598" left="123" width="687" height="18" font="1">On current assumptions about the location of strong features we cannot strengthen the</text>
+<text top="622" left="108" width="702" height="18" font="1">elimination requirement so that a strong feature must be eliminated immediately upon</text>
+<text top="645" left="108" width="702" height="18" font="1">entering the derivation. Keeping to the minimal assumption that Merge extends the target,</text>
+<text top="669" left="108" width="701" height="18" font="1">this would make it impossible for an adjunct to intervene between a strong head and its</text>
+<text top="693" left="108" width="702" height="18" font="1">checker. But if no adequate instant elimination requirement can be formulated, then it</text>
+<text top="717" left="108" width="702" height="18" font="1">would appear that a strong feature merely requires elimination by an overt operation (i.e.</text>
+<text top="740" left="108" width="702" height="18" font="1">prior to Spell-Out). This creates a problem with respect to uniformity, since we now face</text>
+<text top="764" left="108" width="702" height="18" font="1">the problem of imposing this requirement without reintroducing something analogous to</text>
+<text top="788" left="108" width="702" height="18" font="1">an S-Structure constraint. Also, if a strong feature merely requires overt elimination, then</text>
+<text top="812" left="108" width="702" height="18" font="1">we no longer derive strict cyclicity, since the elimination of a strong feature does not need</text>
+<text top="836" left="108" width="702" height="18" font="1">to follow immediately upon its introduction. In the following sections I take up each of</text>
+<text top="859" left="108" width="629" height="18" font="1">these problems in turn, beginning with the problem of deriving strict cyclicity.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="11" family="Times" color="#000000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+<text top="132" left="320" width="411" height="15" font="5"><i>Strong features, pied-piping and the overt/covert distinction</i></text>
+<text top="132" left="800" width="10" height="18" font="1">7</text>
+<text top="194" left="108" width="269" height="18" font="3"><b>3.2 Strength and strict cyclicity</b></text>
+<text top="241" left="108" width="703" height="18" font="1">Let us begin by briefly reviewing how on the standard account strength manages to bar</text>
+<text top="265" left="108" width="702" height="18" font="1">counter-cyclic movement. Counter-cyclic movement is the result of skipping a &#34;potential&#34;</text>
+<text top="289" left="108" width="702" height="18" font="1">position that is later filled. A potential position is a checking position associated with a</text>
+<text top="312" left="108" width="702" height="18" font="1">strong feature. If strong features have to be checked immediately, then such position have</text>
+<text top="336" left="108" width="702" height="18" font="1">to be filled immediately. Hence, such a position cannot ever be skipped. The following</text>
+<text top="360" left="108" width="538" height="18" font="1">examples illustrate the cases that belong to the standard repertoire:</text>
+<text top="407" left="108" width="24" height="18" font="1">(4)</text>
+<text top="407" left="162" width="9" height="18" font="1">a</text>
+<text top="407" left="216" width="311" height="18" font="1">*John  seems that it is certain t  to win</text>
+<text top="417" left="264" width="6" height="11" font="6">1</text>
+<text top="417" left="465" width="6" height="11" font="6">1</text>
+<text top="431" left="162" width="10" height="18" font="1">b</text>
+<text top="431" left="216" width="382" height="18" font="1">*To whom  do you wonder what  John gave <i>t </i> <i>t</i></text>
+<text top="441" left="303" width="6" height="11" font="6">1</text>
+<text top="441" left="478" width="6" height="11" font="6">2</text>
+<text top="441" left="581" width="6" height="11" font="6">1</text>
+<text top="441" left="598" width="6" height="11" font="6">2</text>
+<text top="455" left="162" width="9" height="18" font="1">c</text>
+<text top="455" left="216" width="355" height="18" font="1">*who was [  a picture of <i>t </i>] taken <i>t </i> by Bill</text>
+<text top="462" left="308" width="8" height="15" font="8">&#34;</text>
+<text top="465" left="424" width="14" height="11" font="9"><i>wh</i></text>
+<text top="462" left="504" width="8" height="15" font="8">&#34;</text>
+<text top="503" left="108" width="702" height="18" font="1">(4a) and (4b) are derivable if <i>John</i> and <i>to whom</i> move across a potential position later</text>
+<text top="526" left="108" width="702" height="18" font="1">filled by <i>it</i> and <i>what</i> respectively. (4c) is a CED violation, but is derivable with no</text>
+<text top="550" left="108" width="702" height="18" font="1">violation if passive follows <i>wh</i>-movement, because strong C can attract <i>who</i>. All these</text>
+<text top="574" left="108" width="702" height="18" font="1">cases would be blocked straightforwardly, if strength required instant elimination, but we</text>
+<text top="598" left="108" width="702" height="18" font="1">no longer have that option. As Chomsky notes, a case like (4c) could also be ruled out if</text>
+<text top="621" left="108" width="703" height="18" font="1">we adopted a global economy condition selecting derivations with shorter moves, since</text>
+<text top="645" left="108" width="648" height="18" font="0"><i>wh</i>-movement is &#34;longer&#34; in the counter-cyclic derivation than in the cyclic one. </text>
+<text top="669" left="123" width="687" height="18" font="1">At this point we should note that (4a) and (4b) are ruled out straightforwardly by the</text>
+<text top="693" left="108" width="553" height="18" font="1">MLC if the counter-cyclic option is not taken. I give the MLC in (5):</text>
+<text top="740" left="108" width="24" height="18" font="1">(5)</text>
+<text top="740" left="162" width="196" height="18" font="1">Minimal Link Condition</text>
+<text top="764" left="162" width="83" height="18" font="1">K attracts </text>
+<text top="760" left="245" width="13" height="25" font="7">&#34;</text>
+<text top="764" left="259" width="152" height="18" font="1"> only if there is no </text>
+<text top="760" left="411" width="13" height="25" font="7">$</text>
+<text top="764" left="425" width="10" height="18" font="1">, </text>
+<text top="760" left="435" width="13" height="25" font="7">$</text>
+<text top="764" left="449" width="139" height="18" font="1"> closer to K than </text>
+<text top="760" left="587" width="13" height="25" font="7">&#34;</text>
+<text top="764" left="601" width="172" height="18" font="1">, such that K attracts </text>
+<text top="760" left="772" width="13" height="25" font="7">$</text>
+<text top="764" left="786" width="5" height="18" font="1">.</text>
+<text top="811" left="108" width="621" height="18" font="1">Consider (6), the structure of (4a) before <i>John</i> is moved to the matrix clause:</text>
+<text top="859" left="108" width="24" height="18" font="1">(6)</text>
+<text top="859" left="162" width="278" height="18" font="1">seems that it is certain John to win</text>
+<text top="906" left="108" width="702" height="18" font="1">The MLC determines that <i>John</i> cannot raise to the matrix clause, since the strong D-</text>
+<text top="930" left="108" width="578" height="18" font="1">feature in matrix I attracts the expletive <i>it</i>, which is closer to the target. </text>
+<text top="954" left="123" width="687" height="18" font="1">Comparing the counter-cyclic and cyclic versions of (4a) and (4b), one wonders whether</text>
+<text top="978" left="108" width="702" height="18" font="1">it would not be preferable on conceptual grounds to capture both under a suitably</text>
+<text top="1001" left="108" width="702" height="18" font="1">generalized version of the MLC. This condition as it stands will not bar long-distance</text>
+<text top="1025" left="108" width="175" height="18" font="1">raising of <i>John</i> in (7):</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="15" family="Times" color="#000000"/>
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="10" height="18" font="1">8</text>
+<text top="847" left="130" width="680" height="15" font="4">Note incidentally that on both versions of the MLC, there is an alternative derivation from (9).</text>
+<text top="842" left="123" width="6" height="11" font="6">5</text>
+<text top="867" left="108" width="493" height="15" font="4">Suppose  <i>who</i> raises to strong I, checking its strong D-feature and its </text>
+<text top="863" left="601" width="10" height="21" font="10">N</text>
+<text top="867" left="612" width="198" height="15" font="4">-features, and then raises on</text>
+<text top="887" left="108" width="702" height="15" font="4">to strong C. If the formal features of the residue of the complement can raise covertly to I, then the</text>
+<text top="906" left="108" width="220" height="15" font="4">derivations for such examples as</text>
+<text top="946" left="123" width="235" height="15" font="4">Who was taken a picture of by Bill</text>
+<text top="966" left="123" width="320" height="15" font="4">How many people were seen pictures of by Bill</text>
+<text top="1005" left="108" width="702" height="15" font="4">converge. This seems to be the right result, at least for some of my informants. In any case, movement</text>
+<text top="1025" left="108" width="702" height="15" font="4">of <i>who</i> to SpecCP followed by overt movement of the residue to SpecIP is barred, so that we correctly</text>
+<text top="1045" left="108" width="244" height="15" font="4">derive the ungrammaticality of (4c).</text>
+<text top="194" left="108" width="24" height="18" font="1">(7)</text>
+<text top="194" left="162" width="262" height="18" font="1">seems that is certain John to win</text>
+<text top="242" left="108" width="702" height="18" font="1">The target (matrix I) can only attract <i>John</i> and is therefore allowed to do so. But suppose</text>
+<text top="265" left="108" width="440" height="18" font="1">we modify the MLC so that a target K can only attract </text>
+<text top="261" left="548" width="13" height="25" font="7">&#34;</text>
+<text top="265" left="561" width="249" height="18" font="1"> if there is no target L closer to</text>
+<text top="285" left="108" width="13" height="25" font="7">&#34;</text>
+<text top="289" left="121" width="689" height="18" font="1"> which also attracts it. This essentially resurrects a suggestion made in Chomsky (1994)</text>
+<text top="313" left="108" width="702" height="18" font="1">to extend the MLC to include the &#34;potential specifier&#34; of a head with a strong D-feature</text>
+<text top="337" left="108" width="638" height="18" font="1">along with actual (filled) Spec. This revised version of the MLC is given in (8):</text>
+<text top="384" left="108" width="24" height="18" font="1">(8)</text>
+<text top="384" left="162" width="274" height="18" font="1">Minimal Link Condition (revised)</text>
+<text top="408" left="162" width="83" height="18" font="1">K attracts </text>
+<text top="403" left="245" width="13" height="25" font="7">&#34;</text>
+<text top="408" left="259" width="63" height="18" font="1"> only if </text>
+<text top="432" left="162" width="19" height="18" font="1">(i)</text>
+<text top="432" left="216" width="89" height="18" font="1">there is no </text>
+<text top="427" left="305" width="13" height="25" font="7">$</text>
+<text top="432" left="319" width="10" height="18" font="1">, </text>
+<text top="427" left="329" width="13" height="25" font="7">$</text>
+<text top="432" left="343" width="139" height="18" font="1"> closer to K than </text>
+<text top="427" left="481" width="13" height="25" font="7">&#34;</text>
+<text top="432" left="495" width="172" height="18" font="1">, such that K attracts </text>
+<text top="427" left="666" width="13" height="25" font="7">$</text>
+<text top="432" left="680" width="39" height="18" font="1"> and </text>
+<text top="455" left="162" width="25" height="18" font="1">(ii)</text>
+<text top="455" left="216" width="222" height="18" font="1">there is no L, L a target for </text>
+<text top="451" left="438" width="13" height="25" font="7">&#34;</text>
+<text top="455" left="452" width="88" height="18" font="1">, such that </text>
+<text top="451" left="540" width="13" height="25" font="7">&#34;</text>
+<text top="455" left="553" width="195" height="18" font="1"> is closer to L than to K.</text>
+<text top="503" left="108" width="622" height="18" font="1">The MLC in (8) also excludes case (4c), as desired. The relevant structure is:</text>
+<text top="550" left="108" width="24" height="18" font="1">(9)</text>
+<text top="550" left="162" width="13" height="18" font="1">C</text>
+<text top="550" left="221" width="59" height="18" font="1"> [  was</text>
+<text top="550" left="303" width="265" height="18" font="1"> taken [a picture of who] by Bill]</text>
+<text top="560" left="175" width="46" height="11" font="6">&lt;+<i>wh/D</i>&gt;</text>
+<text top="560" left="234" width="10" height="11" font="6">IP</text>
+<text top="560" left="280" width="22" height="11" font="6">&lt;<i>D</i>&gt;</text>
+<text top="598" left="108" width="702" height="18" font="1">Neither <i>who</i> nor <i>a picture of who</i> can raise directly to strong C, since strong I is the closer</text>
+<text top="622" left="108" width="51" height="18" font="1">target.</text>
+<text top="619" left="159" width="6" height="11" font="6">5</text>
+<text top="645" left="123" width="687" height="18" font="1">We conclude that there is no need to rely on special properties associated with strength</text>
+<text top="669" left="108" width="702" height="18" font="1">to derive cyclicity and that it might be preferable on conceptual grounds to derive it from</text>
+<text top="693" left="108" width="702" height="18" font="1">a revised version of the MLC. If this is the correct route to take, then there is no need to</text>
+<text top="717" left="108" width="702" height="18" font="1">insist that strong features must be eliminated instantly. All that is required is that a strong</text>
+<text top="740" left="108" width="701" height="18" font="1">feature is eliminated by an overt operation. But how can we impose a restriction of this</text>
+<text top="764" left="108" width="306" height="18" font="1">kind without jeopardizing uniformity?</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="320" width="411" height="15" font="5"><i>Strong features, pied-piping and the overt/covert distinction</i></text>
+<text top="132" left="800" width="10" height="18" font="1">9</text>
+<text top="194" left="108" width="268" height="18" font="3"><b>3.3 Uniformity and pied-piping</b></text>
+<text top="241" left="108" width="702" height="18" font="1">We concluded earlier that strong features trigger pied-piping, assuming the derivational</text>
+<text top="265" left="108" width="619" height="18" font="1">economy condition in (1) holds. I repeat this condition here for convenience:</text>
+<text top="312" left="108" width="24" height="18" font="1">(1)</text>
+<text top="312" left="162" width="54" height="18" font="1">HEOC</text>
+<text top="332" left="162" width="13" height="25" font="7">&#34;</text>
+<text top="336" left="176" width="449" height="18" font="1"> enters the numeration only if it has an effect on output.</text>
+<text top="384" left="108" width="702" height="18" font="1">The logic of the argument ran as follows. Pre-Spell-Out movement only occurs if it is</text>
+<text top="407" left="108" width="702" height="18" font="1">triggered by the presence of a strong feature. If an application of Move prior to Spell-Out</text>
+<text top="431" left="108" width="702" height="18" font="1">checks a strong feature by raising formal features only, then that operation does not have</text>
+<text top="455" left="108" width="702" height="18" font="1">an effect on PF output. The LF output is the same no matter whether a strong feature is</text>
+<text top="479" left="108" width="702" height="18" font="1">present or not. Therefore, the strong feature has no effect on output at all. Therefore, by</text>
+<text top="503" left="108" width="412" height="18" font="1">(1), the strong feature cannot enter the numeration.</text>
+<text top="526" left="123" width="687" height="18" font="1">As mentioned earlier, Chomsky suggests that the HEOC bars the covert insertion of</text>
+<text top="550" left="108" width="702" height="18" font="1">strong features, since in such cases the strong feature has no effect on either the LF or PF</text>
+<text top="574" left="108" width="701" height="18" font="1">output. But it easy to see that this argument can be extended to bar the covert checking</text>
+<text top="598" left="108" width="702" height="18" font="1">of a strong feature inserted <i>before</i> Spell-Out. By the same logic the presence of such a</text>
+<text top="621" left="108" width="702" height="18" font="1">feature does not affect either the PF or the LF output. It therefore follows from the HEOC</text>
+<text top="645" left="108" width="702" height="18" font="1">that strong features must be inserted and checked prior to Spell-Out. We conclude that the</text>
+<text top="669" left="108" width="702" height="18" font="1">HEOC explains the special properties of strong features and therefore solves the</text>
+<text top="693" left="108" width="251" height="18" font="1">associated uniformity problem.</text>
+<text top="764" left="108" width="223" height="18" font="3"><b>4 The status of the HEOC</b></text>
+<text top="811" left="108" width="702" height="18" font="1">The aim of this paper was to show that the overt/covert distinction in the minimalist</text>
+<text top="834" left="108" width="702" height="18" font="1">theory of Chomsky (1995) is grounded in independently motivated properties. I focused</text>
+<text top="858" left="108" width="701" height="18" font="1">on two properties of the theory which appear to cause a problem for the assumption that</text>
+<text top="882" left="108" width="702" height="18" font="1">derivations must be uniform, namely the obligatory nature of pied-piping with overt</text>
+<text top="906" left="108" width="702" height="18" font="1">movement and the obligatory elimination of strong features prior to Spell-Out. I argued</text>
+<text top="929" left="108" width="702" height="18" font="1">that both these properties can be derived from considerations of derivational economy,</text>
+<text top="953" left="108" width="702" height="18" font="1">namely the principle that an item from the lexicon enters the numeration only if it has an</text>
+<text top="977" left="108" width="703" height="18" font="1">effect on output (HEOC). It follows that we have found support for the overt/covert</text>
+<text top="1001" left="108" width="642" height="18" font="1">distinction to the extent that there exists independent motivation for the HEOC.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="20" height="18" font="1">10</text>
+<text top="950" left="130" width="665" height="15" font="4">Where &#34;identity&#34; is to be taken as a narrow and readily computable relation of logical equivalence.</text>
+<text top="945" left="123" width="6" height="11" font="6">6</text>
+<text top="987" left="130" width="434" height="15" font="4">My discussion, like theirs, is based on Chomsky's (1995) theory.</text>
+<text top="983" left="123" width="6" height="11" font="6">7</text>
+<text top="1025" left="130" width="680" height="15" font="4">This is my reading of their text. They do not explicitly state this recognition problem or prove its</text>
+<text top="1020" left="123" width="6" height="11" font="6">8</text>
+<text top="1045" left="108" width="79" height="15" font="4">complexity.</text>
+<text top="194" left="123" width="687" height="18" font="1">We have crucially relied on the argument that a strong feature must have an effect on</text>
+<text top="218" left="108" width="702" height="18" font="1">PF output. To see for a particular strong feature whether it does, we must compare the</text>
+<text top="242" left="108" width="702" height="18" font="1">derivations with and without the strong feature and see if the derived PF representations</text>
+<text top="265" left="108" width="702" height="18" font="1">are different. Golan (1993), Reinhart (1993, 1995) and Fox (1994) suggest that such</text>
+<text top="289" left="108" width="696" height="18" font="1">comparisons are also required for derivations which produce identical LF interpretations.</text>
+<text top="287" left="804" width="6" height="11" font="6">6</text>
+<text top="313" left="108" width="702" height="18" font="1">Their ideas, when considered in the context of Chomsky's (1995) theory, translate into the</text>
+<text top="337" left="108" width="668" height="18" font="1">requirement that for convergent derivations from a numeration N to LF an item </text>
+<text top="332" left="776" width="13" height="25" font="7">&#34;</text>
+<text top="337" left="790" width="20" height="18" font="1"> is</text>
+<text top="360" left="108" width="702" height="18" font="1">included in N only if its presence has an effect on interpretation at LF. If something along</text>
+<text top="384" left="108" width="702" height="18" font="1">these lines proves to be on the right track, then the HEOC has independent motivation.</text>
+<text top="408" left="123" width="687" height="18" font="1">Johnson and Lappin (1996) dismiss the HEOC as a viable principle on the grounds that</text>
+<text top="432" left="108" width="702" height="18" font="1">it induces vast computational complexity when combined with the account of QR in</text>
+<text top="455" left="108" width="702" height="18" font="1">Reinhart (1993, 1995).  It is difficult to evaluate their complexity argument, since they</text>
+<text top="453" left="293" width="6" height="11" font="6">7</text>
+<text top="479" left="108" width="702" height="18" font="1">provide only a sketch of how they derive the complexity result from the theory of</text>
+<text top="503" left="108" width="702" height="18" font="1">grammar. It is clear, however, that the authors are interested in establishing the</text>
+<text top="527" left="108" width="488" height="18" font="1">complexity of the following Universal Recognition Problem:</text>
+<text top="524" left="596" width="6" height="11" font="6">8</text>
+<text top="574" left="108" width="34" height="18" font="1">(10)</text>
+<text top="574" left="162" width="463" height="18" font="1">Given an arbitrary minimalist grammar G and a sentence </text>
+<text top="570" left="625" width="13" height="25" font="7">&#34;</text>
+<text top="574" left="638" width="28" height="18" font="1">, is </text>
+<text top="570" left="667" width="13" height="25" font="7">&#34;</text>
+<text top="574" left="680" width="5" height="18" font="1"> </text>
+<text top="570" left="685" width="10" height="25" font="7">,</text>
+<text top="574" left="695" width="53" height="18" font="1"> <i>L(G)</i>?</text>
+<text top="622" left="123" width="687" height="18" font="1">Before we turn to Johnson and Lappin's work in more detail, let us first briefly</text>
+<text top="645" left="108" width="702" height="18" font="1">recapitulate Reinhart's treatment of QR. She argues that QR may only apply to derive an</text>
+<text top="669" left="108" width="702" height="18" font="1">LF with interpretation I if I cannot be derived without that application of QR. In other</text>
+<text top="693" left="108" width="702" height="18" font="1">words, QR applies only if it changes the in-situ scope relations. Reinhart's original</text>
+<text top="717" left="108" width="702" height="18" font="1">proposal violates a basic requirement of the minimalist program, since it allows instances</text>
+<text top="740" left="108" width="702" height="18" font="1">of Move which are not motivated by feature checking. For this reason Chomsky (1995)</text>
+<text top="764" left="108" width="702" height="18" font="1">reformulates her proposal somewhat. He suggests that QR involves raising of a</text>
+<text top="788" left="108" width="702" height="18" font="1">quantificational feature [quant] to some functional head (T or <i>v</i>) that is a potential host.</text>
+<text top="812" left="108" width="703" height="18" font="1">The idea is that the host has an optional affix feature allowing it to host [quant]. In such</text>
+<text top="836" left="108" width="702" height="18" font="1">a theory the HEOC determines that an optional affix feature may only be present in the</text>
+<text top="859" left="108" width="702" height="18" font="1">numeration if that gives rise an LF with an interpretation I which could not be derived if</text>
+<text top="883" left="108" width="280" height="18" font="1">N did not contain the affix feature.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="320" width="411" height="15" font="5"><i>Strong features, pied-piping and the overt/covert distinction</i></text>
+<text top="132" left="790" width="20" height="18" font="1">11</text>
+<text top="194" left="123" width="687" height="18" font="1">Johnson and Lappin's argument that the combination of the HEOC and QR makes the</text>
+<text top="218" left="108" width="702" height="18" font="1">Universal Recognition Problem in (10) very difficult hinges on their assumption that the</text>
+<text top="242" left="108" width="703" height="18" font="1">number of derivations which a language user would have to compare in order to answer</text>
+<text top="265" left="108" width="649" height="18" font="1">an instance of (10) is related to the number of quantifiers in the input sentence </text>
+<text top="261" left="756" width="13" height="25" font="7">&#34;</text>
+<text top="265" left="770" width="40" height="18" font="1"> by a</text>
+<text top="289" left="108" width="145" height="18" font="1">factorial function:</text>
+<text top="337" left="162" width="594" height="18" font="1">Restricting ourselves to cases in which all quantified NPs are contained in</text>
+<text top="360" left="162" width="594" height="18" font="1">the same basic clause, the number of well-formed LFs for a clause</text>
+<text top="384" left="162" width="594" height="18" font="1">containing k (1 &lt; k) quantified NPs will be at least as high as the number of</text>
+<text top="408" left="162" width="594" height="18" font="1">possible linear orderings of these NPs. Each linear ordering will correspond</text>
+<text top="432" left="162" width="594" height="18" font="1">either to the <i>in situ</i> c-command pattern, or to a c-command configuration</text>
+<text top="455" left="162" width="594" height="18" font="1">which results from successive adjunction of one or more NPs to T (TP) or</text>
+<text top="479" left="162" width="594" height="18" font="0"><i>v</i> (VP). Even if some of these LFs are semantically equivalent, they are all</text>
+<text top="503" left="162" width="595" height="18" font="1">the result of convergent derivations which must be considered in order to</text>
+<text top="527" left="162" width="594" height="18" font="1">compute the set of possible reference sets associated with the specified</text>
+<text top="550" left="162" width="594" height="18" font="1">numeration. For any set n (n &gt; 0) elements, there are n! distinct linear</text>
+<text top="574" left="162" width="594" height="18" font="1">orderings of this set. Therefore, for a clause containing k quantified NPs the</text>
+<text top="598" left="162" width="594" height="18" font="1">lower cardinality bound on the set of convergent derivations for the</text>
+<text top="622" left="162" width="594" height="18" font="1">numeration of this clause is at least k!. . . . This result is sufficient to</text>
+<text top="645" left="162" width="594" height="18" font="1">indicate the computational difficulties which the HEOC poses (Johnson and</text>
+<text top="669" left="162" width="164" height="18" font="1">Lappin 1996: p. 22).</text>
+<text top="717" left="108" width="702" height="18" font="1">On the assumptions outlined above one would have to compare at least 5040 derivations</text>
+<text top="740" left="108" width="702" height="18" font="1">for a sentence with 7 quantifiers such as (11a), whereas for (11b) there is just 1</text>
+<text top="764" left="108" width="186" height="18" font="1">convergent derivation. </text>
+<text top="788" left="108" width="5" height="18" font="1"> </text>
+<text top="812" left="108" width="34" height="18" font="1">(11)</text>
+<text top="812" left="162" width="9" height="18" font="1">a</text>
+<text top="812" left="216" width="594" height="18" font="1">A student submitted two papers to every professor for five courses during</text>
+<text top="836" left="216" width="409" height="18" font="1">three semesters at most universities in many cities.</text>
+<text top="859" left="162" width="10" height="18" font="1">b</text>
+<text top="859" left="216" width="594" height="18" font="1">John submitted his paper to Mary for Logic 101 during October at Brandeis</text>
+<text top="883" left="216" width="99" height="18" font="1">in Waltham.</text>
+<text top="931" left="108" width="702" height="18" font="1">The authors point out that there is no apparent reason for assuming such a radical</text>
+<text top="954" left="108" width="702" height="18" font="1">difference in the complexity of determining the grammaticality of these two sentences,</text>
+<text top="978" left="108" width="702" height="18" font="1">a point with which I find myself in complete agreement. But the overall argument leaves</text>
+<text top="1002" left="108" width="158" height="18" font="1">much to be desired.</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="20" height="18" font="1">12</text>
+<text top="1025" left="130" width="680" height="15" font="4">The argument is simple. Suppose T contains multiple affix features. At any point in the derivation</text>
+<text top="1020" left="123" width="6" height="11" font="6">9</text>
+<text top="1045" left="108" width="433" height="15" font="4">only one QP can be closest to the features in the attracting head.</text>
+<text top="194" left="123" width="688" height="18" font="1">First of all, determining the grammaticality of a grammatical input does not seem to</text>
+<text top="218" left="108" width="702" height="18" font="1">require that one finds all convergent derivations from all potential numerations for the</text>
+<text top="242" left="108" width="702" height="18" font="1">input sentence. It suffices to determine that there exists an optimal convergent derivation</text>
+<text top="265" left="108" width="703" height="18" font="1">for the input sentence from the numeration containing 0 optional affix features. This is</text>
+<text top="289" left="108" width="702" height="18" font="1">true because if there exists an optimal convergent derivation for a sentence wrt to some</text>
+<text top="313" left="108" width="702" height="18" font="1">interpretation I involving QR, then there must also be an optimal convergent derivation</text>
+<text top="337" left="108" width="702" height="18" font="1">for that sentence wrt some interpretation I' which does not involve QR. Johnson and</text>
+<text top="360" left="108" width="702" height="18" font="1">Lappin should have based their argument on the worst case scenario, which is that the</text>
+<text top="384" left="108" width="702" height="18" font="1">input sentence is ungrammatical. In that case, it might be argued that it is necessary to</text>
+<text top="408" left="108" width="702" height="18" font="1">determine that all derivations from all potential numerations for the input sentence crash.</text>
+<text top="432" left="108" width="703" height="18" font="1">If QR does indeed give rise to a combinatorial explosion of possible derivations, then</text>
+<text top="455" left="108" width="702" height="18" font="1">serious complexity problems will certainly arise. The trouble is that there exists an error-</text>
+<text top="479" left="108" width="702" height="18" font="1">free heuristic which will do the job much quicker. The heuristic is based on the following</text>
+<text top="503" left="108" width="703" height="18" font="1">observation: if there exists no optimal convergent derivation  (wrt to some interpretation</text>
+<text top="527" left="108" width="702" height="18" font="1">I) for the input sentence from the numeration containing 0 affix features, then there exists</text>
+<text top="550" left="108" width="701" height="18" font="1">no optimal convergent derivation for the input sentence at all. Armed with this heuristic,</text>
+<text top="574" left="108" width="701" height="18" font="1">solving an instance of the URP in (10) becomes quite straightforward. The existence of</text>
+<text top="598" left="108" width="702" height="18" font="1">such a shortcut suggest that the underlying problem is not NP-hard and that it has</text>
+<text top="622" left="108" width="703" height="18" font="1">additional structure not exploited by the computationally complex solution proposed by</text>
+<text top="645" left="108" width="167" height="18" font="1">Johnson and Lappin.</text>
+<text top="669" left="123" width="687" height="18" font="1">Second, the argument is inconclusive if we do not specify what we mean by a &#34;potential</text>
+<text top="693" left="108" width="702" height="18" font="1">numeration&#34;. Johnson and Lappin tacitly assume that if a sentence contains <i>k</i> quantifiers,</text>
+<text top="717" left="108" width="702" height="18" font="1">we should look at numerations containing a number of optional affix features ranging</text>
+<text top="740" left="108" width="94" height="18" font="1">from 0 to <i>k</i>.</text>
+<text top="764" left="123" width="687" height="18" font="1">Indeed there must be some limit on the number of optional affix features that can be</text>
+<text top="788" left="108" width="702" height="18" font="1">selected for a given sentence or the URP will not be decidable. One could simply keep on</text>
+<text top="812" left="108" width="633" height="18" font="1">trying to find a convergent derivation by increasing the size of the numeration.</text>
+<text top="836" left="123" width="687" height="18" font="1">Third, it is assumed without motivation that QR can produce all possible c-command</text>
+<text top="859" left="108" width="702" height="18" font="1">permutations for the quantifiers in a sentence. But the assumption seems incorrect. The</text>
+<text top="883" left="108" width="702" height="18" font="1">MLC determines that multiple applications of QR within the same simple clause are</text>
+<text top="907" left="108" width="702" height="18" font="1">ordered and yield just one LF.  This drastically reduces the number of possible derivations</text>
+<text top="905" left="339" width="6" height="11" font="6">9</text>
+<text top="931" left="108" width="158" height="18" font="1">from O(n!) to O(n).</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="16" family="Times" color="#000000"/>
+<text top="132" left="320" width="411" height="15" font="5"><i>Strong features, pied-piping and the overt/covert distinction</i></text>
+<text top="132" left="790" width="20" height="18" font="1">13</text>
+<text top="849" left="137" width="674" height="15" font="4">Notice that the HEOC as stated in (1) seems to require comparison of derivations from all</text>
+<text top="844" left="123" width="12" height="11" font="6">10</text>
+<text top="869" left="108" width="313" height="15" font="4">possible alternative numerations N' of N (N' </text>
+<text top="865" left="421" width="389" height="22" font="11">d N) to a given interpretation I. This is clearly not what</text>
+<text top="888" left="108" width="702" height="15" font="4">we want since it would introduce very considerable unnecessary complexity. As Johnson and Lappin</text>
+<text top="908" left="108" width="702" height="15" font="4">point out what is intended is that the range of alternative numerations for a reference set is limited</text>
+<text top="928" left="108" width="409" height="15" font="4">to variation with respect to a highly restricted set of features.</text>
+<text top="966" left="137" width="674" height="15" font="4">It should be noted that the MLC may be too restrictive in allowing only one LF. This will be the</text>
+<text top="961" left="123" width="12" height="11" font="6">11</text>
+<text top="986" left="108" width="702" height="15" font="4">case if the derived LF cannot be used to obtain more than one scope reading. But if multiple instances of</text>
+<text top="1005" left="108" width="702" height="15" font="4">the affix feature in a functional head allow multiple adjunction to that head, then we could resort to May's</text>
+<text top="1025" left="108" width="702" height="15" font="4">(1985) Scope Principle to give us all the relative scope relations. See Brody (1995c) for discussion of</text>
+<text top="1045" left="108" width="167" height="15" font="4">problems with the MLC.</text>
+<text top="194" left="123" width="687" height="18" font="1">Let us also consider the recognition problem in (12), which is arguably more relevant</text>
+<text top="218" left="108" width="370" height="18" font="1">to the interaction between QR and the HEOC:</text>
+<text top="265" left="108" width="34" height="18" font="1">(12)</text>
+<text top="265" left="162" width="468" height="18" font="1">Given an arbitrary minimalist grammar G and a sentence </text>
+<text top="261" left="629" width="13" height="25" font="7">&#34;</text>
+<text top="265" left="643" width="167" height="18" font="1"> with interpretation I</text>
+<text top="289" left="162" width="249" height="18" font="1">derived from numeration N, is </text>
+<text top="285" left="411" width="13" height="25" font="7">&#34;</text>
+<text top="289" left="425" width="5" height="18" font="1"> </text>
+<text top="285" left="430" width="10" height="25" font="7">,</text>
+<text top="289" left="440" width="53" height="18" font="1"> <i>L(G)</i>?</text>
+<text top="337" left="108" width="242" height="18" font="1">Suppose we have a sentence </text>
+<text top="332" left="350" width="13" height="25" font="7">&#34;</text>
+<text top="337" left="363" width="447" height="18" font="1"> with interpretation I, derived by a derivation D from a</text>
+<text top="360" left="108" width="702" height="18" font="1">numeration N containing <i>k</i> instances of the optional affix feature triggering QR. This</text>
+<text top="384" left="108" width="702" height="18" font="1">derivation is allowed by the HEOC only if I cannot be derived by a derivation D' from N',</text>
+<text top="408" left="108" width="22" height="18" font="1">N' </text>
+<text top="403" left="130" width="12" height="26" font="7">d</text>
+<text top="408" left="141" width="669" height="18" font="1"> N. In particular, if D' is based on a numeration N' containing fewer instances of the</text>
+<text top="432" left="108" width="702" height="18" font="1">affix feature, then the HEOC rules out derivation D.  The recognition problem in (12)</text>
+<text top="429" left="531" width="12" height="11" font="6">10</text>
+<text top="455" left="108" width="701" height="18" font="1">asks how difficult it is in the general case to determine that a derivation from N to I for</text>
+<text top="479" left="108" width="93" height="18" font="1">a sentence </text>
+<text top="475" left="200" width="13" height="25" font="7">&#34;</text>
+<text top="479" left="214" width="596" height="18" font="1"> is allowed by the HEOC. Suppose N contains <i>k</i> instances of the optional</text>
+<text top="503" left="108" width="702" height="18" font="1">affix feature. These <i>k</i> instances of the affix feature will trigger exactly <i>k</i> instances of</text>
+<text top="527" left="108" width="702" height="18" font="1">Move. As we said earlier, the MLC determines that multiple applications of QR within</text>
+<text top="550" left="108" width="702" height="18" font="1">the same simple clause are ordered and yield just one LF. Therefore, in order to determine</text>
+<text top="574" left="108" width="701" height="18" font="1">that <i>k</i> instances of the affix feature are required (and therefore permitted) in N in order</text>
+<text top="598" left="108" width="702" height="18" font="1">to derive I, we must check that derivations with <i>fewer</i> instances of the affix feature do not</text>
+<text top="622" left="108" width="702" height="18" font="1">derive I. It follows that the number of derivations to be compared is a related to the</text>
+<text top="645" left="108" width="702" height="18" font="1">number of affix features by a linear function, so that comparison of alternative derivations</text>
+<text top="669" left="108" width="207" height="18" font="1">should not be very costly.</text>
+<text top="667" left="315" width="12" height="11" font="6">11</text>
+<text top="693" left="123" width="687" height="18" font="1">It may be that the language user's comprehension device does not need to go to the</text>
+<text top="717" left="108" width="702" height="18" font="1">trouble of comparing derivations at all where the interaction of covert operations (such</text>
+<text top="740" left="108" width="702" height="18" font="1">as QR) with the HEOC are concerned. This is because the competing derivations have the</text>
+<text top="764" left="108" width="702" height="18" font="1">following properties: (i) they are related to identical PF representations; (ii) they are</text>
+<text top="788" left="108" width="702" height="18" font="1">related to identical interpretations. If a derivation from a numeration N can associate a</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="123" height="15" font="5"><i>Hans van de Koot</i></text>
+<text top="132" left="108" width="20" height="18" font="1">14</text>
+<text top="194" left="108" width="72" height="18" font="1">sentence </text>
+<text top="190" left="180" width="13" height="25" font="7">&#34;</text>
+<text top="194" left="193" width="617" height="18" font="1"> with an interpretation I, then the HEOC determines that there may be a more</text>
+<text top="218" left="108" width="311" height="18" font="1">economical way to derive I from N' , N' </text>
+<text top="213" left="419" width="12" height="26" font="7">d</text>
+<text top="218" left="431" width="380" height="18" font="1"> N, but never that there is no way to derive I. If</text>
+<text top="242" left="108" width="701" height="18" font="1">the language comprehension device can deduce off-line that the HEOC guarantees that</text>
+<text top="265" left="108" width="361" height="18" font="1">an interpretation I it has found for a sentence </text>
+<text top="261" left="469" width="13" height="25" font="7">&#34;</text>
+<text top="265" left="483" width="327" height="18" font="1"> is derivable irrespective of the economy</text>
+<text top="289" left="108" width="702" height="18" font="1">considerations captured by the HEOC, then it should never have to go to the trouble of</text>
+<text top="313" left="108" width="599" height="18" font="1">finding a most economical derivation for an interpretation I of a sentence </text>
+<text top="308" left="707" width="13" height="25" font="7">&#34;</text>
+<text top="313" left="721" width="89" height="18" font="1">. Of course</text>
+<text top="337" left="108" width="702" height="18" font="1">this is not true for competing derivations which yield different PFs, since in that case a</text>
+<text top="360" left="108" width="470" height="18" font="1">derivation has to be found which yields the correct PF for </text>
+<text top="356" left="577" width="13" height="25" font="7">&#34;</text>
+<text top="360" left="591" width="5" height="18" font="1">.</text>
+<text top="456" left="108" width="94" height="18" font="3"><b>References</b></text>
+<text top="502" left="108" width="445" height="15" font="4">Brody, M (1995a). <i>Lexico-Logical Form</i>. Cambridge: MIT Press.</text>
+<text top="522" left="108" width="568" height="15" font="4">Brody, M (1995b). Projection and Phrase Structure. Ms University College London.</text>
+<text top="541" left="108" width="702" height="15" font="4">Brody, M (1995c). Perfect Chains. Ms University College London. To appear in L Haegeman (ed)</text>
+<text top="561" left="123" width="203" height="15" font="5"><i>Handbook of Syntax.</i> Kluwer.</text>
+<text top="581" left="108" width="702" height="15" font="4">Chomsky, N (1994). Bare Phrase Structure. In G Webelhuth (ed) <i>Government and Binding Theory and</i></text>
+<text top="601" left="123" width="302" height="15" font="5"><i>the Minimalist Program</i>. Oxford: Blackwell.</text>
+<text top="621" left="108" width="480" height="15" font="4">Chomsky, N (1995). <i>The Minimalist Program</i>. Cambridge: MIT Press.</text>
+<text top="640" left="108" width="673" height="15" font="4">Fox, D (1994). Economy, Scope and Semantic Interpretation: Evidence from VP-Ellipsis. Ms MIT.</text>
+<text top="660" left="108" width="649" height="15" font="4">Golan, V (1993). Node Crossing Economy, Superiority and D-Linking. Ms Tel Aviv University.</text>
+<text top="680" left="108" width="702" height="15" font="4">Johnson, D and S Lappin (1996). A Critique of the Minimalist Program. Ms IBM TJ Watson Research</text>
+<text top="700" left="123" width="497" height="15" font="4">Center and School of Oriental and African Studies, University of London.</text>
+<text top="720" left="108" width="371" height="15" font="4">May, R (1985). <i>Logical Form</i>. Cambridge: MIT Press.</text>
+<text top="739" left="108" width="702" height="15" font="4">Reinhart, T (1993). <i>Wh</i>-in-situ in the Framework of the Minimalist Program. Ms Tel Aviv University.</text>
+<text top="759" left="123" width="290" height="15" font="4">Lecture at Utrecht Linguistics Colloquium.</text>
+<text top="779" left="108" width="575" height="15" font="4">Reinhart, T (1995). Interface Strategies. OTS Working Papers, University of Utrecht.</text>
+<text top="799" left="108" width="702" height="15" font="4">Watanabe, A (1992). Subjacency and S-Structure Movement of <i>Wh</i>-in-situ. <i>Journal of East Asian</i></text>
+<text top="819" left="123" width="158" height="15" font="5"><i>Linguistics</i> 1, 255-291.</text>
+</page>
+</pdf2xml>

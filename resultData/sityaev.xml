@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="36" family="Times" color="#000000"/>
+	<fontspec id="1" size="23" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="17" family="Times" color="#000000"/>
+	<fontspec id="5" size="11" family="Times" color="#000000"/>
+<text top="137" left="108" width="702" height="32" font="0"><i><b>The relationship between accentuation and</b></i></text>
+<text top="179" left="108" width="702" height="32" font="0"><i><b>information status of discourse referents: A</b></i></text>
+<text top="221" left="108" width="280" height="32" font="0"><i><b>corpus-based study</b></i></text>
+<text top="213" left="388" width="12" height="21" font="1"><i><b>*</b></i></text>
+<text top="306" left="108" width="170" height="18" font="2">DMITRY SITYAEV</text>
+<text top="404" left="152" width="75" height="18" font="3"><b>Abstract</b></text>
+<text top="451" left="152" width="615" height="16" font="4">This paper presents empirical results of the corpus-based study on the relationship between</text>
+<text top="471" left="152" width="615" height="16" font="4">accentuation and referent information status. It was found that there is no one-to-one</text>
+<text top="492" left="152" width="615" height="16" font="4">relationship between “new” vs. “given” information and presence vs. absence of accent.</text>
+<text top="512" left="152" width="615" height="16" font="4">Contrary to the widely spread claim that “given” items appear to be deaccented, the results</text>
+<text top="532" left="152" width="615" height="16" font="4">revealed that 79-89% of common nouns and 89-97% of proper nouns which had been</text>
+<text top="553" left="152" width="615" height="16" font="4">previously introduced into the discourse surface as accented. Possible explanations for</text>
+<text top="573" left="152" width="549" height="16" font="4">deaccenting “new” information and accenting “given” information are suggested.</text>
+<text top="642" left="108" width="124" height="18" font="3"><b>1 Introduction</b></text>
+<text top="690" left="108" width="702" height="18" font="2">Prosody can have various functions. Among many of them is signalling “new”</text>
+<text top="714" left="108" width="702" height="18" font="2">information. The relationship between accentuation and information status of discourse</text>
+<text top="738" left="108" width="702" height="18" font="2">referents has been for some time a topic of investigation for both linguists and language</text>
+<text top="762" left="108" width="702" height="18" font="2">engineers. However, not many studies have made a corpus the object of their</text>
+<text top="786" left="108" width="702" height="18" font="2">investigation; yet there has been a growing interest and emphasis on the importance of</text>
+<text top="809" left="108" width="702" height="18" font="2">corpus-based studies in linguistics. This paper sets out to explore the relationship</text>
+<text top="833" left="108" width="702" height="18" font="2">between accentuation and the information status of referents in the discourse using a</text>
+<text top="857" left="108" width="702" height="18" font="2">corpus of recorded speech. The results will be implemented in constructing rules for</text>
+<text top="881" left="108" width="234" height="18" font="2">automatic accent assignment.</text>
+<text top="905" left="123" width="687" height="18" font="2">It was Halliday (1967a) who drew the attention of scholars in the West to the</text>
+<text top="929" left="108" width="702" height="18" font="2">distinction made by the Prague School linguists between “new information” and “given</text>
+<text top="953" left="108" width="702" height="18" font="2">information”. As he defined it, the primary distinction relates to the state of knowledge</text>
+<text top="977" left="108" width="702" height="18" font="2">which the speaker attributes to the hearer: “new information” is said to be presented by</text>
+<text top="1001" left="108" width="217" height="18" font="2">                                           </text>
+<text top="1020" left="123" width="6" height="10" font="5">*</text>
+<text top="1025" left="128" width="682" height="16" font="4"> This paper forms part of work in progress on the investigation of prosodic features of spoken text. I</text>
+<text top="1045" left="108" width="634" height="16" font="4">would like to thank Jill House for most insightful comments on the earlier drafts of this paper.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="6" size="17" family="Times" color="#000000"/>
+	<fontspec id="7" size="13" family="Times" color="#000000"/>
+<text top="132" left="108" width="26" height="16" font="4">286</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="702" height="18" font="2">the speaker as “not being recoverable from the preceding discourse” (Halliday, 1967a:</text>
+<text top="198" left="108" width="702" height="18" font="2">204) and “given information” is said to be treated by the speaker as “recoverable either</text>
+<text top="222" left="108" width="315" height="18" font="2">anaphorically or situationally” (p. 211).</text>
+<text top="246" left="123" width="687" height="18" font="2">Since then, it has been frequently mentioned that discourse-new entities (“new”</text>
+<text top="269" left="108" width="702" height="18" font="2">information) are accented and that discourse-old entities (“given” information) are de-</text>
+<text top="293" left="108" width="702" height="18" font="2">accented (Halliday, 1967b; Chafe, 1974; Brown, 1983; Gussenhoven, 1984;</text>
+<text top="317" left="108" width="702" height="18" font="2">Hirschberg, 1993; Cruttenden, 1997; Hirschberg, 1999). A simple example illustrates</text>
+<text top="341" left="108" width="34" height="18" font="2">this:</text>
+<text top="389" left="108" width="23" height="18" font="2">(1)</text>
+<text top="389" left="152" width="459" height="18" font="2">My mother bought me a  CAR yesterday. I  LIKE the car</text>
+<text top="385" left="611" width="7" height="12" font="7">1</text>
+<text top="389" left="618" width="5" height="18" font="2">.</text>
+<text top="413" left="353" width="53" height="18" font="2">{new}</text>
+<text top="413" left="587" width="64" height="18" font="2">{given}</text>
+<text top="461" left="108" width="702" height="18" font="2">Brown (1983) conducted an experiment in which she decided to re-assert Halliday’s</text>
+<text top="485" left="108" width="702" height="18" font="2">(1967a) distinction established by the dichotomy “new” and “given”, with particular</text>
+<text top="509" left="108" width="702" height="18" font="2">respect to prominence. She found presence/absence of accent correlates very well with</text>
+<text top="533" left="108" width="702" height="18" font="2">new/given informational status: new items are almost always accented, and given items</text>
+<text top="557" left="108" width="422" height="18" font="2">are almost always de-accented (see also Section 3.2).</text>
+<text top="581" left="123" width="687" height="18" font="2">On the other hand, Nooteboom &amp; Kruyt (1987) have found that it is also acceptable</text>
+<text top="605" left="108" width="702" height="18" font="2">to accent expressions referring to given items as well as to accent those expressions</text>
+<text top="629" left="108" width="702" height="18" font="2">which refer to new entities. Nakatani (1998) in her turn explored monologues and</text>
+<text top="653" left="108" width="703" height="18" font="2">found that accents can occur on given entities expressed by pronouns. In this case, she</text>
+<text top="676" left="108" width="357" height="18" font="2">concluded, accents signal focus centre shifts.</text>
+<text top="700" left="123" width="687" height="18" font="2">In this paper, I shall argue that there is no one-to-one relationship between</text>
+<text top="724" left="108" width="702" height="18" font="2">accentuation and referent information status. Even though a referent may bear “given</text>
+<text top="748" left="108" width="702" height="18" font="2">information” status (as defined below), it is not necessarily true that the referent</text>
+<text top="772" left="108" width="702" height="18" font="2">surfaces as de-accented. On the contrary, many referents which have been already</text>
+<text top="796" left="108" width="702" height="18" font="2">introduced in the discourse appear to be accented. Likewise, the “new information”</text>
+<text top="820" left="108" width="702" height="18" font="2">status does not by any means guarantee that the referent new to the discourse will be</text>
+<text top="844" left="108" width="447" height="18" font="2">accented. I shall restrict my analysis of referents to NPs.</text>
+<text top="868" left="123" width="687" height="18" font="2">Section 2 elaborates on different notions of “givenness”. In Section 3, I provide a</text>
+<text top="892" left="108" width="702" height="18" font="2">survey of three hierarchies of “given” and “new” information and propose my own</text>
+<text top="916" left="108" width="702" height="18" font="2">division of information into “new” and “given”. Section 4 describes the corpus</text>
+<text top="940" left="108" width="702" height="18" font="2">analysed with its annotation and Section 5 presents results of the corpus analysis.</text>
+<text top="964" left="108" width="702" height="18" font="2">Section 6 summarises the results, offers possible explanations for the phenomena</text>
+<text top="988" left="108" width="418" height="18" font="2">observed and mentions future directions of research.</text>
+<text top="1022" left="108" width="217" height="18" font="2">                                           </text>
+<text top="1041" left="123" width="6" height="10" font="5">1</text>
+<text top="1045" left="129" width="584" height="16" font="4"> Here and below, capital letters are used to indicate that there is an accent on the word.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="20" family="Times" color="#000000"/>
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">287</text>
+<text top="174" left="108" width="252" height="18" font="3"><b>2 What is given, what is new?</b></text>
+<text top="221" left="108" width="702" height="18" font="2">One notion of givenness is based upon the recoverability of an item from the preceding</text>
+<text top="245" left="108" width="702" height="18" font="2">discourse, or the antecedence. It is the type of givenness mentioned in (Halliday, 1967a)</text>
+<text top="269" left="108" width="703" height="18" font="2">(see above) and discussed further in Kuno (1972, 1978) and Halliday &amp; Hassan (1976).</text>
+<text top="293" left="108" width="687" height="18" font="2">An item is said to be “given information” if it is anaphorically linked to its antecedent:</text>
+<text top="341" left="108" width="24" height="18" font="2">(2)</text>
+<text top="341" left="152" width="128" height="18" font="2">Mary paid Peter</text>
+<text top="349" left="280" width="4" height="12" font="7">i</text>
+<text top="341" left="284" width="59" height="18" font="2"> and <i>he</i></text>
+<text top="349" left="343" width="4" height="12" font="7">i</text>
+<text top="341" left="378" width="118" height="18" font="2">bought <i>himself</i></text>
+<text top="349" left="495" width="4" height="12" font="7">i</text>
+<text top="341" left="499" width="144" height="18" font="2"> a new macintosh.</text>
+<text top="365" left="324" width="64" height="18" font="2">{given}</text>
+<text top="365" left="438" width="64" height="18" font="2">{given}</text>
+<text top="437" left="108" width="702" height="18" font="2">Givenness can also be defined in terms of what the speaker assumes to be in the</text>
+<text top="461" left="108" width="702" height="18" font="2">hearer’s consciousness at the time of utterance. This notion of new/given information is</text>
+<text top="485" left="108" width="213" height="18" font="2">presented in Chafe (1976).</text>
+<text top="530" left="152" width="615" height="18" font="2">Given (or old) information is that knowledge that the speaker assumes to be</text>
+<text top="554" left="152" width="615" height="18" font="2">in the consciousness of the addressee at the time of the utterance. So-called</text>
+<text top="578" left="152" width="615" height="18" font="2">new information is what the speaker assumes he is introducing into the</text>
+<text top="602" left="152" width="493" height="18" font="2">addressee’s consciousness by what he says. (Chafe, 1976: 30)</text>
+<text top="647" left="108" width="702" height="18" font="2">For a noun to qualify as “given”, its referent must have been explicitly introduced in the</text>
+<text top="671" left="108" width="702" height="18" font="2">discourse. Thus, in (3a) Chafe would call “beer” given information, and in (3b) “beer”</text>
+<text top="695" left="108" width="155" height="18" font="2">is new information.</text>
+<text top="743" left="108" width="358" height="18" font="2">(3a) We got some beer out of the trunk. The</text>
+<text top="743" left="486" width="36" height="18" font="8"><i>beer</i></text>
+<text top="743" left="540" width="87" height="18" font="2">was warm.</text>
+<text top="767" left="486" width="64" height="18" font="2">{given}</text>
+<text top="815" left="108" width="493" height="18" font="2">(3b) We got some picnic supplies out of the trunk. The <i>beer</i></text>
+<text top="815" left="648" width="87" height="18" font="2">was warm.</text>
+<text top="838" left="565" width="53" height="18" font="2">{new}</text>
+<text top="886" left="108" width="702" height="18" font="2">Yet another view of givenness stems from the consideration of something broadly</text>
+<text top="910" left="108" width="702" height="18" font="2">referred to as “shared knowledge”. This type of givenness is discussed in Clark &amp;</text>
+<text top="934" left="108" width="702" height="18" font="2">Haviland (1977). Following this view, by “givenness” is meant that the speaker</text>
+<text top="958" left="108" width="702" height="18" font="2">assumes the hearer to know, assume or infer a particular thing. For instance, in (4)</text>
+<text top="982" left="108" width="592" height="18" font="2">below Clark &amp; Haviland would treat “grandparents” as given information.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="18" family="Times" color="#000000"/>
+<text top="132" left="108" width="26" height="16" font="4">288</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="24" height="18" font="2">(4)</text>
+<text top="174" left="152" width="139" height="18" font="2">Where were your</text>
+<text top="174" left="324" width="159" height="18" font="8"><i>grandparents</i> born?</text>
+<text top="198" left="324" width="64" height="18" font="2">{given}</text>
+<text top="222" left="108" width="702" height="18" font="2">Likewise, “beer” in (3b) in Clark &amp; Haviland’s view (but not in Chafe’s!) is also given</text>
+<text top="246" left="108" width="703" height="18" font="2">information: the information does not necessarily have to be explicitly introduced to be</text>
+<text top="269" left="108" width="640" height="18" font="2">“given”; it can have the status of “given” indirectly via inferencing (“bridging”).</text>
+<text top="342" left="108" width="415" height="18" font="3"><b>3 Taxonomies of “given” and “new” information</b></text>
+<text top="389" left="108" width="702" height="18" font="3"><b>3.0  </b>Below I will survey several proposed taxonomies for “given” and “new”</text>
+<text top="413" left="108" width="702" height="18" font="2">information and propose my own division between “given” and “new” which I will use</text>
+<text top="437" left="108" width="702" height="18" font="2">for examining the relationship between accentuation and referent information status in</text>
+<text top="461" left="108" width="110" height="18" font="2">the discourse.</text>
+<text top="509" left="108" width="144" height="18" font="3"><b>3.1 Prince (1981)</b></text>
+<text top="557" left="108" width="702" height="18" font="2">Prince (1981) suggests a taxonomy for distinguishing NPs expressing new and given</text>
+<text top="581" left="108" width="702" height="18" font="2">information in the discourse which she proposes to call “a taxonomy of the values of</text>
+<text top="605" left="108" width="702" height="18" font="2">Assumed Familiarity” (see Fig. 1). Below is a brief description of the taxonomy with</text>
+<text top="629" left="108" width="396" height="18" font="2">some examples, which are borrowed from Prince.</text>
+<text top="953" left="146" width="627" height="18" font="2">Figure 1. The taxonomy of Assumed Familiarity. Adapted from Prince (1981).</text>
+<text top="1024" left="108" width="24" height="18" font="2">(5)</text>
+<text top="1024" left="152" width="381" height="18" font="2">Pardon, would <i>you</i> have a change for a quarter?</text>
+<text top="692" left="358" width="148" height="16" font="9">Assumed Familiarity</text>
+<text top="756" left="179" width="30" height="16" font="9">new</text>
+<text top="756" left="385" width="60" height="16" font="9">  evoked</text>
+<text top="756" left="612" width="68" height="16" font="9">inferrable</text>
+<text top="799" left="130" width="68" height="16" font="9">brand-     </text>
+<text top="799" left="223" width="63" height="16" font="9">unused   </text>
+<text top="799" left="331" width="60" height="16" font="9"> evoked </text>
+<text top="799" left="445" width="174" height="16" font="9">situationally inferrable </text>
+<text top="799" left="655" width="74" height="16" font="9">containing</text>
+<text top="820" left="130" width="30" height="16" font="9">new</text>
+<text top="820" left="445" width="51" height="16" font="9">evoked</text>
+<text top="820" left="655" width="68" height="16" font="9">inferrable</text>
+<text top="862" left="115" width="88" height="16" font="9">-unanchored</text>
+<text top="884" left="115" width="70" height="16" font="9">-anchored</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="20" family="Symbol" color="#000000"/>
+	<fontspec id="11" size="20" family="Helvetica" color="#000000"/>
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">289</text>
+<text top="174" left="108" width="24" height="18" font="2">(6)</text>
+<text top="174" left="152" width="241" height="18" font="8"><i>Noam Chomsky</i> went to Penn.</text>
+<text top="198" left="108" width="24" height="18" font="2">(7)</text>
+<text top="198" left="152" width="399" height="18" font="2">I got on a <i>bus</i> yesterday and the <i>driver</i> was drunk.</text>
+<text top="222" left="108" width="24" height="18" font="2">(8)</text>
+<text top="222" left="152" width="355" height="18" font="8"><i>A guy I work with</i> says <i>he</i> knows your sister.</text>
+<text top="246" left="108" width="23" height="18" font="2">(9)</text>
+<text top="246" left="152" width="264" height="18" font="2">Hey, <i>one of these eggs</i> is broken.</text>
+<text top="293" left="108" width="702" height="18" font="2">Brand-new items are completely new to the hearer. They can be either unanchored, or</text>
+<text top="317" left="108" width="702" height="18" font="2">anchored to some other discourse entity. The NP “bus” in (7) is unanchored brand-new</text>
+<text top="341" left="108" width="702" height="18" font="2">information, whereas “a guy I work with” in (8) is anchored brand-new: it is anchored</text>
+<text top="365" left="108" width="703" height="18" font="2">to the discourse entity “I”. An example of unused type is the NP Noam Chomsky in (6):</text>
+<text top="389" left="108" width="702" height="18" font="2">the knowledge about who this person is is assumed to be shared between the speaker</text>
+<text top="413" left="108" width="118" height="18" font="2">and the hearer.</text>
+<text top="437" left="123" width="687" height="18" font="2">Evoked entities are those which are already present in the discourse. They can be</text>
+<text top="461" left="108" width="702" height="18" font="2">either previously introduced into the discourse (i.e. anaphoric to their antecedents) as</text>
+<text top="485" left="108" width="496" height="18" font="2">“he” in (8), or they can be situationally evoked as “you” in (5)</text>
+<text top="481" left="604" width="7" height="12" font="7">2</text>
+<text top="485" left="611" width="5" height="18" font="2">.</text>
+<text top="509" left="123" width="687" height="18" font="2">Inferrable items are those which are inferred from the discourse by logical reasoning.</text>
+<text top="533" left="108" width="702" height="18" font="2">For instance, it is known that buses have drivers; thus, “the driver” in (7) is inferrable.</text>
+<text top="557" left="108" width="702" height="18" font="2">Likewise, “one of these eggs” in (9) is said to be a containing inferrable since by virtue</text>
+<text top="581" left="108" width="702" height="18" font="2">of set-member inference, it is inferrable from “these eggs” which in its turn is properly</text>
+<text top="605" left="108" width="358" height="18" font="2">contained within the NP “one of these eggs”.</text>
+<text top="653" left="108" width="147" height="18" font="3"><b>3.2 Brown (1983)</b></text>
+<text top="700" left="108" width="702" height="18" font="2">Building on Prince’s taxonomy, Brown (1983) developed her own taxonomy, which</text>
+<text top="724" left="108" width="446" height="18" font="2">includes five categories for entity-referring expressions:</text>
+<text top="767" left="108" width="9" height="27" font="10">•</text>
+<text top="773" left="117" width="6" height="19" font="11"> </text>
+<text top="773" left="135" width="411" height="18" font="2">Brand-new (typically introduced by indefinite NPs)</text>
+<text top="792" left="108" width="9" height="27" font="10">•</text>
+<text top="798" left="117" width="6" height="19" font="11"> </text>
+<text top="799" left="135" width="415" height="18" font="2">New inferred (regularly introduced by definite NPs)</text>
+<text top="818" left="108" width="9" height="27" font="10">•</text>
+<text top="824" left="117" width="6" height="19" font="11"> </text>
+<text top="824" left="135" width="391" height="18" font="2">Evoked context  (=Prince’s situationally evoked)</text>
+<text top="843" left="108" width="9" height="27" font="10">•</text>
+<text top="849" left="117" width="6" height="19" font="11"> </text>
+<text top="850" left="135" width="675" height="18" font="2">Evoked current (item which has just been introduced into the discourse and which is</text>
+<text top="874" left="135" width="495" height="18" font="2">currently the entity to which new information is being related)</text>
+<text top="892" left="108" width="9" height="27" font="10">•</text>
+<text top="898" left="117" width="6" height="19" font="11"> </text>
+<text top="899" left="135" width="675" height="18" font="2">Evoked displaced (item which has been introduced into discourse at a point previous</text>
+<text top="923" left="135" width="231" height="18" font="2">to the currently evoked item)</text>
+<text top="919" left="366" width="7" height="12" font="7">3</text>
+<text top="981" left="108" width="217" height="18" font="2">                                           </text>
+<text top="1000" left="123" width="6" height="10" font="5">2</text>
+<text top="1004" left="129" width="682" height="16" font="4"> Prince notes that situationally evoked entities represent discourse participants and salient features of</text>
+<text top="1025" left="108" width="163" height="16" font="4">the extratextual context.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">290</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="702" height="18" font="2">As mentioned earlier, Brown found that the speaker’s intonational behaviour accords</text>
+<text top="198" left="108" width="702" height="18" font="2">well with Halliday’s descriptions: 87% of brand-new entities and 79% of new inferred</text>
+<text top="222" left="108" width="702" height="18" font="2">entities bear phonological prominence. As far as evoked items are concerned (“given”</text>
+<text top="246" left="108" width="703" height="18" font="2">information), none of the evoked current items are marked by prominence; only 4% of</text>
+<text top="269" left="108" width="670" height="18" font="2">evoked displaced items and 2% of evoked context items are marked by prominence.</text>
+<text top="318" left="108" width="349" height="18" font="3"><b>3.3 Gundel, Hedberg &amp; Zacharski (1993)</b></text>
+<text top="365" left="108" width="702" height="18" font="2">Gundel, Hedberg &amp; Zacharski (1993) propose the so-called “Givenness Hierarchy”</text>
+<text top="389" left="108" width="627" height="18" font="2">which in their view reflects the “six implicationally related cognitive statuses”:</text>
+<text top="436" left="123" width="602" height="16" font="9">in focus &gt; activated &gt; familiar &gt; uniquely identifiable &gt; referential  &gt; type identifiable</text>
+<text top="482" left="108" width="703" height="18" font="2">Again, the types of referents are best explained using examples (borrowed from Gundel</text>
+<text top="506" left="108" width="52" height="18" font="8"><i>et al</i>.):</text>
+<text top="554" left="108" width="432" height="18" font="2">(10) I couldn’t sleep last night. <i>A dog</i> kept me awake.</text>
+<text top="578" left="108" width="549" height="18" font="2">(11) I couldn’t sleep last night. <i>This dog</i> (next door) kept me awake.</text>
+<text top="602" left="108" width="544" height="18" font="2">(12) I couldn’t sleep last night. <i>The dog</i> (next door) kept me awake.</text>
+<text top="626" left="108" width="457" height="18" font="2">(13) I couldn’t sleep last night. <i>That dog</i> kept me awake.</text>
+<text top="650" left="108" width="422" height="18" font="2">(14) I couldn’t sleep last night. <i>That</i> kept me awake.</text>
+<text top="674" left="108" width="677" height="18" font="2">(15) My neighbour’s dog bit a girl on the bike. <i>It</i> is the same dog that bit me as well.</text>
+<text top="721" left="108" width="702" height="18" font="2">Type identifiable (10) can be used to refer to a representation of any object. Referentials</text>
+<text top="745" left="108" width="702" height="18" font="2">(11) are used to refer to a particular object; the hearer must either retrieve an existing</text>
+<text top="769" left="108" width="702" height="18" font="2">representation of the intended referent or construct a new representation. Uniquely</text>
+<text top="793" left="108" width="702" height="18" font="2">identifiable referents (12) are associated with definite reference - they are referential</text>
+<text top="817" left="108" width="702" height="18" font="2">and uniquely identifiable with an object. Familiar type (13) is also associated with the</text>
+<text top="841" left="108" width="702" height="18" font="2">ability of the hearer to uniquely identify the intended referent. When the speaker uses</text>
+<text top="865" left="108" width="703" height="18" font="2">the activated type (14), the referent must be represented in the current short-term</text>
+<text top="889" left="108" width="702" height="18" font="2">memory. In-Focus type (15) implies that the referent is not only in the short-term</text>
+<text top="913" left="108" width="446" height="18" font="2">memory but is also in the centre of the current attention.</text>
+<text top="937" left="123" width="687" height="18" font="2">It is difficult to compare Prince’s and Gundel <i>et al.</i>’s taxonomies since they take</text>
+<text top="961" left="108" width="702" height="18" font="2">slightly different approaches towards “givenness”. One difference, for example, is in</text>
+<text top="1001" left="108" width="706" height="18" font="2">                                                                                                                                            </text>
+<text top="1020" left="123" width="6" height="10" font="5">3</text>
+<text top="1025" left="129" width="681" height="16" font="4"> Brown adopts Yule’s (1981) distinction between “current” and “displaced” evoked items: evoked</text>
+<text top="1045" left="108" width="553" height="16" font="4">current items are mostly pronominalised, whereas evoked displaced items are not.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">291</text>
+<text top="174" left="108" width="702" height="18" font="2">that Gundel <i>et al.</i>’s categories “activated” and “in focus” would be collapsed in Prince’s</text>
+<text top="198" left="108" width="702" height="18" font="2">taxonomy under “evoked”. If we try to sequester the Givenness Hierarchy into “new”</text>
+<text top="222" left="108" width="702" height="18" font="2">and “given” information in the sense of Chafe, then we would probably say that only</text>
+<text top="246" left="108" width="702" height="18" font="2">“activated” and “in focus” type correspond to “given  information”. The rest is “new”</text>
+<text top="269" left="108" width="702" height="18" font="2">since no matter what cognitive representations of the objects the hearer may have at the</text>
+<text top="293" left="108" width="521" height="18" font="2">time, the referents in (10)-(13) are clearly “new” to the discourse.</text>
+<text top="342" left="108" width="496" height="18" font="3"><b>3.4 Proposed taxonomy of “given” and “new” information</b></text>
+<text top="389" left="108" width="702" height="18" font="2">Before proceeding to the investigation of the relationship between accentuation and</text>
+<text top="413" left="108" width="702" height="18" font="2">referent information status, one ought to say a few words about issues one has to face</text>
+<text top="437" left="108" width="702" height="18" font="2">when annotating a text for the information status of its referents. One of them is how</text>
+<text top="461" left="108" width="703" height="18" font="2">many types of referent status we should recognise in our hierarchy. We have seen from</text>
+<text top="485" left="108" width="702" height="18" font="2">the taxonomies discussed above that the number and the criteria on which referents are</text>
+<text top="509" left="108" width="702" height="18" font="2">distinguished vary, depending on one’s linguistic assumptions as well as theoretical</text>
+<text top="533" left="108" width="85" height="18" font="2">viewpoint.</text>
+<text top="557" left="123" width="687" height="18" font="2">Once we have figured out our taxonomy, it seems that the annotation of the text for</text>
+<text top="581" left="108" width="702" height="18" font="2">referent status should proceed without a problem. However, this is not the case. It can</text>
+<text top="604" left="108" width="702" height="18" font="2">be very problematic indeed at times to tell into which of the two or more groups a</text>
+<text top="628" left="108" width="702" height="18" font="2">referent falls, even with very straightforward and well-documented annotation schemes.</text>
+<text top="652" left="108" width="702" height="18" font="2">Poesio &amp; Viera (1998), for example, report on the annotation of definite descriptions</text>
+<text top="676" left="108" width="702" height="18" font="2">for referent information status; their discovery was that inter-annotator agreement was</text>
+<text top="700" left="108" width="80" height="18" font="2">quite low.</text>
+<text top="724" left="123" width="687" height="18" font="2">It is for these reasons that I have chosen to devise a coarser taxonomy of referent</text>
+<text top="748" left="108" width="702" height="18" font="2">information status than those that have been described above. Since the study is also</text>
+<text top="772" left="108" width="702" height="18" font="2">intended to help develop rules for automatic accent assignment in speech synthesis, it</text>
+<text top="796" left="108" width="702" height="18" font="2">makes sense to draw the parallel between the computer and the speaker. The approach I</text>
+<text top="820" left="108" width="703" height="18" font="2">decided to undertake towards modelling spoken communication is as follows. At the</text>
+<text top="844" left="108" width="702" height="18" font="2">very start, the machine does not know anything about what knowledge is shared</text>
+<text top="868" left="108" width="702" height="18" font="2">between itself (the machine is our prototypical speaker here) and the hearer. It is only as</text>
+<text top="892" left="108" width="702" height="18" font="2">the discourse unfolds that the computer can start treating those entities which it re-</text>
+<text top="916" left="108" width="702" height="18" font="2">introduces as present in the hearer’s knowledge/consciousness, and thus attaching a</text>
+<text top="940" left="108" width="304" height="18" font="2">“given information” label to referents.</text>
+<text top="964" left="123" width="687" height="18" font="2">It appears thus that we can treat the dichotomy “given-new” information as a binary</text>
+<text top="987" left="108" width="702" height="18" font="2">distinction. The referents which are introduced into the discourse for the first time are</text>
+<text top="1011" left="108" width="702" height="18" font="2">“new” (even if they happen to be items known to the speaker and the hearer, as in the</text>
+<text top="1035" left="108" width="702" height="18" font="2">example  “I saw your father yesterday”). Here will belong the following categories</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">292</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="702" height="18" font="2">distinguished by Prince: brand-new, unused, and inferrable. Only those entities, which</text>
+<text top="198" left="108" width="702" height="18" font="2">have already been introduced into the discourse (explicitly) or which are anaphorically</text>
+<text top="222" left="108" width="702" height="18" font="2">linked to some referent, will have the status of “given” information. In Prince’s</text>
+<text top="246" left="108" width="702" height="18" font="2">taxonomy, they will belong to evoked entities. In a way, we are treating “givenness” in</text>
+<text top="269" left="108" width="702" height="18" font="2">the sense of Chafe (1976): what the speaker believes to be in the hearer’s consciousness</text>
+<text top="293" left="108" width="188" height="18" font="2">at the time of utterance.</text>
+<text top="317" left="123" width="687" height="18" font="2">Fig. 2 provides a comparison between the proposed binary distinction of “new” and</text>
+<text top="341" left="108" width="456" height="18" font="2">“given” information and the taxonomies surveyed above.</text>
+<text top="388" left="108" width="164" height="18" font="2">Proposed distinction</text>
+<text top="388" left="366" width="64" height="18" font="2">“NEW”</text>
+<text top="388" left="585" width="80" height="18" font="2">“GIVEN”</text>
+<text top="413" left="108" width="110" height="18" font="2">Prince (1981)</text>
+<text top="412" left="292" width="206" height="16" font="9">brand-new, unused inferrable</text>
+<text top="433" left="292" width="176" height="16" font="9">and containing inferrable</text>
+<text top="412" left="519" width="172" height="16" font="9">evoked and situationally</text>
+<text top="433" left="519" width="51" height="16" font="9">evoked</text>
+<text top="477" left="108" width="113" height="18" font="2">Brown (1983)</text>
+<text top="477" left="292" width="173" height="16" font="9">brand-new, new inferred</text>
+<text top="477" left="520" width="166" height="16" font="9">evoked context, evoked</text>
+<text top="498" left="519" width="180" height="16" font="9">current, evoked displaced</text>
+<text top="521" left="108" width="162" height="18" font="2">Gundel <i>et al</i>. (1993)</text>
+<text top="520" left="292" width="164" height="16" font="9">identifiable, referential,</text>
+<text top="542" left="292" width="209" height="16" font="9">uniquely identifiable, familiar</text>
+<text top="520" left="519" width="128" height="16" font="9">activated, in focus</text>
+<text top="586" left="191" width="537" height="18" font="2">Figure 2. Proposed taxonomy compared with the other taxonomies.</text>
+<text top="658" left="108" width="151" height="18" font="3"><b>4 Corpus analysis</b></text>
+<text top="681" left="108" width="194" height="18" font="3"><b>4.1 Corpus description</b></text>
+<text top="729" left="108" width="702" height="18" font="2">It was decided to use the PROSICE corpus recorded at UCL for prosody research</text>
+<text top="753" left="108" width="703" height="18" font="2">(Huckvale &amp; Fang, 1996) which contains read speech only. It comprises several</text>
+<text top="777" left="108" width="702" height="18" font="2">monologues which were recorded by a male speaker. The texts used in PROSICE were</text>
+<text top="800" left="108" width="702" height="18" font="2">chosen from the scripted texts in the ICE-GB corpus (Greenbaum, 1996b); they have</text>
+<text top="824" left="108" width="262" height="18" font="2">their origins in the written genre.</text>
+<text top="848" left="123" width="687" height="18" font="2">The choice of the corpus for this study was primarily guided by the following</text>
+<text top="872" left="108" width="702" height="18" font="2">considerations: high-quality recordings with accurate F0 information (which is</text>
+<text top="896" left="108" width="703" height="18" font="2">important in making decisions about presence/absence of accents), availability of the</text>
+<text top="920" left="108" width="541" height="18" font="2">corpus in the tagged format, distribution through the public domain.</text>
+<text top="944" left="123" width="687" height="18" font="2">The part of the corpus analysed comprises 45 minutes of recorded speech. There are</text>
+<text top="968" left="108" width="702" height="18" font="2">three texts in it, each totalling about 2000-2500 words. Thus, in total there were about</text>
+<text top="992" left="108" width="282" height="18" font="2">7000 words analysed in the corpus.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">293</text>
+<text top="174" left="108" width="191" height="18" font="3"><b>4.2 Corpus annotation</b></text>
+<text top="221" left="108" width="702" height="18" font="2">The corpus was annotated for part-of-speech, referent information status and</text>
+<text top="245" left="108" width="273" height="18" font="2">absence/presence of pitch accents.</text>
+<text top="269" left="123" width="687" height="18" font="2">Annotating for presence/absence of pitch accents was quite straightforward. Pitch</text>
+<text top="293" left="108" width="702" height="18" font="2">accents are known to be associated with the stressed syllable of a word (Pierrehumbert,</text>
+<text top="317" left="108" width="702" height="18" font="2">1980). Thus, one can tell whether the word bears pitch prominence or not via analysing</text>
+<text top="341" left="108" width="702" height="18" font="2">the fundamental frequency contour along with auditory impressionistic listening. Those</text>
+<text top="365" left="108" width="702" height="18" font="2">words which are marked by accents usually have a peak or a valley in the fundamental</text>
+<text top="389" left="108" width="279" height="18" font="2">frequency contour (see Appendix).</text>
+<text top="413" left="123" width="687" height="18" font="2">Part-of-speech tagging was done automatically and then edited manually. The tagset</text>
+<text top="437" left="108" width="630" height="18" font="2">used for tagging was mainly based on the ICE tagset (Greenbaum &amp; Ni, 1996).</text>
+<text top="461" left="123" width="687" height="18" font="2">The corpus annotation for &#34;new&#34; and &#34;given&#34; information was first done</text>
+<text top="485" left="108" width="702" height="18" font="2">automatically to save labour: words which were repeated were assigned a “given”</text>
+<text top="509" left="108" width="702" height="18" font="2">information label. During subsequent editing, corrections to the information status were</text>
+<text top="533" left="108" width="702" height="18" font="2">made. When correcting the corpus for referent information status, the following</text>
+<text top="557" left="108" width="248" height="18" font="2">guidelines were borne in mind:</text>
+<text top="604" left="135" width="19" height="18" font="2">(i)</text>
+<text top="604" left="154" width="6" height="19" font="11"> </text>
+<text top="604" left="181" width="629" height="18" font="2">Compound nouns are normally treated as one referent (e.g. living-room, Baker</text>
+<text top="628" left="181" width="146" height="18" font="2">Street, lamp post).</text>
+<text top="676" left="135" width="24" height="18" font="2">(ii)</text>
+<text top="676" left="159" width="6" height="19" font="11"> </text>
+<text top="676" left="181" width="629" height="18" font="2">Depending on context, combinations containing two nouns which represent</text>
+<text top="700" left="181" width="629" height="18" font="2">two different referents (especially “of”-phrases) can be “NEW”+“NEW”</text>
+<text top="724" left="181" width="629" height="18" font="2">information, “GIVEN”+“GIVEN”, “NEW”+“GIVEN” or “GIVEN”+“NEW”</text>
+<text top="748" left="181" width="99" height="18" font="2">information.</text>
+<text top="796" left="108" width="172" height="18" font="2">(16) his IMAGES of</text>
+<text top="796" left="324" width="64" height="18" font="2">ARLES</text>
+<text top="820" left="181" width="53" height="18" font="2">{new}</text>
+<text top="820" left="324" width="64" height="18" font="2">{given}</text>
+<text top="868" left="108" width="124" height="18" font="2">(17) before the</text>
+<text top="868" left="259" width="82" height="18" font="2">BIRTH of</text>
+<text top="868" left="378" width="72" height="18" font="2">CHRIST</text>
+<text top="892" left="259" width="53" height="18" font="2">{new}</text>
+<text top="892" left="378" width="53" height="18" font="2">{new}</text>
+<text top="940" left="135" width="30" height="18" font="2">(iii)</text>
+<text top="939" left="165" width="6" height="19" font="11"> </text>
+<text top="940" left="181" width="629" height="18" font="2">Although predicating something new about the referent, NPs in apposition are</text>
+<text top="964" left="181" width="629" height="18" font="2">assigned “given” information status, since such parentheticals are anaphoric to</text>
+<text top="987" left="181" width="240" height="18" font="2">the NP introduced just before.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">294</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="471" height="18" font="2">(18) the social and physical geographer, Dr Dudley Stamp</text>
+<text top="198" left="324" width="207" height="18" font="2">      { n e w } { g i v e n }</text>
+<text top="246" left="108" width="315" height="18" font="2">(19) Dr William Hoskins, the historian</text>
+<text top="269" left="123" width="165" height="18" font="2">             { n e w }      </text>
+<text top="269" left="324" width="93" height="18" font="2">{ g i v e n }</text>
+<text top="317" left="108" width="668" height="18" font="2">(20) The commoners, a rascally looking lot, were standing about in their overcoats.</text>
+<text top="341" left="108" width="145" height="18" font="2">               { n e w }</text>
+<text top="341" left="324" width="93" height="18" font="2">{ g i v e n }</text>
+<text top="413" left="108" width="206" height="18" font="3"><b>5 Results and discussion</b></text>
+<text top="437" left="108" width="516" height="18" font="3"><b>5.1 Accentuation and content/function word-class distinction</b></text>
+<text top="485" left="108" width="702" height="18" font="2">Since the corpus annotation contains part-of-speech information, I decided first to see</text>
+<text top="509" left="108" width="702" height="18" font="2">how the presence/absence of accent correlates with the function/content word-class</text>
+<text top="532" left="108" width="702" height="18" font="2">distinction, regardless of information status. The following categories were treated as</text>
+<text top="556" left="108" width="702" height="18" font="2">belonging to the “content” word-classes: nouns, full lexical verbs, adjectives and</text>
+<text top="580" left="108" width="702" height="18" font="2">adverbs. Determiners (articles and quantifiers), prepositions, pronouns, numerals,</text>
+<text top="604" left="108" width="702" height="18" font="2">conjunctions, interjections, existential “there”, particle “to”, negation, auxiliary and</text>
+<text top="628" left="108" width="702" height="18" font="2">modal verbs were treated as belonging to the “function” word-classes. In other words,</text>
+<text top="652" left="108" width="702" height="18" font="2">the division between “content” and “function” word-classes roughly corresponds to the</text>
+<text top="676" left="108" width="702" height="18" font="2">division between open classes and closed classes as described in Leech, Deuchar &amp;</text>
+<text top="700" left="108" width="361" height="18" font="2">Hoogenraad (1982) and Greenbaum (1996a).</text>
+<text top="724" left="123" width="687" height="18" font="2">In support of the widely spread claim in the literature that content words tend to be</text>
+<text top="748" left="108" width="702" height="18" font="2">accented and function words tend to be deaccented (see Hirschberg, 1993 among</text>
+<text top="772" left="108" width="703" height="18" font="2">others), it was found that 82% of 3880 content words were accented (18% were left</text>
+<text top="796" left="108" width="703" height="18" font="2">unaccented) and only 11% of 3264 function words were accented (which leaves 89%</text>
+<text top="820" left="108" width="702" height="18" font="2">unaccented). Altenberg (1987) found that words belonging to “open” classes are</text>
+<text top="844" left="108" width="702" height="18" font="2">deaccented in 0-19% cases, depending on the word-class; however, the percentage of</text>
+<text top="868" left="108" width="702" height="18" font="2">“closed” class items which are deaccented varies between 15% and 98%, again</text>
+<text top="892" left="108" width="702" height="18" font="2">depending on each particular word-class. Thus, one can argue that content vs. function</text>
+<text top="915" left="108" width="702" height="18" font="2">distinction can be a good predictor of presence or absence of pitch accent; yet, finer</text>
+<text top="939" left="108" width="702" height="18" font="2">distinction within “function” and “content” words may be needed to increase the</text>
+<text top="963" left="108" width="577" height="18" font="2">predictability of accentuation on the basis of part-of-speech information.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="18" family="Times" color="#000000"/>
+	<fontspec id="13" size="18" family="Times" color="#000000"/>
+	<fontspec id="14" size="20" family="Times" color="#000000"/>
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">295</text>
+<text top="174" left="108" width="490" height="18" font="3"><b>5.2 Accentuation and “new”/”given” information division</b></text>
+<text top="222" left="108" width="702" height="18" font="3"><b>5.2.0  </b>Here I will present the main results of the study which reflect how the</text>
+<text top="246" left="108" width="702" height="18" font="2">accentuation of referents interacts with their information status. The interaction was</text>
+<text top="270" left="108" width="702" height="18" font="2">investigated for common and proper nouns, personal pronouns and deictic</text>
+<text top="294" left="108" width="702" height="18" font="2">demonstrative pronouns “this” and “that”. Fig. 3 below is a summary of the results</text>
+<text top="318" left="108" width="476" height="18" font="2">providing data for each text as well as for the whole corpus.</text>
+<text top="384" left="108" width="79" height="16" font="12"><i>Type of NP</i></text>
+<text top="363" left="258" width="84" height="16" font="12"><i>Information</i></text>
+<text top="384" left="258" width="74" height="16" font="12"><i>Status and</i></text>
+<text top="406" left="258" width="85" height="16" font="12"><i>Prominence</i></text>
+<text top="385" left="370" width="48" height="16" font="13"><b>Text  1</b></text>
+<text top="385" left="450" width="48" height="16" font="13"><b>Text  2</b></text>
+<text top="385" left="531" width="48" height="16" font="13"><b>Text  3</b></text>
+<text top="364" left="626" width="49" height="16" font="13"><b>Whole</b></text>
+<text top="385" left="625" width="51" height="16" font="13"><b>corpus</b></text>
+<text top="406" left="616" width="70" height="16" font="13"><b>(all texts)</b></text>
+<text top="449" left="108" width="82" height="16" font="9">COMMON</text>
+<text top="428" left="276" width="71" height="16" font="9">new, +acc</text>
+<text top="449" left="280" width="67" height="16" font="9">new, -acc</text>
+<text top="428" left="377" width="33" height="16" font="9">95%</text>
+<text top="449" left="382" width="24" height="16" font="9">5%</text>
+<text top="428" left="458" width="33" height="16" font="9">96%</text>
+<text top="449" left="462" width="24" height="16" font="9">4%</text>
+<text top="428" left="538" width="33" height="16" font="9">93%</text>
+<text top="449" left="542" width="24" height="16" font="9">7%</text>
+<text top="428" left="635" width="33" height="16" font="9">95%</text>
+<text top="449" left="639" width="24" height="16" font="9">5%</text>
+<text top="471" left="108" width="61" height="16" font="9">NOUNS</text>
+<text top="471" left="270" width="77" height="16" font="9">given,+acc</text>
+<text top="492" left="270" width="77" height="16" font="9">given, -acc</text>
+<text top="471" left="377" width="33" height="16" font="9">79%</text>
+<text top="492" left="377" width="33" height="16" font="9">21%</text>
+<text top="471" left="458" width="33" height="16" font="9">86%</text>
+<text top="492" left="458" width="33" height="16" font="9">14%</text>
+<text top="471" left="538" width="33" height="16" font="9">89%</text>
+<text top="492" left="538" width="33" height="16" font="9">11%</text>
+<text top="471" left="635" width="33" height="16" font="9">86%</text>
+<text top="492" left="635" width="33" height="16" font="9">14%</text>
+<text top="535" left="108" width="67" height="16" font="9">PROPER</text>
+<text top="514" left="276" width="71" height="16" font="9">new, +acc</text>
+<text top="535" left="280" width="67" height="16" font="9">new, -acc</text>
+<text top="514" left="377" width="33" height="16" font="9">97%</text>
+<text top="535" left="382" width="24" height="16" font="9">3%</text>
+<text top="514" left="458" width="33" height="16" font="9">98%</text>
+<text top="535" left="462" width="24" height="16" font="9">2%</text>
+<text top="514" left="534" width="41" height="16" font="9">100%</text>
+<text top="535" left="542" width="24" height="16" font="9">0%</text>
+<text top="514" left="635" width="33" height="16" font="9">98%</text>
+<text top="535" left="639" width="24" height="16" font="9">2%</text>
+<text top="557" left="108" width="61" height="16" font="9">NOUNS</text>
+<text top="557" left="270" width="77" height="16" font="9">given,+acc</text>
+<text top="578" left="270" width="77" height="16" font="9">given, -acc</text>
+<text top="557" left="377" width="33" height="16" font="9">89%</text>
+<text top="578" left="377" width="33" height="16" font="9">11%</text>
+<text top="557" left="458" width="33" height="16" font="9">91%</text>
+<text top="578" left="462" width="24" height="16" font="9">9%</text>
+<text top="557" left="538" width="33" height="16" font="9">97%</text>
+<text top="578" left="542" width="24" height="16" font="9">3%</text>
+<text top="557" left="635" width="33" height="16" font="9">94%</text>
+<text top="578" left="639" width="24" height="16" font="9">6%</text>
+<text top="600" left="108" width="92" height="16" font="9">PERSONAL</text>
+<text top="621" left="108" width="96" height="16" font="9">PRONOUNS</text>
+<text top="600" left="270" width="77" height="16" font="9">given,+acc</text>
+<text top="621" left="270" width="77" height="16" font="9">given, -acc</text>
+<text top="600" left="377" width="33" height="16" font="9">11%</text>
+<text top="621" left="377" width="33" height="16" font="9">89%</text>
+<text top="600" left="462" width="24" height="16" font="9">5%</text>
+<text top="621" left="458" width="33" height="16" font="9">95%</text>
+<text top="600" left="542" width="24" height="16" font="9">8%</text>
+<text top="621" left="538" width="33" height="16" font="9">92%</text>
+<text top="600" left="639" width="24" height="16" font="9">9%</text>
+<text top="621" left="635" width="33" height="16" font="9">91%</text>
+<text top="644" left="108" width="96" height="16" font="9">PRONOUNS</text>
+<text top="665" left="108" width="126" height="16" font="9">“THIS”, “THAT”</text>
+<text top="644" left="270" width="77" height="16" font="9">given,+acc</text>
+<text top="665" left="270" width="77" height="16" font="9">given, -acc</text>
+<text top="644" left="377" width="33" height="16" font="9">70%</text>
+<text top="665" left="377" width="33" height="16" font="9">30%</text>
+<text top="644" left="453" width="41" height="16" font="9">100%</text>
+<text top="665" left="462" width="24" height="16" font="9">0%</text>
+<text top="644" left="538" width="33" height="16" font="9">45%</text>
+<text top="665" left="538" width="33" height="16" font="9">55%</text>
+<text top="644" left="635" width="33" height="16" font="9">67%</text>
+<text top="665" left="635" width="33" height="16" font="9">33%</text>
+<text top="709" left="108" width="702" height="18" font="2">Figure 3.Proportions of the referents with different information status as a function of</text>
+<text top="733" left="183" width="544" height="18" font="2">their accentuation, for each text separately and for the whole corpus.</text>
+<text top="781" left="108" width="703" height="18" font="14"><i><b>5.2.1 Accentuation and “new”/”given” information status of referents expressed by</b></i></text>
+<text top="805" left="108" width="703" height="18" font="14"><i><b>common nouns and proper nouns.</b></i>  As far as common nouns are concerned, 95% of</text>
+<text top="829" left="108" width="702" height="18" font="2">1120 referents which enter the discourse as “new information” are accented, which</text>
+<text top="853" left="108" width="702" height="18" font="2">leaves the remaining 5% of the referents with “new information” status unaccented.</text>
+<text top="877" left="108" width="702" height="18" font="2">Referents which represent “given information” tend to display quite an unexpected</text>
+<text top="901" left="108" width="703" height="18" font="2">behaviour: 86% out of 355 referents are in fact accented, which clearly contradicts the</text>
+<text top="924" left="108" width="702" height="18" font="2">well-known claim that “given” information is likely to be deaccented: only 14% of the</text>
+<text top="948" left="108" width="490" height="18" font="2">referents with “old information” status surface as unaccented.</text>
+<text top="972" left="123" width="687" height="18" font="2">With the referents expressed by proper nouns, the situation is quite similar. 98% of</text>
+<text top="996" left="108" width="702" height="18" font="2">122 proper nouns which were labelled as “new information” are marked by accent</text>
+<text top="1020" left="108" width="703" height="18" font="2">(leaving 2% unaccented); 94% of 147 proper nouns which were re-introduced in the</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">296</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="702" height="18" font="2">discourse (= “given” information) are accented (which is higher than 86% of accented,</text>
+<text top="198" left="108" width="484" height="18" font="2">“given information” referents expressed by common nouns).</text>
+<text top="222" left="123" width="687" height="18" font="2">Some examples of those nouns which are accented on their repeated mention are</text>
+<text top="246" left="108" width="207" height="18" font="2">presented below in Fig. 4.</text>
+<text top="292" left="108" width="44" height="18" font="8"><i>Word</i></text>
+<text top="292" left="212" width="70" height="18" font="8"><i>repeated</i></text>
+<text top="292" left="307" width="71" height="18" font="8"><i>accented</i></text>
+<text top="292" left="420" width="44" height="18" font="8"><i>Word</i></text>
+<text top="292" left="531" width="70" height="18" font="8"><i>repeated</i></text>
+<text top="292" left="627" width="71" height="18" font="8"><i>accented</i></text>
+<text top="316" left="108" width="66" height="16" font="9">Provence</text>
+<text top="316" left="247" width="9" height="16" font="9">5</text>
+<text top="316" left="342" width="9" height="16" font="9">5</text>
+<text top="316" left="420" width="36" height="16" font="9">Pope</text>
+<text top="316" left="566" width="9" height="16" font="9">4</text>
+<text top="316" left="659" width="9" height="16" font="9">4</text>
+<text top="339" left="108" width="48" height="16" font="9">France</text>
+<text top="339" left="247" width="9" height="16" font="9">3</text>
+<text top="339" left="342" width="9" height="16" font="9">3</text>
+<text top="339" left="420" width="40" height="16" font="9">Sarah</text>
+<text top="339" left="566" width="9" height="16" font="9">9</text>
+<text top="339" left="659" width="9" height="16" font="9">9</text>
+<text top="361" left="108" width="25" height="16" font="9">Les</text>
+<text top="382" left="108" width="69" height="16" font="9">Arlescans</text>
+<text top="361" left="247" width="9" height="16" font="9">3</text>
+<text top="361" left="342" width="9" height="16" font="9">3</text>
+<text top="361" left="420" width="52" height="16" font="9">gypsies</text>
+<text top="361" left="566" width="9" height="16" font="9">3</text>
+<text top="361" left="659" width="9" height="16" font="9">3</text>
+<text top="404" left="108" width="42" height="16" font="9">Rome</text>
+<text top="404" left="247" width="9" height="16" font="9">4</text>
+<text top="404" left="342" width="9" height="16" font="9">4</text>
+<text top="404" left="420" width="45" height="16" font="9">bridge</text>
+<text top="404" left="566" width="9" height="16" font="9">5</text>
+<text top="404" left="659" width="9" height="16" font="9">4</text>
+<text top="427" left="108" width="38" height="16" font="9">Arles</text>
+<text top="427" left="247" width="9" height="16" font="9">4</text>
+<text top="427" left="342" width="9" height="16" font="9">3</text>
+<text top="427" left="420" width="40" height="16" font="9">saints</text>
+<text top="427" left="566" width="9" height="16" font="9">3</text>
+<text top="427" left="659" width="9" height="16" font="9">3</text>
+<text top="449" left="108" width="62" height="16" font="9">Avignon</text>
+<text top="449" left="247" width="9" height="16" font="9">7</text>
+<text top="449" left="342" width="9" height="16" font="9">7</text>
+<text top="449" left="420" width="35" height="16" font="9">Miss</text>
+<text top="470" left="420" width="72" height="16" font="9">Crompton</text>
+<text top="449" left="562" width="18" height="16" font="9">11</text>
+<text top="449" left="655" width="18" height="16" font="9">10</text>
+<text top="493" left="108" width="58" height="16" font="9">Romans</text>
+<text top="493" left="247" width="9" height="16" font="9">5</text>
+<text top="493" left="342" width="9" height="16" font="9">5</text>
+<text top="493" left="420" width="58" height="16" font="9">William</text>
+<text top="493" left="562" width="18" height="16" font="9">34</text>
+<text top="493" left="655" width="18" height="16" font="9">30</text>
+<text top="537" left="108" width="702" height="18" font="2">Figure 4.Some referents with the number of the times they have been repeated in the</text>
+<text top="561" left="183" width="628" height="18" font="2">text and the number of the times they have been accented on the repeated</text>
+<text top="585" left="183" width="70" height="18" font="2">mention.</text>
+<text top="630" left="108" width="702" height="18" font="2">It appears that there is no one-to-one relationship between the “new”/”given”</text>
+<text top="654" left="108" width="702" height="18" font="2">information and presence/absence of accent. We have seen that referents bearing</text>
+<text top="678" left="108" width="702" height="18" font="2">“given” information status are very often accented. Also, we have found that some of</text>
+<text top="702" left="108" width="702" height="18" font="2">the referents (even though a very small percent) bearing “new” information status are</text>
+<text top="726" left="108" width="702" height="18" font="2">de-accented. If we examine these more closely, we can come up with hypotheses as to</text>
+<text top="750" left="108" width="300" height="18" font="2">why “new” items may be deaccented.</text>
+<text top="773" left="123" width="687" height="18" font="2">The de-accenting of “new” information can be caused by the so-called “Rhythm</text>
+<text top="797" left="108" width="702" height="18" font="2">Rule”, proposed in Liberman &amp; Prince (1977), and elaborated further on in Selkirk</text>
+<text top="821" left="108" width="702" height="18" font="2">(1984). Selkirk argues that some constituents surface as de-accented (or bear only</text>
+<text top="845" left="108" width="702" height="18" font="2">secondary prominence) to avoid rhythmical clashes in the metrical grid. Here are some</text>
+<text top="869" left="108" width="214" height="18" font="2">examples from our corpus:</text>
+<text top="917" left="108" width="83" height="18" font="2">(21) Miss</text>
+<text top="917" left="216" width="130" height="18" font="2">CROMPTON’S</text>
+<text top="917" left="378" width="124" height="18" font="2">brother, JACK</text>
+<text top="941" left="216" width="117" height="18" font="2">{given}           </text>
+<text top="941" left="378" width="53" height="18" font="2">{new}</text>
+<text top="941" left="452" width="64" height="18" font="2">{given}</text>
+<text top="989" left="108" width="221" height="18" font="2">(22) BEFORE the birth of</text>
+<text top="989" left="378" width="71" height="18" font="2">CHRIST</text>
+<text top="1013" left="270" width="53" height="18" font="2">{new}</text>
+<text top="1013" left="378" width="53" height="18" font="2">{new}</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">297</text>
+<text top="174" left="108" width="377" height="18" font="2">(23) They CLAIMED the south of FRANCE</text>
+<text top="198" left="123" width="146" height="18" font="2">                             </text>
+<text top="198" left="324" width="53" height="18" font="2">{new}</text>
+<text top="198" left="406" width="53" height="18" font="2">{new}</text>
+<text top="246" left="108" width="634" height="18" font="2">(24) He HELPS to wash UP and LEAVES a trail of  broken CROCKERY...</text>
+<text top="269" left="216" width="83" height="18" font="2">                 </text>
+<text top="269" left="486" width="185" height="18" font="2">{new}                {new}</text>
+<text top="317" left="108" width="702" height="18" font="2">Another reason for leaving “new” information items deaccented may be associated with</text>
+<text top="341" left="108" width="702" height="18" font="2">the fact that constituents can be marked [+focus] as a result of focus projection rules</text>
+<text top="365" left="108" width="702" height="18" font="2">(Selkirk, 1995). An NP like “the mayor of Chicago” can represent “new” information</text>
+<text top="389" left="108" width="702" height="18" font="2">even if the accent is placed only on “Chicago” (however, if the accent is placed on</text>
+<text top="413" left="108" width="702" height="18" font="2">“mayor”, then “Chicago” will be most probably perceived as “given” information”).</text>
+<text top="437" left="108" width="341" height="18" font="2">Some of the examples are provided below:</text>
+<text top="485" left="108" width="361" height="18" font="2">(25)  He DIED by his OWN HAND in a fit</text>
+<text top="485" left="523" width="17" height="18" font="2">of</text>
+<text top="485" left="605" width="89" height="18" font="2">PASSION.</text>
+<text top="509" left="190" width="90" height="18" font="2">                  </text>
+<text top="509" left="452" width="53" height="18" font="2">{new}</text>
+<text top="509" left="605" width="53" height="18" font="2">{new}</text>
+<text top="557" left="108" width="226" height="18" font="2">(26) his images of ARLES</text>
+<text top="581" left="123" width="29" height="18" font="2">      </text>
+<text top="581" left="181" width="153" height="18" font="2">{new}      {given}</text>
+<text top="629" left="108" width="225" height="18" font="2">(27) hunting with HAWKS</text>
+<text top="653" left="108" width="97" height="18" font="2">       {new}</text>
+<text top="653" left="259" width="53" height="18" font="2">{new}</text>
+<text top="700" left="108" width="702" height="18" font="2">Informal observations lead us to believe that some of the de-accented “new”</text>
+<text top="724" left="108" width="669" height="18" font="2">information referents appear in sentence-final positions as PPs of place and manner:</text>
+<text top="772" left="108" width="176" height="18" font="2">(28) the CAP on the</text>
+<text top="772" left="305" width="140" height="18" font="2">back of his head</text>
+<text top="796" left="108" width="20" height="18" font="2">    </text>
+<text top="796" left="152" width="15" height="18" font="2">   </text>
+<text top="796" left="190" width="97" height="18" font="2">{new}         </text>
+<text top="796" left="305" width="53" height="18" font="2">{new}</text>
+<text top="796" left="407" width="53" height="18" font="2">{new}</text>
+<text top="844" left="108" width="34" height="18" font="2">(29)</text>
+<text top="843" left="142" width="6" height="19" font="11"> </text>
+<text top="844" left="150" width="542" height="18" font="2">William clashes regularly with the ARMY of DOTTY SPINSTERS</text>
+<text top="868" left="152" width="148" height="18" font="2">in the community.</text>
+<text top="892" left="204" width="53" height="18" font="2">{new}</text>
+<text top="940" left="108" width="410" height="18" font="2">(30) There was MUCH more than THEOLOGY at</text>
+<text top="940" left="540" width="46" height="18" font="2">stake.</text>
+<text top="964" left="270" width="39" height="18" font="2">        </text>
+<text top="964" left="540" width="53" height="18" font="2">{new}</text>
+<text top="1012" left="108" width="526" height="18" font="2">(31)  ... and LEAVES a trail of broken CROCKERY in his wake.</text>
+<text top="1036" left="259" width="136" height="18" font="2">                            </text>
+<text top="1036" left="452" width="5" height="18" font="2"> </text>
+<text top="1036" left="587" width="53" height="18" font="2">{new}</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">298</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="481" height="18" font="2">All these hypotheses require further investigation, of course.</text>
+<text top="198" left="123" width="687" height="18" font="2">One should also wonder why “given” information items are accented on so many</text>
+<text top="222" left="108" width="702" height="18" font="2">occasions. It is quite possible that the treatment of nouns in apposition as “given”</text>
+<text top="246" left="108" width="702" height="18" font="2">information contributed to the increase in the percentage of “given” information being</text>
+<text top="269" left="108" width="702" height="18" font="2">accented. However, I would not expect this to be the most crucial factor. A possible</text>
+<text top="293" left="108" width="702" height="18" font="2">explanation for the phenomenon of accenting “given” information can be adherence to</text>
+<text top="317" left="108" width="702" height="18" font="2">rhythmicality (to avoid rhythmical lapses in the metrical grid – see Selkirk, 1984). In</text>
+<text top="341" left="108" width="702" height="18" font="2">text 27, for instance, the PP “before the birth of Christ” was mentioned twice and on the</text>
+<text top="365" left="108" width="702" height="18" font="2">second occasion, both the referents (“birth” and “Christ”) were still accented. Even</text>
+<text top="389" left="108" width="702" height="18" font="2">though they represent “given” information, the speaker chose to place accents on them -</text>
+<text top="413" left="108" width="570" height="18" font="2">most probably to satisfy the well-formedness constraints on metricality.</text>
+<text top="437" left="123" width="687" height="18" font="2">Accenting “given” information may have something to do with topicality. Take, for</text>
+<text top="461" left="108" width="702" height="18" font="2">instance, the referent “William” which is by far the most often repeated one in the</text>
+<text top="485" left="108" width="702" height="18" font="2">corpus. It is mentioned 35 times throughout the text and on 30 occasions of its repeated</text>
+<text top="509" left="108" width="702" height="18" font="2">mention, it is accented. One may wish to argue that “William” is a topic and for this</text>
+<text top="533" left="108" width="702" height="18" font="2">reason it is accented. Yet, topics represent “given” information and on those grounds</text>
+<text top="557" left="108" width="702" height="18" font="2">would be expected to surface as deaccented. Indeed, on most repeated mentions,</text>
+<text top="581" left="108" width="702" height="18" font="2">“William” appears in the subject position, which makes it a topic. Thus, it may as well</text>
+<text top="605" left="108" width="703" height="18" font="2">be that topics tend to be accented rather than deaccented (for similar thoughts, see</text>
+<text top="629" left="108" width="229" height="18" font="2">Nooteboom &amp; Kruyt, 1987).</text>
+<text top="653" left="123" width="687" height="18" font="2">Let us compare the results of our study with those obtained by Brown. As far as “new</text>
+<text top="676" left="108" width="702" height="18" font="2">items” are concerned, the results are quite comparable: they tend to bear phonological</text>
+<text top="700" left="108" width="702" height="18" font="2">prominence. However, “given” items behave differently in our study than in Brown's.</text>
+<text top="724" left="108" width="703" height="18" font="2">In the PROSICE, 86% of the common nouns and 94% of the proper nouns,</text>
+<text top="748" left="108" width="702" height="18" font="2">representing  “given” information, are accented. According to Brown’s findings, only</text>
+<text top="772" left="108" width="702" height="18" font="2">4% of the referents of the corresponding referent type (“evoked displaced” items) were</text>
+<text top="796" left="108" width="703" height="18" font="2">found to bear accents. Such a polarity can be possibly explained by the different</text>
+<text top="820" left="108" width="702" height="18" font="2">discourses investigated. I shall come back to the discussion of this question in the last</text>
+<text top="844" left="108" width="61" height="18" font="2">section.</text>
+<text top="892" left="108" width="703" height="18" font="14"><i><b>5.2.2 Pronouns and accentuation.</b></i><b>    </b>It is also interesting to look at the behaviour of</text>
+<text top="916" left="108" width="702" height="18" font="2">personal pronouns with respect to their accentuation. As already mentioned above,</text>
+<text top="940" left="108" width="702" height="18" font="2">personal pronouns are anaphors and thus following our criteria stand for “given”</text>
+<text top="964" left="108" width="702" height="18" font="2">information. We would expect personal pronouns to be deaccented in most cases for</text>
+<text top="988" left="108" width="702" height="18" font="2">two reasons: (i) they represent “given” information and (ii) they belong to the</text>
+<text top="1012" left="108" width="232" height="18" font="2">“function” word-class group.</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">299</text>
+<text top="174" left="123" width="687" height="18" font="2">In reality, the situation is as follows. It is true that most of the personal pronouns in</text>
+<text top="198" left="108" width="703" height="18" font="2">the corpus appear to be deaccented. However, 9% out of total 317 do bear accents.</text>
+<text top="222" left="108" width="265" height="18" font="2">Some of the examples are below:</text>
+<text top="269" left="108" width="702" height="18" font="2">(32) They offered it (= job) to someone else, but HE changed his mind so they had to</text>
+<text top="293" left="151" width="149" height="18" font="2">make do with ME.</text>
+<text top="341" left="108" width="645" height="18" font="2">(33) THEY were mostly in their fifties and sixties. <i>I</i> [accented] was thirty seven.</text>
+<text top="389" left="108" width="703" height="18" font="2">The phenomenon of accenting pronouns which refer to entities either introduced</text>
+<text top="413" left="108" width="702" height="18" font="2">previously in the discourse (e.g. “he”) or introduced situationally (e.g. “you”, “I”) can</text>
+<text top="437" left="108" width="702" height="18" font="2">be possibly explained within the centering framework elaborated on in Grosz, Joshi &amp;</text>
+<text top="461" left="108" width="702" height="18" font="2">Weinstein (1995). According to Grosz <i>et al</i>., if a referent is in the subject position, then</text>
+<text top="485" left="108" width="702" height="18" font="2">it is more likely to be the highest-ranked “forward-looking centre”. In (33), for</text>
+<text top="509" left="108" width="702" height="18" font="2">example, the forward-looking centre in the first sentence is “they” (it is also a</text>
+<text top="533" left="108" width="702" height="18" font="2">“backward-looking centre” since it refers to “colleagues” - a referent introduced</text>
+<text top="557" left="108" width="702" height="18" font="2">previously). Yet, in the second sentence there is a different referent in the subject</text>
+<text top="581" left="108" width="702" height="18" font="2">position - “I”: there occurred a centre shift: the referent which is the backward-looking</text>
+<text top="605" left="108" width="702" height="18" font="2">centre in the second sentence (“I”) is not the same as the referent which is the</text>
+<text top="629" left="108" width="702" height="18" font="2">backward-looking centre in the first sentence (“they”). Centre shifting in a way disrupts</text>
+<text top="653" left="108" width="702" height="18" font="2">local coherence and increases processing load. Thus, the speaker needs to attract a</text>
+<text top="676" left="108" width="702" height="18" font="2">special attention of the hearer that there occurred a centre shift and for this reason he</text>
+<text top="700" left="108" width="417" height="18" font="2">probably chooses to place an accent on the pronoun.</text>
+<text top="749" left="108" width="702" height="18" font="14"><i><b>5.2.3 Deictic demonstratives and accentuation</b></i><b>.  </b>Deictic demonstrative pronouns “this”</text>
+<text top="773" left="108" width="702" height="18" font="2">and “that” which stand for NPs also deserve special attention. Being NPs, they fall in</text>
+<text top="797" left="108" width="702" height="18" font="2">Gundel  <i>et al.’</i>s taxonomy under the referent type “activated”. Although “this” and</text>
+<text top="820" left="108" width="702" height="18" font="2">“that” are clearly anaphoric and thus represent “given” information, we would,</text>
+<text top="844" left="108" width="702" height="18" font="2">however, because of their deictic properties (see below), expect them to bear</text>
+<text top="868" left="108" width="702" height="18" font="2">phonological prominence. The empirical results support our hypothesis: 67% of 27</text>
+<text top="892" left="108" width="702" height="18" font="2">deictic demonstrative pronouns were found to be accented. Altenberg’s findings are</text>
+<text top="916" left="108" width="702" height="18" font="2">very similar: 75% of all the demonstrative pronouns expressed by “that” bear</text>
+<text top="940" left="108" width="623" height="18" font="2">phonological prominence. Consider the two examples from our corpus below:</text>
+<text top="988" left="108" width="353" height="18" font="2">(34) We ALL know where THAT can lead.</text>
+<text top="1036" left="108" width="501" height="18" font="2">(35) But THIS DEMONSTRATES CONCLUSIVELY that....</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">300</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="702" height="18" font="2">Accenting the demonstrative pronouns “this” and “that” may have something to do with</text>
+<text top="198" left="108" width="702" height="18" font="2">the fact that they are deictic, i.e. “pointing”, especially to actions: in (34) “that” refers to</text>
+<text top="222" left="108" width="702" height="18" font="2">the “goings-on under the bridge” and in (35) “this” refers to William and the Outlaws’</text>
+<text top="246" left="108" width="702" height="18" font="2">“deciding to live like St Francis and the Franciscans”. Again, one may resort to the</text>
+<text top="269" left="108" width="702" height="18" font="2">centering framework for possible explanations: a pronoun “this” or “that” is accented</text>
+<text top="293" left="108" width="702" height="18" font="2">since we need to make it a “backward-looking centre” in the absence of a concrete</text>
+<text top="317" left="108" width="302" height="18" font="2">referent prior to uttering “this”/”that”.</text>
+<text top="390" left="108" width="111" height="18" font="3"><b>6 Conclusion</b></text>
+<text top="437" left="108" width="702" height="18" font="2">This study has been concerned with the investigation of the relationship between</text>
+<text top="461" left="108" width="702" height="18" font="2">referent information status and accentuation. Most of the results obtained in this</text>
+<text top="485" left="108" width="593" height="18" font="2">empirical study support claims made previously in the literature. They are:</text>
+<text top="527" left="108" width="9" height="27" font="10">•</text>
+<text top="533" left="117" width="6" height="19" font="11"> </text>
+<text top="534" left="135" width="675" height="18" font="2">function words tend to be deaccented and content words tend to be accented</text>
+<text top="558" left="135" width="675" height="18" font="2">(Hirschberg, 1993) (informal observations indicate that of the function words, it is</text>
+<text top="582" left="135" width="566" height="18" font="2">quantifiers and numerals which tend to be accented on most occasions)</text>
+<text top="601" left="108" width="9" height="27" font="10">•</text>
+<text top="607" left="117" width="6" height="19" font="11"> </text>
+<text top="607" left="135" width="675" height="18" font="2">personal pronouns tend to be deaccented; yet, when accented, they signal centre</text>
+<text top="631" left="135" width="565" height="18" font="2">shifts from one referent to another (Nakatani, 1998), or contrastiveness</text>
+<text top="650" left="108" width="9" height="27" font="10">•</text>
+<text top="656" left="117" width="6" height="19" font="11"> </text>
+<text top="657" left="135" width="503" height="18" font="2">“new” information is most likely to be accented (Brown, 1983)</text>
+<text top="705" left="108" width="702" height="18" font="2">It was also found that deictic demonstrative pronouns which stand for NPs tend to be</text>
+<text top="728" left="108" width="75" height="18" font="2">accented.</text>
+<text top="752" left="123" width="687" height="18" font="2">In general, I have found that there is no one-to-one relationship between accentuation</text>
+<text top="776" left="108" width="702" height="18" font="2">and the information status of referents. In the type of discourse that I have analysed</text>
+<text top="800" left="108" width="702" height="18" font="2">(monologue, read speech), referents bearing “new” and “given” information happened</text>
+<text top="824" left="108" width="703" height="18" font="2">to be both accented and deaccented. The most striking observation (which does not</text>
+<text top="848" left="108" width="702" height="18" font="2">normally find enough acknowledgement in the literature!) was that there is quite a high</text>
+<text top="872" left="108" width="702" height="18" font="2">percentage of referents representing “given” information that do bear phonological</text>
+<text top="896" left="108" width="702" height="18" font="2">prominence. Thus, the widely spread generalisation that “given” information tends to</text>
+<text top="920" left="108" width="216" height="18" font="2">be deaccented is too broad.</text>
+<text top="944" left="123" width="687" height="18" font="2">The comparison between the results of our study and the results obtained by Brown</text>
+<text top="968" left="108" width="702" height="18" font="2">revealed differences as far as the behaviour of “given” information is concerned. In our</text>
+<text top="992" left="108" width="702" height="18" font="2">corpus, common nouns and proper nouns which represent “given” information tend to</text>
+<text top="1016" left="108" width="702" height="18" font="2">be accented. Brown’s NPs of that type (=“evoked displaced” items) are almost always</text>
+<text top="1040" left="108" width="702" height="18" font="2">de-accented. As suggested in the previous section, such a difference can arise because</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">301</text>
+<text top="174" left="108" width="702" height="18" font="2">of the different discourses investigated. I investigated monologue, read speech, where</text>
+<text top="198" left="108" width="702" height="18" font="2">the distance between co-referring referents can be large. Brown looked primarily at</text>
+<text top="222" left="108" width="702" height="18" font="2">short, task-oriented dialogues – an example of discourse where distances between</text>
+<text top="246" left="108" width="535" height="18" font="2">“given” information and previous mention of the referent are short.</text>
+<text top="269" left="123" width="522" height="18" font="2">Brown &amp; Yule (1983: 168) note (referring to Brown’s study) that</text>
+<text top="317" left="152" width="615" height="18" font="2">the conversations produced by the speakers were relatively short... and the</text>
+<text top="341" left="152" width="418" height="18" font="2">entities they were concerned with were very limited.</text>
+<text top="389" left="108" width="281" height="18" font="2">Thus, Brown &amp; Yule conclude that</text>
+<text top="437" left="152" width="615" height="18" font="2">it is hardly surprising that the few entities, established in such short</text>
+<text top="461" left="152" width="615" height="18" font="2">conversations, should be expected by the speaker to remain accessible to the</text>
+<text top="485" left="152" width="55" height="18" font="2">hearer.</text>
+<text top="533" left="108" width="702" height="18" font="2">They further hypothesise that “in longer conversations, speakers may feel they have to</text>
+<text top="557" left="108" width="702" height="18" font="2">reinstate previously mentioned information”. This echoes with Chafe’s discussion about</text>
+<text top="581" left="108" width="702" height="18" font="2">consciousness: “One indisputable property of consciousness is that its capacity is very</text>
+<text top="605" left="108" width="702" height="18" font="2">limited”, he writes. “As new ideas come into it, old ones leave” (Chafe, 1976: 32). If,</text>
+<text top="629" left="108" width="702" height="18" font="2">following Chafe, our consciousness has a limited capacity, then it will be able to keep</text>
+<text top="653" left="108" width="702" height="18" font="2">only a certain number of referents at one particular time. It becomes clear now why</text>
+<text top="676" left="108" width="702" height="18" font="2">some referents which are mentioned again (“given” information) may surface as</text>
+<text top="700" left="108" width="702" height="18" font="2">accented: the speaker assumes that these referents must have left the addressee’s</text>
+<text top="724" left="108" width="539" height="18" font="2">consciousness by the time they are re-introduced into the discourse.</text>
+<text top="748" left="123" width="687" height="18" font="2">The interaction between accentuation and referents with “given” information status</text>
+<text top="772" left="108" width="702" height="18" font="2">may be better explained if one considers the number of sentences separating the</text>
+<text top="796" left="108" width="702" height="18" font="2">mention of the referent from its last mention, or the number of referents intervening</text>
+<text top="820" left="108" width="702" height="18" font="2">between the mention of the referent and its last mention. In this respect, it would be</text>
+<text top="844" left="108" width="702" height="18" font="2">interesting to see how the model of the discourse structure presented in Grosz &amp; Sidner</text>
+<text top="868" left="108" width="702" height="18" font="2">(1986) can help us explain the relationship between presence/absence of accent and</text>
+<text top="892" left="108" width="702" height="18" font="2">“given”/“new” information status. We may find that with every new paragraph, the</text>
+<text top="916" left="108" width="702" height="18" font="2">focus stack containing all the referents introduced in the previous paragraph is popped,</text>
+<text top="940" left="108" width="702" height="18" font="2">and subsequently all the referents which were “given” information are treated again as</text>
+<text top="964" left="108" width="703" height="18" font="2">“new” information. It is only in the neighbouring two-three sentences (belonging to one</text>
+<text top="988" left="108" width="702" height="18" font="2">and the same paragraph) that we may expect a re-introduced referent carrying “given”</text>
+<text top="1012" left="108" width="702" height="18" font="2">information status to be always deaccented. This will be the future direction for this</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">302</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="702" height="18" font="2">research where a discourse model will be implemented to the PROSICE corpus and the</text>
+<text top="198" left="108" width="379" height="18" font="2">results will be viewed in the light of this model.</text>
+<text top="270" left="108" width="93" height="18" font="3"><b>References</b></text>
+<text top="316" left="108" width="581" height="16" font="4">Altenberg, B. (1987) Prosodic patterns in spoken English<i>. Lund Studies in English</i> 76.</text>
+<text top="337" left="108" width="702" height="16" font="4">Brown, G. (1983) Prosodic structure and the given/new distinction. In Cutler, A. &amp; R. Ladd (eds.).</text>
+<text top="357" left="123" width="468" height="16" font="6"><i>Prosody: Models and Measurements</i>. 67-77. Berlin: Springer Verlag.</text>
+<text top="377" left="108" width="615" height="16" font="4">Brown, G. &amp; G. Yule (1983) <i>Discourse Analysis</i>. Cambridge: Cambridge University Press.</text>
+<text top="398" left="108" width="702" height="16" font="4">Clark, H. &amp; S. Haviland (1977). Comprehension and the given-new contrast. In Freedle, R. (ed.).</text>
+<text top="418" left="123" width="617" height="16" font="6"><i>Discourse Production and Comprehension</i>. 1-40. Hillsdale: Lawrence Erlbaum Associates.</text>
+<text top="438" left="108" width="483" height="16" font="4">Chafe, W. (1974) Language and consciousness. <i>Language</i> 50: 111-133.</text>
+<text top="459" left="108" width="702" height="16" font="4">Chafe, W. (1976) Givenness, contrastiveness, definiteness, subjects, topics and point of view. In Li, C.</text>
+<text top="479" left="123" width="363" height="16" font="4">(ed.). <i>Subject and Topic</i>. New York: Academic Press.</text>
+<text top="499" left="108" width="510" height="16" font="4">Cruttenden, A. (1997) <i>Intonation</i>. Cambridge: Cambridge University Press.</text>
+<text top="520" left="108" width="621" height="16" font="4">Greenbaum, S. (1996a)<i> The Oxford English Grammar</i>. New York: Oxford University Press.</text>
+<text top="540" left="108" width="702" height="16" font="4">Greenbaum, S. (ed.) (1996b) <i>Comparing English Worldwide: The International Corpus of English.</i></text>
+<text top="560" left="123" width="225" height="16" font="4">Oxford: Oxford University Press.</text>
+<text top="581" left="108" width="602" height="16" font="4">Greenbaum, S. &amp; Y. Ni (1996).About the ICE Tagset. In Greenbaum, S. (1996b) 92-109.</text>
+<text top="601" left="108" width="702" height="16" font="4">Grosz, B. &amp; C. Sidner (1986) Attention, intentions and the structure of discourse. <i>Computational</i></text>
+<text top="621" left="123" width="184" height="16" font="6"><i>Linguistics</i> 12(3): 175-204.</text>
+<text top="642" left="108" width="703" height="16" font="4">Grosz, B., A. Joshi &amp; S. Weinstein (1995) Centering: A framework for modeling the local coherence of</text>
+<text top="662" left="123" width="362" height="16" font="4">discourse. <i>Computational Linguistics</i> 21(2): 203-225.</text>
+<text top="683" left="108" width="702" height="16" font="4">Gundel, J., N. Hedberg &amp; R. Zacharski (1993) Cognitive status and the form of referring expressions in</text>
+<text top="703" left="123" width="230" height="16" font="4">discourse. <i>Language</i> 69: 274-307.</text>
+<text top="723" left="108" width="644" height="16" font="4">Gussenhoven, C. (1984)<i> On the Grammar and Semantics of Sentence Accents</i>. Dodrecht: Foris.</text>
+<text top="744" left="108" width="702" height="16" font="4">Halliday, M. A. K. (1967a). Notes on transitivity and theme in English (part 2). <i>Journal of Linguistics</i></text>
+<text top="764" left="123" width="78" height="16" font="4">3: 199-244.</text>
+<text top="784" left="108" width="636" height="16" font="4">Halliday, M. A. K. (1967b). <i>Intonation and Grammar in British English</i>. The Hague: Mouton.</text>
+<text top="805" left="108" width="545" height="16" font="4">Halliday, M. A. K. &amp; R. Hassan (1976) <i>Cohesion in English</i>. London: Longman.</text>
+<text top="825" left="108" width="702" height="16" font="4">Hirschberg, J. (1993) Pitch accent in context: Predicting intonational prominence from text. <i>Artificial</i></text>
+<text top="845" left="123" width="170" height="16" font="6"><i>Intelligence</i> 63: 305-340.</text>
+<text top="866" left="108" width="702" height="16" font="4">Hirschberg, J. (1999) Communication and prosody: function aspects of prosody. <i>Proceedings of ESCA</i></text>
+<text top="886" left="123" width="518" height="16" font="6"><i>International Workshop on Dialogue and Prosody</i>. 7-15. Veldhoven: ESCA.</text>
+<text top="906" left="108" width="702" height="16" font="4">Huckvale, M. &amp; Fang, A. (1996). PROSICE: a spoken English database for prosody research. In</text>
+<text top="927" left="123" width="228" height="16" font="4">Greenbaum, S. (1996b). 262-279.</text>
+<text top="947" left="108" width="528" height="16" font="4">Kuno, S. (1972) Function sentence perspective. <i>Linguistic Inquiry</i> 3: 269-320.</text>
+<text top="967" left="108" width="702" height="16" font="4">Kuno, S. (1978) Generative discourse analysis in America. In Dressler, W. (ed.). <i>Current Trends in</i></text>
+<text top="988" left="123" width="299" height="16" font="6"><i>Textlinguistics</i>. 275-294. Berlin: de Gruyter.</text>
+<text top="1008" left="108" width="702" height="16" font="4">Leech, G., M. Deuchar &amp; R. Hoogenraad (1982) <i>English Grammar Today: A New Introduction</i>.</text>
+<text top="1028" left="123" width="139" height="16" font="4">London: Macmillan.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="515" width="246" height="16" font="6"><i>Accentuation and information status</i></text>
+<text top="132" left="785" width="26" height="16" font="4">303</text>
+<text top="173" left="108" width="654" height="16" font="4">Liberman, M. &amp; A. Prince (1977) On stress and linguistic rhythm. <i>Linguistic Inquiry</i> 8: 249-336.</text>
+<text top="193" left="108" width="702" height="16" font="4">Nakatani, C. (1998) Constituent-based accent prediction. <i>Proceedings of ACL/COLING</i>. . 939-945.</text>
+<text top="214" left="123" width="109" height="16" font="4">Montreal: ACL.</text>
+<text top="234" left="108" width="702" height="16" font="4">Nooteboom, S &amp; J. Kruyt (1987) Accents, focus distribution and the perceived distribution of given and</text>
+<text top="254" left="123" width="611" height="16" font="4">new information: an experiment. <i>Journal of Acoustical Society</i> <i>of America</i> 82: 1512-1524.</text>
+<text top="275" left="108" width="702" height="16" font="4">Pierrehumbert, J. (1980) <i>The Phonology and Phonetics of English Intonation</i>. PhD dissertation.</text>
+<text top="295" left="123" width="346" height="16" font="4">Distributed by Indiana University Linguistics Club.</text>
+<text top="315" left="108" width="702" height="16" font="4">Poesio, M. &amp; R. Viera (1998) A corpus-based investigation of definite description use. <i>Computational</i></text>
+<text top="336" left="123" width="165" height="16" font="6"><i>Linguistics</i> 24: 183-216.</text>
+<text top="356" left="108" width="702" height="16" font="4">Prince, E. (1981) Toward a taxonomy of given/new information. In Cole, P. (ed.). <i>Radical Pragmatics</i>.</text>
+<text top="376" left="123" width="192" height="16" font="4">New York, Academic Press.</text>
+<text top="397" left="108" width="702" height="16" font="4">Selkirk, E. (1984) <i>Phonology and Syntax: The Relation between Sound and Structure.</i> Cambridge: MIT</text>
+<text top="417" left="123" width="40" height="16" font="4">Press.</text>
+<text top="437" left="108" width="702" height="16" font="4">Selkirk, E. (1995) Sentence prosody: intonation, stress and phrasing. In Goldsmith, J. (ed.). <i>Handbook</i></text>
+<text top="458" left="123" width="338" height="16" font="6"><i>of Phonological Theory</i>. Oxford: Basil Blackwell.</text>
+<text top="478" left="108" width="535" height="16" font="4">Yule, G. (1981) New, current and displaced entity reference. <i>Lingua</i> 55: 41-52.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="26" height="16" font="4">304</text>
+<text top="132" left="152" width="101" height="16" font="6"><i>Dmitry Sityaev</i></text>
+<text top="174" left="108" width="460" height="18" font="3"><b>Appendix: Example of the analysed PROSICE corpus</b></text>
+</page>
+</pdf2xml>

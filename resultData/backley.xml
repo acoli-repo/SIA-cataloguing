@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="36" family="Times" color="#000000"/>
+	<fontspec id="3" size="34" family="Times" color="#000000"/>
+	<fontspec id="4" size="21" family="Times" color="#000000"/>
+	<fontspec id="5" size="20" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="20" family="Times" color="#000000"/>
+<text top="986" left="130" width="681" height="15" font="0">An earlier version of this paper was delivered at the Autumn (1995) meeting of the LAGB at the</text>
+<text top="981" left="123" width="6" height="11" font="1">*</text>
+<text top="1005" left="108" width="702" height="15" font="0">University of Essex. Our thanks go to those conference participants who contributed to a discussion</text>
+<text top="1025" left="108" width="702" height="15" font="0">of the material. We are also grateful to John Harris for supplying valuable comments on an earlier</text>
+<text top="1045" left="108" width="36" height="15" font="0">draft.</text>
+<text top="137" left="108" width="134" height="32" font="2"><i><b>Activate </b></i></text>
+<text top="129" left="237" width="24" height="44" font="3">&#34;</text>
+<text top="129" left="237" width="24" height="44" font="3">&#34;</text>
+<text top="137" left="262" width="432" height="32" font="2"><i><b>: harmony without spreading</b></i></text>
+<text top="133" left="694" width="11" height="19" font="4"><i><b>*</b></i></text>
+<text top="222" left="108" width="401" height="18" font="5">PHILLIP BACKLEY &amp; TOYOMI TAKAHASHI</text>
+<text top="293" left="162" width="75" height="18" font="6"><b>Abstract</b></text>
+<text top="339" left="162" width="594" height="15" font="0">In most privative approaches to melodic structure, the only phonological operations</text>
+<text top="359" left="162" width="594" height="15" font="0">deemed possible are those involving the linking and delinking of primes. However, within</text>
+<text top="379" left="162" width="594" height="15" font="0">an Element Theory model where no independent ATR prime is recognized, this restriction</text>
+<text top="399" left="162" width="594" height="15" font="0">must be relaxed in order to accommodate cases of tongue root harmony. In response, we</text>
+<text top="419" left="162" width="594" height="15" font="0">propose a view of melodic structure in which every position contains a full set of elements;</text>
+<text top="438" left="162" width="594" height="15" font="0">phonological  contrasts are then encoded by means of a lexical instruction to 'activate'</text>
+<text top="458" left="162" width="594" height="15" font="0">individual primes. In this paper we demonstrate how these assumptions can provide a</text>
+<text top="478" left="162" width="557" height="15" font="0">satisfactory treatment not only of ATR harmony, but of vowel harmony in general.</text>
+<text top="539" left="108" width="125" height="18" font="6"><b>1 Introduction</b></text>
+<text top="585" left="108" width="701" height="18" font="5">In this paper we consider some of the ways in which the mechanism of vowel harmony</text>
+<text top="609" left="108" width="702" height="18" font="5">(henceforth VH) has been approached in the recent literature. We then address a number</text>
+<text top="633" left="108" width="702" height="18" font="5">of problems associated with these accounts, and offer an alternative view built around the</text>
+<text top="657" left="108" width="702" height="18" font="5">concept of element activation. We begin by looking at the operation of autosegmental</text>
+<text top="680" left="108" width="701" height="18" font="5">spreading, which most multi-linear approaches have conventionally adopted as a means</text>
+<text top="704" left="108" width="702" height="18" font="5">of capturing assimilatory phenomena. While this notion of spreading remains central to</text>
+<text top="728" left="108" width="702" height="18" font="5">Element-based models of melodic structure (Kaye <i>et al</i>. 1985; Harris and Lindsey 1995),</text>
+<text top="752" left="108" width="702" height="18" font="5">it fails to provide a suitable account of VH cases involving tongue root position. In order</text>
+<text top="775" left="108" width="702" height="18" font="5">to accommodate such systems, a number of solutions based on the properties of headship</text>
+<text top="799" left="108" width="702" height="18" font="5">have been proposed. These are outlined in section 3, and then explored more fully in</text>
+<text top="823" left="108" width="77" height="18" font="5">section 4.</text>
+<text top="847" left="123" width="687" height="18" font="5">Although the headed-headless distinction offers an elegant means of expressing tongue</text>
+<text top="870" left="108" width="703" height="18" font="5">root contrasts and harmony processes involving ATR, it forces us to accept an increase</text>
+<text top="894" left="108" width="703" height="18" font="5">in the number of legitimate operations available to the phonology — a move which has</text>
+<text top="918" left="108" width="703" height="18" font="5">clear repercussions for overall restrictiveness. Besides the established operations of</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="10" height="18" font="5">2</text>
+<text top="194" left="108" width="702" height="18" font="5">spreading and delinking, we must recognize an additional device which formalizes the</text>
+<text top="218" left="108" width="702" height="18" font="5">alignment or the special licensing of heads across a domain. A mechanism of this sort has</text>
+<text top="242" left="108" width="703" height="18" font="5">the immediate effect of expanding the predictive power of the model to an undesirable</text>
+<text top="265" left="108" width="702" height="18" font="5">extent. We shall argue, however, that this outcome may be avoided by assuming a full set</text>
+<text top="289" left="108" width="702" height="18" font="5">of elements to be present under every nuclear position. Phonological oppositions are then</text>
+<text top="313" left="108" width="702" height="18" font="5">encoded by means of the lexical instruction to 'activate' individual primes: active elements</text>
+<text top="337" left="108" width="702" height="18" font="5">are interpretable, while inactive material lies dormant in the melodic structure. This is</text>
+<text top="360" left="108" width="702" height="18" font="5">described in section 5. We claim that element activation is appropriate for analysing a</text>
+<text top="384" left="108" width="702" height="18" font="5">variety of VH types, and is equally applicable to the representation of non-harmonic</text>
+<text top="408" left="108" width="702" height="18" font="5">contrasts conventionally referred to as 'segmental'. We also propose that a strict</text>
+<text top="432" left="108" width="702" height="18" font="5">interpretation of Structure Preservation is compatible with the notion of lexical activation,</text>
+<text top="455" left="108" width="702" height="18" font="5">whereas the same principle must be weakened in the context of head agreement. In</text>
+<text top="479" left="108" width="702" height="18" font="5">section 6 we offer an analysis of an ATR harmony system couched within element</text>
+<text top="503" left="108" width="134" height="18" font="5">activation terms.</text>
+<text top="575" left="108" width="235" height="18" font="6"><b>2 Autosegmental spreading</b></text>
+<text top="621" left="108" width="702" height="18" font="5">Since the late 1970s it has been recognized that the standard linear model of phonology</text>
+<text top="645" left="108" width="702" height="18" font="5">cannot be maintained as an adequate means of representing the kinds of phenomena that</text>
+<text top="669" left="108" width="702" height="18" font="5">have been subsumed under the general label 'prosodic'. This description may be taken to</text>
+<text top="693" left="108" width="703" height="18" font="5">involve properties such as, for example, stress patterning. In response, the idea of multi-</text>
+<text top="716" left="108" width="702" height="18" font="5">linear structure has since dominated the theoretical arena, having developed initially from</text>
+<text top="740" left="108" width="702" height="18" font="5">early autosegmental models presented by, amongst others, Goldsmith (1976) and</text>
+<text top="764" left="108" width="702" height="18" font="5">Clements (1977). It has been noticed, however, that we encounter problems if we attempt</text>
+<text top="788" left="108" width="702" height="18" font="5">to draw any absolute distinction between suprasegmental processes of the type envisaged</text>
+<text top="811" left="108" width="702" height="18" font="5">by Goldsmith, and purely melodic patterns formerly referred to as 'segmental'. Certain</text>
+<text top="835" left="108" width="702" height="18" font="5">assimilatory phenomena such as vowel harmony, for example, apparently have recourse</text>
+<text top="859" left="108" width="498" height="18" font="5">to both melodic and prosodic information in their description.</text>
+<text top="883" left="123" width="687" height="18" font="5">The analysis of Akan vowel harmony, proposed in Clements (1981), was built around</text>
+<text top="906" left="108" width="702" height="18" font="5">this very observation, where harmonic agreement is described as 'a phenomenon located</text>
+<text top="930" left="108" width="702" height="18" font="5">at midpoint between true prosodic characteristics such as stress and tone, and purely local</text>
+<text top="954" left="108" width="703" height="18" font="5">phenomena such as the assimilation of one segment to a neighbour' (1981:55). This</text>
+<text top="978" left="108" width="702" height="18" font="5">amalgamation of melodic and prosodic characteristics is employed by Clements as a</text>
+<text top="1001" left="108" width="702" height="18" font="5">means of highlighting the appropriateness of a nonlinear mode of representation, his</text>
+<text top="1025" left="108" width="702" height="18" font="5">departure from the linear tradition being motivated in the following way. Vowel harmony</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="15" family="Times" color="#000000"/>
+	<fontspec id="10" size="20" family="Times" color="#000000"/>
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="800" width="10" height="18" font="5">3</text>
+<text top="194" left="108" width="702" height="18" font="5">may be seen to operate by isolating the kinds of phonological properties (specifically,</text>
+<text top="218" left="108" width="701" height="18" font="5">melodic primitives) normally used to define segments, and then giving them a prosodic,</text>
+<text top="242" left="108" width="702" height="18" font="5">or suprasegmental role. So, a feature such as [-back], which is conventionally specified</text>
+<text top="266" left="108" width="354" height="18" font="5">in the melodic make up of the front vowels <b>e</b>, </text>
+<text top="260" left="461" width="349" height="26" font="10">{, <b>i</b>, <b>ö</b>, etc., may alternatively be abstracted</text>
+<text top="292" left="108" width="701" height="18" font="5">from this segmental level and elevated to a higher position in the phonological structure,</text>
+<text top="316" left="108" width="702" height="18" font="5">where it becomes the property of a larger prosodic domain, typically the word. In the case</text>
+<text top="339" left="108" width="702" height="18" font="5">of [-back] specified as a suprasegmental unit, we observe the palatality effects of this</text>
+<text top="363" left="108" width="702" height="18" font="5">feature across (the vowels of) entire morphemes, rather than individual melodic</text>
+<text top="387" left="108" width="702" height="18" font="5">expressions. Harmonic agreement with respect to palatality is characteristic of a number</text>
+<text top="411" left="108" width="413" height="18" font="5">of Altaic systems, such as Mongolian and Turkish. </text>
+<text top="434" left="123" width="687" height="18" font="5">If the feature [-back] can be treated in this way, then we expect other melodic primes</text>
+<text top="458" left="108" width="702" height="18" font="5">to be accessed in a similar fashion, creating a range of VH systems observable across</text>
+<text top="482" left="108" width="703" height="18" font="5">different languages. In the paper cited above, Clements focuses his attention on the</text>
+<text top="506" left="108" width="702" height="18" font="5">tongue root harmony system of Akan. Leaving aside some of the rather complex details</text>
+<text top="530" left="108" width="702" height="18" font="5">regarding the distribution of vowels in this language, we may generalize by saying that the</text>
+<text top="553" left="108" width="702" height="18" font="5">vowels within a prosodic word domain all agree with respect to ATRness. That is, the</text>
+<text top="577" left="108" width="702" height="18" font="5">feature value [+ATR] is associated either to all of the vowels in the domain, or to none</text>
+<text top="601" left="108" width="701" height="18" font="5">of them; in the latter case, the default value [-ATR] is supplied. Clements proposes that</text>
+<text top="625" left="108" width="702" height="18" font="5">this pattern is encoded in Akan via a lexical marking which specifies each noun and verb</text>
+<text top="648" left="108" width="702" height="18" font="5">root as either an ATR or a non-ATR morpheme. Then, following affixation, the vowels</text>
+<text top="672" left="108" width="702" height="18" font="5">of affixes tend to reflect this marking. The effects of harmonic agreement are</text>
+<text top="696" left="108" width="702" height="18" font="5">demonstrated in (1), which shows two verb roots that are minimally distinct — they differ</text>
+<text top="720" left="108" width="511" height="18" font="5">only in terms of the presence/absence of morpheme-level ATR.</text>
+<text top="767" left="108" width="24" height="18" font="5">(1)</text>
+<text top="767" left="162" width="14" height="18" font="5">a.</text>
+<text top="762" left="216" width="18" height="26" font="10">tU</text>
+<text top="767" left="270" width="53" height="18" font="5">'throw'</text>
+<text top="762" left="378" width="77" height="26" font="10">O-bE-tU-I</text>
+<text top="767" left="486" width="158" height="18" font="5">'he came and threw'</text>
+<text top="793" left="162" width="15" height="18" font="5">b.</text>
+<text top="793" left="216" width="16" height="18" font="5">tu</text>
+<text top="793" left="270" width="32" height="18" font="5">'dig'</text>
+<text top="793" left="378" width="70" height="18" font="5">o-be-tu-i</text>
+<text top="793" left="486" width="147" height="18" font="5">'he came and dug' </text>
+<text top="840" left="108" width="703" height="18" font="5">The fact that the feature [+ATR] is specified as a property of the word domain, rather</text>
+<text top="864" left="108" width="702" height="18" font="5">than of an individual vowel, is illustrated by the morphologically complex forms above.</text>
+<text top="888" left="108" width="702" height="18" font="5">In the case of (1b), the scope of ATRness is extended beyond the root vowel to all other</text>
+<text top="911" left="108" width="702" height="18" font="5">vowels within the expanded domain. We may assume that the lexicon does not support</text>
+<text top="935" left="108" width="702" height="18" font="5">any tongue root distinction in affixes, and therefore, that affixal vowels are subject to</text>
+<text top="959" left="108" width="703" height="18" font="5">[±ATR] alternation, according to the lexical marking of the root to which they are</text>
+<text top="983" left="108" width="73" height="18" font="5">attached.</text>
+<text top="1007" left="123" width="687" height="18" font="5">In order to capture the suprasegmental behaviour of [+ATR] in this system, Clements</text>
+<text top="1030" left="108" width="702" height="18" font="5">(1981) adopts the kind of autosegmental structure first presented in Goldsmith (1976), in</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="19" family="Times" color="#000000"/>
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="10" height="18" font="5">4</text>
+<text top="1045" left="130" width="229" height="15" font="0">See Mtenje (1986) for discussion.</text>
+<text top="1040" left="123" width="6" height="11" font="1">1</text>
+<text top="194" left="108" width="702" height="18" font="5">which the harmonizing feature is isolated from the remaining melodic material and</text>
+<text top="218" left="108" width="702" height="18" font="5">represented on a separate autosegmental tier. The derivation of an ATR form is shown in</text>
+<text top="242" left="108" width="702" height="18" font="5">(2), where the addition of association lines is typically achieved via a <b>spreading</b></text>
+<text top="266" left="108" width="81" height="18" font="5">operation.</text>
+<text top="313" left="108" width="24" height="18" font="5">(2)</text>
+<text top="313" left="162" width="249" height="18" font="5">    <i>o-be-tu-i</i>   'he came and dug'</text>
+<text top="558" left="123" width="687" height="18" font="5">The widespread acceptance of this nonlinear model has led to the same process of</text>
+<text top="582" left="108" width="703" height="18" font="5">feature spreading being applied in countless other autosegmental analyses of harmonic</text>
+<text top="606" left="108" width="702" height="18" font="5">phenomena. Indeed, it offers a substantial degree of versatility since, we may assume, any</text>
+<text top="630" left="108" width="702" height="18" font="5">unit belonging to the set of distinctive features may potentially be autosegmentalized in</text>
+<text top="653" left="108" width="702" height="18" font="5">the way that has just been outlined. Familiar harmonic processes may thus be</text>
+<text top="677" left="108" width="702" height="18" font="5">characterized in a straightforward manner: labial harmony (e.g. Turkish) identifies</text>
+<text top="701" left="108" width="518" height="18" font="5">[+round] as a prosodic feature, while height harmony (e.g. Chiche</text>
+<text top="696" left="626" width="15" height="26" font="11">ë</text>
+<text top="701" left="640" width="170" height="18" font="5">a) corresponds to the</text>
+<text top="725" left="108" width="702" height="18" font="5">selection of either [+low] or [-high]  as the relevant autosegment. In the context of a</text>
+<text top="722" left="405" width="6" height="11" font="1">1</text>
+<text top="748" left="108" width="702" height="18" font="5">restrictive generative model, however, this versatility cannot be viewed favourably, since</text>
+<text top="772" left="108" width="702" height="18" font="5">we predict that all available features are equally likely to be accessed as a harmonic</text>
+<text top="796" left="108" width="702" height="18" font="5">property within one language or another. Yet, in the absence of any serious empirical</text>
+<text top="820" left="108" width="702" height="18" font="5">backing, such a prediction cannot be maintained. For example, while nasal harmony</text>
+<text top="843" left="108" width="702" height="18" font="5">systems involving [+nasal] are widespread (e.g. Orejon, Gokana), the complement process</text>
+<text top="867" left="108" width="702" height="18" font="5">of oralisation, which would target the feature [-nasal], is unattested. Let us briefly</text>
+<text top="891" left="108" width="702" height="18" font="5">consider an alternative approach, couched within a theory of monovalent elements, that</text>
+<text top="915" left="108" width="404" height="18" font="5">has attempted to overcome this potential problem.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="800" width="10" height="18" font="5">5</text>
+<text top="888" left="130" width="680" height="15" font="0">The basic A-I-U model has been taken up and developed in a number of different frameworks,</text>
+<text top="884" left="123" width="6" height="11" font="1">2</text>
+<text top="908" left="108" width="702" height="15" font="0">including Dependency Phonology (Anderson and Ewen 1987), Particle Phonology (Schane 1984),</text>
+<text top="928" left="108" width="446" height="15" font="0">and Element Theory (Kaye <i>et al</i>. 1985; Harris and Lindsey 1995).</text>
+<text top="966" left="130" width="681" height="15" font="0">Here we follow the position adopted in Harris and Lindsey (1995) with regard to elemental</text>
+<text top="961" left="123" width="6" height="11" font="1">3</text>
+<text top="986" left="108" width="702" height="15" font="0">representations. Other triangular approaches to melodic structure do involve one or more of the</text>
+<text top="1005" left="108" width="702" height="15" font="0">resonance elements in tongue root contrasts. See, for example, van der Hulst (1989), where it is</text>
+<text top="1025" left="108" width="702" height="15" font="0">proposed that a particular manifestation of the [I] prime contributes ATRness to an expression, while</text>
+<text top="1045" left="108" width="214" height="15" font="0">[A] is responsible for RTRness.</text>
+<text top="194" left="108" width="280" height="18" font="6"><b>3 The Element Theory approach</b></text>
+<text top="242" left="108" width="140" height="18" font="6"><b>3.1 Introduction</b></text>
+<text top="288" left="108" width="703" height="18" font="5">The response to overgeneration of this sort has typically come in the form of a radical</text>
+<text top="312" left="108" width="702" height="18" font="5">revision of the melodic prime inventory. Specifically, it has been acknowledged that a</text>
+<text top="336" left="108" width="703" height="18" font="5">reduction in the number of primes available to the phonology should go some way</text>
+<text top="360" left="108" width="702" height="18" font="5">towards curbing generative capacity. The only permissible units of subsegmental structure</text>
+<text top="383" left="108" width="702" height="18" font="5">would, of course, be those representing phonological properties which are active in</text>
+<text top="407" left="108" width="703" height="18" font="5">observed processes. Generally speaking, revised approaches to vocalic representation</text>
+<text top="431" left="108" width="702" height="18" font="5">have been based on the insights of Anderson and Jones (1974), who posit a triangular</text>
+<text top="455" left="108" width="632" height="18" font="5">vowel space marked out by the three fundamental 'characteristics' given in (3):</text>
+<text top="452" left="740" width="6" height="11" font="1">2</text>
+<text top="502" left="108" width="24" height="18" font="5">(3)</text>
+<text top="502" left="162" width="265" height="18" font="5">I-ness   (i.e. frontness, palatality)</text>
+<text top="526" left="162" width="266" height="18" font="5">U-ness  (i.e. roundness, labiality)</text>
+<text top="550" left="162" width="257" height="18" font="5">A-ness  (i.e. lowness, openness)</text>
+<text top="597" left="108" width="702" height="18" font="5">Clearly, a vocabulary of only three melodic primes significantly reduces the potential for</text>
+<text top="621" left="108" width="702" height="18" font="5">autosegmentalisation, the central claim being that the range of harmonic processes</text>
+<text top="645" left="108" width="702" height="18" font="5">exclusively involving vowels (hence, those excluding nasal harmony) should correspond</text>
+<text top="668" left="108" width="289" height="18" font="5">to the set of properties listed in (3). </text>
+<text top="692" left="123" width="686" height="18" font="5">However, we need look no further than the data in (1) above to see that such a claim</text>
+<text top="716" left="108" width="702" height="18" font="5">cannot be upheld. The harmonic pattern observed in Akan is representative of the kind</text>
+<text top="740" left="108" width="701" height="18" font="5">of assimilation phenomenon which involves an active tongue root property, rather than</text>
+<text top="764" left="108" width="702" height="18" font="5">any of the vocalic properties corresponding to A, I or U.  Assuming the validity of an</text>
+<text top="761" left="573" width="6" height="11" font="1">3</text>
+<text top="787" left="108" width="702" height="18" font="5">ATR-harmony analysis for systems such as Akan, a potential problem immediately arises:</text>
+<text top="811" left="108" width="702" height="18" font="5">within the version of Element Theory (see references in footnote 2) adopted throughout</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="10" height="18" font="5">6</text>
+<text top="194" left="108" width="702" height="18" font="5">the remainder of this discussion, no melodic prime akin to the [+ATR] unit, as exploited</text>
+<text top="218" left="108" width="702" height="18" font="5">in (2), is currently established as an independent object. The absence of a tongue root</text>
+<text top="242" left="108" width="702" height="18" font="5">element is sufficiently well motivated (at least, theory-internally) for us to rule out a</text>
+<text top="265" left="108" width="702" height="18" font="5">spreading account of the data in (1). The challenge for Element Theorists, then, has been</text>
+<text top="289" left="108" width="702" height="18" font="5">one of finding an alternative means of representing the ATR distinction, together with an</text>
+<text top="313" left="108" width="488" height="18" font="5">alternative mechanism for capturing its harmonic properties.</text>
+<text top="384" left="108" width="168" height="18" font="6"><b>3.2 Head alignment</b></text>
+<text top="431" left="108" width="702" height="18" font="5">The most widely accepted solution has opted for a development of the headship properties</text>
+<text top="455" left="108" width="702" height="18" font="5">of the three resonance elements as a way of approaching the question of ATR distribution.</text>
+<text top="479" left="108" width="702" height="18" font="5">Element Theory standardly employs an asymmetric dependency relation which may exist</text>
+<text top="503" left="108" width="702" height="18" font="5">between different primes within the same melodic expression. This allows one element</text>
+<text top="526" left="108" width="702" height="18" font="5">to be identified as the head of that expression, where head status results in</text>
+<text top="550" left="108" width="702" height="18" font="5">(phonologically) relative salience and (acoustically) relative prominence. For example,</text>
+<text top="574" left="108" width="703" height="18" font="5">the vocalic properties of lowness, present in [A], and labiality, present in [U], may fuse</text>
+<text top="598" left="108" width="702" height="18" font="5">in unequal proportions, yielding either the [A]-headed expression (A,U) or the [U]-headed</text>
+<text top="621" left="108" width="701" height="18" font="5">expression (A,U). The relative salience of the head element is, in each case, reflected in</text>
+<text top="645" left="108" width="351" height="18" font="5">the interpretation of these expressions as </text>
+<text top="640" left="459" width="350" height="26" font="10">Q and o respectively. For the purposes of</text>
+<text top="671" left="108" width="702" height="18" font="5">capturing the ATR distinction, this notion of headship is harnessed not as a relational</text>
+<text top="695" left="108" width="702" height="18" font="5">property, as in the way just described, but as an intrinsic property of individual elements.</text>
+<text top="719" left="108" width="702" height="18" font="5">Thus, a headed [U], for example, may potentially contrast with a non-headed [U], the</text>
+<text top="743" left="108" width="702" height="18" font="5">general assumption being that headed expressions (whether single elements or</text>
+<text top="766" left="108" width="702" height="18" font="5">compounds) correspond to ATR vowels, while non-headed structures represent non-</text>
+<text top="790" left="108" width="702" height="18" font="5">advanced vowels. Returning to the illustration of compounds involving [A] and [U], we</text>
+<text top="814" left="108" width="703" height="18" font="5">may now introduce a third combinatory possibility — a headless expression —</text>
+<text top="838" left="108" width="273" height="18" font="5">representing the non-ATR vowel </text>
+<text top="832" left="381" width="429" height="26" font="10">O. The three-way distinction shown in (4) is assumed</text>
+<text top="864" left="108" width="702" height="18" font="5">within the version of Element Theory supported in, for example, Harris and Lindsey</text>
+<text top="888" left="108" width="59" height="18" font="5">(1995).</text>
+<text top="936" left="108" width="24" height="18" font="5">(4)</text>
+<text top="936" left="162" width="69" height="18" font="5">(A,U) = </text>
+<text top="930" left="231" width="12" height="26" font="10">Q</text>
+<text top="936" left="270" width="79" height="18" font="5">(A,U) = <b>o</b></text>
+<text top="936" left="378" width="69" height="18" font="5">(A,U) = </text>
+<text top="930" left="447" width="10" height="26" font="10">O</text>
+<text top="986" left="108" width="702" height="18" font="5">The view that ATR distinctions are encoded via headship properties is appealing in a</text>
+<text top="1009" left="108" width="702" height="18" font="5">number of ways. Most significantly, we do not need to refer to any independent ATR</text>
+<text top="1033" left="108" width="702" height="18" font="5">prime, which is clearly beneficial in terms of generative restrictiveness. Furthermore, we</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="800" width="10" height="18" font="5">7</text>
+<text top="194" left="108" width="702" height="18" font="5">need not posit any additional structure in order to capture ATRness; instead, we simply</text>
+<text top="218" left="108" width="604" height="18" font="5">exploit what is already present as an established representational property. </text>
+<text top="242" left="123" width="686" height="18" font="5">Extending this idea to cases of ATR harmony, we may infer that harmony arises from</text>
+<text top="265" left="108" width="702" height="18" font="5">an agreement with respect to headship across a given domain. Let us illustrate this with</text>
+<text top="289" left="108" width="519" height="18" font="5">reference to examples from the ATR harmony language Maasai.</text>
+<text top="337" left="108" width="24" height="18" font="5">(5)</text>
+<text top="337" left="162" width="14" height="18" font="5">a.</text>
+<text top="331" left="216" width="36" height="26" font="10">pErr</text>
+<text top="337" left="378" width="51" height="18" font="5">'split'  </text>
+<text top="362" left="162" width="15" height="18" font="5">b.</text>
+<text top="362" left="216" width="14" height="18" font="5">ie</text>
+<text top="362" left="378" width="140" height="18" font="5">applicative suffix</text>
+<text top="410" left="162" width="14" height="18" font="5">c.</text>
+<text top="404" left="216" width="68" height="26" font="10">a-I-pErr</text>
+<text top="410" left="378" width="201" height="18" font="5">infinitive - class 2 - 'split'</text>
+<text top="435" left="162" width="15" height="18" font="5">d.</text>
+<text top="435" left="216" width="112" height="18" font="5">aa-i-perr-ie-ki</text>
+<text top="435" left="379" width="362" height="18" font="5">1 sing. - class 2 - 'split' - applicative - passive</text>
+<text top="483" left="108" width="702" height="18" font="5">The verb root in (5a) contains no ATR vowels, and hence, no headed vocalic expressions;</text>
+<text top="506" left="108" width="701" height="18" font="5">for the purposes of harmony, it is a headless object. In contrast, the ATR vowels of the</text>
+<text top="530" left="108" width="701" height="18" font="5">suffix in (5b) suggest that this morpheme is lexically marked as a headed object. This is</text>
+<text top="554" left="108" width="702" height="18" font="5">confirmed by the observation that its headedness properties are seen to 'associate' to the</text>
+<text top="578" left="108" width="702" height="18" font="5">vowels of neighbouring morphemes following affixation. The example in (5d)</text>
+<text top="602" left="108" width="597" height="18" font="5">demonstrates these harmonic effects, where the lexically non-ATR root </text>
+<text top="596" left="705" width="105" height="26" font="10">pErr 'split' is</text>
+<text top="627" left="108" width="702" height="18" font="5">interpreted with the headed vowel <b>e</b>, under the influence of a headed object elsewhere in</text>
+<text top="651" left="108" width="702" height="18" font="5">the domain. Here we illustrate one proposal which has been put forward, within the</text>
+<text top="675" left="108" width="702" height="18" font="5">restrictive context of Element Theory, to account for the way in which headship harmony</text>
+<text top="699" left="108" width="702" height="18" font="5">of this kind may be achieved. We refer to the head alignment mechanism employed by</text>
+<text top="722" left="108" width="560" height="18" font="5">Lowenstamm &amp; Prunet (1988), Harris &amp; Lindsey (1995), and others. </text>
+<text top="746" left="123" width="687" height="18" font="5">Harris and Lindsey (1995) employ the case of ATR harmony in Akan to illustrate the</text>
+<text top="770" left="108" width="702" height="18" font="5">way in which the process of head alignment operates. As an alternative to feature</text>
+<text top="794" left="108" width="702" height="18" font="5">spreading, the Element Theory view centres on the claim that harmonic effects arise from</text>
+<text top="818" left="108" width="702" height="18" font="5">changes in the internal representation of harmonizing vowels, such effects being triggered</text>
+<text top="841" left="108" width="701" height="18" font="5">by particular characteristics of a dominant vowel present in the relevant domain. Given</text>
+<text top="865" left="108" width="702" height="18" font="5">the means by which the tongue root distinction is captured in (4), it follows that these</text>
+<text top="889" left="108" width="702" height="18" font="5">changes should typically involve a switch in the headship status of nuclear expressions.</text>
+<text top="913" left="108" width="702" height="18" font="5">For instance, within the set of non-low vowels, an expression which is lexically non-ATR</text>
+<text top="936" left="108" width="702" height="18" font="5">may acquire full-headedness in the environment of a dominant ATR vowel. It is in this</text>
+<text top="960" left="108" width="700" height="18" font="5">way that head agreement is achieved, where the head elements of every vowel within the</text>
+<text top="984" left="108" width="408" height="18" font="5">relevant span are aligned on the same melodic tier.</text>
+<text top="1008" left="123" width="687" height="18" font="5">Let us recast the Akan data given in (1) in terms of this alignment mechanism. As the</text>
+<text top="1031" left="108" width="703" height="18" font="5">examples in (6) demonstrate, harmony is captured by means of headship agreement,</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="15" family="Times" color="#000000"/>
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="10" height="18" font="5">8</text>
+<text top="194" left="108" width="702" height="18" font="5">where headedness may be most appropriately viewed as a property belonging to a melodic</text>
+<text top="218" left="108" width="702" height="18" font="5">tier, rather than to individual elements. In representational terms, then, the effects of</text>
+<text top="242" left="108" width="703" height="18" font="5">harmony are such that all elements on the designated harmony tier are uniformly either</text>
+<text top="265" left="108" width="564" height="18" font="5">headed or headless (where headed status is indicated by underlining). </text>
+<text top="313" left="108" width="24" height="18" font="5">(6)</text>
+<text top="313" left="162" width="24" height="18" font="5">a.  </text>
+<text top="307" left="186" width="241" height="26" font="10">O-bE-tU-I 'he came and threw'</text>
+<text top="313" left="486" width="244" height="18" font="5">b.  <i>o-be-tu-i</i> 'he came and dug'</text>
+<text top="362" left="123" width="15" height="18" font="5">   </text>
+<text top="362" left="432" width="30" height="18" font="5">      </text>
+<text top="611" left="108" width="702" height="18" font="5">The vowels in (6a) are all lexically headless. The absence of any (dominant) headed</text>
+<text top="635" left="108" width="702" height="18" font="5">expression in the word allows each vowel to remain structurally unaltered, thus yielding</text>
+<text top="658" left="108" width="227" height="18" font="5">the non-ATR interpretation </text>
+<text top="653" left="335" width="476" height="26" font="10">O-bE-tU-I. The representation in (6b), on the other hand, is</text>
+<text top="684" left="108" width="702" height="18" font="5">characterised by the presence of a lexically headed expression in the verb root <i>tu</i> (see (1b)</text>
+<text top="708" left="108" width="702" height="18" font="5">above), which has a harmonizing effect on affix vowels. We arrive at the aligned</text>
+<text top="731" left="108" width="702" height="18" font="5">configuration in (6b) by allowing the headship status of recessive vowels to be</text>
+<text top="755" left="108" width="167" height="18" font="5">manipulated via an </text>
+<text top="758" left="275" width="23" height="14" font="12">ON</text>
+<text top="755" left="298" width="6" height="18" font="5">/</text>
+<text top="758" left="304" width="29" height="14" font="12">OFF</text>
+<text top="755" left="333" width="477" height="18" font="5"> setting. So, for example, an operation of head switching</text>
+<text top="779" left="108" width="137" height="18" font="5">permits a lexical </text>
+<text top="774" left="244" width="566" height="26" font="10">O (U,A) to be interpreted as <b>o</b> (U,A) under harmony conditions. As we</text>
+<text top="806" left="108" width="702" height="18" font="5">now demonstrate, this head alignment approach also serves as the basis for a formalized</text>
+<text top="829" left="108" width="702" height="18" font="5">view of headship agreement — in the shape of head licensing — which is applied and</text>
+<text top="853" left="108" width="484" height="18" font="5">developed in, for example, Cobb (1995) and Walker (1995).</text>
+<text top="925" left="108" width="173" height="18" font="6"><b>3.3 H(ead)-licensing</b></text>
+<text top="972" left="108" width="702" height="18" font="5">The mechanism of H(ead)-licensing (see, for example, Walker (1995) and references</text>
+<text top="995" left="108" width="702" height="18" font="5">therein) offers a formalized account of the way in which head agreement is achieved</text>
+<text top="1019" left="108" width="702" height="18" font="5">across a specified domain. However, since the precise details of this procedure are not</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="800" width="10" height="18" font="5">9</text>
+<text top="986" left="130" width="680" height="15" font="0">Licensing constraints are central to the theoretical context in which H-licensing has been conceived.</text>
+<text top="981" left="123" width="6" height="11" font="1">4</text>
+<text top="1005" left="108" width="702" height="15" font="0">They typically take the form of generalisations regarding the headship of particular elements: for example,</text>
+<text top="1025" left="108" width="702" height="15" font="0">the constraint <i>[I] does not license operators</i> is argued for in the description of the Turkish vowel inventory</text>
+<text top="1045" left="108" width="193" height="15" font="0">(Charette and Göksel 1994).</text>
+<text top="194" left="108" width="702" height="18" font="5">central to the present argument, we bypass any detailed discussion of the implementation</text>
+<text top="218" left="108" width="702" height="18" font="5">of H-licensing, and instead, refer the reader to the references cited above. Of more</text>
+<text top="242" left="108" width="702" height="18" font="5">immediate relevance is the question of how H-licensing may be incorporated into an</text>
+<text top="265" left="108" width="702" height="18" font="5">overall theory of phonological well-formedness. Its proponents view the mechanism</text>
+<text top="289" left="108" width="703" height="18" font="5">essentially as a 'lexical function' which maps headless expressions on to headed ones,</text>
+<text top="313" left="108" width="702" height="18" font="5">although it may also apply in a derivational capacity (where harmony is found to occur</text>
+<text top="337" left="108" width="702" height="18" font="5">in morphologically complex forms, for example). In either case, the melodic</text>
+<text top="360" left="108" width="702" height="18" font="5">configurations which come about via H-licensing must interact with a number of</text>
+<text top="384" left="108" width="702" height="18" font="5">language-specific licensing constraints, the latter serving to restrict the way that elements</text>
+<text top="408" left="108" width="403" height="18" font="5">are permitted to combine within any one system.  </text>
+<text top="406" left="500" width="6" height="11" font="1">4</text>
+<text top="432" left="123" width="688" height="18" font="5">Given that both of these devices — H-licensing and licensing constraints — are</text>
+<text top="455" left="108" width="703" height="18" font="5">involved in the manipulation of the same phonological property, that of headship, it is</text>
+<text top="479" left="108" width="702" height="18" font="5">inevitable that a certain degree of conflict will arise with regard to their respective</text>
+<text top="503" left="108" width="702" height="18" font="5">predictions. In some instances of clashing, licensing constraints are overridden, in order</text>
+<text top="527" left="108" width="703" height="18" font="5">that the output of the H-licensing function can remain intact (and thus, be interpreted</text>
+<text top="550" left="108" width="702" height="18" font="5">successfully). In other instances, however, constraints behave as inviolable requirements</text>
+<text top="574" left="108" width="702" height="18" font="5">on structural grammaticality and, as such, force the breakdown of the H-licensing process.</text>
+<text top="598" left="108" width="702" height="18" font="5">In view of this dynamic behaviour shown by H-licensing, its status within the grammar</text>
+<text top="622" left="108" width="702" height="18" font="5">appears somewhat indeterminate. The possibility of resolving grammar-internal conflict</text>
+<text top="645" left="108" width="702" height="18" font="5">on a language-specific basis suggests an approach that is reminiscent of the constraint</text>
+<text top="669" left="108" width="702" height="18" font="5">ranking found within Optimality-Theoretic (OT) models (Prince and Smolensky 1993);</text>
+<text top="693" left="108" width="702" height="18" font="5">in OT, the violation of a constraint is sanctioned only in order to ensure that the</text>
+<text top="717" left="108" width="702" height="18" font="5">conditions prescribed by a more highly ranked constraint (located in a language-particular</text>
+<text top="740" left="108" width="702" height="18" font="5">hierarchy) are met. However, if H-licensing is to be most appropriately seen as a well-</text>
+<text top="764" left="108" width="702" height="18" font="5">formedness constraint on output representations, on a par with the other grammaticality</text>
+<text top="788" left="108" width="702" height="18" font="5">constraints with which it interacts, then its defining characteristic as a <i>lexical</i> function is</text>
+<text top="812" left="108" width="188" height="18" font="5">somewhat undermined.</text>
+<text top="836" left="123" width="688" height="18" font="5">The recent literature has seen a number of attempts to extend the application of head</text>
+<text top="859" left="108" width="702" height="18" font="5">licensing to a wider range of languages exhibiting tongue root harmony. Although the</text>
+<text top="883" left="108" width="702" height="18" font="5">outlook is not altogether discouraging, the results seem to indicate that the H-licensing</text>
+<text top="907" left="108" width="702" height="18" font="5">mechanism cannot be subject to the kind of rigid definition that had originally been</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">10</text>
+<text top="1005" left="130" width="680" height="15" font="0">In effect, this analysis allows a harmonic domain to be described independently of the harmonic</text>
+<text top="1001" left="123" width="6" height="11" font="1">5</text>
+<text top="1025" left="108" width="702" height="15" font="0">mechanism employed. This view has much in common with the Optimal Domains approach to</text>
+<text top="1045" left="108" width="364" height="15" font="0">harmony, as presented in Cole and Kisseberth (1994).</text>
+<text top="194" left="108" width="702" height="18" font="5">proposed. Instead, the focus of its development appears to be centred on the incorporation</text>
+<text top="218" left="108" width="703" height="18" font="5">of parametrically controlled properties, in place of absolute requirements. For example,</text>
+<text top="242" left="108" width="701" height="18" font="5">Cobb (1995) suggests that the domain of H-licensing (in Zulu) need not correspond</text>
+<text top="265" left="108" width="702" height="18" font="5">directly with either morphological or prosodic categories,  while it is proposed in</text>
+<text top="263" left="599" width="6" height="11" font="1">5</text>
+<text top="289" left="108" width="703" height="18" font="5">Denwood (1995) that the directionality of H-licensing be specified on a language-</text>
+<text top="313" left="108" width="702" height="18" font="5">particular basis. In the same paper, Denwood also raises a number of theory-internal</text>
+<text top="337" left="108" width="702" height="18" font="5">matters, such as the predicted incompatibility between the mechanism of H-licensing and</text>
+<text top="360" left="108" width="702" height="18" font="5">the presence of phonologically empty nuclei. The references given above provide</text>
+<text top="384" left="108" width="702" height="18" font="5">discussions of these, and other recent developments in the formulation of H-licensing;</text>
+<text top="408" left="108" width="388" height="18" font="5">these issues will not, however, be pursued here. </text>
+<text top="432" left="123" width="686" height="18" font="5">Of greater significance to the present argument is the question of the appropriateness</text>
+<text top="455" left="108" width="702" height="18" font="5">of headship harmony to a restrictive theory of well-formedness — whether this is</text>
+<text top="479" left="108" width="702" height="18" font="5">achieved by referring to melodic tiers, following Harris and Lindsey (1995), or to H-</text>
+<text top="503" left="108" width="702" height="18" font="5">licensing, as in Walker (1995) and elsewhere. In other words, how successfully may this</text>
+<text top="527" left="108" width="702" height="18" font="5">approach be incorporated into our established view of phonological structure? In the</text>
+<text top="550" left="108" width="702" height="18" font="5">following section we shall argue that head agreement may be considered problematic in</text>
+<text top="574" left="108" width="702" height="18" font="5">two particular respects. First, it is a structure-altering mechanism, and, as such, is</text>
+<text top="598" left="108" width="702" height="18" font="5">incompatible with a generally established principle of grammar. Second, if we choose to</text>
+<text top="622" left="108" width="702" height="18" font="5">sanction structural (i.e. headship) agreement as a manifestation of vowel harmony, then</text>
+<text top="645" left="108" width="702" height="18" font="5">it must exist in addition to, rather than in place of, the established analysis of vowel</text>
+<text top="669" left="108" width="702" height="18" font="5">assimilation as feature/element spreading. Under the assumption that a spreading</text>
+<text top="693" left="108" width="702" height="18" font="5">mechanism is still required in the description of, for example, rounding or palatal</text>
+<text top="717" left="108" width="701" height="18" font="5">harmony, we are then forced to recognize two independent ways — spreading and head</text>
+<text top="740" left="108" width="602" height="18" font="5">agreement — of representing what is essentially the same harmonic effect.</text>
+<text top="812" left="108" width="368" height="18" font="6"><b>4 Headship harmony: some disadvantages </b></text>
+<text top="859" left="108" width="229" height="18" font="6"><b>4.1 Structure Preservation</b></text>
+<text top="905" left="108" width="702" height="18" font="5">Recall the Maasai data in (5) above, where we showed how the vowel of a lexically non-</text>
+<text top="929" left="108" width="700" height="18" font="5">ATR morpheme is interpreted as an ATR expression when that morpheme falls within the</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">11</text>
+<text top="1045" left="130" width="632" height="15" font="0">See, for example, Charette (1991), Harris (1994a), Brockhaus (1995), and references therein.</text>
+<text top="1040" left="123" width="6" height="11" font="1">6</text>
+<text top="194" left="108" width="613" height="18" font="5">scope of a suffix that is lexically marked for ATR. The vowel of the verb root </text>
+<text top="189" left="721" width="89" height="26" font="10">pErr 'split',</text>
+<text top="220" left="108" width="177" height="18" font="5">specified lexically as </text>
+<text top="215" left="285" width="525" height="26" font="10">E, is interpreted as <b>e</b> under the harmony conditions prevailing in</text>
+<text top="246" left="108" width="702" height="18" font="5">(5d): thus, the melodic expression (A,I) shows up as (A,I). As we have already seen in §3,</text>
+<text top="270" left="108" width="702" height="18" font="5">it is via headship properties that Element Theory captures this tongue root distinction; and</text>
+<text top="294" left="108" width="702" height="18" font="5">consequently, it is proposed that head-dependent relations can be manipulated, or</text>
+<text top="318" left="108" width="702" height="18" font="6"><b>switched</b>, in order to account for harmonic alternation (see, for example, Charette and</text>
+<text top="342" left="108" width="702" height="18" font="5">Göksel 1994). We shall claim, however, that a mechanism which allows head status to be</text>
+<text top="365" left="108" width="702" height="18" font="5">created or dropped (due to suffixation) poses a potential obstacle to the established idea</text>
+<text top="389" left="108" width="253" height="18" font="5">of Structure Preservation (SP). </text>
+<text top="413" left="123" width="687" height="18" font="5">Although the term SP has been employed in the phonological literature for some</text>
+<text top="437" left="108" width="702" height="18" font="5">considerable time, theorists have been less than consistent with regard to a precise</text>
+<text top="460" left="108" width="702" height="18" font="5">definition of its status and function. The earliest reference to SP is found in Selkirk</text>
+<text top="484" left="108" width="702" height="18" font="5">(1982), where 'structure' specifically relates to syllable structure. Here, the central claim</text>
+<text top="508" left="108" width="702" height="18" font="5">is that syllabic configurations produced during derivation (via resyllabification rules) must</text>
+<text top="532" left="108" width="702" height="18" font="5">conform to the syllable template of the language in question. What is preserved, then, is</text>
+<text top="555" left="108" width="702" height="18" font="5">the set of lexically possible syllable types. Some time later, Kiparsky (1985) transfers a</text>
+<text top="579" left="108" width="702" height="18" font="5">similar conception of SP to melodic structure, where he proposes a ban on the creation</text>
+<text top="603" left="108" width="702" height="18" font="5">of segments which are unable to contrast lexically. That is, a melodic expression produced</text>
+<text top="627" left="108" width="702" height="18" font="5">during the course of derivation must already be a member of the language's segment</text>
+<text top="650" left="108" width="701" height="18" font="5">inventory. Once again, therefore, it is a particular set of lexical possibilities which must</text>
+<text top="674" left="108" width="116" height="18" font="5">remain intact. </text>
+<text top="698" left="123" width="687" height="18" font="5">In some representational models, the emphasis on preserving phonological structure has</text>
+<text top="722" left="108" width="702" height="18" font="5">been extended to include not only the individual units referred to at the lexical level, but</text>
+<text top="746" left="108" width="702" height="18" font="5">also the particular relations holding between those units. This position is perhaps most</text>
+<text top="769" left="108" width="702" height="18" font="5">strictly maintained in the Government-based literature  where, following the view</text>
+<text top="767" left="571" width="6" height="11" font="1">6</text>
+<text top="793" left="108" width="701" height="18" font="5">currently established within syntax, it is assumed that the licensing relations present at</text>
+<text top="817" left="108" width="703" height="18" font="5">derived levels of representation are necessarily the same as those given lexically. Harris</text>
+<text top="841" left="108" width="702" height="18" font="5">(1994a) offers a phonological instantiation of structure preservation which requires that</text>
+<text top="864" left="108" width="702" height="18" font="5">licensing conditions holding of lexical forms also hold of derived representations. As with</text>
+<text top="888" left="108" width="702" height="18" font="5">earlier formulations of SP, this has the effect of preventing a phonological process from</text>
+<text top="912" left="108" width="702" height="18" font="5">adding to a language's inventory of prosodic templates or patterns of melodic association</text>
+<text top="936" left="108" width="702" height="18" font="5">defined in the lexicon. On the other hand, Kaye <i>et al</i>. (1990) choose to develop the issue</text>
+<text top="959" left="108" width="701" height="18" font="5">of SP primarily in relation to prosodic structure — that is, in relation to those lexical</text>
+<text top="983" left="108" width="703" height="18" font="5">categories that are (potentially) projected. This is achieved by making a direct appeal to</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">12</text>
+<text top="948" left="130" width="681" height="15" font="0">This  requirement results from the Phonological Licensing Principle (Kaye 1990), which demands</text>
+<text top="943" left="123" width="6" height="11" font="1">7</text>
+<text top="968" left="108" width="626" height="15" font="0">that all phonological units, with the exception of the ultimate domain head, must be licensed.</text>
+<text top="1005" left="130" width="680" height="15" font="0">Proposed constraints on element licensing include <i>Nothing can license [I]</i> (for English), <i>Operators</i></text>
+<text top="1001" left="123" width="6" height="11" font="1">8</text>
+<text top="1025" left="108" width="702" height="15" font="8"><i>cannot be licensed</i> (for Zulu), <i>[I] cannot license operators</i> (for Turkish), and <i>[A] cannot be a head</i></text>
+<text top="1045" left="108" width="118" height="15" font="0">(cross-linguistic).</text>
+<text top="194" left="108" width="702" height="18" font="5">the representation of syntactic structure, and specifically, to the Projection Principle (see</text>
+<text top="218" left="108" width="702" height="18" font="5">Chomsky  1981, 1986). The latter requires that relational properties (e.g.</text>
+<text top="242" left="108" width="703" height="18" font="5">subcategorization) be 'projected' from the lexicon on to the derived structure, thus</text>
+<text top="265" left="108" width="702" height="18" font="5">ensuring that lexical structure is fully represented at every syntactic level. We observe the</text>
+<text top="289" left="108" width="703" height="18" font="5">effects of this projection in a number of ways. For instance, head-complement relations</text>
+<text top="313" left="108" width="702" height="18" font="5">established in the lexicon must be preserved throughout derivation — the</text>
+<text top="337" left="108" width="702" height="18" font="5">head/complement status of an object is immutable with respect to any dynamic structural</text>
+<text top="360" left="108" width="702" height="18" font="5">operations. From this, it follows that the categorial status of lexically specified</text>
+<text top="384" left="108" width="702" height="18" font="5">constituents must similarly remain fixed. So, if a position is projected from the lexicon</text>
+<text top="408" left="108" width="646" height="18" font="5">as a verb phrase, then it cannot lose this identity during the course of derivation.</text>
+<text top="432" left="123" width="687" height="18" font="5">As Kaye <i>et al</i>. (1990) demonstrate, there are clear advantages to be gained from</text>
+<text top="455" left="108" width="702" height="18" font="5">transferring the syntactic notion of lexical projection to the phonology. In a Government-</text>
+<text top="479" left="108" width="702" height="18" font="5">based approach, it is assumed that all prosodic units must participate in licensing relations</text>
+<text top="503" left="108" width="703" height="18" font="5">with each other,  and that such relations contribute to the well-formedness of lexical</text>
+<text top="501" left="243" width="6" height="11" font="1">7</text>
+<text top="527" left="108" width="701" height="18" font="5">objects. By allowing the Projection Principle to constrain phonological derivation (thus</text>
+<text top="550" left="108" width="702" height="18" font="5">ensuring that the licensing relations present in the lexicon are maintained at all levels), we</text>
+<text top="574" left="108" width="702" height="18" font="5">are able to make the (desirable) prediction that no resyllabification operations of any kind</text>
+<text top="598" left="108" width="702" height="18" font="5">will be permitted. This result is obtained if we assume that a timing unit which is</text>
+<text top="622" left="108" width="702" height="18" font="5">resyllabified must either undergo some change in its categorial status, or otherwise must</text>
+<text top="645" left="108" width="497" height="18" font="5">be involved in a change affecting prosodic licensing relations.</text>
+<text top="669" left="123" width="687" height="18" font="5">However, from the discussion in §3.3 it is evident that, like prosodic units, the melodic</text>
+<text top="693" left="108" width="702" height="18" font="5">elements, together with the relations holding between them, are also subject to certain</text>
+<text top="717" left="108" width="702" height="18" font="5">licensing conditions; this much is clear from the way in which (melodic) licensing</text>
+<text top="740" left="108" width="701" height="18" font="5">constraints are formulated and expressed within the model.  If we consider the notion of</text>
+<text top="738" left="575" width="6" height="11" font="1">8</text>
+<text top="764" left="108" width="702" height="18" font="5">licensing to be responsible for the well-formedness of both melodic and prosodic</text>
+<text top="788" left="108" width="702" height="18" font="5">structure, then it is reasonable to make the further assumption that the nature of licensing</text>
+<text top="812" left="108" width="702" height="18" font="5">relations ought to be determined, in both cases, by the same set of principles (some of</text>
+<text top="836" left="108" width="702" height="18" font="5">which are universal generalisations, others system-specific). In other words, the principles</text>
+<text top="859" left="108" width="702" height="18" font="5">of licensing should determine the grammaticality of structure <i>in general</i> — an assumption</text>
+<text top="883" left="108" width="702" height="18" font="5">that highlights the way in which the notion of licensing may be seen to unify the different</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">13</text>
+<text top="194" left="108" width="701" height="18" font="5">components of a phonological representation into a single coherent structure. On this</text>
+<text top="218" left="108" width="702" height="18" font="5">basis, we can assume that, for instance, the Phonological Licensing Principle (see footnote</text>
+<text top="242" left="108" width="701" height="18" font="5">7) refers to melodic elements as well as prosodic constituents, since both are to be seen</text>
+<text top="265" left="108" width="613" height="18" font="5">as phonological units that must be licensed within their respective domains. </text>
+<text top="289" left="123" width="687" height="18" font="5">Having  established this theoretical stance, let us return to the question of head</text>
+<text top="313" left="108" width="702" height="18" font="5">switching, by which tongue root harmony is achieved within the standard Element-based</text>
+<text top="337" left="108" width="441" height="18" font="5">model. Recall that a lexically headless object such as </text>
+<text top="331" left="549" width="261" height="26" font="10">E [A,I] may be interpreted as its</text>
+<text top="363" left="108" width="702" height="18" font="5">headed counterpart <b>e</b> [A,I] in the appropriate harmonic environment. Here, we claim that</text>
+<text top="387" left="108" width="342" height="18" font="5">a mechanism of the sort which can convert [</text>
+<text top="383" left="450" width="13" height="25" font="11">&#34;</text>
+<text top="387" left="463" width="54" height="18" font="5">] into [</text>
+<text top="383" left="517" width="13" height="25" font="11">&#34;</text>
+<text top="387" left="531" width="279" height="18" font="5">] must constitute a violation of SP,</text>
+<text top="411" left="108" width="702" height="18" font="5">in the sense that the lexically assigned head-dependent relations controlling the</text>
+<text top="434" left="108" width="702" height="18" font="5">organisation of melodic categories — and consequently, the licensing relations</text>
+<text top="458" left="108" width="702" height="18" font="5">responsible for determining headship status — are overridden during the course of</text>
+<text top="482" left="108" width="95" height="18" font="5">derivation. </text>
+<text top="506" left="123" width="687" height="18" font="5">What justification, then, do we have for endorsing such a switching operation (whether</text>
+<text top="530" left="108" width="701" height="18" font="5">lexical or phonological), when this move apparently reflects a change in the categorial</text>
+<text top="553" left="108" width="702" height="18" font="5">status of lexically specified constituents, and consequently, stands in violation of the</text>
+<text top="577" left="108" width="702" height="18" font="5">Projection Principle? For Element theorists, the answer lies in the claim that the</text>
+<text top="601" left="108" width="702" height="18" font="5">Projection Principle involves only the projection of <i>prosodic</i> categories from the lexicon,</text>
+<text top="625" left="108" width="702" height="18" font="5">thus placing melodic structure outside the scope of its influence. We argue, however, that</text>
+<text top="648" left="108" width="702" height="18" font="5">the constraining effects of the Projection Principle are not sufficiently restrictive. An</text>
+<text top="672" left="108" width="702" height="18" font="5">obvious inconsistency arises from the assumption that, while the notion of licensing is</text>
+<text top="696" left="108" width="702" height="18" font="5">equally applicable to both melodic and prosodic units, the preservation of licensing</text>
+<text top="720" left="108" width="702" height="18" font="5">relations is restricted exclusively to the prosodic structure. In response, we propose a</text>
+<text top="743" left="108" width="702" height="18" font="5">highly restrictive interpretation of SP which extends Kaye's implementation of the</text>
+<text top="767" left="108" width="551" height="18" font="5">Projection Principle to incorporate the entire phonological structure.</text>
+<text top="815" left="108" width="24" height="18" font="5">(7)</text>
+<text top="815" left="162" width="199" height="18" font="6"><b>Structure Preservation</b></text>
+<text top="839" left="162" width="602" height="18" font="5">Lexical head-complement relations must be retained throughout derivation</text>
+<text top="886" left="108" width="702" height="18" font="5">The condition in (7) effectively places a ban on any move which results in a change in the</text>
+<text top="910" left="108" width="702" height="18" font="5">relation between phonological units — where a relation may be one of government, or</text>
+<text top="934" left="108" width="702" height="18" font="5">dependency, or licensing, for example. This interpretation of SP also entails a ban on any</text>
+<text top="958" left="108" width="702" height="18" font="5">categorial change, whether 'category' refers to a syllabic constituent or to a melodic prime.</text>
+<text top="981" left="108" width="702" height="18" font="5">Hence, this immediately rules out any operation of head switching as a grammatical</text>
+<text top="1005" left="108" width="702" height="18" font="5">possibility. Thus, in the same way that, for example, a lexically specified onset position</text>
+<text top="1029" left="108" width="702" height="18" font="5">cannot be re-defined as a rhymal complement, we shall claim that a melodic object such</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="21" family="Times" color="#000000"/>
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">14</text>
+<text top="194" left="108" width="28" height="18" font="5">as [</text>
+<text top="190" left="136" width="13" height="25" font="11">&#34;</text>
+<text top="194" left="149" width="322" height="18" font="5">] cannot be interpreted as another object [</text>
+<text top="190" left="471" width="13" height="25" font="11">&#34;</text>
+<text top="194" left="485" width="325" height="18" font="5">], without falling foul of this very general</text>
+<text top="218" left="108" width="702" height="18" font="5">constraint on phonological derivation. While there appears to be little motivation for</text>
+<text top="242" left="108" width="702" height="18" font="5">ruling out the introduction of <i>additional </i>licensing relations during derivation, the reasons</text>
+<text top="265" left="108" width="701" height="18" font="5">for preserving lexically established relations (and consequently, the head or dependent</text>
+<text top="289" left="108" width="662" height="18" font="5">status of melodic primes) are compelling from the point of view of restrictiveness.</text>
+<text top="361" left="108" width="440" height="18" font="6"><b>4.2 A non-uniform analysis of harmonic agreement</b></text>
+<text top="407" left="108" width="703" height="18" font="5">Leaving aside the issue of SP violation, we encounter a further difficulty with respect to</text>
+<text top="431" left="108" width="702" height="18" font="5">head alignment and H-licensing when we consider the analysis of vowel harmony from</text>
+<text top="455" left="108" width="702" height="18" font="5">a rather more general perspective. In broad terms, we may view harmony as some kind</text>
+<text top="479" left="108" width="702" height="18" font="5">of agreement with respect to a melodic property across a wide domain. We shall claim,</text>
+<text top="503" left="108" width="702" height="18" font="5">therefore, that it is not unreasonable to expect all instances of harmony to be explained</text>
+<text top="526" left="108" width="702" height="18" font="5">in the same way, regardless of which particular melodic property happens to be active in</text>
+<text top="550" left="108" width="702" height="18" font="5">any given case. Such an outcome is especially appealing within the context of a restrictive</text>
+<text top="574" left="108" width="702" height="18" font="5">theory of representation, where the desire to minimize the number of possible process</text>
+<text top="598" left="108" width="702" height="18" font="5">types is given high priority. Ideally, then, cases of rounding or palatal harmony should be</text>
+<text top="621" left="108" width="702" height="18" font="5">captured in the same way as, for example, ATR or height harmony. By adopting a head</text>
+<text top="645" left="108" width="702" height="18" font="5">agreement analysis, however, we encounter difficulties with many instances of harmonic</text>
+<text top="669" left="108" width="515" height="18" font="5">alternation, as demonstrated by the Chamorro data given below.</text>
+<text top="693" left="123" width="686" height="18" font="5">The Philippine language Chamorro has a vowel fronting system (i.e. palatal harmony)</text>
+<text top="716" left="108" width="702" height="18" font="5">in which the following melodic changes occur in the first syllable of a root, when that root</text>
+<text top="740" left="108" width="233" height="18" font="5">is preceded by a front vowel.</text>
+<text top="788" left="108" width="24" height="18" font="5">(8)</text>
+<text top="788" left="162" width="21" height="18" font="6"><b>u</b>  </text>
+<text top="782" left="183" width="18" height="28" font="13">÷</text>
+<text top="788" left="201" width="16" height="18" font="5">  <b>i</b></text>
+<text top="812" left="162" width="20" height="18" font="6"><b>o</b>  </text>
+<text top="806" left="182" width="18" height="28" font="13">÷</text>
+<text top="812" left="200" width="19" height="18" font="5">  <b>e</b></text>
+<text top="836" left="162" width="20" height="18" font="6"><b>a</b>  </text>
+<text top="830" left="182" width="18" height="28" font="13">÷</text>
+<text top="836" left="200" width="10" height="18" font="5">  </text>
+<text top="831" left="210" width="15" height="26" font="10">{</text>
+<text top="886" left="108" width="702" height="18" font="5">The examples in (9) illustrate these vowel alternations (data is taken from Kenstowicz and</text>
+<text top="910" left="108" width="701" height="18" font="5">Kisseberth 1979). The nominal roots in (9a) are interpreted as the 'palatalized' forms in</text>
+<text top="934" left="108" width="452" height="18" font="5">(9b) when they follow the <b>i</b> vowel of the definite article.</text>
+<text top="982" left="108" width="24" height="18" font="5">(9)</text>
+<text top="982" left="162" width="14" height="18" font="5">a.</text>
+<text top="976" left="216" width="133" height="26" font="10">gum@      'house'</text>
+<text top="982" left="432" width="15" height="18" font="5">b.</text>
+<text top="982" left="486" width="5" height="18" font="5"> </text>
+<text top="976" left="491" width="57" height="26" font="10">i gim@</text>
+<text top="982" left="594" width="84" height="18" font="5">'the house'</text>
+<text top="1002" left="216" width="124" height="26" font="10">tomU      'knee'</text>
+<text top="1007" left="486" width="5" height="18" font="5"> </text>
+<text top="1002" left="491" width="57" height="26" font="10">i temU</text>
+<text top="1007" left="594" width="74" height="18" font="5">'the knee'</text>
+<text top="1027" left="216" width="125" height="26" font="10">lahI      'male'</text>
+<text top="1033" left="486" width="5" height="18" font="5"> </text>
+<text top="1027" left="491" width="51" height="26" font="10">i l{hI</text>
+<text top="1033" left="594" width="75" height="18" font="5">'the male'</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">15</text>
+<text top="194" left="108" width="702" height="18" font="5">Recall that, under a head alignment analysis, vowels are either headless, or they are all</text>
+<text top="218" left="108" width="702" height="18" font="5">headed by an element on the same tier (see the example shown in (6) and discussion in</text>
+<text top="242" left="108" width="509" height="18" font="5">§3.2 above). But whether we consider the alternating vowel of </text>
+<text top="236" left="616" width="194" height="26" font="10">gum@ to be headless, as</text>
+<text top="267" left="108" width="702" height="18" font="5">in (10a), or headed, as depicted in (10b), we are unable to derive the desired output form</text>
+<text top="291" left="108" width="221" height="18" font="5">in any straightforward way.</text>
+<text top="338" left="108" width="34" height="18" font="5">(10)</text>
+<text top="338" left="162" width="14" height="18" font="5">a.</text>
+<text top="333" left="216" width="49" height="26" font="10">gum@</text>
+<text top="333" left="486" width="71" height="26" font="10">i - gim@</text>
+<text top="364" left="162" width="15" height="18" font="5">   </text>
+<text top="555" left="162" width="15" height="18" font="5">b.</text>
+<text top="550" left="216" width="49" height="26" font="10">gum@</text>
+<text top="550" left="486" width="71" height="26" font="10">i - gim@</text>
+<text top="581" left="162" width="15" height="18" font="5">   </text>
+<text top="772" left="162" width="14" height="18" font="5">c.</text>
+<text top="766" left="216" width="75" height="26" font="10">i - gum@</text>
+<text top="766" left="486" width="70" height="26" font="10">i - gim@</text>
+<text top="797" left="162" width="15" height="18" font="5">   </text>
+<text top="965" left="108" width="702" height="18" font="5">In order to successfully capture the effects of palatal harmony, we would most likely be</text>
+<text top="989" left="108" width="702" height="18" font="5">forced to describe the sequence of events shown in (10c), where the delinking of [U] is</text>
+<text top="1012" left="108" width="701" height="18" font="5">followed by the spreading of the [I] element. An analysis of the same facts in terms of a</text>
+<text top="1036" left="108" width="702" height="18" font="5">mechanism akin to H-licensing proves equally inappropriate. The latter appears to have</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">16</text>
+<text top="1025" left="130" width="680" height="15" font="0">Presumably, this may be extended to include other harmony types, involving <i>rounding</i> and <i>nasal</i>,</text>
+<text top="1020" left="123" width="6" height="11" font="1">9</text>
+<text top="1045" left="108" width="83" height="15" font="0">for instance.</text>
+<text top="194" left="108" width="703" height="18" font="5">been formulated solely as a means of describing the kind of headship agreement found</text>
+<text top="218" left="108" width="702" height="18" font="5">in ATR harmony systems. While nothing prevents us from introducing an operation such</text>
+<text top="242" left="108" width="702" height="18" font="5">as I-licensing for describing palatal harmony, we suggest that this can exist only in</text>
+<text top="265" left="108" width="618" height="18" font="5">addition to, rather than in place of, a more conventional I-spreading account.</text>
+<text top="289" left="123" width="687" height="18" font="5">In the light of harmony systems such as Chamorro, we may return to the problem</text>
+<text top="313" left="108" width="702" height="18" font="5">alluded to above — namely, that we have two independent ways of representing the</text>
+<text top="337" left="108" width="702" height="18" font="5">propagation of a melodic property beyond its lexically given domain. On the one hand,</text>
+<text top="360" left="108" width="701" height="18" font="5">we must recognize the validity of a spreading account in the context of palatal harmony</text>
+<text top="384" left="108" width="702" height="18" font="5">cases,  and on the other, we must rely on some kind of alignment or head licensing for</text>
+<text top="382" left="158" width="6" height="11" font="1">9</text>
+<text top="408" left="108" width="702" height="18" font="5">tongue root systems. Yet the end result of these two mechanisms is essentially identical,</text>
+<text top="432" left="108" width="702" height="18" font="5">to the extent that a melodic property is uniformly present, or <b>active</b>, throughout a given</text>
+<text top="456" left="108" width="702" height="18" font="5">domain. In view of this functional overlap, we will now present an alternative means of</text>
+<text top="479" left="108" width="702" height="18" font="5">representing the specification of melodic properties which, we claim, will make some</text>
+<text top="503" left="108" width="551" height="18" font="5">advancement towards a uniform description of harmonic agreement.</text>
+<text top="575" left="108" width="285" height="18" font="6"><b>5 Harmony as element activation</b></text>
+<text top="622" left="108" width="140" height="18" font="6"><b>5.1 Introduction</b></text>
+<text top="669" left="108" width="701" height="18" font="5">Recall the strict interpretation of SP we offered in §4.1, which required that all aspects</text>
+<text top="693" left="108" width="702" height="18" font="5">of lexical structure be preserved throughout phonological derivation. While this position</text>
+<text top="716" left="108" width="702" height="18" font="5">allows for the possibility of structure-building operations such as the introduction of new</text>
+<text top="740" left="108" width="702" height="18" font="5">licensing relations, it places a ban on any move which fails to leave lexical information</text>
+<text top="764" left="108" width="701" height="18" font="5">intact. The latter effectively eliminates (i) all categorial changes, and (ii), any changes in</text>
+<text top="788" left="108" width="702" height="18" font="5">the licensing relations established in the lexicon. The changes grouped under (i) typically</text>
+<text top="811" left="108" width="702" height="18" font="5">involve the substitution of one representational object for another, whether 'object' refers</text>
+<text top="835" left="108" width="702" height="18" font="5">to a prosodic category such as a syllabic constituent, or to a melodic expression such as</text>
+<text top="859" left="108" width="702" height="18" font="5">[A]. In order to maintain such a stance, we are forced to introduce a number of</text>
+<text top="883" left="108" width="702" height="18" font="5">modifications to our basic view of melodic representation, particularly with regard to</text>
+<text top="906" left="108" width="702" height="18" font="5">headship distinctions. We show how this revised approach will permit us to accept the</text>
+<text top="930" left="108" width="701" height="18" font="5">fundamentals of head alignment, but without the potential problems associated with SP</text>
+<text top="954" left="108" width="81" height="18" font="5">violation. </text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">17</text>
+<text top="194" left="123" width="686" height="18" font="5">Our modified approach to melodic structure also assists in providing a unified account</text>
+<text top="218" left="108" width="702" height="18" font="5">of harmonic agreement, thus overcoming the 'functional overlap' described in §4.2 above.</text>
+<text top="242" left="108" width="702" height="18" font="5">We introduce the notion of element activation — a lexical instruction which specifies the</text>
+<text top="265" left="108" width="702" height="18" font="5">melodic material that may potentially be interpreted in the phonological string. Any</text>
+<text top="289" left="108" width="702" height="18" font="5">member of the element inventory may be selected as an activation target; and</text>
+<text top="313" left="108" width="702" height="18" font="5">furthermore, it is proposed that a means of identifying a specific domain of activation be</text>
+<text top="337" left="108" width="702" height="18" font="5">included as an integral part of the lexical instruction itself. We anticipate the mechanism</text>
+<text top="360" left="108" width="703" height="18" font="5">of element activation to be sufficiently flexible to encompass a range of phonological</text>
+<text top="384" left="108" width="701" height="18" font="5">events, including minimal lexical contrasts, cases of local assimilation, and harmonic</text>
+<text top="408" left="108" width="701" height="18" font="5">alternation in general. As an ultimate objective, elemental activation would effectively</text>
+<text top="432" left="108" width="703" height="18" font="5">dispense with the need to rely on spreading in the description of assimilatory, and other</text>
+<text top="455" left="108" width="702" height="18" font="5">phenomena. In the present discussion, however, our aims are rather more modest, and we</text>
+<text top="479" left="108" width="702" height="18" font="5">shall demonstrate the suitability of an activation approach to vowel harmony operating</text>
+<text top="503" left="108" width="139" height="18" font="5">at the word level.</text>
+<text top="551" left="108" width="189" height="18" font="6"><b>5.2 Melodic templates</b></text>
+<text top="598" left="108" width="613" height="18" font="5">We propose that the nine-vowel system of Maasai be represented as in (11):</text>
+<text top="645" left="108" width="34" height="18" font="5">(11)</text>
+<text top="883" left="162" width="31" height="18" font="5">     <b>i</b></text>
+<text top="883" left="216" width="29" height="18" font="6"><b>    e</b></text>
+<text top="883" left="270" width="26" height="18" font="6"><b>   u</b></text>
+<text top="883" left="324" width="25" height="18" font="6"><b>   o</b></text>
+<text top="883" left="432" width="10" height="18" font="6"><b>  </b></text>
+<text top="878" left="442" width="7" height="26" font="10">I</text>
+<text top="878" left="491" width="10" height="26" font="10">E</text>
+<text top="878" left="540" width="12" height="26" font="10">U</text>
+<text top="878" left="594" width="10" height="26" font="10">O</text>
+<text top="878" left="648" width="11" height="26" font="10">a</text>
+<text top="933" left="108" width="702" height="18" font="5">The structure shown in (11) departs from the standard autosegmental view of</text>
+<text top="957" left="108" width="702" height="18" font="5">representation in two respects. First, we claim that a full set of resonance elements is</text>
+<text top="981" left="108" width="701" height="18" font="5">present within each nuclear expression, which allows all the vowels of a language to be</text>
+<text top="1004" left="108" width="702" height="18" font="5">defined with reference to the same structural configuration. Under this assumption, we</text>
+<text top="1028" left="108" width="702" height="18" font="5">propose that melodic oppositions be expressed not in terms of the presence or absence of</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">18</text>
+<text top="194" left="108" width="702" height="18" font="5">particular elements, but via the <b>activation</b> of elements already resident in the structure.</text>
+<text top="218" left="108" width="702" height="18" font="5">The filled boxes in (11) show activated elements, while the shaded boxes indicate inactive</text>
+<text top="242" left="108" width="702" height="18" font="5">melodic material. Second, we introduce the notion of <b>tier complement</b>, which has the</text>
+<text top="266" left="108" width="703" height="18" font="5">effect of enhancing the acoustic image of its head element. In the context of the present</text>
+<text top="290" left="108" width="702" height="18" font="5">illustration, a tier complement contributes ATRness to the expression in which it is active.</text>
+<text top="314" left="123" width="687" height="18" font="5">As suggested in Backley (1995), we shall assume that the vocalic inventory of a</text>
+<text top="337" left="108" width="702" height="18" font="5">language is circumscribed by a parametrically defined configuration of melodic tiers. This</text>
+<text top="361" left="108" width="702" height="18" font="5">follows the idea of tier division/conflation developed in, for example, KLV (1985) and</text>
+<text top="385" left="108" width="702" height="18" font="5">Rennison (1987), whereby any elements residing on the same melodic tier are barred from</text>
+<text top="409" left="108" width="702" height="18" font="5">co-existing within a single expression. Thus, the widespread symmetrical five-vowel</text>
+<text top="432" left="108" width="702" height="18" font="5">system found in Spanish, for instance, must recognize a shared 'colour' tier comprising the</text>
+<text top="456" left="108" width="702" height="18" font="5">elements [I] and [U], together with an independent [A]- or 'aperture' tier. In this way,</text>
+<text top="480" left="108" width="702" height="18" font="5">three distinct vowel heights may be generated, while the presence of rounding in front</text>
+<text top="504" left="108" width="703" height="18" font="5">vowels is categorically ruled out. Turning to the inventory of Maasai, we find that an</text>
+<text top="527" left="108" width="702" height="18" font="5">identical set of conditions holds with respect to both height distinctions and the question</text>
+<text top="551" left="108" width="701" height="18" font="5">of front-rounding. Additionally, however, the Maasai system involves opposition along</text>
+<text top="575" left="108" width="702" height="18" font="5">another dimension, which we have described as tongue advancement or ATRness. We</text>
+<text top="599" left="108" width="702" height="18" font="5">have already seen how the standard Element-based model employs headship properties</text>
+<text top="622" left="108" width="702" height="18" font="5">to encode these tongue root contrasts. We have also discussed some of the shortcomings</text>
+<text top="646" left="108" width="702" height="18" font="5">associated with such an approach, especially with regard to the issue of head switching</text>
+<text top="670" left="108" width="289" height="18" font="5">as a non-structure-preserving event.</text>
+<text top="694" left="123" width="687" height="18" font="5">We argue that, by reconfiguring the headed/headless distinction in a structurally</text>
+<text top="717" left="108" width="702" height="18" font="5">dynamic way — namely, via the postulation of a colour tier complement — the problems</text>
+<text top="741" left="108" width="703" height="18" font="5">arising from head switching may be successfully overcome. Our proposal motivates the</text>
+<text top="765" left="108" width="702" height="18" font="5">representation in (11) for systems like Maasai, where a tier complement (contributing</text>
+<text top="789" left="108" width="702" height="18" font="5">ATRness in non-low vowels) is superimposed on to a basic 5-vowel configuration to yield</text>
+<text top="812" left="108" width="702" height="18" font="5">a structure consisting of three distinct melodic tiers: the colour tier, its complement, and</text>
+<text top="836" left="108" width="702" height="18" font="5">an aperture tier. As already mentioned, the phonetic effects of an active complement are</text>
+<text top="860" left="108" width="702" height="18" font="5">such that the acoustic properties of its head become enhanced. This, of course, directly</text>
+<text top="884" left="108" width="702" height="18" font="5">parallels the way that the more traditional notion of headship status affects the</text>
+<text top="908" left="108" width="702" height="18" font="5">interpretation of an expression: if we compare [I,A] with its headless counterpart [I,A],</text>
+<text top="931" left="108" width="702" height="18" font="5">we find headedness translating into the relative salience of the expression's colour</text>
+<text top="955" left="108" width="702" height="18" font="5">property, palatality. As far as interpretation is concerned, then, it seems that the</text>
+<text top="979" left="108" width="702" height="18" font="5">phonological opposition encoded in (12a) is all but identical to that given in (12b) — in</text>
+<text top="1003" left="108" width="702" height="18" font="5">other words, that the concept of tier complement is, in fact, merely a notational variant</text>
+<text top="1026" left="108" width="313" height="18" font="5">of the established headship distinction.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="14" family="Courier" color="#000000"/>
+	<fontspec id="15" size="20" family="Courier" color="#000000"/>
+	<fontspec id="16" size="17" family="Times" color="#000000"/>
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">19</text>
+<text top="194" left="108" width="34" height="18" font="5">(12)</text>
+<text top="194" left="162" width="14" height="18" font="5">a.</text>
+<text top="198" left="216" width="63" height="12" font="14"> [comp]</text>
+<text top="198" left="324" width="63" height="12" font="14"> [    ]</text>
+<text top="194" left="486" width="15" height="18" font="5">b.</text>
+<text top="216" left="216" width="37" height="16" font="15">  /</text>
+<text top="216" left="324" width="37" height="16" font="15">  /</text>
+<text top="238" left="216" width="37" height="16" font="15">[I]</text>
+<text top="238" left="324" width="37" height="16" font="15">[I]</text>
+<text top="238" left="540" width="37" height="16" font="15">[I]</text>
+<text top="238" left="648" width="37" height="16" font="15">[I]</text>
+<text top="260" left="216" width="12" height="16" font="15"> </text>
+<text top="255" left="228" width="12" height="23" font="16">*</text>
+<text top="260" left="324" width="12" height="16" font="15"> </text>
+<text top="255" left="336" width="12" height="23" font="16">*</text>
+<text top="260" left="540" width="12" height="16" font="15"> </text>
+<text top="255" left="552" width="12" height="23" font="16">*</text>
+<text top="260" left="648" width="12" height="16" font="15"> </text>
+<text top="255" left="660" width="12" height="23" font="16">*</text>
+<text top="281" left="216" width="37" height="16" font="15">[A]</text>
+<text top="281" left="324" width="37" height="16" font="15">[A]</text>
+<text top="281" left="540" width="37" height="16" font="15">[A]</text>
+<text top="281" left="648" width="37" height="16" font="15">[A]</text>
+<text top="320" left="227" width="10" height="26" font="10">e</text>
+<text top="320" left="335" width="10" height="26" font="10">E</text>
+<text top="320" left="551" width="10" height="26" font="10">e</text>
+<text top="320" left="659" width="10" height="26" font="10">E</text>
+<text top="375" left="108" width="703" height="18" font="5">We aim to demonstrate, however, that there are significant benefits to be gained from</text>
+<text top="399" left="108" width="702" height="18" font="5">adopting the structure in (12a), these advantages becoming apparent when the idea of tier</text>
+<text top="423" left="108" width="702" height="18" font="5">complement is taken up in conjunction with the notion of element activation, to be</text>
+<text top="447" left="108" width="202" height="18" font="5">described in §5.3 below. </text>
+<text top="470" left="123" width="687" height="18" font="5">It is important to note that the addition of, say, an [I-comp] to a melodic expression</text>
+<text top="494" left="108" width="702" height="18" font="5">does not constitute any increase in the <i>number of tokens </i>of the [I] element present in the</text>
+<text top="518" left="108" width="702" height="18" font="5">structure. In other words, a [comp] does not imply the operation of any kind of element</text>
+<text top="542" left="108" width="702" height="18" font="5">stacking  system, akin to that assumed in the standard Particle Phonology approach</text>
+<text top="566" left="108" width="702" height="18" font="5">(Schane 1984, 1995). In the latter, a potentially unrestricted number of tokens of any</text>
+<text top="589" left="108" width="702" height="18" font="5">given prime could be employed in order to generate a potentially unlimited set of</text>
+<text top="613" left="108" width="702" height="18" font="5">phonological contrasts. In theory, a grammar could therefore support the unlikely</text>
+<text top="637" left="108" width="703" height="18" font="5">opposition between the expressions (IIIA) and (IIIIA), where the additional token of [I]</text>
+<text top="661" left="108" width="702" height="18" font="5">in the second structure is intended to contribute to the greater salience of palatality</text>
+<text top="684" left="108" width="209" height="18" font="5">inherent in that structure. </text>
+<text top="708" left="123" width="687" height="18" font="5">In contrast, the proposed notion of tier complement closely reflects the</text>
+<text top="732" left="108" width="702" height="18" font="5">head/complement relation as it is motivated and employed elsewhere in the phonology</text>
+<text top="756" left="108" width="701" height="18" font="5">(i.e. in prosodic structure) — and indeed, elsewhere in the grammar. For example, it is</text>
+<text top="779" left="108" width="702" height="18" font="5">maximally binary; thus, in the same way that a nuclear head may license, at most, a single</text>
+<text top="803" left="108" width="702" height="18" font="5">complement position, a melodic prime such as [I] is similarly restricted to one</text>
+<text top="827" left="108" width="702" height="18" font="5">complement. Furthermore, following the way in which a nuclear complement is dependent</text>
+<text top="851" left="108" width="702" height="18" font="5">on the presence of a non-empty head position, we assume that an [I]-comp cannot be</text>
+<text top="874" left="108" width="702" height="18" font="5">activated unless its head element is also active. This serves to highlight the asymmetric</text>
+<text top="898" left="108" width="702" height="18" font="5">dependency which necessarily holds between a head [I] and its complement. There is</text>
+<text top="922" left="108" width="702" height="18" font="5">ample justification, therefore, for treating a tier complement not as an additional token of</text>
+<text top="946" left="108" width="702" height="18" font="5">an element, but rather, as a controlled means of expanding the phonological properties of</text>
+<text top="969" left="108" width="702" height="18" font="5">its lexically specified head. By exploiting the established head-dependent relation in this</text>
+<text top="993" left="108" width="703" height="18" font="5">way, we bypass the need to stipulate any (binary) upper limit on the number of tokens of</text>
+<text top="1017" left="108" width="337" height="18" font="5">any element present within an expression.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">20</text>
+<text top="194" left="123" width="687" height="18" font="5">Let us return to some of the assumptions that have been made above. First, we began</text>
+<text top="218" left="108" width="702" height="18" font="5">by assuming a full set of vocalic elements to be present under each nuclear position in the</text>
+<text top="242" left="108" width="703" height="18" font="5">phonological string. Second, we have assumed the validity of a sub-segmental melodic</text>
+<text top="265" left="108" width="702" height="18" font="5">geometry, which predicts the range of vowel contrasts that is exploited within any one</text>
+<text top="289" left="108" width="701" height="18" font="5">system (such as the colour vs. aperture split which characterizes the canonical 5-vowel</text>
+<text top="313" left="108" width="702" height="18" font="5">system). On the basis of these two claims, we are able to recognize a particular structural</text>
+<text top="337" left="108" width="702" height="18" font="5">configuration, or melodic template, such as the one shown in (13) for the vowel system</text>
+<text top="360" left="108" width="702" height="18" font="5">of Maasai. From this template we may derive the full set of vowel oppositions of the</text>
+<text top="384" left="108" width="171" height="18" font="5">language in question.</text>
+<text top="432" left="108" width="34" height="18" font="5">(13)</text>
+<text top="669" left="123" width="687" height="18" font="5">If an element template, such as that given in (13), contains a full set of elements and</text>
+<text top="693" left="108" width="702" height="18" font="5">resides under each nuclear slot, then it is clear that the conventional approach to melodic</text>
+<text top="717" left="108" width="702" height="18" font="5">opposition — which relies on the presence vs. the absence of an element — is no longer</text>
+<text top="740" left="108" width="702" height="18" font="5">appropriate for the purposes of representational distinction. Instead, the ubiquitous</text>
+<text top="764" left="108" width="702" height="18" font="5">presence of a prime forces us to investigate an alternative means of encoding lexical</text>
+<text top="788" left="108" width="702" height="18" font="5">contrast, which we shall express in terms of element activation. This is described below.</text>
+<text top="860" left="108" width="193" height="18" font="6"><b>5.3 Element activation</b></text>
+<text top="906" left="108" width="702" height="18" font="5">As already indicated, we shall claim that an element contributes to the overall</text>
+<text top="930" left="108" width="703" height="18" font="5">interpretation of an expression only if that element has been activated; inactive elements</text>
+<text top="954" left="108" width="701" height="18" font="5">fail to be interpreted, and are therefore only latently present in the structure (the shaded</text>
+<text top="978" left="108" width="702" height="18" font="5">boxes in (11) represent inactive elements). By what means, then, does an element become</text>
+<text top="1001" left="108" width="703" height="18" font="5">active? We propose that activation is essentially a lexical instruction. Thus, the melodic</text>
+<text top="1025" left="108" width="702" height="18" font="5">properties of a morpheme (which are, of course, idiosyncratic) are specified in terms of</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="17" size="15" family="Times" color="#000000"/>
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">21</text>
+<text top="194" left="108" width="702" height="18" font="5">a series of activation 'operations' occurring at different points throughout the length of the</text>
+<text top="218" left="108" width="702" height="18" font="5">phonological string. So, the vowel in the English word <i>foot</i> is represented in the lexicon</text>
+<text top="242" left="108" width="228" height="18" font="5">by the single instruction <b>A</b></text>
+<text top="245" left="335" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="242" left="414" width="396" height="18" font="6"><b>[U]</b>. On the other hand, a melodically complex</text>
+<text top="266" left="108" width="702" height="18" font="5">expression, such as a front mid vowel, is encoded lexically by means of (at least) two</text>
+<text top="290" left="108" width="341" height="18" font="5">simultaneous activation instructions — <b>A</b></text>
+<text top="293" left="449" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="290" left="526" width="78" height="18" font="6"><b>[I]</b> and <b>A</b></text>
+<text top="293" left="603" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="290" left="680" width="130" height="18" font="6"><b>[A]</b>. Note that a</text>
+<text top="314" left="108" width="147" height="18" font="5">third instruction, <b>A</b></text>
+<text top="317" left="255" width="74" height="14" font="17"><b>CTIVATE </b></text>
+<text top="314" left="329" width="7" height="18" font="6"><b>[</b></text>
+<text top="317" left="335" width="48" height="14" font="17"><b>COMP</b></text>
+<text top="314" left="384" width="426" height="18" font="6"><b>]</b>, may also be involved (see (12a) above), depending</text>
+<text top="338" left="108" width="422" height="18" font="5">on the melodic template of the language in question.</text>
+<text top="361" left="123" width="687" height="18" font="5">Returning to the representation of Maasai vowels given in (11), we find that the two</text>
+<text top="385" left="108" width="701" height="18" font="5">harmonic sets, ATR and non-ATR, are structurally distinct — they are identified by an</text>
+<text top="409" left="108" width="702" height="18" font="5">active [comp] and an inactive [comp], respectively. Accordingly, we expect the lexical</text>
+<text top="433" left="108" width="215" height="18" font="5">specification of the vowel </text>
+<text top="428" left="323" width="345" height="26" font="10">i, for example, to contain the instruction <b>A</b></text>
+<text top="436" left="667" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="433" left="743" width="7" height="18" font="6"><b>[</b></text>
+<text top="436" left="750" width="48" height="14" font="17"><b>COMP</b></text>
+<text top="433" left="798" width="12" height="18" font="6"><b>]</b>,</text>
+<text top="459" left="108" width="461" height="18" font="5">which is lacking in this vowel's non-ATR counterpart </text>
+<text top="454" left="569" width="241" height="26" font="10">I. However, we have already</text>
+<text top="486" left="108" width="702" height="18" font="5">remarked on a particular feature of the ATR property in Maasai, such that, whenever it</text>
+<text top="509" left="108" width="702" height="18" font="5">is present in a morpheme, its melodic properties are extended to encompass the remaining</text>
+<text top="533" left="108" width="702" height="18" font="5">vocalic expressions within the same word domain too. In other words, the language</text>
+<text top="557" left="108" width="702" height="18" font="5">exhibits dominant ATR harmony. We suggest that this harmonic behaviour may be</text>
+<text top="581" left="108" width="368" height="18" font="5">formalised by referring to the same operation <b>A</b></text>
+<text top="584" left="476" width="73" height="14" font="17"><b>CTIVATE </b></text>
+<text top="581" left="548" width="7" height="18" font="6"><b>[</b></text>
+<text top="584" left="555" width="47" height="14" font="17"><b>COMP</b></text>
+<text top="581" left="602" width="208" height="18" font="6"><b>]</b>, but by ruling that, in the</text>
+<text top="605" left="108" width="702" height="18" font="5">case of Maasai and similar harmony systems, this instruction be specified at the level of</text>
+<text top="629" left="108" width="702" height="18" font="5">the prosodic word. Indeed, we claim that it is this word-level activation of [comp] which</text>
+<text top="652" left="108" width="419" height="18" font="5">gives Maasai its particular harmonic characteristics.</text>
+<text top="676" left="123" width="687" height="18" font="5">In the light of our proposal, let us consider some examples of root-controlled harmony</text>
+<text top="700" left="108" width="132" height="18" font="5">in this language.</text>
+<text top="748" left="108" width="34" height="18" font="5">(14)</text>
+<text top="748" left="162" width="277" height="18" font="6"><b>Focus: root-controlled harmony</b></text>
+<text top="771" left="162" width="14" height="18" font="5">a.</text>
+<text top="771" left="216" width="78" height="18" font="5">kI-ñorr-U</text>
+<text top="771" left="432" width="59" height="18" font="5">kiñorru</text>
+<text top="795" left="216" width="165" height="18" font="5">1pl-<i>love</i>-extra future</text>
+<text top="795" left="431" width="113" height="18" font="5">'we shall love'</text>
+<text top="819" left="162" width="15" height="18" font="5">b.</text>
+<text top="819" left="216" width="83" height="18" font="5">kI-IdIm-U</text>
+<text top="814" left="432" width="63" height="26" font="10">kIdImU</text>
+<text top="845" left="216" width="191" height="18" font="5">1pl-<i>be able</i>-extra future</text>
+<text top="845" left="431" width="136" height="18" font="5">'we shall be able'</text>
+<text top="892" left="108" width="702" height="18" font="5">As illustrated in (15a) and (15b), the affixes <i>kI-</i> (1pl prefix) and <i>-U</i> (extra future suffix)</text>
+<text top="916" left="108" width="702" height="18" font="5">contain a tier complement that is inactive. This is encoded lexically in terms of the</text>
+<text top="940" left="108" width="139" height="18" font="5">absence of any <b>A</b></text>
+<text top="943" left="247" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="940" left="323" width="7" height="18" font="6"><b>[</b></text>
+<text top="943" left="330" width="48" height="14" font="17"><b>COMP</b></text>
+<text top="940" left="378" width="108" height="18" font="6"><b>]</b> instruction. </text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">22</text>
+<text top="194" left="108" width="34" height="18" font="5">(15)</text>
+<text top="194" left="162" width="103" height="18" font="5">a.  1pl prefix</text>
+<text top="194" left="432" width="172" height="18" font="5">b.  extra future suffix</text>
+<text top="409" left="162" width="24" height="18" font="5">c.  </text>
+<text top="404" left="186" width="85" height="26" font="10">kI-IdIm-U</text>
+<text top="630" left="162" width="97" height="18" font="5">d.  ki-ñorr-u</text>
+<text top="850" left="108" width="702" height="18" font="5">However, when these forms are attached to an ATR root in the formation of a prosodic</text>
+<text top="874" left="108" width="702" height="18" font="5">word, the tier complements of the affix vowels are activated, due to the presence of an</text>
+<text top="898" left="108" width="702" height="18" font="5">active [comp] in the verb root. (More specifically, it is the <i>word-level</i> instruction to</text>
+<text top="922" left="108" width="660" height="18" font="5">activate tier complements which brings about the harmonic agreement observed). </text>
+<text top="945" left="123" width="687" height="18" font="5">As demonstrated by the representations in (15c) and (15d), wide-scope activation (i.e.</text>
+<text top="969" left="108" width="702" height="18" font="5">affecting a domain larger than that defined by a single nucleus) gives rise to the kind of</text>
+<text top="993" left="108" width="702" height="18" font="5">agreement which has already been characterised in §3.2 as <b>alignment</b>. Following Harris</text>
+<text top="1017" left="108" width="702" height="18" font="5">and Lindsey (1995), we maintain that this notion plays an important role in the formal</text>
+<text top="1041" left="108" width="702" height="18" font="5">definition of harmony. But rather than opting for the alignment of headship status, we see</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">23</text>
+<text top="194" left="108" width="702" height="18" font="5">this form of structural agreement as one which requires all (or otherwise, none) of the</text>
+<text top="218" left="108" width="702" height="18" font="5">elements on a particular tier to be active throughout a given domain. In this way, we are</text>
+<text top="242" left="108" width="702" height="18" font="5">able to generalise our description of harmony by referring only to the notion of activation.</text>
+<text top="289" left="108" width="34" height="18" font="5">(16)</text>
+<text top="289" left="162" width="15" height="18" font="6"><b>A</b></text>
+<text top="292" left="176" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="289" left="252" width="6" height="18" font="6"><b>'</b></text>
+<text top="285" left="258" width="13" height="25" font="11">&#34;</text>
+<text top="285" left="258" width="13" height="25" font="11">&#34;</text>
+<text top="289" left="272" width="6" height="18" font="6"><b>'</b></text>
+<text top="346" left="260" width="155" height="18" font="5">   Type of harmony</text>
+<text top="346" left="495" width="137" height="18" font="5">Alignment target</text>
+<text top="383" left="260" width="145" height="18" font="5">   palatal harmony</text>
+<text top="383" left="553" width="21" height="18" font="5">[I]</text>
+<text top="420" left="260" width="164" height="18" font="5">   rounding harmony</text>
+<text top="420" left="549" width="28" height="18" font="5">[U]</text>
+<text top="457" left="260" width="133" height="18" font="5">   nasal harmony</text>
+<text top="457" left="549" width="28" height="18" font="5">[N]</text>
+<text top="494" left="260" width="142" height="18" font="5">   height harmony</text>
+<text top="494" left="550" width="28" height="18" font="5">[A]</text>
+<text top="531" left="260" width="184" height="18" font="5">   tongue root harmony</text>
+<text top="531" left="534" width="58" height="18" font="5">[comp]</text>
+<text top="607" left="108" width="702" height="18" font="5">Our proposals, then, are supported by the claim that element activation is applicable to</text>
+<text top="631" left="108" width="702" height="18" font="5">any type of harmony — thus dispensing with the apparent 'functional overlap' which we</text>
+<text top="654" left="108" width="201" height="18" font="5">described in §4.2 above. </text>
+<text top="678" left="123" width="687" height="18" font="5">Our example language Maasai has been analysed as one which features a dominant</text>
+<text top="702" left="108" width="701" height="18" font="5">ATR harmony system. Having considered the effects of root-controlled harmony, let us</text>
+<text top="726" left="108" width="702" height="18" font="5">briefly return to the case of suffix-induced harmony cited earlier. The data in (5) are</text>
+<text top="749" left="108" width="114" height="18" font="5">repeated here.</text>
+<text top="797" left="108" width="34" height="18" font="5">(17)</text>
+<text top="797" left="162" width="270" height="18" font="6"><b>Focus: suffix-induced harmony</b></text>
+<text top="821" left="162" width="14" height="18" font="5">a.</text>
+<text top="821" left="216" width="118" height="18" font="5">aa-I-pErr-ie-kI</text>
+<text top="821" left="486" width="86" height="18" font="5">aaiperrieki</text>
+<text top="845" left="216" width="250" height="18" font="5">1s-classII-<i>split</i>-applied-passive</text>
+<text top="845" left="486" width="218" height="18" font="5">'I was split with something'</text>
+<text top="869" left="162" width="15" height="18" font="5">b.</text>
+<text top="869" left="216" width="70" height="18" font="5">A-I-pErr</text>
+<text top="863" left="486" width="53" height="26" font="10">aIpErr</text>
+<text top="894" left="216" width="174" height="18" font="5">infinitive-classII-<i>split</i></text>
+<text top="894" left="486" width="62" height="18" font="5">'to split'</text>
+<text top="942" left="108" width="702" height="18" font="5">The example in (17a) involves two suffixes: in <i>-ie</i> (applied) the colour tier complement</text>
+<text top="965" left="108" width="702" height="18" font="5">is lexically active, while in <i>-kI</i> (passive) it is inactive. When both suffixes are attached to</text>
+<text top="989" left="108" width="703" height="18" font="5">a non-ATR root, all tier complements, regardless of their lexical specification, are</text>
+<text top="1013" left="108" width="701" height="18" font="5">activated throughout the extended prosodic word domain. This effect comes about as a</text>
+<text top="1037" left="108" width="702" height="18" font="5">result of the same requirement that was stated above with respect to the case of root-to-</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">24</text>
+<text top="194" left="108" width="390" height="18" font="5">suffix harmony — namely, that the instruction <b>A</b></text>
+<text top="197" left="498" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="194" left="573" width="7" height="18" font="6"><b>[</b></text>
+<text top="197" left="580" width="48" height="14" font="17"><b>COMP</b></text>
+<text top="194" left="629" width="182" height="18" font="6"><b>]</b>, which contributes to</text>
+<text top="218" left="108" width="702" height="18" font="5">the lexical representation of the form <i>-ie</i>, is specified at the word level, and thus, affects</text>
+<text top="242" left="108" width="703" height="18" font="5">all the nuclear expressions occurring within the scope of that domain. If no inherently</text>
+<text top="266" left="108" width="694" height="18" font="5">ATR suffixes follow a root such as <i>pErr</i> 'split', then tier complements remain inactive.</text>
+<text top="313" left="108" width="34" height="18" font="5">(18)</text>
+<text top="313" left="162" width="14" height="18" font="5">a.</text>
+<text top="313" left="216" width="111" height="18" font="5">applied suffix</text>
+<text top="313" left="486" width="15" height="18" font="5">b.</text>
+<text top="313" left="540" width="111" height="18" font="5">passive suffix</text>
+<text top="533" left="162" width="14" height="18" font="5">c.</text>
+<text top="533" left="216" width="112" height="18" font="5">aa-i-perr-ie-ki</text>
+<text top="581" left="162" width="30" height="18" font="5">      </text>
+<text top="754" left="162" width="15" height="18" font="5">d.</text>
+<text top="748" left="216" width="68" height="26" font="10">a-I-pErr</text>
+<text top="803" left="123" width="20" height="18" font="5">    </text>
+<text top="976" left="108" width="702" height="18" font="5">The lexical forms of the two suffixes — one ATR, the other non-ATR — may be</text>
+<text top="1000" left="108" width="702" height="18" font="5">compared in (18a) and (18b). Then, the harmonic effects within the prosodic word</text>
+<text top="1023" left="108" width="702" height="18" font="5">domain are illustrated. The structure in (18c) shows how alignment along the tier</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">25</text>
+<text top="948" left="137" width="674" height="15" font="0">At this preliminary stage, we cannot categorically rule out the need for a lexical operation which</text>
+<text top="943" left="123" width="12" height="11" font="1">10</text>
+<text top="968" left="108" width="702" height="15" font="8"><i>de</i>activates melodic material (the case of metaphony found in certain dialects of Italian may be an</text>
+<text top="987" left="108" width="702" height="15" font="0">appropriate instance — see Calabrese 1984). However, we predict that most apparent examples of</text>
+<text top="1007" left="108" width="475" height="15" font="0">deactivation will be accountable for in terms of prosodic conditioning.</text>
+<text top="1045" left="136" width="381" height="15" font="0">See, for example, Stewart (1967) and Clements (1981). </text>
+<text top="1040" left="123" width="12" height="11" font="1">11</text>
+<text top="194" left="108" width="702" height="18" font="5">complement results from the word-level activation of [comp], yielding so-called ATR</text>
+<text top="218" left="108" width="89" height="18" font="5">agreement.</text>
+<text top="242" left="123" width="687" height="18" font="5">In this account of Maasai harmony we have been able to describe the facts without</text>
+<text top="265" left="108" width="702" height="18" font="5">referring to any head switching operation of the kind that is required under a head</text>
+<text top="289" left="108" width="702" height="18" font="5">agreement analysis. Since the flipping of head/licensee status is never observed in</text>
+<text top="313" left="108" width="702" height="18" font="5">prosodic structure, we maintain that it should similarly be ruled out at the melodic level.</text>
+<text top="337" left="108" width="702" height="18" font="5">To this end, we have attempted to model the acquisition of headedness in terms of the</text>
+<text top="360" left="108" width="702" height="18" font="5">alignment of tier complements, which is specified lexically as a word-level activation</text>
+<text top="384" left="108" width="702" height="18" font="5">instruction. In this way, lexical head-complement relations are retained throughout</text>
+<text top="408" left="108" width="702" height="18" font="5">derivation, and no new structure need be introduced which was not already present in the</text>
+<text top="432" left="108" width="702" height="18" font="5">lexicon (since a full melodic template is assumed at all stages). In short, our proposals</text>
+<text top="455" left="108" width="702" height="18" font="5">allow us to maintain a highly restrictive interpretation of Structure Preservation, as set out</text>
+<text top="479" left="108" width="702" height="18" font="5">in (7) above. We claim that this, together with the benefits to be gained from a unified</text>
+<text top="503" left="108" width="701" height="18" font="5">approach to harmonic description, which was summarized in (16), supports the</text>
+<text top="527" left="108" width="702" height="18" font="5">postulation of activation as a feasible alternative to current analyses which employ</text>
+<text top="550" left="108" width="588" height="18" font="5">structural operations such as spreading, head alignment, and H-licensing.</text>
+<text top="548" left="697" width="12" height="11" font="1">10</text>
+<text top="574" left="123" width="688" height="18" font="5">To finish, we outline a modified approach to the well-documented facts concerning</text>
+<text top="598" left="108" width="248" height="18" font="5">harmonic phenomena in Akan.</text>
+<text top="670" left="108" width="215" height="18" font="6"><b>6 ATR harmony in Akan</b></text>
+<text top="716" left="108" width="702" height="18" font="5">For many years, the West African language Akan has been employed as a favoured source</text>
+<text top="740" left="108" width="702" height="18" font="5">of data for studies into the mechanisms underlying tongue root harmony.  We shall</text>
+<text top="738" left="718" width="12" height="11" font="1">11</text>
+<text top="764" left="108" width="702" height="18" font="5">assume that an approach in terms of element activation and alignment will account for the</text>
+<text top="788" left="108" width="702" height="18" font="5">basic distributional facts and harmonic alternations, and that such an account would</text>
+<text top="811" left="108" width="702" height="18" font="5">largely duplicate the analysis of ATR harmony already given in the case of Maasai above.</text>
+<text top="835" left="108" width="701" height="18" font="5">For this reason, we set aside any discussion of these regular harmonic patterns, and</text>
+<text top="859" left="108" width="701" height="18" font="5">instead, focus our attention on another feature of the Akan harmony system, the opaque</text>
+<text top="883" left="108" width="203" height="18" font="5">behaviour of low vowels.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">26</text>
+<text top="194" left="108" width="34" height="18" font="5">(19)</text>
+<text top="194" left="162" width="214" height="18" font="6"><b>Focus: low vowel opacity</b></text>
+<text top="218" left="162" width="14" height="18" font="5">a.</text>
+<text top="213" left="216" width="68" height="26" font="10">o-bisa-I</text>
+<text top="218" left="324" width="76" height="18" font="5">'he asked'</text>
+<text top="218" left="486" width="84" height="18" font="5">(*o-bisa-i)</text>
+<text top="244" left="162" width="15" height="18" font="5">b.</text>
+<text top="238" left="216" width="68" height="26" font="10">wa-k3ri</text>
+<text top="244" left="324" width="179" height="18" font="5">'he has weighed it' (*</text>
+<text top="238" left="503" width="74" height="26" font="10">w3-k3ri)</text>
+<text top="293" left="108" width="702" height="18" font="5">This language employs a vowel inventory that is similar to that of Maasai (the latter is</text>
+<text top="317" left="108" width="702" height="18" font="5">fully illustrated in (11) above). The vowel set of Akan differs from (11) only with respect</text>
+<text top="341" left="108" width="410" height="18" font="5">to the inclusion of a tenth vowel, transcribed here as </text>
+<text top="335" left="519" width="291" height="26" font="10">3, the distribution of which suggests</text>
+<text top="367" left="108" width="702" height="18" font="5">that it be identified as the ATR counterpart of the low vowel <b>a</b>. The non-ATR low vowel</text>
+<text top="391" left="108" width="150" height="18" font="6"><b>a</b> is interpreted as </text>
+<text top="386" left="258" width="552" height="26" font="10">3 when the following two conditions are met: (i) it is not morpheme-</text>
+<text top="418" left="108" width="472" height="18" font="5">final, and (ii), it is immediately followed by an ATR span. </text>
+<text top="441" left="123" width="688" height="18" font="5">A particular feature of the low vowel in Akan is it that blocks the progression of ATR</text>
+<text top="465" left="108" width="702" height="18" font="5">agreement across a domain, as shown in (19a). In the context of our proposed model, this</text>
+<text top="489" left="108" width="277" height="18" font="5">example is represented as follows:</text>
+<text top="536" left="108" width="34" height="18" font="5">(20)</text>
+<text top="531" left="162" width="68" height="26" font="10">o-bisa-I</text>
+<text top="758" left="108" width="702" height="18" font="5">In order to account for the incomplete alignment — that is, the low vowel opacity —</text>
+<text top="782" left="108" width="702" height="18" font="5">observed in this configuration, let us consider the representation itself for a possible</text>
+<text top="806" left="108" width="702" height="18" font="5">explanation. Recall our earlier description of the notion 'tier complement' (see §5.2),</text>
+<text top="829" left="108" width="702" height="18" font="5">where we noted the requirement that [comp] could be active only if its head element was</text>
+<text top="853" left="108" width="702" height="18" font="5">also active. This restriction was seen to serve two purposes: first, it limits the range of</text>
+<text top="877" left="108" width="702" height="18" font="5">contexts in which the licensing of [comp] can be sanctioned; and second, it brings the</text>
+<text top="901" left="108" width="702" height="18" font="5">concept of 'tier complement' into line with the notion 'complement' as it is more generally</text>
+<text top="924" left="108" width="702" height="18" font="5">employed elsewhere in the phonological vocabulary (a parallel with the complement</text>
+<text top="948" left="108" width="615" height="18" font="5">position of a branching syllabic constituent was used to illustrate the point). </text>
+<text top="972" left="123" width="687" height="18" font="5">In the example <i>o-bisa-I</i> 'he asked', the low vowel contains no active colour tier, and</text>
+<text top="996" left="108" width="702" height="18" font="5">consequently, no appropriate licensor for an active [comp]. Under this nuclear position,</text>
+<text top="1020" left="108" width="173" height="18" font="5">then, the instruction <b>A</b></text>
+<text top="1023" left="280" width="73" height="14" font="17"><b>CTIVATE </b></text>
+<text top="1020" left="353" width="7" height="18" font="6"><b>[</b></text>
+<text top="1023" left="360" width="47" height="14" font="17"><b>COMP</b></text>
+<text top="1020" left="406" width="403" height="18" font="6"><b>]</b> fails to have any effect, due to the inactive status</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">27</text>
+<text top="194" left="108" width="702" height="18" font="5">of the head element. In addition, however, this failure has repercussions for other vowels</text>
+<text top="218" left="108" width="703" height="18" font="5">within the same word domain. At the particular point in the phonological string where</text>
+<text top="242" left="108" width="702" height="18" font="5">[comp] cannot be interpreted, the span of activation effectively collapses, resulting in a</text>
+<text top="265" left="108" width="702" height="18" font="5">breakdown in the transmission of the lexical activation instruction. From this, we are able</text>
+<text top="289" left="108" width="702" height="18" font="5">to develop a specific characterisation of alignment in terms of an <i>unbroken</i> span of</text>
+<text top="313" left="108" width="702" height="18" font="5">activation — a description that fully accords with the way in which 'activation' has been</text>
+<text top="337" left="108" width="268" height="18" font="5">employed in the examples above.</text>
+<text top="384" left="108" width="34" height="18" font="5">(21)</text>
+<text top="384" left="162" width="53" height="18" font="5">a.  * A</text>
+<text top="387" left="215" width="70" height="14" font="12">CTIVATE </text>
+<text top="384" left="285" width="7" height="18" font="5">[</text>
+<text top="387" left="292" width="45" height="14" font="12">COMP</text>
+<text top="384" left="337" width="238" height="18" font="5">] without active head element</text>
+<text top="600" left="162" width="285" height="18" font="5">b.  * Interruption of activation span</text>
+<text top="816" left="162" width="322" height="18" font="5">c.  * Violation of Structure Preservation</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">28</text>
+<text top="194" left="123" width="686" height="18" font="5">The ill-formed configurations in (21) demonstrate how low vowel opacity remains the</text>
+<text top="218" left="108" width="702" height="18" font="5">only grammatical outcome in the present example. While (21a) depicts the impossible</text>
+<text top="242" left="108" width="702" height="18" font="5">situation of allowing an active [comp] with an inactive head element, the structure in</text>
+<text top="265" left="108" width="702" height="18" font="5">(21b) highlights the necessity of recognizing a continuous span of activation for the</text>
+<text top="289" left="108" width="702" height="18" font="5">harmonic property [comp]. This interruption within the activation domain corresponds</text>
+<text top="313" left="108" width="701" height="18" font="5">to the 'breakdown in the transmission of the lexical activation instruction' referred to</text>
+<text top="337" left="108" width="702" height="18" font="5">above. In (21c) we present a structure which we assume to be universally ill-formed;</text>
+<text top="360" left="108" width="702" height="18" font="5">consequently, such a configuration must lie beyond the generative capabilities of the</text>
+<text top="384" left="108" width="702" height="18" font="5">model. Here, the active [A] in the root-final vowel carries the burden of transmitting the</text>
+<text top="408" left="108" width="703" height="18" font="5">lexical instruction to the rightmost nuclear position. In this case, however, the</text>
+<text top="432" left="108" width="702" height="18" font="5">configuration requires a structure-changing operation (in which a new relation is</text>
+<text top="455" left="108" width="702" height="18" font="5">introduced between [comp] and the aperture tier), and is ruled out in accordance with our</text>
+<text top="479" left="108" width="703" height="18" font="5">restrictive view of SP. In conclusion, (20) must be regarded as the most satisfactory and</text>
+<text top="503" left="108" width="631" height="18" font="5">well-formed representation, despite its incomplete alignment. Thus, the string </text>
+<text top="498" left="740" width="70" height="26" font="10">o-bisa-I</text>
+<text top="528" left="108" width="565" height="18" font="5">remains the only attested interpretation of the verb phrase in question.</text>
+<text top="552" left="123" width="687" height="18" font="5">Finally, let us briefly turn our attention to another feature of the low vowel in Akan —</text>
+<text top="576" left="108" width="235" height="18" font="5">namely, its interpretation as </text>
+<text top="571" left="343" width="467" height="26" font="10">3 in predictable contexts. This was exemplified in (19b),</text>
+<text top="602" left="108" width="249" height="18" font="5">which we represent as follows:</text>
+<text top="650" left="108" width="34" height="18" font="5">(22)</text>
+<text top="644" left="162" width="326" height="26" font="10">wa-k3ri  (*w3-k3ri)  'he has weighed it'</text>
+<text top="872" left="108" width="622" height="18" font="5">As we have already indicated, the distribution of the vowel transcribed here as </text>
+<text top="866" left="730" width="80" height="26" font="10">3 strongly</text>
+<text top="898" left="108" width="702" height="18" font="5">suggests that it be identified as an ATR variant of the low vowel <b>a</b>, on the grounds that</text>
+<text top="922" left="108" width="516" height="18" font="5">(i) the two sounds appear in mutually exclusive contexts, and (ii), </text>
+<text top="917" left="624" width="186" height="26" font="10">3 is found only in ATR</text>
+<text top="948" left="108" width="703" height="18" font="5">environments. However, this assumption gives rise to an immediate problem, such that</text>
+<text top="972" left="108" width="702" height="18" font="5">the melodic template proposed for Akan explicitly rules out this possibility, as the ill-</text>
+<text top="996" left="108" width="702" height="18" font="5">formed status of (21a) demonstrates. Instead, let us look to the precise phonetic</text>
+<text top="1019" left="108" width="137" height="18" font="5">interpretation of </text>
+<text top="1014" left="245" width="565" height="26" font="10">3 as a means of revealing its phonological identity. Significantly, what</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">29</text>
+<text top="928" left="136" width="602" height="15" font="0">See Charette (1991) for a discussion of the interpretation of phonologically empty nuclei.</text>
+<text top="924" left="123" width="12" height="11" font="1">12</text>
+<text top="966" left="137" width="674" height="15" font="0">This highlights the distinction between lexical activation and element interpretation. While</text>
+<text top="961" left="123" width="12" height="11" font="1">13</text>
+<text top="986" left="108" width="702" height="15" font="0">activation is necessary for successful melodic interpretation, it alone does not guarantee it. Activated</text>
+<text top="1005" left="108" width="702" height="15" font="0">material can be interpreted only after other conditions (both universal and system-specific) on well-</text>
+<text top="1025" left="108" width="702" height="15" font="0">formedness have also been satisfied. The nature of such conditions is investigated in Backley</text>
+<text top="1045" left="108" width="99" height="15" font="0">(forthcoming).</text>
+<text top="194" left="108" width="408" height="18" font="5">we find is a notable degree of variation in the way </text>
+<text top="189" left="516" width="294" height="26" font="10">3 is realized across different dialects</text>
+<text top="220" left="108" width="312" height="18" font="5">of the language, typically within the [</text>
+<text top="215" left="420" width="390" height="26" font="10">{]-[E]-[e] region. We claim that this instability</text>
+<text top="246" left="108" width="702" height="18" font="5">reflects the presence of a melodically unspecified vowel — that is, a nuclear position</text>
+<text top="270" left="108" width="702" height="18" font="5">which is interpreted in a system-specific way, in the absence of any lexically given</text>
+<text top="293" left="108" width="140" height="18" font="5">melodic material.</text>
+<text top="291" left="248" width="12" height="11" font="1">12</text>
+<text top="317" left="123" width="686" height="18" font="5">At first glance, this assumption appears to contradict our earlier formulation of SP,</text>
+<text top="341" left="108" width="702" height="18" font="5">which requires all lexical information to be left intact throughout derivation. Specifically,</text>
+<text top="365" left="108" width="702" height="18" font="5">we have a situation in which the penultimate vowel of the stem in (22) carries the lexical</text>
+<text top="389" left="108" width="108" height="18" font="5">instruction <b>A</b></text>
+<text top="392" left="216" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="389" left="292" width="517" height="18" font="6"><b>[A]</b>; yet we claim that this position is not interpreted as the low</text>
+<text top="413" left="108" width="703" height="18" font="5">vowel <b>a</b>, but as a melodically empty nucleus. This apparent 'loss' of the element [A] fails</text>
+<text top="437" left="108" width="702" height="18" font="5">to provide any support for the restrictive version of SP put forward in (7). Here, we must</text>
+<text top="460" left="108" width="702" height="18" font="5">acknowledge a grammatical conflict in which, on the one hand, the activation of [A]</text>
+<text top="484" left="108" width="702" height="18" font="5">should be respected, and on the other, the activation of [comp] should be aligned</text>
+<text top="508" left="108" width="702" height="18" font="5">throughout the entire prosodic word domain. Clearly, the incompatibility of these two</text>
+<text top="532" left="108" width="702" height="18" font="5">requirements means that something must 'give'; and in the case of Akan, we find it is the</text>
+<text top="556" left="108" width="140" height="18" font="5">influence of the <b>A</b></text>
+<text top="559" left="248" width="73" height="14" font="17"><b>CTIVATE </b></text>
+<text top="556" left="320" width="7" height="18" font="6"><b>[</b></text>
+<text top="559" left="327" width="47" height="14" font="17"><b>COMP</b></text>
+<text top="556" left="374" width="436" height="18" font="6"><b>]</b> instruction which determines the interpreted outcome.</text>
+<text top="580" left="108" width="702" height="18" font="5">We shall argue that the medial vowel in (22) still contains a lexically active [A] (in</text>
+<text top="603" left="108" width="701" height="18" font="5">accordance with SP), but that this element fails to be interpreted.  This results from the</text>
+<text top="601" left="625" width="12" height="11" font="1">13</text>
+<text top="627" left="108" width="191" height="18" font="5">dominant influence of <b>A</b></text>
+<text top="630" left="299" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="627" left="374" width="7" height="18" font="6"><b>[</b></text>
+<text top="630" left="381" width="48" height="14" font="17"><b>COMP</b></text>
+<text top="627" left="429" width="381" height="18" font="6"><b>]</b>, which requires that <i>all</i> vocalic expressions in</text>
+<text top="651" left="108" width="702" height="18" font="5">the domain <i>must</i> have an active tier complement. The failure of the low stem vowel to</text>
+<text top="675" left="108" width="702" height="18" font="5">comply with this prevailing restriction leads to the non-interpretation of this expression;</text>
+<text top="699" left="108" width="620" height="18" font="5">if [A] fails to be interpreted, then only a melodically empty position remains.</text>
+<text top="722" left="123" width="667" height="18" font="5">As a final remark, let us return to the examples cited in (19), repeated here as (23).</text>
+<text top="770" left="108" width="34" height="18" font="5">(23)</text>
+<text top="770" left="162" width="14" height="18" font="5">a.</text>
+<text top="765" left="216" width="68" height="26" font="10">o-bisa-I</text>
+<text top="770" left="324" width="76" height="18" font="5">'he asked'</text>
+<text top="770" left="486" width="84" height="18" font="5">(*o-bisa-i)</text>
+<text top="796" left="162" width="15" height="18" font="5">b.</text>
+<text top="790" left="216" width="68" height="26" font="10">wa-k3ri</text>
+<text top="796" left="324" width="179" height="18" font="5">'he has weighed it' (*</text>
+<text top="790" left="503" width="74" height="26" font="10">w3-k3ri)</text>
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">30</text>
+<text top="194" left="108" width="613" height="18" font="5">Given the circumstances under which the low vowel <b>a</b> is interpreted as </text>
+<text top="189" left="721" width="89" height="26" font="10">3, it is not</text>
+<text top="221" left="108" width="702" height="18" font="5">immediately apparent how we should arrive at the attested forms given in (23). The verb</text>
+<text top="244" left="108" width="701" height="18" font="5">root in (23a) is clearly a lexically ATR object (the high vowel belongs to the ATR set);</text>
+<text top="268" left="108" width="702" height="18" font="5">yet in this case, the instruction to activate [A] is not overridden by the harmonizing</text>
+<text top="292" left="108" width="90" height="18" font="5">property <b>A</b></text>
+<text top="295" left="198" width="76" height="14" font="17"><b>CTIVATE </b></text>
+<text top="292" left="274" width="7" height="18" font="6"><b>[</b></text>
+<text top="295" left="281" width="48" height="14" font="17"><b>COMP</b></text>
+<text top="292" left="329" width="481" height="18" font="6"><b>]</b>. Instead, the active [A] element is unaffected, and hence,</text>
+<text top="316" left="108" width="702" height="18" font="5">interpreted successfully. Similarly, in (23b) we assume that the entire prosodic word</text>
+<text top="340" left="108" width="702" height="18" font="5">corresponds to the domain of activation for [comp]; but once again, we find the low vowel</text>
+<text top="364" left="108" width="671" height="18" font="5">alternant selected in the prefix: thus the form <i>wa</i> is observed, rather than the expected </text>
+<text top="358" left="780" width="30" height="26" font="10">w3.</text>
+<text top="389" left="108" width="702" height="18" font="5">This apparent anomaly finds a simple explanation in the fact that [A] always seems to be</text>
+<text top="413" left="108" width="702" height="18" font="5">interpreted in the final nuclear position of a morpheme, regardless of whether that</text>
+<text top="437" left="108" width="692" height="18" font="5">position falls within an ATR or a non-ATR span; in all other positions we find the <b>a</b>~</text>
+<text top="432" left="800" width="10" height="26" font="10">3</text>
+<text top="463" left="108" width="541" height="18" font="5">alternation, as predicted. We assume that the regular absence of </text>
+<text top="458" left="649" width="161" height="26" font="10">3 morpheme-finally</text>
+<text top="490" left="108" width="702" height="18" font="5">should be recognized as something to be encoded as a grammatical property of the</text>
+<text top="513" left="108" width="593" height="18" font="5">language in question. It may be proposed, therefore, that Akan chooses the </text>
+<text top="516" left="701" width="29" height="14" font="12">OFF</text>
+<text top="513" left="729" width="81" height="18" font="5"> setting of</text>
+<text top="537" left="108" width="702" height="18" font="5">a parameter which controls the sanctioning of a domain-final empty nucleus (KLV 1990).</text>
+<text top="561" left="108" width="702" height="18" font="5">If a final empty position is not licensed to occur, then the lexically defined [A] in <i>wa</i> and</text>
+<text top="585" left="108" width="702" height="18" font="7"><i>bisa</i> cannot be suppressed, but instead, must be interpreted according to lexical</text>
+<text top="608" left="108" width="92" height="18" font="5">instruction.</text>
+<text top="680" left="108" width="101" height="18" font="6"><b>7 Summary</b></text>
+<text top="727" left="108" width="702" height="18" font="5">This discussion has identified one particular aspect of the Element Theory approach to</text>
+<text top="751" left="108" width="702" height="18" font="5">melodic structure which, we have suggested, fails to maintain the same level of</text>
+<text top="774" left="108" width="702" height="18" font="5">restrictiveness that is characteristic of the theory as a whole. In order to provide a</text>
+<text top="798" left="108" width="702" height="18" font="5">satisfactory description of vowel harmony phenomena, we have shown that two</text>
+<text top="822" left="108" width="702" height="18" font="5">independent devices must be employed — on the one hand, the conventional notion of</text>
+<text top="846" left="108" width="702" height="18" font="5">spreading, and on the other, the idea of headship agreement. This has the effect of</text>
+<text top="869" left="108" width="702" height="18" font="5">expanding the repertoire of possible phonological operations to include not only spreading</text>
+<text top="893" left="108" width="702" height="18" font="5">and delinking, but also head alignment/licensing. We have argued that this move</text>
+<text top="917" left="108" width="701" height="18" font="5">augments the model's predictive power unnecessarily, and consequently, is undesirable</text>
+<text top="941" left="108" width="422" height="18" font="5">from the point of view of generative restrictiveness. </text>
+<text top="964" left="123" width="687" height="18" font="5">In an attempt to unify these two disparate mechanisms, we have motivated a melodic</text>
+<text top="988" left="108" width="702" height="18" font="5">structure in which a full set of elements is present under each position; the primes are</text>
+<text top="1012" left="108" width="701" height="18" font="5">arranged according to a language-specific melodic template established according to</text>
+<text top="1036" left="108" width="702" height="18" font="5">parametric choice. Lexical oppositions are then encoded by means of a single instruction</text>
+</page>
+<page number="31" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">31</text>
+<text top="194" left="108" width="15" height="18" font="6"><b>A</b></text>
+<text top="197" left="122" width="73" height="14" font="17"><b>CTIVATE </b></text>
+<text top="194" left="195" width="7" height="18" font="6"><b>[</b></text>
+<text top="190" left="202" width="13" height="25" font="11">&#34;</text>
+<text top="190" left="201" width="13" height="25" font="11">&#34;</text>
+<text top="194" left="215" width="69" height="18" font="6"><b>]</b>, where </text>
+<text top="190" left="284" width="13" height="25" font="11">&#34;</text>
+<text top="194" left="298" width="513" height="18" font="5"> is a variable over the universal set of melodic units available to</text>
+<text top="218" left="108" width="702" height="18" font="5">the phonology. Included in this set is the object we have referred to as [comp] or 'tier</text>
+<text top="242" left="108" width="702" height="18" font="5">complement', which represents — in a structurally dynamic way — the properties</text>
+<text top="266" left="108" width="527" height="18" font="5">typically described in terms of melodic headship. We propose that </text>
+<text top="261" left="635" width="13" height="25" font="11">&#34;</text>
+<text top="266" left="649" width="161" height="18" font="5"> may be activated at</text>
+<text top="289" left="108" width="702" height="18" font="5">different levels of the prosodic structure to give a range of different assimilatory or</text>
+<text top="313" left="108" width="145" height="18" font="5">harmonic effects. </text>
+<text top="337" left="123" width="687" height="18" font="5">As the account of harmony in Akan has demonstrated, we may appropriately equate an</text>
+<text top="361" left="108" width="702" height="18" font="5">active [comp] with the melodic property of ATRness. This allows us to collapse into a</text>
+<text top="384" left="108" width="702" height="18" font="5">single mechanism the two independent devices formerly required in the description of,</text>
+<text top="408" left="108" width="702" height="18" font="5">on the one hand, harmony involving resonance elements, and on the other, harmony</text>
+<text top="432" left="108" width="702" height="18" font="5">involving tongue root properties. We have also aimed to show how a restrictive</text>
+<text top="456" left="108" width="702" height="18" font="5">interpretation of Structure Preservation may be maintained in the context of the proposed</text>
+<text top="479" left="108" width="702" height="18" font="5">modifications. While the present discussion has considered only cases of word-level</text>
+<text top="503" left="108" width="702" height="18" font="5">harmonic agreement, we suggest that a key area for future research will explore the extent</text>
+<text top="527" left="108" width="702" height="18" font="5">to which the notion of activation can be generalised to accommodate other phonological</text>
+<text top="551" left="108" width="702" height="18" font="5">events too. By allowing lexical activation to interact with universal principles of licensing,</text>
+<text top="575" left="108" width="702" height="18" font="5">we anticipate that the predictive power of the model will be further enhanced — to the</text>
+<text top="598" left="108" width="702" height="18" font="5">point where we can expect to account for a range of phenomena such as local harmony,</text>
+<text top="622" left="108" width="217" height="18" font="5">lenition, and reduplication.</text>
+</page>
+<page number="32" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="252" height="15" font="8"><i>Phillip Backley &amp; Toyomi Takahashi</i></text>
+<text top="132" left="108" width="20" height="18" font="5">32</text>
+<text top="194" left="108" width="94" height="18" font="6"><b>References</b></text>
+<text top="240" left="108" width="702" height="15" font="0">Anderson, J.M. and C.J. Ewen (1987). <i>Principles of Dependency Phonology</i>. Cambridge: Cambridge</text>
+<text top="260" left="123" width="109" height="15" font="0">University Press</text>
+<text top="280" left="108" width="702" height="15" font="0">Anderson, J.M. and C. Jones (1974). Three theses concerning phonological representations. In <i>Journal of</i></text>
+<text top="300" left="123" width="141" height="15" font="8"><i>Linguistics</i> 10. 1-26.</text>
+<text top="320" left="108" width="640" height="15" font="0">Archangeli, D. &amp; D. Pulleyblank (1994). <i>Grounded Phonology</i>. MIT Press, Cambridge, Mass.</text>
+<text top="339" left="108" width="702" height="15" font="0">Backley, P. (1995). A tier geometry for vowel systems. In <i>UCL Working Papers in Linguistics</i> 7. 399-436.</text>
+<text top="359" left="108" width="702" height="15" font="0">Backley, P. (forthcoming). The internal organisation of vowels. PhD dissertation. University College,</text>
+<text top="379" left="123" width="149" height="15" font="0">University of London.</text>
+<text top="399" left="108" width="702" height="15" font="0">Brockhaus, W. (1995). Skeletal and suprasegmental structure within Government Phonology. In J. Durand</text>
+<text top="419" left="123" width="687" height="15" font="0">and F. Katamba (eds), <i>Frontiers of Phonology: atoms, structures, derivations.</i> Harlow, Essex: Longman.</text>
+<text top="438" left="108" width="663" height="15" font="0">Calabrese, A. (1984). Metaphony in Salentino. In <i>Rivista di Grammatica Generativa</i> 9-10. 1-140.</text>
+<text top="458" left="108" width="702" height="15" font="0">Charette, M. (1991). <i>Conditions on Phonological Government</i>. Cambridge: Cambridge University Press.</text>
+<text top="478" left="108" width="702" height="15" font="0">Charette, M. and A. Göksel (1994). Switching and vowel harmony in Turkic languages. In <i>SOAS Working</i></text>
+<text top="498" left="123" width="312" height="15" font="8"><i>Papers in Linguistics and Phonetics</i> 4. 31-52.</text>
+<text top="518" left="108" width="531" height="15" font="0">Chomsky, N. (1981). <i>Lectures on Government and Binding. </i>Dordrecht: Foris.</text>
+<text top="537" left="108" width="656" height="15" font="0">Chomsky, N. (1986). <i>Knowledge of Language: its Nature, Origin, and Use</i>. New York: Praeger.</text>
+<text top="557" left="108" width="702" height="15" font="0">Clements, G.N. (1977). The autosegmental treatment of vowel harmony. In W.U. Dressler and O.E.</text>
+<text top="577" left="123" width="687" height="15" font="0">Pfeiffer (eds), <i>Phonologica 1976</i>, 111-119. Innsbrucker Beiträge zur Sprachenwissenschaft: Innsbruck.</text>
+<text top="597" left="108" width="702" height="15" font="0">Clements, G.N. (1981). Akan vowel harmony: a nonlinear analysis. In D.L. Goyvaerts (ed), <i>African</i></text>
+<text top="617" left="123" width="581" height="15" font="8"><i>Linguistics: Essays in memory of M.W.K. Semikenke</i>. Amsterdam: Benjamins (1985).</text>
+<text top="636" left="108" width="702" height="15" font="0">Cobb, M. (1995). Vowel harmony in Zulu and Basque: the interaction of licensing constraints, H-licensing</text>
+<text top="656" left="123" width="613" height="15" font="0">and constituent structure. In <i>SOAS Working Papers in Linguistics and Phonetics</i> 5. 23-39.</text>
+<text top="676" left="108" width="703" height="15" font="0">Cole, J. and C. Kisseberth (1994). An Optimal Domains Theory of Harmony. In Studies in the Linguistic</text>
+<text top="696" left="123" width="149" height="15" font="0">Sciences 24 (2). 1-13.</text>
+<text top="716" left="108" width="703" height="15" font="0">Denwood, A. (1995). Could Khalkha Mongolian be a Head-Licensing language? A comparison between</text>
+<text top="735" left="123" width="687" height="15" font="0">Khalkha Mongolian and Vata, a typical 'ATR-harmony' language. In <i>SOAS Working Papers in</i></text>
+<text top="755" left="123" width="242" height="15" font="8"><i>Linguistics and Phonetics</i> 5. 41-63.</text>
+<text top="775" left="108" width="679" height="15" font="0">Goldsmith, J. (1976). <i>Autosegmental Phonology</i>. Indiana University Linguistics Club; Bloomington.</text>
+<text top="795" left="108" width="433" height="15" font="0">Harris, J. (1994a). <i>English Sound Structure</i>. Blackwell: Oxford.</text>
+<text top="815" left="108" width="702" height="15" font="0">Harris, J. (1994b). Monovalency and opacity: Chichewa height harmony. In <i>UCL Working Papers in</i></text>
+<text top="834" left="123" width="158" height="15" font="8"><i>Linguistics</i> 6. 509-547.</text>
+<text top="854" left="108" width="702" height="15" font="0">Harris, J. and G. Lindsey (1995). The elements of phonological representation. In J. Durand and F.</text>
+<text top="874" left="123" width="665" height="15" font="0">Katamba (eds), <i>Frontiers of Phonology: atoms, structures, derivations.</i> Harlow, Essex: Longman.</text>
+<text top="894" left="108" width="702" height="15" font="0">Hulst, H. van der (1989). Atoms of segmental structure: components, gestures and dependency. In</text>
+<text top="914" left="123" width="158" height="15" font="8"><i>Phonology</i> 6. 253-284.</text>
+<text top="933" left="108" width="403" height="15" font="0">Kaye, J. (1990). Coda Licensing. In <i>Phonology</i> 7. 301-330.</text>
+<text top="953" left="108" width="702" height="15" font="0">Kaye, J., J. Lowenstamm and J-R. Vergnaud (1985). The internal structure of phonological elements: a</text>
+<text top="973" left="123" width="475" height="15" font="0">theory of charm and government. In <i>Phonology Yearbook</i> 2. 305-328.</text>
+<text top="993" left="108" width="702" height="15" font="0">Kaye, J., J. Lowenstamm and J-R. Vergnaud (1990). Constituent structure and government in phonology.</text>
+<text top="1013" left="123" width="687" height="15" font="0">In  <i>Phonology</i> 7. 193-232. Originally published 1989 as Konstituentenstruktur und Rektion in der</text>
+<text top="1032" left="123" width="321" height="15" font="0">Phonologie, <i>Linguistische Berichte</i> 114. 31-75.</text>
+</page>
+<page number="33" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="18" size="16" family="Times" color="#000000"/>
+<text top="132" left="461" width="60" height="15" font="8"><i>Activate </i></text>
+<text top="128" left="521" width="11" height="21" font="9">&#34;</text>
+<text top="132" left="532" width="199" height="15" font="8"><i>: harmony without spreading</i></text>
+<text top="132" left="790" width="20" height="18" font="5">33</text>
+<text top="193" left="108" width="702" height="15" font="0">Kenstowicz, M. and C. Kisseberth (1979). <i>Generative Phonology: description and theory</i>. New York:</text>
+<text top="213" left="123" width="113" height="15" font="0">Academic Press.</text>
+<text top="233" left="108" width="672" height="15" font="0">Kiparsky, P. (1985). Some consequences of Lexical Phonology. In <i>Phonology Yearbook</i> 2. 83-136.</text>
+<text top="253" left="108" width="702" height="15" font="0">Lowenstamm, J. and J-F. Prunet (1988). Tigré vowel harmonies. Rapport Annuel du Groupe de Recherche</text>
+<text top="273" left="123" width="572" height="15" font="0">sur la Linguistique Africaniste au CRSH 1987-88. Université du Québec à Montréal.</text>
+<text top="292" left="108" width="456" height="15" font="0">Mtenje, A. (1986). Issues in the non-linear phonology of Chiche</text>
+<text top="288" left="564" width="246" height="22" font="18">ëa. PhD dissertation. University of</text>
+<text top="312" left="123" width="57" height="15" font="0">London.</text>
+<text top="332" left="108" width="702" height="15" font="0">Prince, A.S. and P. Smolensky (1993). Optimality Theory: constraint interaction in generative grammar.</text>
+<text top="352" left="123" width="468" height="15" font="0">Technical report 2, Centre for Cognitive Science, Rutgers University.</text>
+<text top="372" left="108" width="702" height="15" font="0">Rennison, J.R. (1987). Vowel harmony and tridirectional vowel features. In <i>Folia Linguistica</i> 21. 337-354.</text>
+<text top="391" left="108" width="671" height="15" font="0">Schane, S.A. (1984). The fundamentals of Particle phonology. In <i>Phonology Yearbook</i> 1. 129-155.</text>
+<text top="411" left="108" width="702" height="15" font="0">Schane, S.A. (1995). Diphthongization in Particle Phonology. In J. Goldsmith (ed), <i>Handbook of</i></text>
+<text top="431" left="123" width="149" height="15" font="8"><i>Phonological Theory</i>.</text>
+<text top="451" left="108" width="702" height="15" font="0">Selkirk, E.O. (1982). The syllable. In van der Hulst and Smith (eds), <i>The Structure of Phonological</i></text>
+<text top="471" left="123" width="357" height="15" font="8"><i>Representations (part II)</i>. Dordrecht, Holland: Foris.</text>
+<text top="490" left="108" width="647" height="15" font="0">Stewart, J.M. (1967). Tongue root position in Akan vowel harmony. In <i>Phonetica</i> 16. 185-204.</text>
+<text top="510" left="108" width="702" height="15" font="0">Tucker, A.N. and J.T.O. Mpaayei (1955). <i>A Maasai grammar with vocabulary</i>. London, New York,</text>
+<text top="530" left="123" width="242" height="15" font="0">Toronto: Longmans, Green and Co.</text>
+<text top="550" left="108" width="702" height="15" font="0">Walker, C. (1995). ATR harmony as H-licensing. In <i>SOAS Working Papers in Linguistics and Phonetics</i></text>
+<text top="570" left="123" width="79" height="15" font="0">5. 107-120.</text>
+</page>
+</pdf2xml>

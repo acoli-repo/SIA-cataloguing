@@ -1,0 +1,1924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="0" size="34" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="1" size="22" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="2" size="19" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="3" size="19" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="4" size="16" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="5" size="19" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="6" size="26" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="7" size="10" family="TimesNewRoman" color="#000000"/>
+<text top="185" left="106" width="604" height="31" font="0"><i><b>Compositionality, copy theory, and control</b></i></text>
+<text top="177" left="709" width="11" height="21" font="1"><i><b>*</b></i></text>
+<text top="185" left="719" width="18" height="31" font="0"><i><b>  </b></i></text>
+<text top="221" left="120" width="5" height="18" font="2"> </text>
+<text top="244" left="120" width="5" height="18" font="2"> </text>
+<text top="266" left="106" width="336" height="18" font="2">ANNABEL CORMACK &amp; NEIL SMITH </text>
+<text top="289" left="120" width="5" height="18" font="2"> </text>
+<text top="314" left="120" width="5" height="18" font="2"> </text>
+<text top="336" left="120" width="5" height="18" font="2"> </text>
+<text top="357" left="147" width="75" height="18" font="3"><b>Abstract </b></text>
+<text top="379" left="161" width="5" height="15" font="4"> </text>
+<text top="398" left="147" width="603" height="15" font="4">Our ultimate concern is the mapping between representations in the Language of Thought </text>
+<text top="416" left="147" width="603" height="15" font="4">(in the sense of Fodor 1975) and representations at LF in some version of the Minimalist </text>
+<text top="436" left="147" width="603" height="15" font="4">Program (Chomsky 1995). We argue on a variety of grounds that such a mapping is direct </text>
+<text top="454" left="147" width="603" height="15" font="4">and that both these levels of representation must  meet the (same) condition of </text>
+<text top="472" left="147" width="603" height="15" font="4">compositionality. We argue that Copy theory, in particular in the version exploited for </text>
+<text top="492" left="147" width="603" height="15" font="4">'control' phenomena by Hornstein (1999), is inimical to any such condition and must </text>
+<text top="510" left="147" width="602" height="15" font="4">therefore be rejected. The evidence comes from the properties of quantified NPs in English </text>
+<text top="530" left="147" width="604" height="15" font="4">and the Caucasian language Tsez.  Specifically we suggest a reanalysis of 'backward control' </text>
+<text top="549" left="147" width="603" height="15" font="4">in Tsez, as described by Polinsky &amp; Potsdam (2001, 2002), thereby removing a major </text>
+<text top="568" left="147" width="603" height="15" font="4">argument for copy theory. Our analysis does not however preclude an assimilation of </text>
+<text top="586" left="147" width="602" height="15" font="4">canonical control to raising, and we provide an alternative to a Hornstein style analysis, </text>
+<text top="606" left="147" width="602" height="15" font="4">giving some justification for the exploitation of the combinator  R in Combinatorial </text>
+<text top="624" left="147" width="146" height="15" font="4">Categorial Grammar.  </text>
+<text top="642" left="120" width="5" height="18" font="2"> </text>
+<text top="665" left="120" width="5" height="18" font="2"> </text>
+<text top="687" left="106" width="163" height="18" font="3"><b>1 Compositionality </b></text>
+<text top="710" left="120" width="5" height="18" font="2"> </text>
+<text top="732" left="106" width="690" height="18" font="2">Compositionality is the claim that the meaning of the whole is a function of the </text>
+<text top="755" left="106" width="689" height="18" font="2">meaning of its parts; presumably a systematic and principled function of the meaning </text>
+<text top="778" left="106" width="690" height="18" font="2">of the parts. The parts are standardly taken to be the syntactic elements of some </text>
+<text top="800" left="106" width="619" height="18" font="2">representation, and meaning is then necessarily derived on a rule-to-rule basis. </text>
+<text top="822" left="120" width="673" height="18" font="2">It is frequently assumed that compositionality can apply only to a representation </text>
+<text top="846" left="106" width="689" height="18" font="2">where truth conditions are applicable, and that this must be a pragmatic, post-syntactic </text>
+<text top="867" left="106" width="613" height="18" font="2">level, since there is so much underdetermination in a linguistic representation </text>
+<text top="867" left="721" width="66" height="18" font="5"><i>vis-à-vis</i></text>
+<text top="867" left="789" width="5" height="18" font="2"> </text>
+<text top="890" left="106" width="690" height="18" font="2">any representation of its meaning in context (its ‘explicature’ in the sense of </text>
+<text top="913" left="106" width="690" height="18" font="2">Relevance Theory (Sperber &amp; Wilson 1995. See in particular Carston 2002).  Some of </text>
+<text top="935" left="106" width="690" height="18" font="2">this  underdetermination can be ascribed to the interpretation required of particular </text>
+<text top="957" left="106" width="690" height="18" font="2">lexical items occurring in an utterance: examples are ‘loose use’, various </text>
+<text top="981" left="106" width="690" height="18" font="2">strengthenings, and reference assignment to proper names. Other instances of </text>
+<text top="1011" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="1041" left="120" width="5" height="10" font="7">*</text>
+<text top="1045" left="126" width="666" height="15" font="4"> We are grateful to Peter Ackema and Yamuna Kachru for useful suggestions and data, and </text>
+<text top="1064" left="106" width="476" height="15" font="4">especially to Maria Polinsky for her help. The usual disclaimers apply.  </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="8" size="16" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="9" size="19" family="Symbol" color="#000000"/>
+	<fontspec id="10" size="13" family="TimesNewRoman" color="#000000"/>
+<text top="180" left="106" width="28" height="15" font="4">356 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="690" height="18" font="2">underdetermination are syntactically motivated: for instance, the provision of </text>
+<text top="242" left="106" width="349" height="18" font="2">appropriate arguments for entities such as </text>
+<text top="242" left="458" width="24" height="18" font="5"><i>too</i></text>
+<text top="242" left="483" width="26" height="18" font="2"> in </text>
+<text top="242" left="515" width="203" height="18" font="5"><i>The problem is too hard</i></text>
+<text top="242" left="719" width="77" height="18" font="2">. Not all </text>
+<text top="264" left="106" width="689" height="18" font="2">aspects of traditional theories of meaning are relevant for compositionality, however. </text>
+<text top="288" left="106" width="690" height="18" font="2">The precise content of that part of the model (in the Montague-semantics sense) that </text>
+<text top="309" left="106" width="687" height="18" font="2">gives the meanings of lexical items relative to the worlds is  irrelevant to </text>
+<text top="332" left="106" width="690" height="18" font="2">compositionality; and even the meaning of an ellipsed phrase, which must be </text>
+<text top="355" left="106" width="689" height="18" font="2">recovered by the hearer, is irrelevant, since compositionality will hold with respect to </text>
+<text top="378" left="106" width="690" height="18" font="2">whatever meaning it has ascribed to it in the utterance, provided only that it does have </text>
+<text top="399" left="106" width="89" height="18" font="2">a meaning. </text>
+<text top="423" left="120" width="673" height="18" font="2">We assume that the explicature is a representation in the ‘Language of Thought’ </text>
+<text top="445" left="106" width="690" height="18" font="2">(LoT) (Fodor 1975). This language has a syntax and a semantics: its wff can be </text>
+<text top="468" left="106" width="688" height="18" font="2">generated by rule. It is clear that the relation between the LF and the Lo T </text>
+<text top="490" left="106" width="690" height="18" font="2">representation (LoTF – for ‘Language of Thought Form’, parallel to LF for ‘Logical </text>
+<text top="513" left="106" width="689" height="18" font="2">Form’) for a particular utterance is not random, but must be constrained. It is also </text>
+<text top="535" left="106" width="690" height="18" font="2">reasonably clear that Natural Language cannot allow very much language particular </text>
+<text top="558" left="106" width="689" height="18" font="2">variation in the syntax of LF, if any. Given these two facts, the default assumption is </text>
+<text top="580" left="106" width="689" height="18" font="2">that LF and LoT share the same syntax. It follows that in pragmatically simple cases, </text>
+<text top="604" left="106" width="689" height="18" font="2">the LoTF should be a direct (‘word for word’) translation of LF. LF then will have a </text>
+<text top="625" left="106" width="689" height="18" font="2">compositional semantics just like that of LoT.  We argue in general that Copy Theory </text>
+<text top="648" left="106" width="690" height="18" font="2">is intrinsically inimical to such a direct relation and, in particular, that Hornstein’s </text>
+<text top="671" left="106" width="689" height="18" font="2">(1999) use of it is incompatible with a simple view of the relation between LF and </text>
+<text top="693" left="106" width="690" height="18" font="2">LoT. There is a sense in which what we are doing is making an attempt to extend ‘the </text>
+<text top="715" left="106" width="688" height="18" font="2">narrow study of mechanisms’ (Chomsky 1995:227) to the relation between the syntax </text>
+<text top="739" left="106" width="379" height="18" font="2">of NL and representations in the central system. </text>
+<text top="760" left="120" width="674" height="18" font="2">In the Minimalist Program framework, the only representations that contribute to </text>
+<text top="783" left="106" width="690" height="18" font="2">interpretation are those reaching the Interfaces, i.e. PF, at the Articulatory/Perceptual </text>
+<text top="806" left="106" width="690" height="18" font="2">(A-P) interface, and LF, at the Conceptual/Intentional (C-I) interface. These two are </text>
+<text top="829" left="106" width="689" height="18" font="2">not linked directly, but only indirectly in that representations interpretable at both are </text>
+<text top="851" left="106" width="687" height="18" font="2">derived from a Spell-Out (S-O) representation, which is itself generated by Merge and </text>
+<text top="876" left="106" width="656" height="18" font="2">Move, where Move includes the Copy Theory. One of the usual properties of S</text>
+<text top="870" left="759" width="11" height="26" font="9">−</text>
+<text top="876" left="771" width="24" height="18" font="2">O, </text>
+<text top="897" left="106" width="183" height="18" font="2">then, is that it includes </text>
+<text top="900" left="289" width="81" height="15" font="4">MULTIPLE</text>
+<text top="897" left="369" width="425" height="18" font="2"> copies of items which are interpreted at the Interface </text>
+<text top="921" left="106" width="91" height="18" font="2">levels only </text>
+<text top="923" left="203" width="45" height="15" font="4">ONCE</text>
+<text top="921" left="248" width="5" height="18" font="2">.</text>
+<text top="917" left="252" width="7" height="12" font="10">1</text>
+<text top="921" left="258" width="538" height="18" font="2"> It seems reasonable to hope that a better version of S-O might </text>
+<text top="942" left="106" width="690" height="18" font="2">avoid the postulation of multiple copies or  any  equivalent. In contrast, any evidence </text>
+<text top="965" left="106" width="623" height="18" font="2">that these copies actually exist wo uld militate against this wish being fulfilled.  </text>
+<text top="1011" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="1041" left="120" width="5" height="10" font="7">1</text>
+<text top="1045" left="126" width="666" height="15" font="4"> If it is assumed that LoT requires a format where quantifiers are associated with variable s, then </text>
+<text top="1064" left="106" width="590" height="15" font="4">the ‘crossed through’ copies may independently require interpretation, e.g. as variables. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  357 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="120" width="674" height="18" font="2">Our worry about copy theory can be illustrated by a consideration of Hornstein’s </text>
+<text top="242" left="106" width="690" height="18" font="2">theory of control as it applies to quantified noun phrases.  In a Hornstein account of </text>
+<text top="264" left="106" width="690" height="18" font="2">(1), theta roles are features on verbs, and accrue to the noun-phrase as it is </text>
+<text top="290" left="106" width="405" height="18" font="2">successively merged with verbal phrases bearing </text>
+<text top="284" left="516" width="10" height="26" font="9">θ</text>
+<text top="290" left="527" width="268" height="18" font="2">-features which can be checked </text>
+<text top="311" left="106" width="515" height="18" font="2">(Hornstein 1999: 78, (18)); (1 a, b) below is Hornstein’s (19a, b). </text>
+<text top="334" left="120" width="5" height="18" font="2"> </text>
+<text top="356" left="106" width="27" height="18" font="2">(1) </text>
+<text top="356" left="156" width="190" height="18" font="2">a.  John hopes to leave  </text>
+<text top="379" left="106" width="5" height="18" font="2"> </text>
+<text top="401" left="106" width="5" height="18" font="2"> </text>
+<text top="401" left="156" width="38" height="18" font="2">b.  [</text>
+<text top="409" left="194" width="12" height="12" font="10">IP</text>
+<text top="401" left="206" width="55" height="18" font="2"> John [</text>
+<text top="409" left="259" width="16" height="12" font="10">VP</text>
+<text top="401" left="277" width="111" height="18" font="2"> John [hopes [</text>
+<text top="409" left="387" width="12" height="12" font="10">IP</text>
+<text top="401" left="398" width="73" height="18" font="2"> John to [</text>
+<text top="409" left="471" width="16" height="12" font="10">VP</text>
+<text top="401" left="489" width="124" height="18" font="2"> John leave]]]]] </text>
+<text top="424" left="120" width="5" height="18" font="2"> </text>
+<text top="446" left="106" width="463" height="18" font="2">In the discussion of this example, Hornstein writes ‘Thus </text>
+<text top="446" left="569" width="38" height="18" font="5"><i>John</i></text>
+<text top="446" left="606" width="189" height="18" font="2"> (or the chain it heads) </text>
+<text top="471" left="106" width="68" height="18" font="2">has two </text>
+<text top="465" left="176" width="10" height="26" font="9">θ</text>
+<text top="471" left="186" width="609" height="18" font="2">-roles, the leaver role and the hoper role’, and ‘The semantic form of the </text>
+<text top="494" left="106" width="543" height="18" font="2">predication in (19) is equivalent to (21), ...’ where his (21) is our (2): </text>
+<text top="515" left="120" width="5" height="18" font="2"> </text>
+<text top="540" left="106" width="27" height="18" font="2">(2) </text>
+<text top="540" left="156" width="42" height="18" font="2">John </text>
+<text top="533" left="198" width="11" height="26" font="9">λ</text>
+<text top="540" left="208" width="9" height="18" font="5"><i>x</i></text>
+<text top="540" left="218" width="16" height="18" font="2"> [ </text>
+<text top="540" left="233" width="9" height="18" font="5"><i>x</i></text>
+<text top="540" left="243" width="54" height="18" font="2"> hopes </text>
+<text top="540" left="297" width="9" height="18" font="5"><i>x</i></text>
+<text top="540" left="307" width="64" height="18" font="2"> leaves] </text>
+<text top="562" left="120" width="5" height="18" font="2"> </text>
+<text top="585" left="106" width="689" height="18" font="2">Hornstein is clear that it is such forms that are semantically required: ‘Movement then </text>
+<text top="608" left="106" width="690" height="18" font="2">semantically forms a compound monadic predicate having one and the same </text>
+<text top="630" left="106" width="689" height="18" font="2">expression satisfy two argument positions’. What  is not made clear is the relation </text>
+<text top="652" left="106" width="690" height="18" font="2">between the required semantics and the syntax of forms such as that in (1b).  Consider </text>
+<text top="676" left="106" width="688" height="18" font="2">in this regard sentences  of the kind in (3), with partial representations as in (4) </text>
+<text top="697" left="106" width="689" height="18" font="2">(irrelevant detail omitted). We concentrate on the relation between S-O, LF, and the </text>
+<text top="720" left="106" width="271" height="18" font="2">initial LoT representation, LoTF;</text>
+<text top="716" left="378" width="7" height="12" font="10">2</text>
+<text top="720" left="385" width="410" height="18" font="2"> we believe that the question of PF is relatively </text>
+<text top="743" left="106" width="689" height="18" font="2">independent of this, and can be considered separately. We take the ‘crossed through’ </text>
+<text top="765" left="106" width="689" height="18" font="2">forms in (4) b and d to be the PF and LF representations, which are ‘interpreted’ at the </text>
+<text top="787" left="106" width="689" height="18" font="2">interfaces; that is, the interfaces act as transducers, translating one representation </text>
+<text top="991" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="1023" left="120" width="5" height="10" font="7">2</text>
+<text top="1027" left="126" width="666" height="15" font="4"> We assume that the output of the narrow syntax, an LF representation, is successively converted </text>
+<text top="1045" left="106" width="687" height="15" font="4">by a variety of pragmatic processes to representations in the LoT; the one closest to syntax is LoTF, </text>
+<text top="1064" left="106" width="586" height="15" font="4">and the final one depending directly on the utterance is the explicature of the utterance. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="106" width="28" height="15" font="4">358 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="690" height="18" font="2">automatically into another: in other words they do not constitute levels of </text>
+<text top="242" left="106" width="260" height="18" font="2">representation in their own right.</text>
+<text top="237" left="363" width="7" height="12" font="10">3</text>
+<text top="242" left="370" width="9" height="18" font="2">  </text>
+<text top="264" left="120" width="5" height="18" font="2"> </text>
+<text top="288" left="106" width="27" height="18" font="2">(3) </text>
+<text top="288" left="156" width="180" height="18" font="2">Every boy trie d to win </text>
+<text top="309" left="106" width="5" height="18" font="2"> </text>
+<text top="895" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="927" left="120" width="5" height="10" font="7">3</text>
+<text top="930" left="126" width="667" height="15" font="4"> Chomsky (1995: 203) takes forms like (4e) to be produced by ‘the LF component’ from the S-O </text>
+<text top="949" left="106" width="687" height="15" font="4">representation. Note that from one S-O representation, more than one LF interpretation may be </text>
+<text top="968" left="106" width="687" height="15" font="4">derived (ibid: 203). This arises from operations like QR, and the possibility of partial reconstruction </text>
+<text top="989" left="106" width="23" height="15" font="4">for </text>
+<text top="989" left="128" width="20" height="15" font="8"><i>wh</i></text>
+<text top="989" left="149" width="645" height="15" font="4"> questions. This suggests that something is wrong, since the MP is inimical to optionality.   The </text>
+<text top="1007" left="106" width="688" height="15" font="4">obvious remedy would be to take the S-O representation as the input to the transducer, and to treat it </text>
+<text top="1027" left="106" width="687" height="15" font="4">either as a radically underdetermined representation to be manipulated by the Pragmatic system, or to </text>
+<text top="1045" left="106" width="687" height="15" font="4">allow the C-I transducer to output all possible LoT representations compatible with the S-O </text>
+<text top="1064" left="106" width="405" height="15" font="4">representation, for the Pragmatic system to choose between.  </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="11" size="17" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="12" size="11" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="13" size="17" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="14" size="17" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="15" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="16" size="9" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="17" size="16" family="TimesNewRoman,Bold" color="#000000"/>
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  359 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="22" height="18" font="2">(4)</text>
+<text top="222" left="128" width="5" height="16" font="11"> </text>
+<text top="220" left="156" width="13" height="18" font="2">a.</text>
+<text top="222" left="170" width="123" height="16" font="11">  Every boy [T [</text>
+<text top="228" left="290" width="14" height="11" font="12">VP</text>
+<text top="222" left="306" width="231" height="16" font="11"> every boy [tried [every boy [to [</text>
+<text top="228" left="534" width="14" height="11" font="12">VP</text>
+<text top="222" left="550" width="137" height="16" font="11"> every boy win]]]]]  </text>
+<text top="222" left="704" width="5" height="16" font="11"> </text>
+<text top="222" left="725" width="29" height="16" font="13"><b>S-O</b></text>
+<text top="222" left="753" width="5" height="16" font="11"> </text>
+<text top="242" left="106" width="5" height="18" font="2"> </text>
+<text top="264" left="106" width="5" height="18" font="2"> </text>
+<text top="264" left="156" width="20" height="18" font="2">b. </text>
+<text top="266" left="188" width="479" height="16" font="11">Every boy [T [every boy [tried [every boy [to [every boy win]]]]]   </text>
+<text top="266" left="683" width="5" height="16" font="11"> </text>
+<text top="266" left="704" width="5" height="16" font="11"> </text>
+<text top="266" left="725" width="22" height="16" font="13"><b>PF</b></text>
+<text top="264" left="745" width="5" height="18" font="2"> </text>
+<text top="288" left="106" width="5" height="18" font="2"> </text>
+<text top="309" left="106" width="5" height="18" font="2"> </text>
+<text top="309" left="156" width="18" height="18" font="2">c. </text>
+<text top="311" left="188" width="155" height="16" font="14"><i>Every boy tried to win</i></text>
+<text top="311" left="343" width="15" height="16" font="11">   </text>
+<text top="311" left="374" width="5" height="16" font="11"> </text>
+<text top="311" left="395" width="5" height="16" font="11"> </text>
+<text top="311" left="415" width="5" height="16" font="11"> </text>
+<text top="311" left="435" width="5" height="16" font="11"> </text>
+<text top="311" left="457" width="5" height="16" font="11"> </text>
+<text top="311" left="477" width="5" height="16" font="11"> </text>
+<text top="311" left="498" width="5" height="16" font="11"> </text>
+<text top="311" left="519" width="5" height="16" font="11"> </text>
+<text top="311" left="539" width="5" height="16" font="11"> </text>
+<text top="311" left="560" width="24" height="16" font="11">   </text>
+<text top="311" left="601" width="5" height="16" font="11"> </text>
+<text top="311" left="621" width="133" height="16" font="13"><b>PF interpretation</b></text>
+<text top="309" left="750" width="5" height="18" font="3"><b> </b></text>
+<text top="332" left="106" width="5" height="18" font="2"> </text>
+<text top="355" left="106" width="5" height="18" font="2"> </text>
+<text top="355" left="156" width="20" height="18" font="2">d. </text>
+<text top="357" left="188" width="105" height="16" font="11">Every boy [T [</text>
+<text top="363" left="290" width="14" height="11" font="12">VP</text>
+<text top="357" left="306" width="230" height="16" font="11"> every boy [tried [every boy [to [</text>
+<text top="363" left="534" width="14" height="11" font="12">VP</text>
+<text top="357" left="550" width="137" height="16" font="11"> every boy win]]]]]  </text>
+<text top="357" left="704" width="5" height="16" font="11"> </text>
+<text top="357" left="725" width="25" height="16" font="13"><b>LF </b></text>
+<text top="378" left="106" width="5" height="18" font="2"> </text>
+<text top="399" left="106" width="5" height="18" font="2"> </text>
+<text top="399" left="156" width="18" height="18" font="2">e. </text>
+<text top="401" left="188" width="96" height="15" font="4">EVERY BOY </text>
+<text top="396" left="285" width="9" height="21" font="15">λ</text>
+<text top="401" left="293" width="7" height="15" font="8"><i>x</i></text>
+<text top="401" left="299" width="60" height="15" font="4"> [PAST [</text>
+<text top="408" left="359" width="11" height="9" font="16">VP</text>
+<text top="401" left="370" width="10" height="15" font="4"> [</text>
+<text top="401" left="380" width="7" height="15" font="8"><i>x</i></text>
+<text top="401" left="387" width="76" height="15" font="4"> TRY [TO [</text>
+<text top="408" left="464" width="11" height="9" font="16">VP</text>
+<text top="401" left="476" width="5" height="15" font="4"> </text>
+<text top="401" left="480" width="7" height="15" font="8"><i>x</i></text>
+<text top="401" left="487" width="78" height="15" font="4"> WIN]]]]]]  </text>
+<text top="401" left="579" width="175" height="15" font="17"><b>LF interpretation (LoTF)</b></text>
+<text top="399" left="755" width="5" height="18" font="2"> </text>
+<text top="423" left="120" width="5" height="18" font="2"> </text>
+<text top="445" left="106" width="690" height="18" font="2">Suppose we are building the structure from the bottom up. In the representation (4), at </text>
+<text top="468" left="106" width="345" height="18" font="2">Spell Out and at LF, the embedded VP [</text>
+<text top="468" left="450" width="117" height="18" font="5"><i>every boy win</i></text>
+<text top="468" left="568" width="228" height="18" font="2">] appears to have a proper </text>
+<text top="490" left="106" width="690" height="18" font="2">meaning. Crucially however, this meaning is not one that enters into the meaning of </text>
+<text top="513" left="106" width="424" height="18" font="2">the whole: the meaning of (3) is not equivalent to (5): </text>
+<text top="535" left="120" width="5" height="18" font="2"> </text>
+<text top="558" left="106" width="27" height="18" font="2">(5) </text>
+<text top="558" left="156" width="422" height="18" font="2">Every boy tried (to make it true that) [every boy win] </text>
+<text top="580" left="120" width="5" height="18" font="2"> </text>
+<text top="604" left="106" width="688" height="18" font="2">It follows that, for (4), we do not want the noun phrase 'every boy' to obtain the theta </text>
+<text top="625" left="106" width="689" height="18" font="2">role assigned externally by 'win'. Rather, we need to construe the embedded subject in </text>
+<text top="648" left="106" width="149" height="18" font="2">(4) as a variable </text>
+<text top="650" left="259" width="63" height="15" font="4">BEFORE</text>
+<text top="648" left="322" width="474" height="18" font="2"> it is assigned its theta role. Contrary to the informal </text>
+<text top="671" left="106" width="690" height="18" font="2">exposition of Hornstein (1999) for (1), there is no equivalence between what appears </text>
+<text top="693" left="106" width="689" height="18" font="2">to be the meaning of the predicate and what is required in LoTF. That is, theta role </text>
+<text top="715" left="106" width="688" height="18" font="2">construal needs to take place at some level subsequent to movement and chain </text>
+<text top="739" left="106" width="682" height="18" font="2">construal, the level we refer to as LoTF. The crucial issue is then whether the non-</text>
+<text top="760" left="106" width="354" height="18" font="2">compositionality at Spell Out in ( 4) matters.  </text>
+<text top="783" left="120" width="673" height="18" font="2">There are two reasons to suppose that it does. First, as argued in Cormack (1989, </text>
+<text top="806" left="106" width="689" height="18" font="2">1999), phrases such as those in (6), each of which by ol der analyses contained an </text>
+<text top="829" left="106" width="689" height="18" font="2">anaphor or np-trace, are manifestly interpretable in isolation, not just as parts of a </text>
+<text top="851" left="106" width="80" height="18" font="2">larger vP. </text>
+<text top="874" left="120" width="5" height="18" font="2"> </text>
+<text top="896" left="106" width="27" height="18" font="2">(6) </text>
+<text top="896" left="156" width="150" height="18" font="2">a.  [trying to win] </text>
+<text top="919" left="106" width="5" height="18" font="2"> </text>
+<text top="941" left="106" width="5" height="18" font="2"> </text>
+<text top="941" left="156" width="185" height="18" font="2">b.  [seeming isolated], </text>
+<text top="964" left="106" width="5" height="18" font="2"> </text>
+<text top="986" left="106" width="5" height="18" font="2"> </text>
+<text top="986" left="156" width="223" height="18" font="2">c.  [pursued by the Furies]  </text>
+<text top="1011" left="120" width="5" height="18" font="2"> </text>
+<text top="1031" left="106" width="5" height="18" font="2"> </text>
+<text top="1031" left="156" width="179" height="18" font="2">d.  [proud of himself] </text>
+<text top="1055" left="120" width="5" height="18" font="2"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="106" width="28" height="15" font="4">360 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="690" height="18" font="2">Analyses like that offered in (4) can give no interpretation to these phrases, since there </text>
+<text top="242" left="106" width="690" height="18" font="2">is no argument chain to licence the ‘crossed through’ item and its subsequent </text>
+<text top="264" left="106" width="689" height="18" font="2">interpretation as a variable. Conversely, an analysis that can give a meaning to such </text>
+<text top="288" left="106" width="690" height="18" font="2">phrases cannot include a copied argument in the embedded subject position in (6a). It </text>
+<text top="309" left="106" width="690" height="18" font="2">is not sufficient that the VP or vP is sent from Spell-Out to the interfaces at the next </text>
+<text top="332" left="106" width="173" height="18" font="2">higher phase if there </text>
+<text top="334" left="281" width="15" height="15" font="4">IS</text>
+<text top="332" left="295" width="501" height="18" font="2"> no next phase. The absence of any copy of an argument is </text>
+<text top="355" left="106" width="515" height="18" font="2">consistent with the fact that in the LoTF (4e), the argument </text>
+<text top="357" left="626" width="97" height="15" font="4">EVERY BOY</text>
+<text top="355" left="723" width="70" height="18" font="2"> is only </text>
+<text top="378" left="106" width="690" height="18" font="2">required once, wholly externally to the matrix VP. In fact, this constitutes an argument </text>
+<text top="399" left="106" width="690" height="18" font="2">against any version of Copy Theory requiring the argument to be merged in a lower </text>
+<text top="423" left="106" width="690" height="18" font="2">theta position of a chain. The onl y viable copy theory would be one where what is </text>
+<text top="445" left="106" width="690" height="18" font="2">merged, copied, and then interpreted, is the lambda operator. As we show below, this </text>
+<text top="468" left="106" width="688" height="18" font="2">would not be compatible with the Tsez data under a Hornstein-style version of </text>
+<text top="490" left="106" width="69" height="18" font="2">Control. </text>
+<text top="513" left="120" width="674" height="18" font="2">Second, it seems reasonably clear that all of acquisition, production and parsing will </text>
+<text top="535" left="106" width="690" height="18" font="2">be facilitated if NL is compositional. Any deviation from compositionality should be </text>
+<text top="558" left="106" width="690" height="18" font="2">looked at with suspicion (though not necessarily rejected). Consider the </text>
+<text top="580" left="106" width="690" height="18" font="2">compositionality of the Spell Out representatio n and LF from the point of view of the </text>
+<text top="604" left="106" width="689" height="18" font="2">speaker. He has something to say, formulated, let us suppose, in LoT. How is this to </text>
+<text top="625" left="106" width="690" height="18" font="2">be realised at PF for production? If the syntax of Spell Out is grossly distinct from that </text>
+<text top="648" left="106" width="690" height="18" font="2">of LoT, it is hard to see how the speaker is to proceed. In particular, presupposing that </text>
+<text top="671" left="106" width="689" height="18" font="2">the constituent lexical items of the LoTF have been selected in such a way that they </text>
+<text top="693" left="106" width="689" height="18" font="2">can be translated into items of LF, there seems to be no reason why he should begin </text>
+<text top="715" left="106" width="386" height="18" font="2">the Merge process by constructing the  phrase [</text>
+<text top="723" left="488" width="18" height="12" font="10">VP </text>
+<text top="715" left="510" width="114" height="18" font="5"><i>every boy win</i></text>
+<text top="715" left="624" width="171" height="18" font="2">], as required by the </text>
+<text top="739" left="106" width="689" height="18" font="2">derivation in (4a), as this has nothing to do with the meaning he wants to construct. </text>
+<text top="760" left="106" width="688" height="18" font="2">Consider instead a procedure for deriving the LF and hence the S-O representation in </text>
+<text top="783" left="106" width="689" height="18" font="2">(4) from the LoTF. In the example given, this would appear to be straightforward; and </text>
+<text top="809" left="106" width="92" height="18" font="2">from an S</text>
+<text top="802" left="198" width="11" height="26" font="9">−</text>
+<text top="809" left="209" width="585" height="18" font="2">O representation, the PF representation can be derived, leading to </text>
+<text top="830" left="106" width="689" height="18" font="2">articulation. Notice however that this bypasses the stage of the standard derivation </text>
+<text top="852" left="106" width="690" height="18" font="2">which relates the numeration to Spell-Out. This has the further implication that </text>
+<text top="875" left="106" width="688" height="18" font="2">grammaticality is not guaranteed (for instance, the copy-chains exhibited in the </text>
+<text top="897" left="106" width="688" height="18" font="2">putative S-O form might not be capable of being licitly generated). The </text>
+<text top="921" left="106" width="687" height="18" font="2">grammaticality could be checked by ‘parsing’ the form which has been  constructed </text>
+<text top="942" left="106" width="690" height="18" font="2">but, even if this were feasible, failure would lead to problems (tweaking the </text>
+<text top="965" left="106" width="687" height="18" font="2">representation to obtain grammaticality would involve re-checking that the resulting </text>
+<text top="989" left="106" width="690" height="18" font="2">LoTF was suitable, and an endless loop might result). Alternatively, the </text>
+<text top="1010" left="106" width="689" height="18" font="2">grammaticality of the putative S-O form could be a consequence of the status of the </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="18" size="19" family="LucidaSansUnicode" color="#000000"/>
+	<fontspec id="19" size="17" family="LucidaSansUnicode" color="#000000"/>
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  361 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="206" height="18" font="2">initial LoT representation.</text>
+<text top="216" left="312" width="7" height="12" font="10">4</text>
+<text top="220" left="318" width="476" height="18" font="2"> In this case, the LF would simply be a notational variant of </text>
+<text top="242" left="106" width="689" height="18" font="2">the LoTF. But the syntax of LoT should be universal, unaffected by NL (although </text>
+<text top="264" left="106" width="689" height="18" font="2">arguably, its vocabulary may be so affected); then wff conditions on LF would simply </text>
+<text top="288" left="106" width="690" height="18" font="2">reflect those of LoT. If this is so, there can be no real sense in which the lower </text>
+<text top="309" left="106" width="689" height="18" font="2">positions in the chain are copies of the argument, and it should be impossible to find </text>
+<text top="332" left="106" width="689" height="18" font="2">data requiring such copies. Their frequent neglect to the contrary notwithstanding, </text>
+<text top="355" left="106" width="153" height="18" font="2">quantifiers matter.  </text>
+<text top="378" left="120" width="673" height="18" font="2">We move on now to the Caucasus, where we find crucial relevant evidence in </text>
+<text top="399" left="106" width="531" height="18" font="2">quantified noun phrase arguments of ‘backward control’ sentences. </text>
+<text top="423" left="120" width="5" height="18" font="2"> </text>
+<text top="445" left="120" width="5" height="18" font="2"> </text>
+<text top="468" left="106" width="548" height="18" font="3"><b>2 Polinsky and Pots dam ‘Backward control’, and its implications  </b></text>
+<text top="490" left="120" width="5" height="18" font="2"> </text>
+<text top="513" left="106" width="689" height="18" font="2">We draw on two interesting papers by Maria Polinsky and Eric Potsdam (P+P </text>
+<text top="535" left="106" width="689" height="18" font="2">hereafter) on the Caucasian language Tsez (Polinsky and Potsdam 2001, 2002). Tsez is </text>
+<text top="558" left="106" width="425" height="18" font="2">an SOV language with clause-bounded scrambling, </text>
+<text top="558" left="534" width="28" height="18" font="5"><i>pro</i></text>
+<text top="558" left="563" width="233" height="18" font="2">-drop and a rich agreement </text>
+<text top="580" left="106" width="690" height="18" font="2">system. Crucially, the tensed verb agrees (in Class, indicated I, II, III or IV) with the </text>
+<text top="606" left="106" width="100" height="15" font="4">ABSOLUTIVE</text>
+<text top="604" left="207" width="586" height="18" font="2"> argument of its clause. The relevant core of their paper on ‘Backward </text>
+<text top="625" left="106" width="689" height="18" font="2">Control’ (P+P 2002) presents an extensive, careful, and convincing argument that Tsez </text>
+<text top="648" left="106" width="526" height="18" font="2">has constructions of the forms in (7) and (8). In (7), the verb  -</text>
+<text top="648" left="632" width="29" height="18" font="5"><i>oqa</i></text>
+<text top="648" left="662" width="133" height="18" font="2"> ‘begin’ has no </text>
+<text top="671" left="106" width="505" height="18" font="2">external theta-role (like the Raising version of the English verb </text>
+<text top="671" left="613" width="44" height="18" font="5"><i>begin</i></text>
+<text top="671" left="657" width="137" height="18" font="2">), whereas in (8) </text>
+<text top="693" left="106" width="687" height="18" font="2">it does have an agentive external theta role, like the  Control version of the English </text>
+<text top="715" left="106" width="39" height="18" font="2">verb </text>
+<text top="715" left="146" width="44" height="18" font="5"><i>begin</i></text>
+<text top="715" left="189" width="531" height="18" font="2"> (see Perlmutter 1970 for arguments distinguishing the two verbs </text>
+<text top="715" left="722" width="44" height="18" font="5"><i>begin</i></text>
+<text top="715" left="766" width="28" height="18" font="2"> in </text>
+<text top="739" left="106" width="81" height="18" font="2">English):  </text>
+<text top="760" left="106" width="5" height="18" font="2"> </text>
+<text top="787" left="106" width="22" height="18" font="2">(7)</text>
+<text top="780" left="128" width="7" height="28" font="18"> </text>
+<text top="782" left="156" width="390" height="25" font="19">kid       ziya         b-išr-a    y-oq-si </text>
+<text top="811" left="106" width="5" height="18" font="2"> </text>
+<text top="811" left="156" width="34" height="18" font="2">girl-</text>
+<text top="813" left="189" width="11" height="15" font="4">II</text>
+<text top="811" left="200" width="7" height="18" font="2">-</text>
+<text top="813" left="207" width="32" height="15" font="17"><b>ABS</b></text>
+<text top="811" left="239" width="5" height="18" font="2"> </text>
+<text top="813" left="251" width="38" height="15" font="4">COW</text>
+<text top="811" left="289" width="7" height="18" font="2">-</text>
+<text top="813" left="295" width="17" height="15" font="4">III</text>
+<text top="811" left="312" width="7" height="18" font="2">-</text>
+<text top="813" left="317" width="32" height="15" font="4">ABS</text>
+<text top="811" left="348" width="10" height="18" font="2">  </text>
+<text top="813" left="374" width="17" height="15" font="4">III</text>
+<text top="811" left="390" width="46" height="18" font="2">-feed-</text>
+<text top="813" left="435" width="28" height="15" font="4">INF</text>
+<text top="811" left="462" width="5" height="18" font="2"> </text>
+<text top="813" left="477" width="11" height="15" font="4">II</text>
+<text top="811" left="488" width="55" height="18" font="2">-begin-</text>
+<text top="813" left="543" width="40" height="15" font="4">PAST</text>
+<text top="811" left="584" width="7" height="18" font="2">-</text>
+<text top="813" left="591" width="39" height="15" font="4">EVID</text>
+<text top="811" left="630" width="5" height="18" font="2"> </text>
+<text top="832" left="106" width="5" height="18" font="2"> </text>
+<text top="832" left="156" width="440" height="18" font="2">‘the girl began to feed the cow’    (‘raising’ construal) </text>
+<text top="855" left="106" width="5" height="18" font="2"> </text>
+<text top="883" left="106" width="27" height="18" font="2">(8) </text>
+<text top="878" left="156" width="412" height="25" font="19">kid-ba    ziya         b-išr-a      y-oq-si </text>
+<text top="904" left="106" width="5" height="18" font="2"> </text>
+<text top="904" left="156" width="34" height="18" font="2">girl-</text>
+<text top="906" left="189" width="11" height="15" font="4">II</text>
+<text top="904" left="200" width="7" height="18" font="2">-</text>
+<text top="906" left="207" width="35" height="15" font="17"><b>ERG</b></text>
+<text top="904" left="243" width="5" height="18" font="2"> </text>
+<text top="906" left="251" width="38" height="15" font="4">COW</text>
+<text top="904" left="289" width="7" height="18" font="2">-</text>
+<text top="906" left="295" width="17" height="15" font="4">III</text>
+<text top="904" left="312" width="7" height="18" font="2">-</text>
+<text top="906" left="317" width="32" height="15" font="4">ABS</text>
+<text top="904" left="348" width="10" height="18" font="2">  </text>
+<text top="906" left="374" width="17" height="15" font="4">III</text>
+<text top="904" left="390" width="46" height="18" font="2">-feed-</text>
+<text top="906" left="435" width="28" height="15" font="4">INF</text>
+<text top="904" left="462" width="19" height="18" font="2">   </text>
+<text top="906" left="498" width="10" height="15" font="4">II</text>
+<text top="904" left="509" width="56" height="18" font="2">-begin-</text>
+<text top="906" left="565" width="40" height="15" font="4">PAST</text>
+<text top="904" left="604" width="7" height="18" font="2">-</text>
+<text top="906" left="611" width="40" height="15" font="4">EVID</text>
+<text top="904" left="650" width="5" height="18" font="2"> </text>
+<text top="934" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="964" left="120" width="5" height="10" font="7">4</text>
+<text top="968" left="126" width="666" height="15" font="4"> This ‘grammaticality’ would have to exclude elements of the lexicon such as c-selection which </text>
+<text top="989" left="106" width="687" height="15" font="4">refer to items of the LF representation (e.g. categories) not present in LoT. There had better be very </text>
+<text top="1007" left="106" width="687" height="15" font="4">few of these. However, that c-selection is correctly accounted for can be ascertained by inspecting the </text>
+<text top="1027" left="106" width="598" height="15" font="4">LF representation. If there is failure here, relexicalisation may suffice (e.g. changing </text>
+<text top="1027" left="709" width="60" height="15" font="8"><i>probable</i></text>
+<text top="1027" left="770" width="23" height="15" font="4"> to </text>
+<text top="1045" left="106" width="36" height="15" font="8"><i>likely</i></text>
+<text top="1045" left="143" width="238" height="15" font="4"> to avoid the ungrammaticality of </text>
+<text top="1045" left="384" width="180" height="15" font="8"><i>John is probable to leave</i></text>
+<text top="1045" left="565" width="228" height="15" font="4">); if not, the utterance will need </text>
+<text top="1064" left="106" width="144" height="15" font="4">rephrasing (in LoT).  </text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="20" size="18" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="21" size="18" family="Symbol" color="#000000"/>
+	<fontspec id="22" size="14" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="23" size="18" family="TimesNewRoman,Bold" color="#000000"/>
+<text top="180" left="106" width="28" height="15" font="4">362 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="5" height="18" font="2"> </text>
+<text top="220" left="156" width="421" height="18" font="2">‘the girl began to feed the cow’   (‘control’ construal) </text>
+<text top="242" left="120" width="5" height="18" font="2"> </text>
+<text top="264" left="106" width="375" height="18" font="2">Note that in (7) the verb does agree with the </text>
+<text top="266" left="483" width="31" height="15" font="4">ABS</text>
+<text top="264" left="514" width="281" height="18" font="2"> NP ‘kid’, but that in (8) there is </text>
+<text top="288" left="106" width="116" height="18" font="2">apparently no </text>
+<text top="290" left="221" width="32" height="15" font="4">ABS</text>
+<text top="288" left="253" width="542" height="18" font="2"> class II argument to account for the agreement. P+P’s account of </text>
+<text top="309" left="106" width="689" height="18" font="2">(8) is based on Hornstein’s (1999) analysis of Control, and they suggest that the </text>
+<text top="332" left="106" width="689" height="18" font="2">structure for (8) is similar to that in (1) above, but that the movement from the </text>
+<text top="355" left="106" width="690" height="18" font="2">embedded subject position to the matrix subject position is covert. The matrix subject </text>
+<text top="378" left="106" width="689" height="18" font="2">may be left empty because the verb has special properties which remove EPP effects. </text>
+<text top="399" left="106" width="383" height="18" font="2">Importantly, however, the empty category has </text>
+<text top="401" left="492" width="32" height="15" font="4">ABS</text>
+<text top="399" left="523" width="270" height="18" font="2"> case. The Spell-Out/PF and LF </text>
+<text top="423" left="106" width="601" height="18" font="2">structures they propose are given in (9) (adapted from their (76), and (64),</text>
+<text top="418" left="707" width="7" height="12" font="10">5</text>
+<text top="423" left="712" width="81" height="18" font="2"> and with </text>
+<text top="445" left="106" width="689" height="18" font="2">some change of notation; noun-class features are shown in LF instead of S-O, for </text>
+<text top="468" left="106" width="688" height="18" font="2">clarity). At Spell-Out, the elements shown crossed through are present; but at PF— by </text>
+<text top="490" left="106" width="399" height="18" font="2">default — only the highest element is pronounced. </text>
+<text top="513" left="120" width="5" height="18" font="2"> </text>
+<text top="535" left="106" width="27" height="18" font="2">(9) </text>
+<text top="535" left="156" width="13" height="18" font="2">a.</text>
+<text top="536" left="170" width="24" height="17" font="20">  [</text>
+<text top="544" left="194" width="14" height="11" font="12">TP</text>
+<text top="536" left="209" width="11" height="17" font="20"> [</text>
+<text top="544" left="219" width="13" height="11" font="12">VP</text>
+<text top="536" left="234" width="5" height="17" font="20"> </text>
+<text top="530" left="239" width="15" height="24" font="21">∅</text>
+<text top="545" left="254" width="18" height="9" font="16">ABS</text>
+<text top="536" left="271" width="25" height="17" font="20">  [</text>
+<text top="544" left="296" width="14" height="11" font="12">TP</text>
+<text top="536" left="312" width="29" height="17" font="20"> girl</text>
+<text top="545" left="339" width="20" height="9" font="16">ERG</text>
+<text top="536" left="360" width="25" height="17" font="20">  [[</text>
+<text top="544" left="386" width="14" height="11" font="12">VP</text>
+<text top="536" left="401" width="30" height="17" font="20"> girl</text>
+<text top="545" left="429" width="19" height="9" font="16">ERG</text>
+<text top="536" left="449" width="35" height="17" font="20"> cow</text>
+<text top="545" left="483" width="20" height="9" font="16">ABS</text>
+<text top="536" left="502" width="205" height="17" font="20"> feed] T]]  begin]] T-begin]]</text>
+<text top="537" left="707" width="5" height="16" font="11"> </text>
+<text top="537" left="725" width="29" height="16" font="13"><b>S-O</b></text>
+<text top="537" left="753" width="5" height="16" font="11"> </text>
+<text top="558" left="106" width="5" height="18" font="2"> </text>
+<text top="578" left="106" width="5" height="18" font="2"> </text>
+<text top="578" left="156" width="5" height="18" font="2"> </text>
+<text top="578" left="188" width="212" height="18" font="2">                     </text>
+<text top="582" left="415" width="26" height="13" font="22">ABS</text>
+<text top="579" left="442" width="109" height="16" font="11"> case and agree </text>
+<text top="600" left="106" width="5" height="18" font="2"> </text>
+<text top="621" left="106" width="5" height="18" font="2"> </text>
+<text top="621" left="156" width="5" height="18" font="2"> </text>
+<text top="621" left="188" width="149" height="18" font="2">               </text>
+<text top="624" left="353" width="27" height="13" font="22">ABS</text>
+<text top="622" left="380" width="109" height="16" font="11"> case and agree </text>
+<text top="643" left="106" width="5" height="18" font="2"> </text>
+<text top="663" left="106" width="5" height="18" font="2"> </text>
+<text top="663" left="156" width="5" height="18" font="2"> </text>
+<text top="663" left="188" width="212" height="18" font="2">                     </text>
+<text top="667" left="415" width="27" height="13" font="22">ERG</text>
+<text top="665" left="441" width="39" height="16" font="11"> case </text>
+<text top="685" left="106" width="5" height="18" font="2"> </text>
+<text top="708" left="106" width="5" height="18" font="2"> </text>
+<text top="708" left="156" width="20" height="18" font="2">b. </text>
+<text top="709" left="188" width="6" height="17" font="20">[</text>
+<text top="717" left="194" width="14" height="11" font="12">TP</text>
+<text top="709" left="209" width="29" height="17" font="20"> girl</text>
+<text top="719" left="236" width="7" height="9" font="16">II</text>
+<text top="709" left="243" width="12" height="17" font="20"> [</text>
+<text top="717" left="255" width="13" height="11" font="12">VP</text>
+<text top="709" left="270" width="29" height="17" font="20"> girl</text>
+<text top="719" left="298" width="7" height="9" font="16">II</text>
+<text top="709" left="305" width="11" height="17" font="20"> [</text>
+<text top="717" left="315" width="15" height="11" font="12">T P</text>
+<text top="709" left="331" width="29" height="17" font="20"> girl</text>
+<text top="719" left="359" width="6" height="9" font="16">II</text>
+<text top="709" left="365" width="17" height="17" font="20"> [[</text>
+<text top="717" left="383" width="14" height="11" font="12">VP</text>
+<text top="709" left="397" width="30" height="17" font="20"> girl</text>
+<text top="719" left="426" width="7" height="9" font="16">II</text>
+<text top="709" left="432" width="42" height="17" font="20">  cow</text>
+<text top="719" left="471" width="10" height="9" font="16">III</text>
+<text top="709" left="482" width="42" height="17" font="20">  feed</text>
+<text top="719" left="522" width="10" height="9" font="16">III</text>
+<text top="709" left="532" width="80" height="17" font="20">] T]] begin</text>
+<text top="719" left="609" width="7" height="9" font="16">II</text>
+<text top="709" left="617" width="73" height="17" font="20">]] T-begin</text>
+<text top="719" left="690" width="7" height="9" font="16">II</text>
+<text top="709" left="698" width="16" height="17" font="20">]] </text>
+<text top="709" left="725" width="24" height="17" font="23"><b>LF</b></text>
+<text top="708" left="746" width="5" height="18" font="2"> </text>
+<text top="731" left="120" width="5" height="18" font="2"> </text>
+<text top="753" left="120" width="632" height="18" font="2">P+P take their account as strong support for the Copy Theory of movement,</text>
+<text top="750" left="753" width="7" height="12" font="10">6</text>
+<text top="753" left="759" width="34" height="18" font="2"> for </text>
+<text top="776" left="106" width="689" height="18" font="2">Hornstein’s ‘movement’ version of Control, and for a derivational as opposed to a </text>
+<text top="811" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="840" left="120" width="5" height="10" font="7">5</text>
+<text top="845" left="126" width="667" height="15" font="4"> This is not in fact the final analysis given by P+P. In order to avoid the complication of double </text>
+<text top="864" left="106" width="352" height="15" font="4">case marking, they suggest in a later section that  –</text>
+<text top="864" left="459" width="25" height="15" font="8"><i>oqa</i></text>
+<text top="864" left="484" width="114" height="15" font="4"> does not assign </text>
+<text top="866" left="601" width="26" height="12" font="10">ABS</text>
+<text top="864" left="626" width="166" height="15" font="4"> case. However, we are </text>
+<text top="883" left="106" width="687" height="15" font="4">unable to follow how the verb agreement is licensed under the latter suggestion, but our own solution </text>
+<text top="902" left="106" width="688" height="15" font="4">as set out in section 3.3 draws on the later analysis. For the purposes of this paper, it does not matter </text>
+<text top="922" left="106" width="687" height="15" font="4">which version is proposed. Double morphological case marking of the chain does not seem to be a </text>
+<text top="940" left="106" width="687" height="15" font="4">serious problem (pace Landau 2001: §5.4), but if two positions have syntactic Case, then the </text>
+<text top="959" left="106" width="628" height="15" font="4">‘freezing’ effect of Case on A-movement (Chomsky 2000: 127) would have to be re-thought. </text>
+<text top="984" left="120" width="5" height="10" font="7">6</text>
+<text top="989" left="126" width="667" height="15" font="4"> Copy Theory was (re)introduced by Chomsky (1995: 202) in order to avoid the ‘curious </text>
+<text top="1007" left="106" width="689" height="15" font="4">operation’ of syntactic reconstruction. Chomsky (2001: 39-41) suggests alternative ways of </text>
+<text top="1027" left="106" width="686" height="15" font="4">conceiving of Copy Theory with the same effect but without multiple merge. Since it is still the case </text>
+<text top="1045" left="106" width="687" height="15" font="4">that at LF and PF any element of the chain can in principle be realised, this does not affect the issue </text>
+<text top="1064" left="106" width="459" height="15" font="4">here, and we show multiple merge chains, as do Hornstein and P+P. </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  363 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="690" height="18" font="2">declarative monostratal version of UG (Chomsky 1987: 193-7, 2001). Since all of </text>
+<text top="242" left="106" width="689" height="18" font="2">these three ideas are controversial and important, their analysis needs to be taken </text>
+<text top="264" left="106" width="84" height="18" font="2">seriously.  </text>
+<text top="288" left="120" width="673" height="18" font="2">We think that when a wider range of data are taken into account; in particular when </text>
+<text top="309" left="106" width="689" height="18" font="2">one looks at the distribution of quantified Noun Phrases, the  apparent virtues of a copy </text>
+<text top="332" left="106" width="689" height="18" font="2">theory analysis dissolve. The P+P papers in fact have little to say about quantification, </text>
+<text top="355" left="106" width="690" height="18" font="2">but an earlier version of their (2002) included such data and Maria Polinsky has </text>
+<text top="378" left="106" width="688" height="18" font="2">patiently answered our many questions, and has provided us with the crucial example </text>
+<text top="399" left="106" width="687" height="18" font="2">given below in (10). We see P+P’s data and argument as important for the following </text>
+<text top="423" left="106" width="690" height="18" font="2">reason. We are committed to a position in which the constructs and mechanisms that </text>
+<text top="445" left="106" width="687" height="18" font="2">we deploy are not simply instrumentalist descriptive devices, but are ‘psychologically </text>
+<text top="468" left="106" width="690" height="18" font="2">real’ (see Smith 1999, ch.3). As Chomsky (2001: 39) put it: ‘... we want to be careful </text>
+<text top="490" left="106" width="690" height="18" font="2">to distinguish terminological artifacts from what may be substantive matters. The </text>
+<text top="513" left="106" width="689" height="18" font="2">question commonly arises with regard to the status of entities introduced in linguistic </text>
+<text top="535" left="106" width="334" height="18" font="2">description and theoretical exposition ...’.  </text>
+<text top="558" left="120" width="674" height="18" font="2">It would be possible to regard Copy Theory accounts of well-formedness conditions </text>
+<text top="580" left="106" width="690" height="18" font="2">on ‘movement’ and devices like Hornstein’s account of Control as mere descriptive </text>
+<text top="604" left="106" width="688" height="18" font="2">devices which are eas y for the linguist to manipulate, and which can in most cases be </text>
+<text top="625" left="106" width="682" height="18" font="2">translated into other formalisms without loss of descriptive power. Similarly, post-</text>
+<text top="648" left="106" width="689" height="18" font="2">Spell-Out LF movement, such as QR and reconstruction, is amenable to alternative </text>
+<text top="671" left="106" width="689" height="18" font="2">descriptions, because the  elements involved, such as traces or copies or LF-moved </text>
+<text top="693" left="106" width="690" height="18" font="2">quantifiers or sundry empty categories do not appear overtly in the phonological forms </text>
+<text top="715" left="106" width="690" height="18" font="2">of the language, and we have no direct and overt evidence as to the form of their </text>
+<text top="739" left="106" width="690" height="18" font="2">lexical entries, if any. However, the case that P+P discuss seems not to be of this sort: </text>
+<text top="760" left="106" width="689" height="18" font="2">it apparently does distinguish sharply between an interpretive model like the standard </text>
+<text top="783" left="106" width="690" height="18" font="2">inverted Y model of Chomsky’s Principles and Parameters grammar and the </text>
+<text top="806" left="106" width="687" height="18" font="2">Minimalist Program, and more surface-driven and compositionally-motivated </text>
+<text top="829" left="106" width="285" height="18" font="2">grammars such as HPSG  and CCG.</text>
+<text top="824" left="390" width="7" height="12" font="10">7</text>
+<text top="829" left="396" width="5" height="18" font="2"> </text>
+<text top="851" left="120" width="673" height="18" font="2">There are alternative analyses of Control, such as those offered by Manzini and </text>
+<text top="874" left="106" width="689" height="18" font="2">Roussou (2000), and by Cormack and Smith (2001b), that are like Hornstein’s in </text>
+<text top="896" left="106" width="689" height="18" font="2">assimilating Control to Raising, but do not postulate the merger of the full noun phrase </text>
+<text top="919" left="106" width="690" height="18" font="2">in the subject position of the embedded clause. These crucially cannot account for the </text>
+<text top="941" left="106" width="689" height="18" font="2">Tsez data in the way suggested by Polinsky and Potsdam. For this reason, it is equally </text>
+<text top="964" left="106" width="688" height="18" font="2">crucial that the occurrence of quantified noun phrases in structures like (8) is </text>
+<text top="986" left="106" width="690" height="18" font="2">discussed. The essential data is absent from P+P 2002, although from P+P 2001, we </text>
+<text top="1030" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="1061" left="120" width="5" height="10" font="7">7</text>
+<text top="1064" left="126" width="586" height="15" font="4"> Reconstruction and binding are dealt with separately in these grammars, none the less. </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="24" size="17" family="Symbol" color="#000000"/>
+<text top="180" left="106" width="28" height="15" font="4">364 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="689" height="18" font="2">can at least be sure that the language does have quantified noun phrases. If quantified </text>
+<text top="242" left="106" width="688" height="18" font="2">noun phrases occur in structures like (8), then compositionality in the sense we </text>
+<text top="264" left="106" width="186" height="18" font="2">understand it is at risk.</text>
+<text top="261" left="291" width="7" height="12" font="10">8</text>
+<text top="264" left="298" width="496" height="18" font="2"> If they do not, then we would still hope to explain the data </text>
+<text top="288" left="106" width="690" height="18" font="2">involving control readings with referential noun phrases in some other way: the </text>
+<text top="309" left="106" width="687" height="18" font="2">presence of a referential argument in the embedded subject position is not precluded in </text>
+<text top="332" left="106" width="199" height="18" font="2">a compositional account. </text>
+<text top="355" left="120" width="279" height="18" font="2">The fact of the matter is that it is </text>
+<text top="357" left="403" width="34" height="15" font="4">NOT</text>
+<text top="355" left="437" width="358" height="18" font="2"> possible for noun phrases with distributive </text>
+<text top="378" left="106" width="690" height="18" font="2">quantifiers to occur as the subject in structures like that in (8), in Tsez, as we see in the </text>
+<text top="399" left="106" width="216" height="18" font="2">ungrammaticality  of (10).  </text>
+<text top="423" left="120" width="5" height="18" font="2"> </text>
+<text top="450" left="106" width="37" height="18" font="2">(10) </text>
+<text top="451" left="156" width="9" height="16" font="11">*</text>
+<text top="445" left="165" width="420" height="25" font="19">šibaw/kinnaw    už-a       t’ek        t’et’r-a </text>
+<text top="446" left="601" width="14" height="23" font="24">∅</text>
+<text top="445" left="615" width="56" height="25" font="19">-oq-si</text>
+<text top="443" left="672" width="7" height="28" font="18"> </text>
+<text top="471" left="106" width="5" height="18" font="2"> </text>
+<text top="471" left="156" width="190" height="18" font="2">every/each        boy-</text>
+<text top="473" left="347" width="32" height="15" font="4">ERG</text>
+<text top="471" left="379" width="81" height="18" font="2">    book-</text>
+<text top="473" left="460" width="32" height="15" font="4">ABS</text>
+<text top="471" left="493" width="65" height="18" font="2">   read-</text>
+<text top="473" left="558" width="26" height="15" font="4">INF</text>
+<text top="471" left="585" width="5" height="18" font="2"> </text>
+<text top="473" left="601" width="5" height="15" font="4">I</text>
+<text top="471" left="605" width="56" height="18" font="2">-begin-</text>
+<text top="473" left="662" width="50" height="15" font="4">PSTEV</text>
+<text top="471" left="711" width="5" height="18" font="2"> </text>
+<text top="495" left="106" width="5" height="18" font="2"> </text>
+<text top="495" left="156" width="305" height="18" font="2">‘every boy began to read a/the book’   </text>
+<text top="517" left="120" width="5" height="18" font="2"> </text>
+<text top="539" left="106" width="689" height="18" font="2">We take this as evidence that Copy Theory has not been shown to be essential, that a </text>
+<text top="562" left="106" width="688" height="18" font="2">monostratal grammar is not ruled out, and that our pursuit of an alternative, </text>
+<text top="585" left="106" width="689" height="18" font="2">compositional, account is endorsed. It is equally clear that P+P have produced an </text>
+<text top="607" left="106" width="690" height="18" font="2">interesting structure which is permitted just for referential subjects, and is in need of </text>
+<text top="630" left="106" width="689" height="18" font="2">analysis. It follows that we predict that no language will permit cases of ‘backward </text>
+<text top="652" left="106" width="689" height="18" font="2">control’ with essentially non-referential arguments in the embedded clause position. </text>
+<text top="676" left="106" width="297" height="18" font="2">We invite putative counter-examples. </text>
+<text top="697" left="120" width="674" height="18" font="2">At this point, there are two routes to pur sue: the Hornstein route, and one that rejects </text>
+<text top="720" left="106" width="690" height="18" font="2">this line. We offer an analysis of the latter kind, involving non-canonical control </text>
+<text top="743" left="106" width="687" height="18" font="2">structures. In a canonical control structure, the subject of the embedded clause is PRO </text>
+<text top="765" left="106" width="690" height="18" font="2">(Principles and Parameters and Minimalist Program analysis) or is an A-movement </text>
+<text top="787" left="106" width="688" height="18" font="2">trace (Hornstein 1999). In the non-canonical control structures we offer below, the </text>
+<text top="811" left="106" width="690" height="18" font="2">embedded subject is overt, and stands in a syntactic Case position. Since P+P (2002: </text>
+<text top="832" left="106" width="689" height="18" font="2">§2.4.2) have already argued that in Tsez, infinitival clauses can have subjects, we take </text>
+<text top="855" left="106" width="492" height="18" font="2">the Case property required for non-canonical control as given. </text>
+<text top="878" left="120" width="5" height="18" font="2"> </text>
+<text top="900" left="120" width="5" height="18" font="2"> </text>
+<text top="953" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="984" left="120" width="5" height="10" font="7">8</text>
+<text top="989" left="126" width="666" height="15" font="4"> The only alternative to Copy Theory that would account for the presence of an overt quantified </text>
+<text top="1007" left="106" width="687" height="15" font="4">subject in the embedded clause where it is not semantically viable would be ‘lowering’ at PF within a </text>
+<text top="1027" left="106" width="687" height="15" font="4">movement chain. It is hard to see how this could be reconciled with the ergative morphological case </text>
+<text top="1045" left="106" width="688" height="15" font="4">exhibited by the embedded subject, together with the verbal agreement facts for Tsez. Moreover, it is </text>
+<text top="1064" left="106" width="342" height="15" font="4">quite unclear what could motivate such lowering.   </text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="25" size="13" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="26" size="18" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="27" size="15" family="TimesNewRoman" color="#000000"/>
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  365 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="216" height="18" font="3"><b>3 Non-Canonical Control </b></text>
+<text top="242" left="106" width="135" height="18" font="3"><b>3.1 Alternatives </b></text>
+<text top="264" left="106" width="5" height="18" font="2"> </text>
+<text top="288" left="106" width="689" height="18" font="2">In order to offer an alternative non-Copy-Theory account of the Tsez structure in (8), </text>
+<text top="309" left="106" width="690" height="18" font="2">we pursue a line that P+P consider, but reject. We require an LF representation where </text>
+<text top="332" left="106" width="690" height="18" font="2">there is an empty subject, and also an argument taking the external role of the </text>
+<text top="355" left="106" width="689" height="18" font="2">embedded verb inside the embedded clause. We take the embedded clause to be a TP, </text>
+<text top="378" left="106" width="689" height="18" font="2">where the T case-licenses the subject (alternatively, the clause might be headed by a </text>
+<text top="399" left="106" width="690" height="18" font="2">null C). Suppose first that the LF representation is relevantly as in (11) (English words </text>
+<text top="423" left="106" width="254" height="18" font="2">have been substituted for Tsez): </text>
+<text top="445" left="106" width="5" height="18" font="2"> </text>
+<text top="468" left="106" width="57" height="18" font="2">(11)  [</text>
+<text top="474" left="162" width="16" height="12" font="10">TP</text>
+<text top="468" left="179" width="16" height="18" font="2">  [</text>
+<text top="474" left="194" width="27" height="12" font="10">DNP</text>
+<text top="468" left="221" width="5" height="18" font="2"> </text>
+<text top="468" left="230" width="28" height="18" font="5"><i>pro</i></text>
+<text top="474" left="257" width="4" height="12" font="25"><i>j</i></text>
+<text top="468" left="260" width="37" height="18" font="2">]   [</text>
+<text top="474" left="296" width="16" height="12" font="10">TP</text>
+<text top="468" left="313" width="57" height="18" font="2"> [  John</text>
+<text top="474" left="368" width="4" height="12" font="25"><i>j</i></text>
+<text top="468" left="372" width="29" height="18" font="2">   [</text>
+<text top="474" left="401" width="16" height="12" font="10">VP</text>
+<text top="468" left="417" width="288" height="18" font="2"> the dog to feed]]  began      ]  T] </text>
+<text top="490" left="106" width="5" height="18" font="2"> </text>
+<text top="490" left="156" width="5" height="18" font="2"> </text>
+<text top="490" left="188" width="26" height="18" font="2">arg</text>
+<text top="498" left="213" width="7" height="12" font="10">2</text>
+<text top="490" left="221" width="96" height="18" font="2">        arg</text>
+<text top="498" left="315" width="7" height="12" font="10">1</text>
+<text top="490" left="323" width="334" height="18" font="2">                        lexical head </text>
+<text top="513" left="120" width="5" height="18" font="2"> </text>
+<text top="535" left="106" width="338" height="18" font="2">Polinsky and Potsdam reject this analysis (</text>
+<text top="535" left="443" width="31" height="18" font="5"><i>ibid</i></text>
+<text top="535" left="475" width="321" height="18" font="2">, footnote 17) on three grounds. First, it </text>
+<text top="558" left="106" width="689" height="18" font="2">fails to account for the controller-controllee relation in a Control sentence (shown by </text>
+<text top="580" left="106" width="690" height="18" font="2">the coindexing in (11)); second, it fails to explain why there cannot be an overt subject </text>
+<text top="604" left="106" width="304" height="18" font="2">in the matrix clause in the position of </text>
+<text top="604" left="408" width="28" height="18" font="5"><i>pro</i></text>
+<text top="604" left="437" width="359" height="18" font="2">; and third, there is an unexplained Principle </text>
+<text top="625" left="106" width="689" height="18" font="2">C violation. We will argue that there are nevertheless viable variants of such an </text>
+<text top="648" left="106" width="667" height="18" font="2">analysis. We begin with the ‘cont rol’ element, since this is essential to any analysis.  </text>
+<text top="671" left="120" width="674" height="18" font="2">All NL lexical heads select for arguments which can, as a first approximation, be </text>
+<text top="693" left="106" width="689" height="18" font="2">given the types &lt;e&gt; (entity) or &lt;t&gt; (proposition, fact, action, state, etc. subsumed </text>
+<text top="715" left="106" width="689" height="18" font="2">under the general description of ‘event’; of course, intentionality has to be accounted </text>
+<text top="739" left="106" width="689" height="18" font="2">for in a more detailed exposition). It follows that the semantics of the control verb in </text>
+<text top="760" left="106" width="426" height="18" font="2">both this case and the usual control case is as follows: </text>
+<text top="783" left="120" width="5" height="18" font="2"> </text>
+<text top="809" left="106" width="37" height="18" font="2">(12) </text>
+<text top="802" left="156" width="11" height="26" font="9">λ</text>
+<text top="809" left="167" width="8" height="18" font="5"><i>s</i></text>
+<text top="809" left="174" width="5" height="18" font="2"> </text>
+<text top="802" left="180" width="11" height="26" font="9">λ</text>
+<text top="809" left="189" width="9" height="18" font="5"><i>x</i></text>
+<text top="809" left="199" width="11" height="18" font="2"> (</text>
+<text top="811" left="210" width="50" height="15" font="4">BEGIN</text>
+<text top="809" left="259" width="11" height="18" font="2">. </text>
+<text top="809" left="269" width="8" height="18" font="5"><i>s</i></text>
+<text top="809" left="277" width="18" height="18" font="2">). </text>
+<text top="809" left="293" width="9" height="18" font="5"><i>x</i></text>
+<text top="809" left="302" width="5" height="18" font="2"> </text>
+<text top="829" left="106" width="5" height="18" font="2"> </text>
+<text top="830" left="156" width="52" height="17" font="20">where </text>
+<text top="830" left="207" width="7" height="17" font="26"><i>s</i></text>
+<text top="830" left="215" width="107" height="17" font="20"> has type &lt;t&gt;, </text>
+<text top="830" left="322" width="8" height="17" font="26"><i>x</i></text>
+<text top="830" left="331" width="208" height="17" font="20"> has type &lt;e&gt;, and the item </text>
+<text top="832" left="540" width="45" height="14" font="27">BEGIN</text>
+<text top="830" left="586" width="172" height="17" font="20"> has type &lt;&lt;t, &lt;e, t&gt;&gt;. </text>
+<text top="852" left="120" width="5" height="18" font="2"> </text>
+<text top="874" left="106" width="690" height="18" font="2">In the standard version of Control, the subject of the embedded clause is forced to be </text>
+<text top="896" left="106" width="419" height="18" font="2">an anaphor, PRO, so that the external argument of </text>
+<text top="899" left="527" width="50" height="15" font="4">BEGIN</text>
+<text top="896" left="575" width="219" height="18" font="2"> binds the external role of </text>
+<text top="920" left="106" width="39" height="18" font="2">both </text>
+<text top="922" left="146" width="50" height="15" font="4">BEGIN</text>
+<text top="920" left="195" width="600" height="18" font="2"> and the verb of the internal clause. However, this is not sufficient for the </text>
+<text top="942" left="106" width="687" height="18" font="2">semantic well-formedness of a Control sentence. The PRO subject must take on an </text>
+<text top="964" left="106" width="690" height="18" font="2">agentive role in the embedded clause, as we see from the anomaly of (13) and the </text>
+<text top="987" left="106" width="154" height="18" font="2">explicature of (14): </text>
+<text top="1010" left="120" width="5" height="18" font="2"> </text>
+<text top="1031" left="106" width="375" height="18" font="2">(13)  #John tried PRO to be conceived in Peru </text>
+<text top="1055" left="106" width="5" height="18" font="2"> </text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="106" width="28" height="15" font="4">366 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="288" height="18" font="2">(14)  John tried to be seen by Alice </text>
+<text top="240" left="106" width="5" height="18" font="2"> </text>
+<text top="241" left="156" width="592" height="17" font="20">‘John tried to make it the case that Alice saw him by acting in a suitable manner’ </text>
+<text top="263" left="120" width="5" height="18" font="2"> </text>
+<text top="285" left="106" width="540" height="18" font="2">We can state this requirement as a Meaning Postulate on the LoT </text>
+<text top="288" left="650" width="33" height="15" font="4">TRY</text>
+<text top="285" left="683" width="113" height="18" font="2">, and mutatis </text>
+<text top="308" left="106" width="260" height="18" font="2">mutandis for other control verbs.</text>
+<text top="303" left="363" width="7" height="12" font="10">9</text>
+<text top="308" left="370" width="298" height="18" font="2"> We need an MP something like (15): </text>
+<text top="330" left="120" width="5" height="18" font="2"> </text>
+<text top="355" left="106" width="223" height="18" font="2">(15)  Meaning Postulate 1: </text>
+<text top="349" left="332" width="14" height="26" font="9">∀</text>
+<text top="355" left="347" width="8" height="18" font="5"><i>s</i></text>
+<text top="355" left="354" width="5" height="18" font="2"> </text>
+<text top="349" left="359" width="14" height="26" font="9">∀</text>
+<text top="355" left="372" width="9" height="18" font="5"><i>x</i></text>
+<text top="355" left="381" width="12" height="18" font="2"> [</text>
+<text top="357" left="393" width="33" height="15" font="4">TRY</text>
+<text top="355" left="425" width="5" height="18" font="2">.</text>
+<text top="355" left="430" width="8" height="18" font="5"><i>s</i></text>
+<text top="355" left="437" width="5" height="18" font="2">.</text>
+<text top="355" left="441" width="9" height="18" font="5"><i>x</i></text>
+<text top="355" left="451" width="32" height="18" font="2"> =&gt; </text>
+<text top="355" left="482" width="9" height="18" font="5"><i>x</i></text>
+<text top="355" left="492" width="239" height="18" font="2"> is agent in the event given by </text>
+<text top="355" left="730" width="8" height="18" font="5"><i>s</i></text>
+<text top="355" left="739" width="9" height="18" font="2">] </text>
+<text top="377" left="106" width="5" height="18" font="2"> </text>
+<text top="377" left="156" width="5" height="18" font="2"> </text>
+<text top="377" left="188" width="236" height="18" font="2">              where type </text>
+<text top="377" left="423" width="9" height="18" font="5"><i>x</i></text>
+<text top="377" left="431" width="132" height="18" font="2"> = &lt;e&gt; and type </text>
+<text top="377" left="560" width="8" height="18" font="5"><i>s</i></text>
+<text top="377" left="568" width="57" height="18" font="2"> = &lt;t&gt;. </text>
+<text top="399" left="120" width="5" height="18" font="2"> </text>
+<text top="423" left="106" width="688" height="18" font="2">Note that such an MP is only possible if the verb is such that there must be matchi ng </text>
+<text top="444" left="106" width="682" height="18" font="2">of the matrix subject with some identifiable role in the embedded clause. The cross-</text>
+<text top="468" left="106" width="689" height="18" font="2">linguistic totality of verbs participating in ‘backward control’ listed in Polinsky and </text>
+<text top="490" left="106" width="688" height="18" font="2">Potsdam (2002: 278) have meanings: ‘begin’, ‘continue’, ‘stop’, ‘set out to’, ‘hurry’, </text>
+<text top="513" left="106" width="593" height="18" font="2">‘intend/want’; ‘come/arrive’, ‘go’, ‘pass’; ‘fear’, ‘enjoy’, ‘be amused’,</text>
+<text top="515" left="699" width="5" height="15" font="4"> </text>
+<text top="513" left="709" width="54" height="18" font="2">plus  –</text>
+<text top="513" left="763" width="27" height="18" font="5"><i>eru</i></text>
+<text top="513" left="789" width="5" height="18" font="2"> </text>
+<text top="535" left="106" width="303" height="18" font="2">(potential suffix) verbs in Japanese.</text>
+<text top="531" left="408" width="13" height="12" font="10">10</text>
+<text top="535" left="422" width="372" height="18" font="2"> The verbs in this group are fairly clearly </text>
+<text top="558" left="106" width="688" height="18" font="2">consistent with the MP in (15), at least for some reading of the English gloss. We </text>
+<text top="580" left="106" width="689" height="18" font="2">predict that all the verbs involved in genuine Backward Control do comport with (15), </text>
+<text top="603" left="106" width="690" height="18" font="2">and that it is not possible for any language to have Backward Control with meanings </text>
+<text top="625" left="106" width="104" height="18" font="2">like ‘expect’.</text>
+<text top="621" left="210" width="13" height="12" font="10">11</text>
+<text top="625" left="223" width="572" height="18" font="2"> We have not yet checked whether our prediction can be substantiated </text>
+<text top="648" left="106" width="688" height="18" font="2">cross-linguistically. In Tsez, only the verbs corresponding to  ‘begin’ and  ‘continue’ </text>
+<text top="670" left="106" width="690" height="18" font="2">show Backward Control; there are canonical (‘forward control’) Control verbs </text>
+<text top="693" left="106" width="317" height="18" font="2">including ‘forget’, ‘threaten’ and ‘stop’. </text>
+<text top="715" left="120" width="673" height="18" font="2">There is then no problem with the semantics. The next  question concerns the empty </text>
+<text top="739" left="106" width="527" height="18" font="2">matrix subject. We see two possibilities here. The first assumes a </text>
+<text top="739" left="635" width="27" height="18" font="5"><i>pro</i></text>
+<text top="739" left="662" width="134" height="18" font="2"> subject, but the </text>
+<text top="760" left="106" width="682" height="18" font="2">subject and the embedded clause are scrambled, where scrambling changes c-</text>
+<text top="820" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="852" left="120" width="5" height="10" font="7">9</text>
+<text top="855" left="126" width="667" height="15" font="4"> We take Meaning Postulates to function as Inference Rules. For a discussion and more accurate </text>
+<text top="874" left="106" width="584" height="15" font="4">characterisation of Meaning Postulates relating to control, see Dowty (1985: 297-303). </text>
+<text top="898" left="120" width="11" height="10" font="7">10</text>
+<text top="902" left="132" width="660" height="15" font="4"> The languages exhibiting ‘Backward Control’ include two  other Nakh-Daghestanian languages, </text>
+<text top="922" left="106" width="308" height="15" font="4">and Malagasy, Japanese, Jacaltec, and Jemez. </text>
+<text top="945" left="120" width="11" height="10" font="7">11</text>
+<text top="949" left="132" width="330" height="15" font="4"> As Anderson (2001:78 ) points out, verbs like </text>
+<text top="951" left="464" width="48" height="12" font="10">EXPECT</text>
+<text top="949" left="513" width="280" height="15" font="4"> impose no constraint on the role of the </text>
+<text top="968" left="106" width="687" height="15" font="4">controllee in the embedded clause, so that it would be impossible to set up a Meaning Postulate like </text>
+<text top="989" left="106" width="53" height="15" font="4">that for </text>
+<text top="991" left="162" width="28" height="12" font="10">TRY </text>
+<text top="989" left="195" width="56" height="15" font="4">given in</text>
+<text top="991" left="251" width="3" height="12" font="10"> </text>
+<text top="989" left="255" width="536" height="15" font="4">(15). Further, Landau (2001), following Chierchia (1990) and Higginbotham </text>
+<text top="1007" left="106" width="687" height="15" font="4">(1992), points out that there is a difference in available readings between the control and full clause </text>
+<text top="1027" left="106" width="181" height="15" font="4">versions of sentences with </text>
+<text top="1029" left="289" width="48" height="12" font="10">EXPECT</text>
+<text top="1027" left="339" width="160" height="15" font="4"> and related verbs. The </text>
+<text top="1027" left="500" width="36" height="15" font="8"><i>de se</i></text>
+<text top="1027" left="534" width="259" height="15" font="4"> reading for control clauses cannot be </text>
+<text top="1045" left="106" width="687" height="15" font="4">accounted for under the Non-Canonical Control structure that we offer, but needs a canonical Control </text>
+<text top="1064" left="106" width="448" height="15" font="4">structure (which allows a suitable Meaning Postulate to be added). </text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  367 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="689" height="18" font="2">command relations. The second assumes an existentially quantified subject, but no </text>
+<text top="242" left="106" width="383" height="18" font="2">syntactic co-indexing. We discuss these in turn.  </text>
+<text top="264" left="120" width="5" height="18" font="2"> </text>
+<text top="288" left="106" width="311" height="18" font="3"><b>3.2 Non-Canonical Control version 1 </b></text>
+<text top="309" left="106" width="5" height="18" font="2"> </text>
+<text top="332" left="106" width="689" height="18" font="2">Mahajan (1990) argues that Hindi has scrambling which is similar to A-movement. </text>
+<text top="355" left="106" width="690" height="18" font="2">Examples are given which show that when an object is scrambled over a subject, but </text>
+<text top="378" left="106" width="537" height="18" font="2">not when the object is in its usual position to the right of the subject:</text>
+<text top="373" left="642" width="13" height="12" font="10">12</text>
+<text top="378" left="656" width="9" height="18" font="2">  </text>
+<text top="399" left="106" width="5" height="18" font="2"> </text>
+<text top="423" left="106" width="23" height="18" font="2">(i) </text>
+<text top="423" left="156" width="522" height="18" font="2">a quantified object may bind a bound-variable pronoun subject (</text>
+<text top="423" left="676" width="31" height="18" font="5"><i>ibid</i></text>
+<text top="423" left="708" width="88" height="18" font="2"> examples </text>
+<text top="445" left="156" width="114" height="18" font="2">(24) and (26)) </text>
+<text top="468" left="106" width="5" height="18" font="2"> </text>
+<text top="490" left="106" width="28" height="18" font="2">(ii) </text>
+<text top="490" left="156" width="449" height="18" font="2">an object may be the antecedent of a reflexive subject (</text>
+<text top="490" left="604" width="30" height="18" font="5"><i>ibid</i></text>
+<text top="490" left="635" width="160" height="18" font="2"> examples (39) and </text>
+<text top="513" left="156" width="44" height="18" font="2">(40)) </text>
+<text top="535" left="106" width="690" height="18" font="2">Similarly, when an indirect object is scrambled over a direct object, but not when the </text>
+<text top="558" left="106" width="687" height="18" font="2">indirect object is in its usual position to the right of the direct object, Principle C </text>
+<text top="580" left="106" width="120" height="18" font="2">effects change: </text>
+<text top="604" left="120" width="5" height="18" font="2"> </text>
+<text top="625" left="106" width="689" height="18" font="2">(iii)  an object pronoun may be coreferential with an indirect object full noun phrase </text>
+<text top="648" left="156" width="7" height="18" font="2">(</text>
+<text top="648" left="163" width="31" height="18" font="5"><i>ibid</i></text>
+<text top="648" left="194" width="198" height="18" font="2"> examples (49) and (50)) </text>
+<text top="671" left="120" width="673" height="18" font="2">Suppose that in some language where scrambling affects c-command as it does in </text>
+<text top="693" left="106" width="690" height="18" font="2">Hindi, it is also possible to scramble clauses over the subject (in Hindi, it is not </text>
+<text top="715" left="106" width="687" height="18" font="2">possible to scramble tensed clauses over the subject). In Tsez, non-finite clauses with </text>
+<text top="739" left="106" width="689" height="18" font="2">subjects may at least scramble rightwards over verbs (P+P 2002: 254, example (25b)); </text>
+<text top="760" left="106" width="689" height="18" font="2">we have no data about the effect of scrambling on c-command. Then instead of (11), </text>
+<text top="783" left="106" width="683" height="18" font="2">we postulate that the order of arguments for ‘backward control’ examples is as in ( 16): </text>
+<text top="806" left="120" width="5" height="18" font="2"> </text>
+<text top="829" left="106" width="57" height="18" font="2">(16)  [</text>
+<text top="837" left="162" width="16" height="12" font="10">TP</text>
+<text top="829" left="179" width="16" height="18" font="2">  [</text>
+<text top="837" left="194" width="16" height="12" font="10">TP</text>
+<text top="829" left="210" width="42" height="18" font="2"> John</text>
+<text top="837" left="252" width="4" height="12" font="25"><i>j</i></text>
+<text top="829" left="255" width="11" height="18" font="2"> [</text>
+<text top="837" left="267" width="16" height="12" font="10">VP</text>
+<text top="829" left="284" width="136" height="18" font="2"> the dog to feed]]</text>
+<text top="837" left="419" width="7" height="12" font="10">k</text>
+<text top="829" left="426" width="16" height="18" font="2">  [</text>
+<text top="837" left="441" width="27" height="12" font="10">DNP</text>
+<text top="829" left="468" width="5" height="18" font="2"> </text>
+<text top="829" left="477" width="28" height="18" font="5"><i>pro</i></text>
+<text top="837" left="504" width="4" height="12" font="25"><i>j</i></text>
+<text top="829" left="507" width="156" height="18" font="2">]   began      T] </text>
+<text top="851" left="106" width="5" height="18" font="2"> </text>
+<text top="851" left="156" width="5" height="18" font="2"> </text>
+<text top="851" left="188" width="26" height="18" font="2">arg</text>
+<text top="858" left="213" width="7" height="12" font="10">2</text>
+<text top="851" left="221" width="241" height="18" font="2">                      arg</text>
+<text top="858" left="460" width="7" height="12" font="10">1</text>
+<text top="851" left="467" width="170" height="18" font="2">        lexical head </text>
+<text top="874" left="120" width="5" height="18" font="2"> </text>
+<text top="896" left="106" width="252" height="18" font="2">In this structure, by hypothesis, </text>
+<text top="896" left="359" width="27" height="18" font="5"><i>pro</i></text>
+<text top="896" left="386" width="174" height="18" font="2"> does not c-command </text>
+<text top="896" left="561" width="38" height="18" font="5"><i>John</i></text>
+<text top="896" left="600" width="194" height="18" font="2">, so that the coreference </text>
+<text top="919" left="106" width="689" height="18" font="2">required by the Meaning Postulate is not ruled out by Principle C. This would explain </text>
+<text top="941" left="106" width="688" height="18" font="2">the apparent possibility of ‘backward control’. Further, it will not be possible to </text>
+<text top="964" left="106" width="366" height="18" font="2">substitute a non-referring expression such as </text>
+<text top="964" left="470" width="73" height="18" font="5"><i>each boy</i></text>
+<text top="964" left="542" width="34" height="18" font="2"> for </text>
+<text top="964" left="578" width="37" height="18" font="5"><i>John</i></text>
+<text top="964" left="618" width="177" height="18" font="2">, in (16), because the </text>
+<text top="1011" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="1041" left="120" width="11" height="10" font="7">12</text>
+<text top="1045" left="132" width="660" height="15" font="4"> The judgements are not as sharp as implied here: some of those we have said are ungrammatical </text>
+<text top="1064" left="106" width="565" height="15" font="4">are given as ‘???/*’, and some of those we have said are acceptable are given as ‘?’. </text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="106" width="28" height="15" font="4">368 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="690" height="18" font="2">pronoun would not be bound. However, we would need to rule out a structure like that </text>
+<text top="242" left="106" width="687" height="18" font="2">in (11) in order to account fully for the impossibility of subjects with distributed </text>
+<text top="266" left="106" width="355" height="18" font="2">quantifiers; and we also need the verbs like </text>
+<text top="260" left="462" width="11" height="26" font="9">−</text>
+<text top="266" left="471" width="30" height="18" font="5"><i>oqa</i></text>
+<text top="266" left="502" width="292" height="18" font="2">, but not canonical control verbs, to </text>
+<text top="289" left="106" width="687" height="18" font="2">have a lexical property that permits (16). We suggest that such verbs have the order in </text>
+<text top="311" left="106" width="690" height="18" font="2">(16) as the unmarked order in the lexicon, as indicated. Hence our Non-Canonical </text>
+<text top="334" left="106" width="58" height="18" font="2">Control</text>
+<text top="342" left="164" width="7" height="12" font="10">1</text>
+<text top="334" left="171" width="504" height="18" font="2"> hypothesis is embodied in the hypothetical lexical entry for –</text>
+<text top="334" left="674" width="30" height="18" font="5"><i>oqa</i></text>
+<text top="334" left="704" width="90" height="18" font="2"> as in  (17) </text>
+<text top="356" left="106" width="200" height="18" font="2">(compare this with ( 12)): </text>
+<text top="379" left="120" width="5" height="18" font="2"> </text>
+<text top="404" left="106" width="57" height="18" font="2">(17)  -</text>
+<text top="404" left="163" width="30" height="18" font="5"><i>oqa</i></text>
+<text top="404" left="192" width="303" height="18" font="2">    c-selection : V/D/T    meaning: </text>
+<text top="406" left="493" width="50" height="15" font="4">BEGIN</text>
+<text top="411" left="541" width="7" height="12" font="10">1</text>
+<text top="406" left="548" width="5" height="15" font="4"> </text>
+<text top="404" left="552" width="16" height="18" font="2">= </text>
+<text top="397" left="569" width="11" height="26" font="9">λ</text>
+<text top="404" left="578" width="9" height="18" font="5"><i>x</i></text>
+<text top="397" left="587" width="11" height="26" font="9">λ</text>
+<text top="404" left="597" width="8" height="18" font="5"><i>s</i></text>
+<text top="404" left="605" width="12" height="18" font="2"> [</text>
+<text top="406" left="617" width="50" height="15" font="4">BEGIN</text>
+<text top="414" left="666" width="7" height="9" font="16">C</text>
+<text top="404" left="674" width="5" height="18" font="2"> </text>
+<text top="404" left="677" width="21" height="18" font="5"><i>s x</i></text>
+<text top="404" left="700" width="10" height="18" font="2">] </text>
+<text top="425" left="106" width="5" height="18" font="2"> </text>
+<text top="426" left="156" width="49" height="17" font="20">where </text>
+<text top="426" left="205" width="7" height="17" font="26"><i>s</i></text>
+<text top="426" left="213" width="105" height="17" font="20"> has type &lt;t&gt;, </text>
+<text top="426" left="316" width="8" height="17" font="26"><i>x</i></text>
+<text top="426" left="325" width="204" height="17" font="20"> has type &lt;e&gt; , and the item </text>
+<text top="429" left="531" width="45" height="13" font="22">BEGIN</text>
+<text top="434" left="574" width="6" height="11" font="12">1</text>
+<text top="426" left="581" width="165" height="17" font="20"> has type &lt;&lt;e, &lt;t, t&gt;&gt;. </text>
+<text top="446" left="120" width="5" height="18" font="2"> </text>
+<text top="469" left="106" width="46" height="18" font="2">Here, </text>
+<text top="471" left="152" width="49" height="15" font="4">BEGIN</text>
+<text top="479" left="201" width="7" height="9" font="16">C</text>
+<text top="469" left="208" width="587" height="18" font="2"> is the basic LoT item for the control ‘begin’; a Meaning Postulate similar </text>
+<text top="491" left="106" width="555" height="18" font="2">to that given in (15) applies to this, so that it will apply derivatively to </text>
+<text top="494" left="659" width="50" height="15" font="4">BEGIN</text>
+<text top="499" left="709" width="7" height="12" font="10">1</text>
+<text top="491" left="716" width="14" height="18" font="2">.  </text>
+<text top="514" left="120" width="674" height="18" font="2">When the ‘control’ subject is referential, the unmarked order of constituents will not </text>
+<text top="537" left="106" width="690" height="18" font="2">yield  any c-command relation between the matrix and embedded instantiations of the </text>
+<text top="559" left="106" width="690" height="18" font="2">two syntactic subject positions, so that the one which is first at PF will be spelled out </text>
+<text top="581" left="106" width="461" height="18" font="2">in full, and the second one will be realised as a pronoun </text>
+<text top="581" left="569" width="27" height="18" font="5"><i>pro</i></text>
+<text top="581" left="596" width="198" height="18" font="2">. This gives the form in </text>
+<text top="605" left="106" width="415" height="18" font="2">(16). But if the ‘control’ subject is quantificational, </text>
+<text top="605" left="523" width="26" height="18" font="5"><i>pro</i></text>
+<text top="605" left="550" width="245" height="18" font="2"> needs to be a bound variable </text>
+<text top="626" left="106" width="683" height="18" font="2">pronoun, so that there must be scrambling, which by hypothesis gives the required c-</text>
+<text top="649" left="106" width="440" height="18" font="2">command effect. We obtain a structure like that in ( 18): </text>
+<text top="672" left="120" width="5" height="18" font="2"> </text>
+<text top="694" left="106" width="57" height="18" font="2">(18)  [</text>
+<text top="702" left="162" width="16" height="12" font="10">TP</text>
+<text top="694" left="179" width="16" height="18" font="2">  [</text>
+<text top="702" left="194" width="27" height="12" font="10">DNP</text>
+<text top="694" left="221" width="5" height="18" font="2"> </text>
+<text top="694" left="230" width="70" height="18" font="5"><i>everyone</i></text>
+<text top="702" left="300" width="4" height="12" font="25"><i>j</i></text>
+<text top="694" left="304" width="7" height="18" font="2">]</text>
+<text top="702" left="309" width="7" height="12" font="10">k</text>
+<text top="694" left="317" width="21" height="18" font="2">  [</text>
+<text top="702" left="338" width="16" height="12" font="10">TP</text>
+<text top="694" left="354" width="45" height="18" font="2"> [  pro</text>
+<text top="702" left="398" width="4" height="12" font="25"><i>j</i></text>
+<text top="694" left="403" width="19" height="18" font="2">   [</text>
+<text top="702" left="422" width="15" height="12" font="10">VP</text>
+<text top="694" left="438" width="139" height="18" font="2"> the dog to feed]] </text>
+<text top="694" left="577" width="5" height="18" font="5"><i>t</i></text>
+<text top="702" left="583" width="7" height="12" font="10">k</text>
+<text top="694" left="591" width="156" height="18" font="2">  began      ]  T] </text>
+<text top="716" left="106" width="5" height="18" font="2"> </text>
+<text top="716" left="156" width="5" height="18" font="2"> </text>
+<text top="716" left="188" width="26" height="18" font="2">arg</text>
+<text top="724" left="213" width="7" height="12" font="10">2</text>
+<text top="716" left="221" width="138" height="18" font="2">            arg</text>
+<text top="724" left="357" width="7" height="12" font="10">1</text>
+<text top="716" left="363" width="334" height="18" font="2">                        lexical head </text>
+<text top="740" left="120" width="5" height="18" font="2"> </text>
+<text top="762" left="106" width="600" height="18" font="2">Since the overt subject is now in the matrix clause, we expect it to show </text>
+<text top="765" left="709" width="32" height="15" font="4">ABS</text>
+<text top="762" left="741" width="46" height="18" font="2"> case-</text>
+<text top="784" left="106" width="689" height="18" font="2">marking in Tsez. This is indeed the case-marking that is manifest when there is a </text>
+<text top="807" left="106" width="690" height="18" font="2">distributed universal quantifier subject: (19a) is the grammatical counterpart of the </text>
+<text top="830" left="106" width="606" height="18" font="2">ungrammatical (10) above, and (19b) is the Non-Canonical Control analysis. </text>
+<text top="852" left="120" width="5" height="18" font="2"> </text>
+<text top="881" left="106" width="212" height="18" font="2">(19)  a.  šibaw/kinnaw  u</text>
+<text top="876" left="316" width="10" height="25" font="19">ž</text>
+<text top="881" left="325" width="156" height="18" font="2">i   t’ek    t’et’r -a   </text>
+<text top="874" left="498" width="16" height="26" font="9">∅</text>
+<text top="881" left="513" width="210" height="18" font="2">-oq-si    (Polinsky, p.c.)  </text>
+<text top="902" left="106" width="5" height="18" font="2"> </text>
+<text top="930" left="106" width="5" height="18" font="2"> </text>
+<text top="930" left="156" width="45" height="18" font="2">b.  [[</text>
+<text top="938" left="200" width="17" height="12" font="10">DP</text>
+<text top="930" left="218" width="145" height="18" font="2"> šibaw/kinnaw  u</text>
+<text top="925" left="361" width="10" height="25" font="19">ž</text>
+<text top="930" left="371" width="13" height="18" font="2">i]</text>
+<text top="938" left="385" width="4" height="12" font="10">j</text>
+<text top="930" left="389" width="12" height="18" font="2"> [</text>
+<text top="938" left="399" width="16" height="12" font="10">TP</text>
+<text top="925" left="416" width="6" height="25" font="19"> </text>
+<text top="930" left="422" width="27" height="18" font="5"><i>pro</i></text>
+<text top="938" left="449" width="4" height="12" font="10">j</text>
+<text top="930" left="452" width="173" height="18" font="2">   t’ek      t’et’r-a] </text>
+<text top="924" left="641" width="16" height="26" font="9">∅</text>
+<text top="930" left="657" width="51" height="18" font="2">-oq-si </text>
+<text top="953" left="106" width="5" height="18" font="2"> </text>
+<text top="953" left="156" width="5" height="18" font="2"> </text>
+<text top="953" left="188" width="200" height="18" font="2">    every/each     boy-</text>
+<text top="955" left="388" width="32" height="15" font="4">ABS</text>
+<text top="953" left="420" width="102" height="18" font="2">       book-</text>
+<text top="955" left="522" width="31" height="15" font="4">ABS</text>
+<text top="953" left="555" width="45" height="18" font="2"> read-</text>
+<text top="955" left="600" width="26" height="15" font="4">INF</text>
+<text top="953" left="627" width="5" height="18" font="2"> </text>
+<text top="955" left="641" width="11" height="15" font="4">II</text>
+<text top="953" left="653" width="56" height="18" font="2">-begin-</text>
+<text top="955" left="709" width="49" height="15" font="4">PSTEV</text>
+<text top="953" left="758" width="5" height="18" font="2"> </text>
+<text top="975" left="106" width="5" height="18" font="2"> </text>
+<text top="975" left="156" width="5" height="18" font="2"> </text>
+<text top="975" left="188" width="419" height="18" font="2">‘every boy began to read a book’  (‘control’ reading) </text>
+<text top="996" left="120" width="5" height="18" font="2"> </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="28" size="9" family="TimesNewRoman,Italic" color="#000000"/>
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  369 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="690" height="18" font="2">We conclude that ‘backward control’ can be satisfactorily explained as Non-Canonical </text>
+<text top="242" left="106" width="58" height="18" font="2">Control</text>
+<text top="249" left="164" width="7" height="12" font="10">1</text>
+<text top="242" left="172" width="621" height="18" font="2">, provided that the language in question has the appropriate scrambling </text>
+<text top="264" left="106" width="87" height="18" font="2">properties. </text>
+<text top="288" left="106" width="5" height="18" font="2"> </text>
+<text top="309" left="106" width="311" height="18" font="3"><b>3.3 Non-Canonical Control version 2 </b></text>
+<text top="332" left="120" width="5" height="18" font="2"> </text>
+<text top="355" left="106" width="690" height="18" font="2">Our second version of Non-Canonical Control sidesteps Principle C by introducing at </text>
+<text top="378" left="106" width="689" height="18" font="2">LF (and LoTF) an argument with independent reference for the external subject. As a </text>
+<text top="399" left="106" width="403" height="18" font="2">first approximation, consider the LF given in (20).  </text>
+<text top="423" left="120" width="5" height="18" font="2"> </text>
+<text top="445" left="106" width="57" height="18" font="2">(20)  [</text>
+<text top="453" left="162" width="16" height="12" font="10">TP</text>
+<text top="445" left="179" width="16" height="18" font="2">  [</text>
+<text top="453" left="194" width="31" height="12" font="10">DNP </text>
+<text top="445" left="224" width="69" height="18" font="5"><i>someone</i></text>
+<text top="453" left="291" width="6" height="12" font="25"><i>k</i></text>
+<text top="445" left="298" width="20" height="18" font="2">]  [</text>
+<text top="453" left="317" width="19" height="12" font="10">TP </text>
+<text top="445" left="336" width="5" height="18" font="2"> </text>
+<text top="447" left="341" width="42" height="15" font="4">JOHN</text>
+<text top="455" left="384" width="4" height="9" font="28"><i>J</i></text>
+<text top="445" left="388" width="13" height="18" font="2">  [</text>
+<text top="453" left="401" width="16" height="12" font="10">VP</text>
+<text top="445" left="417" width="5" height="18" font="2"> </text>
+<text top="447" left="422" width="140" height="15" font="4">THE DOG TO FEED</text>
+<text top="445" left="563" width="21" height="18" font="2">]]  </text>
+<text top="447" left="601" width="54" height="15" font="4">BEGAN</text>
+<text top="453" left="656" width="7" height="12" font="10">1</text>
+<text top="445" left="663" width="87" height="18" font="2">    ]  T]  </text>
+<text top="468" left="106" width="5" height="18" font="2"> </text>
+<text top="468" left="156" width="5" height="18" font="2"> </text>
+<text top="468" left="188" width="26" height="18" font="2">arg</text>
+<text top="474" left="213" width="7" height="12" font="10">2</text>
+<text top="468" left="221" width="116" height="18" font="2">          arg</text>
+<text top="474" left="335" width="7" height="12" font="10">1</text>
+<text top="468" left="343" width="354" height="18" font="2">                          lexical head </text>
+<text top="490" left="120" width="5" height="18" font="2"> </text>
+<text top="513" left="106" width="690" height="18" font="2">It is only the Meaning Postulate, rather than any syntactic condition, which requires </text>
+<text top="535" left="106" width="689" height="18" font="2">coreference.  Applying the MP to the LoT form in (20) yields something like (21), </text>
+<text top="558" left="106" width="326" height="18" font="2">which gives the required ‘control’ effect: </text>
+<text top="580" left="120" width="5" height="18" font="2"> </text>
+<text top="606" left="106" width="57" height="18" font="2">(21)  [</text>
+<text top="600" left="163" width="11" height="26" font="9">∃</text>
+<text top="606" left="174" width="18" height="18" font="2">x; </text>
+<text top="608" left="192" width="64" height="15" font="4">PERSON</text>
+<text top="606" left="255" width="37" height="18" font="2"> x : [</text>
+<text top="600" left="291" width="11" height="26" font="9">∃</text>
+<text top="606" left="303" width="146" height="18" font="2">y; John = y :[ x [y </text>
+<text top="608" left="448" width="37" height="15" font="4">FIDO</text>
+<text top="606" left="486" width="5" height="18" font="2"> </text>
+<text top="608" left="491" width="41" height="15" font="4">FEED</text>
+<text top="606" left="531" width="11" height="18" font="2">] </text>
+<text top="608" left="541" width="56" height="15" font="4">BEGAN</text>
+<text top="606" left="597" width="12" height="18" font="2">] </text>
+<text top="600" left="608" width="12" height="26" font="9">∧</text>
+<text top="606" left="620" width="86" height="18" font="2"> [x = y] ] ] </text>
+<text top="627" left="120" width="5" height="18" font="2"> </text>
+<text top="649" left="106" width="687" height="18" font="2">That is, we claim that syntactic coreference is no more required in (20) than it is in </text>
+<text top="672" left="106" width="43" height="18" font="2">(22): </text>
+<text top="695" left="120" width="5" height="18" font="2"> </text>
+<text top="716" left="106" width="122" height="18" font="2">(22)  Dr Jekyll</text>
+<text top="724" left="228" width="4" height="12" font="10">j</text>
+<text top="716" left="232" width="244" height="18" font="2"> is the same person as Mr Hyde</text>
+<text top="724" left="478" width="7" height="12" font="10">k</text>
+<text top="716" left="485" width="5" height="18" font="2"> </text>
+<text top="740" left="120" width="5" height="18" font="2"> </text>
+<text top="762" left="120" width="634" height="18" font="2">Such a move solves the Principle C problem which would arise from coindexed </text>
+<text top="762" left="756" width="28" height="18" font="5"><i>pro</i></text>
+<text top="762" left="784" width="9" height="18" font="2">, </text>
+<text top="784" left="106" width="688" height="18" font="2">but we seem to have an unknown null subject: an indefinite existential, which is in </text>
+<text top="807" left="106" width="689" height="18" font="2">need of justification. We trade here on P+P’s explanation for the absence of an EPP </text>
+<text top="830" left="106" width="276" height="18" font="2">effect: they suggest that the verb  –</text>
+<text top="830" left="383" width="29" height="18" font="5"><i>oqa</i></text>
+<text top="830" left="412" width="384" height="18" font="2"> (unusually) has a D-feature, and so checks the </text>
+<text top="852" left="106" width="688" height="18" font="2">EPP feature of the  matrix T by moving into T. In their section §5.2, they give </text>
+<text top="875" left="106" width="690" height="18" font="2">independent justification for this V to T movement. We suggest that the reason the </text>
+<text top="897" left="106" width="689" height="18" font="2">verb seems to have a D-feature is that it incorporates this subject DP at PF — that is, </text>
+<text top="921" left="106" width="687" height="18" font="2">the existential is a null clitic, which, presumably for historical reasons, can only </text>
+<text top="942" left="106" width="689" height="18" font="2">cliticise to one of the two ‘backward control’ verbs of Tsez. The analysis will be as in </text>
+<text top="965" left="106" width="179" height="18" font="2">(23), where the verb  –</text>
+<text top="965" left="285" width="29" height="18" font="5"><i>oqa</i></text>
+<text top="965" left="314" width="482" height="18" font="2"> has the standard type and meaning for a canonical Control </text>
+<text top="989" left="106" width="690" height="18" font="2">verb, as in (12), and is subject to a Meaning Postulate like that in (15). What permits </text>
+<text top="1010" left="106" width="440" height="18" font="2">this analysis is the lexical entry for the clitic existential. </text>
+<text top="1032" left="120" width="5" height="18" font="2"> </text>
+<text top="1061" left="106" width="37" height="18" font="2">(23) </text>
+<text top="1062" left="156" width="10" height="16" font="11">[ </text>
+<text top="1062" left="188" width="6" height="16" font="11">[</text>
+<text top="1067" left="194" width="16" height="11" font="12">DP</text>
+<text top="1062" left="210" width="5" height="16" font="11"> </text>
+<text top="1056" left="215" width="10" height="23" font="24">∃</text>
+<text top="1067" left="223" width="6" height="11" font="12">k</text>
+<text top="1062" left="230" width="6" height="16" font="11">]</text>
+<text top="1056" left="234" width="6" height="25" font="19"> </text>
+<text top="1062" left="251" width="6" height="16" font="11">[</text>
+<text top="1067" left="255" width="14" height="11" font="12">TP</text>
+<text top="1056" left="270" width="6" height="25" font="19"> </text>
+<text top="1062" left="290" width="6" height="16" font="11">[</text>
+<text top="1056" left="296" width="57" height="25" font="19">kid-ba</text>
+<text top="1062" left="354" width="25" height="16" font="11">  ]</text>
+<text top="1067" left="379" width="3" height="11" font="12">j</text>
+<text top="1062" left="383" width="5" height="16" font="11"> </text>
+<text top="1056" left="395" width="33" height="25" font="19">ziya</text>
+<text top="1062" left="429" width="11" height="16" font="11">   </text>
+<text top="1062" left="457" width="5" height="16" font="11"> </text>
+<text top="1056" left="477" width="63" height="25" font="19">b-išr-a</text>
+<text top="1062" left="539" width="10" height="16" font="11">] </text>
+<text top="1056" left="560" width="64" height="25" font="19">y-oq-si</text>
+<text top="1061" left="626" width="62" height="18" font="2">       </text>
+<text top="1061" left="704" width="28" height="18" font="3"><b>LF </b></text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="29" size="11" family="LucidaSansUnicode" color="#000000"/>
+	<fontspec id="30" size="17" family="LucidaSansUnicode,Italic" color="#000000"/>
+<text top="180" left="106" width="28" height="15" font="4">370 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="106" width="5" height="18" font="2"> </text>
+<text top="222" left="156" width="5" height="18" font="2"> </text>
+<text top="216" left="188" width="11" height="26" font="9">∃</text>
+<text top="222" left="198" width="7" height="18" font="2">-</text>
+<text top="225" left="205" width="11" height="15" font="4">II</text>
+<text top="222" left="216" width="7" height="18" font="2">-</text>
+<text top="225" left="222" width="32" height="15" font="4">ABS</text>
+<text top="222" left="254" width="70" height="18" font="2">    girl-</text>
+<text top="225" left="324" width="10" height="15" font="4">II</text>
+<text top="222" left="334" width="7" height="18" font="2">-</text>
+<text top="225" left="341" width="32" height="15" font="4">ERG</text>
+<text top="222" left="374" width="143" height="18" font="2">  cow      feed-</text>
+<text top="225" left="516" width="28" height="15" font="4">INF</text>
+<text top="222" left="543" width="5" height="18" font="2"> </text>
+<text top="225" left="560" width="11" height="15" font="4">II</text>
+<text top="222" left="570" width="56" height="18" font="2">-begin-</text>
+<text top="225" left="627" width="40" height="15" font="4">PAST</text>
+<text top="222" left="667" width="7" height="18" font="2">-</text>
+<text top="225" left="674" width="39" height="15" font="4">EVID</text>
+<text top="222" left="712" width="5" height="18" font="2"> </text>
+<text top="244" left="106" width="5" height="18" font="2"> </text>
+<text top="244" left="156" width="421" height="18" font="2">‘the girl began to feed the cow’   (‘control’ construal) </text>
+<text top="265" left="120" width="5" height="18" font="2"> </text>
+<text top="289" left="106" width="690" height="18" font="2">Because of the Meaning Postulate, the existential must refer to a singular female </text>
+<text top="311" left="106" width="689" height="18" font="2">entity, matching the number and gender of the embedded subject. This allows a </text>
+<text top="334" left="106" width="386" height="18" font="2">straightforward account of the verbal agreement. </text>
+<text top="356" left="120" width="673" height="18" font="2">Under this version of Non-Canonical control, distributed quantifier embedded </text>
+<text top="379" left="106" width="689" height="18" font="2">subjects are ruled out because a form like (21) would not give the required meaning </text>
+<text top="401" left="106" width="395" height="18" font="2">under the Meaning Postulate given.  Rather, with </text>
+<text top="401" left="501" width="72" height="18" font="5"><i>each boy</i></text>
+<text top="401" left="573" width="35" height="18" font="2"> for </text>
+<text top="401" left="606" width="39" height="18" font="5"><i>John</i></text>
+<text top="401" left="646" width="149" height="18" font="2">, we would obtain </text>
+<text top="424" left="106" width="165" height="18" font="2">a meaning asserting </text>
+<text top="424" left="275" width="37" height="18" font="5"><i>inter</i></text>
+<text top="424" left="312" width="5" height="18" font="2"> </text>
+<text top="424" left="320" width="30" height="18" font="5"><i>alia</i></text>
+<text top="424" left="350" width="444" height="18" font="2"> that each boy was identical to a fixed person. Yet a </text>
+<text top="449" left="106" width="158" height="18" font="2">control construal of </text>
+<text top="442" left="264" width="11" height="26" font="9">−</text>
+<text top="449" left="275" width="29" height="18" font="5"><i>oqa</i></text>
+<text top="449" left="304" width="492" height="18" font="2"> is possible in Tsez, as we saw from (19a) above. We suggest </text>
+<text top="472" left="106" width="305" height="18" font="2">that this is obtained by using Raising </text>
+<text top="466" left="414" width="11" height="26" font="9">−</text>
+<text top="472" left="424" width="29" height="18" font="5"><i>oqa</i></text>
+<text top="472" left="455" width="341" height="18" font="2">. One would expect on general pragmatic </text>
+<text top="495" left="106" width="689" height="18" font="2">grounds that the Raising verb could be used where the subject did in fact have a </text>
+<text top="517" left="106" width="690" height="18" font="2">causative role in ensuring the event given in the embedded clause. We can see this </text>
+<text top="539" left="106" width="162" height="18" font="2">with English raising </text>
+<text top="539" left="268" width="46" height="18" font="5"><i>seems</i></text>
+<text top="539" left="315" width="279" height="18" font="2">:  there is nothing wrong with (24), </text>
+<text top="562" left="120" width="5" height="18" font="2"> </text>
+<text top="585" left="106" width="386" height="18" font="2">(24)  John deliberately seemed to drop the plate </text>
+<text top="608" left="106" width="5" height="18" font="2"> </text>
+<text top="608" left="156" width="638" height="18" font="2">‘It seemed that John dropped the plate, and John deliberately acted in such a </text>
+<text top="630" left="156" width="406" height="18" font="2">way as   to make it seem that he dropped the plate’ </text>
+<text top="652" left="120" width="5" height="18" font="2"> </text>
+<text top="676" left="106" width="690" height="18" font="2">although it requires a certain amount of coercion to obtain the explicature indicated, as </text>
+<text top="697" left="106" width="689" height="18" font="2">with (14) above. In the absence of cues like ‘deliberately’, such a reading may be </text>
+<text top="720" left="106" width="690" height="18" font="2">obtained by strengthening the Raising reading, on the basis of required pragmatic </text>
+<text top="743" left="106" width="400" height="18" font="2">effects in context. Under Non-Canonical Control</text>
+<text top="751" left="506" width="7" height="12" font="10">2</text>
+<text top="743" left="513" width="283" height="18" font="2">, the analysis of (19a) will be as </text>
+<text top="765" left="106" width="122" height="18" font="2">shown in (25).  </text>
+<text top="787" left="106" width="5" height="18" font="2"> </text>
+<text top="815" left="106" width="69" height="18" font="2">(25)  a. </text>
+<text top="810" left="188" width="295" height="25" font="19">šibaw/kinnaw uži  t’ek    t’et’r-a  </text>
+<text top="811" left="498" width="14" height="23" font="24">∅</text>
+<text top="810" left="513" width="56" height="25" font="19">-oq-si</text>
+<text top="815" left="568" width="155" height="18" font="2">    (Polinsky, p.c.)  </text>
+<text top="837" left="106" width="5" height="18" font="2"> </text>
+<text top="864" left="106" width="5" height="18" font="2"> </text>
+<text top="864" left="156" width="45" height="18" font="2">b.  [[</text>
+<text top="872" left="200" width="17" height="12" font="10">DP</text>
+<text top="864" left="218" width="5" height="18" font="2"> </text>
+<text top="859" left="222" width="164" height="25" font="19">šibaw/kinnaw  uži]</text>
+<text top="866" left="385" width="4" height="17" font="29">j</text>
+<text top="859" left="388" width="12" height="25" font="19"> [</text>
+<text top="866" left="399" width="14" height="17" font="29">TP</text>
+<text top="859" left="414" width="11" height="25" font="19">  </text>
+<text top="859" left="435" width="7" height="25" font="30"><i>t</i></text>
+<text top="866" left="442" width="4" height="17" font="29">j</text>
+<text top="859" left="446" width="165" height="25" font="19">  t’ek      t’et’r-a] </text>
+<text top="860" left="621" width="14" height="23" font="24">∅</text>
+<text top="859" left="637" width="55" height="25" font="19">-oq-si</text>
+<text top="864" left="692" width="5" height="18" font="2"> </text>
+<text top="887" left="106" width="5" height="18" font="2"> </text>
+<text top="887" left="156" width="5" height="18" font="2"> </text>
+<text top="887" left="188" width="200" height="18" font="2">    every/each     boy-</text>
+<text top="890" left="388" width="32" height="15" font="4">ABS</text>
+<text top="887" left="420" width="82" height="18" font="2">     book-</text>
+<text top="890" left="501" width="32" height="15" font="4">ABS</text>
+<text top="887" left="534" width="44" height="18" font="2"> read-</text>
+<text top="890" left="578" width="28" height="15" font="4">INF</text>
+<text top="887" left="605" width="5" height="18" font="2"> </text>
+<text top="890" left="621" width="11" height="15" font="4">II</text>
+<text top="887" left="632" width="55" height="18" font="2">-begin-</text>
+<text top="890" left="687" width="50" height="15" font="4">PSTEV</text>
+<text top="887" left="738" width="5" height="18" font="2"> </text>
+<text top="909" left="106" width="5" height="18" font="2"> </text>
+<text top="909" left="156" width="5" height="18" font="2"> </text>
+<text top="909" left="188" width="419" height="18" font="2">‘every boy began to read a book’  (‘control’ reading) </text>
+<text top="931" left="106" width="687" height="18" font="2">How is this compatible with the  fact that with referential subjects, no control reading </text>
+<text top="955" left="106" width="271" height="18" font="2">is available where the subject has </text>
+<text top="957" left="377" width="31" height="15" font="4">ABS</text>
+<text top="955" left="408" width="386" height="18" font="2"> agreement (examples (7) and (8) of section 1)? </text>
+<text top="977" left="106" width="687" height="18" font="2">The answer is that for a referential subject, there is a choice of lexical entries  — </text>
+<text top="999" left="106" width="587" height="18" font="2">Raising or Non-Canonical Control. Since only the latter is associated with </text>
+<text top="1001" left="694" width="50" height="15" font="4">BEGIN</text>
+<text top="1009" left="744" width="7" height="9" font="16">C</text>
+<text top="999" left="750" width="44" height="18" font="2">, and </text>
+<text top="1022" left="106" width="690" height="18" font="2">hence with a control Meaning Postulate, this will always be used, for pragmatic </text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  371 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="689" height="18" font="2">reasons. For a quantified subject, there is no choice, the entry corresponding to </text>
+<text top="244" left="106" width="50" height="15" font="4">BEGIN</text>
+<text top="252" left="154" width="40" height="9" font="16">RAISING</text>
+<text top="242" left="196" width="116" height="18" font="2"> must be used. </text>
+<text top="264" left="120" width="334" height="18" font="2">We conclude that Non-Canonical Control</text>
+<text top="272" left="455" width="7" height="12" font="10">2</text>
+<text top="264" left="461" width="332" height="18" font="2"> is also capable of explaining ‘backward </text>
+<text top="288" left="106" width="520" height="18" font="2">control’, and in particular, the Tsez data exhibited in P+P (2002).  </text>
+<text top="309" left="120" width="674" height="18" font="2">Which of these hypotheses (if either) is correct for Tsez? Although data capable of </text>
+<text top="332" left="106" width="690" height="18" font="2">discriminating between these alternatives is not available at present, so that the </text>
+<text top="355" left="106" width="689" height="18" font="2">question remains open, we favour the second account, because of the interaction with </text>
+<text top="378" left="106" width="690" height="18" font="2">V to T movement in Tsez, and the preservation of the standard selection order by the </text>
+<text top="399" left="106" width="689" height="18" font="2">head.  We turn next to a CCG (Combi natorial Categorial Grammar) treatment of the </text>
+<text top="423" left="106" width="150" height="18" font="2">relevant structures.</text>
+<text top="418" left="254" width="17" height="12" font="10"> 13</text>
+<text top="423" left="271" width="5" height="18" font="2"> </text>
+<text top="445" left="120" width="5" height="18" font="2"> </text>
+<text top="468" left="120" width="5" height="18" font="2"> </text>
+<text top="490" left="106" width="393" height="18" font="3"><b>4 A combinatorial alternative to Copy Theory  </b></text>
+<text top="513" left="120" width="5" height="18" font="2"> </text>
+<text top="535" left="106" width="690" height="18" font="2">We have used compositionality to argue against Copy Theory, especially as </text>
+<text top="558" left="106" width="690" height="18" font="2">instantiated in Hornstein’s (1999) analysis of Control, and implicitly also against </text>
+<text top="580" left="106" width="690" height="18" font="2">Manzini and Roussou’s (2000) account of control. However, we believe that at least </text>
+<text top="604" left="106" width="690" height="18" font="2">part of the attempt to eliminate PRO and assimilate obligatory control to raising is </text>
+<text top="625" left="106" width="544" height="18" font="2">correct, and we give here the essentials of our alternative account.</text>
+<text top="621" left="649" width="13" height="12" font="10">14</text>
+<text top="625" left="663" width="133" height="18" font="2"> Our account is </text>
+<text top="648" left="106" width="690" height="18" font="2">immune to at least the major criticisms raised by Landau (2001) against Hornstein’s </text>
+<text top="671" left="106" width="518" height="18" font="2">account, and we believe that the remaining problems are soluble.  </text>
+<text top="693" left="120" width="673" height="18" font="2">We add to the repertoire of phonologically empty heads a number of Combinators, </text>
+<text top="715" left="106" width="689" height="18" font="2">taken in  the main from CCG. However, we see these as present in the syntax of a </text>
+<text top="739" left="106" width="687" height="18" font="2">Minimalist grammar. For present purposes, they replace A-movement and control; and </text>
+<text top="760" left="106" width="689" height="18" font="2">we assume some equivalent of head-movement to reconcile the LF order we obtain </text>
+<text top="783" left="106" width="537" height="18" font="2">with the PF order observed in NL (see Cormack and Smith 2001b).  </text>
+<text top="806" left="120" width="674" height="18" font="2">We consider first, canonical control verbs. Problems with canonical control arise </text>
+<text top="829" left="106" width="690" height="18" font="2">from two apparently conflicting desiderata. First, the internal selection of the control </text>
+<text top="851" left="106" width="690" height="18" font="2">verb is clausal (type &lt;t&gt;), as noted above. Second, the verb and its clause should be </text>
+<text top="886" left="106" width="216" height="24" font="6"><b>                                 </b></text>
+<text top="918" left="120" width="11" height="10" font="7">13</text>
+<text top="922" left="132" width="660" height="15" font="4"> For an introduction to CCG, see Steedman (1993) or (2000). For use in a Minimalist framework, </text>
+<text top="940" left="106" width="224" height="15" font="4">see Cormack and Smith (2001b). </text>
+<text top="964" left="120" width="11" height="10" font="7">14</text>
+<text top="968" left="132" width="660" height="15" font="4"> Hornstein also takes control into adjuncts to be obtained by movement, basing his analysis on </text>
+<text top="989" left="106" width="687" height="15" font="4">Nunes’ (1995) ‘sidewards movement’. In CCG, once we have an account of saturated adjuncts, the </text>
+<text top="1007" left="106" width="127" height="15" font="4">usual combinators </text>
+<text top="1007" left="235" width="12" height="15" font="17"><b>A</b></text>
+<text top="1007" left="249" width="7" height="15" font="4">, </text>
+<text top="1007" left="258" width="11" height="15" font="17"><b>B</b></text>
+<text top="1007" left="270" width="37" height="15" font="4">, and </text>
+<text top="1007" left="311" width="9" height="15" font="17"><b>S</b></text>
+<text top="1007" left="320" width="474" height="15" font="4"> automatically provide for non-saturated adjuncts such as one-place </text>
+<text top="1027" left="106" width="682" height="15" font="4">predicates. The equivalent of ‘control into adjuncts’ in Minimalist CCG is therefore unrelated to A-</text>
+<text top="1045" left="106" width="687" height="15" font="4">movement or chains or Copy Theory. See Steedman (1985), Cormack (1999), and Cormack and </text>
+<text top="1064" left="106" width="104" height="15" font="4">Smith (2001a). </text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="31" size="19" family="Symbol,Bold" color="#000000"/>
+<text top="180" left="106" width="28" height="15" font="4">372 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="689" height="18" font="2">combined by taking a clause of type &lt;t&gt; to discharge the selection of the verb, i.e. </text>
+<text top="242" left="106" width="379" height="18" font="2">implicitly using function-argument application (</text>
+<text top="242" left="486" width="14" height="18" font="3"><b>A</b></text>
+<text top="242" left="500" width="296" height="18" font="2">) to combine the control verb and its </text>
+<text top="264" left="106" width="689" height="18" font="2">complement. But the clause does not appear to be saturated, and any attempt to make </text>
+<text top="288" left="106" width="689" height="18" font="2">it saturated by proposing a trace or PRO in the subject position leads to problems. </text>
+<text top="309" left="106" width="689" height="18" font="2">Grammars like HPSG propose that the selection is not for a clause but for a predicate. </text>
+<text top="332" left="106" width="688" height="18" font="2">However, CCG can offer an alternative, by  rejecting the second premise above. </text>
+<text top="355" left="106" width="689" height="18" font="2">Jacobson (1990, 1992) argues that Raising should be accounted for semantically by </text>
+<text top="378" left="106" width="226" height="18" font="2">using function composition (</text>
+<text top="378" left="333" width="13" height="18" font="3"><b>B</b></text>
+<text top="378" left="347" width="448" height="18" font="2">) to combine the matrix verb of (extensional) type &lt;t/t&gt; </text>
+<text top="399" left="106" width="690" height="18" font="2">with its complement verb phrase of type &lt;e, t&gt;. We argue rather that a raising verb has </text>
+<text top="423" left="106" width="690" height="18" font="2">type &lt;t, &lt;nil, t&gt;&gt;, where the ‘nil’ is an undetermined type, and  corresponds to the null </text>
+<text top="447" left="106" width="422" height="18" font="2">external argument of an unaccusative verb. Suppose </text>
+<text top="447" left="529" width="42" height="18" font="3"><b>seem</b></text>
+<text top="441" left="569" width="5" height="26" font="31"><b>′</b></text>
+<text top="447" left="574" width="221" height="18" font="2"> (unaccusative, bivalent) is </text>
+<text top="469" left="106" width="251" height="18" font="2">the LF representation of our PF </text>
+<text top="469" left="357" width="41" height="18" font="5"><i>seem</i></text>
+<text top="469" left="396" width="154" height="18" font="2">, and (monovalent) </text>
+<text top="471" left="549" width="42" height="15" font="4">SEEM</text>
+<text top="469" left="593" width="181" height="18" font="2"> is the LoT equivalent. </text>
+<text top="491" left="120" width="5" height="18" font="2"> </text>
+<text top="516" left="106" width="85" height="18" font="2">(26)  PF: </text>
+<text top="516" left="188" width="42" height="18" font="5"><i>seem</i></text>
+<text top="516" left="227" width="295" height="18" font="2">      c-selection V/D/V       LF: seem</text>
+<text top="510" left="521" width="5" height="26" font="9">′</text>
+<text top="516" left="527" width="9" height="18" font="2">  </text>
+<text top="539" left="106" width="5" height="18" font="2"> </text>
+<text top="563" left="106" width="5" height="18" font="2"> </text>
+<text top="563" left="156" width="41" height="18" font="2">seem</text>
+<text top="557" left="196" width="5" height="26" font="9">′</text>
+<text top="563" left="201" width="10" height="18" font="2">  </text>
+<text top="557" left="209" width="20" height="26" font="9">⇔</text>
+<text top="563" left="230" width="5" height="18" font="2"> </text>
+<text top="563" left="235" width="26" height="18" font="3"><b>Nil</b></text>
+<text top="571" left="261" width="7" height="12" font="10">1</text>
+<text top="563" left="268" width="11" height="18" font="2"> [</text>
+<text top="566" left="278" width="43" height="15" font="4">SEEM</text>
+<text top="563" left="321" width="36" height="18" font="2">]  =  </text>
+<text top="557" left="358" width="11" height="26" font="9">λ</text>
+<text top="563" left="367" width="8" height="18" font="5"><i>s</i></text>
+<text top="563" left="376" width="5" height="18" font="2"> </text>
+<text top="557" left="381" width="11" height="26" font="9">λ</text>
+<text top="563" left="393" width="13" height="18" font="5"><i>w</i></text>
+<text top="563" left="404" width="12" height="18" font="2"> [</text>
+<text top="566" left="415" width="43" height="15" font="4">SEEM</text>
+<text top="563" left="459" width="9" height="18" font="2">. </text>
+<text top="563" left="467" width="8" height="18" font="5"><i>s</i></text>
+<text top="563" left="476" width="10" height="18" font="2">] </text>
+<text top="585" left="106" width="5" height="18" font="2"> </text>
+<text top="609" left="106" width="5" height="18" font="2"> </text>
+<text top="609" left="156" width="62" height="18" font="2">where ‘</text>
+<text top="603" left="216" width="19" height="26" font="9">⇒</text>
+<text top="609" left="236" width="313" height="18" font="2">’ means ‘translates from NL into LoT’, </text>
+<text top="609" left="551" width="25" height="18" font="3"><b>Nil</b></text>
+<text top="617" left="577" width="7" height="12" font="10">1</text>
+<text top="609" left="584" width="209" height="18" font="2"> is a one-place operator in </text>
+<text top="632" left="156" width="579" height="18" font="2">LoT that turns a monovalent item into an unaccusative one, and where </text>
+<text top="632" left="737" width="8" height="18" font="5"><i>s</i></text>
+<text top="632" left="745" width="50" height="18" font="2"> is of </text>
+<text top="653" left="156" width="106" height="18" font="2">type &lt;t&gt; and </text>
+<text top="653" left="261" width="13" height="18" font="5"><i>w</i></text>
+<text top="653" left="273" width="102" height="18" font="2"> of any type. </text>
+<text top="677" left="120" width="5" height="18" font="2"> </text>
+<text top="699" left="106" width="689" height="18" font="2">Given this, in order to accomplish Raising in a way parallel to that argued for by </text>
+<text top="721" left="106" width="337" height="18" font="2">Jacobson,  we require that Raising use not </text>
+<text top="721" left="442" width="13" height="18" font="3"><b>B</b></text>
+<text top="721" left="457" width="258" height="18" font="2">, but another related combinator </text>
+<text top="721" left="714" width="14" height="18" font="3"><b>R</b></text>
+<text top="721" left="729" width="67" height="18" font="2">, whose </text>
+<text top="744" left="106" width="200" height="18" font="2">meaning is given in (27). </text>
+<text top="767" left="120" width="5" height="18" font="2"> </text>
+<text top="792" left="106" width="57" height="18" font="2">(27)  (</text>
+<text top="792" left="163" width="14" height="18" font="3"><b>R</b></text>
+<text top="792" left="178" width="9" height="18" font="2">. </text>
+<text top="792" left="186" width="5" height="18" font="5"><i>f</i></text>
+<text top="792" left="191" width="16" height="18" font="2">). </text>
+<text top="792" left="208" width="10" height="18" font="5"><i>g</i></text>
+<text top="792" left="219" width="21" height="18" font="2">  =</text>
+<text top="800" left="241" width="11" height="12" font="10">df</text>
+<text top="792" left="252" width="9" height="18" font="2">  </text>
+<text top="785" left="270" width="11" height="26" font="9">λ</text>
+<text top="792" left="280" width="9" height="18" font="5"><i>x</i></text>
+<text top="792" left="289" width="17" height="18" font="2"> [ </text>
+<text top="792" left="305" width="74" height="18" font="5"><i>f. (g. x). x</i></text>
+<text top="792" left="381" width="10" height="18" font="2">] </text>
+<text top="814" left="120" width="5" height="18" font="2"> </text>
+<text top="836" left="106" width="605" height="18" font="2">What this does is to stipulate that the external role of the bivalent function </text>
+<text top="836" left="712" width="5" height="18" font="5"><i>f</i></text>
+<text top="836" left="719" width="76" height="18" font="2">, and the </text>
+<text top="858" left="106" width="334" height="18" font="2">external role of the monovalent function </text>
+<text top="858" left="444" width="10" height="18" font="5"><i>g</i></text>
+<text top="858" left="456" width="340" height="18" font="2"> will be bound by whatever argument is </text>
+<text top="882" left="106" width="322" height="18" font="2">supplied to the new composite function </text>
+<text top="882" left="430" width="14" height="18" font="3"><b>R</b></text>
+<text top="882" left="443" width="16" height="18" font="5"><i>fg</i></text>
+<text top="882" left="459" width="336" height="18" font="2">. This not only gives the right results for </text>
+<text top="903" left="106" width="190" height="18" font="2">unaccusative verbs like </text>
+<text top="903" left="298" width="45" height="18" font="5"><i>seems</i></text>
+<text top="903" left="345" width="449" height="18" font="2">, as indicated in (28), but extends automatically to any </text>
+<text top="926" left="106" width="502" height="18" font="2">verb, whether unaccusative or not, which licenses the use of </text>
+<text top="926" left="610" width="14" height="18" font="3"><b>R</b></text>
+<text top="926" left="623" width="172" height="18" font="2"> in merging with its </text>
+<text top="949" left="106" width="690" height="18" font="2">internal argument. In other words, it c an give a simple account of canonical control, as </text>
+<text top="971" left="106" width="689" height="18" font="2">exemplified in (29). Further, it does so by giving a proper compositional semantics to </text>
+<text top="993" left="106" width="405" height="18" font="2">comprehensible fragments such as those in (6 a, b). </text>
+<text top="1017" left="120" width="5" height="18" font="2"> </text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="32" size="13" family="Symbol" color="#000000"/>
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  373 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="106" width="37" height="18" font="2">(28) </text>
+<text top="222" left="156" width="14" height="18" font="3"><b>R</b></text>
+<text top="222" left="171" width="47" height="18" font="2"> seem</text>
+<text top="216" left="216" width="5" height="26" font="9">′</text>
+<text top="222" left="221" width="60" height="18" font="2"> [happy</text>
+<text top="216" left="280" width="5" height="26" font="9">′</text>
+<text top="222" left="286" width="11" height="18" font="2">] </text>
+<text top="216" left="295" width="20" height="26" font="9">⇔</text>
+<text top="222" left="317" width="5" height="18" font="2"> </text>
+<text top="222" left="323" width="14" height="18" font="3"><b>R</b></text>
+<text top="222" left="335" width="12" height="18" font="2"> [</text>
+<text top="222" left="348" width="26" height="18" font="3"><b>Nil</b></text>
+<text top="229" left="374" width="7" height="12" font="10">1</text>
+<text top="222" left="380" width="5" height="18" font="2"> </text>
+<text top="225" left="385" width="43" height="15" font="4">SEEM</text>
+<text top="222" left="428" width="7" height="18" font="2">]</text>
+<text top="225" left="432" width="59" height="15" font="4"> HAPPY</text>
+<text top="222" left="492" width="12" height="18" font="2">   </text>
+<text top="244" left="106" width="5" height="18" font="2"> </text>
+<text top="267" left="106" width="5" height="18" font="2"> </text>
+<text top="267" left="156" width="5" height="18" font="2"> </text>
+<text top="267" left="188" width="79" height="18" font="2">      = </text>
+<text top="261" left="267" width="11" height="26" font="9">λ</text>
+<text top="267" left="277" width="9" height="18" font="5"><i>x</i></text>
+<text top="267" left="286" width="17" height="18" font="2"> [(</text>
+<text top="261" left="304" width="11" height="26" font="9">λ</text>
+<text top="267" left="314" width="8" height="18" font="5"><i>s</i></text>
+<text top="267" left="322" width="5" height="18" font="2"> </text>
+<text top="261" left="326" width="11" height="26" font="9">λ</text>
+<text top="267" left="338" width="13" height="18" font="5"><i>w</i></text>
+<text top="267" left="351" width="12" height="18" font="2"> [</text>
+<text top="270" left="361" width="44" height="15" font="4">SEEM</text>
+<text top="267" left="404" width="11" height="18" font="2">. </text>
+<text top="267" left="414" width="8" height="18" font="5"><i>s</i></text>
+<text top="267" left="423" width="7" height="18" font="2">]</text>
+<text top="267" left="429" width="9" height="18" font="5"><i>. </i></text>
+<text top="267" left="438" width="7" height="18" font="2">(</text>
+<text top="270" left="444" width="55" height="15" font="8"><i>HAPPY </i></text>
+<text top="267" left="500" width="12" height="18" font="5"><i>.x</i></text>
+<text top="267" left="512" width="13" height="18" font="2">))</text>
+<text top="267" left="525" width="18" height="18" font="5"><i>. x</i></text>
+<text top="267" left="545" width="10" height="18" font="2">] </text>
+<text top="290" left="106" width="5" height="18" font="2"> </text>
+<text top="315" left="106" width="5" height="18" font="2"> </text>
+<text top="315" left="156" width="5" height="18" font="2"> </text>
+<text top="315" left="188" width="79" height="18" font="2">      = </text>
+<text top="308" left="267" width="11" height="26" font="9">λ</text>
+<text top="315" left="277" width="9" height="18" font="5"><i>x</i></text>
+<text top="315" left="286" width="12" height="18" font="2"> [</text>
+<text top="308" left="297" width="11" height="26" font="9">λ</text>
+<text top="315" left="308" width="13" height="18" font="5"><i>w</i></text>
+<text top="315" left="321" width="12" height="18" font="2"> [</text>
+<text top="317" left="332" width="42" height="15" font="4">SEEM</text>
+<text top="315" left="375" width="11" height="18" font="2">.(</text>
+<text top="317" left="386" width="53" height="15" font="8"><i>HAPPY </i></text>
+<text top="315" left="440" width="13" height="18" font="5"><i>.x</i></text>
+<text top="315" left="453" width="14" height="18" font="2">)]</text>
+<text top="315" left="466" width="18" height="18" font="5"><i>. x</i></text>
+<text top="315" left="486" width="37" height="18" font="2">]   = </text>
+<text top="308" left="523" width="11" height="26" font="9">λ</text>
+<text top="315" left="533" width="9" height="18" font="5"><i>x</i></text>
+<text top="315" left="541" width="12" height="18" font="2"> [</text>
+<text top="317" left="554" width="43" height="15" font="4">SEEM</text>
+<text top="315" left="596" width="11" height="18" font="2">.(</text>
+<text top="317" left="606" width="55" height="15" font="8"><i>HAPPY </i></text>
+<text top="315" left="662" width="13" height="18" font="5"><i>.x</i></text>
+<text top="315" left="674" width="18" height="18" font="2">)] </text>
+<text top="336" left="106" width="5" height="18" font="2"> </text>
+<text top="362" left="106" width="37" height="18" font="2">(29) </text>
+<text top="362" left="156" width="14" height="18" font="3"><b>R</b></text>
+<text top="362" left="171" width="27" height="18" font="2"> try</text>
+<text top="356" left="197" width="5" height="26" font="9">′</text>
+<text top="362" left="201" width="79" height="18" font="2"> [to-dance</text>
+<text top="356" left="281" width="5" height="26" font="9">′</text>
+<text top="362" left="287" width="10" height="18" font="2">] </text>
+<text top="356" left="296" width="20" height="26" font="9">⇔</text>
+<text top="362" left="318" width="5" height="18" font="2"> </text>
+<text top="362" left="324" width="14" height="18" font="3"><b>R</b></text>
+<text top="362" left="336" width="12" height="18" font="2"> [</text>
+<text top="364" left="348" width="32" height="15" font="4">TRY</text>
+<text top="362" left="381" width="7" height="18" font="2">]</text>
+<text top="364" left="387" width="26" height="15" font="4"> TO</text>
+<text top="362" left="413" width="7" height="18" font="2">-</text>
+<text top="364" left="420" width="54" height="15" font="4">DANCE</text>
+<text top="362" left="475" width="14" height="18" font="2">   </text>
+<text top="383" left="106" width="5" height="18" font="2"> </text>
+<text top="408" left="106" width="5" height="18" font="2"> </text>
+<text top="408" left="156" width="5" height="18" font="2"> </text>
+<text top="408" left="188" width="58" height="18" font="2">    = </text>
+<text top="402" left="246" width="11" height="26" font="9">λ</text>
+<text top="408" left="255" width="9" height="18" font="5"><i>x</i></text>
+<text top="408" left="264" width="18" height="18" font="2"> [(</text>
+<text top="402" left="284" width="11" height="26" font="9">λ</text>
+<text top="408" left="293" width="8" height="18" font="5"><i>s</i></text>
+<text top="408" left="300" width="5" height="18" font="2"> </text>
+<text top="402" left="306" width="11" height="26" font="9">λ</text>
+<text top="408" left="317" width="13" height="18" font="5"><i>w</i></text>
+<text top="408" left="330" width="12" height="18" font="2"> [</text>
+<text top="410" left="341" width="32" height="15" font="4">TRY</text>
+<text top="408" left="374" width="9" height="18" font="2">. </text>
+<text top="408" left="383" width="26" height="18" font="5"><i>s.w</i></text>
+<text top="408" left="410" width="7" height="18" font="2">]</text>
+<text top="408" left="415" width="11" height="18" font="5"><i>. </i></text>
+<text top="408" left="425" width="7" height="18" font="2">(</text>
+<text top="410" left="431" width="21" height="15" font="8"><i>TO</i></text>
+<text top="408" left="452" width="7" height="18" font="5"><i>-</i></text>
+<text top="410" left="459" width="58" height="15" font="8"><i>DANCE </i></text>
+<text top="408" left="516" width="13" height="18" font="5"><i>.x</i></text>
+<text top="408" left="530" width="12" height="18" font="2">))</text>
+<text top="408" left="542" width="17" height="18" font="5"><i>. x</i></text>
+<text top="408" left="561" width="10" height="18" font="2">] </text>
+<text top="431" left="106" width="5" height="18" font="2"> </text>
+<text top="454" left="106" width="5" height="18" font="2"> </text>
+<text top="454" left="156" width="5" height="18" font="2"> </text>
+<text top="454" left="188" width="58" height="18" font="2">    = </text>
+<text top="448" left="246" width="11" height="26" font="9">λ</text>
+<text top="454" left="255" width="9" height="18" font="5"><i>x</i></text>
+<text top="454" left="264" width="12" height="18" font="2"> [</text>
+<text top="448" left="277" width="11" height="26" font="9">λ</text>
+<text top="454" left="288" width="13" height="18" font="5"><i>w</i></text>
+<text top="454" left="299" width="12" height="18" font="2"> [</text>
+<text top="456" left="311" width="32" height="15" font="4">TRY</text>
+<text top="454" left="343" width="11" height="18" font="2">.(</text>
+<text top="456" left="354" width="19" height="15" font="8"><i>TO</i></text>
+<text top="454" left="375" width="7" height="18" font="5"><i>-</i></text>
+<text top="456" left="381" width="56" height="15" font="8"><i>DANCE </i></text>
+<text top="454" left="439" width="13" height="18" font="5"><i>.x</i></text>
+<text top="454" left="452" width="7" height="18" font="2">)</text>
+<text top="454" left="459" width="19" height="18" font="5"><i>.w</i></text>
+<text top="454" left="476" width="7" height="18" font="2">)</text>
+<text top="454" left="483" width="18" height="18" font="5"><i>. x</i></text>
+<text top="454" left="502" width="39" height="18" font="2">]   = </text>
+<text top="448" left="539" width="11" height="26" font="9">λ</text>
+<text top="454" left="549" width="9" height="18" font="5"><i>x</i></text>
+<text top="454" left="558" width="12" height="18" font="2"> [</text>
+<text top="456" left="569" width="33" height="15" font="4">TRY</text>
+<text top="454" left="602" width="5" height="18" font="2">.</text>
+<text top="454" left="606" width="7" height="18" font="5"><i>(</i></text>
+<text top="456" left="612" width="21" height="15" font="8"><i>TO</i></text>
+<text top="454" left="633" width="7" height="18" font="5"><i>-</i></text>
+<text top="456" left="639" width="58" height="15" font="8"><i>DANCE </i></text>
+<text top="454" left="698" width="36" height="18" font="5"><i>.x). x</i></text>
+<text top="454" left="736" width="10" height="18" font="2">] </text>
+<text top="476" left="120" width="5" height="18" font="2"> </text>
+<text top="499" left="120" width="152" height="18" font="2">We take the use of </text>
+<text top="499" left="272" width="14" height="18" font="3"><b>R</b></text>
+<text top="499" left="286" width="508" height="18" font="2"> to be licensed by the syntactic Case system, and specifically by </text>
+<text top="524" left="106" width="473" height="18" font="2">the assignment by the selecting head of the case feature [</text>
+<text top="518" left="576" width="11" height="26" font="9">−</text>
+<text top="524" left="587" width="207" height="18" font="2">Case] to its complement. </text>
+<text top="545" left="106" width="690" height="18" font="2">The complement will need to be monovalent, and will usually be a VP (i.e. some </text>
+<text top="569" left="106" width="689" height="18" font="2">projection of V, probably including an inflectional head, but not including a subject), </text>
+<text top="590" left="106" width="421" height="18" font="2">but may be some other lexical projection such as AP. </text>
+<text top="613" left="120" width="674" height="18" font="2">For canonical control, Cormack and Smith (2001b) argue that NL uses the </text>
+<text top="636" left="106" width="98" height="18" font="2">Combinator </text>
+<text top="636" left="206" width="14" height="18" font="3"><b>R</b></text>
+<text top="636" left="221" width="575" height="18" font="2">, as in (29) above. This device is comparable in semantic effect to the </text>
+<text top="658" left="106" width="689" height="18" font="2">forcing of anaphoric PRO, and in as much as agents are canonically associated with </text>
+<text top="680" left="106" width="688" height="18" font="2">the subject position, may tend to ensure that the Meaning Postulate in (15) is satisfied. </text>
+<text top="704" left="106" width="689" height="18" font="2">However, this is only a tendency, so there is no reason to expect all languages to use </text>
+<text top="728" left="106" width="229" height="18" font="2">this device. The Combinator </text>
+<text top="728" left="336" width="14" height="18" font="3"><b>R</b></text>
+<text top="728" left="350" width="142" height="18" font="2"> is licensed by a [</text>
+<text top="721" left="491" width="11" height="26" font="9">−</text>
+<text top="728" left="501" width="294" height="18" font="2">Case] feature in the selection for the </text>
+<text top="750" left="106" width="689" height="18" font="2">propositional &lt;t&gt; argument  of the control verb; if the device is not used, the type &lt;t&gt; </text>
+<text top="773" left="106" width="690" height="18" font="2">argument will have a [+Case] feature and combine by simple function-argument </text>
+<text top="795" left="106" width="89" height="18" font="2">application </text>
+<text top="795" left="199" width="14" height="18" font="3"><b>A</b></text>
+<text top="795" left="213" width="583" height="18" font="2">. Thus which of the two structures is realised is controlled by the Case </text>
+<text top="818" left="106" width="690" height="18" font="2">properties and c-selection of the head. To a first approximation, raising and control </text>
+<text top="840" left="106" width="689" height="18" font="2">heads with verbal complements will be differe ntiated as shown in (30). In the case of </text>
+<text top="865" left="106" width="417" height="18" font="2">Tsez, the selection X in non-canonical control is T[</text>
+<text top="858" left="524" width="11" height="26" font="9">−</text>
+<text top="865" left="534" width="261" height="18" font="2">finite]. For another language, it </text>
+<text top="887" left="106" width="186" height="18" font="2">might be finite T, or C. </text>
+<text top="910" left="120" width="5" height="18" font="2"> </text>
+<text top="933" left="106" width="508" height="18" font="2">(30)  Raising head:            c-selection: V/D/V    type &lt;t</text>
+<text top="941" left="614" width="4" height="12" font="10">[</text>
+<text top="937" left="619" width="7" height="17" font="32">−</text>
+<text top="941" left="627" width="29" height="12" font="10">Case]</text>
+<text top="933" left="656" width="83" height="18" font="2">, &lt;nil, t&gt;&gt; </text>
+<text top="957" left="106" width="5" height="18" font="2"> </text>
+<text top="981" left="106" width="5" height="18" font="2"> </text>
+<text top="981" left="156" width="457" height="18" font="2">Canonical Control head:    c-selection: V/D/V    type &lt;t</text>
+<text top="989" left="614" width="4" height="12" font="10">[</text>
+<text top="984" left="619" width="7" height="17" font="32">−</text>
+<text top="989" left="627" width="29" height="12" font="10">Case]</text>
+<text top="981" left="656" width="71" height="18" font="2">, &lt;e, t&gt;&gt; </text>
+<text top="1002" left="106" width="5" height="18" font="2"> </text>
+<text top="1026" left="106" width="5" height="18" font="2"> </text>
+<text top="1026" left="156" width="185" height="18" font="2">Non-Canonical Control</text>
+<text top="1032" left="341" width="7" height="12" font="10">1</text>
+<text top="1026" left="348" width="300" height="18" font="2">:  c-selection: V/X/D    type &lt;e , &lt;t</text>
+<text top="1032" left="648" width="42" height="12" font="10">[+Case]</text>
+<text top="1026" left="691" width="42" height="18" font="2">, t&gt;&gt; </text>
+<text top="1048" left="106" width="5" height="18" font="2"> </text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="33" size="16" family="Arial" color="#000000"/>
+<text top="180" left="106" width="28" height="15" font="4">374 </text>
+<text top="180" left="147" width="212" height="15" font="8"><i>Annabel Cormack &amp; Neil Smith </i></text>
+<text top="199" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="5" height="18" font="2"> </text>
+<text top="220" left="156" width="185" height="18" font="2">Non-Canonical Control</text>
+<text top="228" left="341" width="7" height="12" font="10">2</text>
+<text top="220" left="348" width="266" height="18" font="2">:  c-selection: V/D/X    type &lt;t</text>
+<text top="228" left="614" width="42" height="12" font="10">[+Case]</text>
+<text top="220" left="656" width="71" height="18" font="2">, &lt;e, t&gt;&gt; </text>
+<text top="242" left="120" width="5" height="18" font="2"> </text>
+<text top="264" left="106" width="687" height="18" font="2">The associated meanings for Raising verbs differ from those of Control verbs in </text>
+<text top="288" left="106" width="690" height="18" font="2">having only a ‘nil’ external argument selection, and in not being subject to the </text>
+<text top="309" left="106" width="689" height="18" font="2">Meaning Postulate for Control. If we put aside the argument switch for Non-canonical </text>
+<text top="332" left="106" width="58" height="18" font="2">Control</text>
+<text top="339" left="164" width="7" height="12" font="10">1</text>
+<text top="332" left="172" width="622" height="18" font="2">, we observe the following. The two kinds of Control verbs have the same </text>
+<text top="355" left="106" width="690" height="18" font="2">lexical semantics. There are no syntactic differences between Raising and Canonical </text>
+<text top="378" left="106" width="688" height="18" font="2">Control verbs; Canonical and Non-Canonical Control verbs differ just by c-selection </text>
+<text top="399" left="106" width="689" height="18" font="2">and Case feature. The crucial difference between Raising and Canonical Control on </text>
+<text top="425" left="106" width="556" height="18" font="2">the one hand and Non-Canonical Control on the other lies in the [+/</text>
+<text top="419" left="662" width="11" height="26" font="9">−</text>
+<text top="433" left="672" width="3" height="12" font="10"> </text>
+<text top="425" left="677" width="117" height="18" font="2">Case] feature, </text>
+<text top="446" left="106" width="690" height="18" font="2">which determines how the complement and head combine semantically when they are </text>
+<text top="469" left="106" width="688" height="18" font="2">merged. Whether Non-Canonical Control comes out looking superficially like </text>
+<text top="491" left="106" width="690" height="18" font="2">‘backward control’ for referential subjects depends on other properties of the grammar </text>
+<text top="514" left="106" width="311" height="18" font="2">and lexicon, as discussed in section 3.   </text>
+<text top="537" left="120" width="5" height="18" font="2"> </text>
+<text top="559" left="120" width="5" height="18" font="2"> </text>
+<text top="581" left="106" width="119" height="18" font="3"><b>5 Conclusions </b></text>
+<text top="605" left="106" width="5" height="18" font="2"> </text>
+<text top="627" left="106" width="690" height="18" font="2">We took Polinsky and Potsdam (2002) on ‘backward control’ to provide a serious </text>
+<text top="649" left="106" width="690" height="18" font="2">challenge to the possibility of a compositional account of natural language. Our </text>
+<text top="672" left="106" width="690" height="18" font="2">alternative accounts of the Tsez data, including data on quantified noun phrases </text>
+<text top="695" left="106" width="689" height="18" font="2">provided by Maria Polinsky, suggest that NL compositionality has not yet been </text>
+<text top="716" left="106" width="689" height="18" font="2">compromised. However, in the course of our argument, we were forced to make a </text>
+<text top="740" left="106" width="690" height="18" font="2">number of claims for whose factuality we do not have evidence. To this extent, the </text>
+<text top="762" left="106" width="630" height="18" font="2">question with regard to ‘backward control’ and compositionality remains open.  </text>
+<text top="784" left="106" width="5" height="18" font="2"> </text>
+<text top="807" left="106" width="5" height="18" font="2"> </text>
+<text top="830" left="106" width="95" height="18" font="3"><b>References </b></text>
+<text top="852" left="106" width="5" height="18" font="2"> </text>
+<text top="874" left="106" width="272" height="15" font="4">Anderson, John. (2001) Raising control. </text>
+<text top="874" left="378" width="124" height="15" font="8"><i>Studia Linguistica</i></text>
+<text top="874" left="501" width="84" height="15" font="4"> 55: 77-111.  </text>
+<text top="893" left="106" width="164" height="15" font="4">Carston, Robyn. (2002) </text>
+<text top="893" left="269" width="458" height="15" font="8"><i>Thoughts and utterances: the pragmatics of explicit communication</i></text>
+<text top="893" left="727" width="66" height="15" font="4">. Oxford: </text>
+<text top="913" left="120" width="75" height="15" font="4">Blackwell.  </text>
+<text top="931" left="106" width="352" height="15" font="4">Chierchia, Gennaro. (1990) Anaphora and Attitudes </text>
+<text top="931" left="458" width="40" height="15" font="8"><i>De Se</i></text>
+<text top="931" left="498" width="220" height="15" font="4">. In: Bartsch, Renate et al. (eds.), </text>
+<text top="931" left="720" width="73" height="15" font="8"><i>Semantics </i></text>
+<text top="951" left="120" width="180" height="15" font="8"><i>and Contextual Expression</i></text>
+<text top="951" left="303" width="165" height="15" font="4">, 1-32, Foris, Dordrecht. </text>
+<text top="969" left="106" width="584" height="15" font="4">Chomsky, Noam. (1987) Reply [to  M. Brody's &#34;Review discussion on Chomsky's </text>
+<text top="969" left="693" width="100" height="15" font="8"><i>Knowledge of </i></text>
+<text top="990" left="120" width="74" height="15" font="8"><i>Language&#34;</i></text>
+<text top="990" left="196" width="10" height="15" font="4">] </text>
+<text top="990" left="206" width="126" height="15" font="8"><i>Mind &amp; Language </i></text>
+<text top="990" left="333" width="68" height="15" font="4">2:178-197</text>
+<text top="989" left="399" width="9" height="15" font="33">. </text>
+<text top="1009" left="106" width="170" height="15" font="4">Chomsky, Noam. (1995) </text>
+<text top="1009" left="276" width="165" height="15" font="8"><i>The Minimalist Program</i></text>
+<text top="1009" left="441" width="219" height="15" font="4">. Cambridge, Mass.: MIT Press. </text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="180" left="147" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="203" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="449" width="5" height="15" font="8"><i> </i></text>
+<text top="180" left="471" width="280" height="15" font="8"><i>Compositionality, copy theory, and control</i></text>
+<text top="180" left="750" width="43" height="15" font="4">  375 </text>
+<text top="199" left="789" width="5" height="15" font="8"><i> </i></text>
+<text top="219" left="106" width="442" height="15" font="4">Chomsky, Noam. (2000) Minimalist inquiries: the framework. In </text>
+<text top="219" left="550" width="243" height="15" font="8"><i>Step by Step: Essays on Minimalist </i></text>
+<text top="237" left="120" width="254" height="15" font="8"><i>Syntax in Honor of Howard Lasnik</i></text>
+<text top="237" left="378" width="415" height="15" font="4">, ed. R. Martin, D. Michaels, and J. Uriagereka: 89-155. </text>
+<text top="257" left="120" width="209" height="15" font="4">Cambridge, Mass.: MIT Press. </text>
+<text top="276" left="106" width="333" height="15" font="4">Chomsky, Noam. (2001) Derivation by phase. In </text>
+<text top="276" left="442" width="206" height="15" font="8"><i>Ken Hale: A Life in Language</i></text>
+<text top="276" left="649" width="144" height="15" font="4">, ed. M. Kenstowicz: </text>
+<text top="297" left="120" width="8" height="15" font="4">1</text>
+<text top="291" left="128" width="9" height="21" font="15">−</text>
+<text top="297" left="138" width="234" height="15" font="4">52. Cambridge, Mass.: MIT Press. </text>
+<text top="316" left="106" width="189" height="15" font="4">Cormack, Annabel. (1989) </text>
+<text top="316" left="300" width="293" height="15" font="8"><i>The Syntax and Semantics of Definitions</i></text>
+<text top="316" left="594" width="199" height="15" font="4">. PhD dissertation, London. </text>
+<text top="335" left="120" width="279" height="15" font="4">[published by Garland, New York, 1998] </text>
+<text top="354" left="106" width="343" height="15" font="4">Cormack, Annabel. (1999) Without Specifiers. In </text>
+<text top="354" left="450" width="235" height="15" font="8"><i>Specifiers: Minimalist Approaches</i></text>
+<text top="354" left="686" width="107" height="15" font="4">, ed. D. Adger, </text>
+<text top="373" left="120" width="488" height="15" font="4">S. Pintzuk, B. Plunkett, and G. Tsoulas: 46-68. Oxford University Press. </text>
+<text top="393" left="106" width="687" height="15" font="4">Cormack, Annabel, and Neil Smith. (2001a) What is coordination? Paper given at the 4th NWCL </text>
+<text top="411" left="120" width="558" height="15" font="4">international conference: Coordination, syntax, semantics and pragmatics, Salford. </text>
+<text top="432" left="106" width="420" height="15" font="4">Cormack, Annabel, and Neil Smith. (2001b) Don't move! In </text>
+<text top="432" left="529" width="88" height="15" font="8"><i>UCLWPL 13</i></text>
+<text top="432" left="618" width="175" height="15" font="4">: 215-241, Phonetics and </text>
+<text top="450" left="120" width="129" height="15" font="4">Linguistics, UCL.  </text>
+<text top="470" left="106" width="340" height="15" font="4">Dowty, David R. (1985) The semantics of control. </text>
+<text top="470" left="447" width="183" height="15" font="8"><i>Linguistics and Philosophy</i></text>
+<text top="470" left="630" width="83" height="15" font="4"> 8: 291-331. </text>
+<text top="489" left="106" width="138" height="15" font="4">Fodor, Jerry. (1975) </text>
+<text top="489" left="244" width="175" height="15" font="8"><i>The Language of Thought</i></text>
+<text top="489" left="419" width="102" height="15" font="4">. NY: Crowell. </text>
+<text top="507" left="106" width="687" height="15" font="4">Higginbotham, James. (1992) Reference and Control. In: Larson, Richard, S. Iatridou, U. Lahiri and </text>
+<text top="527" left="120" width="119" height="15" font="4">J. Higginbotham. </text>
+<text top="527" left="240" width="152" height="15" font="8"><i>Control and Grammar</i></text>
+<text top="527" left="392" width="344" height="15" font="4">. Kluwer Academic Publishers, Dordrecht. 79-108. </text>
+<text top="546" left="106" width="343" height="15" font="4">Hornstein, Norbert. (1999) Movement and control. </text>
+<text top="546" left="449" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="546" left="569" width="77" height="15" font="4"> 30: 69-96. </text>
+<text top="566" left="106" width="407" height="15" font="4">Jacobson, Pauline. (1990) Raising as Function Composition. </text>
+<text top="566" left="514" width="183" height="15" font="8"><i>Linguistics and Philosophy</i></text>
+<text top="566" left="698" width="91" height="15" font="4"> 13: 423-476.  </text>
+<text top="585" left="106" width="396" height="15" font="4">Jacobson, Pauline. (1992) Raising without movement. In </text>
+<text top="585" left="504" width="156" height="15" font="8"><i>Control and Grammar</i></text>
+<text top="585" left="660" width="133" height="15" font="4">, ed. R. Larson, S. </text>
+<text top="604" left="120" width="479" height="15" font="4">Iatridou, U. Lahiri, and J. Higginbotham: 149-194. Dordrecht: Kluwer. </text>
+<text top="623" left="106" width="528" height="15" font="4">Landau, Idan. (2001) ‘Movement out of control’, Ms., Ben Gurion University. </text>
+<text top="643" left="106" width="185" height="15" font="4">Mahajan, Anoop K. (1990) </text>
+<text top="643" left="290" width="308" height="15" font="8"><i>The A/A-bar distinction and movement theory</i></text>
+<text top="643" left="599" width="164" height="15" font="4">. PhD dissertation, MIT. </text>
+<text top="661" left="106" width="636" height="15" font="4">Manzini, M. Rita and Anna Roussou. (2000) A minimalist theory of A-move ment and control. </text>
+<text top="661" left="741" width="47" height="15" font="8"><i>Lingua</i></text>
+<text top="661" left="789" width="5" height="15" font="4"> </text>
+<text top="680" left="120" width="98" height="15" font="4">110: 409-447. </text>
+<text top="701" left="106" width="144" height="15" font="4">Nunes, Jairo. (1995) </text>
+<text top="701" left="252" width="542" height="15" font="8"><i>The Copy Theory of Movement and Linearization of Chains in the Minimalist </i></text>
+<text top="719" left="120" width="61" height="15" font="8"><i>Program</i></text>
+<text top="719" left="181" width="389" height="15" font="4">. PhD dissertation, University of Maryland, College Park. </text>
+<text top="739" left="106" width="345" height="15" font="4">Perlmutter, David. (1970) The two verbs begin. In </text>
+<text top="739" left="453" width="332" height="15" font="8"><i>Readings in English Transformational Grammar</i></text>
+<text top="739" left="784" width="9" height="15" font="4">, </text>
+<text top="758" left="120" width="480" height="15" font="4">ed. R. Jacobs, and P. Rosenbaum: 107-119. Waltham, Mass.: Blaisdell. </text>
+<text top="777" left="106" width="629" height="15" font="4">Polinsky, Maria and Eric Potsdam. (2001) Long distance agreement and topic in Tsez. </text>
+<text top="777" left="737" width="56" height="15" font="8"><i>Natural </i></text>
+<text top="796" left="120" width="220" height="15" font="8"><i>Language and Linguistic Theory</i></text>
+<text top="796" left="341" width="92" height="15" font="4"> 19: 583-646. </text>
+<text top="815" left="106" width="413" height="15" font="4">Polinsky, Maria and Eric Potsdam. (2002) Backward control. </text>
+<text top="815" left="519" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="815" left="639" width="93" height="15" font="4"> 33: 245-282. </text>
+<text top="834" left="106" width="137" height="15" font="4">Smith, Neil. (1999)  </text>
+<text top="834" left="243" width="188" height="15" font="8"><i>Chomsky: Ideas and Ideals.</i></text>
+<text top="834" left="430" width="128" height="15" font="4"> Cambridge: CUP. </text>
+<text top="855" left="106" width="293" height="15" font="4">Sperber, Dan and Deirdre Wilson. (1995) </text>
+<text top="855" left="401" width="383" height="15" font="8"><i>Relevance: communication and cognition  (second ed.)</i></text>
+<text top="855" left="785" width="7" height="15" font="4">. </text>
+<text top="873" left="120" width="172" height="15" font="4">Oxford: Basil Blackwell. </text>
+<text top="892" left="106" width="511" height="15" font="4">Steedman, Mark. (1985) Combinatory Grammars and Parasitic Gaps. </text>
+<text top="892" left="623" width="169" height="15" font="8"><i>Natural Language and </i></text>
+<text top="912" left="120" width="119" height="15" font="8"><i>Linguistic Theory</i></text>
+<text top="912" left="240" width="84" height="15" font="4"> 5: 403-439. </text>
+<text top="930" left="106" width="313" height="15" font="4">Steedman, Mark. (1993) Categorial Grammar. </text>
+<text top="930" left="420" width="48" height="15" font="8"><i>Lingua</i></text>
+<text top="930" left="467" width="93" height="15" font="4"> 90: 221-258. </text>
+<text top="950" left="106" width="166" height="15" font="4">Steedman, Mark. (2000) </text>
+<text top="950" left="272" width="149" height="15" font="8"><i>The Syntactic Process</i></text>
+<text top="950" left="422" width="217" height="15" font="4">. Cambridge, Mass.: MIT Press. </text>
+</page>
+</pdf2xml>

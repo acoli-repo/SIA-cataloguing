@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="18" family="Times" color="#000000"/>
+	<fontspec id="2" size="17" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="20" family="Times" color="#000000"/>
+	<fontspec id="8" size="10" family="Times" color="#000000"/>
+	<fontspec id="9" size="17" family="Times" color="#000000"/>
+<text top="876" left="123" width="6" height="11" font="0">*</text>
+<text top="880" left="129" width="680" height="16" font="1">This paper is an edited version of a chapter of my thesis. Thanks are due to Dick Hudson who</text>
+<text top="902" left="108" width="701" height="16" font="1">talked me through it, and to Chet Creider, Hans van de Koot, Ad Neeleman and Neil Smith who</text>
+<text top="923" left="108" width="702" height="16" font="1">offered valuable comments. Many of the ideas have been discussed at WIG meetings and on the Word</text>
+<text top="944" left="108" width="377" height="16" font="1">Grammar email network (wordgrammar@ucl.ac.uk).</text>
+<text top="978" left="123" width="6" height="11" font="0">1</text>
+<text top="983" left="130" width="256" height="16" font="2">Throughout this paper I use the term </text>
+<text top="985" left="385" width="82" height="12" font="3">INCHOATIVE</text>
+<text top="983" left="467" width="343" height="16" font="2"> in the sense used by Levin (1993). It is debatable</text>
+<text top="1003" left="108" width="702" height="16" font="2">whether the term is suitable, since it is more traditionally used in a different sense. A more proper</text>
+<text top="1024" left="108" width="618" height="16" font="2">characterisation of the semantic properties of the intransitive pole of the alternation might be </text>
+<text top="1026" left="726" width="84" height="12" font="3">INTERNALLY</text>
+<text top="1047" left="108" width="54" height="12" font="3">CAUSED</text>
+<text top="1044" left="162" width="322" height="16" font="2">. I discuss this issue in greater detail elsewhere.</text>
+<text top="137" left="108" width="656" height="32" font="4"><i><b>The syntax and semantics of causative verbs</b></i></text>
+<text top="133" left="765" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="222" left="108" width="157" height="18" font="6">JASPER HOLMES</text>
+<text top="318" left="152" width="75" height="18" font="7"><b>Abstract</b></text>
+<text top="365" left="152" width="614" height="16" font="2">In this paper I present a Word Grammar analysis of the syntax and semantics of the</text>
+<text top="385" left="152" width="215" height="16" font="2">causative/inchoative alternation.</text>
+<text top="383" left="367" width="5" height="9" font="8">1</text>
+<text top="385" left="372" width="395" height="16" font="2"> The analysis makes crucial use of the relational network that</text>
+<text top="406" left="152" width="614" height="16" font="2">characterises Word Grammar which provides for the description and explanation of the</text>
+<text top="426" left="152" width="614" height="16" font="2">behaviour of regularly alternating verbs like <i>BREAK</i> as well as exceptionally non-alternating</text>
+<text top="447" left="152" width="614" height="16" font="2">verbs such as <i>VANISH</i> and <i>CUT</i>. I also address the difference between inherently causative</text>
+<text top="467" left="152" width="614" height="16" font="2">alternating verbs such as <i>COLLECT</i> and inherently inchoative alternating verbs such as</text>
+<text top="488" left="152" width="54" height="16" font="9"><i>GROW</i>.</text>
+<text top="557" left="108" width="444" height="18" font="7"><b>1 Introduction: the causative/inchoative alternation</b></text>
+<text top="603" left="108" width="349" height="18" font="7"><b>1.1 The causative/inchoative alternation.</b></text>
+<text top="651" left="108" width="702" height="18" font="6">In this paper, I concern myself primarily with the causative/inchoative alternation,</text>
+<text top="674" left="108" width="151" height="18" font="6">exemplified in (1):</text>
+<text top="722" left="108" width="24" height="18" font="6">(1)</text>
+<text top="722" left="152" width="258" height="18" font="6">a. The boys broke the window.</text>
+<text top="746" left="152" width="186" height="18" font="6">b. The window broke.</text>
+<text top="793" left="108" width="702" height="18" font="6">I present an analysis framed in terms of Word Grammar (WG) (see for example Hudson</text>
+<text top="817" left="108" width="702" height="18" font="6">1990, 1995, 1998, Hudson and Holmes 1999) . The analysis will be assessed according</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="20" family="Times" color="#000000"/>
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">324</text>
+<text top="171" left="108" width="494" height="18" font="6">to how well it accounts for various data, which I outline here.</text>
+<text top="195" left="123" width="687" height="18" font="10"><i>BREAK</i> can be used with causative and inchoative semantics. Both these semantic</text>
+<text top="219" left="108" width="702" height="18" font="6">patterns can be characterised by a number of diagnostic features. Causative verbs (verb</text>
+<text top="242" left="108" width="701" height="18" font="6">uses) can appear in middle constructions (2a). They also can appear with dependents</text>
+<text top="266" left="108" width="701" height="18" font="6">referring to a lexically determined result (2b). The subject of the verb refers to the agent</text>
+<text top="290" left="108" width="616" height="18" font="6">of the action described, the object to the affected entity (the er of the result).</text>
+<text top="337" left="108" width="24" height="18" font="6">(2)</text>
+<text top="337" left="152" width="238" height="18" font="6">a. Barrs bottles break easily.</text>
+<text top="361" left="152" width="427" height="18" font="6">b. The boys broke the bottle to bits/*out of the way.</text>
+<text top="409" left="108" width="702" height="18" font="6">Inchoative verbs (verb uses) can also appear with dependents referring to a lexically</text>
+<text top="432" left="108" width="702" height="18" font="6">determined result (3a). Furthermore, in this case a result adverbial is obligatorily</text>
+<text top="456" left="108" width="701" height="18" font="6">predicated of the verb’s subject (3b), which refers to the affected. Notice that this</text>
+<text top="480" left="108" width="702" height="18" font="6">contrasts with the behaviour of other intransitive verbs like <i>DRINK</i>, which has no lexical</text>
+<text top="504" left="108" width="702" height="18" font="6">result, and which permits a dependent referring to a non-selected result, predicated of a</text>
+<text top="527" left="108" width="213" height="18" font="6">non-selected direct object.</text>
+<text top="575" left="108" width="24" height="18" font="6">(3)</text>
+<text top="575" left="152" width="354" height="18" font="6">a. The bottle broke to bits/*out of the way.</text>
+<text top="599" left="152" width="395" height="18" font="6">b. *The window broke the room (to bits/drafty).</text>
+<text top="646" left="108" width="24" height="18" font="6">(4)</text>
+<text top="646" left="152" width="289" height="18" font="6">a. *Diana drank into a stupor/silly.</text>
+<text top="670" left="152" width="475" height="18" font="6">b. Diana drank the bar dry/herself silly/Frank out of a job.</text>
+<text top="718" left="108" width="373" height="18" font="7"><b>1.2 Inherently inchoative alternating verbs.</b></text>
+<text top="765" left="108" width="702" height="18" font="6">In the case of <i>BREAK</i>, it appears that the causative use is primary and the inchoative</text>
+<text top="788" left="108" width="701" height="18" font="6">secondary: a speaker who uses the inchoative may be unaware of the identity of the agent</text>
+<text top="812" left="108" width="702" height="18" font="6">or unwilling to commit themselves to it, but an agent or causative force is nevertheless</text>
+<text top="836" left="108" width="702" height="18" font="6">implied (unless it is negated contextually: <i>It broke spontaneously</i>). However, in some</text>
+<text top="860" left="108" width="702" height="18" font="6">cases the inchoative use must be considered primary. For example, certain verbs of</text>
+<text top="884" left="108" width="702" height="18" font="6">motion which all behave alike in their inchoative uses differ as to whether or not they</text>
+<text top="907" left="108" width="163" height="18" font="6">have causative uses:</text>
+<text top="955" left="108" width="24" height="18" font="6">(5)</text>
+<text top="955" left="152" width="411" height="18" font="6">a. The barrel rolled down the steps into the cellar.</text>
+<text top="979" left="152" width="314" height="18" font="6">b. *The barrels rolled the cellar (full).</text>
+<text top="1002" left="152" width="525" height="18" font="6">c. The cellarman rolled the barrel down the steps into the cellar.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">325</text>
+<text top="998" left="123" width="6" height="11" font="0">2</text>
+<text top="1003" left="129" width="681" height="16" font="2">The examples quoted for <i>GROW</i>, for <i>COLLECT</i> and for <i>FREEZE</i> are constructed on the basis of a</text>
+<text top="1024" left="108" width="702" height="16" font="2">summary of the separate senses given in the OED (1989). They are distinguished by differences in the</text>
+<text top="1044" left="108" width="527" height="16" font="2">semantic class of the subject and object (transitive uses) and of the verb itself.</text>
+<text top="171" left="108" width="24" height="18" font="6">(6)</text>
+<text top="171" left="152" width="389" height="18" font="6">a. The car glided across the road into the ditch.</text>
+<text top="195" left="152" width="325" height="18" font="6">b. *The car glided the driver (panicky).</text>
+<text top="219" left="152" width="481" height="18" font="6">c. *The driver glided the car across the road into the ditch.</text>
+<text top="266" left="108" width="702" height="18" font="6">Another example is <i>GROW</i> which, when used inchoatively as in (7a), does not entail</text>
+<text top="290" left="108" width="702" height="18" font="6">outside agency. Furthermore, the inchoative use allows many more senses (7a-f) than are</text>
+<text top="314" left="108" width="304" height="18" font="6">possible with the causative use (8a-f).</text>
+<text top="311" left="412" width="6" height="11" font="0">2</text>
+<text top="361" left="108" width="24" height="18" font="6">(7)</text>
+<text top="361" left="152" width="147" height="18" font="6">a. The tree grew.</text>
+<text top="385" left="152" width="150" height="18" font="6">b. The goat grew.</text>
+<text top="409" left="152" width="324" height="18" font="6">c. A leaf/beard grew (on the tree/goat).</text>
+<text top="432" left="152" width="163" height="18" font="6">d. They grew tired.</text>
+<text top="456" left="152" width="257" height="18" font="6">e. My feelings of unease grew.</text>
+<text top="480" left="152" width="266" height="18" font="6">f. The business grew overnight.</text>
+<text top="527" left="108" width="24" height="18" font="6">(8)</text>
+<text top="527" left="152" width="136" height="18" font="6">a. I grew a tree.</text>
+<text top="551" left="152" width="149" height="18" font="6">b. *I grew a goat.</text>
+<text top="575" left="152" width="287" height="18" font="6">c. The tree/goat grew a leaf/beard.</text>
+<text top="599" left="152" width="275" height="18" font="6">d. *The journey grew them tired.</text>
+<text top="623" left="152" width="376" height="18" font="6">e. *The situation grew my feelings of unease.</text>
+<text top="646" left="152" width="450" height="18" font="6">f. *The new acquisitions grew the company overnight.</text>
+<text top="694" left="108" width="702" height="18" font="6">In order to attract such a cluster of senses, the inchoative sense of <i>GROW</i> must have</text>
+<text top="718" left="108" width="702" height="18" font="6">independent existence in the lexicon and so cannot be considered as derived from the</text>
+<text top="741" left="108" width="129" height="18" font="6">causative sense.</text>
+<text top="765" left="123" width="481" height="18" font="6">In contrast, <i>COLLECT</i> has more senses in its causative use:</text>
+<text top="813" left="108" width="24" height="18" font="6">(9)</text>
+<text top="813" left="152" width="320" height="18" font="6">a. We collected mushrooms in my hat.</text>
+<text top="836" left="152" width="338" height="18" font="6">b. His lectures collected large audiences.</text>
+<text top="860" left="152" width="359" height="18" font="6">c. I’m collecting money for the Samaritans.</text>
+<text top="884" left="152" width="289" height="18" font="6">d. Do you collect stamps in Japan?</text>
+<text top="908" left="152" width="403" height="18" font="6">e. You can collect your parcel at the Post Office.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">326</text>
+<text top="171" left="108" width="367" height="18" font="6">(10) a. The mushrooms collected in my hat.</text>
+<text top="195" left="152" width="360" height="18" font="6">b. Large audiences collected in his lectures.</text>
+<text top="219" left="152" width="315" height="18" font="6">c. *£500 collected for the Samaritans.</text>
+<text top="242" left="152" width="264" height="18" font="6">d. *Do stamps collect in Japan?</text>
+<text top="266" left="152" width="378" height="18" font="6">e. *Your parcel can collect at the Post Office.</text>
+<text top="314" left="108" width="610" height="18" font="6">For this reason, the causative use of <i>COLLECT</i> is to be considered primary.</text>
+<text top="337" left="123" width="687" height="18" font="6">The case of <i>FREEZE</i> is different from those of <i>GROW</i> and <i>COLLECT</i> in that it is,</text>
+<text top="361" left="108" width="702" height="18" font="6">apparently, possible to use all of the senses of the verb both causatively and inchoatively:</text>
+<text top="409" left="108" width="361" height="18" font="6">(11) a. That winter the Thames froze solid.</text>
+<text top="432" left="152" width="347" height="18" font="6">b. In the southern ocean the rigging froze.</text>
+<text top="456" left="152" width="332" height="18" font="6">c. Ellen’s tongue froze to the lamp post.</text>
+<text top="480" left="152" width="529" height="18" font="6">d. We dug a snow hole so as not to freeze (to death) in the night.</text>
+<text top="504" left="152" width="317" height="18" font="6">e. Seeing Brer Fox, Brer Rabbit froze.</text>
+<text top="551" left="108" width="412" height="18" font="6">(12) a. The severe winter froze the Thames solid.</text>
+<text top="575" left="152" width="355" height="18" font="6">b. The night air froze the shirt on my back.</text>
+<text top="599" left="152" width="316" height="18" font="6">c. Scott’s ship was frozen into the ice.</text>
+<text top="623" left="152" width="553" height="18" font="6">d. The severe weather conditions almost froze the hikers (to death).</text>
+<text top="646" left="152" width="363" height="18" font="6">e. The Inland Revenue froze their accounts.</text>
+<text top="694" left="108" width="702" height="18" font="6">However, what is suggestive about the OED entries for these senses of <i>FREEZE</i> is that</text>
+<text top="718" left="108" width="702" height="18" font="6">the earliest example given for the causative use is, in each case, between one and two</text>
+<text top="741" left="108" width="702" height="18" font="6">hundred years later than that for the inchoative use. This pattern suggests a productive</text>
+<text top="765" left="108" width="446" height="18" font="6">mechanism that maps inchoative onto causative senses.</text>
+<text top="789" left="123" width="687" height="18" font="6">I hope to have established, in discussing these three verbs, that a proper account of the</text>
+<text top="813" left="108" width="702" height="18" font="6">causative/inchoative alternation must make it possible for either (or both) of the uses to</text>
+<text top="836" left="108" width="702" height="18" font="6">have independent lexical representation and that, whatever the derivational relationship</text>
+<text top="860" left="108" width="701" height="18" font="6">between the two senses, it must operate in both directions. I return to these verbs below,</text>
+<text top="884" left="108" width="429" height="18" font="6">where their structures are discussed in greater depth. </text>
+<text top="908" left="123" width="687" height="18" font="6">Though I have framed the argument in this section in terms of basic and derived</text>
+<text top="931" left="108" width="702" height="18" font="6">representations, this concept is actually not significant in the WG analysis, since the two</text>
+<text top="955" left="108" width="702" height="18" font="6">uses are related by a lexical relationship and not by a derivational procedure. The purpose</text>
+<text top="979" left="108" width="702" height="18" font="6">of the examples above is to establish two things: that the lexical relationship must be able</text>
+<text top="1003" left="108" width="702" height="18" font="6">to operate in both directions, since there are uses on either side of the alternation that</text>
+<text top="1026" left="108" width="702" height="18" font="6">depend for specifics of their meaning on a corresponding use on the other side; and that</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="16" family="Times" color="#000000"/>
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">327</text>
+<text top="171" left="108" width="702" height="18" font="6">both causative and inchoative uses must be associated with independent lexical</text>
+<text top="195" left="108" width="701" height="18" font="6">representations, since there are cases where both sides of the alternation have</text>
+<text top="219" left="108" width="271" height="18" font="6">idiosyncratic semantic properties.</text>
+<text top="266" left="108" width="25" height="18" font="7"><b>1.3</b></text>
+<text top="266" left="152" width="99" height="18" font="7"><b>Exceptions</b>.</text>
+<text top="314" left="108" width="702" height="18" font="6">A further problem for any analysis framed in terms of lexical semantic structures is</text>
+<text top="338" left="108" width="702" height="18" font="6">represented by those exceptional verbs, be they causative or inchoative, that do not</text>
+<text top="362" left="108" width="702" height="18" font="6">participate in the alternation. Given that <i>VANISH</i> has an inchoative use, just like <i>ROLL</i></text>
+<text top="385" left="108" width="79" height="18" font="6">or <i>GROW</i></text>
+<text top="388" left="187" width="4" height="15" font="11"> </text>
+<text top="385" left="190" width="620" height="18" font="6">(13a,b), it must be explained why, unlike them, it doesn’t also have a causative</text>
+<text top="409" left="108" width="80" height="18" font="6">use (13c).</text>
+<text top="457" left="108" width="441" height="18" font="6">(13) a. The violin vanished off the table/*unsaleable.</text>
+<text top="480" left="152" width="398" height="18" font="6">b. *The violin vanished the string quartet bereft.</text>
+<text top="504" left="152" width="284" height="18" font="6">c. *The varlet vanished the violin.</text>
+<text top="552" left="108" width="702" height="18" font="6">Similarly, given that <i>CRUSH</i> has a causative use, just like <i>BREAK</i> (14a,b) (in fact</text>
+<text top="575" left="108" width="701" height="18" font="6">crushing is a kind of breaking, so the two senses must be very closely related), it must be</text>
+<text top="599" left="108" width="608" height="18" font="6">explained why, unlike <i>BREAK</i>, it doesn’t also have an inchoative use (14c).</text>
+<text top="647" left="108" width="312" height="18" font="6">(14) a. Cream crackers crush crisply.</text>
+<text top="670" left="152" width="482" height="18" font="6">b. The criminals crushed the crackers to powder/*inedible.</text>
+<text top="694" left="152" width="216" height="18" font="6">c. *The crackers crushed.</text>
+<text top="742" left="108" width="701" height="18" font="6">I return to these examples below, as well as to some other special cases like that of</text>
+<text top="765" left="108" width="702" height="18" font="6">matching pairs of causative and inchoative verbs (such as <i>KILL</i> and <i>DIE</i>) and that of</text>
+<text top="789" left="108" width="702" height="18" font="6">causative verbs involving an instrument (such as <i>CUT</i>) which also follow the pattern in</text>
+<text top="813" left="108" width="39" height="18" font="6">(14):</text>
+<text top="860" left="108" width="287" height="18" font="6">(15) a. Coopers cakes cut cleanly.</text>
+<text top="884" left="152" width="412" height="18" font="6">b. The kids cut the cake in half/open/*ready/*fair.</text>
+<text top="908" left="152" width="148" height="18" font="6">c. *The cake cut.</text>
+<text top="956" left="108" width="702" height="18" font="6">In this section, I have outlined the data that is relevant to any account of the</text>
+<text top="979" left="108" width="702" height="18" font="6">causative/inchoative alternation. The account must provide a satisfactory answer to the</text>
+<text top="1003" left="108" width="164" height="18" font="6">following questions:</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">328</text>
+<text top="937" left="123" width="6" height="11" font="0">3</text>
+<text top="942" left="129" width="680" height="16" font="2">The diagrams that I use in the WG analysis are essentially the same as those found in Hudson (1995,</text>
+<text top="962" left="108" width="702" height="16" font="2">1998). They represent a network of concepts related by pairwise relationships. The relationships are of two</text>
+<text top="983" left="108" width="702" height="16" font="2">kinds: isa is a classifying relationship, shown by a triangle whose base rests on the supercategory and</text>
+<text top="1003" left="108" width="702" height="16" font="2">which is connected by a line to the subcategory; all other relationships are dependencies, shown by labelled</text>
+<text top="1024" left="108" width="702" height="16" font="2">arrows pointing from the parent to the dependent. All salient features of the diagrams are described in</text>
+<text top="1044" left="108" width="199" height="16" font="2">prose in the surrounding text.</text>
+<text top="171" left="108" width="19" height="18" font="6">A.</text>
+<text top="171" left="152" width="658" height="18" font="6">How can <i>BREAK</i>, and the other alternating verbs, be used in both causative and</text>
+<text top="195" left="152" width="205" height="18" font="6">inchoative constructions?</text>
+<text top="219" left="108" width="18" height="18" font="6">B.</text>
+<text top="219" left="152" width="658" height="18" font="6">What is the difference between the apparently inherently causative alternating verbs,</text>
+<text top="242" left="152" width="658" height="18" font="6">like  <i>COLLECT</i>, and the apparently inherently inchoative alternating verbs, like</text>
+<text top="266" left="152" width="67" height="18" font="10"><i>GROW</i>?</text>
+<text top="290" left="108" width="18" height="18" font="6">C.</text>
+<text top="290" left="152" width="659" height="18" font="6">Why does the mechanism responsible for A not also apply to the non-alternating</text>
+<text top="314" left="152" width="355" height="18" font="6">causative and inchoative verbs like <i>CRUSH</i>,</text>
+<text top="316" left="507" width="4" height="15" font="11"> </text>
+<text top="314" left="511" width="44" height="18" font="10"><i>CUT</i>,</text>
+<text top="316" left="555" width="4" height="15" font="11"> </text>
+<text top="314" left="559" width="48" height="18" font="10"><i>KILL</i>,</text>
+<text top="316" left="606" width="4" height="15" font="11"> </text>
+<text top="314" left="610" width="150" height="18" font="10"><i>DIE</i> and <i>VANISH</i>?</text>
+<text top="361" left="108" width="702" height="18" font="6">I shall argue that a satisfactory answer to these questions is only possible using a</text>
+<text top="385" left="108" width="619" height="18" font="6">relational network model of grammatical structure like that provided by WG.</text>
+<text top="433" left="108" width="257" height="18" font="7"><b>2 A Word Grammar analysis.</b></text>
+<text top="480" left="108" width="398" height="18" font="7"><b>2.1 The WG framework: a relational network.</b></text>
+<text top="527" left="108" width="702" height="18" font="6">In WG, linguistic (and other) information is represented in relational networks and not in</text>
+<text top="551" left="108" width="702" height="18" font="6">predicate-argument structures (as in eg Jackendoff 1990). Compare the predicate-</text>
+<text top="574" left="108" width="667" height="18" font="6">argument structure for <i>KILL</i> in (16) with the relational structure shown in figure 1:</text>
+<text top="572" left="775" width="6" height="11" font="0">3</text>
+<text top="622" left="108" width="92" height="18" font="6">(16) <i>KILL</i>:</text>
+<text top="624" left="200" width="4" height="15" font="11"> </text>
+<text top="622" left="204" width="7" height="18" font="6">[</text>
+<text top="624" left="211" width="57" height="15" font="11">CAUSE </text>
+<text top="622" left="267" width="34" height="18" font="6">(x, [</text>
+<text top="624" left="302" width="68" height="15" font="11">BECOME</text>
+<text top="622" left="369" width="38" height="18" font="6"> (y, [</text>
+<text top="624" left="408" width="44" height="15" font="11">DEAD</text>
+<text top="622" left="452" width="34" height="18" font="6">])])]</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">329</text>
+<text top="519" left="108" width="532" height="18" font="7"><b>Figure 1</b> Lexical semantic structure of Killing, the sense of <i>KILL</i>.</text>
+<text top="569" left="108" width="484" height="18" font="6">The predicate-argument structure contains three predicates, </text>
+<text top="572" left="593" width="53" height="15" font="11">CAUSE</text>
+<text top="569" left="645" width="5" height="18" font="6">,</text>
+<text top="572" left="650" width="71" height="15" font="11"> BECOME</text>
+<text top="569" left="722" width="39" height="18" font="6"> and </text>
+<text top="572" left="761" width="44" height="15" font="11">DEAD</text>
+<text top="569" left="805" width="5" height="18" font="6">,</text>
+<text top="593" left="108" width="702" height="18" font="6">and two other elements, x and y, the arguments of the predicates. The predicates are of</text>
+<text top="617" left="108" width="702" height="18" font="6">two kinds: the first two are Events, the third a State (this forms part of the definition of</text>
+<text top="643" left="108" width="57" height="15" font="11">CAUSE </text>
+<text top="641" left="167" width="10" height="18" font="6">, </text>
+<text top="643" left="180" width="68" height="15" font="11">BECOME</text>
+<text top="641" left="247" width="44" height="18" font="6"> and </text>
+<text top="643" left="291" width="44" height="15" font="11">DEAD</text>
+<text top="641" left="336" width="474" height="18" font="6">); and their arguments are of another kind: Entities. The</text>
+<text top="664" left="108" width="702" height="18" font="6">relationships between the different elements are defined by their positions in the structure:</text>
+<text top="688" left="108" width="446" height="18" font="6">x is an Agent, by virtue of being the first argument of </text>
+<text top="690" left="555" width="53" height="15" font="11">CAUSE</text>
+<text top="688" left="607" width="203" height="18" font="6">, y a Theme, by virtue of</text>
+<text top="712" left="108" width="235" height="18" font="6">being the first argument of </text>
+<text top="714" left="343" width="68" height="15" font="11">BECOME</text>
+<text top="712" left="410" width="400" height="18" font="6">, and so on. In predicate-argument structure the</text>
+<text top="736" left="108" width="702" height="18" font="6">categories of the elements are basic and the relationships between them are read off the</text>
+<text top="759" left="108" width="81" height="18" font="6">structure. </text>
+<text top="783" left="123" width="687" height="18" font="6">In the relational structure the opposite is the case: the relationships are basic and they</text>
+<text top="807" left="108" width="701" height="18" font="6">define the categories of the elements. The elements themselves are not differentiated</text>
+<text top="831" left="108" width="702" height="18" font="6">except by the relationships they participate in: Dying is Dying because its result is Dead,</text>
+<text top="854" left="108" width="702" height="18" font="6">and it is an example of Becoming because it has one other argument (the er) besides its</text>
+<text top="878" left="108" width="702" height="18" font="6">result; similarly, Killing is Killing because its result is Dying and it is an example of</text>
+<text top="902" left="108" width="544" height="18" font="6">Making because it has two arguments (er and ee) besides the result.</text>
+<text top="926" left="123" width="687" height="18" font="6">The difference between the two structures has a number of consequences, two of which</text>
+<text top="949" left="108" width="702" height="18" font="6">are, briefly, discussed here. Perhaps trivially the relational structure permits us to show</text>
+<text top="973" left="108" width="702" height="18" font="6">that the affected of Killing, the er of Dying and that of Dead are the same entity (this can</text>
+<text top="997" left="108" width="701" height="18" font="6">be achieved in the predicate-argument structure by co-indexing). More significantly,</text>
+<text top="1021" left="108" width="702" height="18" font="6">though, since the elements are defined by their relationships, they can be defined in more</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">330</text>
+<text top="171" left="108" width="702" height="18" font="6">than one way. For example, Electrocuting is an example of Killing, but also of</text>
+<text top="195" left="108" width="431" height="18" font="6">Electrifying, which defines the manner (see figure 2).</text>
+<text top="445" left="108" width="252" height="18" font="7"><b>Figure 2</b> LSS of Electrocuting.</text>
+<text top="495" left="108" width="702" height="18" font="6">Figure 2 shows that Electrocuting is a kind of Killing, from which it inherits its causal</text>
+<text top="518" left="108" width="702" height="18" font="6">structure. Also that it is a kind of Electrifying, from which it inherits other properties of</text>
+<text top="542" left="108" width="702" height="18" font="6">that concept: the application of electricity to the ee by the er etc. This information can</text>
+<text top="566" left="108" width="702" height="18" font="6">only be integrated into the predicate argument structure by introducing a further predicate</text>
+<text top="590" left="108" width="702" height="18" font="6">into the structure (17), which obscures the relationship between the act of Killing and that</text>
+<text top="614" left="108" width="122" height="18" font="6">of Electrifying.</text>
+<text top="661" left="108" width="34" height="18" font="6">(17)</text>
+<text top="663" left="152" width="115" height="15" font="11">ELECTROCUTE</text>
+<text top="661" left="267" width="6" height="18" font="6">:</text>
+<text top="663" left="272" width="4" height="15" font="11"> </text>
+<text top="661" left="276" width="7" height="18" font="6">[</text>
+<text top="663" left="283" width="57" height="15" font="11">CAUSE </text>
+<text top="661" left="340" width="34" height="18" font="6">(x, [</text>
+<text top="663" left="374" width="68" height="15" font="11">BECOME</text>
+<text top="661" left="441" width="38" height="18" font="6"> (y, [</text>
+<text top="663" left="480" width="44" height="15" font="11">DEAD</text>
+<text top="661" left="524" width="31" height="18" font="6">])], </text>
+<text top="663" left="555" width="26" height="15" font="11">BY </text>
+<text top="661" left="581" width="7" height="18" font="6">[</text>
+<text top="663" left="588" width="90" height="15" font="11">ELECTRIFY </text>
+<text top="661" left="679" width="64" height="18" font="6">(x, y)])]</text>
+<text top="709" left="108" width="702" height="18" font="6">WG syntactic structures are also relational. They differ from semantic structures only in</text>
+<text top="732" left="108" width="703" height="18" font="6">as much as the relationships are syntactic rather than semantic. The classes of the</text>
+<text top="756" left="108" width="702" height="18" font="6">elements are also different, being defined by different relationships. Figure 3 gives a</text>
+<text top="780" left="108" width="702" height="18" font="6">partial structure for <i>Kathleen killed the kangaroo</i>, showing semantic as well as syntactic</text>
+<text top="804" left="108" width="81" height="18" font="6">structure. </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">331</text>
+<text top="477" left="108" width="556" height="18" font="7"><b>Figure 3</b> Partial grammatical structure of <i>Kathleen killed the</i></text>
+<text top="500" left="108" width="82" height="18" font="10"><i>kangaroo</i>.</text>
+<text top="551" left="108" width="702" height="18" font="6">For simplicity’s sake, I am ignoring the relationship between <i>the</i> and <i>kangaroo</i>. In a full</text>
+<text top="574" left="108" width="702" height="18" font="6">analysis, the determiner is the object of the verb and the noun the complement of the</text>
+<text top="598" left="108" width="702" height="18" font="6">determiner. The determiner and its complement share the same referent, so for the</text>
+<text top="622" left="108" width="617" height="18" font="6">purposes of the linking rule in figure 4 and (18) they can be treated as a unit.</text>
+<text top="646" left="123" width="686" height="18" font="6">Linking between semantic and syntactic structures is mediated by the sense and referent</text>
+<text top="669" left="108" width="702" height="18" font="6">relationships. Sense is a lexical relationship: the lexeme <i>KILL</i>, of which <i>killed</i> is an</text>
+<text top="693" left="108" width="702" height="18" font="6">example, has the sense Killing, which helps to determine the semantic structure of</text>
+<text top="717" left="108" width="702" height="18" font="6">utterances containing examples of the lexeme. The referent relationship is determined</text>
+<text top="741" left="108" width="702" height="18" font="6">partly by the context: y, the referent of <i>kangaroo,</i> is an example of its sense, further</text>
+<text top="764" left="108" width="702" height="18" font="6">properties (definiteness, deadness etc) being supplied by the linguistic context, or by other</text>
+<text top="788" left="108" width="702" height="18" font="6">kinds of context as in the case of identification of the referent. These two relationships</text>
+<text top="812" left="108" width="702" height="18" font="6">provide the mechanism for argument linking in WG. The single linking generalisation is</text>
+<text top="836" left="108" width="622" height="18" font="6">shown in figure 4, which is summarised in prose in (18) (Hudson 1990: 132):</text>
+<text top="1026" left="108" width="145" height="18" font="7"><b>Figure 4</b> Linking.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">332</text>
+<text top="171" left="108" width="547" height="18" font="6">(18) A word’s dependent refers to a dependent of the word’s sense.</text>
+<text top="219" left="108" width="702" height="18" font="6">It may be that specific instances of figure 4 can be used to pair semantic and syntactic</text>
+<text top="242" left="108" width="702" height="18" font="6">links (er to subject, ee to object etc) and so to state linking regularities as they become</text>
+<text top="266" left="108" width="702" height="18" font="6">desirable, though that possibility is not explored here. As well as the sense relationship,</text>
+<text top="290" left="108" width="702" height="18" font="6">a word’s lexical entry contains information about any expected syntactic dependents</text>
+<text top="314" left="108" width="701" height="18" font="6">(valents), specifying their kind (subject, object etc) and other properties (word class etc)</text>
+<text top="337" left="108" width="702" height="18" font="6">as well as the semantic role played by their referents. Figure 5 shows part of the lexical</text>
+<text top="361" left="108" width="701" height="18" font="6">structure of <i>KILL</i>, which has a subject whose referent is the er of the sense and an object</text>
+<text top="385" left="108" width="296" height="18" font="6">whose referent is the ee of the sense.</text>
+<text top="746" left="108" width="340" height="18" font="7"><b>Figure 5</b> Partial lexical structure of <i>KILL</i>.</text>
+<text top="796" left="123" width="687" height="18" font="6">Generalisations can be made in WG by the use of the isa relationship. This relationship</text>
+<text top="819" left="108" width="702" height="18" font="6">classifies all the elements of linguistic structure and allows the lower categories to inherit</text>
+<text top="843" left="108" width="703" height="18" font="6">(as a default) the properties of higher categories. For example, since all verbs can take a</text>
+<text top="867" left="108" width="702" height="18" font="6">subject,  <i>KILL</i> can inherit this property from the word class <i>VERB</i>, of which it is a</text>
+<text top="891" left="108" width="71" height="18" font="6">member:</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">333</text>
+<text top="374" left="108" width="277" height="18" font="7"><b>Figure 6</b> The subject relationship.</text>
+<text top="424" left="108" width="702" height="18" font="6">This means that the subject need not be part of the lexical structure of individual lexemes.</text>
+<text top="448" left="108" width="702" height="18" font="6">However, it is not the case that just because subjects can be represented at a general level</text>
+<text top="471" left="108" width="702" height="18" font="6">they necessarily must be. Furthermore, in the case of subjects, it might be argued that they</text>
+<text top="495" left="108" width="702" height="18" font="6">do need to be represented at the level of the individual lexeme because of idiosyncrasies</text>
+<text top="519" left="108" width="702" height="18" font="6">in the semantic arguments they express. This depends on the expression of linking</text>
+<text top="543" left="108" width="702" height="18" font="6">regularities: can we produce a generalisation over subject linking that will account for all</text>
+<text top="566" left="108" width="211" height="18" font="6">the variability of the data?</text>
+<text top="590" left="123" width="687" height="18" font="6">One important consequence of using network structures is that they do not require, or</text>
+<text top="614" left="108" width="702" height="18" font="6">permit, a distinction between lexicon and grammar: grammatical regularities are simply</text>
+<text top="638" left="108" width="702" height="18" font="6">generalisations over lexical entries (like the one shown in figure 5), and the combinatorial</text>
+<text top="661" left="108" width="702" height="18" font="6">properties of lexical items are determined by the relationships (isa and other) that link</text>
+<text top="685" left="108" width="702" height="18" font="6">them into the network of linguistic information. In this way, the WG paradigm does not</text>
+<text top="709" left="108" width="702" height="18" font="6">encourage us to follow the Bloomfield-inspired programme underlying the analyses of</text>
+<text top="733" left="108" width="702" height="18" font="6">both Levin (1993, Rappaport and Levin 1988) and Jackendoff (1990), that seeks to</text>
+<text top="756" left="108" width="702" height="18" font="6">minimise lexical representations. On the contrary, thanks to inheritance a lexical entry</text>
+<text top="780" left="108" width="702" height="18" font="6">contains all the information necessary to integrate it with its linguistic (syntactic) and</text>
+<text top="804" left="108" width="157" height="18" font="6">conceptual context.</text>
+<text top="828" left="123" width="686" height="18" font="6">The isa hierarchy does encourage the extraction of generalities: as soon as two</text>
+<text top="852" left="108" width="702" height="18" font="6">independent properties correlate, they define a class of elements having those properties.</text>
+<text top="875" left="108" width="702" height="18" font="6">However, this does not force us to remove the properties from the structures of the</text>
+<text top="899" left="108" width="702" height="18" font="6">individual elements. I showed above that the presence of a subject was characteristic of</text>
+<text top="923" left="108" width="702" height="18" font="6">the class of verbs. However, the subject still must appear in the lexical structures of</text>
+<text top="947" left="108" width="702" height="18" font="6">individual verbs that exercise particular (semantic or other) control over their subjects.</text>
+<text top="970" left="108" width="702" height="18" font="6">As we shall see below, this is a great advantage of the network model, that a property may</text>
+<text top="994" left="108" width="702" height="18" font="6">be easily represented at more than one level of structure, with differing degrees of</text>
+<text top="1018" left="108" width="89" height="18" font="6">specificity.</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">334</text>
+<text top="171" left="108" width="349" height="18" font="7"><b>4.2 The causative/inchoative alternation.</b></text>
+<text top="218" left="108" width="702" height="18" font="6">I now turn to the details of the analysis within this framework of the causative/inchoative</text>
+<text top="242" left="108" width="702" height="18" font="6">alternation. Figure 7 shows the lexical structure of Breaking, which is similar to that of</text>
+<text top="266" left="108" width="61" height="18" font="6">Killing.</text>
+<text top="593" left="108" width="425" height="18" font="7"><b>Figure 7</b> Lexical structure associated with Breaking.</text>
+<text top="643" left="108" width="702" height="18" font="6">This structure includes two events, Breaking/c and its result Breaking/i, which correspond</text>
+<text top="667" left="108" width="701" height="18" font="6">to the causative and inchoative uses of the verb. These are respectively the senses of</text>
+<text top="691" left="108" width="702" height="18" font="6">(transitive) <i>BREAK</i>/2 and (intransitive) <i>BREAK</i>/1. The WG semantic structure is like</text>
+<text top="715" left="108" width="702" height="18" font="6">Jackendoff’s LCS (lexical conceptual structure), in that it contains both causative and</text>
+<text top="738" left="108" width="702" height="18" font="6">inchoative semantics. It also contains a similar specification of the result state: the result</text>
+<text top="762" left="108" width="640" height="18" font="6">of Breaking/i, which also is the sense of the adjective <i>BROKEN</i>, isa Not-whole.</text>
+<text top="786" left="123" width="687" height="18" font="6">The lexical structure contains the information that verbs of the form /break/can be used</text>
+<text top="810" left="108" width="702" height="18" font="6">in inchoative as well as causative constructions. However, while the causative and</text>
+<text top="833" left="108" width="702" height="18" font="6">inchoative verbs share the same form (spelling, pronunciation, morphological properties</text>
+<text top="857" left="108" width="702" height="18" font="6">etc), they do not share the same lexeme. Syntactic valency is a property of lexemes and,</text>
+<text top="881" left="108" width="702" height="18" font="6">since the valencies of the two <i>BREAK</i>s are different, they must represent different</text>
+<text top="905" left="108" width="71" height="18" font="6">lexemes.</text>
+<text top="929" left="123" width="686" height="18" font="6">As well as making clear the relationship that holds between the two senses (one is the</text>
+<text top="952" left="108" width="702" height="18" font="6">result of the other) figure 7 also shows a direct (lexical) relationship between the two</text>
+<text top="976" left="108" width="702" height="18" font="6">lexemes: decausative. The lexical relationship permits us to state generalisations over</text>
+<text top="1000" left="108" width="702" height="18" font="6">pairs of causative and inchoative lexemes. Figure 8 defines a class of causative verbs</text>
+<text top="1024" left="108" width="702" height="18" font="6">which are associated with particular semantic features and have decausatives that share</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">335</text>
+<text top="171" left="108" width="702" height="18" font="6">their form. <i>BREAK</i> and <i>OPEN</i> are members of this class and thus can inherit the</text>
+<text top="195" left="108" width="204" height="18" font="6">decausative relationship. </text>
+<text top="488" left="108" width="313" height="18" font="7"><b>Figure 8</b> The decausative relationship.</text>
+<text top="538" left="108" width="702" height="18" font="6">So far I have shown how the WG framework accounts for the behaviour of <i>BREAK</i> and</text>
+<text top="562" left="108" width="702" height="18" font="6">other alternating causative verbs. I now turn to the problems identified in <b>§1</b>: namely</text>
+<text top="586" left="108" width="702" height="18" font="6">those alternating verbs like <i>GROW</i> and <i>ROLL</i> that appeared to be basically inchoative; the</text>
+<text top="610" left="108" width="702" height="18" font="6">non-alternating inchoative verbs like <i>VANISH</i>; and the apparently non-alternating</text>
+<text top="633" left="108" width="702" height="18" font="6">causative verbs like <i>CUT</i>. I hope to show that the properties of the network structure</text>
+<text top="657" left="108" width="314" height="18" font="6">allow a natural account of these issues.</text>
+<text top="705" left="108" width="373" height="18" font="7"><b>4.3 Inherently inchoative alternating verbs.</b></text>
+<text top="752" left="108" width="702" height="18" font="6">In <b>§1</b> I argued that there were reasons for treating certain alternating verbs as inherently</text>
+<text top="776" left="108" width="703" height="18" font="6">inchoative: that for these verbs the inchoative use was more basic. These reasons are of</text>
+<text top="800" left="108" width="425" height="18" font="6">two types: implicit arguments and clusters of senses.</text>
+<text top="823" left="123" width="687" height="18" font="6">The reasoning from implicit arguments was introduced above: using <i>BREAK</i></text>
+<text top="847" left="108" width="702" height="18" font="6">inchoatively profiles an event of Becoming which implies an agent and a further causing</text>
+<text top="871" left="108" width="702" height="18" font="6">event (Making). Inchoative <i>GROW</i> does not entail a causing event or agent in this way,</text>
+<text top="895" left="108" width="552" height="18" font="6">as evidenced by the unnaturalness of (19b) when compared to (19a).</text>
+<text top="942" left="108" width="367" height="18" font="6">(19) a. -The window broke.  -Who broke it?</text>
+<text top="966" left="152" width="334" height="18" font="6">b. -The nettles grew.  -Who grew them? </text>
+<text top="1013" left="108" width="636" height="18" font="6">In the case of causative and inchoative <i>BREAK</i>, as I argued above, the two uses </text>
+<text top="1016" left="745" width="65" height="15" font="11">PROFILE</text>
+<text top="1037" left="108" width="701" height="18" font="6">(in the sense of Langacker 1990) different parts of the same schema, just as the different</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">336</text>
+<text top="171" left="108" width="418" height="18" font="6">words relating to commercial transactions (<i>BUY</i>,</text>
+<text top="173" left="527" width="4" height="15" font="11"> </text>
+<text top="171" left="536" width="50" height="18" font="10"><i>SELL</i>,</text>
+<text top="173" left="585" width="4" height="15" font="11"> </text>
+<text top="171" left="594" width="54" height="18" font="10"><i>COST</i>,</text>
+<text top="173" left="648" width="4" height="15" font="11"> </text>
+<text top="171" left="657" width="82" height="18" font="10"><i>AFFORD</i>,</text>
+<text top="173" left="739" width="4" height="15" font="11"> </text>
+<text top="171" left="748" width="62" height="18" font="10"><i>PRICE</i>,</text>
+<text top="195" left="108" width="112" height="18" font="10"><i>REDUCTION</i></text>
+<text top="197" left="221" width="4" height="15" font="11"> </text>
+<text top="195" left="225" width="585" height="18" font="6">etc) profile different parts of the relevant schema. The schema, in these</text>
+<text top="219" left="108" width="224" height="18" font="6">examples, corresponds to a </text>
+<text top="221" left="332" width="56" height="15" font="11">FRAME</text>
+<text top="219" left="388" width="423" height="18" font="6">, in the sense of Fillmore (1985, Fillmore and Atkins</text>
+<text top="242" left="108" width="702" height="18" font="6">1992):  ‘a structured background of experience, beliefs or practices ‘against which a</text>
+<text top="266" left="108" width="702" height="18" font="6">word’s meaning is understood (ibid:77). However, in the case of <i>GROW</i>, the two uses</text>
+<text top="290" left="108" width="702" height="18" font="6">relate to different schemas. The framework for vegetative growth does not contain a</text>
+<text top="314" left="108" width="702" height="18" font="6">‘gardener’ role, though it does support a lexical extension to a further schema for</text>
+<text top="337" left="108" width="702" height="18" font="6">horticultural growing. For this analysis to work, inchoative <i>GROW</i>  must  have  an</text>
+<text top="361" left="108" width="702" height="18" font="6">independent lexical representation that includes the vegetative growth schema and</text>
+<text top="385" left="108" width="702" height="18" font="6">provides the basis for the extension to causative Growing. The relevant semantic structure</text>
+<text top="409" left="108" width="148" height="18" font="6">is explored below.</text>
+<text top="432" left="123" width="687" height="18" font="6">The reasoning from clusters of senses also seeks to show that the inchoative use (as well</text>
+<text top="456" left="108" width="702" height="18" font="6">as the causative use) must have independent lexical representation. The argument depends</text>
+<text top="480" left="108" width="702" height="18" font="6">on the notion that most words have a network of closely related senses. For example,</text>
+<text top="504" left="108" width="702" height="18" font="10"><i>BREAK</i> is used in cases of a failure of material integrity (20) and of intended function</text>
+<text top="528" left="108" width="39" height="18" font="6">(21).</text>
+<text top="575" left="108" width="172" height="18" font="6">(20) My glass broke.</text>
+<text top="599" left="108" width="180" height="18" font="6">(21) My watch broke.</text>
+<text top="646" left="108" width="651" height="18" font="6">Not all the uses of an alternating verb have both causative and inchoative senses:</text>
+<text top="694" left="108" width="378" height="18" font="6">(22) Fatima broke the doughnut-eating record.</text>
+<text top="718" left="108" width="334" height="18" font="6">(23) *The doughnut-eating record broke.</text>
+<text top="765" left="108" width="701" height="18" font="6">If the inchoative lexeme is considered to be derived from the causative one, it is to be</text>
+<text top="789" left="108" width="702" height="18" font="6">expected that the causative will be associated with more related senses. However, this is</text>
+<text top="813" left="108" width="702" height="18" font="6">not always the case. For example, I showed above that <i>GROW</i> can be used intransitively</text>
+<text top="836" left="108" width="702" height="18" font="6">to describe the coming into being or increasing in size or significance of plants, animals</text>
+<text top="860" left="108" width="702" height="18" font="6">or their parts, inanimate objects and abstract concepts. In contrast, transitive (causative)</text>
+<text top="884" left="108" width="518" height="18" font="10"><i>GROW</i> applies only to plants, or the parts of plants and animals:</text>
+<text top="931" left="108" width="24" height="18" font="6">(7)</text>
+<text top="931" left="152" width="147" height="18" font="6">a. The tree grew.</text>
+<text top="955" left="152" width="150" height="18" font="6">b. The goat grew.</text>
+<text top="979" left="152" width="324" height="18" font="6">c. A leaf/beard grew (on the tree/goat).</text>
+<text top="1003" left="152" width="163" height="18" font="6">d. They grew tired.</text>
+<text top="1026" left="152" width="257" height="18" font="6">e. My feelings of unease grew.</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">337</text>
+<text top="171" left="152" width="266" height="18" font="6">f. The business grew overnight.</text>
+<text top="219" left="108" width="24" height="18" font="6">(8)</text>
+<text top="219" left="152" width="136" height="18" font="6">a. I grew a tree.</text>
+<text top="242" left="152" width="149" height="18" font="6">b. *I grew a goat.</text>
+<text top="266" left="152" width="287" height="18" font="6">c. The tree/goat grew a leaf/beard.</text>
+<text top="290" left="152" width="275" height="18" font="6">d. *The journey grew them tired.</text>
+<text top="314" left="152" width="376" height="18" font="6">e. *The situation grew my feelings of unease.</text>
+<text top="337" left="152" width="450" height="18" font="6">f. *The new acquisitions grew the company overnight.</text>
+<text top="385" left="108" width="702" height="18" font="6">Certain verbs of manner of motion provide similar evidence. <i>ROLL</i> can be used both</text>
+<text top="409" left="108" width="702" height="18" font="6">intransitively and transitively to describe internally and externally caused rolling motion.</text>
+<text top="432" left="108" width="360" height="18" font="6">However, some intransitive verbs (eg <i>GLIDE</i>,</text>
+<text top="435" left="469" width="4" height="15" font="11"> </text>
+<text top="432" left="471" width="339" height="18" font="10"><i>DRIFT</i>), that behave otherwise exactly like</text>
+<text top="456" left="108" width="702" height="18" font="6">intransitive  <i>ROLL</i>, cannot be used transitively, since the manner of motion they denote</text>
+<text top="480" left="108" width="417" height="18" font="6">is not subject to external control (Levin 1993: 265):</text>
+<text top="527" left="108" width="24" height="18" font="6">(5)</text>
+<text top="527" left="152" width="411" height="18" font="6">a. The barrel rolled down the steps into the cellar.</text>
+<text top="551" left="152" width="314" height="18" font="6">b. *The barrels rolled the cellar (full).</text>
+<text top="575" left="152" width="525" height="18" font="6">c. The cellarman rolled the barrel down the steps into the cellar.</text>
+<text top="623" left="108" width="24" height="18" font="6">(6)</text>
+<text top="623" left="152" width="389" height="18" font="6">a. The car glided across the road into the ditch.</text>
+<text top="646" left="152" width="325" height="18" font="6">b. *The car glided the driver (panicky).</text>
+<text top="670" left="152" width="481" height="18" font="6">c. *The driver glided the car across the road into the ditch.</text>
+<text top="718" left="108" width="702" height="18" font="6">These considerations point to the need for a means of deriving causative from inchoative</text>
+<text top="741" left="108" width="702" height="18" font="6">verbs in the manner of figure 8. This can be simply represented in WG by means of a</text>
+<text top="765" left="108" width="701" height="18" font="6">further lexical relationship, causative. Figure 9 defines a class of inchoative verbs which</text>
+<text top="789" left="108" width="702" height="18" font="6">are associated with particular semantic features and have causatives that share their form.</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">338</text>
+<text top="504" left="108" width="294" height="18" font="7"><b>Figure 9</b> The causative relationship.</text>
+<text top="553" left="108" width="702" height="18" font="6">The causative relationship does not replace the decausative. Many other alternating verbs,</text>
+<text top="577" left="108" width="469" height="18" font="6">like  <i>COLLECT</i>, have more causative than inchoative uses:</text>
+<text top="625" left="108" width="24" height="18" font="6">(9)</text>
+<text top="625" left="152" width="320" height="18" font="6">a. We collected mushrooms in my hat.</text>
+<text top="648" left="152" width="338" height="18" font="6">b. His lectures collected large audiences.</text>
+<text top="672" left="152" width="359" height="18" font="6">c. I’m collecting money for the Samaritans.</text>
+<text top="696" left="152" width="289" height="18" font="6">d. Do you collect stamps in Japan?</text>
+<text top="720" left="152" width="403" height="18" font="6">e. You can collect your parcel at the Post Office.</text>
+<text top="767" left="108" width="367" height="18" font="6">(10) a. The mushrooms collected in my hat.</text>
+<text top="791" left="152" width="360" height="18" font="6">b. Large audiences collected in his lectures.</text>
+<text top="815" left="152" width="315" height="18" font="6">c. *£500 collected for the Samaritans.</text>
+<text top="839" left="152" width="264" height="18" font="6">d. *Do stamps collect in Japan?</text>
+<text top="862" left="152" width="378" height="18" font="6">e. *Your parcel can collect at the Post Office.</text>
+<text top="910" left="108" width="702" height="18" font="6">Nor is it a question of applying only one of these relationships to each alternating pair.</text>
+<text top="934" left="108" width="702" height="18" font="6">The relational network will not permit this: the decausative of a causative verb is an</text>
+<text top="957" left="108" width="701" height="18" font="6">inchoative verb and so, by figure 9, has a causative and vice-versa. In any case, it is not</text>
+<text top="981" left="108" width="702" height="18" font="6">desirable to limit any particular alternating pair to one of these lexical relationships. In the</text>
+<text top="1005" left="108" width="702" height="18" font="6">case of <i>BREAK</i>, there are many uses, both causative and inchoative, that do not</text>
+<text top="1029" left="108" width="702" height="18" font="6">participate in the alternation. The extensions in meaning associated with each of the uses</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">339</text>
+<text top="171" left="108" width="702" height="18" font="6">of <i>BREAK</i> must be lexical, since they are specific to <i>BREAK</i>. So the two uses must each</text>
+<text top="195" left="108" width="702" height="18" font="6">have an independent lexical representation to support them. Figure 10 shows the</text>
+<text top="219" left="108" width="702" height="18" font="6">relationship between the classes of causative and inchoative verbs and the two</text>
+<text top="242" left="108" width="321" height="18" font="6">relationships causative and decausative.</text>
+<text top="412" left="108" width="353" height="18" font="7"><b>Figure 10</b> <i>CAUSATIVE</i> and <i>INCHOATIVE</i>.</text>
+<text top="461" left="108" width="702" height="18" font="6">The relational network makes it possible to show the difference between the <i>GROW</i> verbs</text>
+<text top="485" left="108" width="155" height="18" font="6">and the <i>COLLECT</i></text>
+<text top="487" left="263" width="4" height="15" font="11"> </text>
+<text top="485" left="270" width="541" height="18" font="6">verbs. There follows a (partial) semantic analysis of these verbs,</text>
+<text top="509" left="108" width="703" height="18" font="6">according to the classification of senses identified in (7-10), showing which parts of the</text>
+<text top="533" left="108" width="702" height="18" font="6">structure participate in the causative/inchoative alternation. The analysis is constructed</text>
+<text top="556" left="108" width="702" height="18" font="6">on the basis of the examples, separate senses being introduced where necessary to account</text>
+<text top="580" left="108" width="700" height="18" font="6">for differences in the class of any arguments, in the relational structures associated with</text>
+<text top="604" left="108" width="702" height="18" font="6">the arguments and in the ability to appear in causative or inchoative constructions. The</text>
+<text top="628" left="108" width="702" height="18" font="6">details of the analyses are open to revision, though they are sufficiently robust to serve</text>
+<text top="651" left="108" width="237" height="18" font="6">as an illustration of my point.</text>
+<text top="675" left="123" width="413" height="18" font="6">The primary sense of <i>GROW</i> is shown in figure 11.</text>
+<text top="904" left="108" width="163" height="18" font="7"><b>Figure 11</b> Growing.</text>
+<text top="954" left="108" width="702" height="18" font="6">Growing is the sense of the verb in (7a). Its er isa Plant and its result isa Existing: it</text>
+<text top="978" left="108" width="702" height="18" font="6">describes plants coming into existence vegetatively under their own steam ((8a) is actually</text>
+<text top="1002" left="108" width="702" height="18" font="6">ambiguous between the senses Growing, Growing/hort and Growing/bigger, which last</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">340</text>
+<text top="171" left="108" width="702" height="18" font="6">two we shall meet below). There are additionally (at least) four immediate sub-cases of</text>
+<text top="195" left="108" width="686" height="18" font="6">Growing as well as a number of related senses, which are used in the other examples.</text>
+<text top="219" left="123" width="687" height="18" font="6">First of these is a special kind of Growing that takes place in a horticultural setting,</text>
+<text top="242" left="108" width="438" height="18" font="6">under the supervision of a (typically human) gardener.</text>
+<text top="513" left="108" width="202" height="18" font="7"><b>Figure 12</b> Growing/hort.</text>
+<text top="563" left="108" width="702" height="18" font="6">The sense Growing/hort appears in figure 12. It is an example of Growing. As with</text>
+<text top="587" left="108" width="702" height="18" font="6">Growing, its result isa Existing and its er isa Plant. Unlike Growing, it has a causative,</text>
+<text top="611" left="108" width="144" height="18" font="6">Growing/h/c (8a).</text>
+<text top="634" left="123" width="652" height="18" font="6">Next, <i>GROW</i> can refer to the coming into existence of parts of plants or animals.</text>
+<text top="937" left="108" width="201" height="18" font="7"><b>Figure 13</b> Growing/part.</text>
+<text top="987" left="108" width="702" height="18" font="6">Growing/part is the sense of the verb in (7c). Again, it is an example of Growing and</text>
+<text top="1011" left="108" width="702" height="18" font="6">again its result isa Existing. However, its er must be a part of a plant or animal (the er of</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">341</text>
+<text top="171" left="108" width="702" height="18" font="6">Living). Like Growing/hort it has a causative, Growing/p/c, the sense of the verb in (8c),</text>
+<text top="195" left="108" width="702" height="18" font="6">whose er in this case is the same entity whose part is the argument of the inchoative sense.</text>
+<text top="219" left="123" width="686" height="18" font="6">The next sense, Growing/bigger (figure 14), does not select a particular class of</text>
+<text top="242" left="108" width="702" height="18" font="6">argument (7a,b,e,f). Because of the semantics of Big, a scalar value, this sense is not telic</text>
+<text top="266" left="108" width="702" height="18" font="6">(it permits adverbials of duration: <i>Peach trees grow for only 3 months, during the</i></text>
+<text top="290" left="108" width="76" height="18" font="10"><i>summer</i>).</text>
+<text top="543" left="108" width="220" height="18" font="7"><b>Figure 14</b> Growing/bigger.</text>
+<text top="593" left="108" width="702" height="18" font="6">Growing/bigger isa Growing, but exceptionally its result isa Big. This sense has no</text>
+<text top="617" left="108" width="702" height="18" font="6">causative (8b,e,f). It does have a subsense, Growing/p/b, which also isa Growing/part.</text>
+<text top="641" left="108" width="702" height="18" font="6">This appears in figure 15 and is the sense of the verb in sentences like <i>Your hair grows</i></text>
+<text top="664" left="108" width="256" height="18" font="10"><i>for six months after your death</i>.</text>
+<text top="1032" left="108" width="195" height="18" font="7"><b>Figure 15</b> Growing/p/b.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">342</text>
+<text top="171" left="108" width="702" height="18" font="6">This sense shares with Growing/bigger the fact that the result isa Big. However, it shares</text>
+<text top="195" left="108" width="703" height="18" font="6">with Growing/part the fact that the er must be a part of a living thing, as well as the</text>
+<text top="219" left="108" width="528" height="18" font="6">presence of a causative, Growing/p/b/c (<i>And is growing his hair</i>).</text>
+<text top="242" left="123" width="687" height="18" font="6">Finally, <i>GROW</i> is used to refer to a gradual change of state (7d). Figure 16 shows</text>
+<text top="266" left="108" width="702" height="18" font="6">Growing/becoming which supports this use of the verb. It does not select the class of its</text>
+<text top="290" left="108" width="702" height="18" font="6">er. Its result is a state (isa Being), which must be further specified by the (linguistic)</text>
+<text top="314" left="108" width="702" height="18" font="6">context. The manner (By-degree) gives the meaning of a gradual change. There is no</text>
+<text top="337" left="108" width="151" height="18" font="6">causative use (8d).</text>
+<text top="607" left="108" width="248" height="18" font="7"><b>Figure 16</b> Growing/becoming.</text>
+<text top="983" left="108" width="439" height="18" font="7"><b>Figure 17</b> Conceptual structure surrounding Growing.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">343</text>
+<text top="171" left="108" width="703" height="18" font="6">Figure 17 summarises the discussion of the conceptual structure that surrounds Growing</text>
+<text top="195" left="108" width="702" height="18" font="6">and shows that the alternating senses of <i>GROW</i> are secondary to the non-alternating</text>
+<text top="219" left="108" width="702" height="18" font="6">sense: come into existence (as applied to vegetables). The extension of meaning from this</text>
+<text top="242" left="108" width="702" height="18" font="6">basic sense to the causative uses, therefore, must proceed through the inchoative senses.</text>
+<text top="266" left="108" width="494" height="18" font="6">The case of <i>COLLECT</i>, however, shows the opposite pattern.</text>
+<text top="290" left="123" width="425" height="18" font="6">The primary use of <i>COLLECT</i> is shown in figure 18.</text>
+<text top="499" left="108" width="176" height="18" font="7"><b>Figure 18</b> Collecting.</text>
+<text top="549" left="108" width="702" height="18" font="6">Collecting is the sense of the verb in (9a). It has an er (typically human) an ee and a result.</text>
+<text top="572" left="108" width="702" height="18" font="6">The result, Collecting/i, is the sense of the verb in (10a) and its result is a state: that its</text>
+<text top="596" left="108" width="700" height="18" font="6">er (the ee of Collecting) be gathered together. This argument is given the set-size Large.</text>
+<text top="620" left="108" width="702" height="18" font="6">This relationship carries the meaning that collecting, in this use, involves the bringing</text>
+<text top="644" left="108" width="673" height="18" font="6">together of large numbers (or amounts) of some class of items (or some substance).</text>
+<text top="668" left="123" width="686" height="18" font="6">Collecting/people (figure 19), represents a sub-case of Collecting, where the er of the</text>
+<text top="691" left="108" width="701" height="18" font="6">result is further specified as being of the class of people. This is the sense of the verb in</text>
+<text top="715" left="108" width="404" height="18" font="6">(9b) and it has a decausative, Collecting/p/i (10b).</text>
+<text top="961" left="108" width="237" height="19" font="7"><b>Figure 19</b> Collecting/people.</text>
+<text top="1011" left="108" width="703" height="18" font="6">The remaining uses of the verb are distinguished by the fact that the result, in these cases,</text>
+<text top="1034" left="108" width="704" height="18" font="6">is that the collector possesses the thing collected (possibly in large amounts). These are</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="16" family="Helvetica" color="#000000"/>
+	<fontspec id="13" size="17" family="Helvetica" color="#000000"/>
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">344</text>
+<text top="171" left="108" width="702" height="18" font="6">shown in figure 20. Collecting/having is the sense of the verb in (9c,d). Like Collecting,</text>
+<text top="195" left="108" width="702" height="18" font="6">it specifies the set-size of the ee (Large). Unlike Collecting, though, it has no decausative</text>
+<text top="219" left="108" width="702" height="18" font="6">(10b). Its result isa Having which shares both er and ee with the cause. Collecting/getting</text>
+<text top="242" left="108" width="702" height="18" font="6">is a special case of Collecting/having and is the sense of the verb in (9e). It does not</text>
+<text top="266" left="108" width="702" height="18" font="6">necessarily involve gathering things in large number (or amount). Again, there is no</text>
+<text top="290" left="108" width="147" height="18" font="6">decausative (10e).</text>
+<text top="336" left="184" width="75" height="16" font="12">Collecting</text>
+<text top="439" left="204" width="133" height="16" font="13">Collecting/having</text>
+<text top="432" left="170" width="15" height="16" font="13">er</text>
+<text top="385" left="311" width="19" height="16" font="13">ee</text>
+<text top="383" left="461" width="19" height="16" font="13">ee</text>
+<text top="483" left="418" width="15" height="16" font="13">er</text>
+<text top="340" left="579" width="54" height="16" font="13">Having</text>
+<text top="336" left="395" width="60" height="16" font="13">set-size</text>
+<text top="340" left="486" width="44" height="16" font="13">Large</text>
+<text top="432" left="362" width="43" height="16" font="13">result</text>
+<text top="599" left="298" width="15" height="16" font="13">er</text>
+<text top="552" left="439" width="19" height="16" font="13">ee</text>
+<text top="551" left="590" width="19" height="16" font="13">ee</text>
+<text top="650" left="546" width="15" height="16" font="13">er</text>
+<text top="599" left="490" width="43" height="16" font="13">result</text>
+<text top="608" left="333" width="134" height="16" font="13">Collecting/getting</text>
+<text top="708" left="108" width="419" height="18" font="7"><b>Figure 20</b> Collecting/having and Collecting/getting.</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">345</text>
+<text top="553" left="108" width="451" height="18" font="7"><b>Figure 21</b> Conceptual structure surrounding Collecting.</text>
+<text top="603" left="108" width="702" height="18" font="6">Figure 21 summarises the discussion of the conceptual structure surrounding Collecting</text>
+<text top="626" left="108" width="702" height="18" font="6">and shows that the non-alternating senses of <i>COLLECT</i> are secondary to the alternating</text>
+<text top="650" left="108" width="702" height="18" font="6">sense. The extension of meaning in this case must proceed through the causative senses.</text>
+<text top="674" left="108" width="702" height="18" font="6">Notice that the extended transitive sense are not causative in the sense in which I am</text>
+<text top="698" left="108" width="700" height="18" font="6">using it (see figure 8), since Having is a state rather than an event. It is for this reason that</text>
+<text top="722" left="108" width="702" height="18" font="6">they do not participate in the alternation. The argument that extension of meaning in</text>
+<text top="745" left="108" width="702" height="18" font="10"><i>COLLECT</i> extends from the causative to the inchoative senses, taken alongside the above</text>
+<text top="769" left="108" width="702" height="18" font="6">conclusion that the extension of meaning found in the case of <i>GROW</i> proceeds through</text>
+<text top="793" left="108" width="702" height="18" font="6">the inchoative senses, supports the contention that both the causative and the decausative</text>
+<text top="817" left="108" width="349" height="18" font="6">must be recognised as lexical relationships.</text>
+<text top="864" left="108" width="130" height="18" font="7"><b>4.4 Exceptions.</b></text>
+<text top="911" left="108" width="702" height="18" font="6">What of the non-alternating inchoative verbs like <i>VANISH</i>? Figure 22 shows the LSS of</text>
+<text top="935" left="108" width="74" height="18" font="10"><i>VANISH</i>.</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">346</text>
+<text top="480" left="108" width="376" height="18" font="7"><b>Figure 22</b> Partial lexical structure of <i>VANISH</i>.</text>
+<text top="530" left="108" width="702" height="18" font="6">Clearly it is an inchoative verb by the definition in figure 9: its sense has a result state</text>
+<text top="554" left="108" width="702" height="18" font="6">with which it shares its other dependent. Yet it does not have a causative. Network</text>
+<text top="578" left="108" width="702" height="18" font="6">structure allows us to show all this information quite simply. As an inchoative verb,</text>
+<text top="601" left="108" width="703" height="18" font="10"><i>VANISH</i> inherits all the properties associated with inchoative verbs (argument linking</text>
+<text top="625" left="108" width="541" height="18" font="6">etc), but exceptionally it does not inherit the causative relationship.</text>
+<text top="649" left="123" width="687" height="18" font="10"><i>KILL</i> and <i>DIE</i> constitute further exceptions to the patterns in 8 and 9. Figure 23 shows</text>
+<text top="673" left="108" width="702" height="18" font="6">that they have a decausative and a causative respectively. However, exceptionally, they</text>
+<text top="696" left="108" width="162" height="18" font="6">do not share a form.</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">347</text>
+<text top="171" left="108" width="5" height="18" font="6"> </text>
+<text top="327" left="140" width="8" height="16" font="12">x</text>
+<text top="327" left="223" width="45" height="16" font="12">Killing</text>
+<text top="320" left="296" width="42" height="16" font="12">result</text>
+<text top="328" left="379" width="186" height="16" font="12">Dying Dead</text>
+<text top="321" left="449" width="42" height="16" font="12">result</text>
+<text top="320" left="185" width="15" height="16" font="12">er</text>
+<text top="241" left="420" width="8" height="16" font="12">y</text>
+<text top="266" left="321" width="19" height="16" font="13">ee</text>
+<text top="288" left="401" width="15" height="16" font="13">er</text>
+<text top="223" left="181" width="56" height="16" font="13">Making</text>
+<text top="194" left="348" width="78" height="16" font="13">Becoming</text>
+<text top="218" left="563" width="45" height="16" font="13">Being</text>
+<text top="434" left="229" width="36" height="16" font="13">KILL</text>
+<text top="434" left="384" width="29" height="16" font="13">DIE</text>
+<text top="433" left="523" width="48" height="16" font="13">DEAD</text>
+<text top="386" left="235" width="47" height="16" font="13">sense</text>
+<text top="389" left="389" width="47" height="16" font="13">sense</text>
+<text top="381" left="521" width="47" height="16" font="13">sense</text>
+<text top="404" left="294" width="52" height="16" font="13">dec/ve</text>
+<text top="455" left="306" width="32" height="16" font="13">c/ve</text>
+<text top="491" left="161" width="99" height="16" font="13">CAUSATIVE</text>
+<text top="527" left="372" width="106" height="16" font="13">INCHOATIVE</text>
+<text top="488" left="549" width="96" height="16" font="13">ADJECTIVE</text>
+<text top="277" left="514" width="15" height="16" font="13">er</text>
+<text top="575" left="113" width="423" height="18" font="7"><b>Figure 23</b> Partial lexical structure of <i>KILL</i> and <i>DIE</i>.</text>
+<text top="625" left="108" width="507" height="18" font="10"><i>DIE</i> is the decausative of <i>KILL</i> and <i>KILL</i> the causative of <i>DIE</i>.</text>
+<text top="649" left="123" width="687" height="18" font="6">Finally I turn to the case of <i>CUT</i>. We saw in (15) that this causative verb apparently</text>
+<text top="673" left="108" width="347" height="18" font="6">does not conform to the pattern in figure 8.</text>
+<text top="720" left="108" width="287" height="18" font="6">(15) a. Coopers cakes cut cleanly.</text>
+<text top="744" left="152" width="412" height="18" font="6">b. The kids cut the cake in half/open/*ready/*fair.</text>
+<text top="768" left="152" width="142" height="18" font="6">c. *The cake cut</text>
+<text top="815" left="108" width="702" height="18" font="6">However, the relational network allows a full decomposition of the semantic structure</text>
+<text top="839" left="108" width="702" height="18" font="6">associated with <i>CUT</i> and demonstrates that it does indeed conform to the pattern of figure</text>
+<text top="863" left="108" width="218" height="18" font="6">8, if in an exceptional way.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">348</text>
+<text top="352" left="168" width="9" height="16" font="13">x</text>
+<text top="352" left="264" width="69" height="16" font="13">Cutting/c</text>
+<text top="352" left="424" width="9" height="16" font="13">z</text>
+<text top="281" left="395" width="64" height="16" font="13">Cutting/i</text>
+<text top="215" left="462" width="72" height="16" font="13">Touching</text>
+<text top="194" left="245" width="56" height="16" font="13">Making</text>
+<text top="244" left="392" width="15" height="16" font="13">er</text>
+<text top="313" left="421" width="19" height="16" font="13">ee</text>
+<text top="318" left="309" width="43" height="16" font="13">result</text>
+<text top="267" left="603" width="79" height="16" font="13">Not-whole</text>
+<text top="345" left="217" width="15" height="16" font="13">er</text>
+<text top="344" left="365" width="19" height="16" font="13">ee</text>
+<text top="271" left="219" width="9" height="16" font="13">y</text>
+<text top="303" left="231" width="33" height="16" font="13">instr</text>
+<text top="439" left="272" width="50" height="16" font="13">CUT/2</text>
+<text top="439" left="410" width="65" height="16" font="13">CUT/1.5</text>
+<text top="464" left="340" width="52" height="16" font="13">dec/ve</text>
+<text top="401" left="451" width="47" height="16" font="13">sense</text>
+<text top="400" left="262" width="47" height="16" font="13">sense</text>
+<text top="238" left="133" width="41" height="16" font="13">Edge</text>
+<text top="310" left="510" width="15" height="16" font="13">er</text>
+<text top="345" left="490" width="15" height="16" font="13">er</text>
+<text top="511" left="108" width="346" height="18" font="7"><b>Figure 24</b> Partial lexical structure of <i>CUT</i>.</text>
+<text top="561" left="108" width="702" height="18" font="6">Figure 24 shows that the result of Cutting/c is an example of Touching (Levin argues from</text>
+<text top="584" left="108" width="702" height="18" font="6">the participation of <i>CUT</i> in the conative alternation -<i>cut at</i>- that it necessarily involves</text>
+<text top="608" left="108" width="702" height="18" font="6">contact). The first argument of this result is not the same as the er of the final result state</text>
+<text top="632" left="108" width="702" height="18" font="6">(the thing cut), but is the instrument. In fact, Cutting/i (the result of Cutting/c) can be used</text>
+<text top="656" left="108" width="701" height="18" font="6">as the sense of <i>CUT</i>, in examples like (24) where the subject refers to the instrument (the</text>
+<text top="679" left="108" width="126" height="18" font="6">er of Cutting/i).</text>
+<text top="727" left="108" width="241" height="18" font="6">(24) The knife cut (the cake).</text>
+<text top="774" left="108" width="702" height="18" font="6">Levin (1993: 9-10) correctly identifies <i>CUT</i> as a causative verb, but argues that, since it</text>
+<text top="798" left="108" width="702" height="18" font="6">involves an instrument and therefore necessarily an agent (who acts on the instrument),</text>
+<text top="822" left="108" width="702" height="18" font="6">it isn’t a <i>pure</i> causative verb and therefore doesn’t participate in the alternation. The WG</text>
+<text top="846" left="108" width="223" height="18" font="6">semantic structure of <i>CUT</i></text>
+<text top="848" left="331" width="4" height="15" font="11"> </text>
+<text top="846" left="338" width="472" height="18" font="6">demonstrates clearly how the presence of an instrument</text>
+<text top="869" left="108" width="701" height="18" font="6">interferes with the operation of the decausative generalisation, in that it is the instrument</text>
+<text top="893" left="108" width="702" height="18" font="6">and not the affected (ee) that is the first argument of the caused event (Cutting/i).</text>
+<text top="917" left="108" width="702" height="18" font="6">Specifically, I am arguing that Levin is correct in claiming that <i>CUT</i> is causative and that</text>
+<text top="941" left="108" width="702" height="18" font="6">it doesn’t participate in the causative/inchoative alternation in the normal way because of</text>
+<text top="965" left="108" width="700" height="18" font="6">the presence of an instrument in its semantic structure. However, I am arguing against</text>
+<text top="988" left="108" width="702" height="18" font="6">Levin’s claim that the agent is obligatory (see 24). Furthermore, I claim that <i>CUT</i> has a</text>
+<text top="1012" left="108" width="702" height="18" font="6">decausative,  <i>CUT</i>/1.5 but that, exceptionally, this is not an inchoative verb. Cutting/i</text>
+<text top="1036" left="108" width="619" height="18" font="6">results in a state. For this reason, <i>CUT</i>/1.5 does not itself have a decausative.</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="462" width="348" height="16" font="9"><i>The syntax and semantics of causative verbs</i>          </text>
+<text top="132" left="784" width="26" height="16" font="2">349</text>
+<text top="171" left="108" width="198" height="18" font="7"><b>5 Concluding remarks.</b></text>
+<text top="218" left="108" width="702" height="18" font="6">In the above section, I have developed an analysis for the causative/inchoative alternation</text>
+<text top="242" left="108" width="702" height="18" font="6">using the relational network framework of WG. The relevant generalisation was made</text>
+<text top="266" left="108" width="702" height="18" font="6">using the isa relationship and the categories <i>CAUSATIVE</i> and <i>INCHOATIVE</i>. The</text>
+<text top="290" left="108" width="702" height="18" font="6">resulting model has the properties of both the polysemy model and the derivational model</text>
+<text top="313" left="108" width="702" height="18" font="6">identified by Croft (1998). A number of features of the framework proved to be</text>
+<text top="337" left="108" width="702" height="18" font="6">significant in the analysis, allowing it to steer a middle path between overgenerality and</text>
+<text top="361" left="108" width="658" height="18" font="6">overspecificity and permitting a full and explicit decomposition of word meaning.</text>
+<text top="385" left="123" width="687" height="18" font="6">The mechanism controlling the alternation is structural rather than derivational. This</text>
+<text top="408" left="108" width="701" height="18" font="6">means that all uses have independent lexical representations, so that exceptional cases like</text>
+<text top="432" left="108" width="702" height="18" font="10"><i>CUT</i> can be covered by the same mechanism. The network structure provides for a full</text>
+<text top="456" left="108" width="596" height="18" font="6">description of the features of the exceptional, as well as the central, cases.</text>
+<text top="480" left="123" width="687" height="18" font="6">Returning to the questions introduced in <b>§1</b> (A-C), we can see how these features</text>
+<text top="504" left="108" width="282" height="18" font="6">provide meaningful answers (D-F).</text>
+<text top="551" left="108" width="19" height="18" font="6">A.</text>
+<text top="551" left="152" width="658" height="18" font="6">How can <i>BREAK</i>, and the other alternating verbs, be used in both causative and</text>
+<text top="575" left="152" width="205" height="18" font="6">inchoative constructions?</text>
+<text top="599" left="108" width="18" height="18" font="6">B.</text>
+<text top="599" left="152" width="658" height="18" font="6">What is the difference between the apparently inherently causative alternating verbs,</text>
+<text top="623" left="152" width="658" height="18" font="6">like  <i>COLLECT</i>, and the apparently inherently inchoative alternating verbs, like</text>
+<text top="646" left="152" width="67" height="18" font="10"><i>GROW</i>?</text>
+<text top="670" left="108" width="18" height="18" font="6">C.</text>
+<text top="670" left="152" width="659" height="18" font="6">Why does the mechanism responsible for A not also apply to the non-alternating</text>
+<text top="694" left="152" width="355" height="18" font="6">causative and inchoative verbs like <i>CRUSH</i>,</text>
+<text top="696" left="507" width="4" height="15" font="11"> </text>
+<text top="694" left="511" width="44" height="18" font="10"><i>CUT</i>,</text>
+<text top="696" left="555" width="4" height="15" font="11"> </text>
+<text top="694" left="559" width="48" height="18" font="10"><i>KILL</i>,</text>
+<text top="696" left="606" width="4" height="15" font="11"> </text>
+<text top="694" left="610" width="150" height="18" font="10"><i>DIE</i> and <i>VANISH</i>?</text>
+<text top="741" left="108" width="19" height="18" font="6">D.</text>
+<text top="741" left="152" width="658" height="18" font="10"><i>BREAK</i> and the other alternating verbs have both causative and inchoative (or</text>
+<text top="765" left="152" width="658" height="18" font="6">decausative) lexical structures, joined by a pair of reciprocal lexical relationships.</text>
+<text top="789" left="108" width="17" height="18" font="6">E.</text>
+<text top="789" left="152" width="658" height="18" font="6">In the inherently causative verbs, extensions in meaning (use) proceed from</text>
+<text top="813" left="152" width="658" height="18" font="6">causative to inchoative uses, by way of the decausative relationship. In the</text>
+<text top="836" left="152" width="658" height="18" font="6">inherently inchoative verbs, extensions in meaning (use) proceed from inchoative</text>
+<text top="860" left="152" width="440" height="18" font="6">to causative uses, by way of the causative relationship.</text>
+<text top="884" left="108" width="16" height="18" font="6">F.</text>
+<text top="884" left="152" width="658" height="18" font="10"><i>CRUSH</i> and <i>VANISH</i> represent simple exceptions in that they lack the decausative</text>
+<text top="908" left="152" width="659" height="18" font="6">and the causative respectively. <i>KILL</i> and <i>DIE</i> are similarly exceptional in that they</text>
+<text top="931" left="152" width="658" height="18" font="6">represent each others causative and decausative respectively. <i>CUT</i> does participate</text>
+<text top="955" left="152" width="659" height="18" font="6">in the alternation, though its lexical semantic structure leads to a decausative with</text>
+<text top="979" left="152" width="364" height="18" font="6">an exceptional semantic structure (<i>CUT</i>/1.5).</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="17" family="Times" color="#000000"/>
+<text top="132" left="108" width="96" height="16" font="2">          <i>Holmes</i></text>
+<text top="132" left="108" width="26" height="16" font="2">350</text>
+<text top="171" left="108" width="84" height="16" font="14"><b>References.</b></text>
+<text top="212" left="108" width="351" height="16" font="2">Bloomfield, L. (1933). <i>Language</i>. New York: Holt.</text>
+<text top="232" left="108" width="700" height="16" font="2">Croft, W. (1998). Linguistic evidence and mental representations. <i>Cognitive Linguistics 9(2)</i>, 151-173.</text>
+<text top="253" left="108" width="684" height="16" font="2">Fillmore, C. (1985). Frames and the semantics of understanding. <i>Quaderni de semantica 6</i>, 223-253</text>
+<text top="273" left="108" width="543" height="16" font="2">Fillmore, C. &amp; S. Atkins (1992). Towards a frame-based lexicon: the semantics of </text>
+<text top="276" left="651" width="30" height="12" font="3">RISK</text>
+<text top="273" left="682" width="129" height="16" font="2"> and its neighbours.</text>
+<text top="294" left="123" width="251" height="16" font="2">In Lehrer and Kittay (1992), 75-102.</text>
+<text top="314" left="108" width="437" height="16" font="2">Hudson, R. (1990). <i>English word grammar</i>. Oxford: Blackwell.</text>
+<text top="335" left="108" width="669" height="16" font="2">Hudson, R. (1992). So-called  ‘double objects’ and grammatical relations. <i>Language 68</i>, 251-276.</text>
+<text top="355" left="108" width="382" height="16" font="2">Hudson, R. (1995). <i>Word meaning</i>. London: Routledge.</text>
+<text top="376" left="108" width="368" height="16" font="2">Hudson, R. (1998). <i>Encyclopedia of Word Grammar</i>.</text>
+<text top="396" left="123" width="311" height="16" font="2">http://www.phon.ucl.ac.uk/home/dick/papers.</text>
+<text top="417" left="108" width="497" height="16" font="2">Hudson, R. &amp; J. Holmes (1999).  Re-cycling in the lexicon. This volume.</text>
+<text top="437" left="108" width="502" height="16" font="2">Jackendoff, R. (1990). <i>Semantic Structures</i>. Cambridge, MA: MIT Press.</text>
+<text top="458" left="108" width="702" height="16" font="2">Langacker, R.W. (1990). <i>Concept, image and symbol. The cognitive basis of grammar</i>. Berlin and New</text>
+<text top="478" left="123" width="102" height="16" font="2">York: Mouton.</text>
+<text top="499" left="108" width="702" height="16" font="2">Lehrer, A. &amp; E. Kittay (1992). <i>Frames, fields and contrasts. New essays in semantic and lexical</i></text>
+<text top="519" left="123" width="329" height="16" font="9"><i>organisation</i>. Hillsdale, NJ: Lawrence Erlbaum.</text>
+<text top="540" left="108" width="690" height="16" font="2">Levin, B. (1993). <i>English verb classes and alternations: a preliminary investigation</i>. Chicago: UCP.</text>
+<text top="560" left="108" width="494" height="16" font="2">OED 1989: <i>The Oxford English Dictionary, 2nd ed</i>. Oxford: Clarendon.</text>
+<text top="581" left="108" width="702" height="16" font="2">Rappaport, M. &amp; B. Levin (1988). What to do with theta-roles. In W. Wilkins (ed.) <i>Syntax and Semantics</i></text>
+<text top="601" left="123" width="359" height="16" font="9"><i>21. Thematic relations</i>. New York: Academic Press.</text>
+</page>
+</pdf2xml>

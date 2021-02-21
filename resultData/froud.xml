@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="17" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="1" size="17" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="2" size="20" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="3" size="20" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="4" size="36" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="5" size="23" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="6" size="20" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="7" size="11" family="TimesNewRoman" color="#000000"/>
+<text top="57" left="650" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="778" width="9" height="16" font="1">1</text>
+<text top="132" left="106" width="244" height="18" font="2"><i>UCL Working Papers in Linguistics</i></text>
+<text top="132" left="348" width="71" height="18" font="3"> 10 (1998)</text>
+<text top="183" left="106" width="681" height="32" font="4"><i><b>Aphasic evidence for the syntactic</b></i></text>
+<text top="224" left="106" width="463" height="32" font="4"><i><b>determination of unaccusativity</b></i></text>
+<text top="216" left="569" width="12" height="21" font="5"><i><b>*</b></i></text>
+<text top="308" left="106" width="141" height="18" font="3">KAREN FROUD</text>
+<text top="401" left="150" width="73" height="18" font="6"><b>Abstract</b></text>
+<text top="447" left="150" width="593" height="16" font="1">In this paper I introduce some data from an aphasic patient who demonstrates a robust</text>
+<text top="467" left="150" width="593" height="16" font="1">effect of grammatical class; he is unable to read any function words, and makes</text>
+<text top="487" left="150" width="593" height="16" font="1">characteristic ‘within-category’ substitution errors. These errors extend to the class of</text>
+<text top="507" left="150" width="593" height="16" font="1">unaccusative verbs, and this leads to a consideration of the functional nature of</text>
+<text top="527" left="150" width="593" height="16" font="1">unaccusativity. Existing accounts of unaccusativity as a syntactic reflex of some</text>
+<text top="546" left="150" width="593" height="16" font="1">semantic property are discussed, and a proposal for a syntactic account of</text>
+<text top="566" left="150" width="593" height="16" font="1">unaccusativity is outlined. The aphasic deficit as we understand it seems to provide</text>
+<text top="586" left="150" width="489" height="16" font="1">evidence in favour of a purely syntactic determination of unaccusativity.</text>
+<text top="653" left="106" width="122" height="18" font="6"><b>1 Introduction</b></text>
+<text top="699" left="106" width="681" height="18" font="3">There is a contrast between single-argument verbal predicates which assign only an</text>
+<text top="723" left="106" width="681" height="18" font="3">external thematic role to their subject, and those which assign an internal thematic</text>
+<text top="746" left="106" width="681" height="18" font="3">role to a single argument, which may surface as a pre-verbal subject. In some</text>
+<text top="769" left="106" width="681" height="18" font="3">languages, the subject of such a predicate may be realised post-verbally. The nature of</text>
+<text top="792" left="106" width="681" height="18" font="3">this distinction has been widely debated, since Perlmutter’s (1978) original statement</text>
+<text top="816" left="106" width="681" height="18" font="3">of the Unaccusative Hypothesis. It has been claimed that the distinction can be</text>
+<text top="839" left="106" width="681" height="18" font="3">accounted for in syntactic terms (e.g. Rosen, 1984), in semantic terms (e.g. Van Valin</text>
+<text top="862" left="106" width="681" height="18" font="3">1990), and by using a combination of syntactic and semantic properties (e.g. Levin</text>
+<text top="886" left="106" width="229" height="18" font="3">and Rappaport Hovav 1995).</text>
+<text top="909" left="121" width="665" height="18" font="3">In this paper, I present data from an aphasic patient, MC, who has a specific</text>
+<text top="932" left="106" width="681" height="18" font="3">function word reading deficit, which apparently extends to the reading of</text>
+<text top="955" left="106" width="681" height="18" font="3">unaccusative verbs. I will show that, as far as we have been able to ascertain (Druks</text>
+<text top="979" left="106" width="681" height="18" font="3">and Froud, submitted), MC’s deficit is not semantic but syntactic in nature, so that</text>
+<text top="1002" left="106" width="681" height="18" font="3">assuming a syntactic account of unaccusativity would yield a parsimonious account of</text>
+<text top="1025" left="106" width="681" height="18" font="3">his pattern of performance. I will argue that his reading deficit provides evidence to</text>
+<text top="1049" left="106" width="681" height="18" font="3">support the view of unaccusativity as syntactically determined (though the possibility</text>
+<text top="1077" left="106" width="217" height="18" font="3">                                           </text>
+<text top="1096" left="122" width="6" height="10" font="7">*</text>
+<text top="1099" left="127" width="660" height="16" font="1">I would like to thank MC for all his hard work. Many thanks are also due to Neil Smith, Judit</text>
+<text top="1119" left="106" width="603" height="16" font="1">Druks, Annabel Cormack and Eric Mathieu for many helpful discussions and suggestions.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="106" width="9" height="16" font="1">2</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="132" left="106" width="681" height="18" font="3">that there is a semantic trigger for unaccusative syntax is not denied). I therefore</text>
+<text top="155" left="106" width="681" height="18" font="3">propose a syntactic account of unaccusativity based on suggestions by Reinhart</text>
+<text top="178" left="106" width="681" height="18" font="3">(1997) and Pesetsky (1995), whereby unaccusative syntax is the realisation of a</text>
+<text top="202" left="106" width="681" height="18" font="3">lexical process of abstract affixation of a functional morpheme to an underlyingly</text>
+<text top="225" left="106" width="681" height="18" font="3">transitive verb. Such a view of unaccusativity permits a parsimonious account of the</text>
+<text top="248" left="106" width="409" height="18" font="3">verb reading data obtained from the aphasic patient.</text>
+<text top="271" left="121" width="395" height="18" font="3">The data under discussion here all come from </text>
+<text top="271" left="516" width="213" height="18" font="2"><i>single-word reading tasks</i></text>
+<text top="271" left="729" width="58" height="18" font="3">, and I</text>
+<text top="295" left="106" width="681" height="18" font="3">assume that single words project syntactic structures which are determined by their</text>
+<text top="318" left="106" width="681" height="18" font="3">feature specification in the lexicon. I also assume Grimshaw’s (1991) account of</text>
+<text top="341" left="106" width="681" height="18" font="3">extended projections, whereby lexical categories select certain functional projections,</text>
+<text top="365" left="106" width="681" height="18" font="3">rather than vice versa. Following these assumptions leads to a slightly different view</text>
+<text top="388" left="106" width="681" height="18" font="3">of the underlying nature of this patient’s reading deficit to that taken in Druks and</text>
+<text top="411" left="106" width="681" height="18" font="3">Froud (submitted). However, in following these assumptions more closely than in our</text>
+<text top="435" left="106" width="681" height="18" font="3">previous work, I hope to show that data from aphasia may provide evidence for (or</text>
+<text top="458" left="106" width="681" height="18" font="3">against) particular aspects of syntactic theory. It is difficult at times to detect the link</text>
+<text top="481" left="106" width="681" height="18" font="3">between strongly competence-based proposals in theoretical syntax, such as those</text>
+<text top="504" left="106" width="681" height="18" font="3">comprising the Minimalist Program of Chomsky (1993, 1995), and performance</text>
+<text top="528" left="106" width="681" height="18" font="3">deficits observed in aphasia (but see Caplan and Hildebrandt 1988, Grodzinsky 1990,</text>
+<text top="551" left="106" width="681" height="18" font="3">Ouhalla 1993, Druks and Marshall 1995); however, I subscribe to the view that any</text>
+<text top="574" left="106" width="681" height="18" font="3">theory of language implicitly makes predictions as to the ways in which language</text>
+<text top="598" left="106" width="404" height="18" font="3">may break down (cf. Grodzinsky and Finkel 1998).</text>
+<text top="621" left="121" width="665" height="18" font="3">In our original investigations of MC’s reading deficit, we turned first to</text>
+<text top="644" left="106" width="681" height="18" font="3">neuropsychological frameworks for an explanation; however, in the face of a</text>
+<text top="667" left="106" width="681" height="18" font="3">syntactic deficit like that under investigation, we found that neuropsychological</text>
+<text top="691" left="106" width="681" height="18" font="3">theories alone did not provide the necessary theoretical machinery to capture the</text>
+<text top="714" left="106" width="681" height="18" font="3">observed patterns of performance. It seems, then, that there is a need for</text>
+<text top="737" left="106" width="681" height="18" font="3">neuropsychological investigations of aphasic deficits to refer to syntactic theory in</text>
+<text top="760" left="106" width="681" height="18" font="3">order to achieve an explanatory (rather than descriptive) level of analysis. In our</text>
+<text top="784" left="106" width="681" height="18" font="3">studies of MC, and in this paper, I hope to show that, by making use of syntactic</text>
+<text top="807" left="106" width="681" height="18" font="3">theoretic approaches, we may be taking a step closer to understanding the underlying</text>
+<text top="831" left="106" width="348" height="18" font="3">nature of some acquired language disorders.</text>
+<text top="854" left="121" width="665" height="18" font="3">The paper is organised as follows. First, I shall introduce the aphasic patient, MC,</text>
+<text top="877" left="106" width="681" height="18" font="3">and summarise the nature of his deficit as we understand it at present. Then I shall</text>
+<text top="900" left="106" width="681" height="18" font="3">consider some aspects of syntactic and semantic accounts of unaccusativity. Finally, I</text>
+<text top="923" left="106" width="681" height="18" font="3">shall propose an outline account of the lexical representation of unaccusative verbs</text>
+<text top="947" left="106" width="681" height="18" font="3">and the syntactic reflex of such a representation, and attempt to show how the aphasic</text>
+<text top="970" left="106" width="678" height="18" font="3">evidence discussed provides support for the syntactic determination of unaccusativity.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="8" size="13" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="9" size="13" family="TimesNewRoman" color="#000000"/>
+<text top="57" left="650" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="778" width="9" height="16" font="1">3</text>
+<text top="133" left="106" width="394" height="18" font="6"><b>2 MC: an aphasic patient with a function word</b></text>
+<text top="128" left="500" width="7" height="12" font="8"><b>1</b></text>
+<text top="133" left="507" width="127" height="18" font="6"><b> reading deficit</b></text>
+<text top="179" left="106" width="240" height="18" font="6"><b>2.1 Background information</b></text>
+<text top="225" left="106" width="681" height="18" font="3">MC is a 74 year old right handed male, who suffered a left hemisphere embolic</text>
+<text top="248" left="106" width="681" height="18" font="3">cerebrovascular accident in June 1990. He is neurologically stable, with a right sided</text>
+<text top="271" left="106" width="681" height="18" font="3">hemiplegia, moderate articulatory dyspraxia and a diagnostic profile on the Boston</text>
+<text top="295" left="106" width="681" height="18" font="3">Diagnostic Aphasia Examination (Goodglass &amp; Kaplan 1983) which characterises</text>
+<text top="318" left="106" width="681" height="18" font="3">him as similar to a Broca’s aphasic (though with greater articulatory agility and a</text>
+<text top="341" left="106" width="681" height="18" font="3">wider range of syntactic structures in spontaneous speech than would be expected for</text>
+<text top="365" left="106" width="681" height="18" font="3">a true Broca’s). MC’s reading of sentences and connected prose tends to be</text>
+<text top="388" left="106" width="681" height="18" font="3">agrammatic (that is, he omits functional morphemes), though in his spontaneous</text>
+<text top="411" left="106" width="681" height="18" font="3">speech he is able to use a relatively wide range of grammatical morphemes and</text>
+<text top="435" left="106" width="681" height="18" font="3">syntactic structures. There is, then, a clear dissociation between MC’s inability to use</text>
+<text top="458" left="106" width="681" height="18" font="3">grammatical morphemes in reading and his relatively intact use of these same items in</text>
+<text top="481" left="106" width="59" height="18" font="3">speech.</text>
+<text top="504" left="121" width="665" height="18" font="3">Investigations of MC’s reading of single words revealed a pattern of performance</text>
+<text top="528" left="106" width="219" height="18" font="3">similar to that known as </text>
+<text top="528" left="325" width="179" height="18" font="2"><i>phonological dyslexia</i></text>
+<text top="523" left="504" width="7" height="12" font="9">2</text>
+<text top="528" left="511" width="276" height="18" font="3"> (first reported by Beauvois and</text>
+<text top="551" left="106" width="681" height="18" font="3">Dérouesné 1979): he is unable to read nonwords (that is, letter strings which represent</text>
+<text top="574" left="106" width="363" height="18" font="3">accidental ‘gaps’ in the lexicon, for instance </text>
+<text top="574" left="469" width="114" height="18" font="2"><i>blick, leabows</i></text>
+<text top="574" left="583" width="204" height="18" font="3">),  producing instead real</text>
+<text top="598" left="106" width="681" height="18" font="3">words which are visually similar to the target. He performs very well on single-word</text>
+<text top="621" left="106" width="681" height="18" font="3">reading tasks involving substantives, even those that are highly abstract and of low</text>
+<text top="644" left="106" width="681" height="18" font="3">frequency; however, he is extremely poor at reading function words, including</text>
+<text top="667" left="106" width="469" height="18" font="3">pronouns, complementisers, auxiliary verbs, prepositions</text>
+<text top="663" left="575" width="7" height="12" font="9">3</text>
+<text top="667" left="581" width="205" height="18" font="3">, anaphors, conjunctions,</text>
+<text top="691" left="106" width="681" height="18" font="3">quantifiers and determiners. The contrast between MC’s relatively intact reading of</text>
+<text top="714" left="106" width="681" height="18" font="3">substantives and his very impaired reading of function words is illustrated in table 1</text>
+<text top="737" left="106" width="489" height="18" font="3">below, which summarises MC’s reading of various word lists.</text>
+<text top="779" left="106" width="217" height="18" font="3">                                           </text>
+<text top="799" left="122" width="6" height="10" font="7">1</text>
+<text top="802" left="127" width="659" height="16" font="1"> I use the term ‘function words’ throughout this paper as a general term denoting all members of</text>
+<text top="822" left="106" width="681" height="16" font="1">closed lexical classes. This is a far from homogeneous group, and I do not intend to imply that</text>
+<text top="842" left="106" width="564" height="16" font="1">function words are uniformly represented; the use of this term is simply a shorthand.</text>
+<text top="878" left="122" width="6" height="10" font="7">2</text>
+<text top="881" left="127" width="659" height="16" font="1"> The term ‘phonological dyslexia’ refers to an inability to read nonwords, explained by the</text>
+<text top="901" left="106" width="680" height="16" font="1">presence of a deficit in mapping between graphemes and phonemes. This process of Grapheme-</text>
+<text top="921" left="106" width="681" height="16" font="1">Phoneme Conversion (referred to as the GPC Route) is supposed to bypass the mental lexicon and</text>
+<text top="941" left="106" width="681" height="16" font="1">the so-called semantic system (where meaning representations are stored), and is used for reading of</text>
+<text top="961" left="106" width="236" height="16" font="1">nonwords or unfamiliar real words.</text>
+<text top="997" left="122" width="6" height="10" font="7">3</text>
+<text top="1000" left="127" width="659" height="16" font="1"> It is not uncontroversial to include prepositions in this list of ‘function words’; however, the data</text>
+<text top="1020" left="106" width="681" height="16" font="1">from MC are very clear, and he treats prepositions in exactly the same way as he treats other function</text>
+<text top="1040" left="106" width="681" height="16" font="1">words. This has led us to assume that, at least for MC, characterisation of prepositions as part of the</text>
+<text top="1060" left="106" width="681" height="16" font="1">functional lexicon is justified. Further, in accounting for MC’s selective reading deficit, we make use</text>
+<text top="1079" left="106" width="681" height="16" font="1">of Grimshaw’s (1991) feature classification of lexical and functional items; on that view, prepositions</text>
+<text top="1099" left="106" width="681" height="16" font="1">do receive a positive specification of their F(unctional) feature, because of their selectional</text>
+<text top="1119" left="106" width="628" height="16" font="1">characteristics. For some further discussion of this problem, see Druks and Froud (submitted).</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="10" size="17" family="TimesNewRoman,Bold" color="#000000"/>
+<text top="57" left="106" width="9" height="16" font="1">4</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="200" left="207" width="92" height="16" font="10"><b>Reading List</b></text>
+<text top="200" left="458" width="10" height="16" font="10"><b>n</b></text>
+<text top="181" left="528" width="97" height="16" font="10"><b>Number read</b></text>
+<text top="200" left="528" width="145" height="16" font="10"><b>correctly by MC (%</b></text>
+<text top="220" left="528" width="85" height="16" font="10"><b>in brackets)</b></text>
+<text top="243" left="207" width="95" height="18" font="3">Mixed Lists</text>
+<text top="265" left="207" width="216" height="16" font="1">(comprising words from various</text>
+<text top="285" left="207" width="204" height="16" font="1">word classes, including nouns,</text>
+<text top="305" left="207" width="175" height="16" font="1">verbs and function words)</text>
+<text top="326" left="207" width="143" height="16" font="1">Coltheart et al (1979)</text>
+<text top="326" left="458" width="17" height="16" font="1">78</text>
+<text top="326" left="528" width="63" height="16" font="1">62 (79%)</text>
+<text top="346" left="207" width="92" height="16" font="1">Parkin (1984)</text>
+<text top="346" left="458" width="25" height="16" font="1">120</text>
+<text top="346" left="528" width="71" height="16" font="1">101 (84%)</text>
+<text top="367" left="207" width="105" height="16" font="1">Glushko (1979)</text>
+<text top="367" left="458" width="17" height="16" font="1">86</text>
+<text top="367" left="528" width="63" height="16" font="1">62 (72%)</text>
+<text top="387" left="207" width="103" height="16" font="1">Howard (1991)</text>
+<text top="387" left="458" width="25" height="16" font="1">100</text>
+<text top="387" left="528" width="63" height="16" font="1">90 (90%)</text>
+<text top="410" left="207" width="87" height="18" font="3">Noun Lists</text>
+<text top="433" left="207" width="108" height="16" font="1">Concrete Nouns</text>
+<text top="433" left="458" width="25" height="16" font="1">140</text>
+<text top="433" left="528" width="71" height="16" font="1">134 (96%)</text>
+<text top="454" left="207" width="105" height="16" font="1">Abstract Nouns</text>
+<text top="454" left="458" width="25" height="16" font="1">104</text>
+<text top="454" left="528" width="63" height="16" font="1">80 (77%)</text>
+<text top="477" left="207" width="83" height="18" font="3">Verb Lists</text>
+<text top="500" left="207" width="206" height="16" font="1">Mixed: concrete/abstract verbs</text>
+<text top="500" left="458" width="25" height="16" font="1">200</text>
+<text top="500" left="528" width="71" height="16" font="1">170 (85%)</text>
+<text top="521" left="207" width="60" height="16" font="1">Concrete</text>
+<text top="521" left="458" width="25" height="16" font="1">140</text>
+<text top="521" left="528" width="71" height="16" font="1">134 (96%)</text>
+<text top="541" left="207" width="56" height="16" font="1">Abstract</text>
+<text top="541" left="458" width="17" height="16" font="1">59</text>
+<text top="541" left="528" width="63" height="16" font="1">42 (71%)</text>
+<text top="564" left="207" width="152" height="18" font="3">Function word lists</text>
+<text top="587" left="207" width="196" height="16" font="1">Mixed with concrete verbs &amp;</text>
+<text top="607" left="207" width="40" height="16" font="1">nouns</text>
+<text top="597" left="458" width="25" height="16" font="1">137</text>
+<text top="597" left="528" width="54" height="16" font="1">12 (8%)</text>
+<text top="628" left="207" width="191" height="16" font="1">Mixed with abstract verbs &amp;</text>
+<text top="647" left="207" width="40" height="16" font="1">nouns</text>
+<text top="637" left="458" width="17" height="16" font="1">60</text>
+<text top="637" left="528" width="46" height="16" font="1">5 (8%)</text>
+<text top="693" left="106" width="670" height="18" font="2"><i>Table 1: Summary of MC’s reading performance on function words and substantives</i></text>
+<text top="763" left="106" width="681" height="18" font="3">The most striking thing about MC’s selective reading deficit is the difference between</text>
+<text top="787" left="106" width="33" height="18" font="3">the </text>
+<text top="787" left="139" width="33" height="18" font="2"><i>type</i></text>
+<text top="787" left="172" width="614" height="18" font="3"> of errors he makes on substantives and on functional categories. When</text>
+<text top="810" left="106" width="681" height="18" font="3">reading substantives, he makes few errors, and these are usually affixation errors, or</text>
+<text top="833" left="106" width="681" height="18" font="3">visual / phonological errors (in which a visually or phonologically similar word is</text>
+<text top="856" left="106" width="681" height="18" font="3">substituted for the target). Very rarely, he makes semantic errors; that is, he</text>
+<text top="880" left="106" width="582" height="18" font="3">substitutes a word similar in meaning to the target word (e.g. reading </text>
+<text top="880" left="688" width="82" height="18" font="2"><i>propellor </i></text>
+<text top="880" left="770" width="17" height="18" font="3">as</text>
+<text top="903" left="106" width="93" height="18" font="2"><i>‘aeroplane’</i></text>
+<text top="903" left="199" width="588" height="18" font="3">). When reading function words, however, he reads only about 8%</text>
+<text top="926" left="106" width="70" height="18" font="3">correctly</text>
+<text top="922" left="176" width="7" height="12" font="9">4</text>
+<text top="926" left="183" width="101" height="18" font="3">, and makes </text>
+<text top="926" left="284" width="124" height="18" font="2"><i>within-category</i></text>
+<text top="926" left="408" width="379" height="18" font="3"> substitution errors; that is, he produces another</text>
+<text top="950" left="106" width="681" height="18" font="3">function word, which is not usually phonologically or visually related to the target.</text>
+<text top="973" left="106" width="336" height="18" font="3">This effect has proved very robust - MC </text>
+<text top="973" left="442" width="44" height="18" font="2"><i>never</i></text>
+<text top="973" left="486" width="301" height="18" font="3"> makes any other kind of error when</text>
+<text top="996" left="106" width="681" height="18" font="3">reading function words - even to the extent that it may be construed as support for the</text>
+<text top="1020" left="106" width="681" height="18" font="3">notion that prepositions (which MC treats as if they are function words and not</text>
+<text top="1043" left="106" width="651" height="18" font="3">substantives) should be viewed as functional categories (e.g. van Riemsdijk 1990).</text>
+<text top="1077" left="106" width="217" height="18" font="3">                                           </text>
+<text top="1096" left="122" width="6" height="10" font="7">4</text>
+<text top="1099" left="127" width="659" height="16" font="1">Across many word lists: MC has read a total of 1192 function words in various lists for us, over</text>
+<text top="1119" left="106" width="135" height="16" font="1">two years of testing.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="650" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="778" width="9" height="16" font="1">5</text>
+<text top="179" left="106" width="459" height="18" font="6"><b>2.2 Accounting for MC’s function word reading deficit</b></text>
+<text top="225" left="106" width="681" height="18" font="3">When trying to account for MC's function word reading deficit, we initially turned (as</text>
+<text top="248" left="106" width="681" height="18" font="3">mentioned above) to descriptions of similar patients in the neuropsychological</text>
+<text top="271" left="106" width="681" height="18" font="3">literature. Two kinds of phonological dyslexia have been described: in the first type</text>
+<text top="295" left="106" width="681" height="18" font="3">only nonword reading is affected, and in the second, reading of both nonwords and</text>
+<text top="318" left="106" width="616" height="18" font="3">function words is impaired (Friedman 1995). MC falls into the latter category.</text>
+<text top="341" left="121" width="665" height="18" font="3">There has been some debate as to whether the function word and nonword reading</text>
+<text top="365" left="106" width="681" height="18" font="3">deficits in phonological dyslexia are linked, or have separate causes. Friedman (1995)</text>
+<text top="388" left="106" width="681" height="18" font="3">suggested that there could be two possible underlying causes of phonological</text>
+<text top="411" left="106" width="681" height="18" font="3">dyslexia: either there is a deficit in recoding between orthography and phonology,</text>
+<text top="435" left="106" width="681" height="18" font="3">which would mean that nonwords and function words are both impaired, or</text>
+<text top="458" left="106" width="681" height="18" font="3">phonological representations in the lexicon are damaged, causing an impairment of</text>
+<text top="481" left="106" width="681" height="18" font="3">nonwords but sparing function words. Friedman assumes that the representations of</text>
+<text top="504" left="106" width="681" height="18" font="3">function words in the lexicon are associated with very little meaning ('words with less</text>
+<text top="528" left="106" width="681" height="18" font="3">densely interrelated associative networks' - p.198), and the presence of a phonological</text>
+<text top="551" left="106" width="681" height="18" font="3">deficit causes the aphasic patient to rely very heavily on meaning representations in</text>
+<text top="574" left="106" width="681" height="18" font="3">order to 'activate' lexical entries. A patient with this kind of disorder, then, would be</text>
+<text top="598" left="106" width="681" height="18" font="3">able to activate lexical entries for substantives, because they have strong meaning</text>
+<text top="621" left="106" width="681" height="18" font="3">representations; but he would not be able to read nonwords or function words, since</text>
+<text top="644" left="106" width="681" height="18" font="3">the former have no lexical entries in any case, and the latter (on this view) do not have</text>
+<text top="667" left="106" width="449" height="18" font="3">enough meaning to be activated well enough for reading.</text>
+<text top="691" left="121" width="665" height="18" font="3">Patterson (1982), on the other hand, suggested that the function word and nonword</text>
+<text top="714" left="106" width="681" height="18" font="3">reading deficits were linked, and were both caused by a problem in recoding</text>
+<text top="737" left="106" width="681" height="18" font="3">orthography to phonology. Patterson's proposal entails that function words are not</text>
+<text top="760" left="106" width="681" height="18" font="3">lexically represented, but are always read (even in the undamaged language system)</text>
+<text top="784" left="106" width="681" height="18" font="3">via some non-lexical route. This position was argued against by Funnell (1983),</text>
+<text top="807" left="106" width="681" height="18" font="3">whose patient WB had a severe reading impairment for nonwords despite a retained</text>
+<text top="831" left="106" width="237" height="18" font="3">ability to read function words.</text>
+<text top="854" left="121" width="665" height="18" font="3">MC's pattern of performance is not readily captured by such accounts of</text>
+<text top="877" left="106" width="681" height="18" font="3">phonological dyslexia. Firstly, MC demonstrates good comprehension of written</text>
+<text top="900" left="106" width="681" height="18" font="3">function words that he is unable to read - for instance on sorting tasks which require</text>
+<text top="923" left="106" width="681" height="18" font="3">recognition of plural morphology, sentence completion tasks which require the</text>
+<text top="947" left="106" width="681" height="18" font="3">selection of appropriate function words, and word-picture matching tasks requiring</text>
+<text top="970" left="106" width="681" height="18" font="3">the appropriate selection of a preposition, quantifier, pronoun or determiner to go with</text>
+<text top="993" left="106" width="681" height="18" font="3">a picture (all these experiments and more are detailed in Druks and Froud). This</text>
+<text top="1017" left="106" width="681" height="18" font="3">seems to suggest that MC is still able to 'activate' his meaning representations of</text>
+<text top="1040" left="106" width="681" height="18" font="3">function words that he is unable to read, however the nature of their semantic</text>
+<text top="1063" left="106" width="681" height="18" font="3">representation is understood. Secondly, MC's errors on nonwords are very different to</text>
+<text top="1087" left="106" width="681" height="18" font="3">those he makes when reading function words, suggesting that, far from using the</text>
+<text top="1110" left="106" width="681" height="18" font="3">same route for nonword as for function word reading, he utilises very different</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="11" size="20" family="KLGACD+Wingdings,Italic" color="#000000"/>
+<text top="57" left="106" width="9" height="16" font="1">6</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="132" left="106" width="681" height="18" font="3">strategies for each. His errors on nonwords tend to be lexicalisations - that is, MC</text>
+<text top="155" left="106" width="681" height="18" font="3">produces a real word which is visually related to the nonword target (for example, he</text>
+<text top="178" left="106" width="41" height="18" font="3">read </text>
+<text top="178" left="147" width="29" height="18" font="2"><i>cug</i></text>
+<text top="178" left="176" width="31" height="18" font="3"> as </text>
+<text top="178" left="207" width="42" height="18" font="2"><i>‘cup’</i></text>
+<text top="178" left="248" width="13" height="18" font="3">, </text>
+<text top="178" left="261" width="21" height="18" font="2"><i>lat</i></text>
+<text top="178" left="282" width="32" height="18" font="3"> as </text>
+<text top="178" left="314" width="62" height="18" font="2"><i>‘lattice’</i></text>
+<text top="178" left="376" width="13" height="18" font="3">, </text>
+<text top="178" left="388" width="36" height="18" font="2"><i>birl </i></text>
+<text top="178" left="424" width="24" height="18" font="3">as </text>
+<text top="178" left="448" width="42" height="18" font="2"><i>‘girl’</i></text>
+<text top="178" left="490" width="11" height="18" font="3">).</text>
+<text top="178" left="501" width="8" height="18" font="2"><i> </i></text>
+<text top="178" left="508" width="278" height="18" font="3">When attempting to read function</text>
+<text top="202" left="106" width="641" height="18" font="3">words, however, he makes his characteristic ‘within-category’ substitutions (e.g. </text>
+<text top="202" left="747" width="20" height="18" font="2"><i>in </i></text>
+<text top="197" left="767" width="20" height="22" font="11"><i>à</i></text>
+<text top="225" left="106" width="157" height="18" font="2"><i>‘across or because’</i></text>
+<text top="225" left="264" width="12" height="18" font="3">; </text>
+<text top="225" left="275" width="25" height="18" font="2"><i>by </i></text>
+<text top="221" left="300" width="20" height="22" font="11"><i>à</i></text>
+<text top="225" left="319" width="34" height="18" font="2"><i> ‘at’</i></text>
+<text top="225" left="353" width="12" height="18" font="3">; </text>
+<text top="225" left="365" width="49" height="18" font="2"><i>every </i></text>
+<text top="221" left="413" width="20" height="22" font="11"><i>à</i></text>
+<text top="225" left="433" width="110" height="18" font="2"><i> ‘before, and’</i></text>
+<text top="225" left="543" width="11" height="18" font="3">; </text>
+<text top="225" left="554" width="36" height="18" font="2"><i>him </i></text>
+<text top="221" left="589" width="20" height="22" font="11"><i>à</i></text>
+<text top="225" left="609" width="110" height="18" font="2"><i> ‘it or before’</i></text>
+<text top="220" left="719" width="7" height="12" font="9">5</text>
+<text top="225" left="726" width="61" height="18" font="3">). If the</text>
+<text top="248" left="106" width="681" height="18" font="3">deficit were due to a lack of semantic activation (as on Friedman’s account) or to a</text>
+<text top="271" left="106" width="681" height="18" font="3">breakdown on a common reading route used only for nonwords and function words</text>
+<text top="295" left="106" width="681" height="18" font="3">(as on Patterson’s acount), then we would expect MC to treat functional categories</text>
+<text top="318" left="106" width="418" height="18" font="3">and nonwords in exactly the same way as each other.</text>
+<text top="341" left="121" width="665" height="18" font="3">This pattern of errors suggests that MC is, at some level, able to identify functional</text>
+<text top="365" left="106" width="681" height="18" font="3">categories - perhaps simply as ‘category-less’ - and, though he cannot distinguish</text>
+<text top="388" left="106" width="681" height="18" font="3">between the individual members of this natural class, he can still draw the distinction</text>
+<text top="411" left="106" width="282" height="18" font="3">between functional and substantive.</text>
+<text top="435" left="121" width="665" height="18" font="3">Further evidence that MC’s deficit really is syntactic (rather than semantic) in</text>
+<text top="458" left="106" width="681" height="18" font="3">nature comes from an interesting dissociation observed during testing: MC showed</text>
+<text top="481" left="106" width="681" height="18" font="3">that he was able to interpret inflectional morphology associated with nouns (i.e.</text>
+<text top="504" left="106" width="570" height="18" font="3">plurality), but not that associated with verbs (i.e. tense and agreement)</text>
+<text top="500" left="676" width="7" height="12" font="9">6</text>
+<text top="504" left="683" width="103" height="18" font="3">. In trying to</text>
+<text top="528" left="106" width="681" height="18" font="3">account for this deficit, it became evident that a syntactic view was required. As</text>
+<text top="551" left="106" width="681" height="18" font="3">suggested by Hale and Keyser (1993), it could be assumed that single lexical entries</text>
+<text top="574" left="106" width="681" height="18" font="3">can be associated with a great deal of structural information, even to the point that the</text>
+<text top="598" left="106" width="681" height="18" font="3">positions they can occupy in the syntactic derivation are absolutely determined by</text>
+<text top="621" left="106" width="223" height="18" font="3">features on the lexical entry:</text>
+<text top="667" left="150" width="593" height="18" font="3">As a matter of strictly lexical representation, each lexical head projects its</text>
+<text top="691" left="150" width="593" height="18" font="3">category to a phrasal level and determines within that projection an</text>
+<text top="714" left="150" width="593" height="18" font="3">unambiguous system of structural relations holding between the head, its</text>
+<text top="737" left="150" width="593" height="18" font="3">categorial projections, and its arguments (specifier, if present, and</text>
+<text top="760" left="150" width="109" height="18" font="3">complement).</text>
+<text top="784" left="555" width="188" height="18" font="3">Hale &amp; Keyser 1993:53</text>
+<text top="831" left="121" width="665" height="18" font="3">Taken in combination with Grimshaw’s view of extended projections, this leads us</text>
+<text top="854" left="106" width="681" height="18" font="3">to propose that lexical entries also contain information about the extended projection</text>
+<text top="898" left="106" width="217" height="18" font="3">                                           </text>
+<text top="918" left="122" width="6" height="10" font="7">5</text>
+<text top="921" left="127" width="659" height="16" font="1"> MC’s errors on function words are not consistent across testing sessions; so, for instance, he does</text>
+<text top="941" left="106" width="114" height="16" font="1">not always read </text>
+<text top="941" left="220" width="13" height="16" font="0"><i>in</i></text>
+<text top="941" left="233" width="28" height="16" font="1"> as </text>
+<text top="941" left="262" width="136" height="16" font="0"><i>‘across or because ’</i></text>
+<text top="941" left="393" width="394" height="16" font="1">. The within-category substitutions appear to be random,</text>
+<text top="961" left="106" width="597" height="16" font="1">inasmuch as any other function word may be produced in place of a function word target.</text>
+<text top="997" left="122" width="6" height="10" font="7">6</text>
+<text top="1000" left="127" width="659" height="16" font="1"> This was demonstrated via a series of sorting tasks which required MC to identify written words</text>
+<text top="1020" left="106" width="232" height="16" font="1">as singular vs. plural nouns (e.g., </text>
+<text top="1020" left="338" width="107" height="16" font="0"><i>flower, flowers;</i></text>
+<text top="1020" left="445" width="6" height="16" font="1"> </text>
+<text top="1020" left="451" width="164" height="16" font="0"><i>knife, knives; louse, lice</i></text>
+<text top="1020" left="615" width="172" height="16" font="1">), and as past vs. present</text>
+<text top="1040" left="106" width="176" height="16" font="1">tense verbs (marked with </text>
+<text top="1040" left="282" width="27" height="16" font="0"><i>-ed </i></text>
+<text top="1040" left="308" width="29" height="16" font="1">and </text>
+<text top="1040" left="337" width="17" height="16" font="0"><i>-s </i></text>
+<text top="1040" left="354" width="433" height="16" font="1">respectively). In the nouns (singular vs. plural) sorting task MC</text>
+<text top="1060" left="106" width="681" height="16" font="1">performed at above chance levels, carrying out the task quickly and efficiently and making only a</text>
+<text top="1079" left="106" width="681" height="16" font="1">few errors (90% correct). In the verbs (past vs. present) sorting task, in contrast, MC carried out the</text>
+<text top="1099" left="106" width="681" height="16" font="1">task slowly and hesitantly, and performed at a level no higher than chance (43% correct responses:</text>
+<text top="1119" left="106" width="624" height="16" font="1">26/60 present tense verbs,10/30 regular past tense verbs and 15/30 irregular past tense verbs).</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="650" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="778" width="9" height="16" font="1">7</text>
+<text top="132" left="106" width="681" height="18" font="3">of a particular item. For example, a verb requires an extended projection of IP, in</text>
+<text top="155" left="106" width="680" height="18" font="3">order for its tense features to be checked and interpreted and for its subject to be case-</text>
+<text top="178" left="106" width="681" height="18" font="3">marked in Spec,IP. Using these theoretical constructs, it is possible to</text>
+<text top="202" left="106" width="681" height="18" font="3">straightforwardly capture MC’s function word reading deficit in terms of the selective</text>
+<text top="225" left="106" width="681" height="18" font="3">availability of lexical entries, and their associated structural and categorial</text>
+<text top="248" left="106" width="681" height="18" font="3">information. Specifically, it is proposed that MC is unable to retrieve from the lexicon</text>
+<text top="271" left="106" width="681" height="18" font="3">any category with a positive specification for Grimshaw’s [F] (functional) feature. His</text>
+<text top="295" left="106" width="681" height="18" font="3">lexical representations are assumed to be intact. The modality specific nature of the</text>
+<text top="318" left="106" width="681" height="18" font="3">deficit (since MC both understands and uses in spontaneous speech many function</text>
+<text top="341" left="106" width="681" height="18" font="3">words that he is unable to read) suggests that, figuratively speaking, MC’s access to</text>
+<text top="365" left="106" width="681" height="18" font="3">the lexicon via some dedicated reading route has been damaged in such a way as to</text>
+<text top="388" left="106" width="596" height="18" font="3">prevent any item associated with positive [F] features from being Selected </text>
+<text top="388" left="702" width="85" height="18" font="2"><i>when he is</i></text>
+<text top="411" left="106" width="61" height="18" font="2"><i>reading</i></text>
+<text top="411" left="167" width="619" height="18" font="3">. Lexical access via other routes (e.g. for spontaneous speech) is relatively</text>
+<text top="435" left="106" width="95" height="18" font="3">unimpaired.</text>
+<text top="458" left="121" width="665" height="18" font="3">To illustrate, when MC is given a substantive item to read, he is able to access</text>
+<text top="481" left="106" width="681" height="18" font="3">structural and categorial information about it, including the nature of its extended</text>
+<text top="504" left="106" width="681" height="18" font="3">projection. Hence, when reading a noun he can project a DP; when reading a verb he</text>
+<text top="528" left="106" width="681" height="18" font="3">can project to IP. Support for this is provided by some of his errors. When reading</text>
+<text top="551" left="106" width="681" height="18" font="3">bare nouns, for instance, he occasionally inserts a determiner (usually the indefinite</text>
+<text top="574" left="106" width="102" height="18" font="3">article - e.g. </text>
+<text top="574" left="208" width="44" height="18" font="2"><i>door </i></text>
+<text top="570" left="251" width="20" height="22" font="11"><i>à</i></text>
+<text top="574" left="271" width="168" height="18" font="2"><i> ‘a door’; hammock </i></text>
+<text top="570" left="439" width="20" height="22" font="11"><i>à</i></text>
+<text top="574" left="458" width="112" height="18" font="2"><i> ‘a hammock’</i></text>
+<text top="574" left="570" width="217" height="18" font="3">). When reading a verb, he</text>
+<text top="598" left="106" width="681" height="18" font="3">sometimes produces a pronominal subject, and (very occasionally) even an auxiliary</text>
+<text top="621" left="106" width="45" height="18" font="3">(e.g. </text>
+<text top="621" left="150" width="71" height="18" font="2"><i>shaving </i></text>
+<text top="616" left="221" width="20" height="22" font="11"><i>à</i></text>
+<text top="621" left="241" width="222" height="18" font="2"><i>‘he is shaving’; laughing </i></text>
+<text top="616" left="463" width="20" height="22" font="11"><i>à</i></text>
+<text top="621" left="482" width="112" height="18" font="2"><i> ‘she laughs’</i></text>
+<text top="621" left="594" width="193" height="18" font="3">). When he is given a</text>
+<text top="644" left="106" width="681" height="18" font="3">functional element in isolation to read, however, he is not able to project the structure</text>
+<text top="667" left="106" width="681" height="18" font="3">he needs, because he cannot access the categorial and structural representation of</text>
+<text top="691" left="106" width="681" height="18" font="3">these elements from the lexicon. In this situation, he can only identify the word as</text>
+<text top="714" left="106" width="681" height="18" font="3">‘categoryless’, and he searches for any categoryless item to produce - hence his</text>
+<text top="737" left="106" width="611" height="18" font="3">apparently random but consistently within-category errors on function words.</text>
+<text top="760" left="121" width="665" height="18" font="3">It seems that there is a second deficit, however, apart from this access difficulty.</text>
+<text top="784" left="106" width="681" height="18" font="3">Recall that MC is able to interpret number morphology on nouns, but not tense</text>
+<text top="807" left="106" width="681" height="18" font="3">morphology on verbs. Recall also that Chomsky (1993, 1995) views interpretation of</text>
+<text top="831" left="106" width="681" height="18" font="3">tense at LF as dependent on (covert) adjunction of V to T in order to attach to abstract</text>
+<text top="854" left="106" width="681" height="18" font="3">tense features. MC’s inability to interpret tense morphology on verbs suggests that he</text>
+<text top="877" left="106" width="681" height="18" font="3">is unable to carry out this kind of abstract affixation in the syntax. This could be</text>
+<text top="900" left="106" width="681" height="18" font="3">understood as a kind of processing (i.e. computational) or derivational deficit which</text>
+<text top="923" left="106" width="681" height="18" font="3">accompanies MC’s access deficit. Number on nouns is interpretable for MC, on the</text>
+<text top="947" left="106" width="681" height="18" font="3">other hand, because it is checked inside the DP (which MC is able to project for a</text>
+<text top="970" left="106" width="681" height="18" font="3">noun) and because it does not require any process of abstract affixation to take place</text>
+<text top="993" left="106" width="105" height="18" font="3">in the syntax.</text>
+<text top="1017" left="121" width="665" height="18" font="3">So it seems, given these assumptions, that syntactic theory provides a parsimonious</text>
+<text top="1040" left="106" width="681" height="18" font="3">way to capture the underlying nature of MC’s deficit: an inability to access, when</text>
+<text top="1063" left="106" width="681" height="18" font="3">reading, any categorial or structural information about lexical entries for functional</text>
+<text top="1087" left="106" width="681" height="18" font="3">categories, in conjunction with an inability to carry out abstract affixation (at least,</text>
+<text top="1110" left="106" width="331" height="18" font="3">covert adjunction of V to T) in the syntax.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="106" width="9" height="16" font="1">8</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="179" left="106" width="346" height="18" font="6"><b>3 MC’s unaccusative verb reading deficit</b></text>
+<text top="226" left="106" width="257" height="18" font="6"><b>3.1 Testing MC’s verb reading</b></text>
+<text top="271" left="106" width="681" height="18" font="3">While investigating MC’s reading, it was noted that certain verbs were sometimes</text>
+<text top="295" left="106" width="681" height="18" font="3">treated as if they were functional categories. This effect was not understood at the</text>
+<text top="318" left="106" width="681" height="18" font="3">time, and the verb lists utilised in our original investigations did not control for</text>
+<text top="341" left="106" width="681" height="18" font="3">transitivity, so that it was not clear what feature(s) of the verbs concerned may be</text>
+<text top="365" left="106" width="681" height="18" font="3">causing MC to misidentify them as functional categories. In following up this</text>
+<text top="388" left="106" width="681" height="18" font="3">observation, a reading list was prepared which comprised four conditions. Firstly,</text>
+<text top="411" left="106" width="560" height="18" font="3">there were 25 unaccusative verbs with no transitive alternation (e.g. </text>
+<text top="411" left="666" width="109" height="18" font="2"><i>depart, ensue</i></text>
+<text top="411" left="775" width="12" height="18" font="3">),</text>
+<text top="435" left="106" width="478" height="18" font="3">and 50 unaccusative verbs with a transitive alternation (e.g. </text>
+<text top="435" left="584" width="107" height="18" font="2"><i>bounce, hang</i></text>
+<text top="435" left="691" width="96" height="18" font="3">). Secondly,</text>
+<text top="458" left="106" width="209" height="18" font="3">25 intransitive verbs (e.g. </text>
+<text top="458" left="315" width="213" height="18" font="2"><i>cringe, meditate, complain</i></text>
+<text top="458" left="528" width="258" height="18" font="3">) were included. Finally, 25 low</text>
+<text top="481" left="106" width="681" height="18" font="3">imageability and low frequency transitive verbs with no unaccusative alternation (e.g.</text>
+<text top="504" left="106" width="226" height="18" font="2"><i>worship, declare, adjudicate</i></text>
+<text top="504" left="332" width="455" height="18" font="3">) were added to the list. Imageability and frequency were</text>
+<text top="528" left="106" width="681" height="18" font="3">controlled for to rule out the possibility that MC was making function word errors on</text>
+<text top="551" left="106" width="681" height="18" font="3">so-called ‘nonspecific’ verbs (Funnell 1983); that is, verbs with reduced semantic</text>
+<text top="574" left="106" width="681" height="18" font="3">content, or those which may be difficult to ‘activate’ because they are used very</text>
+<text top="598" left="106" width="226" height="18" font="3">infrequently in the language.</text>
+<text top="621" left="121" width="665" height="18" font="3">All the verbs included in the list were presented as bare (uninflected) stems, so</text>
+<text top="644" left="106" width="681" height="18" font="3">attempts were made to include only those verbs which are not orthographically</text>
+<text top="667" left="106" width="681" height="18" font="3">identical to nouns. The list was randomised and, in order to generate more data, it was</text>
+<text top="691" left="106" width="671" height="18" font="3">presented to MC on three separate occasions. The whole list is given in the appendix.</text>
+<text top="714" left="106" width="681" height="18" font="3">MC’s performance on this reading list provides the subject matter for the rest of my</text>
+<text top="737" left="106" width="366" height="18" font="3">discussion. The results are provided in table 2:</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="12" size="17" family="LLGACD+Wingdings" color="#000000"/>
+<text top="57" left="650" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="778" width="9" height="16" font="1">9</text>
+<text top="165" left="260" width="101" height="16" font="10"><b>Unaccusatives</b></text>
+<text top="185" left="260" width="75" height="16" font="1">(n = 25 x3)</text>
+<text top="145" left="395" width="101" height="16" font="10"><b>Unaccusatives</b></text>
+<text top="165" left="395" width="104" height="16" font="10"><b>with transitive</b></text>
+<text top="185" left="395" width="79" height="16" font="10"><b>alternation</b></text>
+<text top="204" left="395" width="75" height="16" font="1">(n = 50 x3)</text>
+<text top="165" left="531" width="90" height="16" font="10"><b>Intransitives</b></text>
+<text top="185" left="531" width="75" height="16" font="1">(n = 25 x3)</text>
+<text top="135" left="667" width="32" height="16" font="10"><b>Low</b></text>
+<text top="155" left="667" width="97" height="16" font="10"><b>imageability /</b></text>
+<text top="175" left="667" width="72" height="16" font="10"><b>frequency</b></text>
+<text top="195" left="667" width="74" height="16" font="10"><b>transitives</b></text>
+<text top="214" left="667" width="75" height="16" font="1">(n = 25 x3)</text>
+<text top="257" left="106" width="56" height="16" font="10"><b>Correct</b></text>
+<text top="248" left="260" width="87" height="16" font="10"><b>47 (62.67%)</b></text>
+<text top="267" left="260" width="111" height="16" font="1">e.g. arise, persist</text>
+<text top="237" left="395" width="95" height="16" font="10"><b>121 (80.67%)</b></text>
+<text top="257" left="395" width="75" height="16" font="1">e.g. scatter,</text>
+<text top="277" left="395" width="76" height="16" font="1">accumulate</text>
+<text top="237" left="531" width="87" height="16" font="10"><b>50 (66.67%)</b></text>
+<text top="257" left="531" width="76" height="16" font="1">e.g. decide,</text>
+<text top="277" left="531" width="62" height="16" font="1">complain</text>
+<text top="237" left="667" width="66" height="16" font="10"><b>51 (68%)</b></text>
+<text top="257" left="667" width="78" height="16" font="1">e.g. hallow,</text>
+<text top="277" left="667" width="51" height="16" font="1">engross</text>
+<text top="328" left="106" width="106" height="16" font="10"><b>Function word</b></text>
+<text top="348" left="106" width="91" height="16" font="10"><b>substitutions</b></text>
+<text top="308" left="260" width="57" height="16" font="10"><b>9 (12%)</b></text>
+<text top="327" left="260" width="79" height="16" font="1">e.g. remain </text>
+<text top="324" left="338" width="17" height="19" font="12">à</text>
+<text top="347" left="260" width="101" height="16" font="1">‘because, and’;</text>
+<text top="367" left="260" width="43" height="16" font="1">linger </text>
+<text top="363" left="302" width="17" height="19" font="12">à</text>
+<text top="367" left="319" width="58" height="16" font="1"> ‘before’</text>
+<text top="298" left="395" width="57" height="16" font="10"><b>12 (8%)</b></text>
+<text top="317" left="395" width="74" height="16" font="1">e.g. gather </text>
+<text top="314" left="469" width="17" height="19" font="12">à</text>
+<text top="337" left="395" width="97" height="16" font="1">‘before, after’;</text>
+<text top="357" left="395" width="41" height="16" font="1">begin </text>
+<text top="353" left="436" width="17" height="19" font="12">à</text>
+<text top="377" left="395" width="64" height="16" font="1">‘because’</text>
+<text top="338" left="531" width="9" height="16" font="10"><b>0</b></text>
+<text top="338" left="667" width="9" height="16" font="10"><b>0</b></text>
+<text top="437" left="106" width="80" height="16" font="10"><b>Word class</b></text>
+<text top="457" left="106" width="57" height="16" font="10"><b>changes</b></text>
+<text top="408" left="260" width="70" height="16" font="10"><b>5 (6.67%)</b></text>
+<text top="427" left="260" width="71" height="16" font="1">e.g. thrive </text>
+<text top="423" left="330" width="17" height="19" font="12">à</text>
+<text top="447" left="260" width="48" height="16" font="1">‘thrift’,</text>
+<text top="467" left="260" width="79" height="16" font="1">reverberate </text>
+<text top="463" left="338" width="17" height="19" font="12">à</text>
+<text top="487" left="260" width="100" height="16" font="1">‘reverberation’</text>
+<text top="417" left="395" width="70" height="16" font="10"><b>4 (2.67%)</b></text>
+<text top="437" left="395" width="65" height="16" font="1">e.g. bend </text>
+<text top="433" left="460" width="17" height="19" font="12">à</text>
+<text top="457" left="395" width="101" height="16" font="1">‘bent’; resolve </text>
+<text top="453" left="496" width="17" height="19" font="12">à</text>
+<text top="476" left="395" width="64" height="16" font="1">‘resolute’</text>
+<text top="398" left="531" width="87" height="16" font="10"><b>11 (14.67%)</b></text>
+<text top="417" left="531" width="101" height="16" font="1">e.g. convalesce</text>
+<text top="434" left="531" width="17" height="19" font="12">à</text>
+<text top="456" left="531" width="102" height="16" font="1">‘convalescent’;</text>
+<text top="476" left="531" width="40" height="16" font="1">agree </text>
+<text top="472" left="571" width="17" height="19" font="12">à</text>
+<text top="496" left="531" width="81" height="16" font="1">‘agreement’</text>
+<text top="447" left="667" width="9" height="16" font="10"><b>0</b></text>
+<text top="566" left="106" width="121" height="16" font="10"><b>Affixation errors</b></text>
+<text top="527" left="260" width="61" height="16" font="10"><b>7 (9.3%)</b></text>
+<text top="546" left="260" width="77" height="16" font="1">e.g. glisten </text>
+<text top="543" left="336" width="17" height="19" font="12">à</text>
+<text top="566" left="260" width="81" height="16" font="1">‘glistening’;</text>
+<text top="586" left="260" width="52" height="16" font="1">happen </text>
+<text top="583" left="312" width="17" height="19" font="12">à</text>
+<text top="606" left="260" width="81" height="16" font="1">‘happening’</text>
+<text top="527" left="395" width="70" height="16" font="10"><b>7 (4.67%)</b></text>
+<text top="546" left="395" width="67" height="16" font="1">e.g. grow </text>
+<text top="543" left="462" width="17" height="19" font="12">à</text>
+<text top="566" left="395" width="72" height="16" font="1">‘growing’;</text>
+<text top="586" left="395" width="54" height="16" font="1">recover </text>
+<text top="583" left="449" width="17" height="19" font="12">à</text>
+<text top="606" left="395" width="77" height="16" font="1">‘recovered’</text>
+<text top="517" left="531" width="49" height="16" font="10"><b>6 (8%)</b></text>
+<text top="536" left="531" width="69" height="16" font="1">e.g cower </text>
+<text top="533" left="600" width="17" height="19" font="12">à</text>
+<text top="556" left="531" width="78" height="16" font="1">‘cowering’;</text>
+<text top="576" left="531" width="56" height="16" font="1">agonize </text>
+<text top="573" left="587" width="17" height="19" font="12">à</text>
+<text top="596" left="531" width="77" height="16" font="1">‘agonizing’</text>
+<text top="547" left="667" width="61" height="16" font="10"><b>1 (1.3%)</b></text>
+<text top="566" left="667" width="63" height="16" font="1">bewilder </text>
+<text top="562" left="729" width="17" height="19" font="12">à</text>
+<text top="586" left="667" width="85" height="16" font="1">‘bewildered’</text>
+<text top="646" left="106" width="92" height="16" font="10"><b>Phonological</b></text>
+<text top="666" left="106" width="45" height="16" font="10"><b>errors</b></text>
+<text top="656" left="260" width="9" height="16" font="10"><b>0</b></text>
+<text top="637" left="395" width="61" height="16" font="10"><b>2 (1.3%)</b></text>
+<text top="656" left="395" width="59" height="16" font="1">crumple </text>
+<text top="652" left="454" width="17" height="19" font="12">à</text>
+<text top="676" left="395" width="87" height="16" font="1">‘crumble’ x2</text>
+<text top="656" left="531" width="9" height="16" font="10"><b>0</b></text>
+<text top="656" left="667" width="9" height="16" font="10"><b>0</b></text>
+<text top="736" left="106" width="94" height="16" font="10"><b>Visual errors</b></text>
+<text top="707" left="260" width="61" height="16" font="10"><b>4 (5.3%)</b></text>
+<text top="727" left="260" width="76" height="16" font="1">e.g. vanish </text>
+<text top="723" left="335" width="17" height="19" font="12">à</text>
+<text top="746" left="260" width="106" height="16" font="1">‘vanquish’; wilt</text>
+<text top="763" left="260" width="17" height="19" font="12">à</text>
+<text top="766" left="276" width="44" height="16" font="1"> ‘welt’</text>
+<text top="727" left="395" width="70" height="16" font="10"><b>1 (0.67%)</b></text>
+<text top="746" left="395" width="41" height="16" font="1">blend </text>
+<text top="743" left="436" width="17" height="19" font="12">à</text>
+<text top="746" left="453" width="52" height="16" font="1"> ‘bleed’</text>
+<text top="697" left="531" width="61" height="16" font="10"><b>7 (9.3%)</b></text>
+<text top="717" left="531" width="85" height="16" font="1">e.g. proceed </text>
+<text top="713" left="616" width="17" height="19" font="12">à</text>
+<text top="736" left="531" width="59" height="16" font="1">‘recede’;</text>
+<text top="756" left="531" width="62" height="16" font="1">meditate </text>
+<text top="753" left="593" width="17" height="19" font="12">à</text>
+<text top="776" left="531" width="64" height="16" font="1">‘mediate’</text>
+<text top="707" left="667" width="87" height="16" font="10"><b>17 (22.67%)</b></text>
+<text top="727" left="667" width="85" height="16" font="1">e.g. appease </text>
+<text top="723" left="752" width="17" height="19" font="12">à</text>
+<text top="746" left="667" width="100" height="16" font="1">‘appeal’; attain</text>
+<text top="763" left="667" width="17" height="19" font="12">à</text>
+<text top="766" left="683" width="56" height="16" font="1"> ‘attend’</text>
+<text top="817" left="106" width="115" height="16" font="10"><b>Semantic errors</b></text>
+<text top="797" left="260" width="61" height="16" font="10"><b>1 (1.3%)</b></text>
+<text top="816" left="260" width="48" height="16" font="1">glisten </text>
+<text top="813" left="308" width="17" height="19" font="12">à</text>
+<text top="836" left="260" width="57" height="16" font="1">‘glitters’</text>
+<text top="817" left="395" width="9" height="16" font="10"><b>0</b></text>
+<text top="817" left="531" width="9" height="16" font="10"><b>0</b></text>
+<text top="797" left="667" width="61" height="16" font="10"><b>1 (1.3%)</b></text>
+<text top="816" left="667" width="63" height="16" font="1">bewilder </text>
+<text top="813" left="729" width="17" height="19" font="12">à</text>
+<text top="836" left="667" width="64" height="16" font="1">‘bewitch’</text>
+<text top="857" left="106" width="102" height="16" font="10"><b>Unrelated / no</b></text>
+<text top="877" left="106" width="62" height="16" font="10"><b>response</b></text>
+<text top="867" left="260" width="61" height="16" font="10"><b>2 (2.6%)</b></text>
+<text top="867" left="395" width="49" height="16" font="10"><b>3 (2%)</b></text>
+<text top="867" left="531" width="61" height="16" font="10"><b>1 (1.3%)</b></text>
+<text top="867" left="667" width="70" height="16" font="10"><b>5 (6.67%)</b></text>
+<text top="923" left="106" width="617" height="18" font="2"><i>Table 2: % of total responses falling into each error type on verb reading task</i></text>
+<text top="970" left="106" width="681" height="18" font="3">It should be noted that the error types designated ‘word class changes’ and ‘affixation</text>
+<text top="993" left="106" width="681" height="18" font="3">errors’ in table 2 are closely related; the decision as to whether an affixation error</text>
+<text top="1017" left="106" width="681" height="18" font="3">should be counted as a word class change was somewhat arbitrary, and relied to a</text>
+<text top="1040" left="106" width="623" height="18" font="3">certain extent on intuition. Some were obvious: for example, MC produced </text>
+<text top="1040" left="729" width="42" height="18" font="2"><i>dine </i></text>
+<text top="1040" left="770" width="17" height="18" font="3">as</text>
+<text top="1063" left="106" width="65" height="18" font="2"><i>‘dinner’</i></text>
+<text top="1063" left="171" width="12" height="18" font="3">, </text>
+<text top="1063" left="183" width="65" height="18" font="2"><i>resolve </i></text>
+<text top="1063" left="247" width="24" height="18" font="3">as </text>
+<text top="1063" left="271" width="77" height="18" font="2"><i>‘resolute’</i></text>
+<text top="1063" left="347" width="12" height="18" font="3">, </text>
+<text top="1063" left="359" width="53" height="18" font="2"><i>thrive </i></text>
+<text top="1063" left="413" width="24" height="18" font="3">as </text>
+<text top="1063" left="436" width="52" height="18" font="2"><i>‘thrift’</i></text>
+<text top="1063" left="489" width="298" height="18" font="3">; all such errors are classed as word</text>
+<text top="1087" left="106" width="681" height="18" font="3">class changes. Some were less obviously word class changes (though they could have</text>
+<text top="1110" left="106" width="681" height="18" font="3">counted as gerunds, gerundives, or adjectivisations), and these have been counted as</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="13" size="20" family="Symbol" color="#000000"/>
+<text top="57" left="106" width="17" height="16" font="1">10</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="132" left="106" width="362" height="18" font="3">affixation errors. These include, for example, </text>
+<text top="132" left="468" width="64" height="18" font="2"><i>happen </i></text>
+<text top="128" left="531" width="20" height="22" font="11"><i>à</i></text>
+<text top="132" left="550" width="147" height="18" font="2"><i> ‘happening’; live </i></text>
+<text top="128" left="698" width="20" height="22" font="11"><i>à</i></text>
+<text top="132" left="717" width="70" height="18" font="2"><i> ‘living’;</i></text>
+<text top="155" left="106" width="65" height="18" font="2"><i>recover </i></text>
+<text top="151" left="171" width="20" height="22" font="11"><i>à</i></text>
+<text top="155" left="191" width="97" height="18" font="2"><i> ‘recovered’</i></text>
+<text top="155" left="288" width="5" height="18" font="3">.</text>
+<text top="178" left="121" width="665" height="18" font="3">There were no significant differences in MC’s performance across the three trials.</text>
+<text top="202" left="106" width="681" height="18" font="3">MC read 29 of the 50 ambiguous unaccusative / transitive verbs correctly on all three</text>
+<text top="225" left="106" width="681" height="18" font="3">occasions of testing. He read a further 14 correctly two out of three times, and two</text>
+<text top="248" left="106" width="681" height="18" font="3">were read correctly only once. Overall, MC was correct on 80.67% of the ambiguous</text>
+<text top="271" left="106" width="681" height="18" font="3">class, across all three testing occasions. In this class, MC made a total of 12 (8%)</text>
+<text top="295" left="106" width="681" height="18" font="3">function word errors, and he changed the word class of the target 4 times, plus 7</text>
+<text top="318" left="106" width="386" height="18" font="3">affixation errors (see table 2 for some examples).</text>
+<text top="341" left="121" width="665" height="18" font="3">Of the unambiguous unaccusatives, 9 of the 25 were read correctly all three times</text>
+<text top="365" left="106" width="7" height="18" font="3">(</text>
+<text top="365" left="113" width="464" height="18" font="2"><i>blush, exist, die, arise, persist, emerge, perish, depart </i></text>
+<text top="365" left="576" width="39" height="18" font="3">and </text>
+<text top="365" left="615" width="56" height="18" font="2"><i>prevail</i></text>
+<text top="365" left="671" width="116" height="18" font="3">). MC read 7</text>
+<text top="388" left="106" width="681" height="18" font="3">correctly on two out of three occasions, and 6 were read correctly only once. This</text>
+<text top="411" left="106" width="681" height="18" font="3">meant that he was correct on 62.67% of all unaccusatives across all three testing</text>
+<text top="435" left="106" width="681" height="18" font="3">occasions. He made 9 (12%) function word errors, and changed the word class of the</text>
+<text top="458" left="106" width="681" height="18" font="3">target 5 times, with 7 affixation errors in addition. Other errors were visual (e.g.</text>
+<text top="481" left="106" width="56" height="18" font="2"><i>vanish </i></text>
+<text top="477" left="162" width="20" height="22" font="11"><i>à</i></text>
+<text top="481" left="182" width="89" height="18" font="2"><i> ‘vanquish’</i></text>
+<text top="481" left="271" width="232" height="18" font="3">) and unrelated / no response.</text>
+<text top="504" left="121" width="665" height="18" font="3">MC made no function word errors on the intransitive verbs or on the low</text>
+<text top="528" left="106" width="681" height="18" font="3">imageability / low frequency transitive verbs (n=25 of each, tested three times). Errors</text>
+<text top="551" left="106" width="563" height="18" font="3">on the intransitive verbs were mainly word class changes (e.g. </text>
+<text top="551" left="669" width="98" height="18" font="2"><i>convalesce </i></text>
+<text top="547" left="767" width="20" height="22" font="11"><i>à</i></text>
+<text top="574" left="106" width="180" height="18" font="2"><i>‘convalescent’, agree </i></text>
+<text top="570" left="286" width="20" height="22" font="11"><i>à</i></text>
+<text top="574" left="306" width="105" height="18" font="2"><i> ‘agreement’</i></text>
+<text top="574" left="410" width="377" height="18" font="3">), and on the low imageability class he made</text>
+<text top="598" left="106" width="208" height="18" font="3">mainly visual errors (e.g. </text>
+<text top="598" left="314" width="65" height="18" font="2"><i>confute </i></text>
+<text top="593" left="378" width="20" height="22" font="11"><i>à</i></text>
+<text top="598" left="398" width="143" height="18" font="2"><i> ‘confuse’, attain </i></text>
+<text top="593" left="540" width="20" height="22" font="11"><i>à</i></text>
+<text top="598" left="560" width="69" height="18" font="2"><i> ‘attend’</i></text>
+<text top="598" left="629" width="158" height="18" font="3">). He correctly read</text>
+<text top="621" left="106" width="472" height="18" font="3">66.67% of the intransitives, and 68% of the transitive verbs.</text>
+<text top="691" left="106" width="305" height="18" font="6"><b>3.2 Discussion of MC’s verb reading</b></text>
+<text top="737" left="106" width="681" height="18" font="3">A chi-square statistical analysis was carried out to compare the numbers of correct</text>
+<text top="760" left="106" width="681" height="18" font="3">responses, general errors and function word errors made by MC when reading the</text>
+<text top="784" left="106" width="681" height="18" font="3">unaccusative verb classes and the other verb classes (transitive and intransitive). The</text>
+<text top="809" left="106" width="240" height="18" font="3">differences were significant (</text>
+<text top="802" left="346" width="11" height="26" font="13">χ</text>
+<text top="804" left="356" width="7" height="12" font="9">2</text>
+<text top="809" left="363" width="424" height="18" font="3"> = 22.88, df = 2, p &lt; 0.001). In order to ascertain</text>
+<text top="832" left="106" width="681" height="18" font="3">whether there was a significant difference between the number of function word</text>
+<text top="855" left="106" width="681" height="18" font="3">errors made on the unaccusatives and on other verbs, the data were partitioned and a</text>
+<text top="880" left="106" width="507" height="18" font="3">further chi-square was carried out. This result too is significant (</text>
+<text top="873" left="613" width="11" height="26" font="13">χ</text>
+<text top="875" left="624" width="7" height="12" font="9">2</text>
+<text top="880" left="630" width="156" height="18" font="3"> = 19.41, df = 1; p&lt;</text>
+<text top="903" left="106" width="681" height="18" font="3">0.001). This suggests that MC can, at some level, identify and react to unaccusativity,</text>
+<text top="927" left="106" width="681" height="18" font="3">but generating the structure associated with the syntactic reflex of unaccusativity is</text>
+<text top="950" left="106" width="681" height="18" font="3">problematic for him, and sometimes leads to his misidentification of an unaccusative</text>
+<text top="973" left="106" width="232" height="18" font="3">verb as a functional category.</text>
+<text top="997" left="121" width="665" height="18" font="3">We have seen that MC makes this kind of error (function word substitutions) only</text>
+<text top="1020" left="106" width="681" height="18" font="3">on other function words; he never substitutes a function word for a substantive. His</text>
+<text top="1043" left="106" width="681" height="18" font="3">anomalous, and statistically significant, production of function word errors on</text>
+<text top="1066" left="106" width="681" height="18" font="3">unaccusative verbs suggests, in accordance with our theory of his access deficit, that</text>
+<text top="1089" left="106" width="681" height="18" font="3">unaccusative syntax involves the immediate requirement for some projection of a</text>
+<text top="1113" left="106" width="681" height="18" font="3">functional category (recall that MC’s substitution errors are hypothesised to be due to</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="641" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="769" width="17" height="16" font="1">11</text>
+<text top="132" left="106" width="681" height="18" font="3">his access deficit, which prevents him from retrieving any item with a positive F</text>
+<text top="155" left="106" width="494" height="18" font="3">specification from the lexicon; the best he can do is produce </text>
+<text top="155" left="600" width="29" height="18" font="2"><i>any</i></text>
+<text top="155" left="628" width="159" height="18" font="3"> ‘categoryless’ item</text>
+<text top="178" left="106" width="681" height="18" font="3">in its place). Some speculations regarding the functional characteristics of</text>
+<text top="202" left="106" width="681" height="18" font="3">unaccusatives, their differences from other verb classes which MC can read, and</text>
+<text top="225" left="106" width="681" height="18" font="3">possible reasons for MC’s ability to read some unaccusative verbs correctly, are</text>
+<text top="248" left="106" width="133" height="18" font="3">discussed below.</text>
+<text top="319" left="106" width="140" height="18" font="6"><b>4 Unaccusativity</b></text>
+<text top="365" left="106" width="507" height="18" font="6"><b>4.1 Background considerations: the nature of unaccusativity</b></text>
+<text top="411" left="106" width="681" height="18" font="3">Unaccusatives are nonagentive verbs whose subject is assumed to be the underlying</text>
+<text top="435" left="106" width="681" height="18" font="3">object, by the Uniform Theta Assignment Hypothesis (Baker 1988). Unaccusativity</text>
+<text top="458" left="106" width="681" height="18" font="3">tends to be defined across semantic classes: as Levin and Rappaport Hovav (1995)</text>
+<text top="481" left="106" width="64" height="18" font="3">put it, </text>
+<text top="481" left="170" width="617" height="18" font="2"><i>‘unaccusativity is syntactically represented but semantically determined’</i></text>
+<text top="504" left="106" width="681" height="18" font="3">(p.30). I would like to suggest, in the light of the data from MC, that unaccusativity</text>
+<text top="528" left="106" width="68" height="18" font="3">must be </text>
+<text top="528" left="174" width="105" height="18" font="2"><i>syntactically </i></text>
+<text top="528" left="279" width="507" height="18" font="3">determined; in this way, we can maintain a syntactic account of</text>
+<text top="551" left="106" width="681" height="18" font="3">MC’s deficits, which is a desirable outcome since his meaning representations of</text>
+<text top="574" left="106" width="439" height="18" font="3">words he is unable to read appear to be relatively intact.</text>
+<text top="598" left="121" width="665" height="18" font="3">It has been suggested that unaccusatives involve some kind of lexical derivation</text>
+<text top="621" left="106" width="681" height="18" font="3">(e.g. Reinhart 1997; Pesetsky 1995). On this view, unaccusatives are underlyingly</text>
+<text top="644" left="106" width="580" height="18" font="3">related to transitive verbs, and many of them have a transitive alternation:</text>
+<text top="691" left="106" width="23" height="18" font="3">(1)</text>
+<text top="691" left="150" width="229" height="18" font="3">a. The boy bounced the ball</text>
+<text top="714" left="150" width="166" height="18" font="3">b. The ball bounced</text>
+<text top="760" left="106" width="23" height="18" font="3">(2)</text>
+<text top="760" left="150" width="308" height="18" font="3">a. The sunlight faded the photographs</text>
+<text top="784" left="150" width="211" height="18" font="3">b. The photographs faded</text>
+<text top="831" left="106" width="23" height="18" font="3">(3)</text>
+<text top="831" left="150" width="463" height="18" font="3">a. Several difficulties diminished the impact of the theory</text>
+<text top="854" left="150" width="316" height="18" font="3">b. The impact of the theory diminished</text>
+<text top="900" left="106" width="23" height="18" font="3">(4)</text>
+<text top="900" left="150" width="359" height="18" font="3">a. The British consulate returned the tourists</text>
+<text top="923" left="150" width="193" height="18" font="3">b. The tourists returned</text>
+<text top="970" left="106" width="680" height="18" font="3">Here I will consider the view, taken by Reinhart (1997) and Pesetsky (1995), that</text>
+<text top="993" left="106" width="681" height="18" font="3">unaccusativity results from a process in the lexicon which suppresses one of the</text>
+<text top="1017" left="106" width="681" height="18" font="3">arguments of the transitive counterpart (the agent). This process may be a semantic</text>
+<text top="1040" left="106" width="681" height="18" font="3">‘reduction’ as envisaged by Reinhart, or abstract affixation of the CAUS morpheme</text>
+<text top="1063" left="106" width="681" height="18" font="3">in the lexicon, as proposed by Pesetsky to capture the intuition of Levin and</text>
+<text top="1087" left="106" width="673" height="18" font="3">Rappaport Hovav that unaccusatives generally have some kind of causative meaning.</text>
+<text top="1110" left="121" width="665" height="18" font="3">Reinhart (1997), seeking to capture some observed similarities between reflexives</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="14" size="13" family="Symbol" color="#000000"/>
+<text top="57" left="106" width="17" height="16" font="1">12</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="132" left="106" width="681" height="18" font="3">and unaccusatives, considers two operations that can apply to the argument structure</text>
+<text top="155" left="106" width="681" height="18" font="3">of verbs as represented in the lexicon. The first of these, saturation, is comparable to</text>
+<text top="178" left="106" width="681" height="18" font="3">Grimshaw’s (1990) notion of ‘suppression’, and is the process whereby one theta role</text>
+<text top="202" left="106" width="681" height="18" font="3">undergoes existential binding. This is the process applied to the external argument of</text>
+<text top="225" left="106" width="681" height="18" font="3">a passivised verb, so that passives have a semantic structure like that in (5) (Chierchia</text>
+<text top="248" left="106" width="246" height="18" font="3">1989: based on Reinhart’s (8)):</text>
+<text top="296" left="106" width="23" height="18" font="3">(5)</text>
+<text top="290" left="150" width="11" height="26" font="13">∃</text>
+<text top="296" left="161" width="93" height="18" font="3">x (wash (x, </text>
+<text top="290" left="254" width="11" height="26" font="13">θ</text>
+<text top="304" left="264" width="7" height="12" font="9">2</text>
+<text top="296" left="270" width="13" height="18" font="3">))</text>
+<text top="296" left="322" width="136" height="18" font="3">Max was washed</text>
+<text top="320" left="322" width="144" height="18" font="3">(= x washed Max)</text>
+<text top="366" left="106" width="681" height="18" font="3">The second operation discussed by Reinhart is reduction, which she states to be</text>
+<text top="390" left="106" width="681" height="18" font="3">equivalent to Grimshaw’s (1990) lexical binding. This is the process seen in</text>
+<text top="413" left="106" width="681" height="18" font="3">reflexivization; essentially, one argument of a two-place predicate is ‘bound’ to the</text>
+<text top="436" left="106" width="285" height="18" font="3">other, yielding a semantics as in (6):</text>
+<text top="484" left="106" width="23" height="18" font="3">(6)</text>
+<text top="484" left="150" width="83" height="18" font="3">R (wash) (</text>
+<text top="478" left="233" width="11" height="26" font="13">θ</text>
+<text top="487" left="243" width="7" height="18" font="14">1</text>
+<text top="478" left="250" width="7" height="26" font="13">)</text>
+<text top="484" left="322" width="101" height="18" font="3">Max washed</text>
+<text top="507" left="322" width="171" height="18" font="3">(= Max washed Max)</text>
+<text top="554" left="106" width="681" height="18" font="3">Reflexivization results from reduction of the internal argument of the predicate.</text>
+<text top="577" left="106" width="681" height="18" font="3">Reinhart suggests that reduction can also apply to the external argument, and this is</text>
+<text top="601" left="106" width="681" height="18" font="3">what results in unaccusative syntax. Semantically, reduction of the external role must</text>
+<text top="624" left="106" width="681" height="18" font="3">apply to a more complex abstract verb, which involves a causal relationship. The</text>
+<text top="647" left="106" width="410" height="18" font="3">example that Reinhart uses to illustrate this point is </text>
+<text top="647" left="516" width="34" height="18" font="2"><i>roll </i></text>
+<text top="647" left="550" width="237" height="18" font="3">(7 a, b, c; based on Reinhart’s</text>
+<text top="670" left="106" width="116" height="18" font="3">(16) and (17)):</text>
+<text top="719" left="106" width="23" height="18" font="3">(7)</text>
+<text top="719" left="150" width="72" height="18" font="3">a. roll &lt;</text>
+<text top="712" left="222" width="15" height="26" font="13"> θ</text>
+<text top="721" left="237" width="7" height="18" font="14">1</text>
+<text top="712" left="244" width="20" height="26" font="13">, θ</text>
+<text top="721" left="264" width="7" height="18" font="14">2</text>
+<text top="719" left="270" width="11" height="18" font="3">&gt;</text>
+<text top="719" left="376" width="171" height="18" font="3">Lucie rolled the stone</text>
+<text top="742" left="150" width="281" height="18" font="3">b. Reduction of internal argument:</text>
+<text top="766" left="179" width="70" height="18" font="3">R (roll) (</text>
+<text top="760" left="249" width="11" height="26" font="13">θ</text>
+<text top="769" left="259" width="7" height="18" font="14">1</text>
+<text top="766" left="266" width="7" height="18" font="3">)</text>
+<text top="766" left="376" width="284" height="18" font="3">Lucie rolled (in order to impress us)</text>
+<text top="790" left="150" width="285" height="18" font="3">c. Reduction of external argument:</text>
+<text top="815" left="179" width="13" height="18" font="3">R</text>
+<text top="822" left="192" width="4" height="12" font="9">i</text>
+<text top="815" left="196" width="57" height="18" font="3"> (roll) (</text>
+<text top="808" left="252" width="11" height="26" font="13">θ</text>
+<text top="818" left="262" width="7" height="18" font="14">2</text>
+<text top="815" left="269" width="7" height="18" font="3">)</text>
+<text top="815" left="376" width="411" height="18" font="3">The stone rolled (= a property of the stone caused</text>
+<text top="838" left="376" width="129" height="18" font="3">the stone to roll)</text>
+<text top="885" left="106" width="681" height="18" font="3">Reinhart does not specify the nature of the underlying ‘complex’ abstract verb to</text>
+<text top="908" left="106" width="681" height="18" font="3">which reduction of the external argument must apply. A possibility, however, comes</text>
+<text top="931" left="106" width="460" height="18" font="3">from Pesetsky’s work on Cascade syntax (Pesetsky 1995).</text>
+<text top="954" left="121" width="665" height="18" font="3">To simplify, Pesetsky suggests that there is an abstract morpheme, CAUS, which is</text>
+<text top="978" left="106" width="681" height="18" font="3">affixed onto certain classes of verb in the lexicon. In common with some other kinds</text>
+<text top="1001" left="106" width="681" height="18" font="3">of affixation (such as, under certain circumstances, nominalisation and</text>
+<text top="1024" left="106" width="681" height="18" font="3">adjectivisation), Pesetsky claims that the attachment of the CAUS affix to a transitive</text>
+<text top="1048" left="106" width="681" height="18" font="3">serves the function of suppressing the external argument of the verb. This accounts</text>
+<text top="1071" left="106" width="681" height="18" font="3">for the often observed fact that unaccusatives cannot generally be passivised (see (8) -</text>
+<text top="1094" left="106" width="45" height="18" font="3">(11)):</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="641" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="769" width="17" height="16" font="1">13</text>
+<text top="155" left="106" width="23" height="18" font="3">(8)</text>
+<text top="155" left="150" width="334" height="18" font="3">a. The train disappeared over the horizon</text>
+<text top="178" left="150" width="417" height="18" font="3">b. *The horizon was disappeared over (by the train)</text>
+<text top="225" left="106" width="23" height="18" font="3">(9)</text>
+<text top="225" left="150" width="286" height="18" font="3">a. The shrub wilted in the poor soil</text>
+<text top="248" left="150" width="369" height="18" font="3">b. *The poor soil was wilted in (by the shrub)</text>
+<text top="295" left="106" width="420" height="18" font="3">(10) a. The students arrived in the examination hall</text>
+<text top="318" left="150" width="459" height="18" font="3">b. *The examination hall was arrived in (by the students)</text>
+<text top="365" left="106" width="485" height="18" font="3">(11) a. John trembled under the stern gaze of the magistrate</text>
+<text top="388" left="150" width="531" height="18" font="3">b. *The stern gaze of the magistrate was trembled under (by John)</text>
+<text top="435" left="106" width="681" height="18" font="3">The external argument of an unaccusative has already been absorbed by affixation of</text>
+<text top="458" left="106" width="681" height="18" font="3">some abstract morpheme, leaving no Agent role to be assigned to the passive</text>
+<text top="481" left="106" width="681" height="18" font="3">morphology. According to Pesetsky, this would lead to a violation of the theta</text>
+<text top="504" left="106" width="416" height="18" font="3">criterion, because effectively the passive morpheme </text>
+<text top="504" left="522" width="13" height="18" font="2"><i>is</i></text>
+<text top="504" left="535" width="252" height="18" font="3"> an argument, so must receive a</text>
+<text top="528" left="106" width="78" height="18" font="3">theta role.</text>
+<text top="551" left="121" width="665" height="18" font="3">Pesetsky assumes that the features of the CAUS morpheme can be strong or weak,</text>
+<text top="574" left="106" width="681" height="18" font="3">which implies that CAUS is a functional category. This suggests that an abstractly</text>
+<text top="598" left="106" width="552" height="18" font="3">CAUS-affixed verb would be represented as a kind of functional head</text>
+<text top="593" left="658" width="7" height="12" font="9">7</text>
+<text top="598" left="665" width="6" height="18" font="3">:</text>
+<text top="644" left="106" width="33" height="18" font="3">(12)</text>
+<text top="644" left="257" width="83" height="18" font="3">CAUS+ V</text>
+<text top="651" left="340" width="31" height="12" font="9">unacc</text>
+<text top="691" left="214" width="53" height="18" font="3">CAUS</text>
+<text top="691" left="322" width="15" height="18" font="3">V</text>
+<text top="698" left="336" width="31" height="12" font="9">unacc</text>
+<text top="737" left="106" width="681" height="18" font="3">Underlyingly, then, it could be assumed that an unaccusative has a structural</text>
+<text top="760" left="106" width="681" height="18" font="3">representation which is the same as that for a transitive verb, with positions for</text>
+<text top="784" left="106" width="322" height="18" font="3">internal and external arguments. But V</text>
+<text top="791" left="428" width="31" height="12" font="9">unacc</text>
+<text top="784" left="458" width="329" height="18" font="3"> has some ‘diacritic’ associated with its</text>
+<text top="807" left="106" width="442" height="18" font="3">lexical entry, which means it must be affixed to CAUS</text>
+<text top="803" left="548" width="7" height="12" font="9">8</text>
+<text top="807" left="554" width="232" height="18" font="3"> before entering the syntactic</text>
+<text top="831" left="106" width="85" height="18" font="3">derivation.</text>
+<text top="854" left="121" width="665" height="18" font="3">The nature of the ‘diacritic’ for triggering affixation of an abstract functional</text>
+<text top="877" left="106" width="681" height="18" font="3">morpheme is not clear, and I will not discuss it much here. However, to speculate,</text>
+<text top="918" left="106" width="217" height="18" font="3">                                           </text>
+<text top="937" left="122" width="6" height="10" font="7">7</text>
+<text top="941" left="127" width="659" height="16" font="1"> Pesetsky assumes that there are two varieties of CAUS, one which is affixal in nature and one</text>
+<text top="961" left="106" width="681" height="16" font="1">which is prepositional. I am concerned with the former here, since that is the one assumed to be</text>
+<text top="980" left="106" width="485" height="16" font="1">affixed to the verb in the lexicon. Although Pesetsky implies that CAUS</text>
+<text top="987" left="591" width="20" height="10" font="7">affix</text>
+<text top="980" left="611" width="176" height="16" font="1"> is functional in nature, he</text>
+<text top="1000" left="106" width="681" height="16" font="1">does not specify exactly what kind of functional head it is. However, I do not think that this unclarity</text>
+<text top="1020" left="106" width="316" height="16" font="1">causes any problems for the present discussion.</text>
+<text top="1056" left="122" width="6" height="10" font="7">8</text>
+<text top="1060" left="127" width="659" height="16" font="1"> It should be clear that little rests on the assumption that it really is the CAUS morpheme which is</text>
+<text top="1079" left="106" width="479" height="16" font="1">affixed to the unaccusative verb in the lexicon. The suggestion is that </text>
+<text top="1079" left="585" width="40" height="16" font="0"><i>some </i></text>
+<text top="1079" left="625" width="162" height="16" font="1">abstract functional head</text>
+<text top="1099" left="106" width="681" height="16" font="1">undergoes this lexical attachment, and that this is what triggers an unaccusative syntactic</text>
+<text top="1119" left="106" width="420" height="16" font="1">representation. CAUS is simply the best candidate (at present).</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="106" width="17" height="16" font="1">14</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="132" left="106" width="681" height="18" font="3">perhaps the ‘diacritic’ is the source of the semantic similarities often observed</text>
+<text top="155" left="106" width="681" height="18" font="3">between the various classes of unaccusative verbs (e.g. predicates of existing and</text>
+<text top="178" left="106" width="681" height="18" font="3">happening, non-voluntary emission of stimuli that impinge on the senses, etc -</text>
+<text top="202" left="106" width="681" height="18" font="3">Perlmutter 1978). It may be that the trigger for unaccusativity via affixation of a</text>
+<text top="225" left="106" width="681" height="18" font="3">functional morpheme to suppress the external argument is in fact some semantic</text>
+<text top="248" left="106" width="681" height="18" font="3">feature. It is possible that the precise semantic feature responsible could vary</text>
+<text top="271" left="106" width="681" height="18" font="3">crosslinguistically; for instance, Sorace (1995:160) suggests that unaccusative syntax</text>
+<text top="295" left="106" width="681" height="18" font="3">could be triggered by stativity in Italian, telicity in Dutch, change leading to a new</text>
+<text top="318" left="106" width="681" height="18" font="3">location in French, change leading to a new condition in English, and so on. In a way,</text>
+<text top="341" left="106" width="681" height="18" font="3">this is similar to the Levin and Rappaport Hovav view, that unaccusativity is</text>
+<text top="365" left="106" width="681" height="18" font="3">ultimately semantically determined; perhaps it turns out that this is necessarily the</text>
+<text top="388" left="106" width="410" height="18" font="3">case after all. But it seems clear that unaccusativity </text>
+<text top="388" left="516" width="18" height="18" font="2"><i>is </i></text>
+<text top="388" left="534" width="253" height="18" font="3">syntactically realised, and is the</text>
+<text top="411" left="106" width="681" height="18" font="3">result of some syntactic process which occurs at a pre-Selection level. Whether some</text>
+<text top="435" left="106" width="681" height="18" font="3">semantic feature triggers unaccusative syntax, or whether certain kinds of</text>
+<text top="458" left="106" width="681" height="18" font="3">interpretation are made possible by the structural interaction between semantics and</text>
+<text top="481" left="106" width="609" height="18" font="3">unaccusativity, a coherent syntactic account of unaccusatives is still required.</text>
+<text top="552" left="106" width="477" height="18" font="6"><b>5 Accounting for MC’s unaccusative verb reading deficit</b></text>
+<text top="598" left="106" width="681" height="18" font="3">Given my earlier comments about MC’s (in)ability to carry out abstract affixation, I</text>
+<text top="621" left="106" width="681" height="18" font="3">would like to pursue the notion that unaccusative syntax is the result of a lexical</text>
+<text top="644" left="106" width="593" height="18" font="3">process of abstract affixation of a functional morpheme to a transitive verb.</text>
+<text top="667" left="121" width="665" height="18" font="3">Lexical affixation of CAUS absorbs the external theta role; this is the process which</text>
+<text top="691" left="106" width="681" height="18" font="3">leads MC to make function word errors when reading unaccusatives, because</text>
+<text top="714" left="106" width="681" height="18" font="3">affixation of V with CAUS is like adjunction of a lexical to a functional head (as</text>
+<text top="737" left="106" width="162" height="18" font="3">illustrated in 13-16):</text>
+<text top="784" left="106" width="58" height="18" font="3">(13) V</text>
+<text top="791" left="164" width="31" height="12" font="9">unacc</text>
+<text top="784" left="376" width="272" height="18" font="3">(underlying lexical representation)</text>
+<text top="807" left="150" width="584" height="18" font="3">Argument structure: [1, 2]  (external and internal arguments selected for)</text>
+<text top="854" left="106" width="33" height="18" font="3">(14)</text>
+<text top="854" left="214" width="25" height="18" font="3">VP</text>
+<text top="897" left="121" width="68" height="18" font="3">external </text>
+<text top="897" left="268" width="19" height="18" font="3">V </text>
+<text top="892" left="287" width="3" height="12" font="9">|</text>
+<text top="920" left="121" width="74" height="18" font="3">argument</text>
+<text top="943" left="214" width="15" height="18" font="3">V</text>
+<text top="943" left="268" width="140" height="18" font="3">internal argument</text>
+<text top="990" left="106" width="132" height="18" font="3">(15) CAUS + V</text>
+<text top="997" left="238" width="31" height="12" font="9">unacc</text>
+<text top="990" left="376" width="307" height="18" font="3">(following lexical affixation of CAUS)</text>
+<text top="1015" left="150" width="192" height="18" font="3">Argument structure: [2] </text>
+<text top="1015" left="376" width="394" height="18" font="3">(internal argument only is selected for; external </text>
+<text top="1008" left="770" width="11" height="26" font="13">θ</text>
+<text top="1015" left="780" width="7" height="18" font="3">-</text>
+<text top="1038" left="376" width="371" height="18" font="3">role has been absorbed by affixation of CAUS)</text>
+<text top="1085" left="106" width="33" height="18" font="3">(16)</text>
+<text top="1085" left="214" width="90" height="18" font="3">CAUS+VP</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="641" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="769" width="17" height="16" font="1">15</text>
+<text top="133" left="150" width="79" height="18" font="3">CAUS+V</text>
+<text top="133" left="257" width="140" height="18" font="3">internal argument</text>
+<text top="133" left="450" width="75" height="18" font="3">(external </text>
+<text top="127" left="525" width="11" height="26" font="13">θ</text>
+<text top="133" left="535" width="120" height="18" font="3">-role absorbed)</text>
+<text top="180" left="106" width="474" height="18" font="3">I assume that, when it enters the derivation, CAUS + VP</text>
+<text top="187" left="580" width="6" height="12" font="9"> </text>
+<text top="180" left="586" width="201" height="18" font="3">has no specifier position</text>
+<text top="203" left="106" width="681" height="18" font="3">because neither Case nor a theta role are to be assigned in spec,VP. The derived</text>
+<text top="226" left="106" width="681" height="18" font="3">subject (if there is one; recall that we are considering the syntax of single words here)</text>
+<text top="250" left="106" width="681" height="18" font="3">would be Merged as the complement of CAUS+V, and would then move to Spec,IP</text>
+<text top="273" left="106" width="221" height="18" font="3">to check (nominative) Case.</text>
+<text top="296" left="121" width="665" height="18" font="3">As suggested above, MC is not able to carry out abstract affixation in the syntactic</text>
+<text top="320" left="106" width="681" height="18" font="3">computation. This inability would appear to dissociate, given current assumptions,</text>
+<text top="343" left="106" width="681" height="18" font="3">from a retained ability to carry out such affixation in the lexicon, prior to Select. This</text>
+<text top="366" left="106" width="681" height="18" font="3">is consistent with the notion that MC’s lexical representations and processes are</text>
+<text top="390" left="106" width="681" height="18" font="3">intact. So MC is able to attach the CAUS morpheme to a transitive verb in the</text>
+<text top="413" left="106" width="681" height="18" font="3">lexicon, permitting him to identify unaccusativity. The problem is that, when such</text>
+<text top="436" left="106" width="681" height="18" font="3">affixation is carried out in MC’s lexicon, the category he is trying to access is now</text>
+<text top="459" left="106" width="681" height="18" font="3">marked as functional because of the presence of the CAUS morpheme. This is what</text>
+<text top="483" left="106" width="681" height="18" font="3">leads to his function word errors on unaccusatives: successful application of abstract</text>
+<text top="506" left="106" width="402" height="18" font="3">affixation of a functional morpheme in the lexicon.</text>
+<text top="529" left="121" width="665" height="18" font="3">Some problems remain: notably, the fact that MC is very often able to read</text>
+<text top="553" left="106" width="681" height="18" font="3">unaccusative verbs correctly. This is straightforwardly accounted for in the case of</text>
+<text top="576" left="106" width="681" height="18" font="3">unaccusatives with a transitive alternation; the lexical affixation process does not have</text>
+<text top="599" left="106" width="681" height="18" font="3">to happen when the verbs are read in isolation, so that the structure projected can</text>
+<text top="622" left="106" width="681" height="18" font="3">either be the functional one which incorporates the CAUS morpheme (the</text>
+<text top="646" left="106" width="681" height="18" font="3">unaccusative alternate) or a straightforward extended projection with a lexical head</text>
+<text top="669" left="106" width="681" height="18" font="3">(the transitive alternate). If affixation is applied, MC makes a function word error; if</text>
+<text top="692" left="106" width="681" height="18" font="3">not (as happens about 80% of the time), he reads the verb correctly. If no transitive</text>
+<text top="715" left="106" width="681" height="18" font="3">alternation is available, however, it is not clear how MC is able to read any of the</text>
+<text top="739" left="106" width="681" height="18" font="3">verbs correctly; yet he did so, on this test, approximately two thirds of the time.</text>
+<text top="762" left="106" width="681" height="18" font="3">Sometimes MC is able to substitute a related nominal or adjectival form for the target</text>
+<text top="785" left="106" width="681" height="18" font="3">word, which would get him around the problem (he did this on the unambiguous</text>
+<text top="809" left="106" width="267" height="18" font="3">unaccusatives 14.6% of the time).</text>
+<text top="832" left="121" width="665" height="18" font="3">The fact that MC is correct on any unaccusatives at all seems to work against</text>
+<text top="855" left="106" width="681" height="18" font="3">Reinhart’s suggestion that unaccusatives with no transitive alternation are lexically</text>
+<text top="878" left="106" width="681" height="18" font="3">generated as ‘frozen’ in the unaccusative state (for Reinhart, this is with a reduction</text>
+<text top="902" left="106" width="681" height="18" font="3">operation already applied to the external argument). I would suggest that</text>
+<text top="925" left="106" width="681" height="18" font="3">unaccusatives, at least for MC and perhaps for everyone, are in fact stored as</text>
+<text top="948" left="106" width="681" height="18" font="3">transitives in the lexicon, even when no transitive alternation is available in a</text>
+<text top="972" left="106" width="681" height="18" font="3">language. Unaccusative syntax is triggered by lexical affixation of some functional</text>
+<text top="995" left="106" width="681" height="18" font="3">morpheme, perhaps analogous to Pesetsky’s CAUS, which absorbs the external theta</text>
+<text top="1018" left="106" width="681" height="18" font="3">role of the transitive.  MC is able to read correctly only those instances of</text>
+<text top="1042" left="106" width="681" height="18" font="3">unaccusative verbs to which lexical affixation of the functional morpheme has not</text>
+<text top="1065" left="106" width="100" height="18" font="3">been applied</text>
+<text top="1060" left="206" width="7" height="12" font="9">9</text>
+<text top="1065" left="213" width="5" height="18" font="3">.</text>
+<text top="1097" left="106" width="217" height="18" font="3">                                           </text>
+<text top="1116" left="122" width="6" height="10" font="7">9</text>
+<text top="1119" left="127" width="659" height="16" font="1"> This leaves open the question as to what determines the (un)availability of a transitive /</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="106" width="17" height="16" font="1">16</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="179" left="106" width="209" height="18" font="6"><b>6 Concluding Comments</b></text>
+<text top="225" left="106" width="681" height="18" font="3">My goal in this paper was to account for the observed verb reading deficit of an</text>
+<text top="248" left="106" width="681" height="18" font="3">aphasic patient within the context of what we already understand of his disorder. I</text>
+<text top="271" left="106" width="681" height="18" font="3">have discussed how his difficulties in reading function words led to a syntactic</text>
+<text top="295" left="106" width="681" height="18" font="3">account of the deficit, and the similarity in errors on function word reading and</text>
+<text top="318" left="106" width="681" height="18" font="3">unaccusative verb reading tasks suggested that a unitary approach to both effects was</text>
+<text top="341" left="106" width="681" height="18" font="3">called for. By making use of various assumptions about the nature of unaccusativity,</text>
+<text top="365" left="106" width="681" height="18" font="3">all of which are independently motivated, I have attempted to show that MC’s</text>
+<text top="388" left="106" width="681" height="18" font="3">disorder can be best accounted for by assuming the syntactic determination of</text>
+<text top="411" left="106" width="681" height="18" font="3">unaccusativity. In this way, syntactic theory has provided an account of a hitherto</text>
+<text top="435" left="106" width="681" height="18" font="3">unexplained deficit, and our patient has provided some evidence in favour of the view</text>
+<text top="458" left="106" width="681" height="18" font="3">that unaccusatives are underlyingly represented as transitives and are subject to</text>
+<text top="481" left="106" width="681" height="18" font="3">certain affixation operations prior to Selection from the lexicon. I hope I have also</text>
+<text top="504" left="106" width="681" height="18" font="3">shown that neuropsychological accounts of acquired language disorders can benefit</text>
+<text top="528" left="106" width="673" height="18" font="3">from the adoption of a well-articulated and independently motivated syntactic theory.</text>
+<text top="621" left="106" width="92" height="18" font="6"><b>References</b></text>
+<text top="667" left="106" width="136" height="16" font="1">Baker, M. (1988) </text>
+<text top="667" left="242" width="426" height="16" font="0"><i>Incorporation: A theory of grammatical function changing</i></text>
+<text top="667" left="669" width="74" height="16" font="1">. Chicago:</text>
+<text top="687" left="122" width="192" height="16" font="1">University of Chicago Press.</text>
+<text top="707" left="106" width="565" height="16" font="1">Beauvois, M.-F. &amp; Dérouesné, J. (1979) Phonological alexia: three dissociations. </text>
+<text top="707" left="671" width="72" height="16" font="0"><i>Journal of</i></text>
+<text top="726" left="122" width="281" height="16" font="0"><i>Neurology, Neurosurgery and Psychiatry </i></text>
+<text top="726" left="402" width="102" height="16" font="1">42, 1115-1124.</text>
+<text top="746" left="106" width="274" height="16" font="1">Caplan, D. &amp; Hildebrandt, N. (1988) </text>
+<text top="746" left="380" width="272" height="16" font="0"><i>Disorders of Syntactic Comprehension</i></text>
+<text top="746" left="652" width="91" height="16" font="1">. Cambridge,</text>
+<text top="766" left="122" width="123" height="16" font="1">Mass.: MIT Press.</text>
+<text top="786" left="106" width="637" height="16" font="1">Chierchia, G. (1989) A semantics for unaccusatives and its syntactic consequences. MS,</text>
+<text top="806" left="122" width="129" height="16" font="1">Cornell University.</text>
+<text top="826" left="106" width="637" height="16" font="1">Chomsky, N. (1993) A Minimalist Program for Linguistic Theory. In K. Hale &amp; S.J. Keyser</text>
+<text top="845" left="122" width="40" height="16" font="1">(eds) </text>
+<text top="845" left="162" width="577" height="16" font="0"><i>The view from Building 20: essays in linguistics in honor of Sylvain Bromberger</i></text>
+<text top="845" left="738" width="4" height="16" font="1">.</text>
+<text top="865" left="122" width="205" height="16" font="1">Cambridge, Mass.: MIT Press.</text>
+<text top="898" left="106" width="680" height="18" font="3">                                                                                                                                       </text>
+<text top="921" left="106" width="681" height="16" font="1">unaccusative alternation for a particular verb. I have no solution to this at present: to speculate, it may</text>
+<text top="941" left="106" width="681" height="16" font="1">be that the presence or absence of a transitive alternation in a language may depend on the relative</text>
+<text top="961" left="106" width="681" height="16" font="1">strength or weakness of the semantic trigger for unaccusativity: for example, it may be that</text>
+<text top="980" left="106" width="681" height="16" font="1">unaccusativity is a graded phenomenon, and the presence of more than one of the semantic features</text>
+<text top="1000" left="106" width="681" height="16" font="1">thought to trigger unaccusative syntax makes it more difficult to override the requirement for the</text>
+<text top="1020" left="106" width="681" height="16" font="1">CAUS (or similar) morpheme to be lexically attached and syntactically realised. This would predict</text>
+<text top="1040" left="106" width="681" height="16" font="1">that MC should make more function word errors on those verbs which are strongly unaccusative (i.e.</text>
+<text top="1060" left="106" width="681" height="16" font="1">have more than one of the relevant semantic features which trigger CAUS attachment), a possibility</text>
+<text top="1079" left="106" width="681" height="16" font="1">which has not yet been systematically considered. For MC, in any case, it could be argued that the</text>
+<text top="1099" left="106" width="681" height="16" font="1">situation is slightly different: overriding the trigger for unaccusative syntax actually saves the</text>
+<text top="1119" left="106" width="665" height="16" font="1">derivation, and makes it possible (some of the time) for him to project a structure and read the verb.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="641" width="103" height="16" font="0"><i>Unaccusativity</i></text>
+<text top="57" left="769" width="17" height="16" font="1">17</text>
+<text top="131" left="106" width="142" height="16" font="1">Chomsky, N. (1995) </text>
+<text top="131" left="248" width="167" height="16" font="0"><i>The Minimalist Program</i></text>
+<text top="131" left="414" width="214" height="16" font="1">. Cambridge, Mass.: MIT Press.</text>
+<text top="151" left="106" width="637" height="16" font="1">Coltheart, M., Besner, D., Jonasson, J.T. &amp; Davelaar, E. (1979) Phonological encoding in the</text>
+<text top="171" left="122" width="143" height="16" font="1">lexical decision task. </text>
+<text top="171" left="265" width="319" height="16" font="0"><i>Quarterly Journal of Experimental Psychology </i></text>
+<text top="171" left="584" width="85" height="16" font="1">31, 489-507.</text>
+<text top="191" left="106" width="637" height="16" font="1">Druks, J. &amp; Froud, K. (submitted) The syntax of single words: evidence from a patient with a</text>
+<text top="211" left="122" width="336" height="16" font="1">selective function word reading deficit. MS, UCL.</text>
+<text top="231" left="106" width="637" height="16" font="1">Druks, J. &amp; Marshall, J.C. (1995) When passives are easier than actives: two case studies of</text>
+<text top="250" left="122" width="194" height="16" font="1">agrammatic comprehension. </text>
+<text top="250" left="315" width="71" height="16" font="0"><i>Cognition </i></text>
+<text top="250" left="386" width="85" height="16" font="1">55, 311-331.</text>
+<text top="270" left="106" width="388" height="16" font="1">Friedman, R.B. (1995) Two types of phonological alexia. </text>
+<text top="270" left="494" width="50" height="16" font="0"><i>Cortex </i></text>
+<text top="270" left="543" width="85" height="16" font="1">31, 397-403.</text>
+<text top="290" left="106" width="637" height="16" font="1">Funnell, E. (1983) Phonological processes in reading: new evidence from acquired dyslexia.</text>
+<text top="310" left="122" width="204" height="16" font="0"><i>British Journal of Psychology </i></text>
+<text top="310" left="325" width="85" height="16" font="1">74, 159-180.</text>
+<text top="330" left="106" width="637" height="16" font="1">Glushko, R.J. (1979) The organisation and activation of orthographic knowledge in reading</text>
+<text top="350" left="122" width="48" height="16" font="1">aloud. </text>
+<text top="350" left="169" width="524" height="16" font="0"><i>Journal of Experimental Psychology: Human Perception and Performance </i></text>
+<text top="350" left="693" width="50" height="16" font="1">5, 674-</text>
+<text top="370" left="122" width="29" height="16" font="1">691.</text>
+<text top="389" left="106" width="273" height="16" font="1">Goodglass, H. &amp; Kaplan, E. (1983) </text>
+<text top="389" left="379" width="360" height="16" font="0"><i>The assessment of aphasia and related disorders</i></text>
+<text top="389" left="738" width="4" height="16" font="1">.</text>
+<text top="409" left="122" width="205" height="16" font="1">Philadelphia: Lea and Febiger.</text>
+<text top="429" left="106" width="142" height="16" font="1">Grimshaw, J. (1990) </text>
+<text top="429" left="248" width="133" height="16" font="0"><i>Argument Structure</i></text>
+<text top="429" left="380" width="214" height="16" font="1">. Cambridge, Mass.: MIT Press.</text>
+<text top="449" left="106" width="463" height="16" font="1">Grimshaw, J. (1991) Extended Projections. MS, Brandeis University.</text>
+<text top="469" left="106" width="166" height="16" font="1">Grodzinsky, Y. (1990) </text>
+<text top="469" left="272" width="328" height="16" font="0"><i>Theoretical Perspectives on Language Deficits</i></text>
+<text top="469" left="600" width="143" height="16" font="1">. Cambridge, Mass.:</text>
+<text top="488" left="122" width="74" height="16" font="1">MIT Press.</text>
+<text top="508" left="106" width="637" height="16" font="1">Grodzinsky, Y. &amp; Finkel, L. (1998) The neurology of empty categories: aphasics’ failure to</text>
+<text top="528" left="122" width="170" height="16" font="1">detect ungrammaticality. </text>
+<text top="528" left="292" width="238" height="16" font="0"><i>Journal of Cognitive Neuroscience </i></text>
+<text top="528" left="529" width="126" height="16" font="1">10, No.2, 281-292.</text>
+<text top="548" left="106" width="637" height="16" font="1">Hale, K. &amp; Keyser, S.J. (1993) On argument structure and the lexical expression of syntactic</text>
+<text top="568" left="122" width="278" height="16" font="1">relations. In K. Hale &amp; S.J. Keyser (eds) </text>
+<text top="568" left="399" width="344" height="16" font="0"><i>The view from Building 20: essays in linguistics in</i></text>
+<text top="588" left="122" width="196" height="16" font="0"><i>honor of Sylvain Bromberger</i></text>
+<text top="588" left="318" width="214" height="16" font="1">. Cambridge, Mass.: MIT Press.</text>
+<text top="608" left="106" width="637" height="16" font="1">Howard, D. (1991) Letter-by-letter reading: evidence for parallel processing. In D. Besner &amp;</text>
+<text top="627" left="122" width="162" height="16" font="1">G.W. Humphreys (eds) </text>
+<text top="627" left="283" width="360" height="16" font="0"><i>Basic Processes in Reading: Visual word recognition</i></text>
+<text top="627" left="642" width="101" height="16" font="1">. Hillsdale, NJ:</text>
+<text top="647" left="122" width="215" height="16" font="1">Lawrence Earlbaum Associates.</text>
+<text top="667" left="106" width="308" height="16" font="1">Levin, B. &amp; Rappaport Hovav, M. (1995) </text>
+<text top="667" left="414" width="329" height="16" font="0"><i>Unaccusativity: at the syntax-lexical semantics</i></text>
+<text top="687" left="122" width="59" height="16" font="0"><i>interface</i></text>
+<text top="687" left="181" width="214" height="16" font="1">. Cambridge, Mass.: MIT Press.</text>
+<text top="707" left="106" width="547" height="16" font="1">Ouhalla, J. (1993) Functional categories, agrammatism and language acquisition. </text>
+<text top="707" left="653" width="90" height="16" font="0"><i>Linguistische</i></text>
+<text top="726" left="122" width="61" height="16" font="0"><i>Berichte </i></text>
+<text top="726" left="182" width="224" height="16" font="1">143/1993, Westdeutscher Verlag.</text>
+<text top="746" left="106" width="349" height="16" font="1">Parkin, A.J. (1984) Redefining the regularity effect. </text>
+<text top="746" left="455" width="161" height="16" font="0"><i>Memory and Cognition </i></text>
+<text top="746" left="616" width="85" height="16" font="1">12, 287-292.</text>
+<text top="766" left="106" width="637" height="16" font="1">Patterson, K.E. (1982) The relation between reading and phonological coding: further</text>
+<text top="786" left="122" width="359" height="16" font="1">neuropsychological observations. In A.E. Ellis (ed) </text>
+<text top="786" left="481" width="262" height="16" font="0"><i>Normality and Pathology in cognitive</i></text>
+<text top="806" left="122" width="76" height="16" font="0"><i>functioning</i></text>
+<text top="806" left="198" width="181" height="16" font="1">. London: Academic Press.</text>
+<text top="826" left="106" width="552" height="16" font="1">Perlmutter, D. (1978) Impersonal Passives and the Unaccusative Hypothesis. In </text>
+<text top="826" left="658" width="85" height="16" font="0"><i>Papers from</i></text>
+<text top="845" left="122" width="410" height="16" font="0"><i>the Fifth Annual Meeting of the Berkeley Linguistic Society</i></text>
+<text top="845" left="531" width="212" height="16" font="1">, 157-189. Berkeley Linguistic</text>
+<text top="865" left="122" width="291" height="16" font="1">Society, University of California, Berkeley.</text>
+<text top="885" left="106" width="136" height="16" font="1">Pesetsky, D. (1995) </text>
+<text top="885" left="242" width="276" height="16" font="0"><i>Zero Syntax: Experiencers and Cascades</i></text>
+<text top="885" left="518" width="214" height="16" font="1">. Cambridge, Mass.: MIT Press.</text>
+<text top="905" left="106" width="637" height="16" font="1">Reinhart, T. (1997) Syntactic effects of lexical operations: reflexives and unaccusatives. In</text>
+<text top="925" left="122" width="276" height="16" font="0"><i>OTS Working Papers in Linguistics 1997</i></text>
+<text top="925" left="397" width="155" height="16" font="1">, University of Utrecht.</text>
+<text top="945" left="106" width="637" height="16" font="1">Rosen, C. (1984) The interface between semantic roles and initial grammatical relations. In D.</text>
+<text top="965" left="122" width="197" height="16" font="1">Perlmutter &amp; C. Rosen (eds) </text>
+<text top="965" left="318" width="280" height="16" font="0"><i>Studies in Relational Grammar Volume 2</i></text>
+<text top="965" left="598" width="145" height="16" font="1">. Chicago: University</text>
+<text top="984" left="122" width="117" height="16" font="1">of Chicago Press.</text>
+<text top="1004" left="106" width="637" height="16" font="1">Sorace, A. (1995) Acquiring Linking rules and argument structures in a second language: the</text>
+<text top="1024" left="122" width="621" height="16" font="1">unaccusative / unergative distinction. In L. Eubank, L. Selinker &amp; M Sharwood Smith (eds)</text>
+<text top="1044" left="122" width="528" height="16" font="0"><i>The current state of Interlanguage: studies in honour of William Rutherford</i></text>
+<text top="1044" left="649" width="94" height="16" font="1">. Amsterdam:</text>
+<text top="1064" left="122" width="257" height="16" font="1">John Benjamins Publishing Company.</text>
+<text top="1083" left="106" width="580" height="16" font="1">Van Riemsdijk, H. (1990) Functional prepositions. In H. Pinkster &amp; I. Genee (eds) </text>
+<text top="1083" left="686" width="57" height="16" font="0"><i>Unity in</i></text>
+<text top="1103" left="122" width="297" height="16" font="0"><i>Diversity: papers presented to Simon C. Dik</i></text>
+<text top="1103" left="418" width="123" height="16" font="1">. Dordrecht: Foris.</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="106" width="17" height="16" font="1">18</text>
+<text top="57" left="163" width="43" height="16" font="0"><i>Froud</i></text>
+<text top="131" left="106" width="450" height="16" font="1">Van Valin, R.D. (1990) Semantic parameters of split intransitivity. </text>
+<text top="131" left="555" width="72" height="16" font="0"><i>Language </i></text>
+<text top="131" left="627" width="86" height="16" font="1">66, 221-260.</text>
+<text top="222" left="106" width="82" height="18" font="6"><b>Appendix</b></text>
+<text top="246" left="106" width="142" height="18" font="6"><b>Verb reading list</b></text>
+<text top="291" left="106" width="101" height="16" font="10"><b>Unaccusatives</b></text>
+<text top="311" left="106" width="28" height="16" font="10"><b>(25)</b></text>
+<text top="291" left="244" width="81" height="16" font="10"><b>ambiguous</b></text>
+<text top="311" left="244" width="104" height="16" font="10"><b>unaccusative /</b></text>
+<text top="331" left="244" width="109" height="16" font="10"><b>transitives (50)</b></text>
+<text top="291" left="519" width="91" height="16" font="10"><b>intransitives</b></text>
+<text top="311" left="519" width="29" height="16" font="10"><b>(25)</b></text>
+<text top="291" left="657" width="121" height="16" font="10"><b>low imageability</b></text>
+<text top="311" left="657" width="113" height="16" font="10"><b>/ low frequency</b></text>
+<text top="331" left="657" width="109" height="16" font="10"><b>transitives (25)</b></text>
+<text top="370" left="106" width="52" height="16" font="1">tremble</text>
+<text top="390" left="106" width="43" height="16" font="1">depart</text>
+<text top="410" left="106" width="42" height="16" font="1">perish</text>
+<text top="430" left="106" width="32" height="16" font="1">exist</text>
+<text top="449" left="106" width="49" height="16" font="1">happen</text>
+<text top="470" left="106" width="60" height="16" font="1">transpire</text>
+<text top="489" left="106" width="38" height="16" font="1">occur</text>
+<text top="509" left="106" width="45" height="16" font="1">vanish</text>
+<text top="529" left="106" width="39" height="16" font="1">ensue</text>
+<text top="549" left="106" width="32" height="16" font="1">arise</text>
+<text top="569" left="106" width="46" height="16" font="1">glisten</text>
+<text top="588" left="106" width="48" height="16" font="1">remain</text>
+<text top="608" left="106" width="40" height="16" font="1">arrive</text>
+<text top="628" left="106" width="27" height="16" font="1">wilt</text>
+<text top="648" left="106" width="40" height="16" font="1">thrive</text>
+<text top="668" left="106" width="50" height="16" font="1">emerge</text>
+<text top="688" left="106" width="26" height="16" font="1">live</text>
+<text top="708" left="106" width="40" height="16" font="1">linger</text>
+<text top="727" left="106" width="47" height="16" font="1">prevail</text>
+<text top="747" left="106" width="45" height="16" font="1">persist</text>
+<text top="767" left="106" width="25" height="16" font="1">rise</text>
+<text top="787" left="106" width="77" height="16" font="1">reverberate</text>
+<text top="807" left="106" width="73" height="16" font="1">deteriorate</text>
+<text top="826" left="106" width="21" height="16" font="1">die</text>
+<text top="846" left="106" width="37" height="16" font="1">blush</text>
+<text top="370" left="244" width="41" height="16" font="1">return</text>
+<text top="390" left="244" width="34" height="16" font="1">enter</text>
+<text top="410" left="244" width="52" height="16" font="1">recover</text>
+<text top="430" left="244" width="38" height="16" font="1">know</text>
+<text top="449" left="244" width="17" height="16" font="1">go</text>
+<text top="470" left="244" width="37" height="16" font="1">come</text>
+<text top="489" left="244" width="37" height="16" font="1">cease</text>
+<text top="509" left="244" width="67" height="16" font="1">evaporate</text>
+<text top="529" left="244" width="38" height="16" font="1">begin</text>
+<text top="549" left="244" width="29" height="16" font="1">soar</text>
+<text top="569" left="244" width="30" height="16" font="1">alter</text>
+<text top="588" left="244" width="49" height="16" font="1">expand</text>
+<text top="608" left="244" width="33" height="16" font="1">hang</text>
+<text top="628" left="244" width="29" height="16" font="1">fade</text>
+<text top="648" left="244" width="46" height="16" font="1">dangle</text>
+<text top="668" left="244" width="35" height="16" font="1">grow</text>
+<text top="688" left="244" width="39" height="16" font="1">shake</text>
+<text top="708" left="244" width="30" height="16" font="1">melt</text>
+<text top="727" left="244" width="28" height="16" font="1">heal</text>
+<text top="747" left="244" width="58" height="16" font="1">vaporise</text>
+<text top="767" left="244" width="41" height="16" font="1">choke</text>
+<text top="787" left="244" width="30" height="16" font="1">split</text>
+<text top="807" left="244" width="46" height="16" font="1">stretch</text>
+<text top="826" left="244" width="63" height="16" font="1">suffocate</text>
+<text top="846" left="244" width="50" height="16" font="1">survive</text>
+<text top="370" left="382" width="45" height="16" font="1">scatter</text>
+<text top="390" left="382" width="46" height="16" font="1">shatter</text>
+<text top="410" left="382" width="35" height="16" font="1">burst</text>
+<text top="430" left="382" width="56" height="16" font="1">advance</text>
+<text top="449" left="382" width="54" height="16" font="1">explode</text>
+<text top="470" left="382" width="56" height="16" font="1">crumple</text>
+<text top="489" left="382" width="57" height="16" font="1">improve</text>
+<text top="509" left="382" width="50" height="16" font="1">rupture</text>
+<text top="529" left="382" width="24" height="16" font="1">roll</text>
+<text top="549" left="382" width="49" height="16" font="1">bounce</text>
+<text top="569" left="382" width="59" height="16" font="1">continue</text>
+<text top="588" left="382" width="56" height="16" font="1">increase</text>
+<text top="608" left="382" width="42" height="16" font="1">freeze</text>
+<text top="628" left="382" width="78" height="16" font="1">accumulate</text>
+<text top="648" left="382" width="43" height="16" font="1">gather</text>
+<text top="668" left="382" width="54" height="16" font="1">develop</text>
+<text top="688" left="382" width="49" height="16" font="1">resolve</text>
+<text top="708" left="382" width="36" height="16" font="1">settle</text>
+<text top="727" left="382" width="45" height="16" font="1">spread</text>
+<text top="747" left="382" width="33" height="16" font="1">bend</text>
+<text top="767" left="382" width="38" height="16" font="1">blend</text>
+<text top="787" left="382" width="44" height="16" font="1">drown</text>
+<text top="807" left="382" width="26" height="16" font="1">boil</text>
+<text top="826" left="382" width="56" height="16" font="1">collapse</text>
+<text top="846" left="382" width="58" height="16" font="1">diminish</text>
+<text top="370" left="519" width="37" height="16" font="1">kneel</text>
+<text top="390" left="519" width="30" height="16" font="1">pray</text>
+<text top="410" left="519" width="52" height="16" font="1">pretend</text>
+<text top="430" left="519" width="52" height="16" font="1">hesitate</text>
+<text top="449" left="519" width="59" height="16" font="1">meditate</text>
+<text top="470" left="519" width="37" height="16" font="1">agree</text>
+<text top="489" left="519" width="80" height="16" font="1">confabulate</text>
+<text top="509" left="519" width="64" height="16" font="1">genuflect</text>
+<text top="529" left="519" width="29" height="16" font="1">pant</text>
+<text top="549" left="519" width="53" height="16" font="1">agonize</text>
+<text top="569" left="519" width="43" height="16" font="1">cringe</text>
+<text top="588" left="519" width="50" height="16" font="1">breathe</text>
+<text top="608" left="519" width="42" height="16" font="1">cower</text>
+<text top="628" left="519" width="29" height="16" font="1">dine</text>
+<text top="648" left="519" width="64" height="16" font="1">complain</text>
+<text top="668" left="519" width="45" height="16" font="1">decide</text>
+<text top="688" left="519" width="36" height="16" font="1">loiter</text>
+<text top="708" left="519" width="75" height="16" font="1">convalesce</text>
+<text top="727" left="519" width="88" height="16" font="1">commiserate</text>
+<text top="747" left="519" width="47" height="16" font="1">concur</text>
+<text top="767" left="519" width="36" height="16" font="1">excel</text>
+<text top="787" left="519" width="44" height="16" font="1">forage</text>
+<text top="807" left="519" width="54" height="16" font="1">proceed</text>
+<text top="826" left="519" width="50" height="16" font="1">wallow</text>
+<text top="846" left="519" width="75" height="16" font="1">congregate</text>
+<text top="370" left="657" width="38" height="16" font="1">entail</text>
+<text top="390" left="657" width="60" height="16" font="1">bewilder</text>
+<text top="410" left="657" width="52" height="16" font="1">confute</text>
+<text top="430" left="657" width="52" height="16" font="1">commit</text>
+<text top="449" left="657" width="54" height="16" font="1">appease</text>
+<text top="470" left="657" width="38" height="16" font="1">daunt</text>
+<text top="489" left="657" width="40" height="16" font="1">verify</text>
+<text top="509" left="657" width="33" height="16" font="1">exalt</text>
+<text top="529" left="657" width="52" height="16" font="1">censure</text>
+<text top="549" left="657" width="46" height="16" font="1">pledge</text>
+<text top="569" left="657" width="43" height="16" font="1">derive</text>
+<text top="588" left="657" width="84" height="16" font="1">contemplate</text>
+<text top="608" left="657" width="47" height="16" font="1">hallow</text>
+<text top="628" left="657" width="66" height="16" font="1">extenuate</text>
+<text top="648" left="657" width="56" height="16" font="1">enhance</text>
+<text top="668" left="657" width="43" height="16" font="1">justify</text>
+<text top="688" left="657" width="70" height="16" font="1">symbolise</text>
+<text top="708" left="657" width="58" height="16" font="1">alleviate</text>
+<text top="727" left="657" width="49" height="16" font="1">declare</text>
+<text top="747" left="657" width="71" height="16" font="1">adjudicate</text>
+<text top="767" left="657" width="55" height="16" font="1">worship</text>
+<text top="787" left="657" width="63" height="16" font="1">represent</text>
+<text top="807" left="657" width="38" height="16" font="1">attain</text>
+<text top="826" left="657" width="50" height="16" font="1">beguile</text>
+<text top="846" left="657" width="51" height="16" font="1">engross</text>
+</page>
+</pdf2xml>

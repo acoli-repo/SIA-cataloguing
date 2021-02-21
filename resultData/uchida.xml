@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="17" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="21" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+<text top="1028" left="123" width="6" height="11" font="0">*</text>
+<text top="1032" left="129" width="681" height="16" font="1">I am very grateful to Deirdre Wilson, Robyn Carston and Dan Sperber, who read an earlier version</text>
+<text top="1044" left="108" width="500" height="16" font="1">and gave me not only insightful comments but also stylistic suggestions.</text>
+<text top="133" left="108" width="367" height="18" font="2"><i>UCL Working Papers in Linguistics</i> 9 (1997)</text>
+<text top="185" left="108" width="597" height="32" font="4"><i><b>Immediate contexts and reported speech</b></i></text>
+<text top="181" left="705" width="11" height="19" font="5"><i><b>*</b></i></text>
+<text top="270" left="108" width="130" height="18" font="3">SEIJI UCHIDA</text>
+<text top="368" left="143" width="76" height="18" font="6"><b>Abstract</b></text>
+<text top="414" left="143" width="631" height="16" font="1">'Context' and 'reported speech' are both ordinary language expressions, and important terms</text>
+<text top="434" left="143" width="631" height="16" font="1">in a theory of verbal communication. In this paper I will argue that a relevance-theoretic</text>
+<text top="455" left="143" width="631" height="16" font="1">treatment of 'context' and the concept of 'immediate context' are useful tools for the analysis</text>
+<text top="475" left="143" width="632" height="16" font="1">of deictic phenomena and reported speech. I will also show that though reported speech in</text>
+<text top="495" left="143" width="632" height="16" font="1">conversation looks quite different from that in fiction, they can be explained by a single</text>
+<text top="516" left="143" width="405" height="16" font="1">pragmatic principle, differing only in the way it is applied.</text>
+<text top="582" left="108" width="126" height="18" font="6"><b>1 Introduction</b></text>
+<text top="629" left="108" width="702" height="18" font="3">Deixis provides pragmatists with interesting topics, since deictic items must be analysed</text>
+<text top="653" left="108" width="702" height="18" font="3">in terms of contextual information. Context plays a crucial role here, but the concept of</text>
+<text top="677" left="108" width="702" height="18" font="3">context has often been insufficiently analysed. Against the traditional view of context</text>
+<text top="701" left="108" width="261" height="18" font="3">Sperber and Wilson (1986, 1995</text>
+<text top="698" left="369" width="6" height="11" font="0">2</text>
+<text top="701" left="375" width="435" height="18" font="3">) treat context as chosen rather than as pre-determined.</text>
+<text top="725" left="108" width="702" height="18" font="3">In this paper I reject the traditional passive or static view in favor of the more recent</text>
+<text top="749" left="108" width="195" height="18" font="3">active or dynamic view.</text>
+<text top="773" left="123" width="687" height="18" font="3">My main concern is with deixis in reported speech, both in conversation and in fiction.</text>
+<text top="797" left="108" width="703" height="18" font="3">When we compare reports of speech in conversation with those in fiction, we may get</text>
+<text top="820" left="108" width="702" height="18" font="3">the impression that they behave quite differently, but I will argue that they are subject</text>
+<text top="844" left="108" width="702" height="18" font="3">to a single pragmatic principle, namely the Second (or Communicative) Principle of</text>
+<text top="868" left="108" width="506" height="18" font="3">Relevance, and only differ in the way this principle is applied.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="17" family="Times" color="#000000"/>
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="9" height="16" font="1">2</text>
+<text top="189" left="108" width="287" height="18" font="6"><b>2 Context and immediate context</b></text>
+<text top="237" left="108" width="702" height="18" font="3">The term 'context' has been frequently used both in linguistics and in everyday language.</text>
+<text top="260" left="108" width="702" height="18" font="3">It has a number of usages. When a teacher says, 'What does 'she' refer to in this context?',</text>
+<text top="284" left="108" width="702" height="18" font="3">he probably means the preceding linguistic information. When we say that the</text>
+<text top="308" left="108" width="701" height="18" font="3">interpretation of a sentence depends on the context, we might intend to include non-</text>
+<text top="332" left="108" width="701" height="18" font="3">linguistic knowledge and/or the situation of utterance. If we are told that an irony in a</text>
+<text top="356" left="108" width="702" height="18" font="3">particular utterance depends upon the context, we have to consider speaker opinions and</text>
+<text top="380" left="108" width="74" height="18" font="3">attitudes.</text>
+<text top="404" left="123" width="687" height="18" font="3">What seems to be agreed about context is that it has two aspects: linguistic and non-</text>
+<text top="428" left="108" width="702" height="18" font="3">linguistic. The difficulty lies in the treatment of non-linguistic information, which</text>
+<text top="452" left="108" width="702" height="18" font="3">includes any kind of information that may be used in interpreting an utterance: old</text>
+<text top="476" left="108" width="703" height="18" font="3">assumptions, common knowledge, shared knowledge, encyclopaedic knowledge,</text>
+<text top="500" left="108" width="703" height="18" font="3">knowledge of external situations, perceptions, etc. To understand context properly, we</text>
+<text top="524" left="108" width="519" height="18" font="3">have to provide an analysis of these non-linguistic phenomena. </text>
+<text top="548" left="123" width="688" height="18" font="3">One way to avoid this problem is to treat context as fixed in advance so it is determined</text>
+<text top="572" left="108" width="704" height="18" font="3">before the comprehension process starts. This static or passive view of context fails to</text>
+<text top="596" left="108" width="704" height="18" font="3">allow for expansion to include any assumptions activated by on-going utterances. The</text>
+<text top="620" left="108" width="702" height="18" font="3">initial context needs to be supplemented in some way by access to information about the</text>
+<text top="644" left="108" width="703" height="18" font="3">physical situation, other encyclopaedic knowledge, perceptual information, and so on.</text>
+<text top="667" left="108" width="650" height="18" font="3">This dynamic aspect should be accommodated in an adequate theory of context.</text>
+<text top="691" left="123" width="686" height="18" font="3">Sperber and Wilson's view of context is rather active and revolutionary. Sperber and</text>
+<text top="715" left="108" width="701" height="18" font="3">Wilson (1986:137-142) persuasively argue that a new notion of context should be</text>
+<text top="739" left="108" width="702" height="18" font="3">incorporated in pragmatic theory. In their view, to explain how the context is determined</text>
+<text top="763" left="108" width="701" height="18" font="3">is to explain how a particular subset of the individual's accessible assumptions is selected</text>
+<text top="787" left="108" width="702" height="18" font="3">as part of interpretation process. When a piece of new information is given, a set of</text>
+<text top="811" left="108" width="702" height="18" font="3">background assumptions is activated. For each item of new information, many different</text>
+<text top="835" left="108" width="702" height="18" font="3">sets of assumptions from diverse sources might be selected as context. The assumptions</text>
+<text top="859" left="108" width="702" height="18" font="3">left over in memory from the immediately preceding thought process, including linguistic</text>
+<text top="883" left="108" width="702" height="18" font="3">information from the previous utterance, constitute an immediately given initial context</text>
+<text top="907" left="108" width="702" height="18" font="3">in which the next utterance may be processed. This may then be extended as the</text>
+<text top="931" left="108" width="636" height="18" font="3">interpretation proceeds, the aim being to find a relevant enough interpretation.</text>
+<text top="955" left="123" width="687" height="18" font="3">That is to say, it is not the case, as almost all linguists have assumed, that the context</text>
+<text top="979" left="108" width="701" height="18" font="3">is determined before the interpretation process takes place but rather that the context is</text>
+<text top="1003" left="108" width="702" height="18" font="3">actively constructed based on the search for relevance. This approach sounds more</text>
+<text top="1027" left="108" width="701" height="18" font="3">plausible because our cognitive mechanism seems indeed to search just for appropriate</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="801" width="9" height="16" font="1">3</text>
+<text top="209" left="108" width="701" height="18" font="3">information as the utterance proceeds. The context selection process is guided by</text>
+<text top="233" left="108" width="172" height="18" font="3">pragmatic principles.</text>
+<text top="257" left="123" width="685" height="18" font="3">In this paper I follow Sperber and Wilson's dynamic conception of context, and I use</text>
+<text top="281" left="108" width="701" height="18" font="3">the term 'immediate context' (henceforth IC), which Sperber and Wilson use in their</text>
+<text top="305" left="108" width="702" height="18" font="3">book rather frequently but do not define, to mean any context which is most accessible</text>
+<text top="329" left="108" width="702" height="18" font="3">at a given point in the utterance interpretation process. Each utterance will create its own</text>
+<text top="353" left="108" width="703" height="18" font="3">range of IC's, and, at any given point, the IC will contain the most immediately</text>
+<text top="377" left="108" width="702" height="18" font="3">accessible assumptions, drawn from any source, including chunks of related information</text>
+<text top="401" left="108" width="702" height="18" font="3">forming a frame, schema, scenario, or script. The initial context for a given utterance is</text>
+<text top="425" left="108" width="99" height="18" font="3">its first IC's.</text>
+<text top="449" left="123" width="686" height="18" font="3">In the next section, I will show how the concept of immediate context makes it possible</text>
+<text top="473" left="108" width="443" height="18" font="3">to treat deictic expressions in an easy and natural way.</text>
+<text top="545" left="108" width="68" height="18" font="6"><b>3 Deixis</b></text>
+<text top="592" left="108" width="163" height="18" font="6"><b>3.1 What is deixis?</b></text>
+<text top="640" left="108" width="702" height="18" font="3">The term 'deixis' covers 'the function of personal and demonstrative pronouns, of tense</text>
+<text top="663" left="108" width="704" height="18" font="3">and of a variety of other grammatical and lexical features which relate utterances to the</text>
+<text top="687" left="108" width="703" height="18" font="3">spatiotemporal co-ordinates of the act of utterance' (Lyons 1977: 636). Among the topics</text>
+<text top="711" left="108" width="701" height="18" font="3">discussed under this heading are person deixis, place deixis, time deixis, discourse deixis,</text>
+<text top="735" left="108" width="701" height="18" font="3">social deixis, and so on (cf. Fillmore 1975; Brown and Yule 1983; Levinson 1983). In</text>
+<text top="759" left="108" width="647" height="18" font="3">this paper I focus on the three basic functions of person, place, and time deixis. </text>
+<text top="783" left="123" width="686" height="18" font="3">Person deixis is concerned with the identification of persons who participate in</text>
+<text top="807" left="108" width="702" height="18" font="3">utterance exchanges: the speaker is designated as 'I', the hearer as 'you', and any third</text>
+<text top="831" left="108" width="701" height="18" font="3">party as 'he/she/they'. This sounds obvious, but notice that every time a new utterance</text>
+<text top="855" left="108" width="702" height="18" font="3">is produced by a new speaker, the whole picture of deixis changes: the referents of 'I',</text>
+<text top="879" left="108" width="700" height="18" font="3">'you', 'here' and 'there' must change. Our dynamic model, with its range of immediate</text>
+<text top="903" left="108" width="485" height="18" font="3">contexts, is flexible enough to accommodate such changes. </text>
+<text top="927" left="123" width="637" height="18" font="3">Take an example of place deixis. Suppose that (1) is a telephone conversation.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="12" family="Times" color="#000000"/>
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="9" height="16" font="1">4</text>
+<text top="1028" left="123" width="6" height="11" font="0">1</text>
+<text top="1032" left="129" width="681" height="16" font="1">In face-to-face communication it is possible to use body language or gestures to refer to different</text>
+<text top="1044" left="108" width="621" height="16" font="1">entities using the same lexical item, but such strategies are impossible over the telephone.</text>
+<text top="189" left="108" width="24" height="18" font="3">(1)</text>
+<text top="189" left="162" width="545" height="18" font="3">A:  Do you know about the welcome party for newcomers tonight?</text>
+<text top="213" left="162" width="238" height="18" font="3">B:  Yes, are you going there?</text>
+<text top="237" left="162" width="219" height="18" font="3">A:  What? I can't hear you.</text>
+<text top="261" left="162" width="200" height="18" font="3">B:  Hello, are you there?</text>
+<text top="309" left="108" width="702" height="18" font="3">It is obvious that B's first 'there' does not refer to the same place as B's second 'there'. The</text>
+<text top="332" left="108" width="701" height="18" font="3">second exchange between A and B constitutes what Schegloff (1972) calls an 'insertion</text>
+<text top="356" left="108" width="702" height="18" font="3">sequence', but on a situation-based view of context, it would remain within the overall</text>
+<text top="380" left="108" width="701" height="18" font="3">situation of making a phone call. It is rather awkward in a single situation to have two</text>
+<text top="404" left="108" width="500" height="18" font="3">occurrences of the same word which refer to different entities.</text>
+<text top="402" left="608" width="6" height="11" font="8"><b>1</b></text>
+<text top="404" left="614" width="196" height="18" font="3"> On our dynamic model,</text>
+<text top="428" left="108" width="704" height="18" font="3">B's second utterance involves an independent IC. As a result, 'there' in 'are you there' can</text>
+<text top="452" left="108" width="704" height="18" font="3">be correctly analysed as a deictic adverb, even though the utterance 'Are you there?' is</text>
+<text top="476" left="108" width="590" height="18" font="3">not found in ordinary face-to-face situations. (cf. Are you still in there?).</text>
+<text top="500" left="123" width="687" height="18" font="3">The telephone conversation in (1) also illustrates an important fact about time deixis.</text>
+<text top="524" left="108" width="701" height="18" font="3">As Lyons (1977: 685) puts it, 'in the canonical situation-of-utterance the temporal zero-</text>
+<text top="548" left="108" width="57" height="18" font="3">point, t</text>
+<text top="558" left="165" width="6" height="11" font="0">0</text>
+<text top="548" left="171" width="638" height="18" font="3">, is identical for both speaker and addressee', but they can be in different places</text>
+<text top="572" left="108" width="702" height="18" font="3">at the same time. Phone-calling is a situation where the speaker and the hearer share real</text>
+<text top="596" left="108" width="702" height="18" font="3">time, but are separated in location. In this respect Partee (1985) is right in saying that the</text>
+<text top="620" left="108" width="702" height="18" font="3">role of time is different from that of place in semantics: time is more primitive and</text>
+<text top="644" left="108" width="402" height="18" font="3">universal. Does the same hold for time in fiction?</text>
+<text top="668" left="123" width="686" height="18" font="3">It is often claimed that 'now' in fiction is quite different from 'now' in conversation.</text>
+<text top="692" left="108" width="702" height="18" font="3">'Now' in fiction refers to the present time in the on-going fictional situation, but 'now' in</text>
+<text top="716" left="108" width="702" height="18" font="3">conversation refers to the present moment, which is changing, as often observed in an</text>
+<text top="739" left="108" width="144" height="18" font="3">utterance like (2).</text>
+<text top="787" left="108" width="24" height="18" font="3">(2)</text>
+<text top="787" left="162" width="204" height="18" font="3">Not now, not now. Now!</text>
+<text top="835" left="108" width="702" height="18" font="3">The time each 'now' refers to is a different moment. On the other hand, the following is</text>
+<text top="859" left="108" width="246" height="18" font="3">an example of 'now' in fiction.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="801" width="9" height="16" font="1">5</text>
+<text top="1048" left="123" width="6" height="11" font="0">2</text>
+<text top="1053" left="129" width="366" height="16" font="1">S. King, <i>Rose Madder</i>, Hodder and Stoughton, 1995.</text>
+<text top="209" left="108" width="24" height="18" font="3">(3)</text>
+<text top="209" left="162" width="595" height="18" font="3">She leaned against the high-backed bus seat and watched the last of the</text>
+<text top="233" left="162" width="594" height="18" font="3">fast-food restaurants and muffler shops fall away.<i> Now </i>it was just the</text>
+<text top="257" left="162" width="594" height="18" font="3">countryside — newly ploughed fields and belts of trees that were turning</text>
+<text top="281" left="162" width="436" height="18" font="3">that fabulous cloudy green that belongs only to April.</text>
+<text top="305" left="540" width="188" height="18" font="3">(S. King, <i>Rose Madder</i></text>
+<text top="303" left="729" width="6" height="11" font="8"><b>2</b></text>
+<text top="305" left="735" width="12" height="18" font="3">).</text>
+<text top="353" left="108" width="702" height="18" font="3">'Now' is used here in a sentence in the past tense. We don't use it in conversation that</text>
+<text top="377" left="108" width="702" height="18" font="3">way. I propose to analyse it as follows. 'Now' in (3) should be processed in the</text>
+<text top="401" left="108" width="702" height="18" font="3">immediate contexts created by the preceding utterance. After reading the first sentence,</text>
+<text top="425" left="108" width="702" height="18" font="3">we find that the second sentence represents her judgment. If so, 'now' should refer to the</text>
+<text top="449" left="108" width="702" height="18" font="3">time at which the judgment was made, and in fact this is the optimally relevant</text>
+<text top="473" left="108" width="115" height="18" font="3">interpretation.</text>
+<text top="545" left="108" width="294" height="18" font="6"><b>3.2 Deixis and immediate contexts</b></text>
+<text top="592" left="108" width="702" height="18" font="3">Deixis is a situation-bounded concept and deeply rooted in speech events. Consider (4):</text>
+<text top="640" left="108" width="24" height="18" font="3">(4)</text>
+<text top="640" left="162" width="355" height="18" font="3">I'll tell you about the matter here tomorrow.</text>
+<text top="688" left="108" width="701" height="18" font="3">Unless we identify the persons referred to by 'I' and 'you', the place denoted by 'here', and</text>
+<text top="712" left="108" width="702" height="18" font="3">the day specified by 'tomorrow', we cannot interpret utterance (4) correctly. Notice that</text>
+<text top="736" left="108" width="702" height="18" font="3">the noun phrase 'the matter' also refers to something, but the phrase and its referents may</text>
+<text top="760" left="108" width="702" height="18" font="3">remain the same if the speaker changes. On the other hand, the whole picture of reference</text>
+<text top="784" left="108" width="702" height="18" font="3">assignment will be entirely changed when a different speaker utters to a different hearer.</text>
+<text top="807" left="123" width="686" height="18" font="3">Person, place, and time deixis are firmly anchored in speech situations. In reported</text>
+<text top="831" left="108" width="702" height="18" font="3">speech or thought, two different situations are involved: the situation of the current</text>
+<text top="855" left="108" width="702" height="18" font="3">utterance and the situation in which the reported utterance was originally produced. This</text>
+<text top="879" left="108" width="702" height="18" font="3">suggests that deictic information can be at least dual, in the sense that 'here', for example,</text>
+<text top="903" left="108" width="702" height="18" font="3">can mean 'here' in the IC's of the current utterance or 'here' in the speech situation where</text>
+<text top="927" left="108" width="211" height="18" font="3">'here' was originally used.</text>
+<text top="951" left="123" width="686" height="18" font="3">Take utterance (4) again. Suppose that the speaker is directly addressing the hearer, so</text>
+<text top="975" left="108" width="702" height="18" font="3">that 'I' refers to the speaker, 'you' to the hearer, 'here' to the place (4) is uttered, and</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="9" height="16" font="1">6</text>
+<text top="1028" left="123" width="6" height="11" font="0">3</text>
+<text top="1032" left="129" width="681" height="16" font="1">Hierarchical views of context can be also observed in recent work such as Recanati (1996) and Bach</text>
+<text top="1044" left="108" width="80" height="16" font="1">(to appear).</text>
+<text top="189" left="108" width="650" height="18" font="3">'tomorrow' to the day after the utterance. Suppose, then, that the hearer says (5).</text>
+<text top="237" left="108" width="24" height="18" font="3">(5)</text>
+<text top="237" left="162" width="526" height="18" font="3">Okay with me, but Bill might say, 'I do want to know right now.'</text>
+<text top="285" left="108" width="701" height="18" font="3">In (5), it is obvious that 'me' refers to the present speaker, 'I' refers to Bill, and 'right now'</text>
+<text top="309" left="108" width="702" height="18" font="3">does not mean the time (5) is uttered. The point I would emphasise is that the two kinds</text>
+<text top="332" left="108" width="700" height="18" font="3">of deictic information can interact with each other: in (5) the two first person pronouns</text>
+<text top="356" left="108" width="702" height="18" font="3">refer to different entities and 'now' is not the main speaker and hearer's 'now'. That is to</text>
+<text top="380" left="108" width="702" height="18" font="3">say, it is possible that conversationalists are involved in at least two kinds of immediate</text>
+<text top="404" left="108" width="702" height="18" font="3">contexts. Let me call them Primary Immediate Context (PIC) and Secondary Immediate</text>
+<text top="428" left="108" width="223" height="18" font="3">Context (SIC) respectively.</text>
+<text top="426" left="331" width="6" height="11" font="8"><b>3</b></text>
+<text top="428" left="337" width="323" height="18" font="3"> The following are tentative definitions.</text>
+<text top="476" left="108" width="24" height="18" font="3">(6)</text>
+<text top="476" left="162" width="35" height="18" font="6"><b>PIC</b></text>
+<text top="500" left="162" width="629" height="18" font="3">immediate context anchored to the speech situation in which the present speaker</text>
+<text top="524" left="162" width="287" height="18" font="3">and hearer are deictically involved.</text>
+<text top="573" left="108" width="24" height="18" font="3">(7)</text>
+<text top="573" left="162" width="34" height="18" font="6"><b>SIC</b></text>
+<text top="597" left="162" width="629" height="18" font="3">immediate context providing referents for deictic items which do not belong to</text>
+<text top="620" left="162" width="545" height="18" font="3">PIC, deictically dependent on the PIC determined by the utterance.</text>
+<text top="668" left="108" width="702" height="18" font="3">The most typical case is reported speech. We can say that indirect quotation is based on</text>
+<text top="692" left="108" width="702" height="18" font="3">and closely related to PIC, while direct quotation is influenced by both PIC and SIC.</text>
+<text top="716" left="108" width="108" height="18" font="3">Consider (8):</text>
+<text top="764" left="108" width="24" height="18" font="3">(8)</text>
+<text top="764" left="162" width="14" height="18" font="3">a.</text>
+<text top="764" left="216" width="319" height="18" font="2"><i>Mary</i>: Bill said he wanted to do it then.</text>
+<text top="788" left="162" width="15" height="18" font="3">b.</text>
+<text top="788" left="216" width="299" height="18" font="2"><i>Mary</i>: Bill said, 'I want to do it now.'</text>
+<text top="836" left="108" width="702" height="18" font="3">In (8a) the time Bill said [he wanted to do it then] is in the past, because the time</text>
+<text top="860" left="108" width="701" height="18" font="3">reference is determined by the time when Mary spoke. Similarly the word 'then' is chosen</text>
+<text top="884" left="108" width="701" height="18" font="3">based on the speech time of (8a). That is to say, time deixis in (8a) is fixed in PIC. (8b),</text>
+<text top="908" left="108" width="701" height="18" font="3">on the other hand, consists of two parts; one is the reporting clause [Bill said] and the</text>
+<text top="932" left="108" width="702" height="18" font="3">other the reported direct speech clause [I want to do it now]. The former can be analysed</text>
+<text top="956" left="108" width="702" height="18" font="3">in the same way as (8a), but the latter should involve an SIC, because the time there is</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="801" width="9" height="16" font="1">7</text>
+<text top="1028" left="123" width="6" height="11" font="0">4</text>
+<text top="1032" left="129" width="681" height="16" font="1">This demonstration theory is experimentally supported against the verbatim theory by Wade and</text>
+<text top="1044" left="108" width="93" height="16" font="1">Clark (1993).</text>
+<text top="209" left="108" width="410" height="18" font="3">determined by the time of Bill's original utterance.</text>
+<text top="233" left="123" width="687" height="18" font="3">Actual occurrences of reported speech are quite complex, both in colloquial situations</text>
+<text top="257" left="108" width="702" height="18" font="3">and in writing, especially in fiction. But in the following two sections I will show that</text>
+<text top="281" left="108" width="702" height="18" font="3">deictic interaction between PIC and SIC can be pragmatically determined, and the</text>
+<text top="305" left="108" width="568" height="18" font="3">strategy can be explained within the framework of Relevance Theory.</text>
+<text top="377" left="108" width="359" height="18" font="6"><b>4 Reported speech and Relevance Theory</b></text>
+<text top="424" left="108" width="702" height="18" font="3">Direct and indirect speech have been extensively studied in English grammar, where</text>
+<text top="448" left="108" width="702" height="18" font="3">many pages are spent illustrating how to convert direct speech to indirect speech or vice</text>
+<text top="472" left="108" width="701" height="18" font="3">versa. It is generally assumed in such works that direct speech conveys the original</text>
+<text top="496" left="108" width="701" height="18" font="3">utterance literally and faithfully. However, recent work has shown that the situation is</text>
+<text top="520" left="108" width="702" height="18" font="3">not so simple. Sternberg (1982), for instance, discusses what he calls the direct discourse</text>
+<text top="544" left="108" width="702" height="18" font="3">fallacy, demonstrating the technical impossibility of conveying paralinguistic features</text>
+<text top="568" left="108" width="702" height="18" font="3">of the original speech in direct speech quotation. Clark and Gerrig (1990) argue that</text>
+<text top="592" left="108" width="701" height="18" font="3">direct quotation is 'demonstration', just as a tennis coach demonstrates for his students</text>
+<text top="616" left="108" width="700" height="18" font="3">how to serve by performing a service himself. Fludernik (1993: 409-414) mentions</text>
+<text top="640" left="108" width="702" height="18" font="3">Sternberg's direct discourse fallacy and cites a number of examples which support his</text>
+<text top="664" left="108" width="45" height="18" font="3">view.</text>
+<text top="688" left="123" width="687" height="18" font="3">Sternberg (1991), on the other hand, argues that a number of characteristics of direct</text>
+<text top="712" left="108" width="701" height="18" font="3">speech, which Banfield (1982) regards as non-embeddable in indirect discourse, can also</text>
+<text top="736" left="108" width="701" height="18" font="3">be found in indirect speech. That is to say, direct speech in the sense of traditional</text>
+<text top="760" left="108" width="481" height="18" font="3">grammar is not so direct. Nor is indirect speech so indirect.</text>
+<text top="784" left="123" width="687" height="18" font="3">It seems impossible to defend the view that direct quotation involves the exact</text>
+<text top="807" left="108" width="702" height="18" font="3">reproduction of the original in every sense. However there do seem to be some</text>
+<text top="831" left="108" width="702" height="18" font="3">constraints on direct speech. We cannot say, for example, that Hamlet said, 'Women are</text>
+<text top="855" left="108" width="692" height="18" font="3">easy to seduce.' It should be, 'Frailty, thy name is woman!' I will return to this below.</text>
+<text top="879" left="123" width="687" height="18" font="3">Recently the demonstration theory seems to be gaining ground: there has been no</text>
+<text top="903" left="108" width="458" height="18" font="3">counter argument and experimental support has appeared.</text>
+<text top="901" left="565" width="6" height="11" font="8"><b>4</b></text>
+<text top="903" left="572" width="239" height="18" font="3"> Its main claims are as follows.</text>
+<text top="927" left="108" width="702" height="18" font="3">Clark and Gerrig (1990) maintain that direct quotations are intended to 'depict', not to</text>
+<text top="951" left="108" width="702" height="18" font="3">'describe', as in indirect discourse, some aspects of the original speaker's utterance. The</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="9" height="16" font="1">8</text>
+<text top="189" left="108" width="702" height="18" font="3">difference between depicting and describing is fundamental: depictions, e.g. paintings</text>
+<text top="213" left="108" width="701" height="18" font="3">and sculptures, resemble their referents, whereas descriptions do not. But the distinction</text>
+<text top="237" left="108" width="702" height="18" font="3">leaves many questions unanswered. If, as they say, direct quotations are depicting and</text>
+<text top="261" left="108" width="702" height="18" font="3">indirect quotations describing, how are the former related to the latter? As Clark and</text>
+<text top="285" left="108" width="702" height="18" font="3">Gerrig confine themselves to direct quotations, we do not know. Obviously indirect</text>
+<text top="309" left="108" width="702" height="18" font="3">quotations do resemble the original utterances. Furthermore, they do not make any</text>
+<text top="332" left="108" width="703" height="18" font="3">distinction between the spoken and the written mode and they maintain that the same</text>
+<text top="356" left="108" width="701" height="18" font="3">principles apply to written quotations as well as spoken ones. Are they on the right track?</text>
+<text top="380" left="108" width="384" height="18" font="3">Those questions will be clarified in due course.</text>
+<text top="404" left="123" width="687" height="18" font="3">The approach of Sperber and Wilson (1986/95) to reported speech is both quite similar</text>
+<text top="428" left="108" width="703" height="18" font="3">to and quite different from Clark and Gerrig's. Sperber and Wilson argue that every</text>
+<text top="452" left="108" width="704" height="18" font="3">utterance exhibits one of two types of use: descriptive and interpretive. A descriptively</text>
+<text top="476" left="108" width="701" height="18" font="3">used utterance represents 'some state of affairs in virtue of its propositional form being</text>
+<text top="500" left="108" width="702" height="18" font="3">true of that state of affairs' (228). An interpretively used utterance, to which reported</text>
+<text top="524" left="108" width="702" height="18" font="3">speech belongs, represents 'some other representation which also has a propositional</text>
+<text top="548" left="108" width="702" height="18" font="3">form — a thought, for instance — in virtue of a resemblance between the two</text>
+<text top="572" left="108" width="250" height="18" font="3">propositional forms' (228-29). </text>
+<text top="596" left="123" width="686" height="18" font="3">This notion of 'representation by resemblance' is similar to Clark and Gerrig's notion</text>
+<text top="620" left="108" width="702" height="18" font="3">of 'depiction'. The crucial difference between the two approaches is that Clark and Gerrig</text>
+<text top="644" left="108" width="702" height="18" font="3">claim that direct speech and indirect speech fall on different sides of the distinction,</text>
+<text top="668" left="108" width="702" height="18" font="3">which Sperber and Wilson would deny. In Sperber and Wilson (1986/95), all types of</text>
+<text top="692" left="108" width="702" height="18" font="3">reported speech, both direct and indirect, are seen as involving representation by</text>
+<text top="716" left="108" width="690" height="18" font="3">resemblance, either of content or of form. Suppose (10) is a response to question (9).</text>
+<text top="763" left="108" width="24" height="18" font="3">(9)</text>
+<text top="763" left="162" width="274" height="18" font="3">And what did the inn-keeper say?</text>
+<text top="811" left="108" width="34" height="18" font="3">(10)</text>
+<text top="811" left="162" width="14" height="18" font="3">a.</text>
+<text top="811" left="216" width="184" height="18" font="3">Je l'ai cherché partout!</text>
+<text top="835" left="162" width="15" height="18" font="3">b.</text>
+<text top="835" left="216" width="218" height="18" font="3">I looked for it everywhere.</text>
+<text top="859" left="162" width="14" height="18" font="3">c.</text>
+<text top="859" left="216" width="387" height="18" font="3">That he has looked for your wallet everywhere.</text>
+<text top="907" left="108" width="704" height="18" font="3">If the original utterance was given in French, (10a) is a direct quotation very similar in</text>
+<text top="931" left="108" width="703" height="18" font="3">form to the original, though it may lack paralinguistic information such as the voice</text>
+<text top="955" left="108" width="702" height="18" font="3">quality and the accent of the inn keeper. (10b) is an English translation from the original</text>
+<text top="979" left="108" width="702" height="18" font="3">French, based on similarity of semantic representation. We can say (10c) is a kind of</text>
+<text top="1003" left="108" width="702" height="18" font="3">indirect speech if 'he' refers to 'I' and 'your wallet' to 'it', and it is similar in content to the</text>
+<text top="1027" left="108" width="181" height="18" font="3">inn-keeper's response.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="801" width="9" height="16" font="1">9</text>
+<text top="1048" left="123" width="6" height="11" font="0">5</text>
+<text top="1053" left="129" width="494" height="16" font="1">For a recent introduction to the theory see, for example, Wilson (1994).</text>
+<text top="209" left="123" width="686" height="18" font="3">Sperber and Wilson (1986/95) say, 'Direct quotations are the most obvious example</text>
+<text top="233" left="108" width="702" height="18" font="3">of utterances used to represent not what they describe but what they resemble' (228) and</text>
+<text top="257" left="108" width="702" height="18" font="3">'Identity is a limiting case of resemblance; reproduction is a limiting case of</text>
+<text top="281" left="108" width="701" height="18" font="3">interpretation' (229). Maintaining Sperber and Wilson's basic assumptions, I claim in this</text>
+<text top="305" left="108" width="702" height="18" font="3">paper that both indirect and direct speech in general are, basically, interpretations of the</text>
+<text top="329" left="108" width="701" height="18" font="3">speaker, and argue that reported speech in general can be dealt with in a unitary way.</text>
+<text top="353" left="108" width="701" height="18" font="3">Before proceeding to the next section, I will introduce some important theoretical notions</text>
+<text top="377" left="108" width="176" height="18" font="3">of Relevance Theory.</text>
+<text top="374" left="284" width="6" height="11" font="8"><b>5</b></text>
+<text top="377" left="290" width="5" height="18" font="3"> </text>
+<text top="401" left="123" width="687" height="18" font="3">The basic assumption of the theory is that human cognition is relevance oriented: we</text>
+<text top="425" left="108" width="702" height="18" font="3">pay attention to information that seems relevant to us. Relevance is achieved not at</text>
+<text top="449" left="108" width="701" height="18" font="3">random but when new information interacts with existing assumptions in one of the</text>
+<text top="473" left="108" width="700" height="18" font="3">following three ways: contextually implying, strengthening, and contradicting and</text>
+<text top="496" left="108" width="97" height="18" font="3">eliminating.</text>
+<text top="520" left="123" width="686" height="18" font="3">Suppose someone tells you that the food at a restaurant near Covent Garden is very</text>
+<text top="544" left="108" width="702" height="18" font="3">nice and you would like to visit there if you can find a friend to go with. If you</text>
+<text top="568" left="108" width="702" height="18" font="3">eventually succeed in finding one, you will conclude that you can go there, which is a</text>
+<text top="592" left="108" width="249" height="18" font="3">case of contextual implication.</text>
+<text top="616" left="123" width="686" height="18" font="3">Suppose now that you try a starter and a main dish, assuming that the food is very</text>
+<text top="640" left="108" width="702" height="18" font="3">good. If you in fact find them exceptionally good, your original assumption will be</text>
+<text top="664" left="108" width="701" height="18" font="3">confirmed, which is a case of strengthening. If, instead, you find the food terrible, your</text>
+<text top="688" left="108" width="702" height="18" font="3">old assumption and new evidence will contradict each other, and the weaker of the two,</text>
+<text top="712" left="108" width="701" height="18" font="3">in this case the assumption that the food is good, will be abandoned and replaced with</text>
+<text top="736" left="108" width="702" height="18" font="3">the new information that the food is terrible. This is a case of contradiction and</text>
+<text top="760" left="108" width="702" height="18" font="3">elimination. Sperber and Wilson call these three types of interaction contextual effects.</text>
+<text top="784" left="108" width="702" height="18" font="3">New information is relevant if it achieves contextual effects, and the greater the</text>
+<text top="808" left="108" width="564" height="18" font="3">contextual effects, the greater the relevance, other things being equal.</text>
+<text top="832" left="123" width="687" height="18" font="3">However, the effort of processing new information is also crucial in assessments of its</text>
+<text top="856" left="108" width="702" height="18" font="3">relevance. Just as we have to pay to obtain some benefit from a product, we need to</text>
+<text top="879" left="108" width="703" height="18" font="3">expend some effort to process an utterance to recover the contextual effects. The factors</text>
+<text top="903" left="108" width="702" height="18" font="3">affecting processing effort include linguistic complexity, logical complexity, accessibility</text>
+<text top="927" left="108" width="701" height="18" font="3">of the context and so on. Of course, it is desirable that the effort spent is as little as</text>
+<text top="951" left="108" width="702" height="18" font="3">possible. Thus, the smaller the processing effort, the greater the relevance, other things</text>
+<text top="975" left="108" width="100" height="18" font="3">being equal.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">10</text>
+<text top="1007" left="123" width="6" height="11" font="0">6</text>
+<text top="1012" left="129" width="681" height="16" font="1">Sperber and Wilson (1995) propose <i>two </i>Principles of Relevance instead of <i>one</i> in their 1986 version.</text>
+<text top="1024" left="108" width="701" height="16" font="1">For this revision see the Postface to Sperber and Wilson (1995), and Higashimori and Wilson (1996).</text>
+<text top="1044" left="108" width="297" height="16" font="1">(11) to (13) above are from Wilson (1996).</text>
+<text top="189" left="123" width="686" height="18" font="3">Relevance, then, is defined in terms of contextual effects and processing effort. Sperber</text>
+<text top="213" left="108" width="394" height="18" font="3">and Wilson propose two principles of relevance.</text>
+<text top="210" left="502" width="6" height="11" font="8"><b>6</b></text>
+<text top="261" left="108" width="34" height="18" font="3">(11)</text>
+<text top="261" left="162" width="168" height="18" font="6"><b>Cognitive Principle</b></text>
+<text top="285" left="143" width="613" height="18" font="3">  The human cognitive system is looking for relevant information, and the</text>
+<text top="309" left="162" width="204" height="18" font="3">more relevant, the better.</text>
+<text top="357" left="108" width="34" height="18" font="3">(12)</text>
+<text top="357" left="162" width="222" height="18" font="6"><b>Communicative Principle</b></text>
+<text top="381" left="143" width="571" height="18" font="3">  Every utterance creates a presumption of its own optimal relevance.</text>
+<text top="429" left="108" width="327" height="18" font="3">Optimal relevance is defined as follows:</text>
+<text top="477" left="108" width="34" height="18" font="3">(13)</text>
+<text top="477" left="162" width="598" height="18" font="3">An utterance on a given interpretation is optimally relevant if and only if:</text>
+<text top="501" left="162" width="14" height="18" font="3">a.</text>
+<text top="501" left="216" width="444" height="18" font="3">it is relevant enough to be worth the hearer's attention;</text>
+<text top="525" left="162" width="10" height="18" font="3">b</text>
+<text top="525" left="216" width="558" height="18" font="3">it is the most relevant one the speaker is able and willing to produce.</text>
+<text top="573" left="108" width="701" height="18" font="3">Clause (a) implies that the utterance should have enough contextual effects at a low</text>
+<text top="597" left="108" width="702" height="18" font="3">enough processing effort, and clause (b) implies that the hearer should be able to get</text>
+<text top="620" left="108" width="701" height="18" font="3">adequate effects for no gratuitous processing effort. Notice that it also follows from the</text>
+<text top="644" left="108" width="702" height="18" font="3">Communicative Principle and the definition of optimal relevance that if extra processing</text>
+<text top="668" left="108" width="703" height="18" font="3">effort is demanded of the hearer, compensating contextual effects should result. In the</text>
+<text top="692" left="108" width="702" height="18" font="3">rest of the paper I will show how Relevance Theory can shed light on reported speech.</text>
+<text top="764" left="108" width="303" height="18" font="6"><b>5 Reported speech in conversation </b></text>
+<text top="812" left="108" width="281" height="18" font="6"><b>5.1 Direct or indirect quotation?</b></text>
+<text top="859" left="108" width="702" height="18" font="3">It is often argued in grammar books that in reported speech some particular time</text>
+<text top="883" left="108" width="702" height="18" font="3">reference in the original can be converted into the corresponding time reference from the</text>
+<text top="907" left="108" width="702" height="18" font="3">viewpoint of the current utterance time. For example, 'tomorrow' in (14) can be changed</text>
+<text top="931" left="108" width="700" height="18" font="3">to 'today' if 'tomorrow' at the speech time of 'I'll leave here tomorrow' corresponds to</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">11</text>
+<text top="1007" left="123" width="6" height="11" font="0">7</text>
+<text top="1012" left="129" width="680" height="16" font="1">A choice between (14) and its 'genuine' indirect version 'Bill said that he would leave there the next</text>
+<text top="1024" left="108" width="701" height="16" font="1">day' may depend on another factor, which I will not discuss in this paper, but the same argument, I</text>
+<text top="1044" left="108" width="217" height="16" font="1">believe, will hold there as well.</text>
+<text top="209" left="108" width="229" height="18" font="3">'today' at the reporting time:</text>
+<text top="257" left="108" width="34" height="18" font="3">(14)</text>
+<text top="257" left="162" width="286" height="18" font="3">Bill said, 'I'll leave here tomorrow.'</text>
+<text top="305" left="108" width="34" height="18" font="3">(15)</text>
+<text top="305" left="162" width="333" height="18" font="3">Bill said that he would leave there today.</text>
+<text top="353" left="108" width="702" height="18" font="3">And if the place denoted by 'here' in (14) is also the place where the current utterance is</text>
+<text top="377" left="108" width="495" height="18" font="3">produced, 'there' in (15) will be replaced by 'here', as in (16):</text>
+<text top="425" left="108" width="34" height="18" font="3">(16)</text>
+<text top="425" left="162" width="327" height="18" font="3">Bill said that he would leave here today.</text>
+<text top="473" left="108" width="701" height="18" font="3">I argued above that each utterance creates its own immediate contexts, and that direct</text>
+<text top="496" left="108" width="702" height="18" font="3">speech involves two utterances, or speech acts, a reporting clause and a reported clause.</text>
+<text top="520" left="108" width="702" height="18" font="3">The reporting clause in (14) is 'Bill said' and the reported clause 'I'll leave here</text>
+<text top="544" left="108" width="703" height="18" font="3">tomorrow.' The former is interpreted in the current PIC. The latter is interpreted in an</text>
+<text top="568" left="108" width="704" height="18" font="3">SIC containing information available at the time of Bill's original utterance. So 'I', 'will',</text>
+<text top="592" left="108" width="702" height="18" font="3">'tomorrow', and 'here' in (14) are determined in the domain of the SIC, while 'he', 'would',</text>
+<text top="616" left="108" width="581" height="18" font="3">'here', and 'today' in (16) as well as 'Bill said' are interpreted in the PIC.</text>
+<text top="640" left="123" width="686" height="18" font="3">Although the relation between direct and indirect speech is one of the standard topics</text>
+<text top="664" left="108" width="702" height="18" font="3">in any grammar book, it seems that no one has thought of asking which is more</text>
+<text top="688" left="108" width="702" height="18" font="3">commonly used, or preferred, (14), (15), or (16)? I will argue that (15) and (16) will be</text>
+<text top="712" left="108" width="551" height="18" font="3">preferred to (14) according to a pragmatically determined principle.</text>
+<text top="709" left="659" width="6" height="11" font="8"><b>7</b></text>
+<text top="712" left="665" width="5" height="18" font="3"> </text>
+<text top="736" left="123" width="523" height="18" font="3">Take another example from a note on a professor's door, saying:</text>
+<text top="784" left="108" width="34" height="18" font="3">(17)</text>
+<text top="784" left="162" width="154" height="18" font="3">Back in two hours.</text>
+<text top="832" left="108" width="702" height="18" font="3">We cannot predict when s/he will come back unless the time s/he wrote the note is</text>
+<text top="856" left="108" width="702" height="18" font="3">explicitly stated. Here the anchored IC is clear, i.e. the time of reading the note, but the</text>
+<text top="879" left="108" width="702" height="18" font="3">time of the secondary IC is not specified. Hence we are unable to calculate when the</text>
+<text top="903" left="108" width="185" height="18" font="3">professor will be back.</text>
+<text top="927" left="123" width="686" height="18" font="3">Back to (14). (14) looks perfectly grammatical, but the fact is that it is as unhelpful</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">12</text>
+<text top="888" left="123" width="6" height="11" font="0">8</text>
+<text top="892" left="129" width="680" height="16" font="1">The examples below are quoted without paralinguistic markers such as stress, intonation, pause, and</text>
+<text top="905" left="108" width="701" height="16" font="1">so on. The figures in the round brackets at the end of the examples show the locations in the corpora.</text>
+<text top="946" left="123" width="6" height="11" font="0">9</text>
+<text top="951" left="129" width="680" height="16" font="1">There are a number of examples from interviews in the corpora, where the interviewers, who knew</text>
+<text top="963" left="108" width="702" height="16" font="1">that the conversation was being recorded, tend to observe the conversion rule rather strictly, as (i) and</text>
+<text top="983" left="108" width="66" height="16" font="1">(ii) show.</text>
+<text top="1004" left="143" width="16" height="16" font="1">(i)</text>
+<text top="1004" left="181" width="393" height="16" font="1">and you said that you liked Steinbeck's style (S.3.5-649).</text>
+<text top="1024" left="143" width="21" height="16" font="1">(ii)</text>
+<text top="1024" left="181" width="629" height="16" font="1">can I ask you if you take a an interest in in in literary criticism in general in this country</text>
+<text top="1044" left="181" width="92" height="16" font="1">(S.3.6-1092).</text>
+<text top="189" left="108" width="703" height="18" font="3">concerning time as (17), since there is no way the hearer can identify the referent of</text>
+<text top="213" left="108" width="701" height="18" font="3">'tomorrow'. A tentative reason for selecting (15) or (16) rather than (14) would be</text>
+<text top="237" left="108" width="126" height="18" font="3">something like:</text>
+<text top="285" left="108" width="34" height="18" font="3">(18)</text>
+<text top="285" left="162" width="594" height="18" font="3">Speakers/writers tend to choose lexical items interpretable in PIC rather</text>
+<text top="309" left="162" width="593" height="18" font="3">than SIC, if possible, in order to make it easier for the speaker or</text>
+<text top="332" left="162" width="519" height="18" font="3">hearer/reader to identify the time and other referents concerned.</text>
+<text top="380" left="108" width="523" height="18" font="3">Below I try to confirm (18) from corpora of actual conversation.</text>
+<text top="453" left="108" width="419" height="18" font="6"><b>5.2 Reported speech in face-to-face conversation</b></text>
+<text top="500" left="108" width="702" height="18" font="3">In actual conversation more complicated phenomena are observed. Uchida (1994)</text>
+<text top="524" left="108" width="702" height="18" font="3">discusses various aspects of reported speech in conversation, using examples from</text>
+<text top="548" left="108" width="701" height="18" font="3">Svartvik &amp; Quirk (1980), which is a transcribed version of recorded spoken</text>
+<text top="572" left="108" width="702" height="18" font="3">conversation. Here I summarise the points concerning deixis, adding some more</text>
+<text top="596" left="108" width="202" height="18" font="3">examples from the book.</text>
+<text top="593" left="310" width="6" height="11" font="8"><b>8</b></text>
+<text top="620" left="123" width="686" height="18" font="3">First, it is difficult to find utterances in the corpus, in either direct or indirect speech,</text>
+<text top="644" left="108" width="370" height="18" font="3">which strictly follow the rules of conversion.</text>
+<text top="641" left="478" width="6" height="11" font="8"><b>9</b></text>
+<text top="644" left="485" width="325" height="18" font="3"> Many of the examples are more or less</text>
+<text top="667" left="108" width="702" height="18" font="3">'mixed' speech, with characteristics of both direct and indirect speech. The reason that</text>
+<text top="691" left="108" width="702" height="18" font="3">genuine direct quotation is rarely found is probably because it is practically impossible</text>
+<text top="715" left="108" width="701" height="18" font="3">to reproduce the linguistic form of the original utterance exactly. 'Sort of', 'that sort of</text>
+<text top="739" left="108" width="703" height="18" font="3">thing', 'words to that effect' and so on are the speakers' excuses for inaccurate quotation,</text>
+<text top="763" left="108" width="701" height="18" font="3">as seen in (19) - (22). Notice also that a hesitation marker 'well' prefaces the quotes in</text>
+<text top="787" left="108" width="113" height="18" font="3">(19) and (21).</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">13</text>
+<text top="209" left="108" width="34" height="18" font="3">(19)</text>
+<text top="209" left="162" width="486" height="18" font="3">they said well sort of what would you like next (S.1.12-12).</text>
+<text top="257" left="108" width="34" height="18" font="3">(20)</text>
+<text top="257" left="162" width="595" height="18" font="3">she said sort of I did notice Poppy sort of taking her engine to pieces</text>
+<text top="281" left="162" width="108" height="18" font="3">(S.1.12-347).</text>
+<text top="329" left="108" width="34" height="18" font="3">(21)</text>
+<text top="329" left="162" width="596" height="18" font="3">she says well after all the boys aren't left to do the washing-up and that sort</text>
+<text top="353" left="162" width="178" height="18" font="3">of thing (S.1.12-370).</text>
+<text top="401" left="108" width="34" height="18" font="3">(22)</text>
+<text top="401" left="162" width="594" height="18" font="3">I thought the ghost's first speech said leave her to Heaven or words to that</text>
+<text top="425" left="162" width="149" height="18" font="3">effect (S.3.5-454).</text>
+<text top="473" left="123" width="687" height="18" font="3">Nonetheless, there are constraints on quotation, especially when deictic items are</text>
+<text top="496" left="108" width="702" height="18" font="3">involved. Let us check other examples, keeping in mind the principle I proposed in (18)</text>
+<text top="520" left="108" width="54" height="18" font="3">above.</text>
+<text top="544" left="123" width="686" height="18" font="3">In (23) the utterance is in indirect speech, and follows the norm until 'and'; the rest is</text>
+<text top="568" left="108" width="702" height="18" font="3">in present perfect tense, which implies that the situation is also coterminous with the</text>
+<text top="592" left="108" width="136" height="18" font="3">present moment:</text>
+<text top="640" left="108" width="34" height="18" font="3">(23)</text>
+<text top="640" left="162" width="594" height="18" font="3">I said that I didn't really know except that we had cast around as widely as</text>
+<text top="664" left="162" width="594" height="18" font="3">we could over the last seven years and have not come up with anything</text>
+<text top="688" left="162" width="254" height="18" font="3">that's in our book (S.3.2-1149).</text>
+<text top="736" left="108" width="702" height="18" font="3">(23) is a standard case in which what was true at the reference time still remains true at</text>
+<text top="760" left="108" width="702" height="18" font="3">the speech time. The following is a similar example where the time mentioned after 'but'</text>
+<text top="784" left="108" width="159" height="18" font="3">is still in the future:</text>
+<text top="832" left="108" width="34" height="18" font="3">(24)</text>
+<text top="832" left="162" width="594" height="18" font="3">he said he happened to mention that Oscar was away for a couple of days</text>
+<text top="856" left="162" width="453" height="18" font="3">but will be back on Monday or thereabouts (S.1.2-366).</text>
+<text top="903" left="123" width="686" height="18" font="3">In (25), too, the time adverbial 'today' is included, but it is not the case that 'he' actually</text>
+<text top="927" left="108" width="345" height="18" font="3">used the word 'today' at the time he spoke:</text>
+<text top="975" left="108" width="34" height="18" font="3">(25)</text>
+<text top="975" left="162" width="594" height="18" font="3">he first of all came up to my room and said would I please come at four</text>
+<text top="999" left="162" width="201" height="18" font="3">o'clock today (S.1.4-30).</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">14</text>
+<text top="189" left="108" width="701" height="18" font="3">The reason the speaker used 'today' is that the referent is easy for the hearer to identify</text>
+<text top="213" left="108" width="702" height="18" font="3">because it is fixed in the present situation, PIC. Thus (23) - (25) are all subject to the</text>
+<text top="237" left="108" width="137" height="18" font="3">principle in (18).</text>
+<text top="261" left="123" width="685" height="18" font="3">Notice also in (25) the word order and the personal pronoun 'I' in 'would I please come</text>
+<text top="285" left="108" width="703" height="18" font="3">at four o'clock'. This is a typical mixed speech: the word order is as in direct speech but</text>
+<text top="309" left="108" width="701" height="18" font="3">the pronoun is in indirect speech. This 'I', of course, refers to the speaker of (25). Why</text>
+<text top="332" left="108" width="701" height="18" font="3">'I', not 'you'? It might be because 'you' is ambiguous in referring to either the speaker or</text>
+<text top="356" left="108" width="702" height="18" font="3">the hearer(s) of (25), while 'I' is not ambiguous because of the preceding information and</text>
+<text top="380" left="108" width="329" height="18" font="3">the word 'please', which implies request.</text>
+<text top="404" left="123" width="687" height="18" font="3">Personal pronouns 'I' and 'you' sometimes cause problems because speaker and hearer</text>
+<text top="428" left="108" width="702" height="18" font="3">are always present in face-to-face communication. They are also deictic items, so</text>
+<text top="452" left="108" width="702" height="18" font="3">principle (18) may be applied to person deixis too. Along the same lines, I may be right</text>
+<text top="476" left="108" width="702" height="18" font="3">in saying that a PIC bounded 'I/you' is preferred to an SIC bounded one, to make it easier</text>
+<text top="500" left="108" width="503" height="18" font="3">to identify the persons concerned. (26) is a shortened version.</text>
+<text top="548" left="108" width="34" height="18" font="3">(26)</text>
+<text top="548" left="162" width="574" height="18" font="3">A PIC bounded 'I/you' tends to be selected unless otherwise restricted.</text>
+<text top="596" left="123" width="158" height="18" font="3">Now consider (27).</text>
+<text top="644" left="108" width="34" height="18" font="3">(27)</text>
+<text top="644" left="162" width="272" height="18" font="3">I said I must see you (S.3.2-200).</text>
+<text top="692" left="108" width="262" height="18" font="3">In the corpus, (27) follows (28):</text>
+<text top="739" left="108" width="34" height="18" font="3">(28)</text>
+<text top="739" left="162" width="618" height="18" font="3">Lyle just sort of gave me a sort of you know just said one thing (S.3.2-197).</text>
+<text top="787" left="108" width="703" height="18" font="3">From the preceding linguistic context alone, it is impossible to decide whether (27) is</text>
+<text top="811" left="108" width="701" height="18" font="3">direct or indirect speech. But principle (26) predicts that 'you' in (27) is PIC bounded in</text>
+<text top="835" left="108" width="702" height="18" font="3">the unmarked case, and this is confirmed by the fact that 'you' received nucleus and was</text>
+<text top="859" left="108" width="443" height="18" font="3">pronounced with falling intonation in the original text.</text>
+<text top="883" left="123" width="564" height="18" font="3">Consider the italicised phrases, 'as I knew' and 'did she mean' in (29):</text>
+<text top="931" left="108" width="34" height="18" font="3">(29)</text>
+<text top="931" left="162" width="594" height="18" font="3">the president said she had gathered from my some of my remarks over</text>
+<text top="955" left="162" width="594" height="18" font="3">lunch that I wouldn't want to live in the college and <i>as I knew</i> this was a</text>
+<text top="979" left="162" width="593" height="18" font="3">residential fellowship would I be prepared because it was part of the life of</text>
+<text top="1003" left="162" width="594" height="18" font="3">college to come in fairly regularly and I said <i>did she mean</i> for lunch or</text>
+<text top="1027" left="162" width="155" height="18" font="3">dinner (S.1.3-886).</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">15</text>
+<text top="928" left="123" width="12" height="11" font="0">10</text>
+<text top="933" left="136" width="306" height="16" font="1">Broadcast on 16th February, 1992, in Japan.</text>
+<text top="967" left="123" width="12" height="11" font="0">11</text>
+<text top="971" left="135" width="675" height="16" font="1">The word 'principle' does not have the sort of normative connotation here that it sometimes has, for</text>
+<text top="983" left="108" width="702" height="16" font="1">instance, in the case of Grice's Cooperative Principle. It is also not meant to have the kind of generality</text>
+<text top="1004" left="108" width="701" height="16" font="1">that the term has as it is used in the 'Principle of Relevance', which applies to every utterance without</text>
+<text top="1024" left="108" width="702" height="16" font="1">exception. The 'principles' I propose in this paper concern certain cognitive regularities or patterns which</text>
+<text top="1044" left="108" width="556" height="16" font="1">we tend to follow in linguistic communication. (I owe this note to Dan Sperber).</text>
+<text top="209" left="108" width="702" height="18" font="3">In the direct quote counterparts, those phrases would have been realised as 'as you know'</text>
+<text top="233" left="108" width="702" height="18" font="3">and 'do you mean'. The reason 'as you know' and 'do you mean' were not selected is</text>
+<text top="257" left="108" width="702" height="18" font="3">perhaps because these 'you's are not PIC bounded, which is correctly predicted by</text>
+<text top="281" left="108" width="117" height="18" font="3">principle (26).</text>
+<text top="305" left="123" width="687" height="18" font="3">Of course there must be other factors affecting the choice in (26). Ambiguity is one.</text>
+<text top="329" left="108" width="702" height="18" font="3">If there arise no ambiguities or confusions when an SIC governed 'I/you' is used, then the</text>
+<text top="353" left="108" width="702" height="18" font="3">SIC 'I/you' may not be replaced by a PIC governed 'I/you'. The following, for instance,</text>
+<text top="377" left="108" width="360" height="18" font="3">was heard on the TV programme Panorama.</text>
+<text top="374" left="468" width="12" height="11" font="8"><b>10</b></text>
+<text top="425" left="108" width="34" height="18" font="3">(30)</text>
+<text top="425" left="162" width="296" height="18" font="3">He said to me I'll see you tomorrow.</text>
+<text top="473" left="108" width="702" height="18" font="3">According to principle (18), 'I', 'will', 'you', and 'tomorrow' should be interpreted in the</text>
+<text top="496" left="108" width="702" height="18" font="3">PIC, but in fact they involved an SIC. That was because the topic of the discourse was</text>
+<text top="520" left="108" width="702" height="18" font="3">a scene chronologically quite distant from the time (30) was uttered; as a result, there was</text>
+<text top="544" left="108" width="486" height="18" font="3">no risk of misinterpreting those SIC items as PIC governed.</text>
+<text top="568" left="123" width="398" height="18" font="3">Now let me amalgamate (18) with (26) into (31):</text>
+<text top="617" left="108" width="34" height="18" font="3">(31)</text>
+<text top="616" left="162" width="79" height="18" font="6"><b>Principle</b></text>
+<text top="614" left="241" width="12" height="11" font="8"><b>11</b></text>
+<text top="616" left="253" width="476" height="18" font="6"><b> of Deixis in Immediate Context</b> <b>(face-to-face situation)</b></text>
+<text top="640" left="162" width="546" height="18" font="3">PIC bounded deixes tend to be selected unless otherwise restricted.</text>
+<text top="688" left="123" width="687" height="18" font="3">This principle provides us with a new perspective on reported speech: a choice of</text>
+<text top="712" left="108" width="701" height="18" font="3">direct or indirect or mixed speech is not random but subject to principle (31). (32a) and</text>
+<text top="736" left="108" width="418" height="18" font="3">(32b), for instance, are not always in free variation.</text>
+<text top="784" left="108" width="34" height="18" font="3">(32)</text>
+<text top="784" left="162" width="14" height="18" font="3">a.</text>
+<text top="784" left="216" width="325" height="18" font="3">Bill said, 'I saw Mary on Oxford Street.'</text>
+<text top="808" left="162" width="15" height="18" font="3">b.</text>
+<text top="808" left="216" width="312" height="18" font="3">Bill said he saw you on Oxford Street.</text>
+<text top="856" left="108" width="702" height="18" font="3">If the hearer's first name is 'Mary', then the speaker will address Mary with (32b), not</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">16</text>
+<text top="1028" left="123" width="12" height="11" font="0">12</text>
+<text top="1032" left="135" width="675" height="16" font="1">It is, of course, possible to employ prosodic features such as stress, intonation, voice quality, and so</text>
+<text top="1044" left="108" width="205" height="16" font="1">on for the visual conventions.</text>
+<text top="189" left="108" width="701" height="18" font="3">with (32a). This is intuitively clear and is readily explained by (31). Similarly we can</text>
+<text top="213" left="108" width="701" height="18" font="3">argue that (15) and (16) above, repeated below as (34) and (35), will be preferred if the</text>
+<text top="237" left="108" width="702" height="18" font="3">referents of 'tomorrow' and 'here' in (33) are determined by their PIC's in (34) and (35)</text>
+<text top="261" left="108" width="104" height="18" font="3">respectively:</text>
+<text top="309" left="108" width="34" height="18" font="3">(33)</text>
+<text top="309" left="162" width="286" height="18" font="3">Bill said, 'I'll leave here tomorrow.'</text>
+<text top="356" left="108" width="34" height="18" font="3">(34)</text>
+<text top="356" left="162" width="333" height="18" font="3">Bill said that he would leave there today.</text>
+<text top="404" left="108" width="34" height="18" font="3">(35)</text>
+<text top="404" left="162" width="327" height="18" font="3">Bill said that he would leave here today.</text>
+<text top="452" left="123" width="686" height="18" font="3">Where does principle (31) come from? The most straightforward situation for deictic</text>
+<text top="476" left="108" width="701" height="18" font="3">words is that first person pronouns refer to the speaker and second person pronouns to</text>
+<text top="500" left="108" width="702" height="18" font="3">the hearer, the time denoted is easily traced in terms of the current situation, and the</text>
+<text top="524" left="108" width="701" height="18" font="3">place denoted is anchored where the speaker stands. As there are no visual clues such as</text>
+<text top="548" left="108" width="702" height="18" font="3">quotation marks in conversation, the more straightforward the structure of deixis is, the</text>
+<text top="572" left="108" width="331" height="18" font="3">less complex the interpretation becomes.</text>
+<text top="569" left="439" width="12" height="11" font="8"><b>12</b></text>
+<text top="596" left="123" width="687" height="18" font="3">Recall the cost-benefit analogy in Relevance Theory: other things being equal, the</text>
+<text top="620" left="108" width="702" height="18" font="3">smaller the processing effort the greater the relevance. Now it is clear that the principle</text>
+<text top="644" left="108" width="607" height="18" font="3">of deixis in conversation follows from the principles of Relevance Theory.</text>
+<text top="715" left="108" width="242" height="18" font="6"><b>6 Reported speech in fiction</b></text>
+<text top="763" left="108" width="340" height="18" font="6"><b>6.1 Direct and indirect speech in fiction</b></text>
+<text top="810" left="108" width="702" height="18" font="3">As noted above, there is no clear boundary in oral conversation between direct and</text>
+<text top="834" left="108" width="702" height="18" font="3">indirect quotation: rather, there is a gradience from literal resemblance in form and</text>
+<text top="858" left="108" width="702" height="18" font="3">content to loose interpretation. Notice, however, that those conclusions were obtained</text>
+<text top="882" left="108" width="701" height="18" font="3">from the analysis of conversation. There are a number of differences between</text>
+<text top="906" left="108" width="702" height="18" font="3">conversational and literary communication. In this section I will focus on direct speech</text>
+<text top="930" left="108" width="416" height="18" font="3">in fiction and move to narrative in the next section.</text>
+<text top="954" left="123" width="685" height="18" font="3">Many direct quotations in fiction differ from those in conversation and mass</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">17</text>
+<text top="890" left="123" width="12" height="11" font="0">13</text>
+<text top="895" left="136" width="674" height="16" font="1">What I mean here by 'directly quoted utterance in fiction' is the direct speech presented within</text>
+<text top="907" left="108" width="685" height="16" font="1">quotation marks, not the direct speech produced by a character and attributed to another character. </text>
+<text top="949" left="123" width="12" height="11" font="0">14</text>
+<text top="953" left="136" width="674" height="16" font="1">In conversation the type of reporting verbs are very limited in number. <i>Say</i> among others is</text>
+<text top="966" left="108" width="702" height="16" font="1">overwhelming (Uchida 1994). Sometimes a wide variety of reporting verbs are discussed, but that is only</text>
+<text top="986" left="108" width="702" height="16" font="1">applied to the world of fiction, not to oral discourse. The reason may be that in face-to-face situations</text>
+<text top="1006" left="108" width="491" height="16" font="1">prosodic information can cover what various reporting verbs represent.</text>
+<text top="1048" left="123" width="12" height="11" font="0">15</text>
+<text top="1053" left="136" width="640" height="16" font="1">Strict citation in the spoken mode is also possible if the words 'quote' and 'unquote' are used.</text>
+<text top="209" left="108" width="702" height="18" font="3">communication such as newspapers in that there is no original utterance. That is to say,</text>
+<text top="233" left="108" width="703" height="18" font="3">conversations embedded between quotation marks are 'presented' as if reported by the</text>
+<text top="257" left="108" width="703" height="18" font="3">author or narrator, but in fact they are not 'reported' in the same way as the speaker in</text>
+<text top="281" left="108" width="511" height="18" font="3">conversation reports someone's opinion, statement, or thought.</text>
+<text top="305" left="123" width="226" height="18" font="3">Direct quotations in fiction</text>
+<text top="303" left="349" width="12" height="11" font="8"><b>13</b></text>
+<text top="305" left="361" width="449" height="18" font="3"> are often perfect in every sense: precise wording, no</text>
+<text top="329" left="108" width="702" height="18" font="3">repetition, no hesitation, no meaningless fillers, no redundancy, for example. They don't</text>
+<text top="353" left="108" width="702" height="18" font="3">share many characteristics with natural conversation. Even if various reporting verbs are</text>
+<text top="377" left="108" width="139" height="18" font="3">scattered around,</text>
+<text top="374" left="247" width="12" height="11" font="8"><b>14</b></text>
+<text top="377" left="259" width="545" height="18" font="3"> this kind of reporting is not quoting per se, but a kind of narration.</text>
+<text top="401" left="123" width="688" height="18" font="3">In conversation we can in turn report to someone else what has been reported, which,</text>
+<text top="425" left="108" width="703" height="18" font="3">of course, need not be on a word-for-word basis. Utterances in fiction, however, are</text>
+<text top="449" left="108" width="702" height="18" font="3">generally strictly quoted when we cite them: we cannot directly quote Hamlet's words</text>
+<text top="473" left="108" width="702" height="18" font="3">by saying, 'Hamlet said, 'Women are easy to seduce,'' although we can, of course,</text>
+<text top="496" left="108" width="233" height="18" font="3">summarise them in this way.</text>
+<text top="494" left="341" width="12" height="11" font="8"><b>15</b></text>
+<text top="520" left="123" width="687" height="18" font="3">According to Sperber and Wilson, indirect speech in fiction, like its real-life</text>
+<text top="544" left="108" width="702" height="18" font="3">counterpart, can be classified as interpretation. Generally speaking, indirect speech is</text>
+<text top="568" left="108" width="701" height="18" font="3">more complex in structure than direct speech, since deictic changes are required, so the</text>
+<text top="592" left="108" width="702" height="18" font="3">effort required to process indirect speech will be greater than for direct speech. We can</text>
+<text top="616" left="108" width="404" height="18" font="3">therefore expect compensating contextual effects.</text>
+<text top="640" left="123" width="119" height="18" font="3">Consider (36):</text>
+<text top="688" left="108" width="34" height="18" font="3">(36)</text>
+<text top="688" left="162" width="395" height="18" font="3">John asked me to dance with his hysterical wife.</text>
+<text top="736" left="108" width="616" height="18" font="3">The direct quotation counterpart of (36) would probably be (37a) not (37b).</text>
+<text top="784" left="108" width="34" height="18" font="3">(37)</text>
+<text top="784" left="162" width="19" height="18" font="3">a. </text>
+<text top="784" left="216" width="247" height="18" font="3">Will you dance with my wife?</text>
+<text top="808" left="162" width="15" height="18" font="3">b.</text>
+<text top="808" left="216" width="330" height="18" font="3">Will you dance with my hysterical wife?</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">18</text>
+<text top="1010" left="123" width="12" height="11" font="0">16</text>
+<text top="1014" left="136" width="562" height="16" font="1">In E. Jones (ed.) (1988), <i>American Short Stories of Today</i>. Published by Penguin.</text>
+<text top="1048" left="123" width="12" height="11" font="0">17</text>
+<text top="1053" left="136" width="400" height="16" font="1">J. Grisham (1993), <i>The Client</i>. Published by Arrowbooks.</text>
+<text top="189" left="108" width="702" height="18" font="3">The new information that John's wife is hysterical is added by the speaker and assures</text>
+<text top="213" left="108" width="400" height="18" font="3">more contextual effects. Similarly, consider (38):</text>
+<text top="261" left="108" width="34" height="18" font="3">(38)</text>
+<text top="261" left="162" width="609" height="18" font="3">I asked him if my cousin Georgia was home (J.C. Oates, <i>Small Avalanches</i></text>
+<text top="258" left="771" width="12" height="11" font="8"><b>16</b></text>
+<text top="261" left="784" width="12" height="18" font="3">).</text>
+<text top="309" left="108" width="702" height="18" font="3">'Him' is 'I's uncle, and 'I' would not use the phrase 'my cousin Georgia' when addressing</text>
+<text top="332" left="108" width="191" height="18" font="3">him directly, as in (39).</text>
+<text top="380" left="108" width="34" height="18" font="3">(39)</text>
+<text top="380" left="162" width="234" height="18" font="3">Is my cousin Georgia home?</text>
+<text top="428" left="108" width="434" height="18" font="3">In normal circumstances (40) would be more natural:</text>
+<text top="476" left="108" width="34" height="18" font="3">(40)</text>
+<text top="476" left="162" width="145" height="18" font="3">Is Georgia home?</text>
+<text top="524" left="108" width="703" height="18" font="3">The information that Georgia is 'I's cousin is added by the speaker, and again we can</text>
+<text top="548" left="108" width="702" height="18" font="3">expect extra contextual effects. This is one possible justification for the switch from</text>
+<text top="572" left="108" width="200" height="18" font="3">direct to indirect speech.</text>
+<text top="596" left="123" width="686" height="18" font="3">Summary is also a type of interpretation. The following passage involves summary in</text>
+<text top="620" left="108" width="270" height="18" font="3">the form of an indirect quotation:</text>
+<text top="668" left="108" width="34" height="18" font="3">(41)</text>
+<text top="668" left="162" width="594" height="18" font="3">He told her about his encounter with the man and the switchblade and their</text>
+<text top="692" left="162" width="593" height="18" font="3">family portrait. Normally, she or any mother, would have been shocked.</text>
+<text top="716" left="162" width="594" height="18" font="3">But for Dianne, it was just another event in this horrible week (J. Grisham,</text>
+<text top="739" left="162" width="85" height="18" font="2"><i>The Client</i></text>
+<text top="737" left="247" width="12" height="11" font="8"><b>17</b></text>
+<text top="739" left="259" width="12" height="18" font="3">).</text>
+<text top="787" left="108" width="702" height="18" font="3">Anecdotes involving these three definite noun phrases have already been presented to</text>
+<text top="811" left="108" width="702" height="18" font="3">the reader, where 'he' encountered 'the man', 'the man' threatened 'he' with 'the</text>
+<text top="835" left="108" width="702" height="18" font="3">switchblade', and 'their family portrait' went missing. Mere repetitions here would be</text>
+<text top="859" left="108" width="702" height="18" font="3">redundant, so the narrator or author gives a summary or reminder, so that the reader does</text>
+<text top="883" left="108" width="285" height="18" font="3">not have to spend gratuitous effort.</text>
+<text top="907" left="123" width="686" height="18" font="3">In this subsection I have argued that direct speech in fiction is generally quite different</text>
+<text top="931" left="108" width="702" height="18" font="3">from that in face-to-face conversation in its form, as well as the lack of any original</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="19" family="Times" color="#000000"/>
+	<fontspec id="10" size="20" family="AJMJJO+MSTT31c67800" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">19</text>
+<text top="209" left="108" width="702" height="18" font="3">utterance with which to compare it. In both cases, however, direct speech presents itself</text>
+<text top="233" left="108" width="702" height="18" font="3">as resembling the original utterance primarily in form, while indirect speech presents</text>
+<text top="257" left="108" width="702" height="18" font="3">itself as resembling the original primarily in content. We can say, then, that while both</text>
+<text top="281" left="108" width="702" height="18" font="3">involve representation by resemblance, only indirect speech can be treated as</text>
+<text top="305" left="108" width="404" height="18" font="3">interpretation, both in fiction and in conversation.</text>
+<text top="329" left="123" width="687" height="18" font="3">Bearing in mind this perspective, we can divide reported speech in fiction and in</text>
+<text top="353" left="108" width="702" height="18" font="3">conversation as in (42). Thus, mixed speech shares the properties of both direct and</text>
+<text top="377" left="108" width="475" height="18" font="3">indirect speech, i.e. resemblance in both form and content.</text>
+<text top="628" left="108" width="34" height="18" font="3">(42)</text>
+<text top="532" left="172" width="64" height="17" font="9">reported</text>
+<text top="551" left="172" width="52" height="17" font="9">speech</text>
+<text top="532" left="296" width="124" height="17" font="9">mixed speech in</text>
+<text top="551" left="296" width="153" height="17" font="9">fiction/conversation</text>
+<text top="437" left="296" width="120" height="17" font="9">direct speech in</text>
+<text top="456" left="296" width="153" height="17" font="9">fiction/conversation</text>
+<text top="627" left="296" width="134" height="17" font="9">indirect speech in</text>
+<text top="646" left="296" width="153" height="17" font="9">fiction/conversation</text>
+<text top="494" left="525" width="157" height="17" font="9">resemblance in form</text>
+<text top="589" left="496" width="176" height="17" font="9">resemblance in content</text>
+<text top="608" left="515" width="145" height="17" font="9">(interpretative use)</text>
+<text top="731" left="108" width="262" height="18" font="6"><b>6.2 Deictic situations in fiction</b></text>
+<text top="779" left="108" width="702" height="18" font="3">Let us consider now how fiction in general is presented to the reader. In face-to-face</text>
+<text top="803" left="108" width="702" height="18" font="3">communication the speaker's 'now' corresponds to the hearer's 'now' and, as we have</text>
+<text top="827" left="108" width="703" height="18" font="3">seen, the event time 'now' is bounded in SIC and the speaker's and the hearer's 'now' in</text>
+<text top="851" left="108" width="37" height="18" font="3">PIC.</text>
+<text top="899" left="108" width="34" height="18" font="3">(43)</text>
+<text top="899" left="162" width="228" height="18" font="2"><i>face-to-face communication</i></text>
+<text top="946" left="432" width="183" height="18" font="3">speaker's 'now' (=PIC)</text>
+<text top="965" left="181" width="73" height="26" font="10"></text>
+<text top="970" left="255" width="11" height="18" font="3">+</text>
+<text top="965" left="266" width="220" height="26" font="10"></text>
+<text top="970" left="486" width="11" height="18" font="3">+</text>
+<text top="965" left="498" width="135" height="26" font="10"></text>
+<text top="994" left="181" width="194" height="18" font="3">event time 'now' (=SIC)</text>
+<text top="994" left="452" width="172" height="18" font="3">hearer's 'now' (=PIC)</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">20</text>
+<text top="1007" left="123" width="12" height="11" font="0">18</text>
+<text top="1012" left="136" width="674" height="16" font="1">In fact, we have to consider the possibility of a fourth immediate context, because direct quotations</text>
+<text top="1024" left="108" width="702" height="16" font="1">which are supposed to reflect the speech of the characters are presented in the characters' immediate</text>
+<text top="1044" left="108" width="62" height="16" font="1">contexts.</text>
+<text top="189" left="108" width="702" height="18" font="3">In written fiction, however, the reader never shares time of utterance with the narrator</text>
+<text top="213" left="108" width="701" height="18" font="3">or the author, and the narrator describes events in the past. Thus, fiction theoretically</text>
+<text top="237" left="108" width="702" height="18" font="3">consists of three immediate contexts: primary, secondary, and tertiary immediate</text>
+<text top="261" left="108" width="700" height="18" font="3">contexts correspond to the reader's 'now', the narrator's 'now' and the event time 'now'</text>
+<text top="285" left="108" width="103" height="18" font="3">respectively.</text>
+<text top="282" left="211" width="12" height="11" font="8"><b>18</b></text>
+<text top="285" left="224" width="586" height="18" font="3"> Tertiary immediate contexts, or TIC's, are not theoretically important and</text>
+<text top="309" left="108" width="352" height="18" font="3">can be ignored, as will be explained below.</text>
+<text top="356" left="108" width="34" height="18" font="3">(44)</text>
+<text top="356" left="162" width="52" height="18" font="2"><i>fiction</i></text>
+<text top="375" left="181" width="61" height="26" font="10"></text>
+<text top="380" left="242" width="11" height="18" font="3">+</text>
+<text top="375" left="254" width="220" height="26" font="10"></text>
+<text top="380" left="474" width="11" height="18" font="3">+</text>
+<text top="375" left="486" width="184" height="26" font="10"></text>
+<text top="380" left="669" width="11" height="18" font="3">+</text>
+<text top="375" left="681" width="110" height="26" font="10"></text>
+<text top="404" left="181" width="593" height="18" font="3">event time 'now' (=TIC)    narrator's 'now' (=SIC)    reader's 'now' (=PIC)</text>
+<text top="452" left="123" width="685" height="18" font="3">Broadly speaking, in fiction everything is 'reported' by the narrator or the author: here</text>
+<text top="476" left="108" width="702" height="18" font="3">'everything' means not only direct or indirect speech by the characters but also the</text>
+<text top="500" left="108" width="702" height="18" font="3">descriptive or narrative part. There are, of course, potential readers in the writer's mind,</text>
+<text top="524" left="108" width="702" height="18" font="3">but the reader's 'now' is not generally linguistically assumed at the time of writing. Thus,</text>
+<text top="548" left="108" width="702" height="18" font="3">figure (44) above is seen from the viewpoint of the reader. From the author's viewpoint,</text>
+<text top="572" left="108" width="702" height="18" font="3">the reader's PIC can be ignored: the narrator's 'now' becomes primary. Then within the</text>
+<text top="596" left="108" width="702" height="18" font="3">inner structure of the novel (44) can be modified to (45), where the event time 'now' and</text>
+<text top="620" left="108" width="313" height="18" font="3">the narrator's 'now' are marked as SIC</text>
+<text top="630" left="421" width="6" height="11" font="0">2</text>
+<text top="620" left="427" width="73" height="18" font="3"> and PIC</text>
+<text top="630" left="500" width="6" height="11" font="0">2</text>
+<text top="620" left="506" width="304" height="18" font="3"> respectively, and distinguished from</text>
+<text top="644" left="108" width="168" height="18" font="3">SIC and PIC in (44).</text>
+<text top="692" left="108" width="39" height="18" font="3">(45) </text>
+<text top="686" left="181" width="73" height="26" font="10"></text>
+<text top="692" left="255" width="11" height="18" font="3">+</text>
+<text top="686" left="266" width="257" height="26" font="10"></text>
+<text top="692" left="523" width="11" height="18" font="3">+</text>
+<text top="686" left="535" width="122" height="26" font="10"></text>
+<text top="716" left="181" width="188" height="18" font="3">event time 'now' (=SIC</text>
+<text top="725" left="369" width="6" height="11" font="0">2</text>
+<text top="716" left="375" width="12" height="18" font="3">) </text>
+<text top="716" left="432" width="194" height="18" font="3">   narrator's 'now' (=PIC</text>
+<text top="725" left="626" width="6" height="11" font="0">2</text>
+<text top="716" left="633" width="7" height="18" font="3">)</text>
+<text top="763" left="108" width="702" height="18" font="3">That the reader's PIC is not assumed by the author can be illustrated by the fact that it is</text>
+<text top="787" left="108" width="701" height="18" font="3">possible, though exceptional, to accommodate the pronoun 'you' in a story where 'you'</text>
+<text top="811" left="108" width="322" height="18" font="3">refers to someone other than the reader.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">21</text>
+<text top="1010" left="123" width="12" height="11" font="0">19</text>
+<text top="1014" left="136" width="519" height="16" font="1">In D. Minshull (ed.) (1994), <i>Telling Stories 3</i>. Published by Sceptre Books.</text>
+<text top="1048" left="123" width="12" height="11" font="0">20</text>
+<text top="1053" left="136" width="532" height="16" font="1">This is a phenomenon I call 'suspense'. For details see Uchida (forthcoming).</text>
+<text top="209" left="108" width="34" height="18" font="3">(46)</text>
+<text top="209" left="162" width="414" height="18" font="3">While you levelled the caravan I explored the site. </text>
+<text top="233" left="162" width="222" height="18" font="3">'Don't be long,' you called. </text>
+<text top="257" left="162" width="338" height="18" font="3">'Okay, Dad.' (R. Burns, <i>Perfect Strangers</i></text>
+<text top="255" left="500" width="12" height="11" font="8"><b>19</b></text>
+<text top="257" left="513" width="12" height="18" font="3">).</text>
+<text top="305" left="108" width="579" height="18" font="3">(46) is the beginning of the story. The reader may get confused at first,</text>
+<text top="303" left="686" width="12" height="11" font="8"><b>20</b></text>
+<text top="305" left="699" width="111" height="18" font="3"> but it is clear</text>
+<text top="329" left="108" width="697" height="18" font="3">that 'you' here refers to the narrator's father, as is confirmed by the following passage.</text>
+<text top="377" left="108" width="34" height="18" font="3">(47)</text>
+<text top="377" left="162" width="359" height="18" font="3">'Which way's your parents?' Rebecca asked.</text>
+<text top="401" left="162" width="594" height="18" font="3">'My dad's,' I corrected. I lived with mum, went on holiday with you. It</text>
+<text top="425" left="162" width="594" height="18" font="3">seemed a normal arrangement to me then. 'That way,' I told them, pointing.</text>
+<text top="449" left="162" width="103" height="18" font="3">'In the trees.'</text>
+<text top="496" left="108" width="702" height="18" font="3">The extra processing effort required is rewarded later. When 'I' went on holiday with his</text>
+<text top="520" left="108" width="702" height="18" font="3">dad, he was thirteen years old and barely knew him at all. There must have been a</text>
+<text top="544" left="108" width="701" height="18" font="3">psychologically complex state of mind behind the reasons why 'I' used 'you' to refer to</text>
+<text top="568" left="108" width="701" height="18" font="3">his father in the narrative part. Towards the end of the story when 'I' cleared 'your'</text>
+<text top="592" left="108" width="702" height="18" font="3">effects, he found a card with no address or stamp on, but there was a message. The story</text>
+<text top="616" left="108" width="224" height="18" font="3">ends by citing the message:</text>
+<text top="664" left="108" width="34" height="18" font="3">(48)</text>
+<text top="664" left="162" width="549" height="18" font="3">'Stephen called it the best holiday he's had. I'm so proud, so happy!'</text>
+<text top="712" left="123" width="685" height="18" font="3">There are two main types of narration: first person and third person. The following</text>
+<text top="736" left="108" width="675" height="18" font="3">excerpt is cited from the beginning of a short story involving first person narration.</text>
+<text top="784" left="108" width="34" height="18" font="3">(49)</text>
+<text top="784" left="162" width="593" height="18" font="3">It has been my habit for many years to take a nap after lunch. I settle</text>
+<text top="808" left="162" width="594" height="18" font="3">myself in a chair in the living-room with a cushion behind my head and my</text>
+<text top="832" left="162" width="594" height="18" font="3">feet up on a small square leather stool, and I read until I drop off. On this</text>
+<text top="856" left="162" width="594" height="18" font="3">Friday afternoon, I was in my chair and feeling as comfortable as ever with</text>
+<text top="879" left="162" width="593" height="18" font="3">a book in my hands — an old favourite, Doubleday and Westwood's The</text>
+<text top="903" left="162" width="593" height="18" font="3">Genera of Diurnal Lepidoptera — when my wife, who has never been a</text>
+<text top="927" left="162" width="594" height="18" font="3">silent lady, began to talk to me from the sofa opposite. 'These two people,'</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="10" family="Times" color="#000000"/>
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">22</text>
+<text top="989" left="123" width="12" height="11" font="0">21</text>
+<text top="994" left="136" width="462" height="16" font="1">In R. Dahl (1979), <i>Tales of the Unexpected</i>. Published by Penguin.</text>
+<text top="1028" left="123" width="12" height="11" font="0">22</text>
+<text top="1032" left="136" width="669" height="16" font="1">There is another type of first person narrative, where the narrator's deictic center is fixed to SIC</text>
+<text top="1040" left="805" width="5" height="9" font="11">2</text>
+<text top="1044" left="108" width="144" height="16" font="1">throughout the story.</text>
+<text top="189" left="162" width="308" height="18" font="3">she said, 'what time are they coming?'</text>
+<text top="213" left="162" width="525" height="18" font="3">I made no answer, so she repeated the question, louder this time.</text>
+<text top="237" left="432" width="280" height="18" font="3">(R. Dahl, <i>My Lady Love, My Dove</i></text>
+<text top="234" left="713" width="12" height="11" font="8"><b>21</b></text>
+<text top="237" left="725" width="12" height="18" font="3">).</text>
+<text top="285" left="108" width="704" height="18" font="3">The first paragraph and the inserted comment clause in the second paragraph, 'who has</text>
+<text top="309" left="108" width="701" height="18" font="3">never been a silent lady', are written based on the narrator 'I's 'present' standpoint, which</text>
+<text top="332" left="108" width="49" height="18" font="3">is PIC</text>
+<text top="342" left="157" width="6" height="11" font="0">2</text>
+<text top="332" left="163" width="647" height="18" font="3"> bounded according to (45). The second paragraph is narrated in past tense, which</text>
+<text top="356" left="108" width="702" height="18" font="3">means 'I' describes the past event from 'I's present time, but the immediate context the</text>
+<text top="380" left="108" width="701" height="18" font="3">sentences evoke is not primary but secondary. 'This Friday', for example, is not 'this'</text>
+<text top="404" left="108" width="703" height="18" font="3">Friday from 'I's present point of view but the Friday of the past event described. Thus,</text>
+<text top="428" left="108" width="702" height="18" font="3">the second paragraph, except for the inserted clause and the direct speech, is bounded in</text>
+<text top="452" left="108" width="61" height="18" font="3">the SIC</text>
+<text top="462" left="169" width="6" height="11" font="0">2</text>
+<text top="452" left="175" width="635" height="18" font="3">. The crucial evidence is that we cannot substitute 'this Friday' and 'this time' in</text>
+<text top="476" left="108" width="649" height="18" font="3">the last sentence by 'that Friday' and 'at that time', viewed from 'I's present time.</text>
+<text top="500" left="123" width="599" height="18" font="3">As in (49), a first person narrative can take both deictic viewpoints of PIC</text>
+<text top="510" left="722" width="6" height="11" font="0">2</text>
+<text top="500" left="728" width="71" height="18" font="3"> and SIC</text>
+<text top="510" left="799" width="6" height="11" font="0">2</text>
+<text top="500" left="805" width="5" height="18" font="3">.</text>
+<text top="524" left="108" width="702" height="18" font="3">In other words, it is possible for the narrator 'I' to switch his/her deictic center freely from</text>
+<text top="548" left="108" width="32" height="18" font="3">PIC</text>
+<text top="558" left="140" width="6" height="11" font="0">2</text>
+<text top="548" left="146" width="58" height="18" font="3"> to SIC</text>
+<text top="558" left="203" width="6" height="11" font="0">2</text>
+<text top="548" left="210" width="127" height="18" font="3"> and vice versa.</text>
+<text top="546" left="336" width="12" height="11" font="8"><b>22</b></text>
+<text top="572" left="123" width="451" height="18" font="3">In third person narrative the basic tense is past; i.e. SIC</text>
+<text top="582" left="575" width="6" height="11" font="0">2</text>
+<text top="572" left="581" width="230" height="18" font="3"> bounded. If present tense is</text>
+<text top="596" left="108" width="703" height="18" font="3">used, it implies generic or historical present interpretation. The following short story</text>
+<text top="620" left="108" width="704" height="18" font="3">narrated by a third person character, as is revealed later, begins with a paragraph of</text>
+<text top="644" left="108" width="169" height="18" font="3">generic descriptions.</text>
+<text top="692" left="108" width="34" height="18" font="3">(50)</text>
+<text top="692" left="162" width="595" height="18" font="3">The commonest kind of missing person is the adolescent girl, closely</text>
+<text top="716" left="162" width="595" height="18" font="3">followed by the teenage boy. The majority in this category come from</text>
+<text top="739" left="162" width="595" height="18" font="3">working-class homes and almost invariably from those where there is</text>
+<text top="763" left="162" width="595" height="18" font="3">serious parental disturbance. There is another minor peak in the third</text>
+<text top="787" left="162" width="594" height="18" font="3">decade of life, less markedly working class, and constituted by husbands</text>
+<text top="811" left="162" width="594" height="18" font="3">and wives trying to run out on marriages or domestic situations they have</text>
+<text top="835" left="162" width="593" height="18" font="3">got bored with. The figures dwindle sharply after the age of forty; older</text>
+<text top="859" left="162" width="595" height="18" font="3">cases of genuine and lasting disappearance are extremely rare, and again</text>
+<text top="883" left="162" width="594" height="18" font="3">are confined to the very poor — and even there to those, near vagabond,</text>
+<text top="907" left="162" width="594" height="18" font="3">without close family. When John Marcus Fielding disappeared, he</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">23</text>
+<text top="951" left="123" width="12" height="11" font="0">23</text>
+<text top="956" left="136" width="675" height="16" font="1">In M. Bradbury (ed.) (1987), <i>The Penguin Book of Modern British Short Stories</i>. Published by</text>
+<text top="968" left="108" width="61" height="16" font="1">Penguin.</text>
+<text top="1010" left="123" width="12" height="11" font="0">24</text>
+<text top="1014" left="136" width="213" height="16" font="1">Italics in (48) to (52) are mine.</text>
+<text top="1048" left="123" width="12" height="11" font="0">25</text>
+<text top="1053" left="136" width="32" height="16" font="7"><i>Ibid</i>.</text>
+<text top="209" left="162" width="471" height="18" font="3">therefore contravened all social and statistical probability.</text>
+<text top="233" left="486" width="228" height="18" font="3">       (J. Fowles, <i>The Enigma</i></text>
+<text top="231" left="714" width="12" height="11" font="8"><b>23</b></text>
+<text top="233" left="727" width="12" height="18" font="3">).</text>
+<text top="281" left="108" width="590" height="18" font="3">Usually third person narrative does not take the viewpoint of PIC</text>
+<text top="291" left="697" width="6" height="11" font="0">2</text>
+<text top="281" left="703" width="107" height="18" font="3">, so hearsay</text>
+<text top="305" left="108" width="701" height="18" font="3">information, which can be conveyed in present tense in first person narrative, will also</text>
+<text top="329" left="108" width="55" height="18" font="3">be SIC</text>
+<text top="339" left="164" width="6" height="11" font="0">2</text>
+<text top="329" left="170" width="640" height="18" font="3"> bounded as seen in (51). Note there the phrase 'They said' instead of 'They say'.</text>
+<text top="377" left="108" width="34" height="18" font="3">(51)</text>
+<text top="377" left="162" width="78" height="18" font="2"><i>They said</i></text>
+<text top="374" left="241" width="12" height="11" font="8"><b>24</b></text>
+<text top="377" left="253" width="503" height="18" font="3"> that Rhys was burning his baby when a gorse bush broke into</text>
+<text top="401" left="162" width="495" height="18" font="3">fire on the summit of the hill (D. Thomas, <i>The Burning Baby</i></text>
+<text top="398" left="657" width="12" height="11" font="8"><b>25</b></text>
+<text top="401" left="669" width="12" height="18" font="3">).</text>
+<text top="449" left="123" width="688" height="18" font="3">Suppose that Figure (44) is assumed in the tense system in fiction. Then the present</text>
+<text top="473" left="108" width="442" height="18" font="3">time is attributed to PIC and the past time to SIC (=PIC</text>
+<text top="482" left="550" width="6" height="11" font="0">2</text>
+<text top="473" left="556" width="254" height="18" font="3"> in(45)). Accordingly, events in</text>
+<text top="496" left="108" width="87" height="18" font="3">TIC (=SIC</text>
+<text top="506" left="195" width="6" height="11" font="0">2</text>
+<text top="496" left="201" width="609" height="18" font="3"> in (45)) are supposed to be described in past perfect tense, which is clearly</text>
+<text top="520" left="108" width="702" height="18" font="3">not the case. When past perfect tense appears in the narration, two causes are</text>
+<text top="544" left="108" width="702" height="18" font="3">conceivable: one derived from present perfect tense and the other resulting from the 'past'</text>
+<text top="568" left="108" width="504" height="18" font="3">of past tense. In either case the basic tense is registered at SIC</text>
+<text top="578" left="612" width="6" height="11" font="0">2</text>
+<text top="568" left="618" width="5" height="18" font="3">.</text>
+<text top="616" left="108" width="34" height="18" font="3">(52)</text>
+<text top="616" left="162" width="594" height="18" font="3">A month <i>had passed</i> since she <i>had left</i> the house eight hundred miles east</text>
+<text top="640" left="162" width="493" height="18" font="3">of here, and things were a lot better (S. King, <i>Rose Madder</i>).</text>
+<text top="688" left="108" width="702" height="18" font="3">It is apparent that 'had passed' originates in the present perfect form 'has passed', and 'had</text>
+<text top="712" left="108" width="691" height="18" font="3">left' in the <i>since</i> clause in the past form 'left': both the original forms are based on SIC</text>
+<text top="722" left="799" width="6" height="11" font="0">2</text>
+<text top="712" left="805" width="5" height="18" font="3">.</text>
+<text top="736" left="123" width="577" height="18" font="3">Consider the deictic words, 'now', 'ago', 'this', and 'here' in (53) to (55).</text>
+<text top="784" left="108" width="34" height="18" font="3">(53)</text>
+<text top="784" left="162" width="594" height="18" font="3">I'd wanted to watch 'Doctor Who' with Larry and Rebecca but it was too</text>
+<text top="808" left="162" width="382" height="18" font="3">late for that <i>now</i> (R. Burns, <i>Perfect Strangers</i>).</text>
+<text top="856" left="108" width="34" height="18" font="3">(54)</text>
+<text top="856" left="162" width="594" height="18" font="3">The date scribbled at the bottom was 4/17, two days <i>ago</i> (S. King, <i>Rose</i></text>
+<text top="879" left="162" width="77" height="18" font="2"><i>Madder</i>).</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">24</text>
+<text top="928" left="123" width="12" height="11" font="0">26</text>
+<text top="933" left="136" width="200" height="16" font="1">In M. Bradbury (ed.), <i>op. cit</i>.</text>
+<text top="967" left="123" width="12" height="11" font="0">27</text>
+<text top="971" left="136" width="674" height="16" font="1">There are, of course, other uses of free indirect speech, as of indirect speech: both can be used for</text>
+<text top="983" left="108" width="702" height="16" font="1">representing a particular character's utterances. Leech and Short (1981) distinguish between Free Indirect</text>
+<text top="1004" left="108" width="702" height="16" font="1">Speech, which represents utterances, and Free Indirect Thought, which represents thought. In this paper</text>
+<text top="1024" left="108" width="702" height="16" font="1">the main focus is on free indirect speech as representing characters' thought, or Free Indirect Thought</text>
+<text top="1044" left="108" width="188" height="16" font="1">in Leech and Short's terms.</text>
+<text top="189" left="108" width="34" height="18" font="3">(55)</text>
+<text top="189" left="162" width="594" height="18" font="2"><i>This</i> was the view he had been thinking of. Vaguely, without really</text>
+<text top="213" left="162" width="594" height="18" font="3">directing his walk, he had felt he would get the whole thing from <i>this </i>point.</text>
+<text top="237" left="162" width="594" height="18" font="3">For twelve years, whenever he had recalled<i> this </i>scene, he had imagined it</text>
+<text top="261" left="162" width="594" height="18" font="3">as it looked from <i>here</i>. <i>Now</i> the valley lay sunken in front of him, utterly</text>
+<text top="285" left="162" width="594" height="18" font="3">deserted, shallow, bare fields, black and sodden as the bed of an ancient</text>
+<text top="309" left="162" width="461" height="18" font="3">lake after the weeks of rain  (T. Hughes, <i>The Rain Horse</i></text>
+<text top="306" left="624" width="12" height="11" font="8"><b>26</b></text>
+<text top="309" left="636" width="12" height="18" font="3">).</text>
+<text top="356" left="108" width="702" height="18" font="3">Notice that these lexical items occur in the descriptive part of the narration. They are</text>
+<text top="380" left="108" width="701" height="18" font="3">generally considered to be connected with present tense, but, as is evident here, they</text>
+<text top="404" left="108" width="702" height="18" font="3">freely co-occur with past tense in fiction. The reason is that the events are described from</text>
+<text top="428" left="108" width="312" height="18" font="3">the narrator's point of view, i.e. in PIC</text>
+<text top="438" left="420" width="6" height="11" font="0">2</text>
+<text top="428" left="426" width="5" height="18" font="3">.</text>
+<text top="500" left="108" width="288" height="18" font="6"><b>6.3 Free indirect speech in fiction</b></text>
+<text top="548" left="108" width="702" height="18" font="3">Generally speaking, fiction consists of direct quotations and narration, and the latter is</text>
+<text top="572" left="108" width="702" height="18" font="3">mainly composed of description, indirect quotations, and free indirect discourse. I</text>
+<text top="596" left="108" width="703" height="18" font="3">suggested above that direct quoting in fiction involves resemblance of form and indirect</text>
+<text top="620" left="108" width="702" height="18" font="3">speech involves interpretive resemblance. I will argue that free indirect speech, like</text>
+<text top="644" left="108" width="630" height="18" font="3">mixed forms, involves both resemblance of form and resemblance of content.</text>
+<text top="667" left="123" width="688" height="18" font="3">Free indirect speech has been known as a literary technique of a particular school, 'the</text>
+<text top="691" left="108" width="702" height="18" font="3">stream of consciousness' school, and nowadays it is widely found in any genre of</text>
+<text top="715" left="108" width="702" height="18" font="3">literature from modern fiction to crime novels. As the word 'consciousness' suggests, the</text>
+<text top="739" left="108" width="690" height="18" font="3">main concern of this type of speech is with expressing what characters are thinking.</text>
+<text top="737" left="798" width="12" height="11" font="8"><b>27</b></text>
+<text top="763" left="108" width="702" height="18" font="3">The formal features of free indirect speech include identity of tense and person pronouns</text>
+<text top="787" left="108" width="702" height="18" font="3">with the narrative part, retention of time deixis such as 'now' and 'today' or place deixis</text>
+<text top="811" left="108" width="702" height="18" font="3">such as 'here' and 'this side', and so on. It is often suggested in the literature that those</text>
+<text top="835" left="108" width="701" height="18" font="3">characteristics are markers of free indirect speech, but as I argued in the previous sub-</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="17" family="Times" color="#000000"/>
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">25</text>
+<text top="951" left="123" width="12" height="11" font="0">28</text>
+<text top="956" left="136" width="172" height="16" font="1">Cf. Fludernik (1993: 332</text>
+<text top="951" left="308" width="38" height="22" font="12">38).</text>
+<text top="989" left="123" width="12" height="11" font="0">29</text>
+<text top="994" left="136" width="675" height="16" font="1">Some novels have more than one narrator. Our model of immediate contexts smoothly</text>
+<text top="1006" left="108" width="235" height="16" font="1">accommodates multiple narrators.</text>
+<text top="1048" left="123" width="12" height="11" font="0">30</text>
+<text top="1053" left="136" width="316" height="16" font="1">Example (3) above can be also included here.</text>
+<text top="209" left="108" width="484" height="18" font="3">section, they are quite general features of the narrative part.</text>
+<text top="207" left="592" width="12" height="11" font="8"><b>28</b></text>
+<text top="209" left="604" width="5" height="18" font="3"> </text>
+<text top="233" left="123" width="686" height="18" font="3">In first person narrative it is quite natural for the narrator to express his or her own</text>
+<text top="257" left="108" width="702" height="18" font="3">thought even in the narrative part, while in third person narrative, the narrator, whoever</text>
+<text top="281" left="108" width="95" height="18" font="3">he or she is</text>
+<text top="279" left="203" width="12" height="11" font="8"><b>29</b></text>
+<text top="281" left="215" width="595" height="18" font="3">, has to enter into the inner mental life of the characters as it were. How</text>
+<text top="305" left="108" width="218" height="18" font="3">naturally can this be done?</text>
+<text top="329" left="123" width="686" height="18" font="3">Let me take a cognitive approach to the problem. It is a delicate question whether we</text>
+<text top="353" left="108" width="702" height="18" font="3">are exploiting language while thinking, but what is clear is that not all thought can be</text>
+<text top="377" left="108" width="702" height="18" font="3">faithfully and literally expressed in words. In this sense Sperber and Wilson (1986/95:</text>
+<text top="401" left="108" width="702" height="18" font="3">231) are right in saying that 'every utterance is an interpretive expression of a thought of</text>
+<text top="425" left="108" width="112" height="18" font="3">the speaker's.'</text>
+<text top="449" left="123" width="687" height="18" font="3">Thought is a spontaneous process which could be prefaced by the phrase 'I think',</text>
+<text top="473" left="108" width="702" height="18" font="3">where the subject is first person and the verb in the present tense. If the narrator wants</text>
+<text top="496" left="108" width="702" height="18" font="3">to report a character's thought, the most straightforward way is to use something like</text>
+<text top="520" left="108" width="702" height="18" font="3">'direct' speech, which is of course possible. Another way is to embed the thought in the</text>
+<text top="544" left="108" width="701" height="18" font="3">narrative part. If it is presented on a first-person present-tense basis, i.e. in the format of</text>
+<text top="568" left="108" width="621" height="18" font="3">direct speech, it is quite easy to detect that it is a representation of a thought.</text>
+<text top="592" left="123" width="687" height="18" font="3">If the thought is embedded in the narration using the format of indirect speech, the</text>
+<text top="616" left="108" width="702" height="18" font="3">boundary between narration and embedded thought becomes obscure. From a formal</text>
+<text top="640" left="108" width="701" height="18" font="3">point of view it is difficult to distinguish free indirect speech from the rest of the</text>
+<text top="664" left="108" width="702" height="18" font="3">narrative. What is needed is some way to bridge the gap between the two. The verb</text>
+<text top="688" left="108" width="702" height="18" font="3">'think' is, of course, a literal marker to evoke a thought process, and human perception</text>
+<text top="712" left="108" width="702" height="18" font="3">is another candidate: seeing, hearing, touching, tasting, or smelling something can trigger</text>
+<text top="736" left="108" width="702" height="18" font="3">a thought. As a matter of fact, there are lots of cases where free indirect speech starts</text>
+<text top="760" left="108" width="669" height="18" font="3">from descriptions of perceptions of characters. (56) and (57) are typical examples:</text>
+<text top="757" left="777" width="12" height="11" font="8"><b>30</b></text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">26</text>
+<text top="972" left="123" width="12" height="11" font="0">31</text>
+<text top="976" left="136" width="448" height="16" font="1">In E. Hemingway (1958), <i>In Our Time</i>. Published by Macmillan.</text>
+<text top="1010" left="123" width="12" height="11" font="0">32</text>
+<text top="1014" left="136" width="200" height="16" font="1">In M. Bradbury (ed.), <i>op. cit</i>.</text>
+<text top="1048" left="123" width="12" height="11" font="0">33</text>
+<text top="1053" left="136" width="141" height="16" font="1">Boggis is 'his' name.</text>
+<text top="189" left="108" width="34" height="18" font="3">(56)</text>
+<text top="189" left="162" width="594" height="18" font="3">Liking him she opened the door and looked out. It was raining harder. A</text>
+<text top="213" left="162" width="594" height="18" font="3">man in a rubber cape was crossing the empty square to the cafe. The cat</text>
+<text top="237" left="162" width="594" height="18" font="3">would be around to the right. Perhaps she could go along under the eaves</text>
+<text top="261" left="162" width="262" height="18" font="3">(E. Hemingway, <i>Cat in the Rain</i></text>
+<text top="258" left="425" width="12" height="11" font="8"><b>31</b></text>
+<text top="261" left="437" width="12" height="18" font="3">).</text>
+<text top="309" left="108" width="34" height="18" font="3">(57)</text>
+<text top="309" left="162" width="595" height="18" font="3">Late in the afternoon, when she had given him up and had even changed</text>
+<text top="332" left="162" width="595" height="18" font="3">out of her pink dress into her smock and jeans and was working once more</text>
+<text top="356" left="162" width="594" height="18" font="3">at her bench, the doorbell rang. William had come, after all. It was in the</text>
+<text top="380" left="162" width="594" height="18" font="3">nature of their love affair that his visits were fitful: he had a wife and</text>
+<text top="404" left="162" width="316" height="18" font="3">children (V.S. Pritchett, <i>A Family Man</i></text>
+<text top="402" left="478" width="12" height="11" font="8"><b>32</b></text>
+<text top="404" left="491" width="12" height="18" font="3">).</text>
+<text top="452" left="108" width="703" height="18" font="3">In (56) after 'she looked out', what she sees follows. Then she thinks about 'the cat': the</text>
+<text top="476" left="108" width="702" height="18" font="3">result is expressed in free indirect speech in the last two sentences. (57) is an auditory</text>
+<text top="500" left="108" width="637" height="18" font="3">example, which triggers the free indirect thought 'William had come, after all.'</text>
+<text top="524" left="123" width="686" height="18" font="3">Bearing in mind the above discussion, let me analyse free indirect speech in terms of</text>
+<text top="548" left="108" width="701" height="18" font="3">Relevance Theory. (58) and (59) below are examples of 'direct' free indirect speech and</text>
+<text top="572" left="108" width="560" height="18" font="3">'indirect' free indirect speech respectively, from the same short story.</text>
+<text top="620" left="108" width="34" height="18" font="3">(58)</text>
+<text top="630" left="162" width="6" height="11" font="0">1</text>
+<text top="620" left="168" width="350" height="18" font="3">He <i>must</i> have time to think, he told himself. </text>
+<text top="630" left="518" width="6" height="11" font="0">2</text>
+<text top="620" left="524" width="232" height="18" font="3">More important still, he must</text>
+<text top="644" left="162" width="594" height="18" font="3">have time to compose himself thoroughly before he said another word.</text>
+<text top="677" left="162" width="6" height="11" font="0">3</text>
+<text top="668" left="168" width="182" height="18" font="3">Take it gently, Boggis.</text>
+<text top="665" left="350" width="12" height="11" font="8"><b>33</b></text>
+<text top="668" left="362" width="5" height="18" font="3"> </text>
+<text top="677" left="367" width="6" height="11" font="0">4</text>
+<text top="668" left="373" width="270" height="18" font="3">And whatever you do keep calm. </text>
+<text top="677" left="643" width="6" height="11" font="0">5</text>
+<text top="668" left="649" width="107" height="18" font="3">These people</text>
+<text top="692" left="162" width="341" height="18" font="3">may be ignorant, but they are not stupid. </text>
+<text top="701" left="504" width="6" height="11" font="0">6</text>
+<text top="692" left="510" width="246" height="18" font="3">They are suspicious and wary</text>
+<text top="716" left="162" width="68" height="18" font="3">and sly. </text>
+<text top="725" left="230" width="6" height="11" font="0">7</text>
+<text top="716" left="237" width="458" height="18" font="3">And if it is really true — no it <i>can't</i> be, it <i>can't</i> be true ...</text>
+<text top="763" left="108" width="34" height="18" font="3">(59)</text>
+<text top="773" left="162" width="6" height="11" font="0">8</text>
+<text top="763" left="168" width="169" height="18" font="3">But that was not all. </text>
+<text top="773" left="337" width="6" height="11" font="0">9</text>
+<text top="763" left="343" width="413" height="18" font="3">There was a chair there as well, a single chair, and</text>
+<text top="787" left="162" width="594" height="18" font="3">if he were not mistaken it was of an even finer quality than the table.</text>
+<text top="821" left="162" width="12" height="11" font="0">10</text>
+<text top="811" left="174" width="268" height="18" font="3">Another Hepplewhite, wasn't it? </text>
+<text top="821" left="442" width="12" height="11" font="0">11</text>
+<text top="811" left="455" width="195" height="18" font="3">And oh, what a beauty! </text>
+<text top="821" left="650" width="12" height="11" font="0">12</text>
+<text top="811" left="662" width="94" height="18" font="3">The lattices</text>
+<text top="835" left="162" width="594" height="18" font="3">on the back were finely carved with the honeysuckle, the husk, and the</text>
+<text top="859" left="162" width="594" height="18" font="3">paterae, the caning on the seat was original, the legs were very gracefully</text>
+<text top="883" left="162" width="594" height="18" font="3">turned and the two back ones had that peculiar outward splay that meant so</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">27</text>
+<text top="1048" left="123" width="12" height="11" font="0">34</text>
+<text top="1053" left="136" width="129" height="16" font="1">In R. Dahl, <i>op. cit</i>.</text>
+<text top="209" left="162" width="55" height="18" font="3">much. </text>
+<text top="219" left="217" width="12" height="11" font="0">13</text>
+<text top="209" left="230" width="432" height="18" font="3">It was an exquisite chair (R. Dahl, <i>Parson's Pleasure</i></text>
+<text top="207" left="661" width="12" height="11" font="8"><b>34</b></text>
+<text top="209" left="673" width="12" height="18" font="3">).</text>
+<text top="257" left="108" width="702" height="18" font="3">Sentences 3 to 7 in (58) are easily detected as free indirect speech because they are</text>
+<text top="281" left="108" width="702" height="18" font="3">presented in present tense: more accessible to the inner part of the mind. We must note</text>
+<text top="305" left="108" width="702" height="18" font="3">that the present tense here is not the reader's 'now' but the narrator's 'now'. Sentence 2 is</text>
+<text top="329" left="108" width="702" height="18" font="3">a little ambiguous, but prefaced by 'he told himself' in the previous sentence, it most</text>
+<text top="353" left="108" width="304" height="18" font="3">probably belongs to the same speech.</text>
+<text top="377" left="123" width="686" height="18" font="3">In (59) past tense is used and the situations are a bit complicated, but sentences 10 and</text>
+<text top="401" left="108" width="702" height="18" font="3">11 are unmistakably free indirect speech because of the tag question and exclamatory</text>
+<text top="425" left="108" width="702" height="18" font="3">forms. It is safe to say that sentence 8 is purely descriptive but the other sentences are</text>
+<text top="449" left="108" width="702" height="18" font="3">subtler than sentence 2 in (58). Sentences 9 and 12 reflect the visual image of the</text>
+<text top="473" left="108" width="702" height="18" font="3">character, Boggis: that chair should be just in front of him. As noted above, visual</text>
+<text top="496" left="108" width="701" height="18" font="3">description is one of the most popular ways to lead to free indirect speech, but there is</text>
+<text top="520" left="108" width="702" height="18" font="3">no crucial evidence there. The last sentence is also indeterminate as to whether it is</text>
+<text top="544" left="108" width="367" height="18" font="3">Boggis' evaluation or a descriptive utterance.</text>
+<text top="568" left="123" width="686" height="18" font="3">What is important here is not to decide whether this is free indirect speech or not, but</text>
+<text top="592" left="108" width="702" height="18" font="3">to acknowledge that the boundary between the narrative part and the speech is obscure.</text>
+<text top="616" left="108" width="578" height="18" font="3">The most salient characteristic of free indirect speech is this ambiguity.</text>
+<text top="640" left="123" width="686" height="18" font="3">'Direct' free indirect speech like (58) does not require much processing effort to</text>
+<text top="664" left="108" width="701" height="18" font="3">recognise as such. So in that sense it is relevant enough. 'Indirect' free indirect speech,</text>
+<text top="688" left="108" width="702" height="18" font="3">on the other hand, requires some extra effort to process, and should offer compensating</text>
+<text top="712" left="108" width="702" height="18" font="3">effects. For instance, if the reader goes on to interpret the passage as a description of a</text>
+<text top="736" left="108" width="702" height="18" font="3">state of affairs and later realises that this interpretation is wrong, the contextual effect</text>
+<text top="760" left="108" width="702" height="18" font="3">would be that of contradiction. If the takeover is so subtle that the reader cannot detect</text>
+<text top="784" left="108" width="702" height="18" font="3">that a passage represents the mental process of a character, this is a case of</text>
+<text top="808" left="108" width="701" height="18" font="3">indeterminacy, which may be a kind of 'deliberate ambiguity'. It is this indeterminacy</text>
+<text top="832" left="108" width="702" height="18" font="3">that enables the reader to enter from the descriptive narration into the characters' mind</text>
+<text top="856" left="108" width="123" height="18" font="3">quite naturally.</text>
+<text top="879" left="123" width="653" height="18" font="3">Recall principle (31) of reported speech in conversation, repeated below as (60).</text>
+<text top="928" left="108" width="34" height="18" font="3">(60)</text>
+<text top="928" left="162" width="555" height="18" font="6"><b>Principle of Deixis in Immediate Context (face-to-face situation)</b></text>
+<text top="952" left="162" width="546" height="18" font="3">PIC bounded deixes tend to be selected unless otherwise restricted.</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="51" height="16" font="7"><i>Uchida</i></text>
+<text top="132" left="108" width="17" height="16" font="1">28</text>
+<text top="189" left="108" width="520" height="18" font="3">We could posit a similar version for the narrative part in fiction.</text>
+<text top="237" left="108" width="34" height="18" font="3">(61)</text>
+<text top="237" left="162" width="429" height="18" font="6"><b>Principle of Deixis in Immediate Context (fiction)</b></text>
+<text top="261" left="162" width="32" height="18" font="3">SIC</text>
+<text top="271" left="194" width="6" height="11" font="0">2</text>
+<text top="261" left="200" width="515" height="18" font="3"> bounded deixes tend to be selected unless otherwise restricted.</text>
+<text top="309" left="108" width="702" height="18" font="3">I explained above that principle (31)/(60) is nicely accommodated in the framework of</text>
+<text top="333" left="108" width="702" height="18" font="3">Relevance Theory. Principle (61) differs from (60) in that the deixes are anchored in</text>
+<text top="357" left="108" width="32" height="18" font="3">SIC</text>
+<text top="367" left="140" width="6" height="11" font="0">2</text>
+<text top="357" left="146" width="147" height="18" font="3">, not PIC or PIC</text>
+<text top="367" left="293" width="6" height="11" font="0">2</text>
+<text top="357" left="299" width="46" height="18" font="3">. SIC</text>
+<text top="367" left="345" width="6" height="11" font="0">2</text>
+<text top="357" left="351" width="459" height="18" font="3"> is not reader-oriented, so if principle (61) is applied</text>
+<text top="381" left="108" width="702" height="18" font="3">especially to free indirect speech in fiction, it demands more processing effort from the</text>
+<text top="405" left="108" width="702" height="18" font="3">reader, but the principle of relevance guarantees compensating contextual effects. So</text>
+<text top="429" left="108" width="380" height="18" font="3">principle (61) also fits with Relevance Theory.</text>
+<text top="453" left="123" width="687" height="18" font="3">Notice that the principle in conversation activates the effort side of relevance and that</text>
+<text top="476" left="108" width="702" height="18" font="3">in fiction the effect side of relevance. That is to say, reported speech in general can be</text>
+<text top="500" left="108" width="702" height="18" font="3">explained by a single principle of relevance, but the same principle is applied to reported</text>
+<text top="524" left="108" width="614" height="18" font="3">speech in conversation quite differently from free indirect speech in fiction.</text>
+<text top="597" left="108" width="113" height="18" font="6"><b>7 Conclusion</b></text>
+<text top="644" left="108" width="701" height="18" font="3">According to Sperber and Wilson, the context is the set of assumptions actually used in</text>
+<text top="668" left="108" width="702" height="18" font="3">interpreting an utterance, and those assumptions are dynamically determined by the</text>
+<text top="692" left="108" width="702" height="18" font="3">hearer in the process of searching for an optimally relevant interpretation. In the present</text>
+<text top="716" left="108" width="701" height="18" font="3">paper we have adopted this dynamic view of contexts, rejecting the traditional static view</text>
+<text top="740" left="108" width="414" height="18" font="3">and developing the concept of immediate contexts.</text>
+<text top="764" left="123" width="687" height="18" font="3">We have demonstrated that immediate contexts can nicely accommodate deictic</text>
+<text top="788" left="108" width="702" height="18" font="3">phenomena in a theory of linguistic communication. It has become evident that</text>
+<text top="811" left="108" width="702" height="18" font="3">immediate contexts and deixis are crucial if we want to provide a comprehensive account</text>
+<text top="835" left="108" width="702" height="18" font="3">of reported speech. Based on pragmatic principle (31)/(60) within the framework of</text>
+<text top="859" left="108" width="702" height="18" font="3">Relevance Theory, we have explained the preference for one type of reported speech</text>
+<text top="883" left="108" width="702" height="18" font="3">over another, and the behaviours of reported speech both in conversation and in fiction.</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="756" width="54" height="16" font="7"><i>Immediate</i></text>
+<text top="152" left="108" width="202" height="16" font="7"><i>contexts and reported speech</i></text>
+<text top="132" left="793" width="17" height="16" font="1">29</text>
+<text top="209" left="108" width="95" height="18" font="6"><b>References</b></text>
+<text top="256" left="108" width="701" height="16" font="1">Bach, K. (to appear) The semantics-pragmatics distinction: what it is said and why it matters.</text>
+<text top="276" left="123" width="160" height="16" font="7"><i>Linguistische Berichte</i>.</text>
+<text top="297" left="108" width="549" height="16" font="1">Banfield, A. (1982). <i>Unspeakable sentences</i>. Boston: Routledge &amp; Kegan Paul.</text>
+<text top="317" left="108" width="487" height="16" font="1">Brown, G. and G. Yule. (1983).<i> Discourse analysis</i>. Cambridge: CUP.</text>
+<text top="337" left="108" width="662" height="16" font="1">Clark, H. H. and R. J. Gerrig. (1990). Quotations as demonstrations. <i>Language</i> 66 (4). 764-805.</text>
+<text top="358" left="108" width="702" height="16" font="1">Coulmas, F. (1986). Reported speech: some general issues. In F. Coulmas (ed.), <i>Direct and indirect</i></text>
+<text top="378" left="123" width="208" height="16" font="7"><i>speech</i>, 1-28. Berlin: Mouton.</text>
+<text top="398" left="108" width="651" height="16" font="1">Fillmore, C. J. (1975). Santa Cruz lectures on deixis. Ms. Indiana University Linguistics Club.</text>
+<text top="419" left="108" width="551" height="16" font="1">Fleischman, S. (1990). <i>Tense and narrativity</i>. Austin: Unversity of Texas Press.</text>
+<text top="439" left="108" width="667" height="16" font="1">Fludernik, M. (1993).<i> The fictions of language and the languages of fiction.</i> London: Routledge.</text>
+<text top="459" left="108" width="702" height="16" font="1">Higashimori, I. and D. Wilson. (1996). Questions on <i>Relevance</i>. <i>UCL Working Papers in Linguistics</i> 8.</text>
+<text top="480" left="123" width="53" height="16" font="1">111-24.</text>
+<text top="500" left="108" width="508" height="16" font="1">Leech, G. L. and M. H. Short. (1981). <i>Style in fiction</i>. London: Longman.</text>
+<text top="520" left="108" width="378" height="16" font="1">Levinson, S. C. (1983). <i>Pragmatics</i>. Cambridge: CUP.</text>
+<text top="541" left="108" width="324" height="16" font="1">Lyons, J. (1977). <i>Semantics</i>. Cambridge: CUP.</text>
+<text top="561" left="108" width="619" height="16" font="1">Partee, B. H. (1985). Situations, worlds and contexts. <i>Linguistics and Philosophy</i> 8. 53-8.</text>
+<text top="581" left="108" width="573" height="16" font="1">Recanati, F. (1996). Domains of discourse. <i>Linguistics and Philosophy</i> 19. 445-75.</text>
+<text top="602" left="108" width="702" height="16" font="1">Schegloff, E. (1972). Notes on a conversational practice: formulating place. In D. Sundow (ed.), <i>Studies</i></text>
+<text top="622" left="123" width="475" height="16" font="7"><i>in social interaction</i>. 346-80. New York: Holt, Rinhart and Winston.</text>
+<text top="643" left="108" width="702" height="16" font="1">Sperber, D. and D. Wilson. (1986/1995).<i> Relevance: Communication and cognition</i>. Oxford: Blackwell.</text>
+<text top="663" left="108" width="702" height="16" font="1">Sternberg, M. (1982). Point of view and the indirections of direct speech. <i>Language and Style</i>. 15 (1).</text>
+<text top="683" left="123" width="53" height="16" font="1">67-117.</text>
+<text top="704" left="108" width="702" height="16" font="1">Sternberg, M. (1991). How indirect discourse means. In R. D. Sell (ed.), <i>Literary Pragmatics</i>. 62-93.</text>
+<text top="724" left="123" width="138" height="16" font="1">London: Routledge.</text>
+<text top="744" left="108" width="578" height="16" font="1">Svartvik, J. and R. Quirk. (eds.) (1980). <i>A corpus of English conversation</i>. Gleerup.</text>
+<text top="765" left="108" width="702" height="16" font="1">Uchida, S. (1994). <i>Kaiwa to inyou</i> (Conversation and quotation). In <i>Eigogaku to Eigokyouikugaku</i></text>
+<text top="785" left="123" width="481" height="16" font="1">(English linguistics and applied linguistics). 13-22. Tokyo: Kairyudo.</text>
+<text top="805" left="108" width="702" height="16" font="1">Uchida, S. (forthcoming) Text and relevance. In R. Carston, S. Uchida, and N. S. Song (eds.), <i>Relevance</i></text>
+<text top="826" left="123" width="386" height="16" font="7"><i>theory: Applications and implications</i>. John Benjamins.</text>
+<text top="846" left="108" width="702" height="16" font="1">Wade, E. and H. H. Clark. (1993). Reproduction and demonstration in quotations. <i>Journal of Memory</i></text>
+<text top="866" left="123" width="183" height="16" font="7"><i>and Language </i>32. 805-19.</text>
+<text top="887" left="108" width="702" height="16" font="1">Wilson, D. (1994). Relevance and understanding. In G. Brown, K. Malkmjaer, A. Pollitt, and J. Williams</text>
+<text top="907" left="123" width="406" height="16" font="1">(eds.),  <i>Language and understanding</i>. 35-58. Oxford: OUP.</text>
+<text top="927" left="108" width="528" height="16" font="1">Wilson, D. (1996). Lecture notes from Pragmatic Theory 1996-97. UCL ms.</text>
+<text top="948" left="108" width="702" height="16" font="1">Wilson, D. and D. Sperber. (1984). On choosing the contexts for utterance-interpretation. In J. Allwood</text>
+<text top="968" left="123" width="443" height="16" font="1">and N. Enquist (eds.), <i>Foregrounding background</i>. Lund: Doxa.</text>
+<text top="988" left="108" width="702" height="16" font="1">Wilson, D. and Sperber, D. (1988). Representation and relevance. In R. Kempson, <i>Mental</i></text>
+<text top="1009" left="123" width="687" height="16" font="7"><i>representation: The interface between language and reality</i>. 133-53. Cambridge: Cambridge</text>
+<text top="1029" left="123" width="117" height="16" font="1">University Press.</text>
+</page>
+</pdf2xml>

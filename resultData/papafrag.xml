@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="36" family="Times" color="#000000"/>
+	<fontspec id="4" size="21" family="Times" color="#000000"/>
+	<fontspec id="5" size="20" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+<text top="986" left="130" width="681" height="15" font="0">I am grateful to Deirdre Wilson for her insightful comments and continuous support. I also thank</text>
+<text top="981" left="123" width="6" height="11" font="1">*</text>
+<text top="1005" left="108" width="702" height="15" font="0">Neil Smith, Paul Horwich, Giannis Veloudis and Villy Rouchota for offering me stimulating discussions</text>
+<text top="1025" left="108" width="702" height="15" font="0">on generics and comments on earlier versions of this paper. Finally, I would like to thank the State</text>
+<text top="1045" left="108" width="638" height="15" font="0">Scholarships Foundation in Greece for financially supporting my postgraduate studies at UCL.</text>
+<text top="132" left="108" width="364" height="18" font="2"><i>UCL Working Papers in Linguistics 8 (1996)</i></text>
+<text top="184" left="108" width="179" height="32" font="3"><i><b>On generics</b></i></text>
+<text top="180" left="287" width="11" height="19" font="4"><i><b>*</b></i></text>
+<text top="269" left="108" width="194" height="18" font="5">ANNA PAPAFRAGOU</text>
+<text top="341" left="162" width="75" height="18" font="6"><b>Abstract</b></text>
+<text top="387" left="162" width="594" height="15" font="0">In this paper I argue against previous approaches to the semantics of generics which</text>
+<text top="407" left="162" width="594" height="15" font="0">involved the notions of prototype, stereotype and relevant quantification. I assume that the</text>
+<text top="427" left="162" width="594" height="15" font="0">logical form of generics includes a generic operator which, as Heim (1992) has suggested,</text>
+<text top="446" left="162" width="594" height="15" font="0">can be construed as the modal operator of necessity. After demonstrating that the presence</text>
+<text top="466" left="162" width="594" height="15" font="0">of the generic operator in a semantic representation, as well as its domain of quantification,</text>
+<text top="486" left="162" width="593" height="15" font="0">are pragmatically supplied, I go on to show how the various interpretations generics may</text>
+<text top="506" left="162" width="555" height="15" font="0">receive can be successfully accounted for within a relevance-theoretic framework.</text>
+<text top="574" left="108" width="125" height="18" font="6"><b>1 Introduction</b></text>
+<text top="621" left="108" width="702" height="18" font="5">There have been two types of phenomena traditionally classified as 'generic' in philosophy</text>
+<text top="645" left="108" width="702" height="18" font="5">and linguistics. The first involves reference to a kind, as exemplified in (1) and (2); the</text>
+<text top="668" left="108" width="702" height="18" font="5">subject NPs do not refer to a particular orchid or group of orchids but rather to the kind</text>
+<text top="692" left="108" width="107" height="18" font="5">Orchid itself:</text>
+<text top="740" left="108" width="24" height="18" font="5">(1)</text>
+<text top="740" left="162" width="164" height="18" font="5">Orchids are flowers.</text>
+<text top="787" left="108" width="24" height="18" font="5">(2)</text>
+<text top="787" left="162" width="183" height="18" font="5">The orchid is a flower.</text>
+<text top="835" left="108" width="702" height="18" font="5">The second involves propositions which do not describe specific episodes or isolated facts</text>
+<text top="859" left="108" width="702" height="18" font="5">but instead report a regularity that summarises groups of particular episodes or facts. For</text>
+<text top="882" left="108" width="702" height="18" font="5">instance, (3) reports some kind of general property attributed to the earth; it captures</text>
+<text top="906" left="108" width="702" height="18" font="5">some sort of generalisation over particular events. Similarly (4) states something not</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="10" height="18" font="5">2</text>
+<text top="1025" left="130" width="680" height="15" font="0">I will use the terms 'generics' and 'generic propositions/statements' in relation to both characterising</text>
+<text top="1020" left="123" width="6" height="11" font="1">1</text>
+<text top="1045" left="108" width="380" height="15" font="0">sentences and sentences containing kind-referring NPs.  </text>
+<text top="194" left="108" width="701" height="18" font="5">about an individual elephant but rather about elephants in general — again a</text>
+<text top="218" left="108" width="528" height="18" font="5">generalisation based on properties of specific members of the set:</text>
+<text top="265" left="108" width="24" height="18" font="5">(3)</text>
+<text top="265" left="162" width="253" height="18" font="5">The earth turns around the sun.</text>
+<text top="313" left="108" width="24" height="18" font="5">(4)</text>
+<text top="313" left="162" width="186" height="18" font="5">An elephant eats grass.</text>
+<text top="360" left="108" width="702" height="18" font="5">Following Krifka et al. (1995), I will call the subject NPs in (1) and (2) <i>kind-referring</i> (or</text>
+<text top="384" left="108" width="702" height="18" font="2"><i>generic</i>) NPs, as opposed to <i>object-referring</i> NPs, and the predications involved in such</text>
+<text top="408" left="108" width="702" height="18" font="5">sentences<i> kind predications</i>, in opposition to <i>object predications</i>. I will call sentences like</text>
+<text top="432" left="108" width="702" height="18" font="5">(3) and (4) <i>characterising sentences</i> (or simply <i>generic sentences</i>); these will be opposed</text>
+<text top="455" left="108" width="702" height="18" font="5">to <i>particular sentences</i>, which express statements about particular events, properties of</text>
+<text top="479" left="108" width="702" height="18" font="5">particular objects, and the like. The respective predications will be classified as</text>
+<text top="503" left="108" width="702" height="18" font="2"><i>characterising</i> (as opposed to <i>particular</i>) predications. Other common names for</text>
+<text top="527" left="108" width="703" height="18" font="5">characterising sentences are 'habitual', 'dispositional' or '(g)nomic' (vs. 'episodic')</text>
+<text top="550" left="108" width="83" height="18" font="5">sentences.</text>
+<text top="548" left="191" width="6" height="11" font="1">1</text>
+<text top="574" left="123" width="687" height="18" font="5">Obviously reference to kinds and characterising sentences have something in common:</text>
+<text top="598" left="108" width="702" height="18" font="5">in both cases we abstract away from particulars, be they members of a kind or specific</text>
+<text top="622" left="108" width="702" height="18" font="5">events. I will make no attempt here to reduce one to the other, since it turns out that there</text>
+<text top="645" left="108" width="702" height="18" font="5">are significant linguistic differences among them and therefore it might be better to keep</text>
+<text top="669" left="108" width="701" height="18" font="5">them separated (see Krifka et al. 1995). Instead, I would like to focus on a more general</text>
+<text top="693" left="108" width="701" height="18" font="5">problem: namely, what is the nature of genericness itself? Is it better handled as a</text>
+<text top="717" left="108" width="702" height="18" font="5">semantic phenomenon (as most of the linguistic terminology suggests), or as a pragmatic</text>
+<text top="740" left="108" width="702" height="18" font="5">one? Should we analyse kind-referring NPs and characterising sentences as containing</text>
+<text top="764" left="108" width="702" height="18" font="5">some sort of semantic operator in their logical form, or should we instead view</text>
+<text top="788" left="108" width="702" height="18" font="5">genericness as a result of pragmatic processes operating during utterance interpretation?</text>
+<text top="812" left="123" width="687" height="18" font="5">My aim in this paper is to argue for a treatment of genericness which combines</text>
+<text top="836" left="108" width="702" height="18" font="5">semantic and pragmatic aspects; more specifically, I want to claim that the interpretation</text>
+<text top="859" left="108" width="702" height="18" font="5">of generics follows closely the interpretation of utterances containing modal expressions</text>
+<text top="883" left="108" width="703" height="18" font="5">and should therefore make use of some appropriate version of the notion of possible</text>
+<text top="907" left="108" width="702" height="18" font="5">worlds. My discussion proceeds as follows. In section 2 I critically review some previous</text>
+<text top="931" left="108" width="702" height="18" font="5">attempts to deal with the semantics of genericness. In section 3 I present a framework for</text>
+<text top="954" left="108" width="702" height="18" font="5">interpreting modal expressions and go on to apply it to the interpretation of utterances</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="800" width="10" height="18" font="5">3</text>
+<text top="194" left="108" width="702" height="18" font="5">exhibiting genericness; I insist throughout on a sound division of labour between the</text>
+<text top="218" left="108" width="702" height="18" font="5">semantic and pragmatic component within a relevance-theoretic framework for semantics</text>
+<text top="242" left="108" width="394" height="18" font="5">and pragmatics (Sperber &amp; Wilson 1986/ 1995). </text>
+<text top="239" left="440" width="6" height="11" font="1">2</text>
+<text top="313" left="108" width="292" height="18" font="6"><b>2 Previous approaches to generics</b></text>
+<text top="360" left="108" width="148" height="18" font="6"><b>2.1 Preliminaries</b></text>
+<text top="383" left="108" width="5" height="18" font="5"> </text>
+<text top="407" left="108" width="701" height="18" font="5">When faced with a sentence conveying genericness, an initially plausible tendency is to</text>
+<text top="431" left="108" width="703" height="18" font="5">treat it in terms of universal quantification. On this view, the propositions expressed by</text>
+<text top="455" left="108" width="396" height="18" font="5">(1) and (3) are given by (1') and (3') respectively:</text>
+<text top="502" left="108" width="27" height="18" font="5">(1')</text>
+<text top="502" left="162" width="454" height="18" font="5">(For all values of x) (if x is an orchid, then x is a flower)</text>
+<text top="550" left="108" width="27" height="18" font="5">(3')</text>
+<text top="550" left="162" width="445" height="18" font="5">(For all values of t) (the earth turns around the sun at t)</text>
+<text top="597" left="108" width="703" height="18" font="5">However, as a number of authors have pointed out, universal quantification is actually</text>
+<text top="621" left="108" width="702" height="18" font="5">unsuitable to capture the meaning of generic propositions, since it may prove occasionally</text>
+<text top="645" left="108" width="702" height="18" font="5">too weak or too strong. It appears to be too weak in view of <i>essential</i> propositions, i.e.</text>
+<text top="668" left="108" width="702" height="18" font="5">propositions of the sort in (1) which convey that a given property is a necessary and</text>
+<text top="692" left="108" width="702" height="18" font="5">exceptionless attribute of all members of the class to which reference is made (Lyons</text>
+<text top="716" left="108" width="703" height="18" font="5">1977:195). More generally, generics as a rule express a principled (non-accidental)</text>
+<text top="740" left="108" width="702" height="18" font="5">generalisation over the members of a class of entities or events. Use of the universal</text>
+<text top="764" left="108" width="702" height="18" font="5">quantifier, however, does not distinguish between accidental and non-accidental</text>
+<text top="787" left="108" width="702" height="18" font="5">properties (Dahl 1975, Lyons 1977:195, Carlson 1982:147). For instance, suppose that</text>
+<text top="811" left="108" width="702" height="18" font="5">it is true for all students in London that they are underweight. This makes the universally</text>
+<text top="835" left="108" width="702" height="18" font="5">quantified propositions in (5) and (6) true but does not make the generic propositions in</text>
+<text top="859" left="108" width="702" height="18" font="5">(7) and (8) true — unless some specific, non-accidental relationship is taken to hold</text>
+<text top="882" left="108" width="420" height="18" font="5">between students in London and being underweight:</text>
+<text top="930" left="108" width="24" height="18" font="5">(5)</text>
+<text top="930" left="162" width="324" height="18" font="5">All students in London are underweight.</text>
+<text top="977" left="108" width="24" height="18" font="5">(6)</text>
+<text top="977" left="162" width="370" height="18" font="5">Every/each student in London is underweight.</text>
+<text top="1025" left="108" width="24" height="18" font="5">(7)</text>
+<text top="1025" left="162" width="297" height="18" font="5">Students in London are underweight.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="10" height="18" font="5">4</text>
+<text top="966" left="130" width="680" height="15" font="0">It is possible on some occasions for an utterance such as (7) — but not (8) — to be interpreted</text>
+<text top="961" left="123" width="6" height="11" font="1">2</text>
+<text top="986" left="108" width="702" height="15" font="0">as an accidental generalisation. On the pragmatic account I will put forth in section 3, this possibility</text>
+<text top="1005" left="108" width="702" height="15" font="0">comes out as a subtype of the more general case where the interpretation of generics involves quantification</text>
+<text top="1025" left="108" width="702" height="15" font="0">over different types of world: here, quantification would take in its scope just the actual world, so that the</text>
+<text top="1045" left="108" width="702" height="15" font="0">proposition expressed in (7) would come out as a description of a contingent fact about all actual students.</text>
+<text top="194" left="108" width="24" height="18" font="5">(8)</text>
+<text top="194" left="162" width="294" height="18" font="5">A student in London is underweight.</text>
+<text top="192" left="456" width="6" height="11" font="1">2</text>
+<text top="242" left="108" width="703" height="18" font="5">When it comes to other sorts of generics, the universal quantifier is problematic for the</text>
+<text top="265" left="108" width="702" height="18" font="5">opposite reason: it is too strong to capture the intended meaning of the generic proposition</text>
+<text top="289" left="108" width="702" height="18" font="5">(Lawler 1972, Lyons 1977:196). Normally, what an utterance like (9) is taken to convey</text>
+<text top="313" left="108" width="613" height="18" font="5">is that most mathematicians are exciting, not that they are all necessarily so:</text>
+<text top="360" left="108" width="24" height="18" font="5">(9)</text>
+<text top="360" left="162" width="233" height="18" font="5">Mathematicians are exciting.</text>
+<text top="408" left="108" width="702" height="18" font="5">The same point applies to characterising sentences. The proposition expressed by the</text>
+<text top="432" left="108" width="702" height="18" font="5">utterance in (10) is not falsified if Claudia walks to school four days out of five in a week:</text>
+<text top="479" left="108" width="34" height="18" font="5">(10)</text>
+<text top="479" left="162" width="251" height="18" font="5">Claudia goes to school on foot.</text>
+<text top="527" left="108" width="702" height="18" font="5">So generics allow for exceptions, whereas universally quantified propositions do not. The</text>
+<text top="550" left="108" width="547" height="18" font="5">latter should thus be rejected as a means of representing the former.</text>
+<text top="574" left="123" width="687" height="18" font="5">To preserve a quantificational semantic approach to generics, there have been proposals</text>
+<text top="598" left="108" width="702" height="18" font="5">for a weakened (or 'modified' — see Clark 1973:43) universal quantifier which would</text>
+<text top="622" left="108" width="702" height="18" font="5">translate as <i>almost all</i>, or <i>the majority of</i>/<i>most</i>. Closer attention, though, reveals that such</text>
+<text top="645" left="108" width="703" height="18" font="5">a quantifier would still fail to mark the non-contingent character of generic statements,</text>
+<text top="669" left="108" width="702" height="18" font="5">and so would only do half the job. Moreover, as Carlson (1977b) remarked, one can find</text>
+<text top="693" left="108" width="702" height="18" font="5">generic sentences which are considered to be true but which cannot be satisfactorily</text>
+<text top="717" left="108" width="702" height="18" font="5">described by any ordinary quantifier. For instance, the following are true characterising</text>
+<text top="740" left="108" width="702" height="18" font="5">sentences, although less than half of all birds lay eggs (only the healthy and fertilised</text>
+<text top="764" left="108" width="702" height="18" font="5">female ones), not more than five percent of the Anopheles mosquitos carry malaria, and</text>
+<text top="788" left="108" width="702" height="18" font="5">the chance of a turtle having a long life is extremely small, as most turtles are eaten by</text>
+<text top="812" left="108" width="504" height="18" font="5">predators early in life (examples from Krifka et al. (1995:44)):</text>
+<text top="859" left="108" width="33" height="18" font="5">(11)</text>
+<text top="859" left="162" width="136" height="18" font="5">A bird lays eggs.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="800" width="10" height="18" font="5">5</text>
+<text top="948" left="130" width="680" height="15" font="0">A certain caveat is in order here: in (9) Q functions as an unselective quantifier, binding any free</text>
+<text top="943" left="123" width="6" height="11" font="1">3</text>
+<text top="968" left="108" width="702" height="15" font="0">variables in its scope. To capture a greater range of examples, we will have to assume that the</text>
+<text top="987" left="108" width="702" height="15" font="0">quantifier indicates which variables it binds and which are to be bound existentially within the matrix. In</text>
+<text top="1007" left="108" width="399" height="15" font="0">the following discussion, I will disregard this complication.</text>
+<text top="1045" left="130" width="642" height="15" font="0">These notions are meant to be equivalent to the notion of <i>stage</i> introduced by Carlson (1977a).</text>
+<text top="1040" left="123" width="6" height="11" font="1">4</text>
+<text top="194" left="108" width="34" height="18" font="5">(12)</text>
+<text top="194" left="162" width="324" height="18" font="5">An Anopheles mosquito carries malaria.</text>
+<text top="242" left="108" width="33" height="18" font="5">(13)</text>
+<text top="242" left="162" width="196" height="18" font="5">A turtle lives a long life.</text>
+<text top="289" left="108" width="703" height="18" font="5">A more promising line seems to come from postulating the existence of a (mostly)</text>
+<text top="313" left="108" width="702" height="18" font="5">phonologically unrealised generic operator. This operator functions as a quantificational</text>
+<text top="337" left="108" width="702" height="18" font="5">adverb — an adverbial operator which relates one set of conditions to another set. Such</text>
+<text top="360" left="108" width="702" height="18" font="5">structures have been proposed by a number of authors for representing sentences with</text>
+<text top="384" left="108" width="702" height="18" font="5">conditionals or <i>when</i>-clauses (Lewis 1975, Heim 1982, Farkas 1981, Farkas &amp; Sugioka</text>
+<text top="408" left="108" width="702" height="18" font="5">1983, Schubert &amp; Pelletier 1989). Consider Lewis's (1975) example of a construction</text>
+<text top="432" left="108" width="378" height="18" font="5">containing an explicit adverb of quantification:</text>
+<text top="479" left="108" width="34" height="18" font="5">(14)</text>
+<text top="479" left="162" width="648" height="18" font="5">When m and n are positive integers, the power m  can be computed by successive</text>
+<text top="477" left="548" width="6" height="11" font="1">n</text>
+<text top="503" left="162" width="117" height="18" font="5">multiplication.</text>
+<text top="550" left="108" width="702" height="18" font="5">(14') Q (m and n are positive integers; m  can be computed by successive multiplication)</text>
+<text top="548" left="434" width="6" height="11" font="1">n</text>
+<text top="598" left="108" width="702" height="18" font="5">Q is a quantifier expressed in English by <i>always</i>, which relates two propositions.</text>
+<text top="622" left="108" width="702" height="18" font="5">Following Krifka et al. (1995), I will call them the <i>restrictor</i> and the <i>matrix</i> respectively.</text>
+<text top="645" left="108" width="702" height="18" font="5">A similar, double-level analysis of generic sentences lacking an explicit adverb of</text>
+<text top="669" left="108" width="702" height="18" font="5">quantification can be put forth, in which Q takes the form of GEN, the generic operator.</text>
+<text top="693" left="108" width="486" height="18" font="5">Thus (9) will receive the propositional representation in (9'):</text>
+<text top="691" left="595" width="6" height="11" font="1">3</text>
+<text top="740" left="108" width="27" height="18" font="5">(9')</text>
+<text top="740" left="162" width="340" height="18" font="5">GEN (x is a mathematician; x is exciting).</text>
+<text top="764" left="108" width="5" height="18" font="5"> </text>
+<text top="788" left="108" width="702" height="18" font="5">In the above example, quantification operates on individuals who form members of a</text>
+<text top="812" left="108" width="702" height="18" font="5">class: the operator GEN binds the variables in x. Characterising sentences are a different</text>
+<text top="836" left="108" width="702" height="18" font="5">matter: here quantification operates over temporally bound occurrences of an event, that</text>
+<text top="859" left="108" width="703" height="18" font="5">is, situations, occasions, or cases.  To accommodate these, we introduce the variable s,</text>
+<text top="857" left="379" width="6" height="11" font="1">4</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="10" height="18" font="5">6</text>
+<text top="986" left="130" width="680" height="15" font="0">One might wonder where the situation argument s comes from. Kratzer (1995) has suggested that</text>
+<text top="981" left="123" width="6" height="11" font="1">5</text>
+<text top="1005" left="108" width="702" height="15" font="0">episodic verbs have, in addition to their usual syntactic arguments, an argument for the location of</text>
+<text top="1025" left="108" width="702" height="15" font="0">the event described by the verb. This argument can be bound by quantificational adverbs (see also</text>
+<text top="1045" left="108" width="155" height="15" font="0">Krifka et al. 1995:31). </text>
+<text top="194" left="108" width="702" height="18" font="5">which stands for situation and is bound by the generic operator.  Thus (10) receives the</text>
+<text top="192" left="618" width="6" height="11" font="1">5</text>
+<text top="218" left="108" width="104" height="18" font="5">logical form:</text>
+<text top="265" left="108" width="624" height="18" font="5">(10') GEN (Claudia goes to school in s; Claudia goes to school on foot in s).</text>
+<text top="313" left="108" width="703" height="18" font="5">The above solution accounts for the fact that genericness takes sentential scope in the</text>
+<text top="337" left="108" width="702" height="18" font="5">case of characterising sentences. It also captures the intuition that the role of genericness</text>
+<text top="360" left="108" width="702" height="18" font="5">is similar to that of adverbs of quantification such as <i>always, seldom</i> and <i>often</i>. The</text>
+<text top="384" left="108" width="702" height="18" font="5">adverbs which come closest to the meaning of the generic operator are <i>generally/in</i></text>
+<text top="408" left="108" width="702" height="18" font="2"><i>general, typically, characteristically</i> and <i>habitually</i>. Thus (9) and (10) turn out to be</text>
+<text top="432" left="108" width="584" height="18" font="5">semantically equivalent to the pairs (15)-(16) and (17)-(18) respectively:</text>
+<text top="479" left="108" width="34" height="18" font="5">(15)</text>
+<text top="479" left="162" width="320" height="18" font="5">Generally, mathematicians are exciting.</text>
+<text top="527" left="108" width="33" height="18" font="5">(16)</text>
+<text top="527" left="162" width="454" height="18" font="5">Generally, when one is a mathematician, one is exciting.</text>
+<text top="574" left="108" width="34" height="18" font="5">(17)</text>
+<text top="574" left="162" width="426" height="18" font="5">Generally/habitually, Claudia goes to school on foot.</text>
+<text top="622" left="108" width="34" height="18" font="5">(18)</text>
+<text top="622" left="162" width="631" height="18" font="5">Generally/habitually, when Claudia goes to school, she goes to school on foot.</text>
+<text top="645" left="108" width="5" height="18" font="5"> </text>
+<text top="669" left="108" width="702" height="18" font="5">Apart from its intuitive appeal, this approach manages to capture the quasi-universality</text>
+<text top="693" left="108" width="703" height="18" font="5">of many generics: for (9) and (10) to be true, in the majority of cases to be checked</text>
+<text top="717" left="108" width="702" height="18" font="5">(instances of mathematicians or Claudia's going to school) the state of affairs denoted by</text>
+<text top="740" left="108" width="702" height="18" font="5">the generic proposition has to hold. If most mathematicians are exciting, we can truthfully</text>
+<text top="764" left="108" width="702" height="18" font="5">say that mathematicians are generally exciting; if only a small subset of them is exciting,</text>
+<text top="788" left="108" width="702" height="18" font="5">the assertion is not true. On the other hand, this 'neo-quantificational approach' (Kleiber</text>
+<text top="812" left="108" width="702" height="18" font="5">1985) avoids the shortcomings of universal quantification. The ability of adverbs of</text>
+<text top="836" left="108" width="702" height="18" font="5">quantification to represent the nature of genericness is further demonstrated by their</text>
+<text top="859" left="108" width="603" height="18" font="5">semantic incompatibility with object-referring NPs or particular sentences:</text>
+<text top="907" left="108" width="33" height="18" font="5">(19)</text>
+<text top="907" left="162" width="628" height="18" font="5">A mathematician ?(from King's College I met yesterday) is generally exciting.</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="800" width="10" height="18" font="5">7</text>
+<text top="1005" left="130" width="679" height="15" font="0">The role of pragmatics in deriving non-overt restrictors has been recognised by several people</text>
+<text top="1001" left="123" width="6" height="11" font="1">6</text>
+<text top="1025" left="108" width="702" height="15" font="0">in the literature on generics (see, for instance, Newton 1979, Kleiber 1985, Schubert &amp; Pelletier</text>
+<text top="1045" left="108" width="45" height="15" font="0">1989).</text>
+<text top="194" left="108" width="34" height="18" font="5">(20)</text>
+<text top="194" left="162" width="341" height="18" font="5">?Claudia generally went to school on foot.</text>
+<text top="242" left="108" width="702" height="18" font="5">Despite its initial plausibility, though, the neo-quantificational analysis of generics needs</text>
+<text top="265" left="108" width="702" height="18" font="5">some further refinement before it can yield a satisfactory solution to the semantics of</text>
+<text top="289" left="108" width="703" height="18" font="5">genericness. An immediate problem is to pin down the set of restricted occurrences over</text>
+<text top="313" left="108" width="702" height="18" font="5">which quantification will apply. Consider the following examples — where (21) and (23)</text>
+<text top="337" left="108" width="372" height="18" font="5">are modifications of (3) and (10) respectively:</text>
+<text top="384" left="108" width="34" height="18" font="5">(21)</text>
+<text top="384" left="162" width="235" height="18" font="5">The earth turns around itself.</text>
+<text top="432" left="108" width="34" height="18" font="5">(22)</text>
+<text top="432" left="162" width="273" height="18" font="5">In Haiti, the sun rises at 6 o'clock.</text>
+<text top="479" left="108" width="33" height="18" font="5">(23)</text>
+<text top="479" left="162" width="197" height="18" font="5">Claudia walks to school.</text>
+<text top="527" left="108" width="427" height="18" font="5">The logical forms of these sentences are as follows:  </text>
+<text top="574" left="108" width="549" height="18" font="5">(21') GEN (The earth moves in s; the earth turns around itself in s)</text>
+<text top="622" left="108" width="556" height="18" font="5">(22') GEN (In Haiti the sun rises in s; the sun rises at 6 o'clock in s)</text>
+<text top="669" left="108" width="488" height="18" font="5">(23') GEN (Claudia goes to school in s; Claudia walks in s)</text>
+<text top="693" left="108" width="5" height="18" font="5"> </text>
+<text top="717" left="108" width="702" height="18" font="5">The temporal intervals involved in the specification of the different situations in (21) to</text>
+<text top="740" left="108" width="702" height="18" font="5">(23) may vary widely, and in any case cannot be part of the initial semantic representation</text>
+<text top="764" left="108" width="702" height="18" font="5">of a characterising sentence. Instead, they are the product of pragmatic inferential work,</text>
+<text top="788" left="108" width="702" height="18" font="5">i.e. they result from processing each utterance against a set of mutually manifest</text>
+<text top="812" left="108" width="701" height="18" font="5">contextual assumptions.  As a result, GEN in (21) comes out as quantifying over all</text>
+<text top="809" left="304" width="6" height="11" font="1">6</text>
+<text top="836" left="108" width="702" height="18" font="5">situations in which the earth moves in any way; in (22) the domain of quantification is</text>
+<text top="859" left="108" width="702" height="18" font="5">formed by situations in which the sun rises, i.e. only a subset of the situations in which</text>
+<text top="883" left="108" width="702" height="18" font="5">the sun moves, separated by a one-day temporal interval; in (23) the generic operator</text>
+<text top="907" left="108" width="702" height="18" font="5">ranges over the situations in which Claudia goes to school, which are again a subset of the</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="10" height="18" font="5">8</text>
+<text top="194" left="108" width="701" height="18" font="5">situations in which she is active, separated by one-day temporal intervals (without taking</text>
+<text top="218" left="108" width="577" height="18" font="5">into account weekends, holidays, or situations when she is not a pupil). </text>
+<text top="242" left="123" width="687" height="18" font="5">More crucially, the neo-quantificational approach has to provide a more specific</text>
+<text top="265" left="108" width="701" height="18" font="5">analysis for the semantics of GEN. In the next section I want to examine some precise</text>
+<text top="289" left="108" width="701" height="18" font="5">proposals about the semantics of the generic operator, and look again at the interaction</text>
+<text top="313" left="108" width="538" height="18" font="5">of semantic and pragmatic factors in the interpretation of generics.</text>
+<text top="384" left="108" width="361" height="18" font="6"><b>2.2 The semantics of the generic operator </b></text>
+<text top="432" left="108" width="702" height="18" font="6"><b>2.2.0</b> Of the various suggestions in the literature for specifying the semantics of the</text>
+<text top="455" left="108" width="702" height="18" font="5">generic operator, I am going to discuss three which have tried to account for generics</text>
+<text top="479" left="108" width="664" height="18" font="5">using the notions of prototype, stereotype and relevant quantification respectively.</text>
+<text top="527" left="108" width="702" height="18" font="6"><b>2.2.1 Prototypes.</b> The basic idea behind most prototype models is that, among the various</text>
+<text top="551" left="108" width="702" height="18" font="5">members of a given category, one can choose some which are in a way more central or</text>
+<text top="575" left="108" width="702" height="18" font="5">more 'representative' of the category as a whole (Rosch 1978). For instance, among</text>
+<text top="598" left="108" width="703" height="18" font="5">various members of the category <i>bird</i>, one can distinguish some prototypical instances</text>
+<text top="622" left="108" width="702" height="18" font="5">(such as <i>sparrow</i> or <i>robin</i>) which are closer to the prototype than others (say, <i>penguin</i>).</text>
+<text top="646" left="108" width="702" height="18" font="5">A number of people have suggested that generics involve — at least in some cases —</text>
+<text top="670" left="108" width="703" height="18" font="5">quantification over prototypes (Nunberg &amp; Pan 1975, Heyer 1985, 1990). Thus, the</text>
+<text top="693" left="108" width="637" height="18" font="5">utterance in (24) would convey that all prototypical instances of birds lay eggs:</text>
+<text top="741" left="108" width="33" height="18" font="5">(24)</text>
+<text top="741" left="162" width="120" height="18" font="5">Birds lay eggs.</text>
+<text top="788" left="108" width="702" height="18" font="5">On this view the generic operator may be broken down into the normal universal</text>
+<text top="812" left="108" width="701" height="18" font="5">quantifier plus a specification on the restrictor to the effect that it picks out only typical</text>
+<text top="836" left="108" width="702" height="18" font="5">members of each concept (this can take the form of a typicality operator, as in Heyer's</text>
+<text top="860" left="108" width="85" height="18" font="5">analyses). </text>
+<text top="883" left="123" width="686" height="18" font="5">It is obvious that this approach simply replaces the problem of identifying the content</text>
+<text top="907" left="108" width="702" height="18" font="5">of the GEN operator with the problem of pinning down prototypes for each category. The</text>
+<text top="931" left="108" width="702" height="18" font="5">latter difficulty is well-known and has been the subject of vast research in cognitive</text>
+<text top="955" left="108" width="702" height="18" font="5">psychology (for an overview see Barsalou 1992); the current consensus seems to be that</text>
+<text top="978" left="108" width="702" height="18" font="5">there is no unique notion capable of subsuming the various, often ad hoc criteria for</text>
+<text top="1002" left="108" width="703" height="18" font="5">forming a prototype. What for psychologists can be a fine proof of human cognitive</text>
+<text top="1026" left="108" width="702" height="18" font="5">flexibility, however, is inadequate for semanticists interested in determining the truth-</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="800" width="10" height="18" font="5">9</text>
+<text top="194" left="108" width="702" height="18" font="5">conditions of generic sentences. For them, to leave open the option of incorporating such</text>
+<text top="218" left="108" width="702" height="18" font="5">a vague concept into the semantic representation would often result in semantic</text>
+<text top="242" left="108" width="181" height="18" font="5">incongruity. Compare:</text>
+<text top="289" left="108" width="34" height="18" font="5">(25)</text>
+<text top="289" left="162" width="244" height="18" font="5">A duck has colourful feathers.</text>
+<text top="337" left="108" width="33" height="18" font="5">(26)</text>
+<text top="337" left="161" width="206" height="18" font="5">A duck lays whitish eggs.</text>
+<text top="384" left="108" width="702" height="18" font="5">As Krifka et al. (1995:47) point out, these examples are problematic since only male</text>
+<text top="408" left="108" width="702" height="18" font="5">ducks have colourful feathers and only female ones lay whitish eggs. As the sets of male</text>
+<text top="432" left="108" width="701" height="18" font="5">and female ducks are disjoint, the concept of typical duck is impossible to determine in</text>
+<text top="455" left="108" width="306" height="18" font="5">a way suitable for both (25) and (26). </text>
+<text top="479" left="123" width="687" height="18" font="5">There are further difficulties. The prototype approach cannot by definition account for</text>
+<text top="503" left="108" width="702" height="18" font="5">categories which lack a prototypical structure and yet appear unproblematically in</text>
+<text top="527" left="108" width="701" height="18" font="5">generics; mathematical and legal terms (which can be defined in terms of necessary and</text>
+<text top="550" left="108" width="387" height="18" font="5">sufficient conditions) are immediate candidates:</text>
+<text top="598" left="108" width="34" height="18" font="5">(27)</text>
+<text top="598" left="162" width="207" height="18" font="5">Two and two equals four.</text>
+<text top="645" left="108" width="34" height="18" font="5">(28)</text>
+<text top="645" left="162" width="446" height="18" font="5">Subletting extends to a maximum period of six months.</text>
+<text top="693" left="108" width="702" height="18" font="5">It is true that there have been experimental findings to the effect that even categories like</text>
+<text top="717" left="108" width="702" height="18" font="2"><i>odd number</i> exhibit prototype effects (a fact that has received conflicting interpretations</text>
+<text top="740" left="108" width="702" height="18" font="5">as evidence both for and against the prototype-based view of concepts — see Armstrong,</text>
+<text top="764" left="108" width="702" height="18" font="5">Gleitman &amp; Gleitman 1983 and Lakoff 1987a:148ff.). Defending the prototype analysis</text>
+<text top="788" left="108" width="703" height="18" font="5">of generics, one could argue that (27) invokes a prototype for numbers which  does not</text>
+<text top="812" left="108" width="702" height="18" font="5">imply gradedness of membership in the category <i>number</i> but merely 'goodness-of-</text>
+<text top="836" left="108" width="702" height="18" font="5">example'. Hence, the category <i>number</i> has both classical and prototype structure: the first</text>
+<text top="859" left="108" width="702" height="18" font="5">is used in formal/mathematical definitions, the second in informal, everyday reasoning</text>
+<text top="883" left="108" width="702" height="18" font="5">about numbers. No matter how we interpret Armstrong, Gleitman &amp; Gleitman's findings,</text>
+<text top="907" left="108" width="701" height="18" font="5">though, a prototype-based view of generics has to recognise that not all generics involve</text>
+<text top="931" left="108" width="702" height="18" font="5">prototypes. In (27), even if there is a prototype for numbers, it does not participate in the</text>
+<text top="954" left="108" width="702" height="18" font="5">interpretation of the utterance, which rather involves the definitional properties of the</text>
+<text top="978" left="108" width="664" height="18" font="5">number concepts in the proposition expressed. A similar example is the following:</text>
+<text top="1026" left="108" width="34" height="18" font="5">(29)</text>
+<text top="1026" left="162" width="210" height="18" font="5">A bachelor is unmarried.  </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">10</text>
+<text top="1005" left="130" width="680" height="15" font="0">Alternatively  one could assume that both pairs in (25)-(26) and (27)-(28) are interpreted with</text>
+<text top="1001" left="123" width="6" height="11" font="1">7</text>
+<text top="1025" left="108" width="702" height="15" font="0">respect to a prototype which is unspecified for sex. This, however, seems to lack plausibility, especially</text>
+<text top="1045" left="108" width="702" height="15" font="0">as far as the second pair is concerned and, in any case, will not work where there is considerable difference</text>
+<text top="194" left="108" width="702" height="18" font="2"><i>Bachelor</i> is a concept with a widely acknowledged prototypical structure (see Lakoff</text>
+<text top="218" left="108" width="702" height="18" font="5">1987a). It is clear, though, that whichever way we specify the prototype for <i>bachelor</i>, it</text>
+<text top="242" left="108" width="701" height="18" font="5">cannot be of much help in determining the truth-conditions of (29): the proposition</text>
+<text top="265" left="108" width="702" height="18" font="5">conveyed says something true of all unmarried male adults, not of all prototypical</text>
+<text top="289" left="108" width="155" height="18" font="5">exemplars of them.</text>
+<text top="313" left="123" width="687" height="18" font="5">A directly related issue is how one is to decide for a given generic proposition whether</text>
+<text top="337" left="108" width="702" height="18" font="5">it is to be interpreted with reference to a prototype or not. Heyer (1985) suggests that the</text>
+<text top="360" left="108" width="702" height="18" font="5">kind of predicate will make clear whether it is assumed to be true of a kind as a whole or</text>
+<text top="384" left="108" width="702" height="18" font="5">of the representative examples of a kind. He seems to believe that this involves some sort</text>
+<text top="408" left="108" width="702" height="18" font="5">of <i>semantic</i> information, which will become available to the generic operator; the latter</text>
+<text top="432" left="108" width="702" height="18" font="5">is thus expected to 'contribute to an understanding of the semantics of<i> prototype</i></text>
+<text top="455" left="108" width="702" height="18" font="5">propositions, if prototype propositions indeed contain an explicit reference to the <i>typical</i></text>
+<text top="479" left="108" width="702" height="18" font="2"><i>representatives</i> of a kind' (Heyer 1985:58, his emphasis). However, the appeal to a</text>
+<text top="503" left="108" width="702" height="18" font="5">semantic typicality operator has to face a familiar set of objections to prototype semantics</text>
+<text top="527" left="108" width="702" height="18" font="5">(Lakoff 1987b). It is preferable to think of a prototype interpretation of a generic</text>
+<text top="550" left="108" width="702" height="18" font="5">proposition as being constructed on the basis of encyclopedic entries attached to concepts</text>
+<text top="574" left="108" width="702" height="18" font="5">found in the predicate and the subject; this must involve some pragmatic mechanism</text>
+<text top="598" left="108" width="594" height="18" font="5">constraining the accessibility and evaluation of encyclopedic information.</text>
+<text top="622" left="123" width="687" height="18" font="5">One might try to save a prototype approach in several ways. An obvious step would be</text>
+<text top="645" left="108" width="703" height="18" font="5">to admit that the construction of prototypes depends on general cognitive and pragmatic</text>
+<text top="669" left="108" width="702" height="18" font="5">considerations, and therefore falls outside the domain of semantics proper. It should be</text>
+<text top="693" left="108" width="702" height="18" font="5">acknowledged  that prototype formation takes into account multiple aspects of our</text>
+<text top="717" left="108" width="702" height="18" font="5">encyclopedic knowledge, for which some sort of frame-based organisation is assumed.</text>
+<text top="740" left="108" width="702" height="18" font="5">Within frames, prototypes represent the default values (i.e. the most frequently</text>
+<text top="764" left="108" width="702" height="18" font="5">encountered values) of properties attributed to the members of a category. There is no</text>
+<text top="788" left="108" width="702" height="18" font="5">reason to suppose — and in fact there is good reason to doubt — that each category has</text>
+<text top="812" left="108" width="702" height="18" font="5">a single prototype (in other words, that the typicality operator picks out a unique member</text>
+<text top="836" left="108" width="702" height="18" font="5">of a category every time). Frames allow for the representation of multiple prototypes</text>
+<text top="859" left="108" width="702" height="18" font="5">(Barsalou &amp; Billman 1989), especially when it comes to frequently encountered varieties</text>
+<text top="883" left="108" width="703" height="18" font="5">of a certain kind. Applied to examples (25) and (26), this line of reasoning would predict</text>
+<text top="907" left="108" width="702" height="18" font="5">that hearers use two prototypes for <i>duck,</i> which would assign to the two propositions their</text>
+<text top="931" left="108" width="702" height="18" font="5">correct truth values.  As for examples (23), (27) and (28), the present account would need</text>
+<text top="928" left="262" width="6" height="11" font="1">7</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">11</text>
+<text top="1045" left="108" width="643" height="15" font="0">between the concepts for the male and female (e.g. there is no 'sex-neutral' prototype for <i>lion</i>). </text>
+<text top="194" left="108" width="702" height="18" font="5">some supplementary pragmatic machinery to explain why prototypes do not enter at all</text>
+<text top="218" left="108" width="355" height="18" font="5">into the comprehension of these utterances. </text>
+<text top="242" left="123" width="687" height="18" font="5">Still, a prototype approach to generics fails to make the right generalisation, as is shown</text>
+<text top="265" left="108" width="702" height="18" font="5">by two further types of example. First, certain generics involve ideal, rather than</text>
+<text top="289" left="108" width="306" height="18" font="5">prototypical, exemplars of a category:</text>
+<text top="337" left="108" width="34" height="18" font="5">(30)</text>
+<text top="337" left="162" width="268" height="18" font="5">Postgraduate students work hard.</text>
+<text top="384" left="108" width="703" height="18" font="5">On the present formulation of the prototype approach, such uses are unaccounted for.</text>
+<text top="408" left="108" width="404" height="18" font="5">Second, characterising sentences pose a problem: </text>
+<text top="455" left="108" width="34" height="18" font="5">(31)</text>
+<text top="455" left="162" width="450" height="18" font="5">Mary cleans her room without hoovering under the bed.</text>
+<text top="503" left="108" width="702" height="18" font="5">It is hard to imagine what a prototype for a situation in which Mary cleans her room</text>
+<text top="527" left="108" width="702" height="18" font="5">would look like. In any case, it does not seem to be a construct which is more or less</text>
+<text top="550" left="108" width="702" height="18" font="5">ready-made and stored as such in the encyclopedic memory (as, for instance, prototypes</text>
+<text top="574" left="108" width="702" height="18" font="5">for natural kinds may be). Given this sort of difficulty, it is probably no coincidence that</text>
+<text top="598" left="108" width="702" height="18" font="5">prototype approaches to generics were based on kind-referring NPs rather than</text>
+<text top="622" left="108" width="210" height="18" font="5">characterising predicates. </text>
+<text top="645" left="123" width="687" height="18" font="5">One could go on to look for some way of dealing with the objections I have raised.</text>
+<text top="669" left="108" width="702" height="18" font="5">However, the model as it stands cannot give a satisfactory account of the semantics of</text>
+<text top="693" left="108" width="99" height="18" font="5">genericness.</text>
+<text top="741" left="108" width="702" height="18" font="6"><b>2.2.2 Stereotypes.</b> The theory of stereotypes initially formed part of Rosch's theory of</text>
+<text top="765" left="108" width="702" height="18" font="5">prototypes; in philosophy, it is associated especially with the work of Putnam (see Putnam</text>
+<text top="788" left="108" width="702" height="18" font="5">1975). A stereotype is a list of properties typically assigned to the things a given predicate</text>
+<text top="812" left="108" width="701" height="18" font="5">applies to. It differs from a prototype in that a) it is a list of characteristics rather than a</text>
+<text top="836" left="108" width="701" height="18" font="5">typical member of a category; b) speakers may know the stereotype for some predicate</text>
+<text top="860" left="108" width="702" height="18" font="5">but not actually be acquainted with any prototypes of it (e.g. <i>ghost, witch-doctor</i> etc.).</text>
+<text top="883" left="108" width="702" height="18" font="5">According to Putnam's (admittedly idiosyncratic) view, knowledge of stereotypes forms</text>
+<text top="907" left="108" width="702" height="18" font="5">part of linguistic semantics and includes 'core facts' about the extension of a term, with</text>
+<text top="931" left="108" width="702" height="18" font="5">which all speakers of the language should be acquainted. For instance, the stereotype of</text>
+<text top="955" left="108" width="702" height="18" font="5">a tiger includes the predicate <i>striped</i>; this does not mean that all/most/normal tigers are</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">12</text>
+<text top="194" left="108" width="702" height="18" font="5">striped (indeed stereotypes can be completely wrong), but that it is a widely</text>
+<text top="218" left="108" width="561" height="18" font="5">acknowledged idea within a speech community that tigers are striped.</text>
+<text top="242" left="123" width="358" height="18" font="5">Let us apply this view to generics. Consider:</text>
+<text top="289" left="108" width="34" height="18" font="5">(32)</text>
+<text top="289" left="162" width="518" height="18" font="5">Peacocks have richly ornamented tails with blue and green eyes.</text>
+<text top="337" left="108" width="34" height="18" font="5">(33)</text>
+<text top="337" left="162" width="154" height="18" font="5">Peacocks are male.</text>
+<text top="384" left="108" width="702" height="18" font="5">Most speakers would accept (32) as true but not (33). Note that (32) is less likely to be</text>
+<text top="408" left="108" width="702" height="18" font="5">true for any arbitrarily chosen peacock than (33), since only male peacocks have richly</text>
+<text top="432" left="108" width="702" height="18" font="5">ornamented tails and only a subset of these has tails with blue and green eyes. Adopting</text>
+<text top="455" left="108" width="702" height="18" font="5">proposals by Geurts (1985) and Declerck (1986), one could argue that this difference is</text>
+<text top="479" left="108" width="702" height="18" font="5">caused by the fact that (32) but not (33) expresses the stereotype for peacocks in our</text>
+<text top="503" left="108" width="702" height="18" font="5">culture. If we take generics to involve universal quantification over the set of exemplars</text>
+<text top="527" left="108" width="702" height="18" font="5">which satisfy the stereotype for a concept, then (32) comes out as true: stereotypical</text>
+<text top="550" left="108" width="702" height="18" font="5">peacocks in effect have colourful tails. Since, furthermore, the stereotype includes no</text>
+<text top="574" left="108" width="488" height="18" font="5">reference to maleness, (33) is correctly predicted to be false.</text>
+<text top="598" left="123" width="687" height="18" font="5">As a variant of the prototype approach, the stereotype-based view of generics</text>
+<text top="622" left="108" width="702" height="18" font="5">encounters the same problems which made the prototype solution untenable. For instance,</text>
+<text top="645" left="108" width="702" height="18" font="5">it cannot cope with terms which apparently lack stereotypes, such as characterising</text>
+<text top="669" left="108" width="702" height="18" font="5">predicates of the sort we saw in (31). Even if stereotypes for such predicates could be</text>
+<text top="693" left="108" width="702" height="18" font="5">determined, it is implausible that these form part of their linguistic meaning (as was</text>
+<text top="717" left="108" width="702" height="18" font="5">argued for natural-kind terms like <i>tiger</i> or <i>peacock</i>). A related problem arises for</text>
+<text top="740" left="108" width="702" height="18" font="5">predicates which do have stereotypes but where these seem inadequate to account for the</text>
+<text top="764" left="108" width="702" height="18" font="5">truth-conditions of the associated sentences. Consider <i>bachelor</i> again. According to</text>
+<text top="788" left="108" width="702" height="18" font="5">Lakoff (1987a:85), a stereotypical bachelor is taken to be macho, pursue sexual conquest,</text>
+<text top="812" left="108" width="702" height="18" font="5">date a lot of different women, hang out in singles bars etc. One would then expect (34)</text>
+<text top="836" left="108" width="198" height="18" font="5">to be true and (35) false:</text>
+<text top="883" left="108" width="34" height="18" font="5">(34)</text>
+<text top="883" left="162" width="347" height="18" font="5">Bachelors live alone and want to date a lot.</text>
+<text top="931" left="108" width="34" height="18" font="5">(35)</text>
+<text top="931" left="162" width="466" height="18" font="5">Bachelors live with their mothers and are afraid of dating.</text>
+<text top="978" left="108" width="702" height="18" font="5">Both examples, though, seem equally likely to be judged true. It turns out that — <i>pace</i></text>
+<text top="1002" left="108" width="702" height="18" font="5">Lakoff — (35) conforms to another social stereotype, that of the introvert and dependent</text>
+<text top="1026" left="108" width="702" height="18" font="5">unmarried man. The existence of multiple (and possibly conflicting) stereotypes cannot</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">13</text>
+<text top="966" left="130" width="680" height="15" font="0">Alternatively, we could decide to remove stereotypes from the semantic entry of predicates</text>
+<text top="961" left="123" width="6" height="11" font="1">8</text>
+<text top="986" left="108" width="702" height="15" font="0">altogether and place them in the appropriate encyclopedic entries. I will not pursue this option</text>
+<text top="1005" left="108" width="702" height="15" font="0">further, since it would not fit the initial conception of a stereotype and would ultimately reduce to</text>
+<text top="1025" left="108" width="701" height="15" font="0">a very common phenomenon: the assignment of different contextual interpretations to what in the</text>
+<text top="1045" left="108" width="309" height="15" font="0">semantic component is a single core meaning.</text>
+<text top="194" left="108" width="702" height="18" font="5">be easily accommodated in a framework which attributes to stereotypes a <i>semantic</i> role;</text>
+<text top="218" left="108" width="702" height="18" font="5">this would mean effectively that the predicate <i>bachelor</i> is semantically ambiguous, so that</text>
+<text top="242" left="108" width="702" height="18" font="5">(34) and (35) can both be true at the same time.  In addition, the postulation of widely</text>
+<text top="239" left="499" width="6" height="11" font="1">8</text>
+<text top="265" left="108" width="702" height="18" font="5">diverging stereotypes, although empirically motivated, detracts from the initial plausibility</text>
+<text top="289" left="108" width="413" height="18" font="5">and explanatory power of the notion of stereotype. </text>
+<text top="313" left="123" width="687" height="18" font="5">Furthermore, as Putnam recognises, stereotypes can actually be wrong. This would</text>
+<text top="337" left="108" width="702" height="18" font="5">directly affect truth-conditions of sentences in an undesirable way: (36) would be assigned</text>
+<text top="360" left="108" width="702" height="18" font="5">the value 'true' according to the conventional belief that foxes are sly, although the</text>
+<text top="384" left="108" width="683" height="18" font="5">proposition conveys something strictly speaking false about actual, real-world foxes:</text>
+<text top="432" left="108" width="34" height="18" font="5">(36)</text>
+<text top="432" left="162" width="111" height="18" font="5">Foxes are sly.</text>
+<text top="479" left="108" width="702" height="18" font="5">The stereotype-based analysis is unable to capture the fact that generics aim to make a</text>
+<text top="503" left="108" width="702" height="18" font="5">claim of general validity about the actual world and not about culturally recognised</text>
+<text top="527" left="108" width="701" height="18" font="5">norms. For all the above reasons, it seems that it does not provide a suitable basis for an</text>
+<text top="550" left="108" width="327" height="18" font="5">analysis of the semantics of genericness.</text>
+<text top="598" left="108" width="703" height="18" font="6"><b>2.2.3 Relevant quantification</b>. The accounts discussed so far have assumed that</text>
+<text top="622" left="108" width="702" height="18" font="5">genericness is essentially a semantic phenomenon, although the notions of prototype and</text>
+<text top="646" left="108" width="702" height="18" font="5">stereotype have led us towards the semantics/pragmatics interface. By contrast, Declerck</text>
+<text top="670" left="108" width="701" height="18" font="5">(1991) has put forth a purely pragmatic account of genericness. On his view, the generic</text>
+<text top="693" left="108" width="702" height="18" font="5">operator might be spelled out as universal quantification over relevant entities. To</text>
+<text top="717" left="108" width="702" height="18" font="5">determine the truth-conditions of (37), for example, we need to pin down the set of all</text>
+<text top="741" left="108" width="513" height="18" font="5">relevant women for whom the generalisation is claimed to hold:</text>
+<text top="788" left="108" width="34" height="18" font="5">(37)</text>
+<text top="788" left="162" width="314" height="18" font="5">Women are entitled to maternity leave.</text>
+<text top="836" left="108" width="702" height="18" font="5">The relevant set of entities is pragmatically specified on the basis of the hearer's world</text>
+<text top="860" left="108" width="702" height="18" font="5">knowledge. Here the set of women claimed to be entitled to maternity leave is obviously</text>
+<text top="883" left="108" width="475" height="18" font="5">the set of working women who are about to have a baby.    </text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">14</text>
+<text top="194" left="123" width="686" height="18" font="5">A problem with this approach is that little content is given to the pretheoretical notion</text>
+<text top="218" left="108" width="701" height="18" font="5">of 'relevant' quantification. As Krifka et al. (1995:46) are quick to point out, it is easy to</text>
+<text top="242" left="108" width="702" height="18" font="5">find restrictions which would make <i>any</i> quantification come out true. In (38), if we take</text>
+<text top="265" left="108" width="702" height="18" font="5">the relevant set of entities to be women who are bad conversationalists, we end up with</text>
+<text top="289" left="108" width="555" height="18" font="5">a truism which is not what the utterance is intended to communicate:</text>
+<text top="337" left="108" width="34" height="18" font="5">(38)</text>
+<text top="337" left="162" width="282" height="18" font="5">Women are bad conversationalists.</text>
+<text top="384" left="108" width="702" height="18" font="5">Although Declerck's analysis cannot be maintained as such, it contains one interesting</text>
+<text top="408" left="108" width="703" height="18" font="5">idea, namely that the presence or absence of a generic operator in the logical form of an</text>
+<text top="432" left="108" width="702" height="18" font="5">utterance is the result of pragmatic processing. This idea will be taken up again in section</text>
+<text top="455" left="108" width="702" height="18" font="5">3. For the moment I want to move on to a more promising approach to the semantics of</text>
+<text top="479" left="108" width="99" height="18" font="5">genericness.</text>
+<text top="551" left="108" width="274" height="18" font="6"><b>2.3 A modal account of generics</b></text>
+<text top="598" left="108" width="702" height="18" font="5">A number of people have proposed that generics can be best handled by a possible-worlds</text>
+<text top="621" left="108" width="702" height="18" font="5">semantic framework, on a par with a variety of modal phenomena (Dahl 1975, Heim</text>
+<text top="645" left="108" width="702" height="18" font="5">1982). I am going to draw on such analyses to sketch how a modality-based approach to</text>
+<text top="669" left="108" width="702" height="18" font="5">generics might go. However, my focus will be on the many pragmatic factors which come</text>
+<text top="693" left="108" width="702" height="18" font="5">into play in the interpretation of both modals and generics, but which are normally</text>
+<text top="716" left="108" width="702" height="18" font="5">ignored by the formal approaches. This subsection will outline and assess existing</text>
+<text top="740" left="108" width="702" height="18" font="5">attempts to link genericness and modality; in section 3 I will modify this idea using a</text>
+<text top="764" left="108" width="294" height="18" font="5">pragmatic theory of communication.</text>
+<text top="788" left="123" width="686" height="18" font="5">The fundamental tenet of the modal approach is that propositions may be descriptions</text>
+<text top="811" left="108" width="702" height="18" font="5">— i.e. truth-conditional representations — of states of affairs in different types of worlds.</text>
+<text top="835" left="108" width="702" height="18" font="5">In particular, they can be descriptions of states of affairs in the actual world or in a variety</text>
+<text top="859" left="108" width="702" height="18" font="5">of alternative possible worlds. The idea behind the notion of possible worlds is that things</text>
+<text top="883" left="108" width="703" height="18" font="5">might have been different from the way they are in reality. The real world is thus one of</text>
+<text top="906" left="108" width="702" height="18" font="5">infinitely many possible worlds and differs from them only in that it happens to be</text>
+<text top="930" left="108" width="702" height="18" font="5">actualised. Possible worlds are meant to exist independently of individuals who happen</text>
+<text top="954" left="108" width="702" height="18" font="5">to entertain a given proposition, and of the way these individuals represent the proposition</text>
+<text top="978" left="108" width="702" height="18" font="5">to themselves (for an extreme form of modal realism see Lewis 1973, 1986). Truth</text>
+<text top="1001" left="108" width="702" height="18" font="5">consequently depends on the relationship of a proposition to a world: saying that a</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="19" family="Times" color="#000000"/>
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">15</text>
+<text top="194" left="108" width="702" height="18" font="5">proposition is true or false in a given world is saying something about that world, namely</text>
+<text top="218" left="108" width="643" height="18" font="5">that it does or does not contain the state of affairs described by the proposition. </text>
+<text top="242" left="123" width="687" height="18" font="5">To explain how modality functions in such a framework, we need to specify three</text>
+<text top="265" left="108" width="702" height="18" font="5">factors which jointly underlie modal operators: following the model of Kratzer (1981),</text>
+<text top="289" left="108" width="702" height="18" font="5">I will call them the <i>modal relation</i>, the <i>modal base</i> and the <i>ordering sourc</i>e.  The modal</text>
+<text top="313" left="108" width="702" height="18" font="5">relation includes essentially the notions of possibility and necessity, or what the symbols</text>
+<text top="332" left="108" width="14" height="26" font="8"></text>
+<text top="337" left="122" width="45" height="18" font="5"> and </text>
+<text top="332" left="167" width="15" height="26" font="8">~</text>
+<text top="337" left="181" width="629" height="18" font="5"> of modal logic are designed to capture. The modal base (or conversational</text>
+<text top="360" left="108" width="702" height="18" font="5">background) involves a set of assumptions against which the modal relation can be</text>
+<text top="384" left="108" width="702" height="18" font="5">understood; these sets are expressible with the phrase 'in view of -' (cf. also Kratzer 1977).</text>
+<text top="408" left="108" width="702" height="18" font="5">Kratzer's theory includes, for instance, epistemic modal bases (where a given modality is</text>
+<text top="432" left="108" width="702" height="18" font="5">understood in view of what is known), teleological modal bases (where modality is</text>
+<text top="455" left="108" width="701" height="18" font="5">understood in view of one's aims), deontic modal bases (where modality applies in view</text>
+<text top="479" left="108" width="702" height="18" font="5">of what is commanded) etc.; these are exemplified in the uses of <i>must</i> in (39a-c)</text>
+<text top="503" left="108" width="102" height="18" font="5">respectively:</text>
+<text top="550" left="108" width="34" height="18" font="5">(39)</text>
+<text top="550" left="162" width="14" height="18" font="5">a.</text>
+<text top="550" left="216" width="480" height="18" font="5">Judy must be John's sister: they have the same mannerisms.</text>
+<text top="574" left="162" width="15" height="18" font="5">b.</text>
+<text top="574" left="216" width="449" height="18" font="5">I must buy a bicycle to get to college quickly every day.</text>
+<text top="598" left="162" width="14" height="18" font="5">c.</text>
+<text top="598" left="216" width="223" height="18" font="5">Soldiers must do their duty.</text>
+<text top="645" left="108" width="701" height="18" font="5">In (39a), according to the available evidence, Judy is necessarily John's sister. In (39b),</text>
+<text top="669" left="108" width="702" height="18" font="5">the speaker's aim to get to college quickly every day makes it necessary for her to buy a</text>
+<text top="693" left="108" width="702" height="18" font="5">bicycle. In (39c), given certain orders, it is necessary for soldiers to perform their duty.</text>
+<text top="717" left="108" width="702" height="18" font="5">Kratzer recognises a long list of modal bases, which further include categories such as</text>
+<text top="740" left="108" width="702" height="18" font="5">stereotypical or buletic (related to wishes); all of these are formally treated as sets of</text>
+<text top="764" left="108" width="702" height="18" font="5">possible worlds over which quantification by the modal operator takes place. Not all</text>
+<text top="788" left="108" width="702" height="18" font="5">conversational backgrounds are the same for every possible world — obviously the</text>
+<text top="812" left="108" width="702" height="18" font="5">epistemic conversational background in a world where there is no space travel is different</text>
+<text top="836" left="108" width="703" height="18" font="5">from the one in the actual world. Kratzer points out that modal expressions are context-</text>
+<text top="859" left="108" width="702" height="18" font="5">dependent and vague, since the sort of modal base which will be selected for their</text>
+<text top="883" left="108" width="701" height="18" font="5">interpretation is determined pragmatically (often by some rule of accommodation of the</text>
+<text top="907" left="108" width="250" height="18" font="5">sort proposed by Lewis 1983). </text>
+<text top="931" left="123" width="687" height="18" font="5">Not all worlds contained in a modal base are taken into account in the interpretation of</text>
+<text top="954" left="108" width="701" height="18" font="5">an utterance containing a modal. For instance, in (39a) the speaker does not consider the</text>
+<text top="978" left="108" width="703" height="18" font="5">possibility that Judy has the same mannerisms as John because she is madly in love with</text>
+<text top="1002" left="108" width="701" height="18" font="5">him and tries to imitate his every movement, or the possibility that their mannerisms are</text>
+<text top="1026" left="108" width="702" height="18" font="5">mere coincidence. Why should that be? A first approximation is that worlds containing</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">16</text>
+<text top="1045" left="130" width="379" height="15" font="0">Accessibility was first formally defined by Kripke 1971.</text>
+<text top="1040" left="123" width="6" height="11" font="1">9</text>
+<text top="194" left="108" width="696" height="18" font="5">these states of affairs are further removed from the actual world and not easily accessible</text>
+<text top="192" left="804" width="6" height="11" font="1">9</text>
+<text top="218" left="108" width="702" height="18" font="5">from it; they represent 'wilder' possibilities, which need not be taken into account. More</text>
+<text top="242" left="108" width="702" height="18" font="5">precisely, they are removed from what we take to be the normal course of events, or the</text>
+<text top="265" left="108" width="702" height="18" font="5">causal relations that hold among states of affairs. Therefore we need an <i>ordering source</i></text>
+<text top="289" left="108" width="701" height="18" font="5">which will rate worlds in terms of similarity to the normal course of events and specify</text>
+<text top="313" left="108" width="702" height="18" font="5">the minimal degree of 'distance' from normalcy a world should satisfy. The closer a world</text>
+<text top="337" left="108" width="702" height="18" font="5">is to normal conditions (usually, what holds in the actual world), the more probable it is</text>
+<text top="360" left="108" width="702" height="18" font="5">that a modal relation will hold in that world. Modal bases come with different ordering</text>
+<text top="384" left="108" width="702" height="18" font="5">sources: in the case of epistemic modal bases, a departure from what is known is not such</text>
+<text top="408" left="108" width="702" height="18" font="5">a serious offence; in the case of deontic bases, however, even a slight breach of what is</text>
+<text top="432" left="108" width="269" height="18" font="5">commanded is more problematic.</text>
+<text top="455" left="123" width="686" height="18" font="5">In the system I have described, a proposition is a human necessity (cf. the relation</text>
+<text top="479" left="108" width="702" height="18" font="5">expressed by <i>must</i>) in a world w in view of a modal base and an ordering source iff it is</text>
+<text top="503" left="108" width="702" height="18" font="5">true in all those accessible worlds which come closest to the normal (incidentally, since</text>
+<text top="527" left="108" width="703" height="18" font="5">the order is not total, there can be more than one 'most normal' world). A proposition is</text>
+<text top="550" left="108" width="702" height="18" font="5">a human possibility in a world w in view of a modal base and an ordering source iff its</text>
+<text top="574" left="108" width="702" height="18" font="5">negation is not a human necessity in that world. The idea of an ordering of possible</text>
+<text top="598" left="108" width="702" height="18" font="5">worlds along the lines of similarity belongs to David Lewis, whose theory of</text>
+<text top="622" left="108" width="687" height="18" font="5">counterfactuals has been widely influential in this area (Lewis 1973; cf. Lewis 1986).</text>
+<text top="645" left="123" width="686" height="18" font="5">Let us now go back to the analysis of generics and see how the modal approach can be</text>
+<text top="669" left="108" width="702" height="18" font="5">put to work there. Heim (1982) has suggested that the generic operator can be construed</text>
+<text top="693" left="108" width="473" height="18" font="5">as the modal operator of necessity. Consider the utterance:</text>
+<text top="740" left="108" width="34" height="18" font="5">(40)</text>
+<text top="740" left="162" width="166" height="18" font="5">Dogs have four legs.</text>
+<text top="788" left="108" width="320" height="18" font="5">(40')  GEN (x is a dog; x has four legs)</text>
+<text top="836" left="108" width="702" height="18" font="5">What (40) conveys, on the modal view, is the following: everything which is a dog in the</text>
+<text top="859" left="108" width="702" height="18" font="5">worlds of the modal base is such that, in every world which is closest to normal according</text>
+<text top="883" left="108" width="702" height="18" font="5">to the ordering source, it will have four legs. On its preferred reading, (40) requires a</text>
+<text top="907" left="108" width="701" height="18" font="5">realistic modal base, that is, it is interpreted according to the set of facts assumed to hold</text>
+<text top="931" left="108" width="702" height="18" font="5">in the actual world; thus the possibility is left open for dogs in other sorts of worlds (e.g.</text>
+<text top="954" left="108" width="702" height="18" font="5">in science fiction) to have a different number of legs. (40) can also be ascribed analytic</text>
+<text top="978" left="108" width="702" height="18" font="5">status, in which case quantification will range over all possible worlds — including the</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">17</text>
+<text top="194" left="108" width="702" height="18" font="5">actual one: everything that is a dog in those worlds will have four legs under conditions</text>
+<text top="218" left="108" width="702" height="18" font="5">closest to normal. Note that in neither case do exceptions (e.g. three-legged dogs) falsify</text>
+<text top="242" left="108" width="702" height="18" font="5">the statement made by (40): what is being conveyed is merely that a world where dogs</text>
+<text top="265" left="108" width="631" height="18" font="5">have four legs is more normal than a world in which dogs don't have four legs.</text>
+<text top="289" left="123" width="687" height="18" font="5">By allowing for variations of the modal base and the ordering source, the modal</text>
+<text top="313" left="108" width="635" height="18" font="5">approach can explain the multiplicity of generic interpretations. Consider (41):</text>
+<text top="360" left="108" width="34" height="18" font="5">(41)</text>
+<text top="360" left="162" width="106" height="18" font="5">Paul smokes.</text>
+<text top="408" left="108" width="702" height="18" font="5">The utterance is interpreted according to a stereotypical modal base and ordering source;</text>
+<text top="432" left="108" width="702" height="18" font="5">it explicitly communicates that in all worlds most similar to the world in which Paul</text>
+<text top="455" left="108" width="702" height="18" font="5">shows his typical behaviour, whenever it is appropriate, Paul smokes. In order to make</text>
+<text top="479" left="108" width="703" height="18" font="5">a generalisation about typical behaviour, one needs some evidence from actual (and</text>
+<text top="503" left="108" width="702" height="18" font="5">probably recurrent) behaviour; this accounts for the fact that (41) is felicitously uttered</text>
+<text top="527" left="108" width="702" height="18" font="5">in case Paul has been observed to smoke. On the modal analysis, a situation where Paul</text>
+<text top="550" left="108" width="702" height="18" font="5">is given an appropriate chance and does not smoke is not inconceivable, but is more</text>
+<text top="574" left="108" width="191" height="18" font="5">remote from normalcy. </text>
+<text top="598" left="123" width="687" height="18" font="5">A stereotypical modal base can also account for the interpretation of certain kind-</text>
+<text top="622" left="108" width="371" height="18" font="5">referring NPs. Consider (32) repeated as (42):</text>
+<text top="669" left="108" width="34" height="18" font="5">(42)</text>
+<text top="669" left="162" width="518" height="18" font="5">Peacocks have richly ornamented tails with blue and green eyes.</text>
+<text top="717" left="108" width="702" height="18" font="5">Note that the modality-based approach avoids the disadvantages of the stereotype-based</text>
+<text top="740" left="108" width="702" height="18" font="5">approach to generics, since it correctly recognises that some but not all genericness can</text>
+<text top="764" left="108" width="694" height="18" font="5">be explained through a stereotypical conversational background and ordering source.  </text>
+<text top="812" left="108" width="33" height="18" font="5">(43)</text>
+<text top="812" left="162" width="196" height="18" font="5">A Christian is forgiving.</text>
+<text top="859" left="108" width="702" height="18" font="5">This example involves a deontic modal base (and ordering source), consisting in particular</text>
+<text top="883" left="108" width="701" height="18" font="5">of those possible worlds in which religious and moral obligations hold: every Christian</text>
+<text top="907" left="108" width="702" height="18" font="5">in the most normal circumstances is forgiving in those worlds. (43) does not make a</text>
+<text top="931" left="108" width="702" height="18" font="5">statement about<i> actual</i> Christians but only about Christians in ideal (deontic) worlds; in</text>
+<text top="954" left="108" width="702" height="18" font="5">fact, (43) does not even presuppose/imply the existence of Christians in the actual world,</text>
+<text top="978" left="108" width="702" height="18" font="5">since the actual world does not belong to the modal base. It follows that actual</text>
+<text top="1002" left="108" width="703" height="18" font="5">nonforgiving Christians are not counterexamples to this generalisation (cf. the remarks</text>
+<text top="1026" left="108" width="124" height="18" font="5">on (40) above).</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">18</text>
+<text top="871" left="136" width="395" height="15" font="0">For some criticisms see Smith 1983, Smith &amp; Smith 1988.</text>
+<text top="866" left="123" width="12" height="11" font="1">10</text>
+<text top="908" left="135" width="676" height="15" font="0">This notion does not necessarily correspond to the use of Barwise &amp; Perry (1983); for its application</text>
+<text top="904" left="123" width="12" height="11" font="1">11</text>
+<text top="928" left="108" width="284" height="15" font="0">to generics see Krifka et al. (1995:57-8).  </text>
+<text top="966" left="137" width="673" height="15" font="0">Kratzer (1980), arguing against the view that possible worlds are incompatible with finite brains,</text>
+<text top="961" left="123" width="12" height="11" font="1">12</text>
+<text top="986" left="108" width="702" height="15" font="0">shows that to know a set does not necessarily require a discrete mental representation of all its</text>
+<text top="1005" left="108" width="703" height="15" font="0">members; therefore, a given set of possible worlds need not require an individuated mental representation</text>
+<text top="1025" left="108" width="702" height="15" font="0">but may be stored under a single description (see also Partee 1989:117ff.). A similar proposal for the</text>
+<text top="1045" left="108" width="673" height="15" font="0">mental representation of time was put forth by Hans Kamp and is discussed in Johnson-Laird 1982.</text>
+<text top="194" left="123" width="687" height="18" font="5">The picture I have outlined is certainly appealing as an abstract description of how the</text>
+<text top="218" left="108" width="702" height="18" font="5">semantics of modality and genericness operate. Kratzer's original proposal is particularly</text>
+<text top="242" left="108" width="702" height="18" font="5">successful on two points: on the one hand, in the assignment to modal expressions of a</text>
+<text top="265" left="108" width="702" height="18" font="5">weak semantics, which together with additional contextual considerations yields the</text>
+<text top="289" left="108" width="702" height="18" font="5">epistemic, deontic etc. interpretations; on the other hand, in the reduction of the core</text>
+<text top="313" left="108" width="702" height="18" font="5">meanings of modal expressions to the two logical notions of necessity and possibility. The</text>
+<text top="337" left="108" width="702" height="18" font="5">application of the framework to generics manages to bring together two areas which</text>
+<text top="360" left="108" width="702" height="18" font="5">clearly have much in common. However, there are a number of problems, both traditional</text>
+<text top="384" left="108" width="310" height="18" font="5">and new, which the theory has to face.</text>
+<text top="408" left="123" width="687" height="18" font="5">First, the possible-worlds model is not meant as a psychologically plausible model of</text>
+<text top="432" left="108" width="702" height="18" font="5">how speakers represent and handle alternative possibilities. In fact the model as it stands</text>
+<text top="455" left="108" width="702" height="18" font="5">rather runs counter to experimental findings, according to which human subjects have</text>
+<text top="479" left="108" width="702" height="18" font="5">difficulty with the systematic mental manipulation of even a few alternatives (Johnson-</text>
+<text top="503" left="108" width="702" height="18" font="5">Laird 1982). The psychological reality of possible worlds is the subject of a long and</text>
+<text top="527" left="108" width="702" height="18" font="5">heated debate which falls outside the scope of the present paper.  One way out would be</text>
+<text top="524" left="612" width="12" height="11" font="1">10</text>
+<text top="550" left="108" width="702" height="18" font="5">to suggest that worlds do not correspond to full-fledged representations of states of affairs</text>
+<text top="574" left="108" width="702" height="18" font="5">but to partial specifications of them, or <i>situations</i>.  Another would be to assume that sets</text>
+<text top="572" left="492" width="12" height="11" font="1">11</text>
+<text top="598" left="108" width="702" height="18" font="5">of possible worlds are not individually represented but subsumed under a single</text>
+<text top="622" left="108" width="702" height="18" font="5">description.  In the best of cases, the theory as outlined above should be taken to capture</text>
+<text top="619" left="198" width="12" height="11" font="1">12</text>
+<text top="645" left="108" width="703" height="18" font="5">some facts about the speaker's semantic competence while remaining neutral as to how</text>
+<text top="669" left="108" width="702" height="18" font="5">this competence is to be cognitively represented (see similar suggestions in Stalnaker</text>
+<text top="693" left="108" width="104" height="18" font="5">1986:120-1).</text>
+<text top="717" left="123" width="687" height="18" font="5">Now some more immediate points about Kratzer's analysis. We saw that it is not</text>
+<text top="740" left="108" width="702" height="18" font="5">designed to fit with a cognitively informed pragmatic theory. Still, it seems that two of the</text>
+<text top="764" left="108" width="702" height="18" font="5">three components of modality, namely the conversational background and the ordering</text>
+<text top="788" left="108" width="702" height="18" font="5">source, involve non-linguistic knowledge and consequently belong to pragmatics (Kratzer</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">19</text>
+<text top="194" left="108" width="702" height="18" font="5">herself makes vague but repeated references to the role of contextual factors in the overall</text>
+<text top="218" left="108" width="702" height="18" font="5">comprehension of modals). The way pragmatics is dealt with in her account, however, is</text>
+<text top="242" left="108" width="136" height="18" font="5">at least dubious. </text>
+<text top="265" left="123" width="687" height="18" font="5">For one thing, the idea of a fixed inventory of conversational backgrounds favouring</text>
+<text top="289" left="108" width="702" height="18" font="5">one modal interpretation over others presupposes a rigid and inflexible conception of the</text>
+<text top="313" left="108" width="702" height="18" font="5">role of context in comprehension. In this sense it reflects earlier views in the literature on</text>
+<text top="337" left="108" width="702" height="18" font="5">communication, according to which context was a determined/'given' chunk of</text>
+<text top="360" left="108" width="702" height="18" font="5">information fixed independently of the utterance (see, e.g., Brown &amp; Yule 1983). As</text>
+<text top="384" left="108" width="702" height="18" font="5">Sperber &amp; Wilson (1986) have shown, however, constructing the context for</text>
+<text top="408" left="108" width="702" height="18" font="5">understanding an utterance is part of the interpretation process, constrained by general</text>
+<text top="432" left="108" width="169" height="18" font="5">pragmatic principles.</text>
+<text top="455" left="123" width="687" height="18" font="5">Moreover, the idea that possible worlds have an absolute ordering based on their</text>
+<text top="479" left="108" width="702" height="18" font="5">similarity to an ideal needs amendment if it is to be compatible with any adequate account</text>
+<text top="503" left="108" width="701" height="18" font="5">of utterance interpretation. Speakers certainly do not possess such an ordering: it would</text>
+<text top="527" left="108" width="702" height="18" font="5">put too great a burden on human cognitive capacities with little foreseeable gain,</text>
+<text top="550" left="108" width="702" height="18" font="5">especially since the notion of similarity is too vague to be used on its own (see the well-</text>
+<text top="574" left="108" width="702" height="18" font="5">known puzzles of Goodman 1970 and Lewis 1973). So even if we knew how to give a</text>
+<text top="598" left="108" width="702" height="18" font="5">psychologically tractable picture of possible worlds, the similarity metric would still</text>
+<text top="622" left="108" width="149" height="18" font="5">remain a mystery. </text>
+<text top="645" left="123" width="687" height="18" font="5">Finally, there are more specific objections to the modal theory of generics. For instance,</text>
+<text top="669" left="108" width="702" height="18" font="5">the present analysis does not explain why there are no generics that require an epistemic</text>
+<text top="693" left="108" width="702" height="18" font="5">conversational background. Utterances of the sort in (44) cannot be interpreted in view</text>
+<text top="717" left="108" width="702" height="18" font="5">of the speaker's knowledge/beliefs, that is, on a par with, say, deontic conversational</text>
+<text top="740" left="108" width="702" height="18" font="5">backgrounds which require a set of assumptions about what is ordered/dictated by moral</text>
+<text top="764" left="108" width="76" height="18" font="5">laws etc.:</text>
+<text top="788" left="108" width="5" height="18" font="5"> </text>
+<text top="812" left="108" width="34" height="18" font="5">(44)</text>
+<text top="812" left="162" width="168" height="18" font="5">Lions are dangerous.</text>
+<text top="859" left="108" width="703" height="18" font="5">Last but not least, the modality-based approach is unable to resolve potential clashes in</text>
+<text top="883" left="108" width="702" height="18" font="5">the selection of modal bases and ordering sources. Consider the examples from Krifka et</text>
+<text top="907" left="108" width="109" height="18" font="5">al. (1995:56):</text>
+<text top="954" left="108" width="33" height="18" font="5">(45)</text>
+<text top="954" left="162" width="172" height="18" font="5">A turtle is long-lived.</text>
+<text top="1002" left="108" width="33" height="18" font="5">(46)</text>
+<text top="1002" left="162" width="248" height="18" font="5">A pheasant lays speckled eggs.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">20</text>
+<text top="194" left="108" width="702" height="18" font="5">Following the modal definition of GEN, (45) is true if and only if every turtle in the modal</text>
+<text top="218" left="108" width="702" height="18" font="5">base is long-lived in all the most normal worlds with respect to the ordering source. The</text>
+<text top="242" left="108" width="702" height="18" font="5">sentence should be evaluated against a 'realistic' background, in which the laws of biology</text>
+<text top="265" left="108" width="702" height="18" font="5">hold. However, the worlds in which no turtle ever dies a premature death are themselves</text>
+<text top="289" left="108" width="702" height="18" font="5">biologically highly abnormal. This is a case where normalcy conditions contradict each</text>
+<text top="313" left="108" width="702" height="18" font="5">other: the laws for a single organism are not compatible with the laws for a whole</text>
+<text top="337" left="108" width="702" height="18" font="5">ecosystem. In (46) we again construct an interpretation according to biological normalcy.</text>
+<text top="360" left="108" width="702" height="18" font="5">The proposition expressed is true if and only if every pheasant in the worlds of the modal</text>
+<text top="384" left="108" width="702" height="18" font="5">base lays speckled eggs in every most normal world. To capture the intended universal</text>
+<text top="408" left="108" width="702" height="18" font="5">quantification, we need to consider only worlds containing pheasants able to lay eggs (i.e.</text>
+<text top="432" left="108" width="702" height="18" font="5">female fertilised pheasants). However, according to the laws of biology, such worlds</text>
+<text top="455" left="108" width="703" height="18" font="5">should also include male pheasants for fertilisation to take place; and of course such</text>
+<text top="479" left="108" width="701" height="18" font="5">pheasants would not lay eggs. These are not only paradoxes for ornithology but also for</text>
+<text top="503" left="108" width="702" height="18" font="5">a semantic theory which does not allow enough room for pragmatics in the construction</text>
+<text top="527" left="108" width="373" height="18" font="5">of the proposition expressed by the utterance. </text>
+<text top="550" left="123" width="686" height="18" font="5">So far I have argued that, although the modal approach to generics offers an interesting</text>
+<text top="574" left="108" width="702" height="18" font="5">insight into their semantics, the way it is set up acts as a barrier to its psychologically</text>
+<text top="598" left="108" width="702" height="18" font="5">plausible application. Obviously, the question to ask is: how can the insights of the formal</text>
+<text top="622" left="108" width="702" height="18" font="5">approaches be integrated into a psychologically sound account of utterance interpretation?</text>
+<text top="645" left="108" width="365" height="18" font="5">This is the issue I address in the next section.</text>
+<text top="717" left="108" width="349" height="18" font="6"><b>3 Towards a relevance-theoretic account</b></text>
+<text top="764" left="108" width="544" height="18" font="6"><b>3.1 Genericness in semantic representation: a pragmatic choice</b></text>
+<text top="811" left="108" width="702" height="18" font="5">My purpose in this section is to show how the interpretation of generics is accounted for</text>
+<text top="835" left="108" width="702" height="18" font="5">within a relevance-theoretic framework (see Sperber &amp; Wilson 1986/ 1995; for a brief</text>
+<text top="833" left="671" width="6" height="11" font="1">2</text>
+<text top="859" left="108" width="702" height="18" font="5">summary of the theory I refer to Carston 1988). As far as the semantics of the generic</text>
+<text top="882" left="108" width="701" height="18" font="5">operator is concerned, I assume that genericness involves universal quantification over</text>
+<text top="906" left="108" width="702" height="18" font="5">a set of contextually determined sets of alternative states of affairs. For the sake of</text>
+<text top="930" left="108" width="701" height="18" font="5">simplicity I will continue to refer to them as possible worlds, although it will be clear in</text>
+<text top="954" left="108" width="702" height="18" font="5">what ways I intend them to differ from the formal notion defined in the previous section.</text>
+<text top="977" left="108" width="702" height="18" font="5">Possible worlds are meant to be objective, external-to-the-individual states of affairs;</text>
+<text top="1001" left="108" width="702" height="18" font="5">nevertheless, their internal representation may be partial and incomplete, leaving</text>
+<text top="1025" left="108" width="702" height="18" font="5">unspecified various points which can be filled in by inference or are not of immediate</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">21</text>
+<text top="946" left="137" width="674" height="15" font="0">Krifka et al. (1995:8) give the example of Swahili which includes the verbal prefix <i>hu</i>-, standardly</text>
+<text top="941" left="123" width="12" height="11" font="1">13</text>
+<text top="966" left="108" width="702" height="15" font="0">taken to encode habituality. As the authors add, such markers are only a sufficient, and not a necessary,</text>
+<text top="986" left="108" width="700" height="15" font="0">condition, for a generic reading: the same meaning in Swahili could be expressed using the present tense.</text>
+<text top="1005" left="108" width="702" height="15" font="0">Comrie (1985:40-1) is also cautious about such examples and rejects the idea of a habitual or a universal</text>
+<text top="1025" left="108" width="702" height="15" font="0">tense, underlining the importance of pragmatic factors in the derivation of 'generic' meanings in tense-</text>
+<text top="1045" left="108" width="169" height="15" font="0">aspect-modality systems.</text>
+<text top="194" left="108" width="702" height="18" font="5">importance for a given mental process. In what follows I want to take up Declerck's</text>
+<text top="218" left="108" width="702" height="18" font="5">observation that the decision to place GEN in the semantic representation of a given</text>
+<text top="242" left="108" width="703" height="18" font="5">sentence is itself the product of pragmatic reasoning. What I hope to demonstrate is that</text>
+<text top="265" left="108" width="702" height="18" font="5">the generic operator is not necessarily 'plugged in' the initial logical form of a</text>
+<text top="289" left="108" width="702" height="18" font="5">characterising sentence, but its presence or absence is determined by considerations of</text>
+<text top="313" left="108" width="82" height="18" font="5">relevance.</text>
+<text top="337" left="123" width="687" height="18" font="5">An immediate consequence of postulating a semantically encoded generic operator GEN</text>
+<text top="360" left="108" width="702" height="18" font="5">would be that both NPs and predicates would come out as multiply ambiguous between</text>
+<text top="384" left="108" width="703" height="18" font="5">generic and various non-generic senses. One kind of evidence against this assumption</text>
+<text top="408" left="108" width="702" height="18" font="5">comes from a test devised by Kripke (1977) to check alleged ambiguities: would we be</text>
+<text top="432" left="108" width="702" height="18" font="5">surprised to find two languages with two different words for, say, the generic and the non-</text>
+<text top="455" left="108" width="702" height="18" font="5">generic meaning of a verbal predicate? Most speakers would say 'yes', which suggests that</text>
+<text top="479" left="108" width="703" height="18" font="5">our expectations do not favour an individual encoding of genericness in referential</text>
+<text top="503" left="108" width="213" height="18" font="5">expressions or predicates. </text>
+<text top="527" left="123" width="686" height="18" font="5">Further, Kripke proposes, we could check whether there are languages that separately</text>
+<text top="550" left="108" width="702" height="18" font="5">encode the alleged senses. Genericness is a fairly pervasive and cross-linguistically robust</text>
+<text top="574" left="108" width="702" height="18" font="5">type of meaning: if it is encoded by a linguistic operator such as GEN, we could expect</text>
+<text top="598" left="108" width="702" height="18" font="5">languages to develop some specialised way of grammatically marking it (as they mark</text>
+<text top="622" left="108" width="702" height="18" font="5">other semantic categories such as tense, aspect or number). Dahl (1995), after researching</text>
+<text top="645" left="108" width="702" height="18" font="5">a large amount of cross-linguistic material on characterising sentences, concludes that</text>
+<text top="669" left="108" width="702" height="18" font="5">natural languages follow a Minimal Marking Tendency with respect to generics: that is,</text>
+<text top="693" left="108" width="702" height="18" font="5">generics either lack overt tense-aspect marking or they use the least marked form that the</text>
+<text top="717" left="108" width="702" height="18" font="5">morphological system of the language offers. Furthermore, whatever form is used for</text>
+<text top="740" left="108" width="702" height="18" font="5">generics is also used in other, non-generic environments. Even in the fairly small number</text>
+<text top="764" left="108" width="702" height="18" font="5">of languages where there seem to be explicit grammatical markers of genericness, their</text>
+<text top="788" left="108" width="702" height="18" font="5">semantics are not always clear.  In addition, in those groups generics sometimes share</text>
+<text top="786" left="359" width="12" height="11" font="1">13</text>
+<text top="812" left="108" width="702" height="18" font="5">their expression with other types of sentences. Dahl (1995) draws a parallel between the</text>
+<text top="836" left="108" width="702" height="18" font="5">difficulty of finding clear grammatical distinctions that coincide with the episodic/generic</text>
+<text top="859" left="108" width="702" height="18" font="5">distinction and the absence of a specifically 'generic' article in the languages of the world.</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">22</text>
+<text top="194" left="108" width="702" height="18" font="5">He concludes that the generic/non-generic distinction 'more often than not is only</text>
+<text top="218" left="108" width="571" height="18" font="5">indirectly reflected in speakers' choices between grammatical markers'.</text>
+<text top="242" left="123" width="687" height="18" font="5">It seems thus that there is no straightforward association of genericness and</text>
+<text top="265" left="108" width="702" height="18" font="5">overt/specialised grammatical marking. In other words, genericness is not encoded by any</text>
+<text top="289" left="108" width="703" height="18" font="5">specific type of construction. Instead, a variety of lexical and grammatical means may</text>
+<text top="313" left="108" width="702" height="18" font="5">serve to indicate (not always decisively) that a generic interpretation is intended. In</text>
+<text top="337" left="108" width="702" height="18" font="5">English, such mechanisms include bare plural count nouns and bare mass nouns for kind-</text>
+<text top="360" left="108" width="702" height="18" font="5">referring NPs, and the construction <i>used to</i>, deverbal adjectives in -<i>able</i> and verbal</text>
+<text top="384" left="108" width="476" height="18" font="5">predicates in the middle voice for characterising sentences:</text>
+<text top="432" left="108" width="34" height="18" font="5">(47)</text>
+<text top="432" left="162" width="14" height="18" font="5">a.</text>
+<text top="432" left="216" width="164" height="18" font="5">Beavers build dams.</text>
+<text top="455" left="162" width="15" height="18" font="5">b.</text>
+<text top="455" left="216" width="109" height="18" font="5">Water is rare.</text>
+<text top="479" left="162" width="14" height="18" font="5">c.</text>
+<text top="479" left="216" width="216" height="18" font="5">John used to smoke cigars.</text>
+<text top="503" left="162" width="15" height="18" font="5">d.</text>
+<text top="503" left="216" width="443" height="18" font="5">This introduction to particle physics is highly readable.</text>
+<text top="527" left="162" width="14" height="18" font="5">e.</text>
+<text top="527" left="216" width="158" height="18" font="5">He weighs 75 kilos.</text>
+<text top="574" left="108" width="702" height="18" font="5">Whenever there are no compelling semantic reasons for choosing a generic over a non-</text>
+<text top="598" left="108" width="702" height="18" font="5">generic semantic representation, a sentence will remain underdetermined in this respect.</text>
+<text top="622" left="108" width="703" height="18" font="5">What exactly does it mean for a sentence to be underdetermined between generic and</text>
+<text top="645" left="108" width="702" height="18" font="5">non-generic readings? Obviously it means that it is not clear in which sort of world the</text>
+<text top="669" left="108" width="702" height="18" font="5">given proposition is expected to hold, that is, in the actual or some other kind of possible</text>
+<text top="693" left="108" width="702" height="18" font="5">world. Resolving the underdeterminacy is part of the hearer's attempt to understand the</text>
+<text top="717" left="108" width="702" height="18" font="5">utterance; once the hearer has decided on the sort of world in which the proposition</text>
+<text top="740" left="108" width="702" height="18" font="5">communicated is assumed to hold, he can inferentially complete the decoded logical form</text>
+<text top="764" left="108" width="702" height="18" font="5">into a truth-evaluable representation. The absence (or scarcity) of particular indicators of</text>
+<text top="788" left="108" width="702" height="18" font="5">genericness in the languages of the world shows that this is a task hearers can carry out</text>
+<text top="812" left="108" width="194" height="18" font="5">in a wide array of cases.</text>
+<text top="836" left="123" width="687" height="18" font="5">Usually, if there is no explicit indication to the contrary (e.g. a mood indicator,</text>
+<text top="859" left="108" width="702" height="18" font="5">intonational cues, word order variation), the world which the proposition expressed will</text>
+<text top="883" left="108" width="702" height="18" font="5">be taken to describe is the actual world. Indeed, it seems that this is a sort of 'default'</text>
+<text top="907" left="108" width="702" height="18" font="5">option which is characteristic of many deictic phenomena which pertain to the 'here and</text>
+<text top="931" left="108" width="703" height="18" font="5">now' of the act of utterance. For instance, the preferred interpretation of (48) is that it is</text>
+<text top="954" left="108" width="175" height="18" font="5">raining here and now:</text>
+<text top="1002" left="108" width="34" height="18" font="5">(48)</text>
+<text top="1002" left="162" width="98" height="18" font="5">It is raining.</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">23</text>
+<text top="986" left="137" width="674" height="15" font="0">Of course these default values may change in highly accessible contexts. If (48) is uttered while</text>
+<text top="981" left="123" width="12" height="11" font="1">14</text>
+<text top="1005" left="108" width="702" height="15" font="0">watching a film, it might well be interpreted as 'It is raining in the film'. Actually it has been suggested that</text>
+<text top="1025" left="108" width="702" height="15" font="0">temporal correlates might be more basic than spatial ones, but this is an issue which has no immediate</text>
+<text top="1045" left="108" width="368" height="15" font="0">relevance here (for some discussion see Partee 1985). </text>
+<text top="194" left="108" width="702" height="18" font="5">Let me digress slightly to see how such examples can be handled. There have been</text>
+<text top="218" left="108" width="702" height="18" font="5">various formulations to the effect that utterances like (48) have a preferred interpretation.</text>
+<text top="242" left="108" width="702" height="18" font="5">Fodor (1987:78) notes that the default values in (48) are almost mandatory: 'ceteris</text>
+<text top="265" left="108" width="702" height="18" font="5">paribus, you can't say 'it's raining' and expect your hearer to default to rain in Calcutta'.</text>
+<text top="289" left="108" width="702" height="18" font="5">Similarly, Comrie (1985:49) observes that 'one would expect a non-past tense, other</text>
+<text top="313" left="108" width="702" height="18" font="5">things being equal, to be given the interpretation of present time reference' and, using</text>
+<text top="337" left="108" width="702" height="18" font="5">Grice's maxim of relation, explains that 'this is the interpretation most relevant to the</text>
+<text top="360" left="108" width="703" height="18" font="5">situation at hand'. A relevance-theoretic account of the interpretation of utterances like</text>
+<text top="384" left="108" width="702" height="18" font="5">(48) would proceed as follows. There is an immediately accessible context in which the</text>
+<text top="408" left="108" width="702" height="18" font="5">utterance in (48) can be processed: this consists of assumptions about the moment and</text>
+<text top="432" left="108" width="702" height="18" font="5">location at which the utterance is produced, including the hearer's current thoughts,</text>
+<text top="455" left="108" width="702" height="18" font="5">intentions, possible courses of action etc. Since these are likely to be influenced by the</text>
+<text top="479" left="108" width="702" height="18" font="5">novel piece of information in (48), use of the 'here-and-now' context is also bound to yield</text>
+<text top="503" left="108" width="702" height="18" font="5">adequate effects for the hearer. As a result, it is the context which will be selected for</text>
+<text top="527" left="108" width="702" height="18" font="5">comprehension of the utterance in (48) and which will furnish the spatio-temporal values</text>
+<text top="550" left="108" width="688" height="18" font="5">for enriching the logical form of the utterance into a truth-evaluable representation.  </text>
+<text top="548" left="779" width="12" height="11" font="1">14</text>
+<text top="574" left="123" width="687" height="18" font="5">This sort of argumentation is considered pretty much standard for propositional</text>
+<text top="598" left="108" width="701" height="18" font="5">enrichment involving spatio-temporal correlates (see Carston 1988). I would argue that</text>
+<text top="622" left="108" width="702" height="18" font="5">similar machinery can deal with enrichment involving modal correlates, i.e. specifying the</text>
+<text top="645" left="108" width="702" height="18" font="5">world which a certain proposition is taken to describe. Other things being equal, the world</text>
+<text top="669" left="108" width="702" height="18" font="5">which a proposition is taken to describe will be the actual one. Considerations of</text>
+<text top="693" left="108" width="702" height="18" font="5">relevance indeed suggest that more immediate cognitive gain will come from a</text>
+<text top="717" left="108" width="702" height="18" font="5">proposition taken to describe some aspect of the actual world rather than a proposition</text>
+<text top="740" left="108" width="702" height="18" font="5">taken to describe a merely possible state of affairs. This has a number of consequences;</text>
+<text top="764" left="108" width="702" height="18" font="5">for instance, it predicts that, other things being equal, whenever a proposition can be</text>
+<text top="788" left="108" width="701" height="18" font="5">interpreted as non-generic, it will be. This is borne out in cases like (49), uttered during</text>
+<text top="812" left="108" width="447" height="18" font="5">a conversation on the contemporary role of the Church:</text>
+<text top="859" left="108" width="34" height="18" font="5">(49)</text>
+<text top="859" left="162" width="365" height="18" font="5">The clergy prays for the future of humanity.  </text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">24</text>
+<text top="1005" left="136" width="675" height="15" font="0">These default values are bound to receive some feedback during human cognitive development:</text>
+<text top="1001" left="123" width="12" height="11" font="1">15</text>
+<text top="1025" left="108" width="702" height="15" font="0">precisely because they yield greater effects, they will increase in accessibility over time, according</text>
+<text top="1045" left="108" width="635" height="15" font="0">to a relevance-theoretic account of cognition and memory organisation (Deirdre Wilson, p.c.).</text>
+<text top="194" left="108" width="702" height="18" font="5">Arguably, on its preferred interpretation, (49) is construed as making a claim about</text>
+<text top="218" left="108" width="702" height="18" font="5">members of the clergy in the actual world — or at least in realistic worlds resembling the</text>
+<text top="242" left="108" width="702" height="18" font="5">actual one in crucial respects — not in alternative worlds. The idea is that the actual world</text>
+<text top="265" left="108" width="702" height="18" font="5">typically forms a sort of zero-point or default value for the world-location of a proposition</text>
+<text top="289" left="108" width="702" height="18" font="5">in utterance comprehension, just as the 'here and now' provides default values for time</text>
+<text top="313" left="108" width="154" height="18" font="5">and space location.</text>
+<text top="311" left="262" width="12" height="11" font="1">15</text>
+<text top="337" left="123" width="687" height="18" font="5">If the hearer decides that the utterance was not meant as a description of a state of</text>
+<text top="360" left="108" width="702" height="18" font="5">affairs in the actual world but as a generalisation over a range of possible worlds, he</text>
+<text top="384" left="108" width="703" height="18" font="5">constructs a logical form with an underspecified generic operator, identical to the modal</text>
+<text top="408" left="108" width="702" height="18" font="5">operator of necessity. Recasting the modal proposal, I take the underspecified semantics</text>
+<text top="432" left="108" width="703" height="18" font="5">of genericness to be fleshed out by two sorts of pragmatic considerations: on the one</text>
+<text top="455" left="108" width="702" height="18" font="5">hand, a specification of the <i>kind</i> of states of affairs that affect the interpretation of the</text>
+<text top="479" left="108" width="702" height="18" font="5">generic proposition; on the other hand, a specification of the <i>range</i> of such states of</text>
+<text top="503" left="108" width="702" height="18" font="5">affairs, i.e. how close these need to be with respect to some normalcy standard. I want to</text>
+<text top="527" left="108" width="702" height="18" font="5">suggest that both sorts of considerations follow straightforwardly from the search for</text>
+<text top="550" left="108" width="702" height="18" font="5">relevance and are therefore naturally captured by a general theory of utterance</text>
+<text top="574" left="108" width="114" height="18" font="5">interpretation.</text>
+<text top="598" left="123" width="688" height="18" font="5">Consider the multiplicity of modal bases introduced in the previous section. It is clear</text>
+<text top="622" left="108" width="702" height="18" font="5">that what they represent is the various sets of assumptions that can be brought to bear on</text>
+<text top="645" left="108" width="702" height="18" font="5">the interpretation of generics. These assumptions involve the sorts of world that a generic</text>
+<text top="669" left="108" width="703" height="18" font="5">may be taken to describe (e.g. realistic, stereotypical, deontic etc.). There is no need to</text>
+<text top="693" left="108" width="702" height="18" font="5">assume that there is a finite list of such worlds, or that each one enjoys a full-fledged</text>
+<text top="717" left="108" width="702" height="18" font="5">specification in mental representation. Instead, it seems that, in setting up representations</text>
+<text top="740" left="108" width="702" height="18" font="5">of alternative realities, we restrict our attention to worlds which are quite similar to the</text>
+<text top="764" left="108" width="702" height="18" font="5">world as it really is. I will look briefly at the role of similarity among worlds in the next</text>
+<text top="788" left="108" width="493" height="18" font="5">section, before going on with the interpretation of generics.   </text>
+<text top="860" left="108" width="375" height="18" font="6"><b>3.2 Relevance and similarity among worlds </b></text>
+<text top="906" left="108" width="702" height="18" font="5">The problem of similarity among worlds has seriously beset previous modal approaches.</text>
+<text top="930" left="108" width="702" height="18" font="5">We saw that not all worlds of a specific kind need be taken into account when it comes</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">25</text>
+<text top="1005" left="137" width="674" height="15" font="0">Interestingly  Kratzer (1989) in her analysis of counterfactuals points out — without explanation</text>
+<text top="1001" left="123" width="12" height="11" font="1">16</text>
+<text top="1025" left="108" width="702" height="15" font="0">— that in determining the set of propositions relevant for their truth only 'humanly graspable' propositions</text>
+<text top="1045" left="108" width="618" height="15" font="0">should be considered; cognitive factors are thus indirectly introduced in the formal analysis.</text>
+<text top="194" left="108" width="702" height="18" font="5">to the evaluation of generics, but only a limited range of them, determined by an ordering</text>
+<text top="218" left="108" width="63" height="18" font="5">source. </text>
+<text top="242" left="123" width="687" height="18" font="5">I have already expressed doubts as to the usefulness and feasibility of an abstract</text>
+<text top="265" left="108" width="703" height="18" font="5">ordering of possible worlds in terms of similarity. The point here is that, whatever the</text>
+<text top="289" left="108" width="702" height="18" font="5">ontological status of possible worlds, their similarity ratings are a cognitive and thus</text>
+<text top="313" left="108" width="702" height="18" font="5">subjective matter. Even as ardent an adherent of modal realism as Lewis rejects the</text>
+<text top="337" left="108" width="702" height="18" font="5">possibility of objectively measuring similarity among worlds (e.g. by mathematical</text>
+<text top="360" left="108" width="701" height="18" font="5">methods). He admits: 'Overall similarity consists of innumerable similarities and</text>
+<text top="384" left="108" width="702" height="18" font="5">differences in innumerable respects of comparison, balanced against each other, according</text>
+<text top="408" left="108" width="702" height="18" font="5">to the relative importances we attach to these respects of comparison. Insofar as these</text>
+<text top="432" left="108" width="701" height="18" font="5">relative importances differ from one person to another, or differ from one occasion to</text>
+<text top="455" left="108" width="702" height="18" font="5">another, or are indeterminate even for a single person on a single occasion, so far is</text>
+<text top="479" left="108" width="702" height="18" font="5">comparative similarity indeterminate' (Lewis 1973:91). In a more revealing excerpt Lewis</text>
+<text top="503" left="108" width="702" height="18" font="5">points out that our perception of similarity makes little use of the vast inventory permitted</text>
+<text top="527" left="108" width="702" height="18" font="5">by logic: interlocutors expect each other to remain within a relatively limited range of</text>
+<text top="550" left="108" width="702" height="18" font="5">inter-world similarity, and it is natural to have vocabulary conventionally reserved for use</text>
+<text top="574" left="108" width="702" height="18" font="5">within this range (1973:94). In what follows I will take seriously the idea that humans</text>
+<text top="598" left="108" width="702" height="18" font="5">obey cognitive and communicative constraints in their assessments of similarity (and, in</text>
+<text top="622" left="108" width="702" height="18" font="5">particular, similarity among worlds); indeed, I will show that the 'limited vagueness' of</text>
+<text top="645" left="108" width="702" height="18" font="5">similarity which Lewis noted can be attributed to relevance-based limitations in</text>
+<text top="669" left="108" width="421" height="18" font="5">construing plausible alternatives to the actual world.</text>
+<text top="667" left="529" width="12" height="11" font="1">16</text>
+<text top="693" left="123" width="687" height="18" font="5">The question I will first try to answer is this: why is it that, while interpreting a generic</text>
+<text top="717" left="108" width="702" height="18" font="5">proposition, hearers take it to represent a generalisation over a range of worlds which</text>
+<text top="740" left="108" width="702" height="18" font="5">resemble the actual one as much as is allowed by the specific type of possibility involved?</text>
+<text top="764" left="108" width="702" height="18" font="5">A reason seems to emerge from the discussion above about the increased relevance of</text>
+<text top="788" left="108" width="702" height="18" font="5">propositions describing the actual world. Indeed, why should a rational being entertain</text>
+<text top="812" left="108" width="702" height="18" font="5">alternative possibilities if they had absolutely nothing to do with the way the world</text>
+<text top="836" left="108" width="702" height="18" font="5">actually is? The issue relates directly to the way representations of alternative realities</text>
+<text top="859" left="108" width="701" height="18" font="5">achieve relevance: by introducing a set of separate assumptions (deontic, stereotype-</text>
+<text top="883" left="108" width="702" height="18" font="5">based, or other) into a body of assumptions about the real world which is held maximally</text>
+<text top="907" left="108" width="700" height="18" font="5">constant, humans are typically able to derive cognitive gains which they could not have</text>
+<text top="931" left="108" width="702" height="18" font="5">produced by manipulating solely representations of actuality. So in most cases, in order</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">26</text>
+<text top="194" left="108" width="702" height="18" font="5">to achieve relevance, representations of a given world should be descriptions of a world</text>
+<text top="218" left="108" width="702" height="18" font="5">not simply possible but also potential, that is, similar enough to the actual world to able</text>
+<text top="242" left="108" width="329" height="18" font="5">to be, become or have been actual itself. </text>
+<text top="265" left="123" width="687" height="18" font="5">How can any world be similar to the actual one? There are obviously quantitative and</text>
+<text top="289" left="108" width="702" height="18" font="5">qualitative aspects to similarity. On the one hand, the two worlds have to share a number</text>
+<text top="313" left="108" width="702" height="18" font="5">of propositions (that is, a number of propositions has to be true in both worlds); on the</text>
+<text top="337" left="108" width="702" height="18" font="5">other, the sort of propositions they share has to be important, or non-trivial. Surely</text>
+<text top="360" left="108" width="702" height="18" font="5">thoughts about alternative states of affairs may depart quite radically from our mental</text>
+<text top="384" left="108" width="702" height="18" font="5">representations of reality. However, every departure from the current construal of the</text>
+<text top="408" left="108" width="702" height="18" font="5">world demands considerable cognitive effort and therefore has to be offset by adequate</text>
+<text top="432" left="108" width="702" height="18" font="5">cognitive effects: what these effects consist of is a different picture of what the <i>actual</i></text>
+<text top="455" left="108" width="702" height="18" font="5">world could be (become/have been), if a set of conditions (e.g. moral rules, obligations</text>
+<text top="479" left="108" width="702" height="18" font="5">etc.) had been met. Moreover, apart from the cognitive side, there is a communicative side</text>
+<text top="503" left="108" width="702" height="18" font="5">to modality. When inviting the hearer to entertain a representation of an alternative state</text>
+<text top="527" left="108" width="702" height="18" font="5">of affairs, and see what follows from it, the speaker should be careful to convey a</text>
+<text top="550" left="108" width="702" height="18" font="5">representation which the hearer can reconstruct from the evidence he possesses, that is,</text>
+<text top="574" left="108" width="702" height="18" font="5">from his own representation of actuality. Since the actual world is (by definition) the only</text>
+<text top="598" left="108" width="702" height="18" font="5">world which is realised, it is going to be the one which furnishes a vast range of</text>
+<text top="622" left="108" width="702" height="18" font="5">assumptions mutually manifest to the interlocutors; it would be communicatively</text>
+<text top="645" left="108" width="702" height="18" font="5">infelicitous (Grice would say 'un-cooperative') to introduce possible worlds which depart</text>
+<text top="669" left="108" width="702" height="18" font="5">from these mutually manifest assumptions for no good reason and in unpredictable ways.</text>
+<text top="693" left="108" width="702" height="18" font="5">If the hearer cannot see how to construct a representation of a possible world while</text>
+<text top="717" left="108" width="701" height="18" font="5">preserving some fundamental assumptions about the actual world, he will probably give</text>
+<text top="740" left="108" width="702" height="18" font="5">up trying and refuse to process the utterance altogether (as is the case with some extreme</text>
+<text top="764" left="108" width="136" height="18" font="5">counterfactuals).</text>
+<text top="788" left="123" width="687" height="18" font="5">The problem of deciding how much of the structure of the actual world to preserve</text>
+<text top="812" left="108" width="702" height="18" font="5">when constructing alternative possibilities has been much discussed in philosophy and</text>
+<text top="836" left="108" width="702" height="18" font="5">linguistics. As Stalnaker puts it, 'some opinions acquire a healthy immunity to contrary</text>
+<text top="859" left="108" width="702" height="18" font="5">evidence and become the core of our conceptual system, while others remain near the</text>
+<text top="883" left="108" width="703" height="18" font="5">surface, vulnerable to slight shifts in the phenomena' (Stalnaker 1970:126). The former</text>
+<text top="907" left="108" width="702" height="18" font="5">correspond to assumptions we are unwilling to part with when constructing a possible</text>
+<text top="931" left="108" width="702" height="18" font="5">world — for instance, laws of nature, or particularly compelling empirical facts; the latter</text>
+<text top="954" left="108" width="701" height="18" font="5">correspond to contingent details, which, if they were otherwise, would not seriously</text>
+<text top="978" left="108" width="702" height="18" font="5">influence the picture we have about the world as it is. I will not pursue the issue any</text>
+<text top="1002" left="108" width="702" height="18" font="5">further but merely take for granted that some of our ideas about the world are cognitively</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">27</text>
+<text top="1025" left="137" width="674" height="15" font="0">For more detailed discussion of the philosophical issues involved here, see Stalnaker 1968, 1970,</text>
+<text top="1020" left="123" width="12" height="11" font="1">17</text>
+<text top="1045" left="108" width="246" height="15" font="0">1980, Goodman 1955, Lewis 1973. </text>
+<text top="194" left="108" width="702" height="18" font="5">and metaphysically more central, and therefore unlikely (because of processing cost) to</text>
+<text top="218" left="108" width="629" height="18" font="5">be revised or abandoned when we set up plausible alternatives to actuality.    </text>
+<text top="215" left="709" width="12" height="11" font="1">17</text>
+<text top="242" left="123" width="686" height="18" font="5">A final point on the construction of alternative possibilities. Very often the introduction</text>
+<text top="265" left="108" width="702" height="18" font="5">of a new proposition into a world will bring chain modifications in other parts of that</text>
+<text top="289" left="108" width="702" height="18" font="5">world. Take a world in which I have two sisters instead of one. This world will not differ</text>
+<text top="313" left="108" width="701" height="18" font="5">from the actual one only in terms of a single state of affairs described by the proposition</text>
+<text top="337" left="108" width="702" height="18" font="5">p 'I have two sisters': it will also differ in terms of a range of propositions which would</text>
+<text top="360" left="108" width="702" height="18" font="5">also be true once p was true (such as 'My family has five members', or 'There are four</text>
+<text top="384" left="108" width="702" height="18" font="5">females in my family'). This is because whatever aspect of the world makes p true also</text>
+<text top="408" left="108" width="702" height="18" font="5">makes the rest of these propositions true. This relation between propositions (called</text>
+<text top="432" left="108" width="702" height="18" font="5">'lumping' by Kratzer 1989) is obviously very important in specifying the exact content of</text>
+<text top="455" left="108" width="702" height="18" font="5">a possible world. However, when it comes to the psychological representation of</text>
+<text top="479" left="108" width="702" height="18" font="5">possibilities, not all propositions lumped by a novel proposition will be computed and</text>
+<text top="503" left="108" width="703" height="18" font="5">added to the representation of a possible world. Considerations of processing effort will</text>
+<text top="527" left="108" width="702" height="18" font="5">ensure that only aspects which may yield cognitive gains will be explicitly represented and</text>
+<text top="550" left="108" width="702" height="18" font="5">processed. These cognitive gains do not include, for instance, the trivial implications of</text>
+<text top="574" left="108" width="702" height="18" font="5">p I mentioned; rather they include implications which are capable of entering into further</text>
+<text top="598" left="108" width="702" height="18" font="5">inferential processes and yield contextual effects (e.g. 'I get less money from my parents',</text>
+<text top="622" left="108" width="702" height="18" font="5">'I share my room with two people', and so on). To the extent that dropping, adding or</text>
+<text top="645" left="108" width="703" height="18" font="5">modifying assumptions about the actual world does not have any immediate relevance,</text>
+<text top="669" left="108" width="702" height="18" font="5">we can safely suppose that it is left undone. As I have already hinted, when constructing</text>
+<text top="693" left="108" width="702" height="18" font="5">a representation of a possible world, we manipulate that part of it which is cognitively rich</text>
+<text top="717" left="108" width="702" height="18" font="5">and assume the (unspecified) rest to resemble the actual world, even though we recognise</text>
+<text top="740" left="108" width="445" height="18" font="5">upon reflection that this is not strictly speaking correct.</text>
+<text top="812" left="108" width="289" height="18" font="6"><b>3.3 The interpretation of generics</b></text>
+<text top="836" left="108" width="25" height="18" font="6"><b>     </b></text>
+<text top="859" left="108" width="702" height="18" font="5">I now come to a more specific explanation of how generics are interpreted, illustrated by</text>
+<text top="882" left="108" width="299" height="18" font="5">a variety of examples. Consider (50):</text>
+<text top="930" left="108" width="34" height="18" font="5">(50)</text>
+<text top="930" left="162" width="293" height="18" font="5">Two dots are joined by a single line.</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">28</text>
+<text top="194" left="108" width="702" height="18" font="5">In order for the hearer to flesh out the underspecified semantics of generics, he must find</text>
+<text top="218" left="108" width="702" height="18" font="5">a set of worlds such that, in all of these worlds which are similar enough to reality, for</text>
+<text top="242" left="108" width="702" height="18" font="5">every pair of dots, there exists a single line which joins this pair. The set of worlds we are</text>
+<text top="265" left="108" width="702" height="18" font="5">after includes the worlds in which mathematical laws hold, and arguably it is the set of all</text>
+<text top="289" left="108" width="703" height="18" font="5">possible worlds (including the actual one). Assumptions concerning mathematical</text>
+<text top="313" left="108" width="702" height="18" font="5">knowledge are easily activated by the mathematical concepts included in the logical form</text>
+<text top="337" left="108" width="702" height="18" font="5">of (50); therefore, it is natural to interpret (50) with respect to 'mathematically possible'</text>
+<text top="360" left="108" width="702" height="18" font="5">worlds. The proposition is true in all such worlds, that is it expresses a mathematical</text>
+<text top="384" left="108" width="702" height="18" font="5">necessity. Such propositions do not allow any exceptions: if there were a single instance</text>
+<text top="408" left="108" width="702" height="18" font="5">of a pair of lines that was joined by, say, two lines, (50) would not express a true</text>
+<text top="432" left="108" width="118" height="18" font="5">generalisation.</text>
+<text top="455" left="123" width="195" height="18" font="5">Example (51) is similar:</text>
+<text top="503" left="108" width="34" height="18" font="5">(51)</text>
+<text top="503" left="162" width="148" height="18" font="5">Lions are animals.</text>
+<text top="550" left="108" width="702" height="18" font="5">The interpretation of (51) relies on assumptions about the nature (i.e. the biological make-</text>
+<text top="574" left="108" width="703" height="18" font="5">up) of lions, which can thus be taken to hold in every world in which the laws of nature</text>
+<text top="598" left="108" width="702" height="18" font="5">hold. Such worlds by definition include the actual world and all worlds which share with</text>
+<text top="622" left="108" width="702" height="18" font="5">it some basic structure. In every such world, whatever is a lion is also an animal, since</text>
+<text top="645" left="108" width="702" height="18" font="5">whatever fact makes something a lion guarantees that it will also be an animal (by virtue</text>
+<text top="669" left="108" width="703" height="18" font="5">of a 'lumping' relation). If we try to imagine a world in which a lion is not an animal, one</text>
+<text top="693" left="108" width="702" height="18" font="5">of two things will happen: i) we will come up with an inconsistent, hence impossible,</text>
+<text top="717" left="108" width="702" height="18" font="5">world, in case we try to remain close to the actual world; ii) we will radically depart from</text>
+<text top="740" left="108" width="702" height="18" font="5">our assumptions about the actual world, so that the novel world will contain phenomena</text>
+<text top="764" left="108" width="702" height="18" font="5">of very little relevance to us. We conclude that in no world which it is rational for a</text>
+<text top="788" left="108" width="663" height="18" font="5">relevance-oriented organism to consider are there any lions which are not animals.</text>
+<text top="812" left="123" width="686" height="18" font="5">The above utterance can also be interpreted as expressing a linguistic necessity, that is,</text>
+<text top="836" left="108" width="702" height="18" font="5">a proposition true in all worlds similar enough to the actual one where language is</text>
+<text top="859" left="108" width="704" height="18" font="5">interpreted in the same way. Here linguistic definitions (e.g. of the term 'lion') would play</text>
+<text top="883" left="108" width="615" height="18" font="5">the same role as laws of mathematics or nature did in previous examples.     </text>
+<text top="907" left="123" width="360" height="18" font="5">Let me move on to another sort of utterance:</text>
+<text top="954" left="108" width="34" height="18" font="5">(52)</text>
+<text top="954" left="162" width="313" height="18" font="5">Peacocks have richly ornamented tails.</text>
+<text top="1002" left="108" width="701" height="18" font="5">On the modal analysis, (52) is analysed as involving a stereotypical modal base. Indeed,</text>
+<text top="1026" left="108" width="703" height="18" font="5">the hearer is not entitled to assume that the utterance expresses a generalisation holding</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">29</text>
+<text top="946" left="137" width="674" height="15" font="0">Another relevance-theoretic proposal about the interpretation of (52) would involve enrichment</text>
+<text top="941" left="123" width="12" height="11" font="1">18</text>
+<text top="966" left="108" width="702" height="15" font="0">of the referential expression <i>peacocks</i> into <i>male peacocks</i>; enrichment can also be invoked to explain</text>
+<text top="986" left="108" width="702" height="15" font="0">analytic and deontic examples. This proposal has been made with respect to the generic interpretation of</text>
+<text top="1005" left="108" width="702" height="15" font="0">indefinite description in Rouchota (1994). However, such an approach could not be extended to</text>
+<text top="1025" left="108" width="702" height="15" font="0">characterising sentences and would fail to capture the parallel between generics and explicit modal</text>
+<text top="1045" left="108" width="83" height="15" font="0">expressions.</text>
+<text top="194" left="108" width="702" height="18" font="5">for all peacocks in all worlds, but rather for peacocks in those possible worlds satisfying</text>
+<text top="218" left="108" width="702" height="18" font="5">a specific natural-kind stereotype; the reason is that the encyclopedic entry of the concept</text>
+<text top="242" left="108" width="702" height="18" font="2"><i>peacock</i> contains a particularly accessible piece of information, namely the fact that male</text>
+<text top="265" left="108" width="702" height="18" font="5">members of the species have a richly ornamented tail. Given the activation of the property</text>
+<text top="289" left="108" width="702" height="18" font="2"><i>ornamented tail</i> towards the end of the utterance, the hearer can rationally conclude that</text>
+<text top="313" left="108" width="702" height="18" font="5">the context in which the utterance should be processed includes only assumptions about</text>
+<text top="337" left="108" width="703" height="18" font="5">male peacocks. In interpreting (52), he assumes that the generic operator ranges over</text>
+<text top="360" left="108" width="702" height="18" font="5">worlds which contain only the relevant subset of these birds (i.e. the male ones) and</text>
+<text top="384" left="108" width="702" height="18" font="5">indeed, on this interpretation, (52) is true. Of course, another hearer lacking the</text>
+<text top="408" left="108" width="702" height="18" font="5">corresponding item of encyclopedic knowledge might take (52) to convey a generalisation</text>
+<text top="432" left="108" width="702" height="18" font="5">over all members of the species in all worlds which reasonably resemble the actual one</text>
+<text top="455" left="108" width="702" height="18" font="5">— and consequently conclude that (52) is false. A pragmatic account that allows for</text>
+<text top="479" left="108" width="701" height="18" font="5">different contextual considerations to be brought to bear in determining the proposition</text>
+<text top="503" left="108" width="525" height="18" font="5">expressed by an utterance can naturally explain such differences.</text>
+<text top="501" left="632" width="12" height="11" font="1">18</text>
+<text top="527" left="123" width="687" height="18" font="5">A number of cases which presented difficulties for the modal approach as outlined in</text>
+<text top="550" left="108" width="473" height="18" font="5">section 2.3 can now be more readily accounted for. Recall:</text>
+<text top="598" left="108" width="33" height="18" font="5">(53)</text>
+<text top="598" left="162" width="172" height="18" font="5">A turtle is long-lived.</text>
+<text top="645" left="108" width="33" height="18" font="5">(54)</text>
+<text top="645" left="161" width="248" height="18" font="5">A pheasant lays speckled eggs.</text>
+<text top="693" left="108" width="702" height="18" font="5">(53) was problematic because natural laws for turtles clash with natural laws for the</text>
+<text top="717" left="108" width="703" height="18" font="5">ecosystem to which turtles belong, and consequently it is difficult to determine the sort</text>
+<text top="740" left="108" width="702" height="18" font="5">of  possible world which (53) describes. It turns out, though, that what we are concerned</text>
+<text top="764" left="108" width="701" height="18" font="5">with are in effect two different interpretations of the utterance. On one interpretation,</text>
+<text top="788" left="108" width="701" height="18" font="5">considerations of relevance narrow down the choice of possible worlds to ones in which</text>
+<text top="812" left="108" width="702" height="18" font="5">laws of biology hold <i>with respect to turtles</i>: although these laws might be contradicted by</text>
+<text top="836" left="108" width="701" height="18" font="5">more general aspects of biological evolution, hearers do not represent those aspects to</text>
+<text top="859" left="108" width="701" height="18" font="5">themselves, since they are not relevant for the interpretation of (53). What the utterance</text>
+<text top="883" left="108" width="702" height="18" font="5">conveys is that ideal turtles, or turtles in isolation, have the potential to live long — which</text>
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">30</text>
+<text top="194" left="108" width="702" height="18" font="5">is a true proposition. On the second interpretation, the hearer takes into consideration</text>
+<text top="218" left="108" width="702" height="18" font="5">worlds in which laws of biology hold for the whole ecosystem, and thus constructs a</text>
+<text top="242" left="108" width="702" height="18" font="5">different array of possible worlds for interpreting (53). In the most natural of these worlds</text>
+<text top="265" left="108" width="702" height="18" font="5">(including the actual one), the proposition conveyed by (53) is false. Since the second</text>
+<text top="289" left="108" width="702" height="18" font="5">interpretation requires a sort of world that comes closer to (and indeed includes) the</text>
+<text top="313" left="108" width="702" height="18" font="5">actual one, my account predicts that it will be preferred; this prediction seems to be borne</text>
+<text top="337" left="108" width="702" height="18" font="5">out. The fact that (53) can be construed in these two very different ways is verified by the</text>
+<text top="360" left="108" width="531" height="18" font="5">observation that it can be followed by different kinds of response:</text>
+<text top="408" left="108" width="34" height="18" font="5">(55)</text>
+<text top="408" left="162" width="14" height="18" font="5">a.</text>
+<text top="408" left="216" width="338" height="18" font="5">Yes, a turtle lives even longer than a frog.</text>
+<text top="432" left="162" width="15" height="18" font="5">b.</text>
+<text top="432" left="216" width="474" height="18" font="5">No, a turtle rarely survives the dangers in its environment. </text>
+<text top="455" left="108" width="5" height="18" font="5"> </text>
+<text top="479" left="108" width="702" height="18" font="5">The generic in (54) is similar to (53). The problem here was that, although quantification</text>
+<text top="503" left="108" width="702" height="18" font="5">is supposed to range over worlds which include female fertilised pheasants only, normalcy</text>
+<text top="527" left="108" width="702" height="18" font="5">considerations would suggest that such worlds have to include male birds as well. The</text>
+<text top="550" left="108" width="702" height="18" font="5">obstacle is lifted if we realise that only worlds in which the specific subset of pheasants</text>
+<text top="574" left="108" width="702" height="18" font="5">exist matter for the interpretation of the utterance; these worlds include the actual one and</text>
+<text top="598" left="108" width="702" height="18" font="5">a range of worlds that resemble it <i>as far as egg-laying of pheasants is concerned</i>. A world</text>
+<text top="622" left="108" width="702" height="18" font="5">inhabited solely by female fertilised pheasants may be highly abnormal if the whole body</text>
+<text top="645" left="108" width="702" height="18" font="5">of laws of biology is brought to bear on it; this is not what hearers of (54) do, since</text>
+<text top="669" left="108" width="703" height="18" font="5">maintaining this aspect of similarity to the actual world will bring no cognitive gains —</text>
+<text top="693" left="108" width="558" height="18" font="5">in other words, it is not relevant to the interpretation of the utterance.</text>
+<text top="717" left="123" width="606" height="18" font="5">So-called 'deontic' generics like (56) can be explained along the same lines:</text>
+<text top="764" left="108" width="34" height="18" font="5">(56)</text>
+<text top="764" left="162" width="273" height="18" font="5">A gentleman escorts a lady home.</text>
+<text top="812" left="108" width="702" height="18" font="5">The proposition in (56) holds for all gentlemen inhabiting a range of ideal worlds, where</text>
+<text top="836" left="108" width="702" height="18" font="5">rules of good behaviour are obeyed. In all other respects these worlds look quite like the</text>
+<text top="859" left="108" width="702" height="18" font="5">actual world; worlds in which ladies are always accompanied by their parents when they</text>
+<text top="883" left="108" width="675" height="18" font="5">go out with gentlemen do not matter for evaluating the relevance of the proposition.</text>
+<text top="907" left="108" width="400" height="18" font="5">   What about the characterising sentence in (57)?</text>
+<text top="954" left="108" width="34" height="18" font="5">(57)</text>
+<text top="954" left="162" width="259" height="18" font="5">This machine squeezes oranges.</text>
+<text top="1002" left="108" width="702" height="18" font="5">The comprehension of (57) requires a type of world in which a certain machine performs</text>
+<text top="1026" left="108" width="702" height="18" font="5">the function for which it was made. Laca (1990) — cited in Krifka et al. (1995:54) —</text>
+</page>
+<page number="31" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">31</text>
+<text top="194" left="108" width="702" height="18" font="5">points out that this is normal for characterising sentences about artifacts, but fails to give</text>
+<text top="218" left="108" width="702" height="18" font="5">an explanation for this phenomenon. I would suggest that the reason lies in the existence</text>
+<text top="242" left="108" width="702" height="18" font="5">of functional (rather than, say, perceptual) stereotypes for concepts of artifacts, which are</text>
+<text top="265" left="108" width="702" height="18" font="5">widely used in their categorisation and processing. Such stereotypes are formed through</text>
+<text top="289" left="108" width="701" height="18" font="5">our everyday interaction with artifacts, which involves their manipulation and use for a</text>
+<text top="313" left="108" width="702" height="18" font="5">number of purposes. Thus, an immediate context for the interpretation of (57) will include</text>
+<text top="337" left="108" width="702" height="18" font="5">assumptions about worlds where the machine conforms to the stereotype. Since such</text>
+<text top="360" left="108" width="702" height="18" font="5">worlds may not include the actual one, it is possible for (57) to be acceptable even if no</text>
+<text top="384" left="108" width="588" height="18" font="5">actual occurrence of the machine squeezing oranges has been observed.  </text>
+<text top="408" left="108" width="15" height="18" font="5">   </text>
+<text top="408" left="162" width="648" height="18" font="5">Let me just offer some final remarks on the modal approach to generics. A question</text>
+<text top="432" left="108" width="703" height="18" font="5">that might arise is whether, apart from the unrealised modal operator of necessity, there</text>
+<text top="455" left="108" width="702" height="18" font="5">exists in generics an operator of possibility; the consequence would be that the</text>
+<text top="479" left="108" width="702" height="18" font="5">interpretation of some generics would involve a subset of possible worlds of a certain sort.</text>
+<text top="503" left="108" width="702" height="18" font="5">An empirical investigation shows that generalisations of this type do not appear. For</text>
+<text top="527" left="108" width="703" height="18" font="5">independent reasons, Heim (1982:184) excludes the possibility of a phonologically null</text>
+<text top="550" left="108" width="702" height="18" font="5">possibility operator on syntactic grounds. This solution seems satisfactory since it also</text>
+<text top="574" left="108" width="702" height="18" font="5">serves to bring together generics and other modal environments such as bare conditionals.</text>
+<text top="598" left="123" width="687" height="18" font="5">A second interesting question is one I have mentioned already: why haven't we taken</text>
+<text top="622" left="108" width="702" height="18" font="5">into account in interpreting generics those possible worlds corresponding to the speaker's</text>
+<text top="645" left="108" width="702" height="18" font="5">knowledge (i.e. epistemic possible worlds)? In our modal analysis we have made use of</text>
+<text top="669" left="108" width="702" height="18" font="5">'realistic' (actual-like), stereotypical and deontic possible worlds, exactly on a par with the</text>
+<text top="693" left="108" width="702" height="18" font="5">analysis of overt modal expressions in natural language. However, we have not made use</text>
+<text top="717" left="108" width="702" height="18" font="5">of epistemic possible worlds which are needed for the analysis of epistemic necessity</text>
+<text top="740" left="108" width="702" height="18" font="5">expressed by an overt modal operator such as <i>must</i>. Compare the epistemically modalised</text>
+<text top="764" left="108" width="104" height="18" font="5">(58) to (59): </text>
+<text top="812" left="108" width="34" height="18" font="5">(58)</text>
+<text top="812" left="162" width="213" height="18" font="5">This must be the postman.</text>
+<text top="859" left="108" width="34" height="18" font="5">(59)</text>
+<text top="859" left="162" width="342" height="18" font="5">Dancers at the Royal Ballet are well-paid. </text>
+<text top="907" left="108" width="702" height="18" font="5">On our analysis, (59) conveys that in all (realistic) worlds which remain close to the actual</text>
+<text top="931" left="108" width="702" height="18" font="5">one, whenever someone is a dancer at the Royal Ballet, they are well-paid. Why don't we</text>
+<text top="954" left="108" width="702" height="18" font="5">say instead, following the analysis of (58), that the state of affairs described in (59) holds</text>
+<text top="978" left="108" width="702" height="18" font="5">in all worlds similar enough to the actual one where the speaker's knowledge holds? The</text>
+<text top="1002" left="108" width="702" height="18" font="5">question seems to be a matter of principle rather than empirical fact, since intuitively the</text>
+<text top="1026" left="108" width="702" height="18" font="5">new formulation hasn't brought forth anything tremendously different. If we adopt an</text>
+</page>
+<page number="32" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">32</text>
+<text top="1025" left="137" width="674" height="15" font="0">Deontic generics are a different lot, since they are concerned with ideals, moral imperatives,</text>
+<text top="1020" left="123" width="12" height="11" font="1">19</text>
+<text top="1045" left="108" width="102" height="15" font="0">commands etc.</text>
+<text top="194" left="108" width="702" height="18" font="5">'externalist' view, on which knowledge is defined as belief true in the actual world, then</text>
+<text top="218" left="108" width="702" height="18" font="5">epistemic possible worlds are a subset of realistic possible worlds; consequently, generics</text>
+<text top="242" left="108" width="702" height="18" font="5">construed with respect to realistic conditions are also construed with respect to the</text>
+<text top="265" left="108" width="702" height="18" font="5">speaker's knowledge. If again we adopt an 'internalist' view, on which knowledge is</text>
+<text top="289" left="108" width="702" height="18" font="5">defined as belief the individual holds as true, we return to the trivial assumption that the</text>
+<text top="313" left="108" width="702" height="18" font="5">speaker's communicative contribution conforms to her stock of beliefs: what the speaker</text>
+<text top="337" left="108" width="702" height="18" font="5">puts forth as a generalisation is obviously compatible with what she herself takes to be</text>
+<text top="360" left="108" width="702" height="18" font="5">true. So in a sense  epistemic modality is trivially present whenever we analyse a generic</text>
+<text top="384" left="108" width="471" height="18" font="5">as holding in a realistic or stereotypical kind of world.      </text>
+<text top="382" left="543" width="12" height="11" font="1">19</text>
+<text top="456" left="108" width="112" height="18" font="6"><b>4 Conclusion</b></text>
+<text top="503" left="108" width="702" height="18" font="5">In the vast literature on generics, it has often been suggested that the phenomena studied</text>
+<text top="526" left="108" width="702" height="18" font="5">under genericness do not actually constitute a natural class (see Lawler 1972, Kleiber</text>
+<text top="550" left="108" width="702" height="18" font="5">1985). In this paper I have taken the opposite view. My main concern has been to expand</text>
+<text top="574" left="108" width="702" height="18" font="5">on the widely acknowledged but rarely developed idea that generics are context-</text>
+<text top="598" left="108" width="702" height="18" font="5">dependent constructions. In particular, I have tried to show that their context-dependence</text>
+<text top="621" left="108" width="702" height="18" font="5">results from an underspecified modal semantics, which is pragmatically developed into</text>
+<text top="645" left="108" width="703" height="18" font="5">a truth-evaluable representation; in the course of this development, considerations of</text>
+<text top="669" left="108" width="702" height="18" font="5">relevance determine the set of possible worlds over which the generalisation</text>
+<text top="693" left="108" width="703" height="18" font="5">communicated by a generic is supposed to hold. In my discussion I have unavoidably</text>
+<text top="716" left="108" width="702" height="18" font="5">glossed over a number of important differences between kind-referring and characterising</text>
+<text top="740" left="108" width="702" height="18" font="5">sentences, and finer distinctions holding within each of these categories; the result is a</text>
+<text top="764" left="108" width="702" height="18" font="5">clearer, albeit still sketchy, picture. Although a large number of issues remain problematic</text>
+<text top="788" left="108" width="702" height="18" font="5">in the area of generics, I hope to have demonstrated that a modal-based approach is a</text>
+<text top="811" left="108" width="455" height="18" font="5">promising starting point for solving some of the puzzles.</text>
+</page>
+<page number="33" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">33</text>
+<text top="194" left="108" width="94" height="18" font="6"><b>References</b></text>
+<text top="240" left="108" width="702" height="15" font="0">Armstrong S., L. Gleitman &amp; H. Gleitman (1983), What some concepts might not be. <i>Cognition</i> 13, 263-</text>
+<text top="260" left="123" width="30" height="15" font="0">308.</text>
+<text top="280" left="108" width="463" height="15" font="0">Barsalou L. (1992), <i>Cognitive Psychology</i>. Hillsdale, N.J.: Erlbaum.</text>
+<text top="300" left="108" width="702" height="15" font="0">Barsalou L. &amp; D. Billman (1989), Systematicity and semantic ambiguity. In D. Gorfein (ed.) <i>Resolving</i></text>
+<text top="320" left="123" width="401" height="15" font="7"><i>semantic ambiguity</i>, 146-203. New York: Springer-Verlag.</text>
+<text top="339" left="108" width="568" height="15" font="0">Barwise J. &amp; J. Perry (1983), <i>Situations and attitudes.</i> Cambridge, MA: MIT Press.</text>
+<text top="359" left="108" width="380" height="15" font="0">Brown G. &amp; G. Yule (1983), <i>Discourse analysis.</i> CUP. </text>
+<text top="379" left="108" width="640" height="15" font="0">Burton-Roberts N. (1977), Generic Sentences and Analyticity. <i>Studies in Language</i> 1, 155-96.</text>
+<text top="399" left="108" width="702" height="15" font="0">Carlson G. (1977a), A unified analysis of the English bare plural. <i>Linguistics and Philosophy </i>1, 413-56.</text>
+<text top="419" left="108" width="702" height="15" font="0">Carlson G. (1977b), <i>Reference to kinds in English</i>. Ph.D. dissertation, University of Massachussets,</text>
+<text top="438" left="123" width="344" height="15" font="0">Amherst. Publ. 1980 by Garland Press, New York.</text>
+<text top="458" left="108" width="684" height="15" font="0">Carlson G. (1982), Generic terms and generic sentences. <i>Journal of Philosophical Logic</i> 11, 145-81.</text>
+<text top="478" left="108" width="677" height="15" font="0">Carlson G. &amp; F. Pelletier, eds. (1995), <i>The generic book</i>. Chicago: The University of Chicago Press.</text>
+<text top="498" left="108" width="702" height="15" font="0">Carston R. (1988), Implicature, explicature, and truth-theoretic semantics. In R. Kempson (ed.), <i>Mental</i></text>
+<text top="518" left="123" width="610" height="15" font="7"><i>representations: The Interface between Language and Reality</i>, 155-81. Cambridge: CUP.</text>
+<text top="537" left="108" width="702" height="15" font="0">Clark R. (1973), Prima facie generalisations. In G. Pearce &amp; P. Maynard (eds.),<i> Conceptual change</i>, 42-54.</text>
+<text top="557" left="123" width="126" height="15" font="0">Dordrecht: Reidel.</text>
+<text top="577" left="108" width="215" height="15" font="0">Comrie B. (1985), <i>Tense</i>. CUP.</text>
+<text top="597" left="108" width="702" height="15" font="0">Dahl Ö. (1975), On Generics. In E. Keenan (ed.), <i>Formal Semantics of Natural Language</i>, 99-112.</text>
+<text top="617" left="123" width="191" height="15" font="0">London &amp; New York: CUP.</text>
+<text top="636" left="108" width="702" height="15" font="0">Dahl Ö. (1995), The marking of the episodic/generic distinction in tense-aspect systems. In G. Carlson &amp;</text>
+<text top="656" left="123" width="178" height="15" font="0">F. Pelletier (eds.),412-25. </text>
+<text top="676" left="108" width="614" height="15" font="0">Declerck R. (1986), The manifold interpretations of generic sentences. <i>Lingua</i> 68, 149-88.</text>
+<text top="696" left="108" width="472" height="15" font="0">Declerck R. (1991), The origins of genericity. <i>Linguistics</i> 29, 79-102.</text>
+<text top="716" left="108" width="702" height="15" font="0">Farkas D. (1981), <i>Intensionality and Romance Subjunctive Relatives.</i> Univ. of Chicago Dissertation.</text>
+<text top="735" left="123" width="140" height="15" font="0">Bloomington: IULC.</text>
+<text top="755" left="108" width="681" height="15" font="0">Farkas D. &amp; Y. Sugioka (1983), Restrictive if/when clauses. <i>Linguistics and Philosophy</i> 6, 225-258.</text>
+<text top="775" left="108" width="702" height="15" font="0">Fodor J. (1987), A situated grandmother? Some remarks on proposals by Barwise and Perry. <i>Mind and</i></text>
+<text top="795" left="123" width="130" height="15" font="7"><i>language</i> 2, 64-81.</text>
+<text top="815" left="108" width="412" height="15" font="0">Geurts B. (1985), Generics. <i>Journal of Semantics</i> 4, 247-55.</text>
+<text top="834" left="108" width="638" height="15" font="0">Goodman N. (1955), <i>Fact, fiction, and forecast</i>. Cambridge, Mass.: Harvard University Press.</text>
+<text top="854" left="108" width="702" height="15" font="0">Goodman N. (1970), Seven strictures on similarity. In L. Foster &amp; J. W. Swanson (eds.), <i>Experience and</i></text>
+<text top="874" left="123" width="288" height="15" font="7"><i>theory.</i> University of Massachussets Press.</text>
+<text top="894" left="108" width="702" height="15" font="0">Harper W., R. Stalnaker &amp; G. Pearce, eds. (1981), <i>Ifs: Conditionals, belief, decision, chance, and time</i>.</text>
+<text top="914" left="123" width="126" height="15" font="0">Dordrecht: Reidel.</text>
+<text top="933" left="108" width="702" height="15" font="0">Heim I. (1982), <i>The semantics of definite and indefinite noun phrases</i>. Ph.D. dissertation, University of</text>
+<text top="953" left="123" width="171" height="15" font="0">Massachussets, Amherst.</text>
+<text top="973" left="108" width="702" height="15" font="0">Heyer G. (1985), Generic descriptions, default reasoning, and typicality. <i>Theoretical Linguistics</i> 11, 33-72.</text>
+<text top="993" left="108" width="702" height="15" font="0">Heyer G. (1990), Semantics and knowledge representation in the analysis of generic descriptions. <i>Journal</i></text>
+<text top="1013" left="123" width="162" height="15" font="7"><i>of Semantics</i> 7, 93-110.</text>
+</page>
+<page number="34" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="122" height="15" font="7"><i>Anna Papafragou</i></text>
+<text top="132" left="108" width="20" height="18" font="5">34</text>
+<text top="193" left="108" width="702" height="15" font="0">Johnson-Laird P.N. (1982), Formal semantics and the psychology of meaning. In S. Peters &amp; E. Saarinen</text>
+<text top="213" left="123" width="445" height="15" font="0">(eds.), <i>Processes, beliefs, and questions</i>, 1-68. Dordrecht: Reidel.</text>
+<text top="233" left="108" width="702" height="15" font="0">Kleiber G. (1985), Du côté de la généricité verbale: Les approches quantificationnelles.<i> Langages</i> 79,  61-</text>
+<text top="253" left="123" width="22" height="15" font="0">88.</text>
+<text top="273" left="108" width="677" height="15" font="0">Kratzer A. (1977), What 'must' and 'can' must and can mean. <i>Linguistics and Philosophy</i> 1, 337-55.</text>
+<text top="292" left="108" width="702" height="15" font="0">Kratzer A. (1980), Possible-worlds semantics and psychological reality. <i>Linguistische Berichte</i> 66, 1-14.</text>
+<text top="312" left="108" width="702" height="15" font="0">Kratzer A. (1981), The notional category of modality. In H.-J. Eikmeyer &amp; H. Rieser (eds.), <i>Worlds, words,</i></text>
+<text top="332" left="123" width="271" height="15" font="7"><i>and contexts</i>, 38-74. Berlin: de Gruyter.</text>
+<text top="352" left="108" width="682" height="15" font="0">Kratzer A. (1989), An investigation of the lumps of thought. <i>Linguistics and Philosophy</i> 12, 607-53.</text>
+<text top="372" left="108" width="702" height="15" font="0">Kratzer A. (1995), Stage-level and individual-level predicates. In G. Carlson &amp; F. Pelletier (eds.), 125-175.</text>
+<text top="391" left="108" width="702" height="15" font="0">Krifka  M., F. Pelletier, G. Carlson, A. ter Meulen, G. Chierchia, G. Link (1995), Genericity: An</text>
+<text top="411" left="123" width="374" height="15" font="0">Introduction. In G. Carlson &amp; F. Pelletier (eds.), 1-124.</text>
+<text top="431" left="108" width="702" height="15" font="0">Kripke S. (1971), Semantic considerations on modal logic. In L. Linsky (ed.), <i>Reference and Modality</i>, 63-</text>
+<text top="451" left="123" width="198" height="15" font="0">72. Oxford: Clarendon Press.</text>
+<text top="471" left="108" width="702" height="15" font="0">Kripke S. (1977), Speaker's reference and semantic reference. In P. A. French, T. E. Uehling &amp; H. K.</text>
+<text top="490" left="123" width="687" height="15" font="0">Wettstein (eds.), <i>Contemporary perspectives in the philosophy of language,</i> 6-27. Minneapolis:</text>
+<text top="510" left="123" width="207" height="15" font="0">University of Minnesota Press.</text>
+<text top="530" left="108" width="572" height="15" font="0">Laca B. (1990), Generic objects: some more pieces of the puzzle. <i>Lingua</i> 81, 25-46.</text>
+<text top="550" left="108" width="635" height="15" font="0">Lakoff G. (1987a), Women, fire, and dangerous things. Chicago: University of Chicago Press.</text>
+<text top="570" left="108" width="702" height="15" font="0">Lakoff G. (1987b), Cognitive models and prototype theory. In U. Neisser (ed.), <i>Concepts and conceptual</i></text>
+<text top="589" left="123" width="686" height="15" font="7"><i>development: Ecological and intellectual factors in categorisation</i>, 63-100. New York: Cambridge</text>
+<text top="609" left="123" width="118" height="15" font="0">University Press. </text>
+<text top="629" left="108" width="702" height="15" font="0">Lakoff R. (1972), The Pragmatics of Modality. <i>Papers from the VIII Regional Meeting of CLS</i>, 229-46.</text>
+<text top="649" left="108" width="629" height="15" font="0">Lawler J. (1972), Generic to a fault. <i>Papers from the VIII Regional Meeting of CLS</i>, 247-58.</text>
+<text top="669" left="108" width="368" height="15" font="0">Lewis D. (1973),<i> Counterfactuals</i>. Oxford: Blackwell.</text>
+<text top="688" left="108" width="702" height="15" font="0">Lewis D. (1975), Adverbs of quantification. In E. Keenan (ed.), <i>Formal Semantics of Natural Language</i>,</text>
+<text top="708" left="123" width="231" height="15" font="0">3-15. London &amp; New York: CUP.</text>
+<text top="728" left="108" width="702" height="15" font="0">Lewis D. (1983), Scorekeeping in a language game. In R. Baeuerle, U. Egli &amp; A. von Stechow (eds.),</text>
+<text top="748" left="123" width="496" height="15" font="7"><i>Semantics from different points of view</i>, 172-87. Berlin: Springer-Verlag.</text>
+<text top="768" left="108" width="435" height="15" font="0">Lewis D. (1986), <i>On the plurality of worlds</i>. Oxford: Blackwell.</text>
+<text top="787" left="108" width="279" height="15" font="0">Lyons J. (1977), <i>Semantics</i>. 2 vols. CUP.</text>
+<text top="807" left="108" width="674" height="15" font="0">Newton B. (1979), Scenarios, modality, and verbal aspect in Modern Greek. <i>Language</i> 55, 139-67.</text>
+<text top="827" left="108" width="702" height="15" font="0">Nunberg G. &amp; C. Pan (1975), Inferring Quantification in generic sentences. <i>Papers from the XIth Regional</i></text>
+<text top="847" left="123" width="169" height="15" font="7"><i>Meeting of CLS</i>, 412-28.</text>
+<text top="867" left="108" width="605" height="15" font="0">Partee B. H. (1985), Situations, worlds and contexts. <i>Linguistics and Philosophy</i> 8, 53-8.</text>
+<text top="886" left="108" width="702" height="15" font="0">Partee B. H. (1989), Possible worlds in model-theoretic semantics: A linguistic perspective. In S. Allén</text>
+<text top="906" left="123" width="657" height="15" font="0">(ed.), <i>Possible worlds in Humanities, Arts and Sciences</i>, 93-123. Berlin - New York: de Gruyter.</text>
+<text top="926" left="108" width="702" height="15" font="0">Putnam H. (1975), The meaning of meaning. In K. Gunderson (ed.), <i>Language, mind and knowledge</i>, 131-</text>
+<text top="946" left="123" width="325" height="15" font="0">93. Minneapolis: University of Minnesota Press.</text>
+<text top="966" left="108" width="583" height="15" font="0">Rouchota V. (1994), On indefinite descriptions. <i>Journal of Linguistics</i> 30/2, 441-475.</text>
+<text top="985" left="108" width="702" height="15" font="0">Rosch E. (1978), Principles of categorisation. In E. Rosch &amp; B. Lloyd (eds.), <i>Cognition and</i></text>
+<text top="1005" left="123" width="324" height="15" font="7"><i>categorisation</i>, 27-48. Hillsdale, N.J.: Erlbaum.</text>
+<text top="1025" left="108" width="702" height="15" font="0">Schubert L. &amp; F. Pelletier (1989), Generically speaking. In G. Chierchia, B. Partee &amp; R. Turner (eds.),</text>
+<text top="1045" left="123" width="463" height="15" font="7"><i>Properties, Types and meaning</i>, vol.2, 193-268. Dordrecht: Kluwer.</text>
+</page>
+<page number="35" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="10" family="Times" color="#000000"/>
+<text top="132" left="648" width="83" height="15" font="7"><i>On generics</i></text>
+<text top="132" left="790" width="20" height="18" font="5">35</text>
+<text top="193" left="108" width="637" height="15" font="0">Smith N. V. (1983), On interpreting conditionals. <i>Australasian Journal of Linguistics</i> 3, 1-24.</text>
+<text top="213" left="108" width="702" height="15" font="0">Smith N. V. &amp; A. Smith (1988), A relevance-theoretic account of conditionals. In L. Hyman &amp; Ch. Li</text>
+<text top="233" left="123" width="656" height="15" font="0">(eds.), <i>Language, speech and mind: Essays in honour of Victoria Fromkin</i>. London: Routledge. </text>
+<text top="253" left="108" width="702" height="15" font="0">Sperber D. &amp; D. Wilson (1986, 1995), <i>Relevance: Communication and cognition</i>. Oxford: Basil</text>
+<text top="251" left="348" width="5" height="9" font="9">2</text>
+<text top="273" left="123" width="72" height="15" font="0">Blackwell.</text>
+<text top="292" left="108" width="702" height="15" font="0">Stalnaker R. (1968), A theory of conditionals. In N. Rescher (ed.), <i>Studies in Logical Theory</i>. Repr. in W.</text>
+<text top="312" left="123" width="230" height="15" font="0">Harper et al., ed. (1981), 41-555. </text>
+<text top="332" left="108" width="655" height="15" font="0">Stalnaker R. (1970), Probability and conditionals. Repr. in W. Harper et al., eds. (1981), 107-28.</text>
+<text top="352" left="108" width="702" height="15" font="0">Stalnaker R. (1980), A defense of conditional excluded middle. Repr. in W. Harper et al., eds. (1981), 87-</text>
+<text top="372" left="123" width="30" height="15" font="0">104.</text>
+<text top="391" left="108" width="651" height="15" font="0">Stalnaker R. (1986), Possible worlds and situations. <i>Journal of Philosophical Logic</i> 15, 109-23.</text>
+</page>
+</pdf2xml>

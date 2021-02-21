@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="0" size="11" family="XKZREC+TimesNewRoman" color="#000000"/>
+	<fontspec id="1" size="16" family="XKZREC+TimesNewRoman" color="#000000"/>
+	<fontspec id="2" size="36" family="QQSMFG+TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="3" size="20" family="QQSMFG+TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="4" size="19" family="XKZREC+TimesNewRoman" color="#000000"/>
+	<fontspec id="5" size="16" family="JEHQYU+TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="6" size="19" family="JEHQYU+TimesNewRoman,Bold" color="#000000"/>
+<text top="1102" left="123" width="6" height="11" font="0">*</text>
+<text top="1107" left="129" width="654" height="15" font="1"> I am very grateful to Robyn Carston and Deirdre Wilson for commenting on earlier drafts of this</text>
+<text top="1120" left="108" width="369" height="15" font="1">paper and for their continued help and encouragement.</text>
+<text top="137" left="108" width="582" height="32" font="2"><i><b>Relevance Theory and the construction</b></i></text>
+<text top="179" left="108" width="264" height="32" font="2"><i><b>of idiom meaning</b></i></text>
+<text top="175" left="371" width="10" height="19" font="3"><i><b>*</b></i></text>
+<text top="264" left="108" width="276" height="18" font="4">ROSA ELENA VEGA-MORENO</text>
+<text top="360" left="143" width="64" height="15" font="5"><b>Abstract</b></text>
+<text top="401" left="143" width="606" height="15" font="1">This paper proposes that the meaning a speaker intends in using an idiom on a certain</text>
+<text top="421" left="143" width="606" height="15" font="1">occasion is pragmatically (re)constructed on-line by relevance-driven inferential mechanisms</text>
+<text top="442" left="143" width="606" height="15" font="1">which take as input a set of highly accessible encyclopaedic assumptions from the concepts</text>
+<text top="462" left="143" width="606" height="15" font="1">encoded by the idiom string and its constituent words. The depth to which the encoded</text>
+<text top="483" left="143" width="606" height="15" font="1">concepts are processed, in arriving at the (ad hoc) concept the speaker intends as a</text>
+<text top="503" left="143" width="606" height="15" font="1">component of the explicature of her utterance, is constrained at every stage by the search for</text>
+<text top="524" left="143" width="241" height="15" font="1">an optimally relevant interpretation.</text>
+<text top="587" left="108" width="125" height="17" font="6"><b>1 Introduction</b></text>
+<text top="633" left="108" width="677" height="18" font="4">The idea that the meanings of the constituents of most idioms are available during</text>
+<text top="657" left="108" width="676" height="18" font="4">processing and contribute to understanding idiom meaning has figured prominently in</text>
+<text top="680" left="108" width="676" height="18" font="4">the study of idiom strings both within linguistics and, particularly, within psychology</text>
+<text top="704" left="108" width="676" height="18" font="4">(Cacciari &amp; Tabossi, 1993; Everaert et al, 1995; Gibbs, 1994; Glucksberg, 2001;</text>
+<text top="728" left="108" width="676" height="18" font="4">Nunberg 1978, Nunberg et al, 1994; Wasow et al, 1983). The study of the semantic</text>
+<text top="752" left="108" width="676" height="18" font="4">analysability of idioms has given rise to a wave of interesting and fruitful experiments</text>
+<text top="775" left="108" width="676" height="18" font="4">which have themselves led to the proposal of different (compositional) accounts of</text>
+<text top="799" left="108" width="676" height="18" font="4">idiom representation and processing, alternatives to traditional (non-compositional)</text>
+<text top="823" left="108" width="677" height="18" font="4">models (Cacciari &amp; Glucksberg, 1991; Cacciari &amp; Tabossi, 1988; Gibbs, 1990; Titone</text>
+<text top="847" left="108" width="676" height="18" font="4">&amp; Connine, 1999). Although, explicitly or implicitly, current psycholinguistic models</text>
+<text top="871" left="108" width="677" height="18" font="4">agree that comprehension is dependent on the recognition of the speaker’s intentions,</text>
+<text top="894" left="108" width="677" height="18" font="4">very little has been said about the pragmatic processes that regulate idiom</text>
+<text top="918" left="108" width="676" height="18" font="4">comprehension. Based on the pragmatic framework of Relevance Theory (Sperber &amp;</text>
+<text top="942" left="108" width="677" height="18" font="4">Wilson, 1986/1995; Wilson &amp; Sperber, 2002a,b), this paper aims to fill this gap.</text>
+<text top="966" left="108" width="676" height="18" font="4">Complementing experimental research, it provides a theoretically adequate and</text>
+<text top="989" left="108" width="676" height="18" font="4">cognitively plausible pragmatic approach to idiom comprehension that accounts for</text>
+<text top="1013" left="108" width="676" height="18" font="4">the (non-arbitrary) relation between an idiom’s linguistic form and its figurative</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="7" size="16" family="VFIWUR+TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="8" size="19" family="VFIWUR+TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="9" size="18" family="XKZREC+TimesNewRoman" color="#000000"/>
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">304</text>
+<text top="172" left="108" width="677" height="18" font="4">meaning as well as for the way speakers and hearers exploit this relation in the flow</text>
+<text top="195" left="108" width="135" height="18" font="4">of conversation. </text>
+<text top="267" left="108" width="606" height="17" font="6"><b>2 The relation between the linguistic form of an idiom and its meaning</b></text>
+<text top="267" left="715" width="5" height="18" font="4"> </text>
+<text top="314" left="108" width="677" height="18" font="4">The meanings of words are arbitrarily stipulated in memory. The meanings of phrases</text>
+<text top="338" left="108" width="676" height="18" font="4">and sentences, however, are derived compositionally from the meanings of their</text>
+<text top="362" left="108" width="676" height="18" font="4">individual words and their syntactic structure. Since the meanings of idioms cannot be</text>
+<text top="386" left="108" width="677" height="18" font="4">derived compositionally by the morpho-syntactic rules of a language (e.g. the meaning</text>
+<text top="409" left="108" width="20" height="18" font="4">of </text>
+<text top="409" left="129" width="120" height="18" font="8"><i>kick the bucket</i></text>
+<text top="409" left="249" width="536" height="18" font="4"> cannot be derived from the meanings of the words ‘kick’, ‘the’ and</text>
+<text top="433" left="108" width="677" height="18" font="4">‘bucket’), the standard belief is that they too must be arbitrarily stipulated in memory</text>
+<text top="457" left="108" width="677" height="18" font="4">(Chomsky, 1980; Cruse, 1986; Fraser, 1970; Katz 1973). That is, although originally</text>
+<text top="481" left="108" width="676" height="18" font="4">metaphorical, the linguistic forms of idioms are said to bear now no relation with their</text>
+<text top="505" left="108" width="677" height="18" font="4">meanings. Furthermore, since idioms are just long words with no internal syntactic or</text>
+<text top="528" left="108" width="677" height="18" font="4">semantic structure, very little modification is expected. Examples such as those in (1)-</text>
+<text top="552" left="108" width="507" height="18" font="4">(3) are often use to back up this non-compositional hypothesis.</text>
+<text top="553" left="615" width="4" height="16" font="9"> </text>
+<text top="600" left="108" width="23" height="18" font="4">(1)</text>
+<text top="600" left="162" width="10" height="18" font="4">*</text>
+<text top="600" left="172" width="181" height="18" font="8"><i>The bucket was kicked</i></text>
+<text top="600" left="352" width="73" height="18" font="4"> by John.</text>
+<text top="623" left="108" width="23" height="18" font="4">(2)</text>
+<text top="623" left="162" width="10" height="18" font="4">*</text>
+<text top="623" left="172" width="89" height="18" font="8"><i>The bucket</i></text>
+<text top="623" left="260" width="53" height="18" font="4">, John </text>
+<text top="623" left="313" width="52" height="18" font="8"><i>kicked</i></text>
+<text top="623" left="365" width="86" height="18" font="4"> yesterday.</text>
+<text top="647" left="108" width="23" height="18" font="4">(3)</text>
+<text top="647" left="162" width="127" height="18" font="4">*I think he will </text>
+<text top="647" left="289" width="166" height="18" font="8"><i>kick the rusty bucket</i></text>
+<text top="647" left="455" width="43" height="18" font="4"> soon</text>
+<text top="694" left="108" width="677" height="18" font="4">Much current research has reacted against this standard view of idioms as non-</text>
+<text top="718" left="108" width="677" height="18" font="4">compositional strings or long words by showing that not all idioms are as opaque or</text>
+<text top="742" left="108" width="136" height="18" font="4">unanalysable as </text>
+<text top="742" left="245" width="125" height="18" font="8"><i>kick the bucket</i></text>
+<text top="742" left="370" width="415" height="18" font="4">. For most idioms, we can establish some relation</text>
+<text top="766" left="108" width="676" height="18" font="4">between their meaning and their form. In fact, the meanings of an idiom's elements</text>
+<text top="790" left="108" width="676" height="18" font="4">often play a role in the way we use and understand idiom strings in conversation</text>
+<text top="813" left="108" width="677" height="18" font="4">(Cacciari, 1993; Cacciari &amp; Glucksberg, 1991; Gibbs, 1990; Gibbs &amp; Nayak, 1989;</text>
+<text top="837" left="108" width="676" height="18" font="4">Gibbs et al, 1989a,b; Keysar &amp; Bly, 1995, 1999). Idioms can be syntactically</text>
+<text top="861" left="108" width="676" height="18" font="4">transformed in various ways with their parts being modified, as in (4), (7), focused, as</text>
+<text top="885" left="108" width="677" height="18" font="4">in (5), quantified, as in (5)-(7), or omitted and used as anaphoric references, as in (8)-</text>
+<text top="908" left="108" width="29" height="18" font="4">(9).</text>
+<text top="956" left="108" width="23" height="18" font="4">(4)</text>
+<text top="956" left="162" width="325" height="18" font="4">The most important thing now is that we</text>
+<text top="956" left="488" width="250" height="18" font="8"><i> leave no legal stone unturned.</i></text>
+<text top="956" left="738" width="5" height="18" font="4"> </text>
+<text top="980" left="108" width="23" height="18" font="4">(5)</text>
+<text top="980" left="162" width="206" height="18" font="8"><i>Many strings were pulled</i></text>
+<text top="980" left="368" width="189" height="18" font="4"> but he was not elected.</text>
+<text top="1003" left="108" width="23" height="18" font="4">(6)</text>
+<text top="1003" left="162" width="230" height="18" font="4">Forget about this! You have </text>
+<text top="1003" left="392" width="238" height="18" font="8"><i>many other bigger fish to fry.</i></text>
+<text top="1027" left="108" width="23" height="18" font="4">(7)</text>
+<text top="1027" left="162" width="180" height="18" font="4">I think his father must </text>
+<text top="1027" left="342" width="271" height="18" font="8"><i>have pulled a few political strings</i></text>
+<text top="1027" left="614" width="170" height="18" font="4"> to get him out of jail.</text>
+<text top="1051" left="108" width="23" height="18" font="4">(8)</text>
+<text top="1051" left="162" width="488" height="18" font="4">I have been a real idiot. She’ll never take me back. That was </text>
+<text top="1051" left="650" width="134" height="18" font="8"><i>the last boat and</i></text>
+<text top="1075" left="162" width="83" height="18" font="8"><i>I missed it</i></text>
+<text top="1098" left="108" width="23" height="18" font="4">(9)</text>
+<text top="1098" left="162" width="39" height="18" font="4">You </text>
+<text top="1098" left="202" width="123" height="18" font="8"><i>get off my back</i></text>
+<text top="1098" left="325" width="68" height="18" font="4"> and I’ll </text>
+<text top="1098" left="393" width="101" height="18" font="8"><i>get off yours</i></text>
+<text top="1098" left="495" width="6" height="18" font="4">!</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">305</text>
+<text top="172" left="108" width="677" height="18" font="4">Individual word meanings can become very much alive during the use and</text>
+<text top="195" left="108" width="676" height="18" font="4">comprehension of idioms allowing the speaker to create new forms and meanings. This</text>
+<text top="219" left="108" width="677" height="18" font="4">involves cases of semantic productivity, as in (4)-(9), lexical substitution, as in (10)-</text>
+<text top="243" left="108" width="623" height="18" font="4">(11), lexical flexibility, as in (12), and discourse productivity, as in (13)-(14).</text>
+<text top="290" left="108" width="33" height="18" font="4">(10)</text>
+<text top="290" left="181" width="188" height="18" font="4">Ok there. Now you are </text>
+<text top="290" left="369" width="206" height="18" font="8"><i>barking up the right tree!</i></text>
+<text top="314" left="108" width="33" height="18" font="4">(11)</text>
+<text top="314" left="181" width="603" height="18" font="4">He absolutely hates me so if it is true he has found out about my affair, he</text>
+<text top="338" left="181" width="210" height="18" font="4">must now be in my house </text>
+<text top="338" left="392" width="146" height="18" font="8"><i>pouring the beans</i></text>
+<text top="338" left="538" width="101" height="18" font="4"> to my wife. </text>
+<text top="362" left="108" width="48" height="18" font="4">(12)a.</text>
+<text top="362" left="181" width="209" height="18" font="8"><i>Start/keep the ball rolling</i></text>
+<text top="385" left="143" width="20" height="18" font="4">b. </text>
+<text top="385" left="181" width="144" height="18" font="8"><i>Walk/tread on air</i></text>
+<text top="409" left="143" width="18" height="18" font="4">c. </text>
+<text top="409" left="181" width="222" height="18" font="8"><i>Fight/defend tooth and nail</i></text>
+<text top="433" left="108" width="33" height="18" font="4">(13)</text>
+<text top="433" left="181" width="396" height="18" font="4">A: I think you should be a bit less critical. Try to </text>
+<text top="433" left="577" width="204" height="18" font="8"><i>put yourself in her shoes.</i></text>
+<text top="457" left="162" width="372" height="18" font="4">  B: I was in her shoes and came out of them.</text>
+<text top="480" left="108" width="33" height="18" font="4">(14)</text>
+<text top="480" left="181" width="443" height="18" font="4">A: I am really angry you did not help me to get the job.</text>
+<text top="504" left="162" width="189" height="18" font="4">  B: You have no idea </text>
+<text top="504" left="351" width="246" height="18" font="8"><i>how many strings I had to pull</i></text>
+<text top="504" left="598" width="64" height="18" font="4"> for you</text>
+<text top="528" left="162" width="377" height="18" font="4">  A: Well, you did not pull them hard enough!</text>
+<text top="573" left="108" width="676" height="18" font="4">A common argument for current views of idioms is that idiomatic expressions do not</text>
+<text top="597" left="108" width="676" height="18" font="4">form a homogeneous non-compositional class but rather a highly heterogeneous</text>
+<text top="620" left="108" width="676" height="18" font="4">community which lie on a continuum of compositionality. Idioms vary regarding the</text>
+<text top="644" left="108" width="676" height="18" font="4">extent to which the meanings of their individual constituents contribute to the overall</text>
+<text top="668" left="108" width="677" height="18" font="4">figurative interpretation. At one end of the spectrum we have non-idiomatic phrases</text>
+<text top="692" left="108" width="677" height="18" font="4">which are derived fully compositionally from the meanings of their parts. At the other</text>
+<text top="715" left="108" width="412" height="18" font="4">end, we have non-compositional idiom strings (e.g. </text>
+<text top="715" left="520" width="264" height="18" font="8"><i>kick the bucket, shoot the breeze,</i></text>
+<text top="739" left="108" width="95" height="18" font="8"><i>break a leg)</i></text>
+<text top="739" left="203" width="581" height="18" font="4"> whose individual constituents are in a completely arbitrary relation to the</text>
+<text top="763" left="108" width="676" height="18" font="4">overall idiom meaning. Most idiomatic expressions lie somewhere between these</text>
+<text top="787" left="108" width="676" height="18" font="4">extremes, varying in the degree and ways in which the internal semantics of their</text>
+<text top="810" left="108" width="530" height="18" font="4">constituents is motivated and plays a role in comprehension (e.g</text>
+<text top="810" left="638" width="147" height="18" font="8"><i>. button one’s lip,</i></text>
+<text top="834" left="108" width="292" height="18" font="8"><i>break the ice, give up the ghost, etc.</i></text>
+<text top="834" left="400" width="16" height="18" font="4">). </text>
+<text top="858" left="123" width="662" height="18" font="4">The relation between an idiom’s form and its meaning may be more or less direct.</text>
+<text top="882" left="108" width="676" height="18" font="4">It may be a one-to-one relation in that each word contributes independently to the</text>
+<text top="905" left="108" width="508" height="18" font="4">figurative interpretation (e.g. the semantic relation between ‘</text>
+<text top="905" left="616" width="30" height="18" font="8"><i>pop</i></text>
+<text top="905" left="646" width="58" height="18" font="4">’ and ‘</text>
+<text top="905" left="703" width="39" height="18" font="8"><i>utter</i></text>
+<text top="905" left="742" width="43" height="18" font="4">’ and</text>
+<text top="929" left="108" width="6" height="18" font="4">‘</text>
+<text top="929" left="114" width="68" height="18" font="8"><i>question</i></text>
+<text top="929" left="183" width="53" height="18" font="4">’ and ‘</text>
+<text top="929" left="235" width="152" height="18" font="8"><i>marriage proposal</i></text>
+<text top="929" left="388" width="33" height="18" font="4">’ in </text>
+<text top="929" left="420" width="134" height="18" font="8"><i>pop the question</i></text>
+<text top="929" left="555" width="229" height="18" font="4">). These idioms are typically</text>
+<text top="953" left="108" width="677" height="18" font="4">known as ‘normally decomposable’ idioms (Gibbs &amp; Nayak, 1989; Nunberg, 1978).</text>
+<text top="977" left="108" width="677" height="18" font="4">It may be an all-to-one relation with the (literal) meaning of the whole phrase being</text>
+<text top="1000" left="108" width="462" height="18" font="4">semantically related to the figurative interpretation (e.g. </text>
+<text top="1000" left="571" width="214" height="18" font="8"><i>bury the hatchet, push the</i></text>
+<text top="1024" left="108" width="99" height="18" font="8"><i>panic button</i></text>
+<text top="1024" left="208" width="577" height="18" font="4">). These idioms are typically known as ‘abnormally decomposable’ idioms</text>
+<text top="1048" left="108" width="677" height="18" font="4">(ibid). Finally, the relation may be none-to-one in that the constituent words neither</text>
+<text top="1072" left="108" width="676" height="18" font="4">individually nor as a whole appear to be in any semantic relation to the idiomatic</text>
+<text top="1096" left="108" width="107" height="18" font="4">meaning (e.g</text>
+<text top="1096" left="216" width="228" height="18" font="8"><i>. chew the fat, break a leg</i></text>
+<text top="1096" left="444" width="342" height="18" font="4">). These idioms are referred to as ‘non-</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">306</text>
+<text top="172" left="108" width="676" height="18" font="4">decomposable’. The relation may also be more or less transparent with the constituent</text>
+<text top="195" left="108" width="484" height="18" font="4">words contributing to idiom meaning rather literally (e.g. ‘</text>
+<text top="195" left="592" width="36" height="18" font="8"><i>miss</i></text>
+<text top="195" left="628" width="35" height="18" font="4">’ in </text>
+<text top="195" left="663" width="109" height="18" font="8"><i>miss the boat</i></text>
+<text top="195" left="773" width="12" height="18" font="4">),</text>
+<text top="219" left="108" width="172" height="18" font="4">metaphorically (e.g. ‘</text>
+<text top="219" left="280" width="39" height="18" font="8"><i>blow</i></text>
+<text top="219" left="319" width="32" height="18" font="4">’ in </text>
+<text top="219" left="351" width="134" height="18" font="8"><i>blow one’s stack</i></text>
+<text top="219" left="485" width="178" height="18" font="4">), hyperbolically (e.g. </text>
+<text top="219" left="663" width="121" height="18" font="8"><i>eat one’s heart</i></text>
+<text top="243" left="108" width="26" height="18" font="8"><i>out</i></text>
+<text top="243" left="134" width="455" height="18" font="4">) or not contributing at all to deriving idiom meaning (e.g. </text>
+<text top="243" left="589" width="195" height="18" font="8"><i>kick the bucket, chew the</i></text>
+<text top="267" left="108" width="163" height="18" font="8"><i>fat, shoot the breeze</i></text>
+<text top="267" left="271" width="12" height="18" font="4">).</text>
+<text top="290" left="123" width="661" height="18" font="4">Idioms whose constituent parts contribute (normally or abnormally, literally or</text>
+<text top="314" left="108" width="677" height="18" font="4">figuratively) to the overall idiomatic interpretation have been characterised as</text>
+<text top="338" left="108" width="677" height="18" font="4">decomposable/compositional or analysable. Idioms whose constituent parts do not</text>
+<text top="362" left="108" width="677" height="18" font="4">contribute to the overall idiomatic interpretation have been typically characterised as</text>
+<text top="385" left="108" width="676" height="18" font="4">non-decomposable/non-compositional or unanalysable. Different typologies have been</text>
+<text top="409" left="108" width="676" height="18" font="4">proposed in an attempt to classify idiomatic expressions (Cacciari &amp; Glucksberg,</text>
+<text top="433" left="108" width="677" height="18" font="4">1991; Nunberg et al, 1994). I take the following notions to be important in our</text>
+<text top="457" left="108" width="677" height="18" font="4">understanding of idioms although my definitions of them vary (slightly) from those</text>
+<text top="480" left="108" width="181" height="18" font="4">found in the literature.</text>
+<text top="528" left="123" width="137" height="18" font="8"><i>Conventionality:</i></text>
+<text top="528" left="260" width="524" height="18" font="4"> The relation between a certain string of words and a certain</text>
+<text top="552" left="123" width="661" height="18" font="4">semantic representation. There is always an element of arbitrariness as to why a</text>
+<text top="575" left="123" width="661" height="18" font="4">certain linguistic label is used to express a certain conceptual representation. There</text>
+<text top="599" left="123" width="478" height="18" font="4">is some arbitrariness for instance as to why something costs</text>
+<text top="599" left="601" width="163" height="18" font="8"><i> “an arm and a leg”</i></text>
+<text top="599" left="765" width="20" height="18" font="4"> in</text>
+<text top="623" left="123" width="138" height="18" font="4">English and not “</text>
+<text top="623" left="261" width="150" height="18" font="8"><i>an eye of your face</i></text>
+<text top="623" left="411" width="43" height="18" font="4">” or “</text>
+<text top="623" left="454" width="20" height="18" font="8"><i>an</i></text>
+<text top="623" left="474" width="3" height="18" font="4"> </text>
+<text top="623" left="478" width="132" height="18" font="8"><i>eye of your head</i></text>
+<text top="623" left="610" width="175" height="18" font="4">” as it does in Spanish</text>
+<text top="647" left="123" width="207" height="18" font="4">and Italian (respectively).</text>
+<text top="694" left="123" width="114" height="18" font="8"><i>Analysability:</i></text>
+<text top="694" left="237" width="547" height="18" font="4"> The degree to which the constituent concepts encoded by the idiom</text>
+<text top="718" left="123" width="662" height="18" font="4">string can be used to access assumptions in memory which will contribute to the</text>
+<text top="742" left="123" width="327" height="18" font="4">derivation of the intended interpretation.</text>
+<text top="789" left="123" width="119" height="18" font="8"><i>Transparency:</i></text>
+<text top="789" left="242" width="542" height="18" font="4"> The relative ease with which these assumptions are accessed and</text>
+<text top="813" left="123" width="169" height="18" font="4">implications derived.</text>
+<text top="860" left="108" width="676" height="18" font="4">The idea that idioms vary in their degree of compositionality (analysability) has led to</text>
+<text top="884" left="108" width="677" height="18" font="4">a wave of experimental research, with the following sort of results. People seem to</text>
+<text top="908" left="108" width="677" height="18" font="4">have strong intuitions enabling them to judge an idiom as being decomposable or non-</text>
+<text top="932" left="108" width="645" height="18" font="4">decomposable (Gibbs &amp; Nayak, 1989). Also, since for decomposable idioms (e.g. </text>
+<text top="932" left="753" width="31" height="18" font="8"><i>pull</i></text>
+<text top="955" left="108" width="506" height="18" font="8"><i>strings, spill the beans, pop the question, miss the boat</i></text>
+<text top="955" left="614" width="170" height="18" font="4">), but not for non-</text>
+<text top="979" left="108" width="217" height="18" font="4">decomposable idioms (e.g. </text>
+<text top="979" left="325" width="358" height="18" font="8"><i>kick the bucket, chew the fat, shoot the breeze</i></text>
+<text top="979" left="683" width="101" height="18" font="4">), people can</text>
+<text top="1003" left="108" width="676" height="18" font="4">easily identify how each part of the idiom combines in the derivation of the figurative</text>
+<text top="1027" left="108" width="677" height="18" font="4">interpretation, decomposable idioms are more flexible (syntactically, semantically and</text>
+<text top="1051" left="108" width="677" height="18" font="4">lexically) than non-decomposable ones (Gibbs &amp; Nayak, 1989; Gibbs et al, 1989a,b),</text>
+<text top="1074" left="108" width="676" height="18" font="4">as in (4)-(11) vs (1)-(3). Analysable idioms are also easier for children to acquire</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">307</text>
+<text top="1102" left="123" width="6" height="11" font="0">1</text>
+<text top="1107" left="129" width="655" height="15" font="1"> This is captured by The Cognitive Principle of Relevance: Human cognition is geared to the</text>
+<text top="1120" left="108" width="405" height="15" font="1">maximisation of relevance (Sperber &amp; Wilson, 1986/1995).</text>
+<text top="172" left="108" width="677" height="18" font="4">(Cacciari &amp; Levorato, 1989, 1999; Gibbs, 1991) and faster for adults to process (Gibbs</text>
+<text top="195" left="108" width="110" height="18" font="4">et al, 1989a). </text>
+<text top="219" left="123" width="661" height="18" font="4">These findings are consistent with the idea that the relation between an idiom’s form</text>
+<text top="243" left="108" width="677" height="18" font="4">and meaning is not completely arbitrary, and inconsistent with the standard belief that</text>
+<text top="267" left="108" width="676" height="18" font="4">idioms are long words with the internal semantics of their constituents playing no role</text>
+<text top="290" left="108" width="677" height="18" font="4">during processing. Unlike traditional accounts, current (compositional) accounts of</text>
+<text top="314" left="108" width="677" height="18" font="4">idioms are grounded in the belief that in understanding idiom strings, people attempt</text>
+<text top="338" left="108" width="677" height="18" font="4">to perform some type of compositional reading. Since, in processing analysable but not</text>
+<text top="362" left="108" width="677" height="18" font="4">unanalysable  idioms, the output of this compositional processing contributes to the</text>
+<text top="385" left="108" width="676" height="18" font="4">derivation of the idiomatic interpretation rather than disrupting it, it follows that</text>
+<text top="409" left="108" width="677" height="18" font="4">analysable idioms are easier to acquire, understand and modify, as in (4)-(11) vs (1)-</text>
+<text top="433" left="108" width="677" height="18" font="4">(3). What the literature does not provide, however, is the pragmatic mechanisms that</text>
+<text top="457" left="108" width="677" height="18" font="4">constrains the amount of information from the concepts encoded by the idiom</text>
+<text top="480" left="108" width="677" height="18" font="4">constituents that is actually processed during the comprehension process. In this paper,</text>
+<text top="504" left="108" width="557" height="18" font="4">I present a relevance-theoretic account of idioms which fills this gap.</text>
+<text top="576" left="108" width="220" height="17" font="6"><b>3. Pragmatic background</b></text>
+<text top="599" left="108" width="190" height="17" font="6"><b>3.1  Relevance Theory</b></text>
+<text top="646" left="108" width="676" height="18" font="4">Relevance Theory is grounded in the idea that our cognitive systems have evolved in</text>
+<text top="669" left="108" width="677" height="18" font="4">the direction of increasing efficiency and are now set up so that they tend</text>
+<text top="693" left="108" width="292" height="18" font="4">automatically to maximise relevance</text>
+<text top="690" left="400" width="6" height="11" font="0">1</text>
+<text top="693" left="406" width="379" height="18" font="4">. Our perceptual system tends to pick up sounds</text>
+<text top="717" left="108" width="676" height="18" font="4">and sights that are potentially relevant to us (e.g. smoke in our house rather than in</text>
+<text top="741" left="108" width="677" height="18" font="4">someone else’s). Our memory retrieval mechanisms tend to activate the assumptions</text>
+<text top="764" left="108" width="676" height="18" font="4">which are potentially relevant in the context (e.g. assumptions about fighting fire</text>
+<text top="788" left="108" width="676" height="18" font="4">rather than pollution from our knowledge of smoke). Our inferential systems tend to</text>
+<text top="812" left="108" width="677" height="18" font="4">draw the greatest possible cognitive effects (e.g. plans to rescue the children) from the</text>
+<text top="836" left="108" width="677" height="18" font="4">combination of the new information and context, and so on. New information derived</text>
+<text top="859" left="108" width="677" height="18" font="4">from external stimuli (utterances, sounds, sights) or from internal representations</text>
+<text top="883" left="108" width="677" height="18" font="4">(thoughts, memories) is relevant to an individual if it yields cognitive effects (e.g. by</text>
+<text top="907" left="108" width="676" height="18" font="4">answering a question, confirming a hypothesis, correcting a mistaken assumption etc.)</text>
+<text top="931" left="108" width="677" height="18" font="4">for no unnecessary processing effort. Cognitive effects can be achieved by</text>
+<text top="954" left="108" width="677" height="18" font="4">contradicting and eliminating an existing assumption, by strengthening an existing</text>
+<text top="978" left="108" width="677" height="18" font="4">assumption or by combining with existing assumptions to yield contextual</text>
+<text top="1002" left="108" width="676" height="18" font="4">implications. The mental processes at work in deriving cognitive effects involve the</text>
+<text top="1026" left="108" width="677" height="18" font="4">expenditure of processing effort so that the more processing effort expended the less</text>
+<text top="1049" left="108" width="112" height="18" font="4">the relevance.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">308</text>
+<text top="171" left="123" width="309" height="18" font="8"><i>Relevance of an input to an individual</i></text>
+<text top="195" left="123" width="661" height="18" font="4">I. Other things being equal, the greater the cognitive effects (of an input to an</text>
+<text top="219" left="123" width="661" height="18" font="4">individual who processes it) the greater the relevance (to that individual at that time).</text>
+<text top="243" left="123" width="661" height="18" font="4">II. Other things being equal, the smaller the processing effort required to derive</text>
+<text top="267" left="123" width="655" height="18" font="4">those effects, the greater the relevance (of the input to the individual at that time)</text>
+<text top="314" left="108" width="677" height="18" font="4">Sperber and Wilson claim that among all the potential stimuli in our environment,</text>
+<text top="338" left="108" width="677" height="18" font="4">ostensive stimuli, such as utterances, have a special property, which is that they</text>
+<text top="362" left="108" width="677" height="18" font="4">inevitably raise an expectation of relevance in an addressee (an expectation that non-</text>
+<text top="385" left="108" width="677" height="18" font="4">ostensive stimuli do not activate). In return for the demand on our attention (hence our</text>
+<text top="409" left="108" width="676" height="18" font="4">processing resources) we are licensed to presume that an utterance will be optimally</text>
+<text top="433" left="108" width="220" height="18" font="4">relevant, as defined below. </text>
+<text top="480" left="123" width="316" height="18" font="8"><i>Communicative Principle of Relevance</i></text>
+<text top="504" left="123" width="607" height="18" font="4">Every utterance communicates a presumption of its own optimal relevance.</text>
+<text top="552" left="123" width="155" height="18" font="8"><i>Optimal Relevance</i></text>
+<text top="575" left="123" width="298" height="18" font="4">An utterance is optimally relevant iff</text>
+<text top="599" left="123" width="532" height="18" font="4">a.  It is relevant enough to be worth the hearer’s processing effort.</text>
+<text top="623" left="123" width="662" height="18" font="4">b. It is the most relevant one compatible with the speaker’s abilities and preferences.</text>
+<text top="670" left="108" width="676" height="18" font="4">On this approach, the search for relevance is a basic feature of human cognition which</text>
+<text top="694" left="108" width="676" height="18" font="4">is exploited in ostensive-inferential communication. Speakers and hearers have</text>
+<text top="718" left="108" width="676" height="18" font="4">powerful mind-reading abilities. In producing a certain utterance, the speaker tends to</text>
+<text top="742" left="108" width="677" height="18" font="4">take for granted what background assumptions the hearer is likely to use, what</text>
+<text top="765" left="108" width="677" height="18" font="4">inferences he is likely to draw, etc. Since she can predict to some extent the line of</text>
+<text top="789" left="108" width="676" height="18" font="4">thought the hearer is likely to take in processing her utterance and so what information</text>
+<text top="813" left="108" width="676" height="18" font="4">is likely to be relevant to him at that moment, she will produce, according to her own</text>
+<text top="837" left="108" width="676" height="18" font="4">abilities and preferences, an utterance which will enable the hearer to derive the</text>
+<text top="860" left="108" width="677" height="18" font="4">intended effects for the investment of as little processing effort as is compatible with</text>
+<text top="884" left="108" width="677" height="18" font="4">the speaker’s abilities and preferences. On the assumption that the speaker is aiming</text>
+<text top="908" left="108" width="676" height="18" font="4">at optimal relevance, and is competent to achieve it, the hearer is entitled to follow a</text>
+<text top="932" left="108" width="677" height="18" font="4">path of least effort in deriving cognitive effects and to take the first interpretation that</text>
+<text top="955" left="108" width="677" height="18" font="4">satisfies his expectations of (optimal) relevance to be the one the speaker intended.</text>
+<text top="979" left="108" width="677" height="18" font="4">This is captured by the relevance-theoretic comprehension procedure which, together</text>
+<text top="1003" left="108" width="677" height="18" font="4">with the notion of optimal relevance and the communicative principle of relevance,</text>
+<text top="1027" left="108" width="422" height="18" font="4">comprise the key components of Relevance Theory. </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">309</text>
+<text top="1082" left="123" width="6" height="11" font="0">2</text>
+<text top="1086" left="129" width="655" height="15" font="1"> There is no agreement within the literature as to where this distinction should be drawn. I merely</text>
+<text top="1099" left="108" width="677" height="15" font="1">follow the relevance-theoretic position as it is outside the scope of my paper to present the different</text>
+<text top="1120" left="108" width="434" height="15" font="1">views (see Carston, 2002 for detailed analysis and comparison).</text>
+<text top="171" left="123" width="385" height="18" font="8"><i>Relevance-theoretic Comprehension Procedure</i></text>
+<text top="195" left="123" width="661" height="18" font="4">(1) Follow a path of least effort in computing cognitive effects: Test interpretive</text>
+<text top="219" left="123" width="661" height="18" font="4">hypotheses (disambiguations, reference resolutions, enrichments, implicatures, etc.)</text>
+<text top="243" left="123" width="236" height="18" font="4">in their order of accessibility.</text>
+<text top="267" left="123" width="548" height="18" font="4">(2) Stop once your expectations of (optimal) relevance are satisfied.</text>
+<text top="314" left="108" width="677" height="18" font="4">In conclusion, Sperber &amp; Wilson’s pragmatic theory postulates a relevance-driven</text>
+<text top="338" left="108" width="677" height="18" font="4">inferential mechanism (the relevance-theoretic comprehension procedure) dedicated</text>
+<text top="362" left="108" width="677" height="18" font="4">to processing ostensive stimuli and thereby to recognising the intentions underlying</text>
+<text top="385" left="108" width="677" height="18" font="4">these stimuli. An utterance (as ostensive stimulus) triggers automatically in the mind</text>
+<text top="409" left="108" width="676" height="18" font="4">of the hearer both a presumption of optimal relevance and the relevance-theoretic</text>
+<text top="433" left="108" width="677" height="18" font="4">comprehension procedure which will guide the hearer to bridge the gap between what</text>
+<text top="457" left="108" width="657" height="18" font="4">is linguistically encoded and what is communicated both, explicitly and implicitly</text>
+<text top="458" left="765" width="5" height="16" font="9">.</text>
+<text top="529" left="108" width="234" height="17" font="6"><b>3.2 Decoding and inference</b></text>
+<text top="575" left="108" width="676" height="18" font="4">It is widely agreed among pragmatists that utterance comprehension involves two</text>
+<text top="598" left="108" width="676" height="18" font="4">distinct types of cognitive processes: a process of linguistic decoding and a process of</text>
+<text top="622" left="108" width="676" height="18" font="4">pragmatic inference. In Relevance Theory (Sperber &amp; Wilson, 1986/1995, 1998a;</text>
+<text top="646" left="108" width="676" height="18" font="4">Wilson &amp; Sperber, 2002a,b; Carston, 2002), the distinction corresponds to the</text>
+<text top="670" left="108" width="676" height="18" font="4">distinction between (linguistic) semantics and pragmatics. Utterances are automatically</text>
+<text top="693" left="108" width="676" height="18" font="4">decoded by the language module into a certain semantic representation or logical form</text>
+<text top="717" left="108" width="677" height="18" font="4">(a structured set of encoded concepts), which serves as automatic input to a process</text>
+<text top="741" left="108" width="676" height="18" font="4">of pragmatic inference. Guided by the relevance-theoretic comprehension procedure,</text>
+<text top="765" left="108" width="676" height="18" font="4">the aim of the hearer is to develop this logical form at the explicit level and</text>
+<text top="788" left="108" width="677" height="18" font="4">complement it at the implicit level so as to arrive at a hypothesis about the set of</text>
+<text top="812" left="108" width="676" height="18" font="4">communicated assumptions (explicatures and implicatures) that constitute speaker</text>
+<text top="836" left="108" width="676" height="18" font="4">meaning. In (15), the semantic representation obtained from decoding Julia’s utterance</text>
+<text top="860" left="108" width="636" height="18" font="4">underdetermines both what is explicitly (16) and implicitly (17) communicated</text>
+<text top="857" left="744" width="6" height="11" font="0">2</text>
+<text top="860" left="750" width="5" height="18" font="4">.</text>
+<text top="861" left="755" width="3" height="16" font="9"> </text>
+<text top="905" left="108" width="33" height="18" font="4">(15)</text>
+<text top="905" left="162" width="335" height="18" font="4">John: Have you got a minute to talk now?</text>
+<text top="928" left="162" width="599" height="18" font="4">Julia: Sorry. I have to run to the bank and get some money before it closes</text>
+<text top="952" left="108" width="33" height="18" font="4">(16)</text>
+<text top="952" left="162" width="56" height="18" font="4">JULIA</text>
+<text top="962" left="217" width="6" height="11" font="0">x</text>
+<text top="952" left="223" width="276" height="18" font="4"> HAS TO RUN* TO THE BANK</text>
+<text top="962" left="499" width="6" height="11" font="0">1</text>
+<text top="952" left="505" width="49" height="18" font="4"> AT T</text>
+<text top="962" left="554" width="3" height="11" font="0">i</text>
+<text top="952" left="558" width="227" height="18" font="4"> AND [THEN] GET SOME</text>
+<text top="976" left="162" width="260" height="18" font="4">MONEY BEFORE THE BANK</text>
+<text top="986" left="422" width="6" height="11" font="0">1</text>
+<text top="976" left="428" width="79" height="18" font="4"> CLOSES</text>
+<text top="1000" left="108" width="33" height="18" font="4">(17)</text>
+<text top="1000" left="162" width="56" height="18" font="4">JULIA</text>
+<text top="1009" left="217" width="6" height="11" font="0">x</text>
+<text top="1000" left="223" width="393" height="18" font="4"> DOES NOT HAVE TIME TO TALK TO JOHN</text>
+<text top="1009" left="616" width="6" height="11" font="0">y</text>
+<text top="1000" left="622" width="48" height="18" font="4"> AT T</text>
+<text top="1009" left="670" width="3" height="11" font="0">i</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">310</text>
+<text top="172" left="108" width="676" height="18" font="4">The output of decoding an utterance, such as (15) does not result then in its</text>
+<text top="195" left="108" width="676" height="18" font="4">interpretation. Pragmatic processes operate to disambiguate ambiguous terms (e.g.</text>
+<text top="219" left="108" width="677" height="18" font="4">‘bank’), assign reference to indexicals (e.g. ‘I’, ‘it’), and even enrich the proposition</text>
+<text top="243" left="108" width="516" height="18" font="4">expressed by adding extra conceptual material (AND [THEN]). </text>
+<text top="267" left="123" width="661" height="18" font="4">According to Relevance Theory, both explicatures and implicatures are derived in</text>
+<text top="290" left="108" width="676" height="18" font="4">parallel by a process of mutual adjustment (Wilson &amp; Sperber, 2002b). Following a</text>
+<text top="314" left="108" width="676" height="18" font="4">path of least effort, the hearer starts considering hypotheses about explicit content and</text>
+<text top="338" left="108" width="677" height="18" font="4">implicatures in their order of accessibility until he arrives at a combination that</text>
+<text top="362" left="108" width="677" height="18" font="4">satisfies his expectations of relevance. In processing (15), for instance, the hearer</text>
+<text top="385" left="108" width="677" height="18" font="4">considers a highly accessible assumption (e.g. Julia is in a hurry) as a potential</text>
+<text top="409" left="108" width="292" height="18" font="4">implicature of the utterance even </text>
+<text top="409" left="400" width="51" height="18" font="8"><i>before</i></text>
+<text top="409" left="452" width="333" height="18" font="4"> a complete explicature is derived. By</text>
+<text top="433" left="108" width="677" height="18" font="4">backward inference, he may enrich the explicit content to the point where it warrants</text>
+<text top="457" left="108" width="611" height="18" font="4">this implicature. This may involve taking the concept RUN encoded by </text>
+<text top="457" left="720" width="28" height="18" font="8"><i>run</i></text>
+<text top="457" left="748" width="37" height="18" font="4"> and</text>
+<text top="480" left="108" width="677" height="18" font="4">processing it in a rather shallow manner, considering only the very general assumption</text>
+<text top="504" left="108" width="677" height="18" font="4">that running involves speed to derive the implication that Jane will move fast to get to</text>
+<text top="528" left="108" width="676" height="18" font="4">the bank on time. As a result, the encoded concept is broadened (RUN*) so that it</text>
+<text top="552" left="108" width="677" height="18" font="4">refers not simply to cases of literal running but, more generally, to cases in which one,</text>
+<text top="575" left="108" width="677" height="18" font="4">being in a hurry, walks relatively fast. It is this concept RUN*, constructed ad hoc, and</text>
+<text top="599" left="108" width="676" height="18" font="4">not the concept linguistically encoded, that is taken to be a constituent of the speaker’s</text>
+<text top="623" left="108" width="564" height="18" font="4">thoughts and of the proposition expressed by her utterance, as in (16).</text>
+<text top="647" left="123" width="661" height="18" font="4">This example of a loosely used term illustrates the current relevance-theoretic</text>
+<text top="670" left="108" width="677" height="18" font="4">argument that although concepts are linguistically decoded, the output of this decoding</text>
+<text top="694" left="108" width="677" height="18" font="4">is not immediately accepted as the constituent of the thought intended by the speaker.</text>
+<text top="718" left="108" width="676" height="18" font="4">Instead, the concept encoded by a word acts as a mere template to infer the concept</text>
+<text top="742" left="108" width="676" height="18" font="4">expressed by the use of that word. In other words,  taking the inferential account to</text>
+<text top="765" left="108" width="677" height="18" font="4">communication seriously, it is claimed that the semantics/pragmatics distinction holds</text>
+<text top="789" left="108" width="676" height="18" font="4">not only at sentence level but also at word level (Carston, 1996, 2002; Wilson &amp;</text>
+<text top="813" left="108" width="676" height="18" font="4">Sperber, 2002a,b). This hypothesis is grounded both in the idea that our minds are</text>
+<text top="837" left="108" width="676" height="18" font="4">flexible enough to construct far many more concepts than our languages can</text>
+<text top="860" left="108" width="676" height="18" font="4">linguistically encode (see Barsalou 1983, 1987, 1993) and in the idea that our</text>
+<text top="884" left="108" width="676" height="18" font="4">inferential mechanisms are powerful enough to construct the concept intended on the</text>
+<text top="908" left="108" width="677" height="18" font="4">basis of the encoded concept and the context in which it is processed (Sperber &amp;</text>
+<text top="932" left="108" width="134" height="18" font="4">Wilson, 1998b). </text>
+<text top="955" left="123" width="662" height="18" font="4">The concept expressed by the use of a familiar word may depart from the concept</text>
+<text top="979" left="108" width="677" height="18" font="4">encoded by the use of that word in various ways. It may be narrower, as in (18),</text>
+<text top="1003" left="108" width="487" height="18" font="4">broader, as in (19), or both narrower and broader, as in (20).</text>
+<text top="1051" left="108" width="125" height="18" font="4">(18)a. I cannot </text>
+<text top="1051" left="233" width="39" height="18" font="8"><i>open</i></text>
+<text top="1051" left="272" width="240" height="18" font="4"> the freezer because of the ice</text>
+<text top="1074" left="143" width="97" height="18" font="4">b. (Dentist) </text>
+<text top="1074" left="240" width="43" height="18" font="8"><i>Open</i></text>
+<text top="1074" left="284" width="103" height="18" font="4"> your mouth </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">311</text>
+<text top="172" left="108" width="498" height="18" font="4">(19)a. Mark passed everything with distinction. He is such as </text>
+<text top="171" left="606" width="53" height="18" font="8"><i>genius</i></text>
+<text top="172" left="659" width="6" height="18" font="4">!</text>
+<text top="195" left="108" width="124" height="18" font="4">    b. I have a </text>
+<text top="195" left="232" width="55" height="18" font="8"><i>square</i></text>
+<text top="195" left="287" width="128" height="18" font="4"> spot on my leg </text>
+<text top="219" left="108" width="33" height="18" font="4">(20)</text>
+<text top="219" left="162" width="407" height="18" font="4">With five older sisters, David has always been the </text>
+<text top="219" left="569" width="52" height="18" font="8"><i>prince</i></text>
+<text top="219" left="621" width="104" height="18" font="4"> of the house</text>
+<text top="267" left="108" width="677" height="18" font="4">In understanding each of (18)-(19), the hearer, following a path of least effort, starts</text>
+<text top="290" left="108" width="676" height="18" font="4">considering just the first (few) most accessible assumption(s) from the encyclopaedic</text>
+<text top="314" left="108" width="676" height="18" font="4">entry of the encoded concept and starts processing them in the wider context of the</text>
+<text top="338" left="108" width="676" height="18" font="4">utterance together with other hypotheses about explicatures and implicatures. He</text>
+<text top="362" left="108" width="676" height="18" font="4">continues deriving cognitive effects from their combination until he arrives at a</text>
+<text top="385" left="108" width="677" height="18" font="4">combination of explicit content, context and implicatures that satisfies his expectations</text>
+<text top="409" left="108" width="677" height="18" font="4">of relevance, at which point he stops. Because he often arrives at an optimally relevant</text>
+<text top="433" left="108" width="677" height="18" font="4">interpretation before processing the encoded concepts to any depth, the resulting</text>
+<text top="457" left="108" width="677" height="18" font="4">concepts may be narrower than, or broader than, or simply overlap with, the original</text>
+<text top="480" left="108" width="676" height="18" font="4">encoded concepts. Concept broadening and narrowing are not different processes, but</text>
+<text top="504" left="108" width="677" height="18" font="4">rather different instantiations of a single process of conceptual adjustment which takes</text>
+<text top="528" left="108" width="677" height="18" font="4">place in deriving the proposition expressed by the speaker’s utterance (Carston, 1996,</text>
+<text top="552" left="108" width="676" height="18" font="4">2002). The new (narrower or broader) concept constructed in this ad hoc fashion will</text>
+<text top="575" left="108" width="677" height="18" font="4">be taken to be appropriately close to the one the speaker intended as a constituent of</text>
+<text top="599" left="108" width="423" height="18" font="4">her thoughts and of the explicature of her utterance. </text>
+<text top="623" left="123" width="662" height="18" font="4">In (18), the encoded concept is automatically narrowed to denote only a subset of</text>
+<text top="647" left="108" width="677" height="18" font="4">particular ways of opening. In (19), it is broadened to the point where it includes not</text>
+<text top="670" left="108" width="676" height="18" font="4">only real geniuses, or geometrically perfect squares, but, more generally, very clever</text>
+<text top="694" left="108" width="677" height="18" font="4">people, such as Mark, and square-like shapes, such as the spot on the speaker’s leg.</text>
+<text top="718" left="108" width="676" height="18" font="4">Finally, in (20), processing only some of our encyclopaedic assumptions about princes</text>
+<text top="742" left="108" width="677" height="18" font="4">(e.g. the knowledge that princes are well looked after, that they get everything they</text>
+<text top="765" left="108" width="676" height="18" font="4">want or need, etc.) during utterance comprehension results in a simultaneous</text>
+<text top="789" left="108" width="676" height="18" font="4">narrowing and broadening of the encoded concept. The resulting ad hoc concept</text>
+<text top="813" left="108" width="677" height="18" font="4">PRINCE* is narrower than the encoded concept in that it denotes only princes who are</text>
+<text top="837" left="108" width="677" height="18" font="4">treated in a special way (excluding poor princes or those in exile) and broader in that</text>
+<text top="860" left="108" width="676" height="18" font="4">it does not only denote members of a royal family but, more generally, ordinary people</text>
+<text top="884" left="108" width="440" height="18" font="4">who receive very special treatment typical of princes.  </text>
+<text top="908" left="123" width="662" height="18" font="4">A crucial point about examples (18)-(20) is that the same process of conceptual</text>
+<text top="932" left="108" width="677" height="18" font="4">adjustment is at work in understanding literal (18), hyperbolic (19a), loose (19b) and</text>
+<text top="955" left="108" width="677" height="18" font="4">metaphorical uses (20). Both literal and non-literal interpretations are context-</text>
+<text top="979" left="108" width="677" height="18" font="4">dependent and pragmatically constructed on-line via relevance-driven inferential</text>
+<text top="1003" left="108" width="677" height="18" font="4">mechanisms, which take what is linguistically encoded (the logical form and its</text>
+<text top="1027" left="108" width="677" height="18" font="4">constituent concepts) as merely a guide in inferring speaker meaning. This process of</text>
+<text top="1051" left="108" width="676" height="18" font="4">pragmatically fine-tuning the encoded concepts takes place as a natural by-product of</text>
+<text top="1074" left="108" width="677" height="18" font="4">the search for an optimally relevant interpretation, which can be attributed as a</text>
+<text top="1098" left="108" width="159" height="18" font="4">speaker’s meaning. </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">312</text>
+<text top="172" left="123" width="661" height="18" font="4">In the next section, I will propose that the on-line understanding of idioms involves</text>
+<text top="195" left="108" width="676" height="18" font="4">no different processes or mechanisms from those involved in understanding these</text>
+<text top="219" left="108" width="676" height="18" font="4">utterances. I will claim that decoding the concepts encoded by an idiom and its</text>
+<text top="243" left="108" width="676" height="18" font="4">constituents, like decoding the concept encoded by a lexical item, merely gives access</text>
+<text top="267" left="108" width="677" height="18" font="4">to a set of logical and encyclopaedic information, a subset of which is considered on-</text>
+<text top="290" left="108" width="542" height="18" font="4">line in constructing the figurative meaning intended by the speaker.</text>
+<text top="362" left="108" width="421" height="17" font="6"><b>4.  The pragmatic construction of idiom meaning</b></text>
+<text top="386" left="108" width="611" height="17" font="6"><b>4.1  Basic (relevance-theoretic) hypotheses about idiom comprehension</b></text>
+<text top="432" left="108" width="677" height="18" font="4">On some occasions, the speaker thinks the most efficient way of communicating her</text>
+<text top="456" left="108" width="677" height="18" font="4">intended message – the way that would involve the least expenditure of processing</text>
+<text top="480" left="108" width="677" height="18" font="4">effort to derive the intended effects – is through the use of an idiomatic string, whether</text>
+<text top="503" left="108" width="676" height="18" font="4">in its original or a novel form. She predicts the hearer will recognise the string, retrieve</text>
+<text top="527" left="108" width="677" height="18" font="4">the conceptual representation it encodes and add some of its accompanying</text>
+<text top="551" left="108" width="677" height="18" font="4">information to the context to derive the set of implications she intended. It is because</text>
+<text top="575" left="108" width="677" height="18" font="4">idioms are conventional metaphors that denote ordinary situations that they provide</text>
+<text top="598" left="108" width="677" height="18" font="4">a convenient short-cut to the derivation of a wide range of implications for a relatively</text>
+<text top="622" left="108" width="676" height="18" font="4">low processing effort. This paper will look in detail at how the process of idiom</text>
+<text top="646" left="108" width="186" height="18" font="4">comprehension works. </text>
+<text top="670" left="123" width="661" height="18" font="4">Decoding the utterance containing the idiom triggers automatically in the hearer’s</text>
+<text top="693" left="108" width="676" height="18" font="4">mind both a presumption of optimal relevance and the relevance-theoretic</text>
+<text top="717" left="108" width="677" height="18" font="4">comprehension procedure which will guide the hearer in bridging the gap between</text>
+<text top="741" left="108" width="677" height="18" font="4">what is linguistically encoded and what is communicated both, explicitly and</text>
+<text top="765" left="108" width="676" height="18" font="4">implicitly. We have seen that Relevance Theory argues that pragmatics does not only</text>
+<text top="788" left="108" width="677" height="18" font="4">operate at sentence level but also at word level in deriving the proposition expressed</text>
+<text top="812" left="108" width="677" height="18" font="4">by the speaker’s utterance. I want to argue that pragmatic processes often operates at</text>
+<text top="836" left="108" width="677" height="18" font="4">phrase level too. Arriving at the meaning intended by the speaker in using an utterance</text>
+<text top="860" left="108" width="677" height="18" font="4">containing an idiom involves a simultaneous pragmatic adjustment of word, phrase and</text>
+<text top="883" left="108" width="677" height="18" font="4">sentence meaning which takes place during the process of deriving explicit content,</text>
+<text top="907" left="108" width="677" height="18" font="4">context and implicatures. This process continues until the hearer arrives at a</text>
+<text top="931" left="108" width="676" height="18" font="4">combination that satisfies his expectations of relevance. It is the ad hoc (phrasal)</text>
+<text top="955" left="108" width="677" height="18" font="4">concept resulting from the process of deriving an optimally relevant interpretation that</text>
+<text top="979" left="108" width="676" height="18" font="4">will be taken to be the concept the speaker intended as a constituent of the explicature</text>
+<text top="1002" left="108" width="677" height="18" font="4">of her utterance. In this way, idiom strings, both in their standard and variant forms,</text>
+<text top="1026" left="108" width="676" height="18" font="4">can be seen to involve just the same mechanisms as are employed in arriving at the</text>
+<text top="1050" left="108" width="677" height="18" font="4">meaning intended by literally, loosely, hyperbolically and metaphorically used words,</text>
+<text top="1074" left="108" width="122" height="18" font="4">as in (18)-(20).</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">313</text>
+<text top="1123" left="123" width="6" height="11" font="0">3</text>
+<text top="1127" left="129" width="452" height="15" font="1"> For the mental representation of idioms see Vega-Moreno (2001).</text>
+<text top="172" left="108" width="418" height="17" font="6"><b>4.2 The comprehension of idiomatic expressions </b></text>
+<text top="219" left="108" width="676" height="18" font="4">In understanding an utterance containing an idiom, the hearer takes the concepts</text>
+<text top="242" left="108" width="677" height="18" font="4">encoded by the utterance and by the idiom string as clues to the explicatures and</text>
+<text top="266" left="108" width="677" height="18" font="4">implicatures intended by the speaker. Using the relevance-theoretic comprehension</text>
+<text top="290" left="108" width="676" height="18" font="4">procedure, he follows a path of least effort and starts considering a few highly</text>
+<text top="314" left="108" width="676" height="18" font="4">activated assumptions from the encyclopaedic entries of the encoded concepts to use</text>
+<text top="337" left="108" width="677" height="18" font="4">as contextual assumptions in the search for implications. Processing the encoded</text>
+<text top="361" left="108" width="676" height="18" font="4">concepts (initially) in this shallow manner often results in an adjustment of their</text>
+<text top="385" left="108" width="677" height="18" font="4">denotation and hence in the construction of new ad hoc concepts on–line, as in (18)-</text>
+<text top="409" left="108" width="677" height="18" font="4">(20). For instance, in interpreting an utterance such as (21), the hearer typically takes</text>
+<text top="433" left="108" width="677" height="18" font="4">the encoded concepts and processes only some of the information they give access to.</text>
+<text top="480" left="108" width="33" height="18" font="4">(21)</text>
+<text top="480" left="162" width="318" height="18" font="4">I cannot stand the way my boyfriend is </text>
+<text top="480" left="480" width="271" height="18" font="8"><i>tied to his mother’s apron strings</i></text>
+<text top="480" left="751" width="5" height="18" font="4"> </text>
+<text top="528" left="108" width="677" height="18" font="4">He may take the encoded concept TIE, for instance, and consider the assumption that</text>
+<text top="551" left="108" width="677" height="18" font="4">tying involves some kind of attachment. Processing the concept rather loosely often</text>
+<text top="575" left="108" width="676" height="18" font="4">results in the construction of a broad (ad hoc) concept (TIE*) which denotes virtually</text>
+<text top="599" left="108" width="676" height="18" font="4">any process in which some degree of attachment is involved. This ad hoc concept is</text>
+<text top="622" left="108" width="677" height="18" font="4">then continuously adjusted as new information derived from the rest of the utterance</text>
+<text top="646" left="108" width="677" height="18" font="4">is  processed. The concepts encoded in the string are processed following a path of</text>
+<text top="670" left="108" width="677" height="18" font="4">least effort in deriving implications, with hypotheses about explicatures and</text>
+<text top="694" left="108" width="677" height="18" font="4">implicatures being mutually adjusted at every stage. At some point during this process,</text>
+<text top="718" left="108" width="677" height="18" font="4">the concept encoded by the idiom string as a whole is retrieved from memory ([TO BE</text>
+<text top="741" left="108" width="461" height="18" font="4">TIED [TO [ONE’S MOTHER’S APRON STRINGS]]]*</text>
+<text top="739" left="569" width="6" height="11" font="0">3</text>
+<text top="741" left="575" width="210" height="18" font="4">). Rather than involving a</text>
+<text top="765" left="108" width="677" height="18" font="4">switch of processing mode, the hearer takes this concept also as a further clue to the</text>
+<text top="789" left="108" width="677" height="18" font="4">speaker’s meaning and he starts considering some of its accompanying information</text>
+<text top="813" left="108" width="677" height="18" font="4">(e.g. the assumption that someone with this property is too close to their mother, not</text>
+<text top="836" left="108" width="677" height="18" font="4">independent enough for their age, and so on) as additional contextual assumptions.</text>
+<text top="860" left="108" width="677" height="18" font="4">These assumptions are added to the context in their order of accessibility in order to</text>
+<text top="884" left="108" width="677" height="18" font="4">derive the set of intended cognitive effects (e.g. The speaker’s boyfriend is very</text>
+<text top="908" left="108" width="677" height="18" font="4">immature, he needs to be more independent, the speaker is unhappy with the situation,</text>
+<text top="931" left="108" width="677" height="18" font="4">etc.). In this case, the assumptions considered in processing the encoded concept TIE,</text>
+<text top="955" left="108" width="677" height="18" font="4">which is broadened to TIE*, contributes to, rather than disrupts, the derivation of the</text>
+<text top="979" left="108" width="565" height="18" font="4">intended effects. This is, however, not always the case. Consider (22):</text>
+<text top="1026" left="108" width="33" height="18" font="4">(22)</text>
+<text top="1026" left="162" width="105" height="18" font="4">Let’s go and </text>
+<text top="1026" left="267" width="98" height="18" font="8"><i>chew the fat</i></text>
+<text top="1026" left="364" width="96" height="18" font="4"> for a while </text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">314</text>
+<text top="172" left="108" width="677" height="18" font="4">At some point during processing (22), the concept underlying the idiom string</text>
+<text top="195" left="108" width="676" height="18" font="4">([CHEW [THE FAT]]*) is retrieved from memory and some highly accessible</text>
+<text top="219" left="108" width="676" height="18" font="4">assumptions from its encyclopaedic entry are considered in their order of accessibility.</text>
+<text top="243" left="108" width="676" height="18" font="4">Having processed some assumptions from the concepts CHEW and FAT at an earlier</text>
+<text top="267" left="108" width="676" height="18" font="4">point may present the hearer with some inconsistency. On the presumption that the</text>
+<text top="290" left="108" width="676" height="18" font="4">speaker is aiming at optimal relevance, he will test in context the most accessible</text>
+<text top="314" left="108" width="677" height="18" font="4">meaning to see whether it achieves enough cognitive effects. The speaker’s familiarity</text>
+<text top="338" left="108" width="677" height="18" font="4">with the string and the precise expectations about relevant implications often make the</text>
+<text top="362" left="108" width="677" height="18" font="4">figurative meaning highly accessible. If, when processed in context, this interpretation</text>
+<text top="385" left="108" width="677" height="18" font="4">provides enough cognitive effects for the effort invested, the hearer would take it to</text>
+<text top="409" left="108" width="676" height="18" font="4">be the one the speaker intended; if not, he looks again. Since analysable idioms, as in</text>
+<text top="433" left="108" width="676" height="18" font="4">(21), help the hearer to arrive at the intended cognitive effects with less investment of</text>
+<text top="457" left="108" width="676" height="18" font="4">processing effort than unanalysable strings, as in (22), they are typically understood</text>
+<text top="480" left="108" width="676" height="18" font="4">faster than unanalysable idioms (Gibbs et al, 1989a). Furthermore, since in</text>
+<text top="504" left="108" width="677" height="18" font="4">understanding both analysable and unanalysable idioms, word and idiom meaning are</text>
+<text top="528" left="108" width="677" height="18" font="4">activated and often used as input in an attempt to construct the intended interpretation,</text>
+<text top="552" left="108" width="677" height="18" font="4">hearers can then construct, in subsequent discourse, new metaphorical utterances</text>
+<text top="575" left="108" width="480" height="18" font="4">which echo these representations, as in (13)-(14) and (23).  </text>
+<text top="623" left="108" width="33" height="18" font="4">(23)</text>
+<text top="623" left="162" width="260" height="18" font="4">A: Has horrible old Mr Thomas </text>
+<text top="623" left="422" width="140" height="18" font="8"><i>kicked the bucket</i></text>
+<text top="623" left="561" width="39" height="18" font="4"> yet?</text>
+<text top="647" left="143" width="334" height="18" font="4">  B: I don’t think he has even touched it!</text>
+<text top="694" left="108" width="676" height="18" font="4">An important advantage of this model is that it accounts for how idiom strings are</text>
+<text top="718" left="108" width="677" height="18" font="4">understood in both their original and novel forms. Arriving at the intended</text>
+<text top="742" left="108" width="677" height="18" font="4">interpretation of an idiom, such as those in (4)-(11), often involves considering initially</text>
+<text top="765" left="108" width="677" height="18" font="4">just a few highly accessible assumptions from the concepts encoded by the utterance.</text>
+<text top="789" left="108" width="677" height="18" font="4">In (7), repeated below, this means taking, not only the encoded concepts PULL and</text>
+<text top="813" left="108" width="677" height="18" font="4">STRINGS, but also the encoded concepts FEW and POLITICAL as input for inferring</text>
+<text top="837" left="108" width="145" height="18" font="4">speaker meaning. </text>
+<text top="884" left="108" width="23" height="18" font="4">(7)</text>
+<text top="884" left="162" width="181" height="18" font="4">I think his father must </text>
+<text top="884" left="343" width="273" height="18" font="8"><i>have pulled a few political strings</i></text>
+<text top="884" left="617" width="167" height="18" font="4"> to get him out of jail</text>
+<text top="955" left="108" width="677" height="18" font="4">In searching for implications, the hearer, following a path of least effort, starts pulling</text>
+<text top="979" left="108" width="677" height="18" font="4">out from these concepts a few of their encyclopaedic assumptions and adding them to</text>
+<text top="1003" left="108" width="676" height="18" font="4">the context of the utterance in their order of accessibility to derive the set of</text>
+<text top="1027" left="108" width="676" height="18" font="4">explicatures and implicatures the speaker intended. As in (21), this may involve</text>
+<text top="1051" left="108" width="677" height="18" font="4">adjusting the encoded concepts accordingly. The hearer may consider, for instance,</text>
+<text top="1074" left="108" width="677" height="18" font="4">highly accessible assumptions associated with the concepts PULL and STRING,</text>
+<text top="1098" left="108" width="676" height="18" font="4">namely that pulling involves exerting some kind of force and that strings are things on</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">315</text>
+<text top="172" left="108" width="677" height="18" font="4">which one can exert some force, broadening the concepts accordingly (PULL*,</text>
+<text top="195" left="108" width="676" height="18" font="4">STRINGS*). These broader concepts may be further adjusted as new information is</text>
+<text top="219" left="108" width="89" height="18" font="4">processed. </text>
+<text top="243" left="123" width="661" height="18" font="4">The hearer’s expectations of relevance, and the resemblance in form (phonological,</text>
+<text top="267" left="108" width="677" height="18" font="4">lexical, syntactic) between the variant and the standard form, triggers the retrieval</text>
+<text top="290" left="108" width="676" height="18" font="4">from memory of the concept underlying the original idiom (e.g. [PULL [STRINGS]]*)</text>
+<text top="314" left="108" width="677" height="18" font="4">at some point during processing of the utterance. At this point, the concepts encoded</text>
+<text top="338" left="108" width="676" height="18" font="4">at both word and phrase level are adjusted in accordance with hypotheses about</text>
+<text top="362" left="108" width="677" height="18" font="4">speaker meaning to the point where the hearer arrives at an explicit content that</text>
+<text top="385" left="108" width="677" height="18" font="4">warrants the derivation of the expected implicatures. This adjustment results in the</text>
+<text top="409" left="108" width="676" height="18" font="4">derivation of one or two strong implicatures (e.g. Tom’s father helped him to get out</text>
+<text top="433" left="108" width="677" height="18" font="4">of jail) and a wider range of weak implicatures (e.g. some political influence was</text>
+<text top="457" left="108" width="676" height="18" font="4">involved in freeing Tom, Tom’s father had to ask for favours to get Tom out of jail, he</text>
+<text top="480" left="108" width="677" height="18" font="4">knows influential people, the procedure to free Tom was not completely legal, etc.).</text>
+<text top="504" left="108" width="677" height="18" font="4">It is the ad hoc concept constructed on-line as a by-product of arriving at an optimally</text>
+<text top="528" left="108" width="676" height="18" font="4">relevant interpretation, namely [PULL* [A FEW POLITICAL STRINGS*]]*, and not</text>
+<text top="552" left="108" width="677" height="18" font="4">the set of encoded concepts or the concept encoded by the idiom in its original form,</text>
+<text top="575" left="108" width="677" height="18" font="4">that is taken to be close enough to the concept the speaker intended as a constituent</text>
+<text top="599" left="108" width="677" height="18" font="4">of the thought she is expressing. It is then this concept that is taken as a constituent of</text>
+<text top="623" left="108" width="677" height="18" font="4">the proposition expressed by her utterances and the one that warrants the derivation</text>
+<text top="647" left="108" width="355" height="18" font="4">of the intended implications just mentioned.</text>
+<text top="670" left="123" width="661" height="18" font="4">It is worth noticing that this account does not claim that any literal interpretation is</text>
+<text top="694" left="108" width="676" height="18" font="4">derived. Processing an idiom does not involve recovering a literal meaning for the</text>
+<text top="718" left="108" width="676" height="18" font="4">utterance that contains it (Brobow &amp; Bell, 1973), not even before the idiomatic</text>
+<text top="742" left="108" width="677" height="18" font="4">expression is retrieved from memory (Cacciari &amp; Tabossi, 1988). Idiom</text>
+<text top="765" left="108" width="676" height="18" font="4">comprehension, like utterance comprehension more generally, is not literal or</text>
+<text top="789" left="108" width="677" height="18" font="4">figurative but relevance-driven. The hearer does not need to process the literal</text>
+<text top="813" left="108" width="676" height="18" font="4">meaning of every encoded concept as it is encountered. Instead, only some highly</text>
+<text top="837" left="108" width="677" height="18" font="4">accessible assumptions from the encyclopaedic entries of the encoded concepts are</text>
+<text top="860" left="108" width="677" height="18" font="4">processed on-line by following a path of least effort in deriving implications. The</text>
+<text top="884" left="108" width="676" height="18" font="4">output of the interpretation process may be idiomatic, literal, metaphorical, or</text>
+<text top="908" left="108" width="676" height="18" font="4">otherwise. Crucially, the amount of processing effort invested at word, phrase and</text>
+<text top="932" left="108" width="677" height="18" font="4">sentence level in deriving  the intended interpretation is highly constrained by the</text>
+<text top="955" left="108" width="677" height="18" font="4">relevance-theoretic comprehension procedure and so kept as low as possible in looking</text>
+<text top="979" left="108" width="677" height="18" font="4">for the intended cognitive effects. It is because of this, and because the construction</text>
+<text top="1003" left="108" width="677" height="18" font="4">of idiom meaning is context-dependent, that the effort invested in processing the</text>
+<text top="1027" left="108" width="667" height="18" font="4">encoded concepts during idiom comprehension varies from utterance to utterance. </text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">316</text>
+<text top="172" left="108" width="328" height="17" font="6"><b>4.3 Idiom analysability and Relevance</b></text>
+<text top="219" left="108" width="677" height="18" font="4">In line with much current research on idioms, I propose that idiom strings do not form</text>
+<text top="242" left="108" width="676" height="18" font="4">a homogeneous group. Instead, they vary in the extent to which the concepts encoded</text>
+<text top="266" left="108" width="676" height="18" font="4">by their constituent words contribute to the overall idiomatic interpretation</text>
+<text top="290" left="108" width="677" height="18" font="4">(analysability) and in the ease with which these assumptions can be accessed in a</text>
+<text top="314" left="108" width="677" height="18" font="4">particular context (transparency). For some idioms, one of the concepts encoded by</text>
+<text top="337" left="108" width="677" height="18" font="4">the idiom string actually acts as a better clue to the intended interpretation than the</text>
+<text top="361" left="108" width="677" height="18" font="4">rest, as shown in (24). For some idioms, the whole string is metaphorical, as in (25),</text>
+<text top="385" left="108" width="677" height="18" font="4">or hyperbolical, as in (26). Some idioms seem to involve words which are used</text>
+<text top="409" left="108" width="677" height="18" font="4">literally, as in (27a), or loosely (e.g. metaphorically), as in (27b). Finally, many idioms</text>
+<text top="433" left="108" width="308" height="18" font="4">involve the use of pro-concepts (e.g. </text>
+<text top="432" left="417" width="210" height="18" font="8"><i>have, give, take, put, give</i></text>
+<text top="433" left="627" width="158" height="18" font="4">), which need to be</text>
+<text top="456" left="108" width="414" height="18" font="4">pragmatically enriched in every context, as in (28). </text>
+<text top="504" left="108" width="33" height="18" font="4">(24)</text>
+<text top="504" left="162" width="622" height="18" font="8"><i>Spill the beans, break the ice, bark up the wrong tree, fed up to the back teeth</i></text>
+<text top="528" left="108" width="33" height="18" font="4">(25)</text>
+<text top="528" left="162" width="617" height="18" font="8"><i>Back to square one, sit on the fence, stab someone in the back, hit the target</i></text>
+<text top="551" left="108" width="33" height="18" font="4">(26)</text>
+<text top="551" left="162" width="574" height="18" font="8"><i>Cry one’s eyes out, eat one’s heart out, not sleep a wink, cost the earth</i></text>
+<text top="575" left="108" width="48" height="18" font="4">(27)a.</text>
+<text top="575" left="162" width="487" height="18" font="8"><i>Promise the moon, cost an arm and a leg, start from scratch</i></text>
+<text top="599" left="143" width="19" height="18" font="4">b. </text>
+<text top="599" left="163" width="433" height="18" font="8"><i>Pull strings, take under one’s wing, pluck up courage</i></text>
+<text top="622" left="108" width="33" height="18" font="4">(28)</text>
+<text top="622" left="162" width="622" height="18" font="8"><i>Have one foot in the grave, put one’s foot in one’s mouth, put one’s cards on</i></text>
+<text top="646" left="162" width="70" height="18" font="8"><i>the table</i></text>
+<text top="694" left="108" width="677" height="18" font="4">In aiming at achieving sufficient cognitive effects by investing as little processing</text>
+<text top="718" left="108" width="677" height="18" font="4">effort as possible, the hearer would take the concepts encoded by the constituent words</text>
+<text top="741" left="108" width="676" height="18" font="4">in these strings (as they are embedded in utterances) and process some of the</text>
+<text top="765" left="108" width="676" height="18" font="4">assumptions they give access to. An initially shallow compositional processing of the</text>
+<text top="789" left="108" width="677" height="18" font="4">strings in context would often result in an automatic narrowing or broadening of the</text>
+<text top="813" left="108" width="677" height="18" font="4">encoded concepts, so that loose, hyperbolic and metaphorical interpretations start to</text>
+<text top="836" left="108" width="677" height="18" font="4">be derived. This bottom-up process of meaning construction involves no different</text>
+<text top="860" left="108" width="677" height="18" font="4">mechanism from that involved in constructing the meaning of the examples in (18)-</text>
+<text top="884" left="108" width="43" height="18" font="4">(20). </text>
+<text top="908" left="123" width="662" height="18" font="4">For some idioms, broadening occurs at word level, so that some words are</text>
+<text top="931" left="108" width="677" height="18" font="4">interpreted loosely or metaphorically, as in (27). For some idioms, the whole phrase</text>
+<text top="955" left="108" width="677" height="18" font="4">is automatically broadened online, as in (25)-(26), so that a loose, metaphorical or</text>
+<text top="979" left="108" width="676" height="18" font="4">hyperbolic interpretation is derived. The shallow compositional processing of the</text>
+<text top="1003" left="108" width="61" height="18" font="4">idioms </text>
+<text top="1003" left="167" width="200" height="18" font="8"><i>stab someone in the back</i></text>
+<text top="1003" left="366" width="25" height="18" font="4"> or </text>
+<text top="1003" left="391" width="103" height="18" font="8"><i>hit the target</i></text>
+<text top="1003" left="494" width="291" height="18" font="4"> in (25), for instance, may involve an</text>
+<text top="1026" left="108" width="676" height="18" font="4">automatic broadening of the meanings of the phrases so that they pick out used not</text>
+<text top="1050" left="108" width="676" height="18" font="4">simply cases in which backs are stabbed or targets hit but more generally cases in</text>
+<text top="1074" left="108" width="677" height="18" font="4">which someone is hurt and betrayed and cases where someone gets something right</text>
+<text top="1098" left="108" width="379" height="18" font="4">(see Glucksberg, 2001 for a similar approach). </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">317</text>
+<text top="172" left="123" width="661" height="18" font="4">It is important to notice that the fact that the concepts encoded by the idiom provide</text>
+<text top="195" left="108" width="677" height="18" font="4">access to a set of assumptions which, when added to the context, may contribute to the</text>
+<text top="219" left="108" width="676" height="18" font="4">derivation of the intended interpretation does not imply that hearers always access this</text>
+<text top="243" left="108" width="677" height="18" font="4">information when processing an idiom. Aiming to arrive at the intended effects by</text>
+<text top="267" left="108" width="677" height="18" font="4">expending as little processing effort as possible, the hearer often arrives at the</text>
+<text top="290" left="108" width="677" height="18" font="4">appropriate interpretation of the idiom before processing the encoded concepts to any</text>
+<text top="314" left="108" width="677" height="18" font="4">depth. At some point during processing, the concept encoded by the idiom is also</text>
+<text top="338" left="108" width="677" height="18" font="4">retrieved from memory and some of the information it gives access to is added to the</text>
+<text top="362" left="108" width="676" height="18" font="4">context in order of accessibility to derive the intended set of implications. The process</text>
+<text top="385" left="108" width="676" height="18" font="4">of meaning construction continues often broadening the encoded concepts and</text>
+<text top="409" left="108" width="677" height="18" font="4">narrowing the concept encoded by the idiom to the point where the resulting</text>
+<text top="433" left="108" width="676" height="18" font="4">conceptual representation satisfies the hearer’s expectations of relevance. Since the</text>
+<text top="457" left="108" width="676" height="18" font="4">hearer often arrives at an optimally relevant interpretation before the encoded concepts</text>
+<text top="480" left="108" width="677" height="18" font="4">are processed to any depth, we often do not realise that idiomatic expressions may</text>
+<text top="504" left="108" width="205" height="18" font="4">have a literal reading too.</text>
+<text top="528" left="123" width="662" height="18" font="4">The amount of processing effort invested in deriving the intended interpretation</text>
+<text top="552" left="108" width="677" height="18" font="4">depends on the ease with which the hearer can arrive at a set of cognitive effects that</text>
+<text top="575" left="108" width="677" height="18" font="4">satisfies his expectations of relevance at a particular time. The greater the contextual</text>
+<text top="599" left="108" width="677" height="18" font="4">clues and degree of familiarity with the idiom, the more easily the idiom meaning can</text>
+<text top="623" left="108" width="677" height="18" font="4">be derived, and hence the lower the amount of processing effort that needs to be</text>
+<text top="647" left="108" width="677" height="18" font="4">invested (at word level) in processing the string. For idiomatic strings in their standard</text>
+<text top="670" left="108" width="677" height="18" font="4">form, processed in a context biased towards the idiomatic interpretation, the hearer</text>
+<text top="694" left="108" width="677" height="18" font="4">arrives at the intended meaning soon after retrieving the concept encoded by the string</text>
+<text top="718" left="108" width="676" height="18" font="4">from memory (Gibbs, 1980; Ortony et al 1978), without the concepts encoded by the</text>
+<text top="742" left="108" width="677" height="18" font="4">constituent words being processed, although they will have been activated. For</text>
+<text top="765" left="108" width="676" height="18" font="4">idiomatic strings in their standard form, processed in a context where the idiomatic</text>
+<text top="789" left="108" width="677" height="18" font="4">interpretation is not predicted, the hearer may process the concepts encoded by the</text>
+<text top="813" left="108" width="676" height="18" font="4">constituent words in a very shallow manner, adjusting word and idiom meaning (once</text>
+<text top="837" left="108" width="676" height="18" font="4">this is retrieved from memory) until he arrives at an interpretation that is relevant in</text>
+<text top="860" left="108" width="676" height="18" font="4">the expected way. Since this shallow processing of encoded concepts contributes to</text>
+<text top="884" left="108" width="676" height="18" font="4">the derivation of cognitive effects for analysable but not for unanalysable idioms, the</text>
+<text top="908" left="108" width="677" height="18" font="4">former will be processed faster than the latter (Gibbs et al, 1989a), as in (21) vs (22).</text>
+<text top="932" left="108" width="676" height="18" font="4">For idiomatic strings in their non-standard form, as in (7) above, the hearer takes the</text>
+<text top="955" left="108" width="677" height="18" font="4">concepts  encoded by the constituent words and the (standard) conceptual</text>
+<text top="979" left="108" width="677" height="18" font="4">representation being echoed as input to infer the ad hoc concept intended by the</text>
+<text top="1003" left="108" width="677" height="18" font="4">speaker. Because the concept intended by the speaker is constructed on-line by</text>
+<text top="1027" left="108" width="676" height="18" font="4">considering highly accessible information from the concepts encoded by the idiom and</text>
+<text top="1051" left="108" width="677" height="18" font="4">its constituents (and context), an idiom variant should not, in principle, take longer to</text>
+<text top="1074" left="108" width="638" height="18" font="4">understand or involve any extra processing effort than literal strings, as in (18).</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">318</text>
+<text top="172" left="123" width="662" height="18" font="4">In testing idiom variants, McGlone et al (1994) found that familiar idioms take less</text>
+<text top="195" left="108" width="677" height="18" font="4">time to process than both idiom variants and literal phrases, but that idiom variants of</text>
+<text top="219" left="108" width="94" height="18" font="4">the sort ‘he </text>
+<text top="219" left="202" width="269" height="18" font="8"><i>got out of the right side of the bed</i></text>
+<text top="219" left="471" width="99" height="18" font="4">’, ‘he didn’t </text>
+<text top="219" left="570" width="146" height="18" font="8"><i>spill a single bean</i></text>
+<text top="219" left="716" width="69" height="18" font="4">’ take no</text>
+<text top="243" left="108" width="677" height="18" font="4">longer to understand than literal paraphrases of the same length (e.g. ‘he didn’t reveal</text>
+<text top="267" left="108" width="677" height="18" font="4">a single secret’). McGlone, Glucksberg and their colleagues explain these findings by</text>
+<text top="290" left="108" width="677" height="18" font="4">arguing that, for some idioms, the individual constituents in the string have become</text>
+<text top="314" left="108" width="677" height="18" font="4">polysemous with time, developing an extra (figurative) sense which is selected during</text>
+<text top="338" left="108" width="676" height="18" font="4">the comprehension process (this is the Phrase Induced Polysemy (PIP) model). In this</text>
+<text top="362" left="108" width="349" height="18" font="4">way, in processing the utterance ‘he did not </text>
+<text top="362" left="457" width="152" height="18" font="8"><i>spill a single bean’</i></text>
+<text top="362" left="609" width="175" height="18" font="4"> the hearer selects one</text>
+<text top="385" left="108" width="243" height="18" font="4">of the meanings of the words ‘</text>
+<text top="385" left="351" width="42" height="18" font="8"><i>spill’</i></text>
+<text top="385" left="393" width="111" height="18" font="4"> (reveal) and ‘</text>
+<text top="385" left="504" width="54" height="18" font="8"><i>beans’</i></text>
+<text top="385" left="558" width="226" height="18" font="4"> (secrets), when these words</text>
+<text top="409" left="108" width="677" height="18" font="4">co-occur, and combines them compositionally to derive the idiomatic interpretation.</text>
+<text top="433" left="123" width="662" height="18" font="4">Although, for some idiom parts, we may occasionally end up developing a new</text>
+<text top="457" left="108" width="677" height="18" font="4">sense, I believe this is not the norm. My account provides an alternative explanation</text>
+<text top="480" left="108" width="676" height="18" font="4">for these findings. I have shown how the concept conveyed by the use of an idiom or</text>
+<text top="504" left="108" width="677" height="18" font="4">an idiom variant, like the concept conveyed by the use of a lexical item, as in (18)-</text>
+<text top="528" left="108" width="676" height="18" font="4">(20), and a literal string, is not obtained by mere decoding but is constructed, on the</text>
+<text top="552" left="108" width="677" height="18" font="4">basis of highly accessible assumptions from the encoded concepts, via relevance-</text>
+<text top="575" left="108" width="676" height="18" font="4">driven inferential mechanisms. Since understanding idiom variants does not typically</text>
+<text top="599" left="108" width="677" height="18" font="4">involve any different process or any further processing effort than understanding literal</text>
+<text top="623" left="108" width="625" height="18" font="4">strings, there is no reason, in principle, why an utterance such as ‘he did not </text>
+<text top="623" left="734" width="50" height="18" font="8"><i>spill a</i></text>
+<text top="647" left="108" width="91" height="18" font="8"><i>single bean</i></text>
+<text top="647" left="199" width="585" height="18" font="4">’ should take longer to process than its literal counterpart ‘he did not reveal</text>
+<text top="670" left="108" width="135" height="18" font="4">a single secret’.  </text>
+<text top="694" left="123" width="661" height="18" font="4">Crucially, unlike the psycholinguistic models that have been proposed (Cacciari &amp;</text>
+<text top="718" left="108" width="677" height="18" font="4">Tabossi 1988, Gibbs 1990, Glucksberg 2001) the relevance-theoretic account</text>
+<text top="742" left="108" width="676" height="18" font="4">presented here provides a cognitively plausible and theoretically adequate pragmatic</text>
+<text top="765" left="108" width="677" height="18" font="4">explanation of why some idiom variants are accepted by the hearer and some are not.</text>
+<text top="789" left="108" width="677" height="18" font="4">For an utterance to be optimally relevant, the amount of effort invested in processing</text>
+<text top="813" left="108" width="676" height="18" font="4">the concepts encoded by the idiom constituents needs to be offset by extra cognitive</text>
+<text top="837" left="108" width="676" height="18" font="4">effects not derivable from using the string in its original form. This enables us to</text>
+<text top="860" left="108" width="677" height="18" font="4">distinguish the acceptable variants in (4)-(11), some repeated as (29), (31) and (33),</text>
+<text top="884" left="108" width="494" height="18" font="4">from the unacceptable variants in (1)-(3), (30), (32) and (34).</text>
+<text top="932" left="108" width="33" height="18" font="4">(29)</text>
+<text top="932" left="162" width="292" height="18" font="4">The most important thing is that we </text>
+<text top="932" left="454" width="240" height="18" font="8"><i>leave no legal stone unturned</i></text>
+<text top="955" left="108" width="33" height="18" font="4">(30)</text>
+<text top="955" left="162" width="162" height="18" font="4">*I think you should </text>
+<text top="955" left="323" width="208" height="18" font="8"><i>turn over a new legal leaf</i></text>
+<text top="979" left="108" width="33" height="18" font="4">(31)</text>
+<text top="979" left="162" width="211" height="18" font="8"><i>Many strings were pulled </i></text>
+<text top="979" left="373" width="184" height="18" font="4">but he was not elected.</text>
+<text top="1003" left="108" width="33" height="18" font="4">(32)</text>
+<text top="1003" left="162" width="72" height="18" font="4">*He had </text>
+<text top="1003" left="234" width="180" height="18" font="8"><i>many feet in the grave</i></text>
+<text top="1003" left="414" width="131" height="18" font="4"> when I saw him</text>
+<text top="1027" left="108" width="33" height="18" font="4">(33)</text>
+<text top="1027" left="162" width="622" height="18" font="4">He absolutely hates me so if it is true that he has found out about my affair, he</text>
+<text top="1051" left="162" width="210" height="18" font="4">must now be in my house </text>
+<text top="1051" left="373" width="146" height="18" font="8"><i>pouring the beans</i></text>
+<text top="1051" left="519" width="92" height="18" font="4"> to my wife</text>
+<text top="1074" left="108" width="33" height="18" font="4">(34)</text>
+<text top="1074" left="162" width="339" height="18" font="4">*You can trust me, you know I will never </text>
+<text top="1074" left="501" width="147" height="18" font="8"><i>uncover the beans</i></text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">319</text>
+<text top="1082" left="123" width="6" height="11" font="0">4</text>
+<text top="1086" left="129" width="655" height="15" font="1"> In aiming to find an optimally relevant interpretation, the hearer may derive the literal interpretation</text>
+<text top="1099" left="108" width="676" height="15" font="1">which when tested in context may or may not derive enough cognitive effects. If it does, he would take</text>
+<text top="1120" left="108" width="399" height="15" font="1">it as the intended interpretation and would stop processing.</text>
+<text top="172" left="108" width="677" height="18" font="4">On the hypothesis that the speaker is aiming at optimal relevance and hence not</text>
+<text top="195" left="108" width="676" height="18" font="4">putting the hearer to gratuitous processing effort, the hearer takes the concepts</text>
+<text top="219" left="108" width="676" height="18" font="4">encoded by each of these examples as input for deriving the speaker’s meaning. The</text>
+<text top="243" left="108" width="676" height="18" font="4">altered form of the idiom requires the expenditure of extra processing effort on the</text>
+<text top="267" left="108" width="676" height="18" font="4">part of the hearer to derive the intended interpretation. For the utterance to achieve</text>
+<text top="290" left="108" width="676" height="18" font="4">optimal relevance, this processing effort must then be offset by enough cognitive</text>
+<text top="314" left="108" width="677" height="18" font="4">effects, or a degree of unacceptability would result. In (29), (31) and (33), as in each</text>
+<text top="338" left="108" width="676" height="18" font="4">of (4)-(11), communication is successful because the encoded concepts LEGAL,</text>
+<text top="362" left="108" width="676" height="18" font="4">MANY and POUR give access to a few highly accessible assumptions (e.g. about law,</text>
+<text top="385" left="108" width="677" height="18" font="4">quantity, intentionality) that, when combined with the set of assumptions being</text>
+<text top="409" left="108" width="676" height="18" font="4">considered from the phrasal concept encoded by the idiom as a whole, yield enough</text>
+<text top="433" left="108" width="676" height="18" font="4">cognitive effects to offset the effort invested. These example indeed yield some extra</text>
+<text top="457" left="108" width="677" height="18" font="4">or different cognitive effects not derivable from the idiom in its original form (e.g.</text>
+<text top="480" left="108" width="677" height="18" font="4">some legal problems have to be solved, quite a few connections have been established,</text>
+<text top="504" left="108" width="292" height="18" font="4">the revelation was intentional, etc.). </text>
+<text top="528" left="123" width="662" height="18" font="4">Processing the utterances in (1)-(3) and (30), (32), (34) would not normally satisfy</text>
+<text top="552" left="108" width="676" height="18" font="4">the hearer’s expectations of optimal relevance unless it is clear from the context the</text>
+<text top="575" left="108" width="676" height="18" font="4">speaker is using a pun, referring to a magical word etc. Only in those cases would the</text>
+<text top="599" left="108" width="677" height="18" font="4">extra processing effort invested in understanding this utterance be rewarded with extra</text>
+<text top="623" left="108" width="677" height="18" font="4">cognitive effects (e.g. they involve humour, irony, wit etc.). In normal contexts,</text>
+<text top="647" left="108" width="677" height="18" font="4">however, focusing the word ‘bucket’, as in (2) or adding the word ‘legal’, as in (30),</text>
+<text top="670" left="108" width="677" height="18" font="4">makes the hearer take the encoded concepts BUCKET and LEGAL and start searching</text>
+<text top="694" left="108" width="677" height="18" font="4">for assumptions which, when added to the context, would allow him to derive an</text>
+<text top="718" left="108" width="677" height="18" font="4">appropriate set of implications. If, after investing a certain amount of effort, the hearer</text>
+<text top="742" left="108" width="677" height="18" font="4">has not been able to derive enough cognitive effects to offset this effort (e.g. he has</text>
+<text top="765" left="108" width="676" height="18" font="4">not been able to find information in the encyclopaedic entries of these concepts that</text>
+<text top="789" left="108" width="677" height="18" font="4">would lead to the derivation of enough cognitive effects) he would stop processing and</text>
+<text top="813" left="108" width="211" height="18" font="4">communication would fail</text>
+<text top="810" left="319" width="6" height="11" font="0">4</text>
+<text top="813" left="325" width="10" height="18" font="4">. </text>
+<text top="837" left="123" width="662" height="18" font="4">Unlike (31), where the hearer can derive extra implications (e.g. the implication that</text>
+<text top="860" left="108" width="677" height="18" font="4">quite a few connections were established) not derivable from the use of the original</text>
+<text top="884" left="108" width="677" height="18" font="4">form, the hearer of (32) cannot find a reason for the quantification. Quantifying the</text>
+<text top="908" left="108" width="53" height="18" font="4">word ‘</text>
+<text top="908" left="161" width="31" height="18" font="8"><i>foot</i></text>
+<text top="908" left="192" width="592" height="18" font="4">’ may result in the derivation of an interpretation which is rejected by the</text>
+<text top="932" left="108" width="676" height="18" font="4">hearer as being irrational and inconsistent with his knowledge of the world. In the</text>
+<text top="955" left="108" width="677" height="18" font="4">absence of a special context (e.g. a play, a cartoon etc.), the hearer won’t be able to</text>
+<text top="979" left="108" width="676" height="18" font="4">derive extra or different cognitive effects that would offset the effort invested in</text>
+<text top="1003" left="108" width="471" height="18" font="4">processing the idiom variant. Finally, substituting the word ‘</text>
+<text top="1003" left="579" width="65" height="18" font="8"><i>uncover</i></text>
+<text top="1003" left="644" width="44" height="18" font="4">’ for ‘</text>
+<text top="1003" left="687" width="35" height="18" font="8"><i>spill</i></text>
+<text top="1003" left="722" width="63" height="18" font="4">’ in (34)</text>
+<text top="1027" left="108" width="676" height="18" font="4">involves the expenditure of extra processing effort by the hearer. Since this effort is</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">320</text>
+<text top="172" left="108" width="677" height="18" font="4">not rewarded by the derivation of any extra or different cognitive effects not already</text>
+<text top="195" left="108" width="676" height="18" font="4">derivable from the string in its original form, communication is not successful. It is</text>
+<text top="219" left="108" width="677" height="18" font="4">worth noticing however, that in cases whether the speaker of these utterances is a</text>
+<text top="243" left="108" width="677" height="18" font="4">young child or a non-native speaker, the variant may be recognised as a mistake and</text>
+<text top="267" left="108" width="676" height="18" font="4">the utterance may achieve optimal relevance, given that it is the most relevant</text>
+<text top="290" left="108" width="676" height="18" font="4">utterance the speaker could have produced given his abilities (e.g. given his knowledge</text>
+<text top="314" left="108" width="674" height="18" font="4">of the language). This is captured by clause b in the definition of optimal relevance.</text>
+<text top="386" left="108" width="507" height="17" font="6"><b>4.4 Conceptual adjustment and denotation of idiom strings</b></text>
+<text top="433" left="108" width="677" height="18" font="4">As with metaphors, one important reason why we produce idiom variants is to</text>
+<text top="456" left="108" width="677" height="18" font="4">communicate a concept which we use in our thought but for which we have no word</text>
+<text top="480" left="108" width="677" height="18" font="4">in our language. However, unlike metaphors, we can often communicate this concept</text>
+<text top="504" left="108" width="676" height="18" font="4">by modifying a certain idiom for which we have a stable conceptual representation in</text>
+<text top="528" left="108" width="677" height="18" font="4">memory. In using an idiom variant, we encourage the hearer to narrow the original</text>
+<text top="551" left="108" width="676" height="18" font="4">concept to the point where he can derive the set of implications we intend to</text>
+<text top="575" left="108" width="677" height="18" font="4">communicate. For instance, in arriving at an optimally relevant interpretation of (7),</text>
+<text top="599" left="108" width="677" height="18" font="4">as outlined above, the hearer would construct a new ad hoc concept [TO PULL* [A</text>
+<text top="622" left="108" width="677" height="18" font="4">FEW POLITICAL STRINGS*]]* which denotes a subset of the situations denoted by</text>
+<text top="646" left="108" width="677" height="18" font="4">the concept [PULL [STRINGS]]*. It denotes situations in which one uses some</text>
+<text top="670" left="108" width="676" height="18" font="4">politicians as ‘puppets’ to make them exert some influence so to gain some benefit</text>
+<text top="694" left="108" width="676" height="18" font="4">from it, while it excludes situations in which influence is exerted by other means. It is</text>
+<text top="718" left="108" width="677" height="18" font="4">this (probably one-off) narrower ad hoc concept constructed on-line by adjusting word</text>
+<text top="741" left="108" width="676" height="18" font="4">and idiom meaning, and not the concept encoded by the idiom in its original form, that</text>
+<text top="765" left="108" width="676" height="18" font="4">the hearer takes to be a constituent of the speaker’s thoughts and of the proposition</text>
+<text top="789" left="108" width="677" height="18" font="4">expressed by her utterance. This ad hoc concept is specific enough to warrant the</text>
+<text top="813" left="108" width="677" height="18" font="4">implicatures intended by the speaker. Since using the idiom in new ways revitalises the</text>
+<text top="836" left="108" width="677" height="18" font="4">metaphorical nature of the expression, these may include one or two strong</text>
+<text top="860" left="108" width="450" height="18" font="4">implicatures plus a wider range of weaker implicatures. </text>
+<text top="884" left="123" width="661" height="18" font="4">The representation of idioms we store is rather metaphorical and often semantically</text>
+<text top="908" left="108" width="676" height="18" font="4">underspecified, denoting a wide range of actions, processes, and behaviours. This is</text>
+<text top="931" left="108" width="677" height="18" font="4">partly why these expressions can keep their figurative flavour despite being lexicalised.</text>
+<text top="955" left="108" width="677" height="18" font="4">Furthermore, because most idioms encode a rather unspecified concept, they often</text>
+<text top="979" left="108" width="677" height="18" font="4">need to be pragmatically enriched in context. A certain (stereotypical) narrowing of</text>
+<text top="1003" left="108" width="676" height="18" font="4">the concept encoded by the idiom occurs in understanding most idioms (as it does in</text>
+<text top="1026" left="108" width="676" height="18" font="4">understanding virtually every word), but it is more obvious when it comes to idiom</text>
+<text top="1050" left="108" width="625" height="18" font="4">variants and idioms referring to some notion of time or space, as in (35)-(38):</text>
+<text top="1098" left="108" width="33" height="18" font="4">(35)</text>
+<text top="1098" left="162" width="372" height="18" font="4">After the Paddington derailment, trains arrive </text>
+<text top="1098" left="534" width="118" height="18" font="8"><i>at snail’s pace</i></text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">321</text>
+<text top="172" left="108" width="33" height="18" font="4">(36)</text>
+<text top="172" left="162" width="353" height="18" font="4">After she broke her hip, my grandma walks </text>
+<text top="171" left="515" width="118" height="18" font="8"><i>at snail’s pace</i></text>
+<text top="195" left="108" width="33" height="18" font="4">(37)</text>
+<text top="195" left="162" width="398" height="18" font="4">My husband is very handy. He painted the house </text>
+<text top="195" left="560" width="45" height="18" font="8"><i>in the</i></text>
+<text top="195" left="605" width="5" height="18" font="4"> </text>
+<text top="195" left="610" width="153" height="18" font="8"><i>twinkling of an eye</i></text>
+<text top="219" left="108" width="33" height="18" font="4">(38)</text>
+<text top="219" left="162" width="202" height="18" font="4">My husband got dressed </text>
+<text top="219" left="364" width="204" height="18" font="8"><i>in the twinkling of an eye</i></text>
+<text top="267" left="108" width="676" height="18" font="4">The expressions in (35)-(38) are used to communicate different degrees of speed and</text>
+<text top="290" left="108" width="677" height="18" font="4">hence different meanings. The encoded concept [AT SNAIL’S PACE]* is enriched</text>
+<text top="314" left="108" width="677" height="18" font="4">differently on each occasion so as to warrant the derivation of an appropriate set of</text>
+<text top="338" left="108" width="676" height="18" font="4">implicatures. In (35), these may include the implication that trains are running at fewer</text>
+<text top="362" left="108" width="677" height="18" font="4">kilometres per hour than they used to, that journeys take longer than usual, etc. In (36),</text>
+<text top="385" left="108" width="676" height="18" font="4">however, it would include the implications that the speaker’s grandma takes</text>
+<text top="409" left="108" width="677" height="18" font="4">considerably longer than other people would to get anywhere, that she is not in good</text>
+<text top="433" left="108" width="677" height="18" font="4">physical condition, etc. In similar ways, the concept encoded in (37)-(38) is enriched</text>
+<text top="457" left="108" width="677" height="18" font="4">in context in different ways with, the resulting concept - [IN THE TWINKLING OF</text>
+<text top="480" left="108" width="677" height="18" font="4">AN EYE]* and [IN THE TWINKLING OF AN EYE]**, respectively - contributing</text>
+<text top="504" left="108" width="676" height="18" font="4">differently to the truth-conditional content of the utterance. Although (37) would be</text>
+<text top="528" left="108" width="677" height="18" font="4">judged as true if the speaker’s husband took three hours to paint a three-bedroom</text>
+<text top="552" left="108" width="677" height="18" font="4">house, the same would not hold for (38), as taking three hours to get dressed is quite</text>
+<text top="575" left="108" width="676" height="18" font="4">a long time. The concept encoded in (38) is narrowed to the point were it warrants the</text>
+<text top="599" left="108" width="677" height="18" font="4">implicature that the speaker’s husband got dressed in just a few minutes, enabling</text>
+<text top="623" left="108" width="197" height="18" font="4">them to leave promptly. </text>
+<text top="695" left="108" width="124" height="17" font="6"><b>5. Conclusions</b></text>
+<text top="741" left="108" width="676" height="18" font="4">In this paper I have claimed that the meaning the speaker intends to convey by the use</text>
+<text top="765" left="108" width="677" height="18" font="4">of an idiom is pragmatically (re)constructed on-line by relevance-driven inferential</text>
+<text top="788" left="108" width="676" height="18" font="4">mechanisms which takes as input a set of highly accessible encyclopaedic assumptions</text>
+<text top="812" left="108" width="677" height="18" font="4">from the concepts encoded by the idiom string and its constituent words. The amount</text>
+<text top="836" left="108" width="676" height="18" font="4">of processing effort invested, and the depth of processing of the encoded concepts, is</text>
+<text top="860" left="108" width="677" height="18" font="4">highly constrained at every stage by the search for an optimally relevant interpretation.</text>
+<text top="883" left="108" width="676" height="18" font="4">It is because, in understanding idioms, conceptual adjustment takes place at word and</text>
+<text top="907" left="108" width="677" height="18" font="4">phrase level that this model can account for why idioms often swing between literal</text>
+<text top="931" left="108" width="677" height="18" font="4">and figurative meanings, and for why they often exhibit different degrees of flexibility</text>
+<text top="955" left="108" width="359" height="18" font="4">and productivity in the flow of conversation.</text>
+<text top="1015" left="108" width="79" height="15" font="5"><b>References</b></text>
+<text top="1055" left="108" width="344" height="15" font="1">Barsalou, Lawrence W., 1983. Ad hoc categories. </text>
+<text top="1055" left="452" width="161" height="15" font="7"><i>Memory and Cognition</i></text>
+<text top="1055" left="613" width="106" height="15" font="1"> 11/3, 211-227.</text>
+<text top="1076" left="108" width="676" height="15" font="1">Barsalou, Lawrence W., 1987. The instability of graded structure: Implications for the nature of</text>
+<text top="1096" left="123" width="203" height="15" font="1">concepts. In: Neisser, U. (Ed.), </text>
+<text top="1096" left="327" width="459" height="15" font="7"><i>Concepts and Conceptual Development: Ecological and Intellectual</i></text>
+<text top="1117" left="123" width="178" height="15" font="7"><i>Factors in Categorization</i></text>
+<text top="1117" left="302" width="373" height="15" font="1">, Cambridge University Press, New York, pp 101-140.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="162" width="178" height="15" font="7"><i>Rosa Elena Vega-Moreno</i></text>
+<text top="133" left="108" width="26" height="15" font="1">322</text>
+<text top="171" left="108" width="677" height="15" font="1">Barsalou, Lawrence W., 1993. Structure, flexibility, and linguistic vagary in concepts: Manifestations</text>
+<text top="192" left="123" width="661" height="15" font="1">of a compositional system of perceptual symbols. In: Collins, A.C., Gathercole, S.E., Conway, M.A.</text>
+<text top="212" left="123" width="48" height="15" font="1">(Eds.), </text>
+<text top="212" left="174" width="140" height="15" font="7"><i>Theories of Memory</i></text>
+<text top="212" left="314" width="364" height="15" font="1">, Lawrence Erlbaum Associates, London, pp. 29-101.</text>
+<text top="233" left="108" width="588" height="15" font="1">Bobrow, Samuel A., Bell, Susan M., 1973. On catching on to idiomatic expressions. </text>
+<text top="233" left="696" width="88" height="15" font="7"><i>Memory and</i></text>
+<text top="253" left="123" width="68" height="15" font="7"><i>Cognition</i></text>
+<text top="253" left="192" width="83" height="15" font="1"> 1, 343-346.</text>
+<text top="274" left="108" width="677" height="15" font="1">Cacciari,  Cristina, 1993. The place of idioms in a literal and metaphorical world. In: Cacciari, C,</text>
+<text top="294" left="123" width="123" height="15" font="1">Tabossi, P. (Eds.), </text>
+<text top="294" left="243" width="334" height="15" font="7"><i>Idioms: Processing, Structure, and Interpretation</i></text>
+<text top="294" left="578" width="207" height="15" font="1">, Lawrence Erlbaum, Hillsdale,</text>
+<text top="315" left="123" width="159" height="15" font="1">New Jersey, pp. 27-52.</text>
+<text top="335" left="108" width="677" height="15" font="1">Cacciari, Cristina, Glucksberg, Sam 1991. Understanding idiomatic expressions: The contribution of</text>
+<text top="356" left="123" width="274" height="15" font="1">word meanings. In: Simpson, G.B. (Ed.), </text>
+<text top="356" left="398" width="233" height="15" font="7"><i>Understanding word and Sentence</i></text>
+<text top="356" left="632" width="153" height="15" font="1">, Elsevier, Amsterdam,</text>
+<text top="376" left="123" width="88" height="15" font="1">pp. 217-240.</text>
+<text top="397" left="108" width="676" height="15" font="1">Cacciari, Cristina, Levorato, Maria Chiara, 1989. How children understand idioms in discourse.</text>
+<text top="417" left="123" width="188" height="15" font="7"><i>Journal of Child Language</i></text>
+<text top="417" left="310" width="92" height="15" font="1"> 16, 387-405.</text>
+<text top="438" left="108" width="677" height="15" font="1">Cacciari, Cristina, Levorato, Maria Chiara, 1999. Idiom comprehension in children: Are the effects of</text>
+<text top="458" left="123" width="305" height="15" font="1">semantic analysability and context separable? </text>
+<text top="458" left="428" width="293" height="15" font="7"><i>European Journal of Cognitive Psychology</i></text>
+<text top="458" left="721" width="64" height="15" font="1"> 11/1, 51-</text>
+<text top="479" left="123" width="21" height="15" font="1">66.</text>
+<text top="499" left="108" width="511" height="15" font="1">Cacciari, Cristina, Tabossi, Patrizia, 1988. The comprehension of idioms. </text>
+<text top="499" left="619" width="166" height="15" font="7"><i>Journal of Memory and</i></text>
+<text top="520" left="123" width="69" height="15" font="7"><i>Language</i></text>
+<text top="520" left="192" width="83" height="15" font="1"> 2, 668-683.</text>
+<text top="540" left="108" width="337" height="15" font="1">Cacciari, Cristina, Tabossi, Patrizia, 1993 (Eds.), </text>
+<text top="540" left="445" width="335" height="15" font="7"><i>Idioms: Processing, Structure and Interpretation</i></text>
+<text top="540" left="780" width="4" height="15" font="1">.</text>
+<text top="561" left="123" width="368" height="15" font="1">Lawrence Erlbaum Associates, Hillsdale, New Jersey.</text>
+<text top="581" left="108" width="677" height="15" font="1">Carston, Robyn, 1996. Enrichment and loosening: Complementary processes in deriving the</text>
+<text top="602" left="123" width="160" height="15" font="1">proposition expressed? </text>
+<text top="602" left="283" width="248" height="15" font="7"><i>UCL Working Papers in Linguistics</i></text>
+<text top="602" left="531" width="66" height="15" font="1"> 8, 61-88.</text>
+<text top="622" left="108" width="158" height="15" font="1">Carston, Robyn, 2002. </text>
+<text top="622" left="266" width="174" height="15" font="7"><i>Thoughts and Utterances</i></text>
+<text top="622" left="441" width="139" height="15" font="1">. Blackwell, Oxford.</text>
+<text top="643" left="108" width="166" height="15" font="1">Chomsky, Noam, 1980. </text>
+<text top="643" left="275" width="159" height="15" font="7"><i>Rules and Representati</i></text>
+<text top="643" left="434" width="299" height="15" font="1">ons. Columbia University Press, New York.</text>
+<text top="663" left="108" width="154" height="15" font="1">Cruse, D. Alan, 1986. </text>
+<text top="663" left="262" width="124" height="15" font="7"><i>Lexical Semantics</i></text>
+<text top="663" left="387" width="289" height="15" font="1">. Cambridge University Press, Cambridge.</text>
+<text top="684" left="108" width="624" height="15" font="1">Everaert, Martin, Van den Linden, Erik-Jan, Shenk, André, Sheuder, Rob (Eds.), 1995. </text>
+<text top="684" left="732" width="53" height="15" font="7"><i>Idioms:</i></text>
+<text top="704" left="123" width="293" height="15" font="7"><i>Structural and Psychological Perspectives.</i></text>
+<text top="704" left="416" width="368" height="15" font="1"> Lawrence Erlbaum Associates, Hillsdale, New Jersey.</text>
+<text top="725" left="108" width="422" height="15" font="1">Fraser, Bruce, 1970. Idioms within transformational grammar. </text>
+<text top="725" left="530" width="176" height="15" font="7"><i>Foundations of Language</i></text>
+<text top="725" left="707" width="78" height="15" font="1"> 6/1, 22-42.</text>
+<text top="746" left="108" width="676" height="15" font="1">Gibbs, Raymond W., 1980. Spilling the beans on understanding and memory for idioms in</text>
+<text top="766" left="123" width="99" height="15" font="1">conversation. </text>
+<text top="766" left="217" width="161" height="15" font="7"><i>Memory and Cognition</i></text>
+<text top="766" left="378" width="83" height="15" font="1"> 8, 449-456.</text>
+<text top="787" left="108" width="610" height="15" font="1">Gibbs, Raymond W., 1990. Psycholinguistic studies on the conceptual basis of idiomaticity. </text>
+<text top="787" left="718" width="66" height="15" font="7"><i>Cognitive</i></text>
+<text top="807" left="123" width="75" height="15" font="7"><i>Linguistics</i></text>
+<text top="807" left="199" width="83" height="15" font="1"> 1, 417-451.</text>
+<text top="828" left="108" width="606" height="15" font="1">Gibbs, Raymond W., 1991. Semantic analyzability in children’s understanding of idioms. </text>
+<text top="828" left="714" width="71" height="15" font="7"><i>Journal of</i></text>
+<text top="848" left="123" width="209" height="15" font="7"><i>Speech and Hearing Research</i></text>
+<text top="848" left="332" width="92" height="15" font="1"> 34, 613-620.</text>
+<text top="869" left="108" width="191" height="15" font="1">Gibbs, Raymond W., 1994. </text>
+<text top="869" left="300" width="139" height="15" font="7"><i>The Poetics of Mind</i></text>
+<text top="869" left="438" width="289" height="15" font="1">. Cambridge University Press, Cambridge.</text>
+<text top="889" left="108" width="677" height="15" font="1">Gibbs, Raymond, Nayak, Nandini, 1989. Psycholinguistic studies on the syntactic behaviour of idioms.</text>
+<text top="910" left="123" width="150" height="15" font="7"><i>Cognitive Psychology</i></text>
+<text top="910" left="273" width="92" height="15" font="1"> 21, 100-138.</text>
+<text top="930" left="108" width="676" height="15" font="1">Gibbs, Raymond W., Nayak, Nandini, Cutting, Cooper, 1989a. How to kick the bucket and not</text>
+<text top="951" left="123" width="333" height="15" font="1">decompose: Analyzability and idiom processing. </text>
+<text top="951" left="456" width="237" height="15" font="7"><i>Journal of Memory and Language</i></text>
+<text top="951" left="693" width="92" height="15" font="1"> 28, 576-593.</text>
+<text top="971" left="108" width="676" height="15" font="1">Gibbs, Raymond W., Nayak, Nandini, Bolton, John, Keppel, Melissa, 1989b. Speaker’s assumptions</text>
+<text top="992" left="123" width="257" height="15" font="1">about the lexical flexibility of idioms. </text>
+<text top="992" left="380" width="161" height="15" font="7"><i>Memory and Cognition</i></text>
+<text top="992" left="541" width="88" height="15" font="1"> 17/1, 58-68.</text>
+<text top="1012" left="108" width="169" height="15" font="1">Glucksberg, Sam, 2001. </text>
+<text top="1012" left="278" width="449" height="15" font="7"><i>Understanding Figurative Language: From Metaphors to Idioms</i></text>
+<text top="1012" left="727" width="58" height="15" font="1">. Oxford</text>
+<text top="1033" left="123" width="174" height="15" font="1">University Press, Oxford.</text>
+<text top="1053" left="108" width="676" height="15" font="1">Katz, Jerrold, 1973. Compositionality, idiomaticity, and lexical substitution. In: Anderson, S. Kiparsky,</text>
+<text top="1074" left="123" width="73" height="15" font="1">P.  (Eds.), </text>
+<text top="1074" left="196" width="201" height="15" font="7"><i>A festschrift for Morris Halle</i></text>
+<text top="1074" left="398" width="215" height="15" font="1">. Holt, New York, pp. 357-376.</text>
+<text top="1094" left="108" width="677" height="15" font="1">Keysar, Boaz, Bly, Briget, 1995. Intuitions of the transparency of idioms: Can one keep a secret by</text>
+<text top="1115" left="123" width="129" height="15" font="1">spilling the beans? </text>
+<text top="1115" left="252" width="237" height="15" font="7"><i>Journal of Memory and Language</i></text>
+<text top="1115" left="489" width="83" height="15" font="1"> 34, 89-109.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="133" left="337" width="394" height="15" font="7"><i>Relevance Theory and the construction of idiom meaning</i></text>
+<text top="133" left="759" width="26" height="15" font="1">323</text>
+<text top="171" left="108" width="677" height="15" font="1">Keysar, Boaz Bly, Bridget, 1999. Swimming against the current: Do idioms reflect conceptual</text>
+<text top="192" left="123" width="74" height="15" font="1">structure? </text>
+<text top="192" left="195" width="155" height="15" font="7"><i>Journal of Pragmatics</i></text>
+<text top="192" left="350" width="109" height="15" font="1"> 31, 1559-1578.</text>
+<text top="212" left="108" width="676" height="15" font="1">McGlone, Mathew S., Glucksberg, Sam Cacciari, Cristina, 1994. Semantic productivity in idiom</text>
+<text top="233" left="123" width="113" height="15" font="1">comprehension. </text>
+<text top="233" left="235" width="142" height="15" font="7"><i>Discourse Processes</i></text>
+<text top="233" left="378" width="92" height="15" font="1"> 17, 167-190.</text>
+<text top="253" left="108" width="180" height="15" font="1">Nunberg, Geoffrey, 1978. </text>
+<text top="253" left="289" width="204" height="15" font="7"><i>The Pragmatics of Reference.</i></text>
+<text top="253" left="493" width="243" height="15" font="1"> Indiana University Linguistic Club.</text>
+<text top="274" left="108" width="453" height="15" font="1">Nunberg, Geoffrey, Sag, Ivan A., Wasow, Thomas, 1994. Idioms. </text>
+<text top="274" left="561" width="73" height="15" font="7"><i>Language </i></text>
+<text top="274" left="634" width="106" height="15" font="1">70/ 3, 491-538.</text>
+<text top="294" left="108" width="677" height="15" font="1">Ortony, Andrew, Schallert, Diana L., Reynolds, Ralph E., Antos, Stephen J., 1978. Interpreting</text>
+<text top="315" left="123" width="446" height="15" font="1">metaphors and idioms: Some effects of context on comprehension. </text>
+<text top="315" left="569" width="216" height="15" font="7"><i>Journal of Verbal Learning and</i></text>
+<text top="335" left="123" width="122" height="15" font="7"><i>Verbal Behaviour</i></text>
+<text top="335" left="246" width="92" height="15" font="1"> 17, 465-477.</text>
+<text top="356" left="108" width="300" height="15" font="1">Sperber, Dan, Wilson, Deirdre, 1986/1995. </text>
+<text top="356" left="409" width="295" height="15" font="7"><i>Relevance: Communication and Cognition</i></text>
+<text top="356" left="703" width="81" height="15" font="1">. Blackwell,</text>
+<text top="376" left="123" width="53" height="15" font="1">Oxford.</text>
+<text top="397" left="108" width="607" height="15" font="1">Sperber, Dan, Wilson, Deirdre, 1998a. Pragmatics and time. In: Carston, R., Uchida, U. </text>
+<text top="397" left="715" width="70" height="15" font="7"><i>Relevance</i></text>
+<text top="417" left="123" width="265" height="15" font="7"><i>Theory: Applications and implications</i></text>
+<text top="417" left="388" width="276" height="15" font="1">. John Benjamins, Amsterdam, pp. 1-22.</text>
+<text top="438" left="108" width="677" height="15" font="1">Sperber, Dan, Wilson, Deirdre, 1998b. The mapping between the mental and the public lexicon. In:</text>
+<text top="458" left="123" width="221" height="15" font="1">Carruthers, P., Boucher, J. (Eds.), </text>
+<text top="458" left="346" width="158" height="15" font="7"><i>Language and Thought</i></text>
+<text top="458" left="503" width="282" height="15" font="1">. Cambridge University Press, Cambridge,</text>
+<text top="479" left="123" width="88" height="15" font="1">pp. 184-200.</text>
+<text top="499" left="108" width="676" height="15" font="1">Titone, Debra, Connine, Cynthia, 1999. On the compositional and noncompositional nature of idiomatic</text>
+<text top="520" left="123" width="87" height="15" font="1">expressions. </text>
+<text top="520" left="211" width="155" height="15" font="7"><i>Journal of Pragmatics</i></text>
+<text top="520" left="366" width="123" height="15" font="1"> 31/3, 1655-1674.</text>
+<text top="540" left="108" width="503" height="15" font="1">Vega-Moreno, Rosa Elena, 2001. Representing and Processing Idioms. </text>
+<text top="540" left="610" width="174" height="15" font="7"><i>UCL Working Papers in</i></text>
+<text top="561" left="123" width="82" height="15" font="7"><i>Linguistics </i></text>
+<text top="561" left="203" width="79" height="15" font="1">13, 73-107.</text>
+<text top="581" left="108" width="676" height="15" font="1">Wasow, Thomas, Sag, Ivan, Nunberg, Geoffrey, 1983. Idioms: An interim report. In: Hattori, S., Inoue,</text>
+<text top="602" left="123" width="71" height="15" font="1">K. (Eds.), </text>
+<text top="602" left="195" width="436" height="15" font="7"><i>Proceedings of the XIIIth International Congress of Linguistics</i></text>
+<text top="602" left="631" width="56" height="15" font="1">, Tokyo.</text>
+<text top="622" left="108" width="460" height="15" font="1">Wilson, Deirdre, Sperber, Dan, 2002a. Truthfulness and relevance. </text>
+<text top="622" left="568" width="40" height="15" font="7"><i>Mind </i></text>
+<text top="622" left="608" width="96" height="15" font="1">443, 583-632.</text>
+<text top="643" left="108" width="401" height="15" font="1">Wilson, Deirdre, Sperber, Dan, 2002b. Relevance Theory. </text>
+<text top="643" left="509" width="249" height="15" font="7"><i>UCL Working Papers in Linguistics</i></text>
+<text top="643" left="758" width="26" height="15" font="1"> 14,</text>
+<text top="663" left="123" width="62" height="15" font="1">149-287.</text>
+</page>
+<outline>
+<item page="1">Page 1</item>
+<item page="2">Page 2</item>
+<outline>
+<item page="2">x18245723</item>
+</outline>
+<item page="3">Page 3</item>
+<item page="4">Page 4</item>
+<item page="5">Page 5</item>
+<item page="6">Page 6</item>
+<item page="7">Page 7</item>
+<item page="8">Page 8</item>
+<item page="9">Page 9</item>
+<item page="10">Page 10</item>
+<item page="11">Page 11</item>
+<item page="12">Page 12</item>
+<item page="13">Page 13</item>
+<item page="14">Page 14</item>
+<item page="15">Page 15</item>
+<item page="16">Page 16</item>
+<item page="17">Page 17</item>
+<item page="18">Page 18</item>
+<item page="19">Page 19</item>
+<item page="20">Page 20</item>
+<item page="21">Page 21</item>
+</outline>
+</pdf2xml>

@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="36" family="Times" color="#000000"/>
+	<fontspec id="1" size="20" family="Times" color="#000000"/>
+	<fontspec id="2" size="23" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="20" family="Times" color="#000000"/>
+	<fontspec id="5" size="17" family="Times" color="#000000"/>
+	<fontspec id="6" size="18" family="Times" color="#000000"/>
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+<text top="136" left="108" width="702" height="32" font="0"><i><b>Quantifier Spreading by English and Korean</b></i></text>
+<text top="177" left="108" width="130" height="32" font="0"><i><b>Children</b></i></text>
+<text top="188" left="238" width="5" height="19" font="1"><i> </i></text>
+<text top="169" left="243" width="12" height="21" font="2"><i><b>*</b></i></text>
+<text top="261" left="108" width="182" height="18" font="3">HYE-KYUNG KANG</text>
+<text top="357" left="152" width="73" height="18" font="4"><b>Abstract</b></text>
+<text top="403" left="152" width="615" height="16" font="5">This paper argues that the phenomenon of quantifier spreading by young children has to</text>
+<text top="423" left="152" width="614" height="16" font="5">be analysed both cognitively and linguistically.  Evidence comes from the fact that the</text>
+<text top="443" left="152" width="614" height="16" font="5">visual input plays a key role in determining the children’s conceptual representation,</text>
+<text top="463" left="152" width="615" height="16" font="5">suggesting the need for the central integration of visual and linguistic elements.  In</text>
+<text top="483" left="152" width="615" height="16" font="5">contrast, the fact that spreading is commoner in the younger age groups and then gradually</text>
+<text top="502" left="152" width="614" height="16" font="5">disappears is explicable in terms of the maturation of the linguistic system.  It is claimed</text>
+<text top="522" left="152" width="614" height="16" font="5">that children initially treat quantifiers as modifiers, rather than functional heads, and that</text>
+<text top="542" left="152" width="615" height="16" font="5">quantifier spreading can be seen as one reason for the developmental delay of the relevant</text>
+<text top="562" left="152" width="330" height="16" font="5">functional category, DP, in language acquisition.</text>
+<text top="629" left="108" width="122" height="18" font="4"><b>1 Introduction</b></text>
+<text top="675" left="108" width="702" height="18" font="3">This paper investigates some aspects of the acquisition of children’s quantification.  It is</text>
+<text top="698" left="108" width="702" height="18" font="3">well known that young children tend to give a different interpretation from adults to</text>
+<text top="722" left="108" width="702" height="18" font="3">sentences with universal quantifiers such as <i>every</i>, <i>each</i> and <i>all</i> in certain contexts.  For</text>
+<text top="745" left="108" width="702" height="18" font="3">example, in a situation in which there are three agents and three objects such that each of</text>
+<text top="768" left="108" width="702" height="18" font="3">the agents is holding a different object one by one, satisfying some form of visual</text>
+<text top="792" left="108" width="230" height="18" font="3">symmetry, as depicted in (1):</text>
+<text top="907" left="108" width="217" height="16" font="6">                                                </text>
+<text top="924" left="123" width="6" height="10" font="7">*</text>
+<text top="927" left="129" width="682" height="16" font="5">I am very grateful to Neil Smith for his guidance and encouragement.  Many thanks are also due to</text>
+<text top="947" left="108" width="702" height="16" font="5">Ad Neeleman and Robyn Carston for their comments and suggestions, and to Tom Fearn for his help</text>
+<text top="967" left="108" width="702" height="16" font="5">with the statistics.  I also wish to thank Karen Froud for her help in running my experiment and for our</text>
+<text top="987" left="108" width="703" height="16" font="5">enjoyable discussions.  Finally I thank all the children, parents and teachers at St. Anthony’s RC Primary</text>
+<text top="1007" left="108" width="419" height="16" font="5">School in London and HaeWon Kindergarten in Pusan, Korea.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="17" family="Times" color="#000000"/>
+<text top="131" left="108" width="25" height="16" font="5">382</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="23" height="18" font="3">(1)</text>
+<text top="171" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="171" left="259" width="52" height="18" font="3">Object</text>
+<text top="195" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="195" left="259" width="52" height="18" font="3">Object</text>
+<text top="218" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="218" left="259" width="52" height="18" font="3">Object</text>
+<text top="265" left="108" width="699" height="18" font="3">children give the same positive response &#34;yes&#34; as adults do to the following question (2):</text>
+<text top="288" left="108" width="23" height="18" font="3">(2)</text>
+<text top="288" left="152" width="261" height="18" font="3">Is every agent holding an object?</text>
+<text top="334" left="108" width="701" height="18" font="3">However, in the case where another extra object is added to the situation (1), as shown in</text>
+<text top="358" left="108" width="29" height="18" font="3">(3):</text>
+<text top="404" left="108" width="23" height="18" font="3">(3)</text>
+<text top="404" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="404" left="259" width="52" height="18" font="3">Object</text>
+<text top="428" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="428" left="259" width="52" height="18" font="3">Object</text>
+<text top="451" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="451" left="259" width="52" height="18" font="3">Object</text>
+<text top="474" left="259" width="52" height="18" font="3">Object</text>
+<text top="521" left="108" width="702" height="18" font="3">they react to the same question (2) differently from adults.  That is, they deny the fact</text>
+<text top="544" left="108" width="702" height="18" font="3">that every agent is holding an object.  They give a negative response &#34;no&#34; to the</text>
+<text top="567" left="108" width="702" height="18" font="3">question,  pointing to the remaining object which is not being held as the reason for their</text>
+<text top="591" left="108" width="145" height="18" font="3">negative response.</text>
+<text top="614" left="123" width="675" height="18" font="3">In the converse situation where there is an extra agent left  without an object as in (4):</text>
+<text top="661" left="108" width="23" height="18" font="3">(4)</text>
+<text top="661" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="661" left="259" width="52" height="18" font="3">Object</text>
+<text top="684" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="684" left="259" width="52" height="18" font="3">Object</text>
+<text top="707" left="152" width="71" height="18" font="3">Agent -</text>
+<text top="707" left="259" width="52" height="18" font="3">Object</text>
+<text top="730" left="152" width="48" height="18" font="3">Agent</text>
+<text top="777" left="108" width="313" height="18" font="3">and confronted with the question in (5):</text>
+<text top="823" left="108" width="23" height="18" font="3">(5)</text>
+<text top="823" left="152" width="261" height="18" font="3">Is an agent holding every object?</text>
+<text top="870" left="108" width="702" height="18" font="3">children deny that an agent is holding every object because of the presence of the</text>
+<text top="893" left="108" width="113" height="18" font="3">isolated agent.</text>
+<text top="917" left="123" width="687" height="18" font="3">When we compare the above three different contexts, (1), (3) and (4), we get the</text>
+<text top="940" left="108" width="702" height="18" font="3">strong impression that context might affect children’s logical thinking about an input</text>
+<text top="963" left="108" width="702" height="18" font="3">sentence containing a quantifier.  The context (1) shows a one-to-one correspondence,</text>
+<text top="986" left="108" width="702" height="18" font="3">with which children have no problem of interpretation.  On the other hand, the contexts</text>
+<text top="1010" left="108" width="702" height="18" font="3">(3) and (4) do not satisfy &#34;visual symmetry&#34; so that children give a non-adult-like</text>
+<text top="1033" left="108" width="702" height="18" font="3">response.  The presence of the odd entity is somehow salient in their comprehension.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="13" family="Times" color="#000000"/>
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">383</text>
+<text top="171" left="108" width="702" height="18" font="3">Focusing on this fact, Philip (1995) claims that children prefer perfect one-to-one</text>
+<text top="195" left="108" width="702" height="18" font="3">symmetrical interpretations with universal quantification, and further that they quantify</text>
+<text top="218" left="108" width="702" height="18" font="3">over entire events rather than objects, suggesting that children and adults exploit</text>
+<text top="241" left="108" width="702" height="18" font="3">different logical forms.  In contrast to this hypothesis, Crain et al. (1996) argue that these</text>
+<text top="265" left="108" width="702" height="18" font="3">children’s symmetrical interpretations are errors due to flaws in experimental design, and</text>
+<text top="288" left="108" width="702" height="18" font="3">claim that children have no difficulty with the interpretation of quantifiers if &#34;felicitous&#34;</text>
+<text top="311" left="108" width="174" height="18" font="3">contexts are provided.</text>
+<text top="334" left="123" width="687" height="18" font="3">The children’s behaviour with regard to universal quantification is certainly erroneous</text>
+<text top="358" left="108" width="702" height="18" font="3">from an adult standpoint.  However, it is important to notice that these errors are</text>
+<text top="381" left="108" width="702" height="18" font="3">observed consistently in a certain young age group and further are manifest</text>
+<text top="404" left="108" width="148" height="18" font="3">crosslinguistically.</text>
+<text top="400" left="256" width="7" height="12" font="9">1</text>
+<text top="404" left="262" width="548" height="18" font="3">  They cannot then be plausibly attributed to flaws in experimental</text>
+<text top="428" left="108" width="702" height="18" font="3">design.  Rather, we need to determine what causes this kind of error in children’s but not</text>
+<text top="451" left="108" width="703" height="18" font="3">in adults’ interpretation.  Something must be different in the development of their logical</text>
+<text top="474" left="108" width="702" height="18" font="3">thinking or linguistic knowledge.   To investigate this, I report here on comparable</text>
+<text top="497" left="108" width="703" height="18" font="3">experiments carried out in English and Korean on the interpretation of universal</text>
+<text top="521" left="108" width="702" height="18" font="3">quantifiers by four-to-seven year old children.   To introduce the study, I first review</text>
+<text top="544" left="108" width="702" height="18" font="3">Philip’s (1995) event quantification hypothesis and Crain et al.’s (1996) experiments, and</text>
+<text top="567" left="108" width="702" height="18" font="3">then give the details of the present experiments.  The findings will be discussed in terms</text>
+<text top="591" left="108" width="484" height="18" font="3">of a comparison of both Philip’s and Crain et al.’s hypotheses.</text>
+<text top="638" left="108" width="416" height="18" font="4"><b>2 Philip’s (1995) Event Quantification Hypothesis</b></text>
+<text top="684" left="108" width="701" height="18" font="3">Philip (1995) tries to explain this peculiar behaviour by children with regard to universal</text>
+<text top="707" left="108" width="702" height="18" font="3">quantification by introducing the event quantification hypothesis.  This claims that</text>
+<text top="730" left="108" width="703" height="18" font="3">children interpret universal quantifiers as quantifying over events rather than individual</text>
+<text top="753" left="108" width="702" height="18" font="3">objects, in line with the Davidsonian (1967) thesis that natural language semantics is not</text>
+<text top="777" left="108" width="702" height="18" font="3">limited to quantification over individual objects but also includes quantification over</text>
+<text top="800" left="108" width="702" height="18" font="3">individual minimal events or situations.  That is, to children, unlike adults, the domain of</text>
+<text top="823" left="108" width="702" height="18" font="3">quantification consists of all minimal events which include the agent and the goal (or</text>
+<text top="847" left="108" width="702" height="18" font="3">object) involved in the event.  Let us briefly review Philip’s test sentences with matching</text>
+<text top="870" left="108" width="212" height="18" font="3">contexts or situations here:</text>
+<text top="917" left="108" width="23" height="18" font="3">(6)</text>
+<text top="917" left="152" width="245" height="18" font="3">a. Is every boy riding a pony?</text>
+<text top="940" left="152" width="273" height="18" font="3">b. Are the boys all riding a pony?</text>
+<text top="984" left="108" width="217" height="16" font="6">                                                </text>
+<text top="1002" left="124" width="6" height="10" font="7">1</text>
+<text top="1005" left="129" width="681" height="16" font="5"> Several studies show that  this error occurs in children acquiring French (Inhelder and Piaget (1958,</text>
+<text top="1025" left="108" width="702" height="16" font="5">1964)), English (Donaldson and Lloyd (1974)), Japanese (Philip (1995)), Chinese (Lee (1991)), Dutch</text>
+<text top="1044" left="108" width="528" height="16" font="5">(Philip  (1996), and Philip and Verrips (1994)), and Korean (the present work).</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">384</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="195" left="108" width="23" height="18" font="3">(7)</text>
+<text top="195" left="152" width="109" height="18" font="3">&lt;Context  A&gt;</text>
+<text top="195" left="438" width="103" height="18" font="3">&lt;Context B&gt;</text>
+<text top="241" left="152" width="197" height="18" font="3">Child:  Yes Adult:  Yes</text>
+<text top="241" left="438" width="83" height="18" font="3">Child:  No</text>
+<text top="241" left="540" width="188" height="18" font="3">Adult:  No, not that boy</text>
+<text top="288" left="152" width="137" height="18" font="3">boy1 rides pony1</text>
+<text top="288" left="438" width="137" height="18" font="3">boy1 rides pony1</text>
+<text top="311" left="152" width="137" height="18" font="3">boy2 rides pony2</text>
+<text top="311" left="438" width="137" height="18" font="3">boy2 rides pony2</text>
+<text top="334" left="152" width="137" height="18" font="3">boy3 rides pony3</text>
+<text top="334" left="438" width="137" height="18" font="3">boy3 rides pony3</text>
+<text top="358" left="152" width="37" height="18" font="3">girl1</text>
+<text top="358" left="438" width="40" height="18" font="3">boy4</text>
+<text top="404" left="152" width="103" height="18" font="3">&lt;Context C&gt;</text>
+<text top="404" left="438" width="104" height="18" font="3">&lt;Context D&gt;</text>
+<text top="451" left="152" width="221" height="18" font="3">Child:  No, not those ponies</text>
+<text top="451" left="438" width="197" height="18" font="3">Child:  No, not that pony</text>
+<text top="474" left="152" width="91" height="18" font="3">Adult:  Yes</text>
+<text top="474" left="438" width="91" height="18" font="3">Adult:  Yes</text>
+<text top="521" left="152" width="45" height="18" font="3">boy1 </text>
+<text top="521" left="438" width="137" height="18" font="3">boy1 rides pony1</text>
+<text top="544" left="152" width="40" height="18" font="3">boy2</text>
+<text top="544" left="216" width="159" height="18" font="3">together  ride pony1</text>
+<text top="544" left="438" width="137" height="18" font="3">boy2 rides pony2</text>
+<text top="567" left="152" width="44" height="18" font="3">boy3 </text>
+<text top="567" left="438" width="176" height="18" font="3">boy3 rides pony3        </text>
+<text top="591" left="438" width="37" height="18" font="3">girl1</text>
+<text top="614" left="152" width="37" height="18" font="3">girl1</text>
+<text top="614" left="216" width="49" height="18" font="3">pony2</text>
+<text top="614" left="438" width="49" height="18" font="3">pony4</text>
+<text top="637" left="216" width="49" height="18" font="3">pony3</text>
+<text top="661" left="123" width="58" height="18" font="3">            </text>
+<text top="661" left="702" width="29" height="18" font="3">      </text>
+<text top="684" left="108" width="703" height="18" font="3">As we can see in the contexts C and D of (7), children give different responses from</text>
+<text top="707" left="108" width="702" height="18" font="3">adults, pointing to the extra ponies as the reason for their negative responses.  Philip</text>
+<text top="730" left="108" width="702" height="18" font="3">explains this by saying that children quantify over the entire event ’a boy is riding a</text>
+<text top="753" left="108" width="702" height="18" font="3">pony.’  The extra ponies in the contexts C and D in (7) indicate a potential boy-ride-pony</text>
+<text top="777" left="108" width="702" height="18" font="3">event, and because these ponies are not being ridden by a boy, that is, they are not</text>
+<text top="800" left="108" width="702" height="18" font="3">involved in the event, it cannot be the case that, for all candidate boy-ride-pony-events, a</text>
+<text top="823" left="108" width="703" height="18" font="3">boy is riding a pony.  Children determine that the domain of quantification consists of all</text>
+<text top="847" left="108" width="702" height="18" font="3">minimal events which involve a boy or a pony (or both) in the case of a sentence such as</text>
+<text top="870" left="108" width="702" height="18" font="1"><i>Every boy is riding a pony</i>.  All such events are possible component subevents of an</text>
+<text top="893" left="108" width="562" height="18" font="3">event of ’a boy riding a pony.’   Therefore, they respond in the negative.</text>
+<text top="917" left="123" width="687" height="18" font="3">Philip represents the different logical forms for children and adults for the sentence</text>
+<text top="940" left="108" width="637" height="18" font="1"><i>Every boy is riding a pony</i>, by adopting the tripartite  formalism of Heim (1982):</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="20" family="Symbol" color="#000000"/>
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">385</text>
+<text top="171" left="108" width="23" height="18" font="3">(8)</text>
+<text top="171" left="152" width="493" height="18" font="3">Child logical form for the sentence <i>Every boy is riding a pony</i>.</text>
+<text top="208" left="324" width="11" height="18" font="3">S</text>
+<text top="271" left="123" width="15" height="18" font="3">Q</text>
+<text top="271" left="259" width="79" height="18" font="3">restriction</text>
+<text top="271" left="452" width="108" height="18" font="3">nuclear scope</text>
+<text top="323" left="123" width="14" height="26" font="10">∀</text>
+<text top="330" left="137" width="9" height="18" font="3">e</text>
+<text top="335" left="146" width="7" height="12" font="9">1</text>
+<text top="330" left="181" width="242" height="18" font="3">SUBEVENT(boy^ride^pony,e</text>
+<text top="335" left="424" width="7" height="12" font="9">1</text>
+<text top="330" left="430" width="141" height="18" font="3">)a boy is riding (e</text>
+<text top="335" left="571" width="7" height="12" font="9">1</text>
+<text top="330" left="578" width="65" height="18" font="3">) a pony</text>
+<text top="376" left="108" width="702" height="18" font="3">’All minimal events which are possible subevents of an event of a boy-riding-a pony are</text>
+<text top="400" left="108" width="306" height="18" font="3">events in which a boy is riding a pony’</text>
+<text top="459" left="108" width="23" height="18" font="3">(9)</text>
+<text top="459" left="152" width="494" height="18" font="3">Adult logical form for the sentence <i>Every boy is riding a pony</i>.</text>
+<text top="486" left="324" width="11" height="18" font="3">S</text>
+<text top="540" left="123" width="15" height="18" font="3">Q</text>
+<text top="540" left="259" width="79" height="18" font="3">restriction</text>
+<text top="540" left="452" width="108" height="18" font="3">nuclear scope</text>
+<text top="593" left="123" width="14" height="26" font="10">∀</text>
+<text top="599" left="137" width="10" height="18" font="3">x</text>
+<text top="599" left="270" width="57" height="18" font="3">boy (x)</text>
+<text top="599" left="452" width="199" height="18" font="3">a boy (x) is riding a pony</text>
+<text top="635" left="123" width="446" height="18" font="3">’For all objects x, such that x is a boy, x is riding a pony’</text>
+<text top="682" left="108" width="702" height="18" font="3">Thus  the child logical form (8) is argued to be similar to the adult logical form for</text>
+<text top="705" left="108" width="277" height="18" font="3">adverbial quantification, as in (10):</text>
+<text top="752" left="108" width="600" height="18" font="3">(10) Adult logical form for the sentence <i>The dogs always eat the cat’s food.</i></text>
+<text top="788" left="324" width="11" height="18" font="3">S</text>
+<text top="847" left="123" width="15" height="18" font="3">Q</text>
+<text top="847" left="259" width="79" height="18" font="3">restriction</text>
+<text top="847" left="452" width="108" height="18" font="3">nuclear scope</text>
+<text top="900" left="123" width="14" height="26" font="10">∀</text>
+<text top="906" left="137" width="9" height="18" font="3">e</text>
+<text top="906" left="181" width="29" height="18" font="3">      </text>
+<text top="906" left="270" width="35" height="18" font="3">R(e)</text>
+<text top="906" left="438" width="225" height="18" font="3">the dogs eat(e) the cat’s food</text>
+<text top="953" left="123" width="547" height="18" font="3">’All events in which R are events in which the dogs eat the cat’s food’</text>
+<text top="976" left="123" width="318" height="18" font="3">(e.g. R=when the cat is fed in the house)</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="18" family="Times" color="#000000"/>
+	<fontspec id="12" size="18" family="Symbol" color="#000000"/>
+<text top="131" left="108" width="25" height="16" font="5">386</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="702" height="18" font="3">Philip claims that a child who gives a symmetrical interpretation does not apply</text>
+<text top="195" left="108" width="702" height="18" font="3">Quantifier Raising, in the sense of May (1977), to a quantified DP, and consequently</text>
+<text top="218" left="108" width="702" height="18" font="3">does not derive an adult-like object quantificational logical form, in which the restriction</text>
+<text top="241" left="108" width="702" height="18" font="3">on the domain of quantification is determined syntactically.   The child rather assigns to</text>
+<text top="265" left="108" width="702" height="18" font="3">a sentence such as <i>Every boy is riding a pony</i> the logical form which an adult assigns to</text>
+<text top="288" left="108" width="702" height="18" font="3">a sentence containing a single adverb of quantification, e.g. <i>The dogs always eat the cat’s</i></text>
+<text top="311" left="108" width="40" height="18" font="1"><i>food</i>.</text>
+<text top="306" left="148" width="10" height="17" font="9">2 </text>
+<text top="311" left="158" width="5" height="18" font="3"> </text>
+<text top="334" left="123" width="688" height="18" font="3">This hypothesis assumes that each individual object is construed as representing an</text>
+<text top="358" left="108" width="702" height="18" font="3">event as well as an individual and that children prefer perfect one-to-one correspondence</text>
+<text top="381" left="108" width="702" height="18" font="3">between each subevent when interpreting universal quantifiers.   However, this</text>
+<text top="404" left="108" width="702" height="18" font="3">hypothesis fails to explain why children, in particular the symmetrical interpretation</text>
+<text top="428" left="108" width="702" height="18" font="3">children, have different representations for interpreting the quantifiers from the one</text>
+<text top="451" left="108" width="702" height="18" font="3">adults do, and how children’s logical form is changed ontogenetically into the adults’.</text>
+<text top="474" left="108" width="703" height="18" font="3">Further, this hypothesis incorrectly predicts that children concentrate only on the objects</text>
+<text top="497" left="108" width="702" height="18" font="3">which can be subevents of the event, but this is not always true.  The majority of</text>
+<text top="521" left="108" width="702" height="18" font="3">children involved in my experiments show that they are also concerned about a third</text>
+<text top="544" left="108" width="701" height="18" font="3">element, irrelevant to the event structure of the sentence.  For example, in the context</text>
+<text top="567" left="108" width="702" height="18" font="3">which there are three bears holding a honeypot each,  an extra honeypot and a third</text>
+<text top="591" left="108" width="702" height="18" font="3">element, a piglet, the children responded &#34;no&#34; to the question <i>Is every bear holding a</i></text>
+<text top="614" left="108" width="702" height="18" font="1"><i>honeypot?</i>, mentioning both the remaining honeypot and the isolated piglet, not just the</text>
+<text top="637" left="108" width="702" height="18" font="3">honeypot itself.  According to Philip (1995)’s event structure, the event of this sentence</text>
+<text top="661" left="108" width="702" height="18" font="3">will be [x holding y: here x=bear, y=honeypot], composing the subevents as ’bear’ and</text>
+<text top="684" left="108" width="703" height="18" font="3">’honeypot’.  <i>A piglet</i> has nothing to do with the event, but the children are still concerned</text>
+<text top="707" left="108" width="702" height="18" font="3">about it, mentioning, for example, &#34;this honeypot is left out and a piglet has nothing,&#34;</text>
+<text top="730" left="108" width="702" height="18" font="3">&#34;the piglet will have this honeypot (pointing to the remaining honeypot),&#34;  &#34;he is lonely,&#34;</text>
+<text top="753" left="108" width="702" height="18" font="3">&#34;he is going to get a honeypot,&#34; and so on.   That is, the presence of the isolated different</text>
+<text top="794" left="108" width="217" height="16" font="6">                                                </text>
+<text top="813" left="123" width="10" height="12" font="9">2 </text>
+<text top="815" left="134" width="676" height="16" font="6">Crain et al. (1996) criticized Philip, saying that &#34;this kind of mapping of syntactic and semantic</text>
+<text top="836" left="108" width="702" height="16" font="6">principles, that is, the assignment of a semantics to the universal quantifier that is appropriate for a</text>
+<text top="856" left="108" width="702" height="16" font="6">different type of quantificational element, an adverb of quantification, is not natural.&#34;  They rather</text>
+<text top="877" left="108" width="703" height="16" font="6">suggested that &#34;both children and adults use ’skolem functions’ in their semantic representations of</text>
+<text top="898" left="108" width="702" height="16" font="6">sentences with both a universal quantifier and an indefinite NP.&#34; (p.106-107)  According to their</text>
+<text top="918" left="108" width="594" height="16" font="6">analysis, the sentence <i>Every boy is riding a pony</i> is assigned a representation like (1):</text>
+<text top="941" left="123" width="158" height="16" font="6">(1) <i>f</i>(boy ==&gt; pony)   </text>
+<text top="935" left="281" width="13" height="23" font="12">∀</text>
+<text top="941" left="293" width="212" height="16" font="6">(x) [ boy (x) --&gt; ride (x, f(x)) ]</text>
+<text top="961" left="108" width="702" height="16" font="6">where &#34;==&gt;&#34; indicates that <i>f </i>is a function from individuals to individuals.  They explained that</text>
+<text top="982" left="108" width="702" height="16" font="6">&#34;children assign the representation (1) to the question <i>Is every boy riding a pony?</i>, but interpret the</text>
+<text top="1003" left="108" width="702" height="16" font="6">question to be asking whether the function, <i>f</i>, is <i>onto</i> (i.e., if the range of the function is exhausted).</text>
+<text top="1023" left="108" width="558" height="16" font="6">In the adult grammar, however, the function is not required to be <i>onto</i>.&#34; (p. 107)</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">387</text>
+<text top="171" left="108" width="702" height="18" font="3">agent, here ’a piglet,’ can also be a part of  the reason why the children deny the question</text>
+<text top="195" left="108" width="167" height="18" font="3">in the input sentence.</text>
+<text top="242" left="108" width="175" height="18" font="4"><b>3 Crain et al’s (1996)</b></text>
+<text top="288" left="108" width="702" height="18" font="3">Crain et al. (1996) criticize Philip’s (1995) symmetrical account of children’s behaviour</text>
+<text top="311" left="108" width="702" height="18" font="3">with universal quantification and claim that children’s symmetrical responses to</text>
+<text top="334" left="108" width="702" height="18" font="3">universal quantification reported in previous research are due to the use of infelicitous</text>
+<text top="358" left="108" width="702" height="18" font="3">contexts.  To prove this, they carried out several experiments, of which one replicated</text>
+<text top="381" left="108" width="702" height="18" font="3">those of previous experiments from Piaget to Philip, and the others used a different</text>
+<text top="404" left="108" width="702" height="18" font="3">methodology, the Truth Value Judgement Task, which, they believe, satisfies ’the</text>
+<text top="428" left="108" width="703" height="18" font="3">condition of plausible dissent.’   The condition of plausible dissent asserts that the</text>
+<text top="451" left="108" width="702" height="18" font="3">negation of the proposition in the question can also be a possible outcome so that it has</text>
+<text top="474" left="108" width="702" height="18" font="3">to be presented explicitly in the context.  They assume that if the condition is satisfied,</text>
+<text top="497" left="108" width="703" height="18" font="3">the presence of an extra object in the context should not influence the interpretation</text>
+<text top="521" left="108" width="702" height="18" font="3">children assign to the target test question.  Experiments 1 and 2, from their seven</text>
+<text top="544" left="108" width="320" height="18" font="3">experiments, are briefly introduced here.</text>
+<text top="567" left="123" width="687" height="18" font="3">The first part of Experiment 1 replicates previous research, using the same</text>
+<text top="591" left="108" width="702" height="18" font="3">methodology with pictures corresponding to the Extra Object Condition in which, for</text>
+<text top="614" left="108" width="702" height="18" font="3">example, three farmers are each feeding a different donkey and there is an extra donkey</text>
+<text top="637" left="108" width="702" height="18" font="3">not being fed.  Among 34 children ranged in age from 3;0 to 5;10 with a mean age of</text>
+<text top="661" left="108" width="702" height="18" font="3">4;4,  there was found a group of 14 children who gave symmetrical responses 82% of</text>
+<text top="684" left="108" width="702" height="18" font="3">the time, (compared to an overall incidence of symmetrical responses of 35%).  This</text>
+<text top="707" left="108" width="702" height="18" font="3">group of children answered &#34;No&#34; to questions like <i>Is every farmer feeding a donkey?</i> in</text>
+<text top="730" left="108" width="702" height="18" font="3">the Extra Object Condition, pointing to the extra donkey as the reason for their negative</text>
+<text top="753" left="108" width="81" height="18" font="3">responses.</text>
+<text top="777" left="123" width="687" height="18" font="3">Crain et al. used these 14 children in their second experiment, which used the Truth</text>
+<text top="800" left="108" width="702" height="18" font="3">Value Judgement task, to find out whether the satisfaction of plausible dissent can</text>
+<text top="823" left="108" width="702" height="18" font="3">reduce or eliminate the symmetrical interpretation.  In this task, short stories are acted</text>
+<text top="847" left="108" width="702" height="18" font="3">out with toys and props by one experimenter.  The stories are watched by a child and a</text>
+<text top="870" left="108" width="702" height="18" font="3">puppet, Kermit the Frog, which is played by a second experimenter.  After each story,</text>
+<text top="893" left="108" width="702" height="18" font="3">Kermit the Frog says what he thinks happened in the story.  The child is asked to</text>
+<text top="917" left="108" width="702" height="18" font="3">indicate whether Kermit’s description of the story is true or false.  If Kermit is correct,</text>
+<text top="940" left="108" width="702" height="18" font="3">according to the child, the child pretends to feed him something tasty, but if Kermit says</text>
+<text top="963" left="108" width="702" height="18" font="3">something that did not happen in the story, the child pretends to feed something nasty to</text>
+<text top="986" left="108" width="702" height="18" font="3">remind him to pay closer attention.  Whenever Kermit says the wrong thing, the child is</text>
+<text top="1010" left="108" width="702" height="18" font="3">encouraged to explain to him &#34;what really happened&#34; in the story.  Here is the example</text>
+<text top="1033" left="108" width="448" height="18" font="3">of the story in Experiment 2 (Crain et al. (1996, p. 126)):</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">388</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="195" left="108" width="290" height="18" font="3">(11) <i>Characters and Crucial Props</i>:</text>
+<text top="218" left="152" width="307" height="18" font="3">Three skiers (a mom and her two girls)</text>
+<text top="241" left="152" width="378" height="18" font="3">Five bottles of soda and five cups of apple cider</text>
+<text top="265" left="152" width="403" height="18" font="3">A Styrofoam mountain, with an arch to ski through</text>
+<text top="311" left="108" width="75" height="18" font="1"><i>Protocol</i>:</text>
+<text top="358" left="108" width="702" height="18" font="3">Exp: In this story, this mom and her two girls go skiing.  They’re going to ski down this</text>
+<text top="381" left="108" width="702" height="18" font="3">mountain here and try to ski through this arch.  Over here are the drinks at the ski lodge</text>
+<text top="404" left="108" width="702" height="18" font="3">for when they’ve finished skiing.  First, they all go on the ski lift to the top of the</text>
+<text top="428" left="108" width="397" height="18" font="3">mountain.  Then, this girl skis down the mountain.</text>
+<text top="474" left="108" width="702" height="18" font="3">Girl 1:  This looks a bit scary.  Here I go!  Whee!  Oops, here comes the arch.  Yeah I</text>
+<text top="497" left="123" width="582" height="18" font="3">made it!  &lt;first girl skis down the mountain, and safely through the arch&gt;.</text>
+<text top="521" left="108" width="702" height="18" font="3">Girl 2: Now it’s my turn.  Whee!  Oops, I nearly fell.  But I made it.  Yeah!&lt;second girl</text>
+<text top="544" left="123" width="423" height="18" font="3">skis down the mountain and safely through the arch&gt;.</text>
+<text top="567" left="108" width="703" height="18" font="3">Mom:  OK  girls, watch me.  Whee!  Oh wow, I didn’t realize this arch was so low,  I’ll</text>
+<text top="591" left="123" width="687" height="18" font="3">have to really bend down to make it through &lt;mom skis down mountain, but barely</text>
+<text top="614" left="123" width="687" height="18" font="3">makes it through the arch&gt;.  Oh girls, that gave me a real fright.  I almost banged into</text>
+<text top="637" left="123" width="687" height="18" font="3">the arch.  Let’s go in now and get a drink  &lt;mom and girls go over to drinks set out on</text>
+<text top="661" left="123" width="687" height="18" font="3">a table&gt;.   I’ll have a cup of this nice hot apple cider.  This will help calm me down</text>
+<text top="684" left="123" width="226" height="18" font="3">&lt;mom takes a cup of cider&gt;.</text>
+<text top="707" left="108" width="516" height="18" font="3">Girl 1:  Oh, look at these sodas.  I want this bottle of orange soda.</text>
+<text top="730" left="108" width="258" height="18" font="3">Girl 2:  I want this bottle of cola.</text>
+<text top="753" left="108" width="702" height="18" font="3">Mom:  Girls, don’t take a bottle of soda.  You should have a cup of hot apple cider so</text>
+<text top="777" left="123" width="452" height="18" font="3">you get nice and warm.  You can have soda another time.</text>
+<text top="800" left="108" width="377" height="18" font="3">Girl 1:  OK.  I’ll take this cup, it’s full to the top.</text>
+<text top="823" left="108" width="702" height="18" font="3">Girl 2:  I want a full cup too.  Are any of these other cups of cider full?  Oh, this one</text>
+<text top="847" left="123" width="403" height="18" font="3">looks very full.  I’ll have this one.  Mmm, it’s good.</text>
+<text top="870" left="108" width="702" height="18" font="3">Kermit:  That was a hard story, but I think I know something that happened.  Every skier</text>
+<text top="893" left="123" width="240" height="18" font="3">drank a cup of hot apple cider.</text>
+<text top="917" left="108" width="50" height="18" font="3">Child:</text>
+<text top="917" left="181" width="36" height="18" font="3">Yes.</text>
+<text top="940" left="108" width="16" height="18" font="3">or</text>
+<text top="940" left="181" width="489" height="18" font="3">No, not these cups of apple cider. (symmetrical interpretation)</text>
+<text top="986" left="108" width="703" height="18" font="3">In the results, twelve of the 14 children who had consistently given symmetrical</text>
+<text top="1010" left="108" width="702" height="18" font="3">interpretations in Experiment 1 responded &#34;Yes&#34; on all four trials of this experiment.</text>
+<text top="1033" left="108" width="701" height="18" font="3">Even the remaining two children, who rejected the target sentences, are claimed to have</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">389</text>
+<text top="171" left="108" width="702" height="18" font="3">done so not because they assigned a symmetrical interpretation to the target sentences.</text>
+<text top="195" left="108" width="702" height="18" font="3">The two children rejected Kermit’s statements because of the use of <i>every</i> to refer to sets</text>
+<text top="218" left="108" width="702" height="18" font="3">with three or fewer members.  They are reported as insisting that Kermit should specify</text>
+<text top="241" left="108" width="702" height="18" font="3">the exact number of individuals, for example, <i>Three skiers drank a cup of hot apple</i></text>
+<text top="265" left="108" width="702" height="18" font="1"><i>cider</i>, and in the follow-up session in which there were five characters corresponding to</text>
+<text top="288" left="108" width="659" height="18" font="3">the quantified NP <i>every skier</i>, they accepted sentences with the universal quantifier.</text>
+<text top="311" left="123" width="687" height="18" font="3">From the contrasting results of Experiments 1 and 2, Crain et al. argue that when</text>
+<text top="334" left="108" width="702" height="18" font="3">felicitous contexts are presented, the symmetrical interpretation by children is</text>
+<text top="358" left="108" width="702" height="18" font="3">eliminated.  In the story (11) the mother takes a cup of apple cider, but the children are</text>
+<text top="381" left="108" width="702" height="18" font="3">tempted by the sodas.  The mother persuades the children to drink apple cider instead,</text>
+<text top="404" left="108" width="702" height="18" font="3">because it will help warm them up.  The children each have a cup of apple cider.  In this</text>
+<text top="428" left="108" width="702" height="18" font="3">situation, Crain et al. argue that it is felicitous to say &#34;Yes&#34; to Kermit’s description <i>Every</i></text>
+<text top="451" left="108" width="702" height="18" font="1"><i>skier drank a cup of hot apple cider</i> because the negation of the sentence was under</text>
+<text top="474" left="108" width="703" height="18" font="3">consideration.  Further they mention that the situation also falsifies the symmetrical</text>
+<text top="497" left="108" width="702" height="18" font="3">interpretation of the test sentences because there were extra cups of hot apple cider left</text>
+<text top="521" left="108" width="702" height="18" font="3">over at the end of the story and the extra cups were even highlighted in the story by the</text>
+<text top="544" left="108" width="702" height="18" font="3">children checking that the cups of apple cider were filled to the top.  Therefore they</text>
+<text top="567" left="108" width="702" height="18" font="3">conclude that children have full grammatical knowledge of universal quantification and</text>
+<text top="591" left="108" width="702" height="18" font="3">the non-adult-like responses with regard to universal quantification reported by previous</text>
+<text top="614" left="108" width="702" height="18" font="3">research are due to flaws in the experimental design, that is, the non-satisfaction of</text>
+<text top="637" left="108" width="168" height="18" font="3">felicitous contexts.    </text>
+<text top="684" left="108" width="384" height="18" font="4"><b>4 Experiments: English and Korean Children</b></text>
+<text top="730" left="108" width="702" height="18" font="3">Against this background I carried out comparable experiments in English and Korean</text>
+<text top="753" left="108" width="702" height="18" font="3">with regard to children’s interpretation of universal quantifiers.  Experiment I included</text>
+<text top="777" left="108" width="702" height="18" font="3">59 English primary school children ranging in age from 4;5 to 7;5 with a mean age of</text>
+<text top="800" left="108" width="702" height="18" font="3">5;8 and Experiment II included 62 Korean kindergarten and primary school children in</text>
+<text top="823" left="108" width="479" height="18" font="3">Korea ranging in age from 4;3 to 7;7 with a mean age of 5;6.</text>
+<text top="847" left="123" width="687" height="18" font="3">The aim of these experiments was to replicate the phenomenon of quantifier spreading</text>
+<text top="870" left="108" width="702" height="18" font="3">which young children show in their comprehension of universal quantifiers such as</text>
+<text top="893" left="108" width="702" height="18" font="1"><i>every</i>, <i>each </i>and<i> all</i> <i> (</i> and also their Korean equivalents <i>modun</i>, <i>kakkak</i> and <i>modun </i>-<i>tul</i>).</text>
+<text top="917" left="108" width="702" height="18" font="3">Firstly, I investigated the effect of varying the relative order of quantified NPs and</text>
+<text top="940" left="108" width="651" height="18" font="3">indefinite NPs in the simple sentences to see if there were directionality effects.</text>
+<text top="935" left="759" width="7" height="12" font="9">3</text>
+<text top="940" left="765" width="45" height="18" font="3">  The</text>
+<text top="1004" left="108" width="217" height="16" font="6">                                                </text>
+<text top="1021" left="124" width="6" height="10" font="7">3</text>
+<text top="1025" left="129" width="681" height="16" font="5"> Philip and Aurelio (1991) tried to find out if there is any effect on the incidence of quantifier</text>
+<text top="1044" left="108" width="702" height="16" font="5">spreading of placing the universal quantifier <i>every</i> in syntactic object position as opposed to subject</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">390</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="702" height="18" font="3">phenomenon of right spreading (or forward spreading) with the order of universal</text>
+<text top="195" left="108" width="702" height="18" font="3">quantifiers <i>every </i>(<i>modun</i>), <i>each </i>(<i>kakkak</i>) and <i>all </i>(<i>modun -tul</i>) in the subject position and</text>
+<text top="218" left="108" width="702" height="18" font="1"><i>a singular noun</i> in the object position, and the phenomenon of left spreading (or</text>
+<text top="241" left="108" width="702" height="18" font="3">backward spreading) with <i>a singular noun</i> in<i>  </i>the subject position and universal</text>
+<text top="265" left="108" width="702" height="18" font="3">quantifiers in the object position were controlled in this experiment.  Secondly, the</text>
+<text top="288" left="108" width="702" height="18" font="3">difference in children’s performance between structures with a transitive verb and an</text>
+<text top="311" left="108" width="702" height="18" font="3">intransitive verb with a prepositional phrase was examined.  Finally, comparing the</text>
+<text top="334" left="108" width="702" height="18" font="3">results from English and Korean experiments, I examined whether the same</text>
+<text top="358" left="108" width="596" height="18" font="3">phenomenon is  found in the interpretation by English and Korean children.</text>
+<text top="405" left="108" width="337" height="18" font="4"><b>4.1 Test sentences and Control Contexts</b></text>
+<text top="451" left="108" width="702" height="18" font="3">All the test sentences were composed of simple structures with a transitive verb or an</text>
+<text top="474" left="108" width="702" height="18" font="3">intransitive verb with a prepositional phrase.  The test sentences were classified into four</text>
+<text top="497" left="108" width="270" height="18" font="3">groups according to the variances:</text>
+<text top="544" left="108" width="114" height="18" font="3">Group 1 (RT):</text>
+<text top="544" left="259" width="296" height="18" font="3">Is <i>every</i> bear holding a honeypot? (E)</text>
+<text top="539" left="555" width="7" height="12" font="9">4</text>
+<text top="567" left="259" width="353" height="18" font="1"><i>modun</i> kom-i kkultong-ul tulgo isseoyo? (K)</text>
+<text top="563" left="612" width="7" height="12" font="9">5</text>
+<text top="591" left="259" width="261" height="18" font="3">Is <i>each</i> bear holding a honeypot?</text>
+<text top="614" left="259" width="353" height="18" font="1"><i>kakkak</i>-uy  kom-i kkultong-ul tulgo isseoyo?</text>
+<text top="637" left="259" width="297" height="18" font="3">Are <i>all</i> the bears holding a honeypot?</text>
+<text top="661" left="259" width="353" height="18" font="1"><i>modun</i>  kom-<i>tul</i>-i kkultong-ul tulgo isseoyo?</text>
+<text top="656" left="612" width="7" height="12" font="9">6</text>
+<text top="744" left="108" width="706" height="18" font="3">                                                                                                                                            </text>
+<text top="767" left="108" width="702" height="16" font="5">position.  They found very high rates of spreading errors in both cases, <i>every/a</i> and <i>a/every</i>, but no</text>
+<text top="787" left="108" width="638" height="16" font="5">significant difference between them :  84% spreading errors in the former and 90% in the latter.</text>
+<text top="803" left="124" width="6" height="10" font="7">4</text>
+<text top="807" left="129" width="681" height="16" font="5"> The same types of sentences were constructed for the different pictures by substituting the relevant</text>
+<text top="826" left="108" width="702" height="16" font="5">words.  For example, the sentence <i>Is every caterpillar carrying a ladybird?</i> was made for the picture</text>
+<text top="846" left="108" width="570" height="16" font="5">[caterpillar-ladybird] and <i>Is every train pulling a coach? </i>for the picture [train-coach].</text>
+<text top="882" left="124" width="6" height="10" font="7">5</text>
+<text top="886" left="129" width="681" height="16" font="5"> Korean also has universal quantifiers with functions similar to the English quantifiers.  It contains</text>
+<text top="906" left="108" width="702" height="16" font="5">strong and weak quantifiers with semantic properties like English, and most quantifiers in Korean can be</text>
+<text top="925" left="108" width="702" height="16" font="5">floated in a sentence like adverbials, such as <i>all </i>or <i>each </i>in English.  The Korean equivalent of <i>every</i> is</text>
+<text top="945" left="108" width="702" height="16" font="5">’<i>modun</i>’; <i>each </i>’k<i>akkak’</i>; and a<i>ll </i>’<i>modwu’ </i>(in the case of the use as an adverbial) or ’<i>modun’</i> (in the case of</text>
+<text top="965" left="108" width="224" height="16" font="5">the use as a modifying adjective).</text>
+<text top="1002" left="124" width="6" height="10" font="7">6</text>
+<text top="1005" left="129" width="681" height="16" font="5"> <i>-tul</i> is the plural marker in Korean.  However, in Korean both expressions with and without the plural</text>
+<text top="1025" left="108" width="702" height="16" font="5">marker are acceptable.  Here the Korean equivalent of English <i>every </i>is spelt out as <i>modun</i> and that of <i>all</i></text>
+<text top="1044" left="108" width="689" height="16" font="5">as <i>modun</i> (NP)-<i>tul</i>, though the contrast in Korean is one of preference rather than strict grammaticality.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">391</text>
+<text top="171" left="108" width="414" height="18" font="3">Group 2 (RINT): Is <i>every</i> ladybird on a caterpillar?</text>
+<text top="195" left="259" width="358" height="18" font="1"><i>modun</i> moodangbulle-ka ebulle-uye isseoyo?</text>
+<text top="218" left="259" width="258" height="18" font="3">Is <i>each</i> ladybird on a caterpillar?</text>
+<text top="241" left="259" width="385" height="18" font="1"><i>kakkak</i>-uy moodangbulle-ka ebulle-uye isseoyo?</text>
+<text top="265" left="259" width="294" height="18" font="3">Are <i>all</i> the ladybirds on a caterpillar?</text>
+<text top="288" left="259" width="376" height="18" font="1"><i>modun</i> moodangbulle-<i>tul</i>-i  ebulle-uye isseoyo?</text>
+<text top="334" left="108" width="113" height="18" font="3">Group 3 (LT):</text>
+<text top="334" left="259" width="267" height="18" font="3">Is a bear holding <i>every</i> honeypot?</text>
+<text top="358" left="259" width="321" height="18" font="3">kom-i <i>modun</i> kkultong-ul tulgo isseoyo?</text>
+<text top="381" left="259" width="261" height="18" font="3">Is a bear holding <i>each</i> honeypot?</text>
+<text top="404" left="259" width="348" height="18" font="3">kom-i <i>kakkak</i>-uy kkultong-ul tulgo isseoyo?</text>
+<text top="428" left="259" width="281" height="18" font="3">Is a bear holding <i>all</i> the honeypots?</text>
+<text top="451" left="259" width="348" height="18" font="3">kom-i <i>modun</i> kkultong-<i>tul</i>-ul tulgo isseoyo?</text>
+<text top="497" left="108" width="523" height="18" font="3">Group 4 (LINT): Is there a baby behind <i>every</i> mummy elephant?</text>
+<text top="521" left="259" width="417" height="18" font="3">aki khokkiri-ka <i>modun</i> umma khokkiri tuye isseoyo?</text>
+<text top="544" left="259" width="368" height="18" font="3">Is there a baby behind <i>each</i> mummy elephant?</text>
+<text top="567" left="259" width="445" height="18" font="3">aki khokkiri-ka <i>kakkak</i>-uy umma khokkiri tuye isseoyo?</text>
+<text top="591" left="259" width="388" height="18" font="3">Is there a baby behind <i>all</i> the mummy elephants?</text>
+<text top="614" left="270" width="445" height="18" font="3">aki khokkiri-ka <i>modun</i> umma khokkiri-<i>tul</i> tuye isseoyo?</text>
+<text top="661" left="108" width="31" height="18" font="3">RT:</text>
+<text top="661" left="181" width="215" height="18" font="3">Right Spreading-Transitive</text>
+<text top="684" left="108" width="52" height="18" font="3">RINT:</text>
+<text top="684" left="181" width="225" height="18" font="3">Right Spreading-Intransitive</text>
+<text top="707" left="108" width="30" height="18" font="3">LT:</text>
+<text top="707" left="181" width="204" height="18" font="3">Left Spreading-Transitive</text>
+<text top="730" left="108" width="51" height="18" font="3">LINT:</text>
+<text top="730" left="181" width="214" height="18" font="3">Left Spreading-Intransitive</text>
+<text top="777" left="108" width="353" height="18" font="3">Six different control contexts were prepared:</text>
+<text top="823" left="108" width="83" height="18" font="3">Context 1:</text>
+<text top="823" left="216" width="277" height="18" font="3">extra object &amp; extra different agent</text>
+<text top="847" left="216" width="594" height="18" font="3">(There are three bears holding a honeypot each, an extra honeypot not</text>
+<text top="870" left="216" width="243" height="18" font="3">being held, and a piglet alone.)</text>
+<text top="917" left="108" width="83" height="18" font="3">Context 2:</text>
+<text top="917" left="216" width="264" height="18" font="3">different agent (visual symmetry)</text>
+<text top="940" left="216" width="594" height="18" font="3">(Three bears are holding a honeypot each, and a piglet is also holding a</text>
+<text top="963" left="216" width="85" height="18" font="3">honeypot.)</text>
+<text top="1010" left="108" width="83" height="18" font="3">Context 3:</text>
+<text top="1010" left="216" width="266" height="18" font="3">many to one, extra different agent</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">392</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="216" width="594" height="18" font="3">(There are three bears, among which just one bear is holding all three</text>
+<text top="195" left="216" width="552" height="18" font="3">honeypots and the other two are not, just standing, and a piglet alone.)</text>
+<text top="241" left="108" width="83" height="18" font="3">Context 4:</text>
+<text top="241" left="216" width="87" height="18" font="3">extra agent</text>
+<text top="265" left="216" width="594" height="18" font="3">(There are four bears, among them three bears are holding a honeypot</text>
+<text top="288" left="216" width="343" height="18" font="3">each, and a bear alone without a honeypot.)</text>
+<text top="334" left="108" width="83" height="18" font="3">Context 5:</text>
+<text top="334" left="216" width="270" height="18" font="3">different object (visual symmetry)</text>
+<text top="358" left="216" width="594" height="18" font="3">(There are four bears, in which three bears are holding a honeypot each</text>
+<text top="381" left="216" width="347" height="18" font="3">and one bear is holding a bunch of flowers.)</text>
+<text top="428" left="108" width="83" height="18" font="3">Context 6:</text>
+<text top="428" left="216" width="389" height="18" font="3">many to one, extra object &amp;  extra different agent</text>
+<text top="451" left="216" width="594" height="18" font="3">(There are three bears, among them just one bear is holding three</text>
+<text top="474" left="216" width="594" height="18" font="3">honeypots and the other two are not, just standing, a piglet alone, and an</text>
+<text top="497" left="216" width="246" height="18" font="3">extra honeypot not being held.)</text>
+<text top="544" left="108" width="702" height="18" font="3">For the sentences belonging to Group 1, Contexts 1 and 2 have the positive (adult)</text>
+<text top="567" left="108" width="702" height="18" font="3">response &#34;yes,&#34; but  Contexts 3, 4, 5 and 6 have the negative (adult) response &#34;no.&#34;  In</text>
+<text top="591" left="108" width="702" height="18" font="3">contrast, in the case of the sentences of Group 2, Contexts 3, 4 and 5 yield &#34;yes&#34; as the</text>
+<text top="614" left="108" width="702" height="18" font="3">right answer, but Contexts 1, 2 and 6 yield &#34;no&#34; as the right answer.   For the sentences</text>
+<text top="637" left="108" width="702" height="18" font="3">of Group 3, Contexts 3, 4 and 5 yield &#34;yes&#34; as the right answer, but Contexts 1, 2 and 6</text>
+<text top="661" left="108" width="702" height="18" font="3">give the negative response &#34;no.&#34;   Finally, for the sentences of Group 4, Contexts 1 and 2</text>
+<text top="684" left="108" width="690" height="18" font="3">have &#34;yes&#34; as the right answer, but Contexts 3, 4, 5 and 6 have &#34;no&#34; as the right answer.</text>
+<text top="731" left="108" width="246" height="18" font="4"><b>4.2 Materials and procedures</b></text>
+<text top="777" left="108" width="702" height="18" font="3">Children were shown pictures individually and asked Yes/No questions via the use of a</text>
+<text top="800" left="108" width="702" height="18" font="3">tape-recorder.  There were 24 pictures corresponding to the six control contexts:  the sets</text>
+<text top="823" left="108" width="702" height="18" font="3">of [bear and honeypot]; [caterpillar and ladybird]; [train and coach]; and [baby and</text>
+<text top="847" left="108" width="579" height="18" font="3">mummy elephant].  The same pictures were used in Experiments I and II.</text>
+<text top="870" left="123" width="687" height="18" font="3">When the experimenter showed a picture, the child was encouraged to describe the</text>
+<text top="893" left="108" width="702" height="18" font="3">picture by asking questions such as <i>What can you see here?</i>,  <i>What are they doing?</i>,</text>
+<text top="917" left="108" width="702" height="18" font="1"><i>How many bears are there?</i>, <i>How many honeypots are there?</i>, etc..  Children normally</text>
+<text top="940" left="108" width="702" height="18" font="3">enumerated each item in the picture, for example, &#34;this bear (pointing to each item with</text>
+<text top="963" left="108" width="702" height="18" font="3">their finger) is holding a honeypot, this bear is holding a honeypot, this bear is holding a</text>
+<text top="986" left="108" width="702" height="18" font="3">honeypot as well, but this honeypot has no bear, there is no bear on this honeypot, or</text>
+<text top="1010" left="108" width="702" height="18" font="3">nobody is holding this honeypot, and this piglet is alone, he is not holding a honeypot,</text>
+<text top="1033" left="108" width="702" height="18" font="3">he is lonely,&#34; etc..  Therefore it is clear that the children were conscious of the details of</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">393</text>
+<text top="171" left="108" width="702" height="18" font="3">the picture before they listened to the test question.  In this respect, the negation of the</text>
+<text top="195" left="108" width="702" height="18" font="3">proposition in the question, that is, &#34;the condition of plausible dissent&#34; which is</text>
+<text top="218" left="108" width="703" height="18" font="3">suggested by Crain et al. (1996), can be said to be under consideration.  That is, for the</text>
+<text top="241" left="108" width="702" height="18" font="3">proposition ’every bear is holding a honeypot’ of the sentence <i>Is every bear holding a</i></text>
+<text top="265" left="108" width="702" height="18" font="1"><i>honeypot?</i>, the Context 3, 4, 5 or 6 each provides the situation which demonstrates the</text>
+<text top="288" left="108" width="702" height="18" font="3">negation of the proposition.  When those contexts were shown to each child, s/he</text>
+<text top="311" left="108" width="702" height="18" font="3">described them, using the negation, for example, &#34;these two bears are not holding a</text>
+<text top="334" left="108" width="702" height="18" font="3">honeypot, this bear is holding all the honeypots, and also this piglet is not holding a</text>
+<text top="358" left="108" width="702" height="18" font="3">honeypot&#34; for Context 3; &#34;this bear is not holding a honeypot&#34; for Context 4; and &#34;this</text>
+<text top="381" left="108" width="701" height="18" font="3">bear is not holding a honeypot, he is holding flowers&#34; for Context 5, and so on.  The</text>
+<text top="404" left="108" width="702" height="18" font="3">children by themselves agreed with the fact that not every bear is holding a honeypot in</text>
+<text top="428" left="108" width="702" height="18" font="3">those contexts.  Then the other experimenter played the question on the tape recorder.</text>
+<text top="451" left="108" width="703" height="18" font="3">When a child was not sure of the answer, the question was repeated.  When a child</text>
+<text top="474" left="108" width="702" height="18" font="3">answered ’no’, the follow-up questions &#34;Why not?&#34; or &#34;Why did you say &#34;no&#34;?&#34; were</text>
+<text top="497" left="108" width="702" height="18" font="3">asked.  The responses were ticked  ’yes’ or ’no’, and notes were jotted down on the blank</text>
+<text top="521" left="108" width="702" height="18" font="3">side of the test paper.  All the responses and comments by each child were also tape-</text>
+<text top="544" left="108" width="74" height="18" font="3">recorded.</text>
+<text top="567" left="123" width="687" height="18" font="3">The interviews were carried out on two separate occasions with an interval of around</text>
+<text top="591" left="108" width="702" height="18" font="3">one week between each session.  Thirty-five simple questions, each with different</text>
+<text top="614" left="108" width="702" height="18" font="3">pictures, were asked of a child in one session in the order of the sets  [bear-honeypot],</text>
+<text top="637" left="108" width="702" height="18" font="3">[caterpillar-ladybird], [train-coach] and [baby-mummy elephant].   Among the thirty-</text>
+<text top="661" left="108" width="702" height="18" font="3">five questions, around ten questions were distracting sentences which were inserted into</text>
+<text top="684" left="108" width="702" height="18" font="3">every two or three main test sentences.  These were to prevent children from giving</text>
+<text top="707" left="108" width="702" height="18" font="3">stereotyped responses to the test questions, and also by giving simple sentences which</text>
+<text top="730" left="108" width="702" height="18" font="3">require general knowledge, to have an idea whether they were rational in their responses</text>
+<text top="753" left="108" width="702" height="18" font="3">to the questions, for example, <i>How many red stars are there?</i>,  <i>Which circle is the</i></text>
+<text top="777" left="108" width="264" height="18" font="1"><i>biggest?</i>,  <i>What sign is this?</i>, etc..</text>
+<text top="824" left="108" width="91" height="18" font="4"><b>4.3 Results</b></text>
+<text top="870" left="108" width="702" height="18" font="3">One of the general findings from both Experiments is that in the case where the right</text>
+<text top="893" left="108" width="702" height="18" font="3">answer was &#34;no,&#34; that is, in the case of pictures which did not correspond to the stimulus</text>
+<text top="917" left="108" width="702" height="18" font="3">sentence, the majority of children responded correctly, giving the negative response</text>
+<text top="940" left="108" width="702" height="18" font="3">&#34;no.&#34;  The use of &#34;false pictures&#34; induces clear negative responses.  On the other hand,</text>
+<text top="963" left="108" width="702" height="18" font="3">when the right answer was &#34;yes,&#34; i.e. in the case of pictures which agree with the test</text>
+<text top="986" left="108" width="702" height="18" font="3">sentence, high figures of quantifier spreading errors were found.  The second general</text>
+<text top="1010" left="108" width="702" height="18" font="3">finding is that no distinction was found in the four different age groups (4, 5, 6 and 7), in</text>
+<text top="1033" left="108" width="702" height="18" font="3">sex (boy and girl), in the session (1st and 2nd) or in the four different picture sets:  Bear-</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">394</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="702" height="18" font="3">Honeypot; Caterpillar-Ladybird; Train-Coach; and Baby-Mummy Elephant.  In both</text>
+<text top="195" left="108" width="702" height="18" font="3">Experiments I and II, 7 year old children who were the oldest in the experiments showed</text>
+<text top="218" left="108" width="702" height="18" font="3">the same symmetrical and exhaustive interpretations of all types of test sentences as the</text>
+<text top="241" left="108" width="702" height="18" font="3">younger 4, 5 and 6 years old children do.   Further, no significant difference was found</text>
+<text top="265" left="108" width="616" height="18" font="3">between the quantifiers <i>every</i> (<i>modun</i>), <i>each</i> (<i>kakkak</i>) and <i>all</i> (<i>modun</i> NP-<i>tul</i>).</text>
+<text top="288" left="123" width="687" height="18" font="3">Overall, children in both Experiment I (English) and Experiment II (Korean) showed</text>
+<text top="311" left="108" width="702" height="18" font="3">high rates of quantifier spreading; with an average 71% errors in the former  and   65%</text>
+<text top="334" left="108" width="702" height="18" font="3">in the latter.   In Experiment I, 51% (59 out of 115 trials) right spreading errors  were</text>
+<text top="358" left="108" width="702" height="18" font="3">found in the case of transitive sentences; 72% (79/110) right spreading errors  in the case</text>
+<text top="381" left="108" width="702" height="18" font="3">of intransitive sentences; 73% (123/169) left spreading errors in the case of transitive</text>
+<text top="404" left="108" width="702" height="18" font="3">sentences; and 86% (31/36) left spreading errors in the case of intransitive sentences.</text>
+<text top="428" left="108" width="702" height="18" font="3">Similarly, in Experiment II, 38% (44/117) right spreading errors were found in the case</text>
+<text top="451" left="108" width="702" height="18" font="3">of transitive sentences; 66% (75/114) right spreading errors in the case of intransitive</text>
+<text top="474" left="108" width="702" height="18" font="3">sentences; 70% (124/176) left spreading errors in the case of transitive sentences; and</text>
+<text top="497" left="108" width="702" height="18" font="3">78% (28/36) left spreading errors in the case of intransitive sentences.  The details are</text>
+<text top="521" left="108" width="142" height="18" font="3">shown in Table 1:</text>
+<text top="567" left="108" width="82" height="18" font="3">&lt;Table 1&gt;</text>
+<text top="567" left="216" width="290" height="18" font="3">Overall rates of Experiments I and II</text>
+<text top="591" left="648" width="80" height="18" font="3">(Unit:  %)</text>
+<text top="615" left="308" width="25" height="18" font="3">RT</text>
+<text top="615" left="416" width="46" height="18" font="3">RINT</text>
+<text top="615" left="524" width="24" height="18" font="3">LT</text>
+<text top="615" left="632" width="45" height="18" font="3">LINT</text>
+<text top="640" left="108" width="220" height="18" font="3">Experiment I (English) 51</text>
+<text top="640" left="416" width="20" height="18" font="3">72</text>
+<text top="640" left="524" width="20" height="18" font="3">73</text>
+<text top="640" left="632" width="20" height="18" font="3">86</text>
+<text top="664" left="108" width="181" height="18" font="3">ExperimentII (Korean)</text>
+<text top="664" left="308" width="20" height="18" font="3">38</text>
+<text top="664" left="416" width="20" height="18" font="3">66</text>
+<text top="664" left="524" width="20" height="18" font="3">70</text>
+<text top="664" left="632" width="20" height="18" font="3">78</text>
+<text top="711" left="108" width="702" height="18" font="3">As shown in Table 1, in both experiments, left spreading errors were found significantly</text>
+<text top="735" left="108" width="702" height="18" font="3">higher than right spreading errors:  according to the p-values test using ’Binary Logistic</text>
+<text top="758" left="108" width="702" height="18" font="3">Regression’, p=.002 in Experiment I; and  p&lt;.001 in Experiment II.   Significantly higher</text>
+<text top="781" left="108" width="702" height="18" font="3">spreading errors were also found in the case of the intransitive verb phrases than in the</text>
+<text top="805" left="108" width="702" height="18" font="3">case of transitive verb phrases in both experiments:  p=.002 in Experiment I; and p=.004</text>
+<text top="828" left="108" width="702" height="18" font="3">in Experiment II.  More interestingly, the pattern of significant difference between</text>
+<text top="851" left="108" width="702" height="18" font="3">right/left and transitive/intransitive in Experiment I is parallel to the one in Experiment</text>
+<text top="874" left="108" width="186" height="18" font="3">II, as shown in Table 2:</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">395</text>
+<text top="171" left="108" width="82" height="18" font="3">&lt;Table 2&gt;</text>
+<text top="171" left="216" width="594" height="18" font="3">Log  odds:  Right  vs.  Left and Transitive  vs.  Intransitive  in  Experiments  I</text>
+<text top="195" left="216" width="46" height="18" font="3">and II</text>
+<text top="243" left="334" width="182" height="18" font="3">Experiment I (English)</text>
+<text top="243" left="560" width="186" height="18" font="3">Experiment II (Korean)</text>
+<text top="267" left="108" width="109" height="18" font="3">Right vs. Left</text>
+<text top="267" left="334" width="178" height="18" font="3">-1.12 (0.36)      p=.002</text>
+<text top="267" left="560" width="173" height="18" font="3">-1.53 (0.40)     p&lt;.001</text>
+<text top="292" left="108" width="132" height="18" font="3">Trans vs. Intrans</text>
+<text top="292" left="334" width="178" height="18" font="3">-1.08 (0.35)      p=.002</text>
+<text top="292" left="560" width="173" height="18" font="3">-1.13 (0.39)     p=.004</text>
+<text top="339" left="108" width="702" height="18" font="3">The figures in Table 2 are log odds ratios, from the logistic regression analysis, for the</text>
+<text top="362" left="108" width="702" height="18" font="3">right-left and transitive-intransitive comparisons, with their standard errors in brackets.</text>
+<text top="386" left="108" width="702" height="18" font="3">That is, the first (second) row shows the natural log of the ratio of the odds of an error in</text>
+<text top="409" left="108" width="701" height="18" font="3">a right spreading (transitive) case to the odds of an error in a left spreading (intransitive)</text>
+<text top="432" left="108" width="702" height="18" font="3">case.  This figures:  left spreading gives more errors than right spreading, so the odds of</text>
+<text top="455" left="108" width="703" height="18" font="3">an error for left are greater than for right, so the ratio of the odds (right/left) is less than</text>
+<text top="479" left="108" width="702" height="18" font="3">1, so its log is negative.  Similarly intransitive gives more errors than transitive so the log</text>
+<text top="502" left="108" width="702" height="18" font="3">odds ratio (trans/intrans) is also negative.   They are not significantly different between</text>
+<text top="525" left="108" width="702" height="18" font="3">the two experiments, as can be seen by comparing the differences with the standard</text>
+<text top="549" left="108" width="702" height="18" font="3">errors:  the differences in log odds ratios being -1.12-(-1.53)=0.41 (se 0.54, p=0.45); and</text>
+<text top="572" left="108" width="702" height="18" font="3">-1.08-(-1.13)=0.05 (se 0.52, p=0.92) respectively.  (’se’ stands for the standard errors of</text>
+<text top="595" left="108" width="176" height="18" font="3">difference calculated.)</text>
+<text top="642" left="108" width="118" height="18" font="4"><b>4.4 Discussion</b></text>
+<text top="688" left="108" width="702" height="18" font="3">As argued by Crain et al. (1996), the context plays an important role in the phenomenon</text>
+<text top="711" left="108" width="702" height="18" font="3">of quantifier spreading.  However, we cannot explain away the (cross-linguistic)</text>
+<text top="735" left="108" width="702" height="18" font="3">occurrence of the phenomenon simply on the ground that the context is infelicitous, as</text>
+<text top="758" left="108" width="702" height="18" font="3">suggested by Crain et al.   Rather, we have to concentrate on why young children make</text>
+<text top="781" left="108" width="702" height="18" font="3">mistakes in certain contexts which adults do not.   What causes the errors in children’s</text>
+<text top="805" left="108" width="702" height="18" font="3">interpretation?  In other words, what factors give rise to the different interpretation with</text>
+<text top="828" left="108" width="702" height="18" font="3">universal quantification between children and adults?   Here I argue that the</text>
+<text top="851" left="108" width="702" height="18" font="3">phenomenon is  neither exclusively cognitive nor exclusively linguistic, but is dependent</text>
+<text top="874" left="108" width="702" height="18" font="3">on contributions from the language faculty and from the central system of the child’s</text>
+<text top="898" left="108" width="702" height="18" font="3">mind in the sense of Fodor (1983).   That is, a non-linguistic cognitive factor seems to be</text>
+<text top="921" left="108" width="702" height="18" font="3">clearly operative in this phenomenon, and conceptual representations caused by this</text>
+<text top="944" left="108" width="702" height="18" font="3">cognitive factor are closely involved in the  linguistic representations computed by the</text>
+<text top="968" left="108" width="702" height="18" font="3">language faculty.  Then the difference between children’s and adults’ conceptual</text>
+<text top="991" left="108" width="703" height="18" font="3">representations with universal quantification can be attributed to the interplay between</text>
+<text top="1014" left="108" width="532" height="18" font="3">their cognitive abilities and their linguistic abilities as these mature.</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">396</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="123" width="687" height="18" font="3">Children, like adults, understand the basic property of universal quantifiers:  universal</text>
+<text top="195" left="108" width="702" height="18" font="3">quantifiers such as <i>all</i>, <i>every</i> and <i>each</i> function like modifiers which quantify over the</text>
+<text top="218" left="108" width="702" height="18" font="3">noun phrase which contains them.  This is proved by children’s adult-like affirmative</text>
+<text top="241" left="108" width="702" height="18" font="3">responses to a context which depicts the symmetrical one-to-one correspondence</text>
+<text top="265" left="108" width="702" height="18" font="3">between the agents and the objects, and also by Brooks and Braine (1996)’s experiment</text>
+<text top="288" left="108" width="702" height="18" font="3">in which 4 to 10-year-old children are found to have little difficulty restricting the</text>
+<text top="311" left="108" width="702" height="18" font="3">quantifier <i>all</i> to the noun it modifies.  When a picture is presented to a child, however,</text>
+<text top="334" left="108" width="703" height="18" font="3">prior to exposure to the test sentence, his or her mind focuses on the individual objects</text>
+<text top="358" left="108" width="702" height="18" font="3">available in the picture, and is ’captured’ by the scene or situation in it.   He or she makes</text>
+<text top="381" left="108" width="702" height="18" font="3">a quick guess and subconsciously predicts what will be in the test question.  When he</text>
+<text top="404" left="108" width="702" height="18" font="3">listens to the taped question, for example, <i>Is every bear holding a honeypot?</i>, the objects</text>
+<text top="428" left="108" width="702" height="18" font="3">such as <i>bear</i> and <i>honeypot</i> and perhaps the verb <i>hold</i> are expected, that is, they can be</text>
+<text top="451" left="108" width="702" height="18" font="3">viewed as constituting old information, which has engaged the child’s imagination.  On</text>
+<text top="474" left="108" width="702" height="18" font="3">the other hand, the quantifier <i>every</i> is unpredictable, and so may be more salient to the</text>
+<text top="497" left="108" width="702" height="18" font="3">child.  Moreover, pictures in front of a child may have more effect, they may be more</text>
+<text top="521" left="108" width="702" height="18" font="3">salient, than what is said.  When the child finds that the picture is not symmetrical, that</text>
+<text top="544" left="108" width="702" height="18" font="3">is, not every individual in the picture is  matched, but that there is one ’odd’ entity, he</text>
+<text top="567" left="108" width="510" height="18" font="3">responds to the question in the negative without thinking further.</text>
+<text top="591" left="123" width="687" height="18" font="3">Children interpret the salient word <i>every</i> as covering each individual object available</text>
+<text top="614" left="108" width="702" height="18" font="3">in the picture.  In their conceptual representation the domain of quantification might be</text>
+<text top="637" left="108" width="702" height="18" font="3">the set of objects (or arguments) available in both visual and auditory inputs.   Here I try</text>
+<text top="661" left="108" width="702" height="18" font="3">to analyze this phenomenon in terms of &#34;individual (or argument) quantification&#34; rather</text>
+<text top="684" left="108" width="702" height="18" font="3">than Philip (1995)’s &#34;event quantification,&#34; partly on grounds of theoretical parsimony</text>
+<text top="707" left="108" width="702" height="18" font="3">(cf. Brooks &amp; Braine (1996)) and partly on empirical grounds.  Regarding the sort of</text>
+<text top="730" left="108" width="702" height="18" font="3">representations the children form from the pictures, the entities such as [a bear], [a</text>
+<text top="753" left="108" width="182" height="18" font="3">piglet] or [a honeypot]</text>
+<text top="749" left="290" width="7" height="12" font="9">7</text>
+<text top="753" left="297" width="514" height="18" font="3"> can be individually shown, but a relationship or an action such</text>
+<text top="777" left="108" width="702" height="18" font="3">as [holding] cannot be shown without showing the individuals involved in that</text>
+<text top="800" left="108" width="702" height="18" font="3">relationship or action.  So the entities have some kind of priority over the action.  Each</text>
+<text top="823" left="108" width="702" height="18" font="3">of those entities in the picture seems to be treated by the children as having to be put into</text>
+<text top="847" left="108" width="702" height="18" font="3">some sort of thematic relation with another.  One problem with appealing to event</text>
+<text top="870" left="108" width="702" height="18" font="3">quantification is that it fails to explain how and when children acquire quantification</text>
+<text top="893" left="108" width="702" height="18" font="3">over individuals after they have acquired quantification over events.  Further, it cannot</text>
+<text top="917" left="108" width="702" height="18" font="3">predict children’s concern with the extra possible agent, for example, <i>a piglet</i>, which is</text>
+<text top="940" left="108" width="703" height="18" font="3">not a part of the whole event in the situation ’x (is) holding y’.   As an example, let us</text>
+<text top="1004" left="108" width="217" height="16" font="6">                                                </text>
+<text top="1021" left="124" width="6" height="10" font="7">7</text>
+<text top="1025" left="129" width="681" height="16" font="5"> The bracket [ ] indicates that the items inside it represent concepts or images, distinguishing  those</text>
+<text top="1044" left="108" width="453" height="16" font="5">from the natural language forms such as ’bear’, ’honeypot’ or ’piglet’.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">397</text>
+<text top="171" left="108" width="702" height="18" font="3">look again at one of the pictures which was used as a visual input with the corresponding</text>
+<text top="195" left="108" width="210" height="18" font="3">sentence as auditory input:</text>
+<text top="218" left="108" width="78" height="18" font="3">&lt;Picture&gt;</text>
+<text top="218" left="216" width="114" height="18" font="3">bear-honeypot</text>
+<text top="218" left="378" width="114" height="18" font="3">bear-honeypot</text>
+<text top="241" left="216" width="114" height="18" font="3">bear-honeypot</text>
+<text top="241" left="378" width="73" height="18" font="3">honeypot</text>
+<text top="265" left="324" width="44" height="18" font="3">piglet</text>
+<text top="311" left="108" width="77" height="18" font="3">Sentence:</text>
+<text top="311" left="270" width="268" height="18" font="3">Is every bear holding a honeypot?</text>
+<text top="334" left="108" width="198" height="18" font="3">Adult-like response:Yes.</text>
+<text top="358" left="108" width="123" height="18" font="3">Child response:</text>
+<text top="358" left="270" width="472" height="18" font="3">No, not that honeypot. (and also the piglet has no honeypot)</text>
+<text top="404" left="108" width="702" height="18" font="3">As discussed above, the quantifier <i>every</i> is salient for children and so it plays a dominant</text>
+<text top="428" left="108" width="702" height="18" font="3">role in their interpretation.  They treat the quantifier as if it was uttered with heavy stress.</text>
+<text top="451" left="108" width="702" height="18" font="3">Consequently, contrastive stress (note that the test questions do not include any special</text>
+<text top="474" left="108" width="702" height="18" font="3">stress on the quantifier) is given to it so that the focused <i>every</i> is automatically raised to</text>
+<text top="497" left="108" width="703" height="18" font="3">the highest position in the structure to be able to quantify over both the first and second</text>
+<text top="521" left="108" width="87" height="18" font="3">arguments.</text>
+<text top="516" left="195" width="7" height="12" font="9">8</text>
+<text top="544" left="123" width="687" height="18" font="3">This individual quantification analysis is supported by the children’s reaction to the</text>
+<text top="567" left="108" width="703" height="18" font="3">picture.  The children involved in the present experiment generally enumerate the</text>
+<text top="591" left="108" width="702" height="18" font="3">individual entities one by one.   For example, to the question <i>What can you see here?</i>,</text>
+<text top="614" left="108" width="702" height="18" font="3">they normally answer &#34;a bear, a honeypot, and a piglet, three bears are holding a</text>
+<text top="637" left="108" width="702" height="18" font="3">honeypot, (and pointing to each item and repeating) this bear is holding a honeypot, this</text>
+<text top="661" left="108" width="703" height="18" font="3">bear is holding a honeypot and this bear is holding a honeypot, but this honeypot is not,</text>
+<text top="684" left="108" width="702" height="18" font="3">nobody is holding this honeypot, this piglet is going to get it because he hasn’t got it&#34;,</text>
+<text top="707" left="108" width="702" height="18" font="3">etc..  This enumeration of each individual entity by children is also found in their</text>
+<text top="730" left="108" width="702" height="18" font="3">responses to the second input, the test question, for example <i>Is every bear holding a</i></text>
+<text top="753" left="108" width="702" height="18" font="1"><i>honeypot?</i>.  After their answers &#34;yes&#34; or &#34;no&#34; (they were asked to answer &#34;yes&#34; or &#34;no&#34;</text>
+<text top="777" left="108" width="702" height="18" font="3">in the introduction of the experiment), children normally enumerate each item again, for</text>
+<text top="800" left="108" width="702" height="18" font="3">example, &#34;this bear, this bear, and this bear are holding a honeypot, but this honeypot is</text>
+<text top="823" left="108" width="702" height="18" font="3">left out and a piglet too.&#34;  Some children preferred to answer without the definite</text>
+<text top="847" left="108" width="702" height="18" font="3">response of &#34;yes&#34; or &#34;no&#34;, just saying &#34;only three, three bears are holding a honeypot and</text>
+<text top="870" left="108" width="425" height="18" font="3">one honeypot has nobody and a piglet has nothing.&#34;</text>
+<text top="866" left="533" width="7" height="12" font="9">9</text>
+<text top="870" left="540" width="271" height="18" font="3">  When they are asked to answer</text>
+<text top="893" left="108" width="703" height="18" font="3">with &#34;yes&#34; or &#34;no,&#34; they responded as &#34;yes, but&#34; and enumerated the items again.  From</text>
+<text top="924" left="108" width="217" height="16" font="6">                                                </text>
+<text top="942" left="124" width="6" height="10" font="7">8</text>
+<text top="945" left="129" width="681" height="16" font="5"> The movement of the focused element to the FP is supported by Brody’s (1990) analysis of</text>
+<text top="965" left="108" width="702" height="16" font="5">Hungarian.  More interestingly, he argues that universally quantified categories are marked &lt;+f&gt;</text>
+<text top="985" left="108" width="72" height="16" font="5">inherently.</text>
+<text top="1021" left="124" width="6" height="10" font="7">9</text>
+<text top="1025" left="129" width="681" height="16" font="5"> Due to this property, Drozd (1998) argues that children interpret the strong quantifiers such as e<i>very,</i></text>
+<text top="1044" left="108" width="400" height="16" font="8"><i>each</i> and <i>all</i> as weak quantifiers such as <i>a</i>, <i>many</i>, <i>a few</i>, etc.</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">398</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="702" height="18" font="3">their spontaneous reaction to the picture I got a strong impression of the existence of the</text>
+<text top="195" left="108" width="702" height="18" font="3">exhaustive representation which is suggested by Brooks &amp; Braine (1996) in child</text>
+<text top="218" left="108" width="702" height="18" font="3">conceptual representation.  They assign the exhaustive representation to the sentence</text>
+<text top="241" left="108" width="702" height="18" font="3">with a universal quantifier so that the quantifier covers all the entities available in their</text>
+<text top="265" left="108" width="300" height="18" font="3">conceptual representation in its scope.</text>
+<text top="288" left="123" width="687" height="18" font="3">Even though children and adults have access to the same cognitive mechanisms, and</text>
+<text top="311" left="108" width="702" height="18" font="3">further the quantifier might be salient to both of them because of its intrinsic property</text>
+<text top="334" left="108" width="702" height="18" font="3">(i.e. the quantifier as focused element), their conceptual  representations could be</text>
+<text top="358" left="108" width="702" height="18" font="3">different because their representations are affected by their different language faculty.</text>
+<text top="381" left="108" width="702" height="18" font="3">That is, the interpretation with quantification might be done through the close interaction</text>
+<text top="404" left="108" width="516" height="18" font="3">between the conceptual representation and the language faculty.</text>
+<text top="400" left="625" width="14" height="12" font="9">10</text>
+<text top="404" left="638" width="173" height="18" font="3">  Then the difference</text>
+<text top="428" left="108" width="702" height="18" font="3">between children’s and adults’ conceptual representations might be attributed to the role</text>
+<text top="451" left="108" width="460" height="18" font="3">of the language faculty, i.e. their grammatical knowledge. </text>
+<text top="451" left="605" width="205" height="18" font="3">Focusing  on  this  fact,  in</text>
+<text top="474" left="108" width="702" height="18" font="3">the next section I specify the difference between children and adults in their grammatical</text>
+<text top="497" left="108" width="702" height="18" font="3">knowledge with universal quantification and explain it with relation to crosslinguistic</text>
+<text top="521" left="108" width="38" height="18" font="3">data.</text>
+<text top="568" left="108" width="496" height="18" font="4"><b>5 Universal quantifiers: from modifiers to functional heads</b></text>
+<text top="614" left="108" width="703" height="18" font="3">In this section I focus on the difference between children and adults in their grammatical</text>
+<text top="637" left="108" width="702" height="18" font="3">knowledge of universal quantifiers.  It is assumed that children know the grammatical</text>
+<text top="661" left="108" width="702" height="18" font="3">function of the quantifier as a lexical category, i.e. a quantifier is a binder or a modifier,</text>
+<text top="684" left="108" width="702" height="18" font="3">but they might be not yet aware of its syntactic function as a determiner, that is, as a</text>
+<text top="707" left="108" width="702" height="18" font="3">functional head of the determiner phrase which influences the interpretation of universal</text>
+<text top="730" left="108" width="702" height="18" font="3">quantifiers.  Specifically, in adult grammar, the quantifier is treated as a functional head</text>
+<text top="753" left="108" width="646" height="18" font="3">with its own complement within its own extended projection, at least in English.</text>
+<text top="749" left="754" width="13" height="12" font="9">11</text>
+<text top="753" left="767" width="44" height="18" font="3">  The</text>
+<text top="777" left="108" width="702" height="18" font="3">quantifier itself cannot be moved out of its extended projection and if it has to be moved,</text>
+<text top="800" left="108" width="702" height="18" font="3">the whole quantifier phrase (Q+NP) has to be moved.  However, in child grammar, the</text>
+<text top="823" left="108" width="703" height="18" font="3">functional category DP seems not to be completely developed at this stage and thus the</text>
+<text top="847" left="108" width="702" height="18" font="3">D-element is freely detached from the category which it belongs to and raised to the</text>
+<text top="870" left="108" width="702" height="18" font="3">highest position to range over all arguments available in the sentence.  Therefore it is</text>
+<text top="893" left="108" width="702" height="18" font="3">claimed that young children seem to treat a universal quantifier such as <i>every</i>, <i>all</i> or <i>each</i></text>
+<text top="964" left="108" width="217" height="16" font="6">                                                </text>
+<text top="982" left="124" width="11" height="10" font="7">10</text>
+<text top="985" left="135" width="676" height="16" font="5"> See Kang (in prep.) for the details of the inner structure of mental comprehension and the inter-</text>
+<text top="1005" left="108" width="536" height="16" font="5">communication between the conceptual representation and the language faculty.</text>
+<text top="1041" left="124" width="11" height="10" font="7">11</text>
+<text top="1044" left="135" width="535" height="16" font="5"> Giusti (1991; 1997) argue that quantifiers are lexical categories, external to DP.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">399</text>
+<text top="171" left="108" width="702" height="18" font="3">as a modifier which is dominated by the maximal projection NP as in (12), not as a</text>
+<text top="195" left="108" width="380" height="18" font="3">functional head D of DP as in (13), as adults do:</text>
+<text top="241" left="108" width="33" height="18" font="3">(12)</text>
+<text top="241" left="216" width="25" height="18" font="3">NP</text>
+<text top="241" left="378" width="33" height="18" font="3">(13)</text>
+<text top="241" left="486" width="25" height="18" font="3">DP</text>
+<text top="288" left="152" width="48" height="18" font="3">ModP</text>
+<text top="288" left="259" width="25" height="18" font="3">NP</text>
+<text top="288" left="452" width="15" height="18" font="3">D</text>
+<text top="288" left="540" width="25" height="18" font="3">NP</text>
+<text top="311" left="152" width="43" height="18" font="1"><i>every</i></text>
+<text top="311" left="259" width="34" height="18" font="3">bear</text>
+<text top="311" left="452" width="43" height="18" font="1"><i>every</i></text>
+<text top="311" left="540" width="34" height="18" font="3">bear</text>
+<text top="358" left="108" width="702" height="18" font="3">In (12)  the quantifier <i>every</i> occurs in the adjoined position as a modifier, but in (13) it</text>
+<text top="381" left="108" width="702" height="18" font="3">heads a functional projection DP.  According to this modifier view, the relationship</text>
+<text top="404" left="108" width="702" height="18" font="3">between <i>every</i> and <i>bear </i> is not one between a head and a complement, that is, <i>every</i> is</text>
+<text top="428" left="108" width="702" height="18" font="3">not treated as a projecting head, but as a natural language binder which modifies the</text>
+<text top="451" left="108" width="702" height="18" font="3">noun  <i>bear</i>.  Therefore, in the children’s interpretation universal quantifiers can be</text>
+<text top="474" left="108" width="702" height="18" font="3">separated from their complement  and raised to the highest position of the sentence to</text>
+<text top="497" left="108" width="159" height="18" font="3">get sentential scope.</text>
+<text top="521" left="123" width="687" height="18" font="3">This kind of semantic detachment by children occurs everywhere:  from the subject</text>
+<text top="544" left="108" width="702" height="18" font="3">position, the object position, the adjunct position, and even from a position in an</text>
+<text top="567" left="108" width="703" height="18" font="3">embedded sentence to take the whole matrix sentence in its scope.  An example of each</text>
+<text top="591" left="108" width="133" height="18" font="3">is shown in (14):</text>
+<text top="637" left="108" width="338" height="18" font="3">(14) a.  <i>Every</i> bear is holding a honeypot.</text>
+<text top="661" left="152" width="339" height="18" font="3">b. A caterpillar is carrying <i>every</i> ladybird.</text>
+<text top="684" left="152" width="404" height="18" font="3">c. There is a baby behind <i>every</i> mummy elephant.</text>
+<text top="707" left="152" width="362" height="18" font="3">d.  There is a chair that <i>every</i> cat is sitting on.</text>
+<text top="753" left="108" width="655" height="18" font="3">As an example, the semantic representation of the sentence (14a) will be as in (15):</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">400</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="33" height="18" font="3">(15)</text>
+<text top="171" left="216" width="22" height="18" font="3">FP</text>
+<text top="218" left="152" width="38" height="18" font="3">Spec</text>
+<text top="218" left="259" width="18" height="18" font="3">F’</text>
+<text top="265" left="152" width="43" height="18" font="1"><i>every</i></text>
+<text top="265" left="216" width="11" height="18" font="3">F</text>
+<text top="265" left="324" width="18" height="18" font="3">IP</text>
+<text top="311" left="259" width="25" height="18" font="3">DP</text>
+<text top="311" left="438" width="14" height="18" font="3">I’</text>
+<text top="358" left="181" width="39" height="18" font="3">     D</text>
+<text top="358" left="259" width="72" height="18" font="3">        NPI</text>
+<text top="358" left="452" width="25" height="18" font="3">VP</text>
+<text top="404" left="181" width="24" height="18" font="3">     </text>
+<text top="404" left="438" width="15" height="18" font="3">V</text>
+<text top="404" left="540" width="25" height="18" font="3">DP</text>
+<text top="451" left="378" width="24" height="18" font="3">     </text>
+<text top="451" left="486" width="15" height="18" font="3">D</text>
+<text top="451" left="605" width="25" height="18" font="3">NP</text>
+<text top="497" left="181" width="38" height="18" font="3">      <i>e</i></text>
+<text top="497" left="259" width="67" height="18" font="3">       bear</text>
+<text top="497" left="378" width="117" height="18" font="3">     is holding a</text>
+<text top="497" left="605" width="73" height="18" font="3">honeypot</text>
+<text top="544" left="108" width="702" height="18" font="3">As we can see, the quantifier <i>every</i> is detached from its complement <i>bear</i> inside the</text>
+<text top="567" left="108" width="702" height="18" font="3">subject DP <i>every bear</i> and raised to the Spec of FP.   The movement of the focused</text>
+<text top="591" left="108" width="702" height="18" font="3">element to the FP is supported by crosslinguistic data, for example, consider Brody’s</text>
+<text top="614" left="108" width="702" height="18" font="3">(1990) analysis of Hungarian.  Brody assumes that an additional extended projection FP</text>
+<text top="637" left="108" width="702" height="18" font="3">(Focus Phrase) exists and argues that F, F’ and FP are present only in sentences that</text>
+<text top="661" left="108" width="702" height="18" font="3">contain a focused element.  That is, this projection is optional so that it does not have to</text>
+<text top="684" left="108" width="702" height="18" font="3">be present when the sentence does not include any focused category.  Further he argues</text>
+<text top="707" left="108" width="702" height="18" font="3">that universal quantifier phrases are &lt;+f&gt; marked inherently, but this inherent &lt;+f&gt;</text>
+<text top="730" left="108" width="702" height="18" font="3">marking for uq-phrases may only be optional.  Therefore, when the uq-phrase appears in</text>
+<text top="753" left="108" width="702" height="18" font="3">sentences without focus, it is not &lt;+f&gt; marked because &lt;+f&gt; categories can only appear</text>
+<text top="777" left="108" width="702" height="18" font="3">in sentences with FP’s where all &lt;+f&gt; categories must be in FP at LF.  The present</text>
+<text top="800" left="108" width="702" height="18" font="3">analysis with children’s universal quantification supports these assumptions suggested by</text>
+<text top="823" left="108" width="54" height="18" font="3">Brody.</text>
+<text top="847" left="123" width="687" height="18" font="3">If the status of quantifiers in child grammar was as a functional head D of DP, this</text>
+<text top="870" left="108" width="702" height="18" font="3">kind of subextraction could not be syntactically accounted for.  Ross’s Left Branch</text>
+<text top="893" left="108" width="702" height="18" font="3">Condition, which specifies that movement of an element in the left-branch position is</text>
+<text top="917" left="108" width="702" height="18" font="3">possible only by pied-piping the entire phrase, fails to explain this phenomenon.  Further</text>
+<text top="940" left="108" width="702" height="18" font="3">Huang (1982)’s CED (the Condition on Extraction Domains) which asserts that</text>
+<text top="963" left="108" width="702" height="18" font="3">adverbial phrases and subject NPs constitute islands for extraction, since they are not L-</text>
+<text top="986" left="108" width="702" height="18" font="3">marked, and Abney (1987)’s generalization about functional heads, that is, the</text>
+<text top="1010" left="108" width="702" height="18" font="3">impossibility of functional heads being detached from their complement by movement,</text>
+<text top="1033" left="108" width="702" height="18" font="3">cannot account for it.  All standard linguistic conditions assert that if the item is to move,</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">401</text>
+<text top="171" left="108" width="702" height="18" font="3">the entire phrase in which it belongs has to be moved by pied piping.  I am not here</text>
+<text top="195" left="108" width="702" height="18" font="3">interested in proving the universality of these conditions.  Rather, concentrating on</text>
+<text top="218" left="108" width="702" height="18" font="3">evidence from natural language data, I am trying to explain our phenomenon within the</text>
+<text top="241" left="108" width="702" height="18" font="3">framework of standard linguistic theory.  Therefore, I assume that functional heads</text>
+<text top="265" left="108" width="703" height="18" font="3">cannot be separated from their complements and, I argue that young children treat a</text>
+<text top="288" left="108" width="702" height="18" font="3">universal quantifier as a modifier (a natural language binder), but not as a determiner,</text>
+<text top="311" left="108" width="702" height="18" font="3">i.e. a functional head of the determiner phrase.  It follows that the phrase <i>every bear</i> in</text>
+<text top="334" left="108" width="702" height="18" font="3">the sentence <i>Every bear is holding a honeypot </i> is specified as an NP which includes a</text>
+<text top="358" left="108" width="395" height="18" font="3">modifier <i>every</i> and a head noun <i>bear</i>, not as a DP.</text>
+<text top="381" left="123" width="687" height="18" font="3">This modifier view can be supported by crosslinguistic data which show the</text>
+<text top="404" left="108" width="702" height="18" font="3">subextraction of a left-branch element out of its own extended projection:  for example,</text>
+<text top="428" left="108" width="702" height="18" font="3">Doetjes et al.’s (1998) analysis with regard to the migratory property of some degree</text>
+<text top="451" left="108" width="702" height="18" font="3">expressions (such as <i>more</i>, <i>less</i> and <i>enough</i> as modifiers); the categorial status of</text>
+<text top="474" left="108" width="702" height="18" font="3">demonstratives in Rumanian and Modern Greek in the analysis of Giusti (1997) and also</text>
+<text top="497" left="108" width="702" height="18" font="3">in Korean (Kang (in prep.)) (demonstratives as modifiers of the noun); and children’s</text>
+<text top="521" left="108" width="702" height="18" font="3">naturalistic language data in their acquisition of Dutch (cf. van Kampen (1997) and</text>
+<text top="544" left="108" width="702" height="18" font="3">Hoekstra and Jordens (1994)).  They all show that the elements which belong to the left-</text>
+<text top="567" left="108" width="702" height="18" font="3">branch of the extended projection can be stranded and moved to another position.</text>
+<text top="591" left="108" width="702" height="18" font="3">Further, Corver (1990) points out that this kind of subextraction occurs even in adult</text>
+<text top="614" left="108" width="702" height="18" font="3">languages such as Polish, Russian and Latin.  For example, the following examples of</text>
+<text top="637" left="108" width="702" height="18" font="3">wh-subextraction in Polish is a well-formed sentence in adult grammar (Corver (1990:</text>
+<text top="661" left="108" width="63" height="18" font="3">p.330)):</text>
+<text top="707" left="108" width="33" height="18" font="3">(16)</text>
+<text top="707" left="181" width="30" height="18" font="3">jaki</text>
+<text top="711" left="211" width="4" height="12" font="9">i</text>
+<text top="707" left="259" width="85" height="18" font="3">wykreciles</text>
+<text top="707" left="378" width="12" height="18" font="3">[t</text>
+<text top="711" left="391" width="4" height="12" font="9">i</text>
+<text top="707" left="394" width="70" height="18" font="3"> numer]?</text>
+<text top="730" left="181" width="53" height="18" font="3">Which</text>
+<text top="735" left="234" width="4" height="12" font="9">i</text>
+<text top="730" left="259" width="96" height="18" font="3">(you) dialed</text>
+<text top="730" left="378" width="12" height="18" font="3">[t</text>
+<text top="735" left="391" width="4" height="12" font="9">i</text>
+<text top="730" left="394" width="80" height="18" font="3"> number]?</text>
+<text top="753" left="181" width="239" height="18" font="3">(Which number did you dial?)</text>
+<text top="800" left="108" width="702" height="18" font="3">He explains this by arguing that nominal arguments in Polish lack the DP-structure, and</text>
+<text top="823" left="108" width="703" height="18" font="3">therefore allow wh-extraction.  The subextracted wh-element is assumed to be an</text>
+<text top="847" left="108" width="570" height="18" font="3">extractable adjunct in his analysis, not  a head of a functional projection.</text>
+<text top="870" left="123" width="687" height="18" font="3">Even though this kind of syntactic detachment is not sufficient to explain the semantic</text>
+<text top="893" left="108" width="703" height="18" font="3">interpretation that children provide for universal quantification,  we have a strong</text>
+<text top="917" left="108" width="702" height="18" font="3">impression that the migratory property of the degree expressions such as <i>more</i>, <i>less</i> and</text>
+<text top="940" left="108" width="702" height="18" font="1"><i>enough</i>, the subextractions of wh-elements and topicalized arguments in Dutch child</text>
+<text top="963" left="108" width="702" height="18" font="3">grammar, and the misplacement of expressions with special stress from naturalistic</text>
+<text top="986" left="108" width="702" height="18" font="3">children’s data (e.g. &#34;<i>Only</i> I want this one&#34; for the sentence &#34;I want <i>only</i> this one&#34;) can be</text>
+<text top="1010" left="108" width="702" height="18" font="3">closely related to the unique interpretation of the sentences with universal quantifiers</text>
+<text top="1033" left="108" width="540" height="18" font="3">shown in child grammar.  These are argued in detail in Kang (1999).</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="17" family="Times" color="#000000"/>
+<text top="131" left="108" width="25" height="16" font="5">402</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="123" width="687" height="18" font="3">The delay in the emergence of functional categories in language acquisition has been</text>
+<text top="195" left="108" width="702" height="18" font="3">well discussed in the relevant literature though this is generally at a much younger age.</text>
+<text top="218" left="108" width="702" height="18" font="3">According to Radford (1990), the phrasal categories such as NP, VP, AP and PP emerge</text>
+<text top="241" left="108" width="702" height="18" font="3">around 20 months after birth, and the use of functional words such as <i>a</i>, <i>the</i>, <i>this</i>, <i>that</i>,</text>
+<text top="265" left="108" width="702" height="18" font="3">etc. starts around 24 months of age.  Compared to these periods, the proper use (or</text>
+<text top="288" left="108" width="702" height="18" font="3">interpretation) of phrases with a universal quantifier apparently seems to be delayed till</text>
+<text top="311" left="108" width="703" height="18" font="3">much later.  I assume that the delay is attributable to the intrinsic property of quantifiers,</text>
+<text top="334" left="108" width="702" height="18" font="3">that is, because quantifiers are inherently focus marked, and this property influences</text>
+<text top="358" left="108" width="702" height="18" font="3">children’s interpretation with regard to universal quantification.  On the other hand, for</text>
+<text top="381" left="108" width="702" height="18" font="3">adults, their grammatical knowledge is precise enough to determine one particular</text>
+<text top="404" left="108" width="597" height="18" font="3">interpretation and abstract away other irrelevant conceptual representations.</text>
+<text top="451" left="108" width="109" height="18" font="4"><b>6 Conclusion</b></text>
+<text top="497" left="108" width="702" height="18" font="3">I conclude that the phenomenon of quantifier spreading has to be analysed from both</text>
+<text top="521" left="108" width="702" height="18" font="3">cognitive and linguistic points of view.  It can be counted as a clearly cognitive</text>
+<text top="544" left="108" width="702" height="18" font="3">phenomenon because the visual input, the picture, plays a key role in the children’s</text>
+<text top="567" left="108" width="702" height="18" font="3">conceptual representation.  At the same time, it has been argued that the phenomenon</text>
+<text top="591" left="108" width="702" height="18" font="3">must be clearly linguistic, due to the fact that the spreading errors are only found in a</text>
+<text top="614" left="108" width="702" height="18" font="3">certain young age group, putatively up to the age of 7 or 8 and disappear after then.  It is</text>
+<text top="637" left="108" width="703" height="18" font="3">naturally related to the debate on language development, specifically to the two main</text>
+<text top="661" left="108" width="702" height="18" font="3">hypotheses of ’continuity’ and ’maturation’ regarding the (controversial) development of</text>
+<text top="684" left="108" width="702" height="18" font="3">functional categories in child grammar.  The functional category DP seems not to be</text>
+<text top="707" left="108" width="702" height="18" font="3">completely developed at this stage and thus the D-element is freely detached from the</text>
+<text top="730" left="108" width="703" height="18" font="3">category which it belongs to and raised to the highest position to range over all</text>
+<text top="753" left="108" width="406" height="18" font="3">arguments available in the picture and the sentence.</text>
+<text top="777" left="123" width="687" height="18" font="3">In general, the disagreement  in the literature on how to explain children’s quantifier</text>
+<text top="800" left="108" width="702" height="18" font="3">spreading can be attributed to a failure to integrate linguistic and non-linguistic aspects</text>
+<text top="823" left="108" width="702" height="18" font="3">of the phenomenon.  The current study, spelt out in more detail in Kang (in prep.), is a</text>
+<text top="847" left="108" width="235" height="18" font="3">step towards such integration.</text>
+<text top="916" left="108" width="78" height="16" font="13"><b>References</b></text>
+<text top="956" left="108" width="702" height="16" font="5">Abney, S. (1987). <i>The English Noun Phrase in its Sentential Aspect</i>. PhD dissertation. Cambridge</text>
+<text top="976" left="124" width="83" height="16" font="5">Mass.: MIT.</text>
+<text top="996" left="108" width="671" height="16" font="5">Brody, M. (1990). Some remarks on the focus field in Hungarian. <i>UCL Working Papers 2</i>: 201-225.</text>
+<text top="1015" left="108" width="702" height="16" font="5">Brooks, P. &amp; M. Braine (1996). What do children know about the universal quantifiers <i>all</i> and <i>each</i>?.</text>
+<text top="1035" left="124" width="92" height="16" font="8"><i>Cognition</i> 60.</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="613" width="141" height="16" font="8"><i>Quantifier spreading</i></text>
+<text top="131" left="785" width="25" height="16" font="5">403</text>
+<text top="171" left="108" width="522" height="16" font="5">Chomsky, N. (1995). <i>The Minimalist Program</i>. Cambridge Mass.: MIT Press.</text>
+<text top="191" left="108" width="692" height="16" font="5">Corver, N.F.M. (1990). <i>The Syntax of Left-Branch Extractions</i>. PhD dissertation, University of Tilburg.</text>
+<text top="211" left="108" width="702" height="16" font="5">Crain, S., R. Thornton, C. Boster, L. Conway, D. Lillo-Martin, &amp; E. Woodams (1996). Quantification</text>
+<text top="231" left="124" width="366" height="16" font="5">Without Qualification. <i>Language Acquisition</i> Vol. 5-2.</text>
+<text top="250" left="108" width="702" height="16" font="5">Doetjes, J, A. Neeleman &amp; H. van de Koot (1998). Degree expressions and the autonomy of syntax.</text>
+<text top="270" left="124" width="236" height="16" font="8"><i>UCL Working Papers </i>10: 323-367.</text>
+<text top="290" left="108" width="702" height="16" font="5">Donaldson, M. and P. Lloyd (19740. Sentences and situations: childrens judgments of match and</text>
+<text top="310" left="124" width="687" height="16" font="5">mismatch. In Bresson, F. (ed.). <i>Current Problems in Psycholinguistics</i>. Paris: Centre National de la</text>
+<text top="330" left="124" width="159" height="16" font="5">Recherche Scientifique.</text>
+<text top="350" left="108" width="702" height="16" font="5">Drozd, K. (1998). Children’s Weak Interpretations of Universally Quantified Questions. In M.</text>
+<text top="369" left="124" width="687" height="16" font="5">Bowerman &amp; S. Levinson (eds.). <i>Conceptual Development and Language Acquisition</i>. Cambridge:</text>
+<text top="389" left="124" width="193" height="16" font="5">Cambridge University Press.</text>
+<text top="409" left="108" width="487" height="16" font="5">Fodor, J. (1983). <i>The Modularity of Mind</i>. Cambridge Mass.: MIT Press.</text>
+<text top="429" left="108" width="663" height="16" font="5">Giusti, G. (1991). The categorial status of quantified nominals. <i>Linguistische Berichte</i> 136: 438-52.</text>
+<text top="449" left="108" width="702" height="16" font="5">Giusti, G. (1997). The categorial status of determiners. In L. Haegeman (ed.). <i>The New Comparative</i></text>
+<text top="468" left="124" width="238" height="16" font="8"><i>Syntax</i>. 95-123. London: Longman.</text>
+<text top="488" left="108" width="702" height="16" font="5">Guilfoyle, E. &amp; M. Noonan (1988). Functional Categories and Language Acquisition. Paper presented at</text>
+<text top="508" left="124" width="631" height="16" font="5">the 13th Annual Boston University Conference on Language Acquisition, Boston, 13 October.</text>
+<text top="528" left="108" width="702" height="16" font="5">Heim, I. (1982).  <i>The Semantics of Definite and Indefinite NPs</i>. Doctoral dissertation, University of</text>
+<text top="548" left="124" width="167" height="16" font="5">Massachusetts, Amherst.</text>
+<text top="568" left="108" width="702" height="16" font="5">Higginbotham, J. (1995).  Sense and Syntax.  An Inaugural Lecture, The University of Oxford. Oxford:</text>
+<text top="588" left="124" width="113" height="16" font="5">Clarendon Press.</text>
+<text top="607" left="108" width="702" height="16" font="5">Hoekstra, T. &amp; P. Jordens. (1994). From Adjunct to Head. In T. Hoekstra &amp; B.D. Schwartz (eds.).</text>
+<text top="627" left="124" width="601" height="16" font="8"><i>Language Acquisition Studies in Generative Grammar</i>. 119-149. Amsterdam: Benjamins.</text>
+<text top="647" left="108" width="702" height="16" font="5">Huang, J.C.-T. (1982). <i>Logical Relations in Chinese and the Theory of Grammar</i>.  PhD dissertation,</text>
+<text top="667" left="124" width="35" height="16" font="5">MIT.</text>
+<text top="687" left="108" width="702" height="16" font="5">Inhelder, B. &amp; Piaget, J. (1958). <i>The growth of logical thinking from childhood to adolescence</i>. New</text>
+<text top="706" left="124" width="131" height="16" font="5">York: Basic Books.</text>
+<text top="726" left="108" width="703" height="16" font="5">Inhelder, B. &amp; J. Piaget. (1964). <i>The early growth of logic in the child</i>. London: Routledge &amp; Kegan</text>
+<text top="746" left="124" width="34" height="16" font="5">Paul.</text>
+<text top="766" left="108" width="579" height="16" font="5">Ioup, G. (1975). Some universals for quantifier scope. <i>Syntax and Semantics</i>, 4: 37-58.</text>
+<text top="786" left="108" width="618" height="16" font="5">Kampen, N.J. van (1997). <i>First steps in wh-movement</i>. PhD dissertation, Utrecht University.</text>
+<text top="806" left="108" width="702" height="16" font="5">Kang, H-K. (1999). Left-Branch Elements: Adjuncts vs. Heads. In S.O. Lee &amp; C.J. Kwon (eds.). <i>Onul-</i></text>
+<text top="826" left="124" width="554" height="16" font="8"><i>uy Munbup, Uri-lul Ediro</i>.<i> A Festschrift for Hong-Bae Lee</i>. 73-90. Seoul: Hanshin.</text>
+<text top="845" left="108" width="702" height="16" font="5">Kang, H-K. (in prep.). <i>Aspects of the Acquisition of Quantification:  Experimental Studies of Korean and</i></text>
+<text top="865" left="124" width="390" height="16" font="8"><i>English Children</i>. PhD thesis, University College London.</text>
+<text top="885" left="108" width="702" height="16" font="5">Lee, T. (1991). Linearity as a Scope Principle for Chinese: The Evidence from First Language</text>
+<text top="905" left="124" width="687" height="16" font="5">Acquisition. In D. Napoli &amp; J. Kegl (eds.). <i>Bridges between Psychology and Linguistics</i>. Hillsdale,</text>
+<text top="925" left="124" width="324" height="16" font="5">New Jersey: Lawrence Erlbaum Associates, Inc.</text>
+<text top="945" left="108" width="702" height="16" font="5">Lewis, D. (1975). Adverbs of Quantification. In E. Keenan, (ed.). <i>Formal Semantics of Natural</i></text>
+<text top="965" left="124" width="351" height="16" font="8"><i>Language</i>. Cambridge: Cambridge University Press.</text>
+<text top="984" left="108" width="513" height="16" font="5">May, R. (1977). <i>The Grammar of Quantification</i>.  MIT doctoral dissertation.</text>
+<text top="1004" left="108" width="702" height="16" font="5">Philip, W. (1995). <i>Event Quantification in the Acquisition of Universal Quantification</i>. Doctoral</text>
+<text top="1024" left="124" width="360" height="16" font="5">Dissertation, University of Massachusetts at Amherst.</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="131" left="108" width="25" height="16" font="5">404</text>
+<text top="131" left="152" width="36" height="16" font="8"><i>Kang</i></text>
+<text top="171" left="108" width="702" height="16" font="5">Philip, W. (1996). Symmetrical Interpretation and Scope Ambiguity in the Acquisition of uantification</text>
+<text top="191" left="124" width="687" height="16" font="5">in Dutch. In C. Koster &amp; F. Wijnen (eds.). <i>Proceedings of Groningen Assembly in Language</i></text>
+<text top="211" left="124" width="226" height="16" font="8"><i>Acquisition</i>. 293-302. The Hague.</text>
+<text top="231" left="108" width="702" height="16" font="5">Philip, W. &amp; S. Aurelio. (1991). Quantifier Spreading: Pilot study of preschoolers’ <i>every</i>. In Maxfield</text>
+<text top="250" left="124" width="687" height="16" font="5">and B. Plunkett (eds), <i>University of Massachusetts Occasional Papers: Papers in the Acquisition of</i></text>
+<text top="270" left="124" width="261" height="16" font="8"><i>WH</i>. 267-282. Amherst, Mass.: GLSA.</text>
+<text top="290" left="108" width="702" height="16" font="5">Philip, W. &amp; M. Verrips (1994). Dutch Preschoolers’ Elke. Paper presented at the 19th Annual Boston</text>
+<text top="310" left="124" width="397" height="16" font="5">University Conference on Language Development, Boston.</text>
+<text top="330" left="108" width="680" height="16" font="5">Radford, A. (1990). <i>Syntactic Theory and the Acquisition of English Syntax</i>. Oxford: Basil Blackwell.</text>
+<text top="350" left="108" width="702" height="16" font="5">Roeper, T. &amp; E. Matthei. (1974). On the acquisition of All and Some. <i>Proceedings of the Stanford Child</i></text>
+<text top="369" left="124" width="153" height="16" font="8"><i>Language Conference</i>.</text>
+<text top="389" left="108" width="702" height="16" font="5">Roeper, T. &amp; J. de Villiers. (1991). The Emergence of Bound Variable Structures. In Maxfield &amp; B.</text>
+<text top="409" left="124" width="687" height="16" font="5">Plunkett (eds). <i>University of Massachusetts Occasional Papers: Papers in the Acquisition of WH</i>.</text>
+<text top="429" left="124" width="226" height="16" font="5">267-282. Amherst, Mass.: GLSA.</text>
+<text top="449" left="108" width="520" height="16" font="5">Ross, J.R. (1967). <i>Constraints on Variables in Syntax</i>. PhD dissertation, MIT.</text>
+<text top="468" left="108" width="702" height="16" font="5">Smith, N.V. &amp; I.-M. Tsimpli (1995). <i>The Mind of a Savant  Language Learning and Modularity</i>.</text>
+<text top="488" left="124" width="167" height="16" font="5">Oxford: Basil Blackwell.</text>
+<text top="508" left="108" width="702" height="16" font="5">Sperber, D. &amp; D. Wilson (1986;1995). <i>Relevance: Communication and Cognition</i>. Oxford: Basil</text>
+<text top="528" left="124" width="72" height="16" font="5">Blackwell.</text>
+<text top="548" left="108" width="702" height="16" font="5">de Swart, H. (1991). <i>Adverbs of quantification: A generalized quantifier approach</i>. Dissertation,</text>
+<text top="568" left="124" width="168" height="16" font="5">University of Groningen.</text>
+<text top="588" left="108" width="560" height="16" font="5">Vendler, Z. (1967). <i>Linguistics in philosophy</i>. Ithaca, NY: Cornell University Press.</text>
+<text top="607" left="108" width="702" height="16" font="5">Wason, P. (1965). The Contexts of Plausible Denial. <i>Journal of Verbal Behavior and Verbal Learning</i>,</text>
+<text top="627" left="124" width="52" height="16" font="5">4: 7-11.</text>
+</page>
+</pdf2xml>

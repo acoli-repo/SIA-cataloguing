@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="36" family="Times" color="#000000"/>
+	<fontspec id="4" size="21" family="Times" color="#000000"/>
+	<fontspec id="5" size="20" family="Times" color="#000000"/>
+	<fontspec id="6" size="20" family="Times" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+<text top="968" left="129" width="681" height="15" font="0">I wish to thank Deirdre Wilson for her continuous encouragement and invaluable and detailed</text>
+<text top="963" left="123" width="6" height="11" font="1">*</text>
+<text top="987" left="108" width="702" height="15" font="0">comments on the topic of this paper. I also wish to thank Robyn Carston and Neil Smith for many</text>
+<text top="1007" left="108" width="250" height="15" font="0">helpful comments on an earlier draft.</text>
+<text top="1045" left="130" width="629" height="15" font="0">See Comrie (1982, 1986), van der Auwera (1986), Quirk et al. (1985), and Sweetser (1990).</text>
+<text top="1040" left="123" width="6" height="11" font="1">1</text>
+<text top="132" left="108" width="364" height="18" font="2"><i>UCL Working Papers in Linguistics 8 (1996)</i></text>
+<text top="184" left="108" width="702" height="32" font="3"><i><b>A   r e l e v a n c e - t h e o r e t i c   a c c o u n t   o f</b></i></text>
+<text top="226" left="108" width="584" height="32" font="3"><i><b>metarepresentative uses in conditionals</b></i></text>
+<text top="222" left="692" width="11" height="19" font="4"><i><b>*</b></i></text>
+<text top="311" left="108" width="118" height="18" font="5">EUN-JU NOH</text>
+<text top="383" left="162" width="75" height="18" font="6"><b>Abstract</b></text>
+<text top="429" left="162" width="594" height="15" font="0">The purpose of this paper is to give a relevance-theoretic account of certain 'non-basic'</text>
+<text top="449" left="162" width="594" height="15" font="0">indicative conditionals. There has been a claim (e.g. Grice 1989) that natural language <i>if</i></text>
+<text top="468" left="162" width="594" height="15" font="0">is semantically identical with material implication in logic. This approach runs into some</text>
+<text top="488" left="162" width="594" height="15" font="0">problems, one of which is that some natural-language conditionals do not appear to</text>
+<text top="508" left="162" width="594" height="15" font="0">involve the required truth-functional relation between antecedent and consequent. I</text>
+<text top="528" left="162" width="594" height="15" font="0">attempt to show that the relevance-theoretic notions of metarepresentation and pragmatic</text>
+<text top="548" left="162" width="594" height="15" font="0">enrichment (Carston 1988, Wilson and Sperber 1992) allow us to preserve the view that</text>
+<text top="567" left="162" width="260" height="15" font="7"><i>if</i> is equivalent to material implication.</text>
+<text top="636" left="108" width="125" height="18" font="6"><b>1 Introduction</b></text>
+<text top="683" left="108" width="702" height="18" font="5">The purpose of this paper is to give a relevance-theoretic account of a certain range of</text>
+<text top="706" left="108" width="703" height="18" font="5">indicative conditionals (as opposed to subjunctive conditionals). The semantics of</text>
+<text top="730" left="108" width="701" height="18" font="5">indicative conditionals (henceforth, simply conditionals) has been much debated. Some</text>
+<text top="754" left="108" width="702" height="18" font="5">people (eg. Grice 1989) claim that natural language <i>if</i> is semantically identical with</text>
+<text top="778" left="108" width="702" height="18" font="5">material implication in logic. Others claim that natural language <i>if</i> encodes some non-</text>
+<text top="801" left="108" width="702" height="18" font="5">truth-functional relation between antecedent and consequent; this is generally seen as</text>
+<text top="825" left="108" width="702" height="18" font="5">'causal' or 'consequential'.  Both accounts can deal with many 'basic' conditionals which</text>
+<text top="823" left="312" width="6" height="11" font="1">1</text>
+<text top="849" left="108" width="702" height="18" font="5">convey a non-truth-functional relation, the only difference being whether this is regarded</text>
+<text top="873" left="108" width="702" height="18" font="5">as pragmatically determined or as semantically encoded. Here I shall tentatively adopt the</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="10" height="18" font="5">2</text>
+<text top="194" left="108" width="702" height="18" font="5">material implication semantics, plus pragmatic enrichment under relevance-theoretic</text>
+<text top="218" left="108" width="93" height="18" font="5">constraints.</text>
+<text top="242" left="123" width="687" height="18" font="5">However, there are further types of conditional which are seen as presenting problems</text>
+<text top="265" left="108" width="703" height="18" font="5">for the material implication account. My main concern in this paper is with these types</text>
+<text top="289" left="108" width="702" height="18" font="5">of 'non-basic' conditional. I will argue that some of these can be interestingly analysed in</text>
+<text top="313" left="108" width="702" height="18" font="5">terms of the relevance-theoretic notion of metarepresentation, and that this analysis makes</text>
+<text top="337" left="108" width="643" height="18" font="5">it possible to deal with these non-basic types on a material implication account. </text>
+<text top="360" left="123" width="686" height="18" font="5">The paper is organized as follows. In section 2, accounts of natural language</text>
+<text top="384" left="108" width="702" height="18" font="5">conditionals in general are surveyed. In section 3, 'given' antecedents are reanalysed in</text>
+<text top="408" left="108" width="702" height="18" font="5">metarepresentational terms. In section 4, 'speech-act conditionals' are reanalysed as</text>
+<text top="432" left="108" width="702" height="18" font="5">having metarepresentational consequents. In section 5, it is suggested that some</text>
+<text top="455" left="108" width="702" height="18" font="5">conditionals have both a metarepresentational antecedent and a metarepresentational</text>
+<text top="479" left="108" width="425" height="18" font="5">consequent. Section 6 is a summary and conclusion. </text>
+<text top="551" left="108" width="452" height="18" font="6"><b>2 An introductory survey of accounts of conditionals</b></text>
+<text top="597" left="108" width="702" height="18" font="5">Natural language conditionals appear to be so diverse that the material implication</text>
+<text top="621" left="108" width="702" height="18" font="5">account cannot deal with all of them. Some conditionals certainly involve non-truth-</text>
+<text top="645" left="108" width="702" height="18" font="5">functional relations between antecedent and consequent, and in the linguistics literature,</text>
+<text top="668" left="108" width="702" height="18" font="5">the causal-consequential semantic approach (proposed eg. by van der Auwera (1986) and</text>
+<text top="692" left="108" width="702" height="18" font="5">Sweetser (1990)) has been more popular. However, this approach also encounters the</text>
+<text top="716" left="108" width="702" height="18" font="5">problem that not all conditionals involve such a semantic relation between antecedent and</text>
+<text top="740" left="108" width="702" height="18" font="5">consequent. In this section, I will argue that the truth-table account can deal with</text>
+<text top="764" left="108" width="702" height="18" font="5">conditionals better than the alternative semantic approach, as long as it is combined with</text>
+<text top="787" left="108" width="702" height="18" font="5">proper pragmatic explanations. This section will also be an introduction to the</text>
+<text top="811" left="108" width="702" height="18" font="5">problematic types of conditional which will be dealt with in detail in the following</text>
+<text top="835" left="108" width="70" height="18" font="5">sections.</text>
+<text top="859" left="123" width="687" height="18" font="5">In the truth-table account, natural language <i>if</i> is analysed in terms of the truth-table in</text>
+<text top="882" left="108" width="29" height="18" font="5">(1):</text>
+<text top="930" left="108" width="24" height="18" font="5">(1)</text>
+<text top="930" left="162" width="126" height="18" font="5">Antecedent -&gt;</text>
+<text top="930" left="324" width="95" height="18" font="5">Consequent</text>
+<text top="954" left="216" width="12" height="18" font="5">T</text>
+<text top="954" left="270" width="12" height="18" font="5">T</text>
+<text top="954" left="324" width="12" height="18" font="5">T</text>
+<text top="977" left="216" width="12" height="18" font="5">T</text>
+<text top="977" left="270" width="11" height="18" font="5">F</text>
+<text top="977" left="324" width="11" height="18" font="5">F</text>
+<text top="1001" left="216" width="11" height="18" font="5">F</text>
+<text top="1001" left="270" width="12" height="18" font="5">T</text>
+<text top="1001" left="324" width="12" height="18" font="5">T</text>
+<text top="1025" left="216" width="11" height="18" font="5">F</text>
+<text top="1025" left="270" width="12" height="18" font="5">T</text>
+<text top="1025" left="324" width="11" height="18" font="5">F</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="800" width="10" height="18" font="5">3</text>
+<text top="194" left="108" width="702" height="18" font="5">(1) says that the whole conditional is true in all circumstances except where the</text>
+<text top="218" left="108" width="462" height="18" font="5">antecedent is true and the consequent false. Consider (2):</text>
+<text top="265" left="108" width="24" height="18" font="5">(2)</text>
+<text top="265" left="162" width="326" height="18" font="5">If he dies, his son will inherit the castle. </text>
+<text top="313" left="108" width="702" height="18" font="5">According to the truth-table for material implication, (2) rules out only one possibility:</text>
+<text top="337" left="108" width="702" height="18" font="5">that he dies and his son does not inherit the castle. On this approach, additional meanings</text>
+<text top="360" left="108" width="702" height="18" font="5">like 'his death causes his son's inheritance of the castle' are treated as pragmatically</text>
+<text top="384" left="108" width="702" height="18" font="5">determined. Grice (1989, chap. 4) claims that they are conversationally implicated</text>
+<text top="408" left="108" width="702" height="18" font="5">through his Cooperative Principle and maxims, and Smith &amp; Smith (1988) claim that</text>
+<text top="432" left="108" width="702" height="18" font="5">relevance theory can provide a better explanation of those meanings. A further problem,</text>
+<text top="455" left="108" width="702" height="18" font="5">which is again often dealt with pragmatically, involves the so-called 'paradoxes of material</text>
+<text top="479" left="108" width="702" height="18" font="5">implication', which predict that (2) will be true if the antecedent is false, or the consequent</text>
+<text top="503" left="108" width="702" height="18" font="5">is true. I will not discuss these problems here in detail, but see Jackson (1987) for a</text>
+<text top="527" left="108" width="471" height="18" font="5">detailed defence of a material-implication semantics for <i>if</i>.</text>
+<text top="550" left="123" width="687" height="18" font="5">In alternative semantic accounts, some stronger relation than material implication is</text>
+<text top="574" left="108" width="702" height="18" font="5">claimed to be semantically encoded. Akatsuka (1986: 335) sees this as an abstract relation</text>
+<text top="598" left="108" width="702" height="18" font="5">of 'correlation' or 'correspondence', which may be contextually narrowed to causation or</text>
+<text top="622" left="108" width="702" height="18" font="5">consequence. Van der Auwera (1986) puts forward a Sufficiency Hypothesis, on which</text>
+<text top="645" left="108" width="702" height="18" font="2"><i>if p</i>, <i>then q</i> means that <i>p</i> is a sufficient condition for <i>q</i>. On this account, (2) entails that his</text>
+<text top="669" left="108" width="702" height="18" font="5">death is a sufficient condition for his son to inherit the castle. These alternative semantic</text>
+<text top="693" left="108" width="623" height="18" font="5">accounts seem to explain why conditional (3) sounds odd, while (2) does not:</text>
+<text top="740" left="108" width="24" height="18" font="5">(3)</text>
+<text top="740" left="162" width="246" height="18" font="5">If he dies, the butler has a son.</text>
+<text top="764" left="108" width="5" height="18" font="5"> </text>
+<text top="788" left="108" width="702" height="18" font="5">The difference is that in (3), the antecedent cannot normally be a sufficient condition for</text>
+<text top="812" left="108" width="702" height="18" font="5">the truth of the consequent, while it is in (2). However, not all conditionals express</text>
+<text top="836" left="108" width="282" height="18" font="5">sufficient conditions. Consider (4):</text>
+<text top="883" left="108" width="24" height="18" font="5">(4)</text>
+<text top="883" left="162" width="405" height="18" font="5">If you are hungry, there's a sandwich in the fridge.</text>
+<text top="931" left="108" width="702" height="18" font="5">In (4), the hearer's hunger is not a sufficient condition for the presence of a sandwich in</text>
+<text top="954" left="108" width="443" height="18" font="5">the fridge. Or consider (5), from Sweetser (1990: 116):</text>
+<text top="1002" left="108" width="24" height="18" font="5">(5)</text>
+<text top="1002" left="162" width="540" height="18" font="5">If John went to that party, (then) he was trying to infuriate Miriam.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="10" height="18" font="5">4</text>
+<text top="194" left="108" width="702" height="18" font="5">In (5), John's having gone to that party is not a sufficient condition for his having tried to</text>
+<text top="218" left="108" width="702" height="18" font="5">infuriate Miriam. In neither of these examples is a cause-consequence analysis of</text>
+<text top="242" left="108" width="245" height="18" font="5">conditionals easy to maintain. </text>
+<text top="265" left="123" width="687" height="18" font="5">Sweetser (1990) tries to cover these types of conditional, while retaining the Sufficiency</text>
+<text top="289" left="108" width="702" height="18" font="5">Hypothesis. She claims that conditionality functions in three different domains: content,</text>
+<text top="313" left="108" width="702" height="18" font="5">epistemic and speech-act domains, and that in each domain the Sufficiency Hypothesis</text>
+<text top="337" left="108" width="702" height="18" font="5">can be maintained. Content conditionals relate events or states of affairs, and indicate that</text>
+<text top="360" left="108" width="702" height="18" font="5">the truth of the antecedent is a sufficient condition for the truth of the consequent. The</text>
+<text top="384" left="108" width="703" height="18" font="5">result is an ordinary, causal interpretation: for example, (2) means that his death causes</text>
+<text top="408" left="108" width="270" height="18" font="5">his son's inheritance of the castle.</text>
+<text top="432" left="123" width="687" height="18" font="5">In the epistemic domain, the relation is between epistemic states, and the conditional</text>
+<text top="455" left="108" width="702" height="18" font="5">may be paraphrased as 'If<i> I know</i> [antecedent], then <i>I conclude</i> [consequent]' (p. 121). For</text>
+<text top="479" left="108" width="702" height="18" font="5">example, (5) is an epistemic conditional which means 'if I know that John went to the</text>
+<text top="503" left="108" width="702" height="18" font="5">party, I conclude that he was trying to infuriate Miriam'. Here, knowledge of the</text>
+<text top="527" left="108" width="702" height="18" font="5">antecedent is sufficient for knowledge of the consequent, and the causal link is at the</text>
+<text top="550" left="108" width="141" height="18" font="5">epistemic level.   </text>
+<text top="574" left="123" width="687" height="18" font="5">Sweetser's speech-act conditionals are analysed as indicating that truth of the antecedent</text>
+<text top="598" left="108" width="702" height="18" font="5">is a sufficient condition for a speech-act involving the consequent. Consider her</text>
+<text top="622" left="108" width="91" height="18" font="5">examples: </text>
+<text top="669" left="108" width="24" height="18" font="5">(6)</text>
+<text top="669" left="162" width="277" height="18" font="5">If I may say so, that's a crazy idea.</text>
+<text top="717" left="108" width="24" height="18" font="5">(7)</text>
+<text top="717" left="162" width="648" height="18" font="5">If I haven't already asked you to do so, please sign the guest book before you go.</text>
+<text top="764" left="108" width="24" height="18" font="5">(8)</text>
+<text top="764" left="162" width="476" height="18" font="5">If it's not rude to ask, what made you decide to leave IBM?</text>
+<text top="812" left="108" width="702" height="18" font="5">According to Sweetser, each conditional purports to perform the speech-act assigned to</text>
+<text top="836" left="108" width="702" height="18" font="5">the consequent on condition that the antecedent is true. For example, in (6), the</text>
+<text top="859" left="108" width="702" height="18" font="5">conditional is used to state an opinion only conditionally on the hearer's permission. The</text>
+<text top="883" left="108" width="702" height="18" font="5">conditional in (4) belongs to this type. It means something like 'if you are hungry, I inform</text>
+<text top="907" left="108" width="701" height="18" font="5">you that there is a sandwich in the fridge', which can be analysed as indicating that your</text>
+<text top="931" left="108" width="702" height="18" font="5">being hungry is a sufficient condition for my informing you of the existence of the</text>
+<text top="954" left="108" width="81" height="18" font="5">sandwich.</text>
+<text top="978" left="123" width="686" height="18" font="5">I will not examine the adequacy of Sweetser's three domains for conditionals in detail,</text>
+<text top="1002" left="108" width="702" height="18" font="5">but her account of 'speech-act conditionals' is discussed in section 4. I should note here,</text>
+<text top="1026" left="108" width="702" height="18" font="5">though, that if we maintain the truth-table account, we do not need to postulate the class</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="800" width="10" height="18" font="5">5</text>
+<text top="908" left="130" width="680" height="15" font="0">See Smith (1983: 4), where conditionals similar to 'epistemic' conditionals are claimed to have</text>
+<text top="904" left="123" width="6" height="11" font="1">2</text>
+<text top="928" left="108" width="267" height="15" font="7"><i>if</i> identifiable with material implication.</text>
+<text top="966" left="130" width="680" height="15" font="0">Grice (1987: chap. 4) says one might invent a bid of, say 'Two Hearts', which means 'If I have a</text>
+<text top="961" left="123" width="6" height="11" font="1">3</text>
+<text top="986" left="108" width="702" height="15" font="0">red king, I have a black 10'. And here, it's quite clear that there is no causal connection between cards</text>
+<text top="1005" left="108" width="702" height="15" font="0">randomly dealt at bridge. The bid, interpreted as communicating this conditional, would simply rule</text>
+<text top="1025" left="108" width="702" height="15" font="0">out the case where I have a red king and do not have a black 10. In other words, it functions exactly</text>
+<text top="1045" left="108" width="264" height="15" font="0">as predicted by the truth-table account.</text>
+<text top="194" left="108" width="701" height="18" font="5">of 'epistemic conditionals' at all. Compare the content conditional (2) and the epistemic</text>
+<text top="218" left="108" width="702" height="18" font="5">conditional (5).  Though the implied relations between antecedent and consequent are</text>
+<text top="242" left="108" width="702" height="18" font="5">different, both share the truth conditions of material implication in logic.  That is, (2)</text>
+<text top="239" left="706" width="6" height="11" font="1">2</text>
+<text top="265" left="108" width="702" height="18" font="5">rules out the case where he dies and his son does not inherit. Similarly, (5) rules out the</text>
+<text top="289" left="108" width="702" height="18" font="5">case where John went to the party and was not trying to infuriate Miriam. Thus the</text>
+<text top="313" left="108" width="702" height="18" font="5">distinction between content and epistemic conditionals is not needed in the truth-table</text>
+<text top="337" left="108" width="74" height="18" font="5">account. </text>
+<text top="360" left="123" width="687" height="18" font="5">The Sufficiency Hypothesis is faced with many counterexamples in which the</text>
+<text top="384" left="108" width="702" height="18" font="5">antecedent is not a sufficient condition for the consequent in any of the three domains.</text>
+<text top="408" left="108" width="702" height="18" font="5">One involves conditionals chosen only for the truth-values of antecedent and consequent,</text>
+<text top="432" left="108" width="72" height="18" font="5">as in (9):</text>
+<text top="479" left="108" width="24" height="18" font="5">(9)</text>
+<text top="479" left="162" width="335" height="18" font="5">If the sun rises in the East, I am innocent.</text>
+<text top="527" left="108" width="702" height="18" font="5">(9) is used to emphasize the truth of the consequent, by using an antecedent which is</text>
+<text top="550" left="108" width="702" height="18" font="5">obviously true. This does not seem to fit into any of Sweetser's categories. The sun's rising</text>
+<text top="574" left="108" width="701" height="18" font="5">in the east cannot be a sufficient condition for the speaker's innocence, for the speaker's</text>
+<text top="598" left="108" width="703" height="18" font="5">conclusion that she is innocent, nor for the assertion that she is innocent. It simply rules</text>
+<text top="622" left="108" width="702" height="18" font="5">out the case where 'the sun rises in the east' is true, and 'I am innocent' is false, as the</text>
+<text top="645" left="108" width="703" height="18" font="5">material implication analysis predicts.  Hence, the Sufficiency Hypothesis seems too</text>
+<text top="643" left="422" width="6" height="11" font="1">3</text>
+<text top="669" left="108" width="55" height="18" font="5">strong.</text>
+<text top="693" left="123" width="687" height="18" font="5">However, if we want to maintain the material implication account, we need to provide</text>
+<text top="717" left="108" width="702" height="18" font="5">some analyses of those conditionals which do not seem to involve the predicted truth-</text>
+<text top="740" left="108" width="702" height="18" font="5">functional relations. One type is the so-called speech-act conditionals in (6)-(8) above.</text>
+<text top="764" left="108" width="702" height="18" font="5">These do not seem to fit the truth-table account. For example, in (6) ('If I may say so,</text>
+<text top="788" left="108" width="703" height="18" font="5">that's a crazy idea'), whether the speaker may say so or not, the speaker thinks that it's a</text>
+<text top="812" left="108" width="702" height="18" font="5">crazy idea. I will attempt to deal with this type of conditional in section 4, using the</text>
+<text top="836" left="108" width="625" height="18" font="5">relevance-theoretic notions of metarepresentation and pragmatic enrichment. </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="10" height="18" font="5">6</text>
+<text top="194" left="123" width="687" height="18" font="5">These notions shed light on another type of conditional, where the antecedent is often</text>
+<text top="218" left="108" width="379" height="18" font="5">analysed as 'contextually given'. Consider (10):</text>
+<text top="265" left="108" width="33" height="18" font="5">(10)</text>
+<text top="265" left="162" width="263" height="18" font="5">A: Two and eleven makes thirty.</text>
+<text top="289" left="162" width="527" height="18" font="5">B: If two and eleven makes thirty, you need more work on maths.</text>
+<text top="337" left="108" width="702" height="18" font="5">In (10 B), the conditional is not equivalent to 'either two and eleven does not make thirty</text>
+<text top="360" left="108" width="702" height="18" font="5">or you need more work on maths', as the truth-table account predicts. (10 B) is also a</text>
+<text top="384" left="108" width="702" height="18" font="5">counterexample to the Sufficiency Hypothesis, because it does not mean that the truth of</text>
+<text top="408" left="108" width="702" height="18" font="5">'two and eleven makes thirty' is a sufficient condition for your needing more work on</text>
+<text top="432" left="108" width="702" height="18" font="5">maths, nor for concluding or asserting that you need more work on maths. I will analyse</text>
+<text top="455" left="108" width="702" height="18" font="5">it as having a metarepresentational antecedent. This will be dealt with in the next section.</text>
+<text top="479" left="123" width="687" height="18" font="5">We have seen that the truth-table account needs to be supplemented with a proper</text>
+<text top="503" left="108" width="702" height="18" font="5">pragmatic analysis, which will allow the hearer to infer a more specific connection</text>
+<text top="527" left="108" width="702" height="18" font="5">between antecedent and consequent when appropriate in the context, and give an</text>
+<text top="550" left="108" width="702" height="18" font="5">explanation for non-basic conditionals. The first part has been attempted by Smith (1983)</text>
+<text top="574" left="108" width="703" height="18" font="5">and Smith &amp; Smith (1988) within the framework of relevance theory, and could be</text>
+<text top="598" left="108" width="703" height="18" font="5">extended using the framework for pragmatic enrichment developed by Carston (1988).</text>
+<text top="622" left="108" width="702" height="18" font="5">In this chapter, I will concentrate on the second part. Using the notions of</text>
+<text top="645" left="108" width="702" height="18" font="5">metarepresentation and pragmatic enrichment, I hope to show that some of the</text>
+<text top="669" left="108" width="702" height="18" font="5">problematic non-basic conditionals can be analysed as having a metarepresentational</text>
+<text top="693" left="108" width="702" height="18" font="5">antecedent, or consequent, or both, and that the result will allow us to maintain the truth-</text>
+<text top="717" left="108" width="152" height="18" font="5">table analysis of <i>if</i>.</text>
+<text top="788" left="108" width="345" height="18" font="6"><b>3 Metarepresentative use of antecedents</b></text>
+<text top="836" left="108" width="140" height="18" font="6"><b>3.1 Introduction</b></text>
+<text top="882" left="108" width="702" height="18" font="5">A conditional with a 'given' antecedent is generally known as a 'given' conditional. The</text>
+<text top="906" left="108" width="702" height="18" font="5">notion of a 'given' antecedent has been analysed in two different ways: in the stronger</text>
+<text top="930" left="108" width="702" height="18" font="5">sense, a 'given' antecedent must be known (or accepted) by both speaker and hearer; in</text>
+<text top="954" left="108" width="701" height="18" font="5">the weaker sense, it must merely be 'contextually given', i.e., recoverable from the prior</text>
+<text top="977" left="108" width="702" height="18" font="5">discourse but not necessarily accepted by both speaker and hearer. In the literature on</text>
+<text top="1001" left="108" width="702" height="18" font="5">conditionals, various conditions to do with 'givenness' of antecedents have been proposed</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="11" family="Times" color="#000000"/>
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="800" width="10" height="18" font="5">7</text>
+<text top="194" left="108" width="702" height="18" font="5">and defended. In this section, I will try to evaluate and reanalyse some of these</text>
+<text top="218" left="108" width="578" height="18" font="5">conditionals using the relevance-theoretic notion of metarepresentation.</text>
+<text top="289" left="108" width="341" height="18" font="6"><b>3.2 'Given' antecedents in the literature</b></text>
+<text top="337" left="108" width="702" height="18" font="6"><b>3.2.1 'Givenness' in general.</b> The general notion of given - new information has figured</text>
+<text top="360" left="108" width="703" height="18" font="5">prominently in the linguistic literature. Prince (1981) distinguishes three notions of</text>
+<text top="384" left="108" width="373" height="18" font="5">givenness, of which two will concern me here.</text>
+<text top="408" left="123" width="687" height="18" font="5">In the first sense, an item is 'given' when it is salient in the hearer's consciousness as a</text>
+<text top="432" left="108" width="702" height="18" font="5">result of having been present in the discourse or environment. According to Chafe (1976:</text>
+<text top="455" left="108" width="702" height="18" font="5">32), an NP is 'given' if its referent has been explicitly introduced in the discourse, or is</text>
+<text top="479" left="108" width="702" height="18" font="5">present in the physical context, or can be categorized in the same way as a referent</text>
+<text top="503" left="108" width="702" height="18" font="5">previously introduced or physically present. I shall talk of such items as 'contextually</text>
+<text top="527" left="108" width="52" height="18" font="5">given'.</text>
+<text top="550" left="123" width="687" height="18" font="5">The second sense of 'givenness' is one that Prince talks of as involving 'shared</text>
+<text top="574" left="108" width="696" height="18" font="5">knowledge', but not necessarily salience in consciousness. Prince defines it as follows:</text>
+<text top="622" left="108" width="34" height="18" font="5">(11)</text>
+<text top="622" left="162" width="594" height="18" font="6"><b>Givenness </b>: the speaker assumes that the hearer 'knows', assumes, or can</text>
+<text top="632" left="249" width="7" height="11" font="8"><b>k</b></text>
+<text top="646" left="162" width="581" height="18" font="5">infer a particular thing (but is not necessarily thinking about it). (p. 230)</text>
+<text top="693" left="108" width="702" height="18" font="5">An NP is 'given' in this sense if its referent has been mentioned in the previous discourse</text>
+<text top="717" left="108" width="702" height="18" font="5">or is 'in the permanent registry (Kuno 1972: 270)', where 'the permanent registry'</text>
+<text top="741" left="108" width="702" height="18" font="5">corresponds to what the speaker assumes about the hearer's assumptions. (Prince 1981:</text>
+<text top="765" left="108" width="701" height="18" font="5">231) The difference between contextual 'givenness' and 'givenness' as in (11) lies in this</text>
+<text top="788" left="108" width="168" height="18" font="5">'permanent registry'. </text>
+<text top="812" left="123" width="686" height="18" font="5">Prince claims that the two senses of givenness are related: 'an understanding of</text>
+<text top="836" left="108" width="702" height="18" font="5">givenness in the sense of 'shared knowledge' is germane (and perhaps, prerequisite) to an</text>
+<text top="860" left="108" width="702" height="18" font="5">understanding of givenness in the other two senses' (p. 232). In other words, on her view,</text>
+<text top="883" left="108" width="701" height="18" font="5">both senses of 'givenness' involve 'shared knowledge'. It seems to be assumed that when</text>
+<text top="907" left="108" width="702" height="18" font="5">the speaker uses an NP, she already knows the referent of the NP, so as long as the hearer</text>
+<text top="931" left="108" width="701" height="18" font="5">knows it, it is regarded as shared knowledge. However, this is not strictly speaking true.</text>
+<text top="955" left="108" width="704" height="18" font="5">For example, when an NP is used echoically, the speaker can use the NP without knowing</text>
+<text top="978" left="108" width="214" height="18" font="5">its referent. Consider (12):</text>
+<text top="1026" left="108" width="34" height="18" font="5">(12)</text>
+<text top="1026" left="162" width="207" height="18" font="5">Mary: I loved the painter.</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="10" height="18" font="5">8</text>
+<text top="194" left="162" width="248" height="18" font="5">Peter: You loved<b> the painter?</b></text>
+<text top="242" left="108" width="702" height="18" font="5">In (12), Peter may use the echo question because he does not know who 'the painter' refers</text>
+<text top="266" left="108" width="165" height="18" font="5">to. Or consider (13):</text>
+<text top="314" left="108" width="33" height="18" font="5">(13)</text>
+<text top="314" left="162" width="336" height="18" font="5">Mary: I would like to meet <b>your parents.</b></text>
+<text top="337" left="162" width="336" height="18" font="5">Peter: They have been dead for ten years.</text>
+<text top="385" left="108" width="702" height="18" font="5">In (13), <i>your parents</i> should be 'given' in the sense defined in (11), but that does not mean</text>
+<text top="409" left="108" width="702" height="18" font="5">that Mary knows who Peter's parents are. Accordingly, not every speaker knows what/who</text>
+<text top="432" left="108" width="702" height="18" font="5">the NP which she uses refers to, whether it is given in the discourse or in the permanent</text>
+<text top="456" left="108" width="703" height="18" font="5">registry of the hearer. Hence, it is misleading to talk of 'givenness' in either of the senses</text>
+<text top="480" left="108" width="702" height="18" font="5">defined above as involving shared knowledge. I will argue that the same point applies to</text>
+<text top="504" left="108" width="702" height="18" font="5">'given' antecedents, which are not, in fact, typically treated as involving shared knowledge,</text>
+<text top="527" left="108" width="259" height="18" font="5">but more as 'contextually given'.</text>
+<text top="599" left="108" width="702" height="18" font="6"><b>3.2.2 Accounts of 'given' antecedents.</b> Prince's claim that all the senses of 'givenness'</text>
+<text top="623" left="108" width="702" height="18" font="5">involve 'shared knowledge' runs into the same problem with 'given' propositions in general</text>
+<text top="647" left="108" width="337" height="18" font="5">as it does with 'given NPs'. Consider (14):</text>
+<text top="694" left="108" width="33" height="18" font="5">(14)</text>
+<text top="694" left="162" width="648" height="18" font="5">Housemaid: Madam wrote a letter to the gentleman every day. She was in love</text>
+<text top="718" left="270" width="76" height="18" font="5">with him.</text>
+<text top="742" left="162" width="82" height="18" font="5">Detective:</text>
+<text top="742" left="270" width="120" height="18" font="5">She loved him.</text>
+<text top="789" left="108" width="702" height="18" font="5">In (14), the proposition expressed by the detective's utterance is 'given' in both senses</text>
+<text top="813" left="108" width="702" height="18" font="5">defined above, but it need not be shared knowledge if he has just repeated the housemaid's</text>
+<text top="837" left="108" width="702" height="18" font="5">utterance in order to express doubts about whether it is true. We should not be surprised,</text>
+<text top="860" left="108" width="500" height="18" font="5">then, to find that the same point applies to 'given' antecedents.</text>
+<text top="884" left="123" width="687" height="18" font="5">Akatsuka (1986) considers the following example of a 'contextually given' antecedent:</text>
+<text top="932" left="108" width="34" height="18" font="5">(15)</text>
+<text top="932" left="162" width="454" height="18" font="5">(Pope to the telephone operator in a small Swiss village)</text>
+<text top="955" left="162" width="46" height="18" font="5">Pope:</text>
+<text top="955" left="270" width="106" height="18" font="5">I'm the Pope.</text>
+<text top="979" left="162" width="77" height="18" font="5">Operator:</text>
+<text top="979" left="270" width="363" height="18" font="5">If you're the Pope, I'm the Empress of China.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="800" width="10" height="18" font="5">9</text>
+<text top="1025" left="130" width="680" height="15" font="0">This claim is contrasted with the claim that conditionals convey the speaker's uncertainty of</text>
+<text top="1020" left="123" width="6" height="11" font="1">4</text>
+<text top="1045" left="108" width="600" height="15" font="0">(Akatsuka 1986) or epistemic distance (Dancygier 1993) from the antecedent. See 3.1.3.</text>
+<text top="194" left="108" width="701" height="18" font="5">She argues that a contextually given proposition can be presented as the antecedent of a</text>
+<text top="218" left="108" width="702" height="18" font="5">conditional only if it is newly learned<i> information</i>, as opposed to speaker's <i>knowledge</i>.</text>
+<text top="242" left="108" width="702" height="18" font="5">(This will be dealt with in section 3.2.3. again). Hence, for her, a 'contextually given'</text>
+<text top="265" left="108" width="386" height="18" font="5">antecedent must not involve shared knowledge. </text>
+<text top="289" left="123" width="687" height="18" font="5">Sweetser (1990) claims that 'given' antecedents are not always accepted by the speaker.</text>
+<text top="313" left="108" width="221" height="18" font="5">Consider her example (16):</text>
+<text top="337" left="108" width="5" height="18" font="5"> </text>
+<text top="360" left="108" width="34" height="18" font="5">(16)</text>
+<text top="360" left="162" width="648" height="18" font="5">Well, if (as you say) he had lasagne for lunch, he won't want spaghetti for dinner.</text>
+<text top="408" left="108" width="702" height="18" font="5">Sweetser points out that the conditional in (16) can be followed by 'but I don't believe he</text>
+<text top="432" left="108" width="702" height="18" font="5">had lasagne for lunch'. The parenthetical expression in (17), which she uses in order to</text>
+<text top="455" left="108" width="362" height="18" font="5">indicate a 'given' reading, confirms this view:</text>
+<text top="503" left="108" width="34" height="18" font="5">(17)</text>
+<text top="503" left="162" width="648" height="18" font="5">If you're so smart (as you seem to think), what was the date of Charlemagne's</text>
+<text top="527" left="162" width="95" height="18" font="5">coronation?</text>
+<text top="574" left="108" width="702" height="18" font="5">Obviously, 'as you seem to think' shows that 'given' means 'accepted or proposed by the</text>
+<text top="598" left="108" width="702" height="18" font="5">hearer'. The speaker may not admit that the hearer is 'so' smart. Here, 'given' antecedent</text>
+<text top="622" left="108" width="701" height="18" font="5">again seems to mean 'contextually given' (though it is used to refer to shared knowledge</text>
+<text top="645" left="108" width="451" height="18" font="5">in her argument about 'given' conditionals. (See 3.1.3.)).</text>
+<text top="669" left="123" width="687" height="18" font="5">Akatsuka and Sweetser use 'given' antecedents in the sense of 'contextually given' as</text>
+<text top="693" left="108" width="703" height="18" font="5">defined above. By contrast, Haiman (1978) uses 'givenness' in the sense of shared</text>
+<text top="717" left="108" width="402" height="18" font="5">knowledge. He comments (square brackets mine):</text>
+<text top="764" left="162" width="594" height="18" font="5">A conditional clause [antecedent] is (perhaps only hypothetically) a part of</text>
+<text top="788" left="162" width="594" height="18" font="5">the knowledge shared by the speaker and his listener. As such, it constitutes</text>
+<text top="812" left="162" width="594" height="18" font="5">the framework which has been selected for the following discourse (Haiman</text>
+<text top="836" left="162" width="91" height="18" font="5">1978 (51)).</text>
+<text top="883" left="108" width="702" height="18" font="5">As far as I can understand from the parenthesis 'perhaps only hypothetically', he is not</text>
+<text top="907" left="108" width="702" height="18" font="5">claiming that every antecedent is shared knowledge between speaker and hearer, but that</text>
+<text top="931" left="108" width="701" height="18" font="5">it functions <b>as if</b> it is shared between them.  So, this claim does not prevent us from</text>
+<text top="929" left="472" width="6" height="11" font="1">4</text>
+<text top="955" left="108" width="702" height="18" font="5">concluding that 'contextually given' antecedents are not necessarily speaker's knowledge.</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">10</text>
+<text top="194" left="108" width="702" height="18" font="6"><b>3.2.3 'Given' antecedents and speaker's knowledge</b>. The claim that 'given' antecedents</text>
+<text top="218" left="108" width="702" height="18" font="5">are not necessarily speaker's knowledge implies that they may still possibly be shared</text>
+<text top="242" left="108" width="702" height="18" font="5">knowledge. However, Akatsuka (1986) claims that speaker's knowledge cannot be</text>
+<text top="266" left="108" width="702" height="18" font="5">presented in antecedents, and <i>only</i> newly learned information can be used. I want to argue</text>
+<text top="289" left="108" width="702" height="18" font="5">against this, not because Akatsuka's distinction between information and knowledge is</text>
+<text top="313" left="108" width="702" height="18" font="5">useless, but because it is less material than the distinction between descriptive and</text>
+<text top="337" left="108" width="195" height="18" font="5">metarepresentative use. </text>
+<text top="361" left="123" width="438" height="18" font="5">Let us start with Akatsuka's claim about example (18):</text>
+<text top="408" left="108" width="34" height="18" font="5">(18)</text>
+<text top="408" left="162" width="648" height="18" font="5">(A mother and her son are waiting for the bus on a wintry day. The son is</text>
+<text top="432" left="162" width="224" height="18" font="5">trembling in the cold wind.)</text>
+<text top="456" left="162" width="37" height="18" font="5">Son:</text>
+<text top="456" left="243" width="172" height="18" font="5">Mommy, I'm so cold.</text>
+<text top="479" left="162" width="456" height="18" font="5">Mother: Poor thing! If you're so cold, put on my shawl.</text>
+<text top="527" left="108" width="701" height="18" font="5">Akatsuka claims that in (18), as the fact that her son is cold is 'information' which is only</text>
+<text top="551" left="108" width="702" height="18" font="5">indirectly accessible to her, and hence not knowledge, the mother expresses it as an</text>
+<text top="575" left="108" width="702" height="18" font="5">antecedent. By contrast, the son cannot express his inner state in the form of <i>if p</i>;<i> </i>instead</text>
+<text top="598" left="108" width="326" height="18" font="5">he must use <i>because</i> or<i> since</i>, as in (19):</text>
+<text top="646" left="108" width="34" height="18" font="5">(19)</text>
+<text top="646" left="162" width="539" height="18" font="5">Son: *If/Because/Since I'm so cold, please let me use your shawl.</text>
+<text top="693" left="108" width="702" height="18" font="5">Not only knowledge of the speaker's inner state but other knowledge acquired from direct</text>
+<text top="717" left="108" width="394" height="18" font="5">perception is ruled out in antecedents, as in (20):</text>
+<text top="765" left="108" width="33" height="18" font="5">(20)</text>
+<text top="765" left="162" width="433" height="18" font="5">(Son looking out of the window and noticing the rain)</text>
+<text top="788" left="162" width="362" height="18" font="5">Son: *If it's raining, let's not go to the park!</text>
+<text top="836" left="108" width="702" height="18" font="5">In (20), <i>if</i> is ruled out because the speaker is a direct experiencer of the proposition. Using</text>
+<text top="860" left="108" width="702" height="18" font="5">these examples, Akatsuka claims that antecedents can only involve newly presented</text>
+<text top="883" left="108" width="375" height="18" font="5">information, not the speaker's own knowledge.</text>
+<text top="907" left="123" width="660" height="18" font="5">In fact, this claim is too strong. Compare (21a), from Akatsuka (1986), and (21b):</text>
+<text top="955" left="108" width="33" height="18" font="5">(21)</text>
+<text top="955" left="162" width="262" height="18" font="5">(Son looking out of the window)</text>
+<text top="978" left="162" width="223" height="18" font="5">Son: It's raining, Mommy.</text>
+<text top="1002" left="162" width="14" height="18" font="5">a.</text>
+<text top="1002" left="216" width="474" height="18" font="5">(Mother going to the window and noticing the rain herself)</text>
+<text top="1026" left="216" width="486" height="18" font="5">Mother: You're right. *If it's raining, let's not go to the park.</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="790" width="20" height="18" font="5">11</text>
+<text top="194" left="162" width="15" height="18" font="5">b.</text>
+<text top="194" left="216" width="284" height="18" font="5">(Mother following him to the door)</text>
+<text top="218" left="216" width="524" height="18" font="5">Mother: If it's raining, why don't you take an umbrella with you?</text>
+<text top="265" left="108" width="702" height="18" font="5">According to Akatsuka, the conditional in (21a) is not felicitous because the antecedent</text>
+<text top="289" left="108" width="702" height="18" font="5">involves the speaker's knowledge. Notice, though, that in (21b) the antecedent is</text>
+<text top="313" left="108" width="702" height="18" font="5">acceptable; it does not matter whether the mother has noticed the rain or not. She is</text>
+<text top="337" left="108" width="702" height="18" font="5">asking her son why he does not take an umbrella when he says/knows it is raining. Her</text>
+<text top="360" left="108" width="489" height="18" font="5">antecedent is really equivalent to 'If you know it's raining, ...'</text>
+<text top="384" left="108" width="648" height="18" font="5">  In a similar vein, the conditional in (19) can be used in the following context:  </text>
+<text top="432" left="108" width="33" height="18" font="5">(22)</text>
+<text top="432" left="162" width="455" height="18" font="5">Mother: Oh, you're cold. Your lips look blue with cold.</text>
+<text top="455" left="162" width="37" height="18" font="5">Son:</text>
+<text top="455" left="243" width="322" height="18" font="5">If I'm cold, please let me use you shawl.</text>
+<text top="503" left="108" width="702" height="18" font="5">The antecedent in (22) is acceptable, and equivalent to 'if you think/know I am cold'.</text>
+<text top="527" left="108" width="702" height="18" font="5">Hence, not only speaker's knowledge but also speaker's inner state can be presented in</text>
+<text top="550" left="108" width="703" height="18" font="5">antecedents. I want to argue that the antecedents in (21b) and (22) are used to represent</text>
+<text top="574" left="108" width="701" height="18" font="5">not the speaker's knowledge, but preceding utterances. For example, in (22), the</text>
+<text top="598" left="108" width="702" height="18" font="5">antecedent represents the hearer's utterance that the speaker is cold. In such cases of</text>
+<text top="622" left="108" width="702" height="18" font="5">echoic or interpretive use, an assumption that is in fact known by the speaker can be</text>
+<text top="645" left="108" width="688" height="18" font="5">felicitously used, contrary to Akatsuka's analysis. This will be taken up in section 3.3.</text>
+<text top="669" left="123" width="452" height="18" font="5">Here are some more examples of the same general type:</text>
+<text top="717" left="108" width="34" height="18" font="5">(23)</text>
+<text top="717" left="162" width="635" height="18" font="5">(Mother and daughter are insisting on their own preferences in a clothes shop.)</text>
+<text top="740" left="162" width="80" height="18" font="5">Daughter:</text>
+<text top="740" left="270" width="131" height="18" font="5">Mum, I'm a girl.</text>
+<text top="764" left="162" width="65" height="18" font="5">Mother:</text>
+<text top="764" left="269" width="508" height="18" font="5">If you're a girl, why don't you choose this flower-printed dress?</text>
+<text top="788" left="162" width="80" height="18" font="5">Daughter:</text>
+<text top="788" left="270" width="539" height="18" font="5">That is really out-of-date. You don't want your daughter to look like</text>
+<text top="812" left="270" width="302" height="18" font="5">a girl fresh from the country, do you?</text>
+<text top="859" left="108" width="702" height="18" font="5">We can all imagine what is happening. Now, does the fact that the daughter is a girl</text>
+<text top="883" left="108" width="702" height="18" font="5">belong to newly learned information, as Akatsuka would claim? Both the mother and</text>
+<text top="907" left="108" width="702" height="18" font="5">daughter know that she is a girl. The mother is representing her daughter's utterance in the</text>
+<text top="931" left="108" width="703" height="18" font="5">antecedent of the conditional, meaning 'if you are a girl, as you say/know'. Or consider</text>
+<text top="954" left="108" width="39" height="18" font="5">(24):</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">12</text>
+<text top="194" left="108" width="34" height="18" font="5">(24)</text>
+<text top="194" left="162" width="548" height="18" font="5">(In a classroom, a teacher sees a student writing down '2 + 12 = 13')</text>
+<text top="218" left="162" width="198" height="18" font="5">Teacher: What is 2 + 2?</text>
+<text top="242" left="162" width="124" height="18" font="5">Student: Four.</text>
+<text top="265" left="162" width="348" height="18" font="5">Teacher: If 2 + 2 = 4, 12 + 2 should be 14.</text>
+<text top="313" left="108" width="703" height="18" font="5">It is obvious that the teacher in (24) knows that 2 + 2 = 4, and that he is representing the</text>
+<text top="337" left="108" width="702" height="18" font="5">student's utterance in the antecedent, meaning 'if 2 + 2 = 4, as you maintain.' In these</text>
+<text top="360" left="108" width="702" height="18" font="5">cases, as in the previous ones, the fact that the antecedent is not newly learned</text>
+<text top="384" left="108" width="256" height="18" font="5">information does not rule it out.</text>
+<text top="408" left="123" width="687" height="18" font="5">In fact, even without a previous utterance, speaker's knowledge can be used in an</text>
+<text top="432" left="108" width="496" height="18" font="5">antecedent. Akatsuka considers one such conditional, in (25):</text>
+<text top="479" left="108" width="34" height="18" font="5">(25)</text>
+<text top="479" left="162" width="275" height="18" font="5">If 2 + 2 = 4, my client is innocent.</text>
+<text top="527" left="108" width="702" height="18" font="5">She argues (p. 346) that this is a 'rhetorical device' enabling the speaker to show her</text>
+<text top="550" left="108" width="702" height="18" font="5">certainty that the consequent is true. For this analysis to work, the speaker must be certain</text>
+<text top="574" left="108" width="702" height="18" font="5">that 2 + 2 = 4. This goes against Akatsuka's general claim that <i>if</i> is a marker of</text>
+<text top="598" left="108" width="537" height="18" font="5">uncertainty, and cannot be used to introduce speaker's knowledge. </text>
+<text top="622" left="123" width="687" height="18" font="5">Sweetser (1990) claims that 'given' antecedents cannot be used in content-conditionals,</text>
+<text top="645" left="108" width="702" height="18" font="5">which link two events or states of affairs. In her view, if an antecedent is 'given' (in the</text>
+<text top="669" left="108" width="702" height="18" font="5">sense of already known to the speaker and the hearer), the speaker should simply utter <i>Y</i>,</text>
+<text top="693" left="108" width="701" height="18" font="5">rather than saying <i>If X, then Y</i>, in accordance with the maxim of informativeness.  For</text>
+<text top="717" left="108" width="702" height="18" font="5">example, in (16), if the speaker and hearer know that 'he' had lasagne for lunch, according</text>
+<text top="740" left="108" width="649" height="18" font="5">to Sweetser, the speaker should simply say, 'He won't want spaghetti for dinner'. </text>
+<text top="764" left="123" width="687" height="18" font="5">On Sweetser's view, conditional (16) without the parentheses is ambiguous between</text>
+<text top="788" left="108" width="702" height="18" font="5">content and epistemic readings. However, once we regard the antecedent as 'given', the</text>
+<text top="812" left="108" width="702" height="18" font="5">only available reading is epistemic. She contrasts 'given' with 'hypothetical', and claims</text>
+<text top="836" left="108" width="702" height="18" font="5">that antecedents of content-conditionals are always hypothetical. However, we need to</text>
+<text top="859" left="108" width="700" height="18" font="5">clarify her notion of 'given' antecedents, since she seems to waver between 'contextually</text>
+<text top="883" left="108" width="321" height="18" font="5">given' and 'shared knowledge' readings. </text>
+<text top="907" left="123" width="687" height="18" font="5">Consider her claim that there are no content-conditionals with 'given' antecedents. If she</text>
+<text top="931" left="108" width="676" height="18" font="5">is using 'given' in the sense of shared knowledge, the following is a counterexample:</text>
+<text top="978" left="108" width="34" height="18" font="5">(26)</text>
+<text top="978" left="162" width="267" height="18" font="5">Son: Dad, what is my surname?</text>
+<text top="1002" left="162" width="648" height="18" font="5">Dad: If you are my son, your surname is Smith. If you're Mr Baker's son, your</text>
+<text top="1026" left="216" width="253" height="18" font="5">surname is Baker. Is that clear?</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="790" width="20" height="18" font="5">13</text>
+<text top="194" left="108" width="702" height="18" font="5">The conditional in (26) 'If you are my son, your surname is Smith' is neither an epistemic</text>
+<text top="218" left="108" width="702" height="18" font="5">nor a speech-act conditional. It states a relation between the contents of the two clauses,</text>
+<text top="242" left="108" width="702" height="18" font="5">and is a content conditional. Hence, Sweetser's claim that a 'given' antecedent cannot be</text>
+<text top="265" left="108" width="479" height="18" font="5">used as an antecedent of content-conditionals is too simple.</text>
+<text top="289" left="123" width="687" height="18" font="5">There are also content-conditionals where the antecedent is 'contextually given'.</text>
+<text top="313" left="108" width="117" height="18" font="5">Consider (27):</text>
+<text top="360" left="108" width="34" height="18" font="5">(27)</text>
+<text top="360" left="162" width="649" height="18" font="5">(Peter is watching a baseball game on TV. It is raining at the stadium, as can be</text>
+<text top="384" left="162" width="517" height="18" font="5">seen on the TV screen. The commentator says that it is raining.)</text>
+<text top="408" left="162" width="499" height="18" font="5">Peter (to himself): If it is raining, the game will be suspended.</text>
+<text top="455" left="108" width="702" height="18" font="5">In (27), Peter knows or accepts that it is raining. (27) is a content-conditional, which</text>
+<text top="479" left="108" width="702" height="18" font="5">states a relation between two states of affairs. It is interesting that in the same situation</text>
+<text top="503" left="108" width="702" height="18" font="5">Peter cannot use the conditional to Mary, who does not know that it is raining at the</text>
+<text top="527" left="108" width="702" height="18" font="5">stadium: If he did, it would be interpreted as merely hypothetical. By contrast, in (27), the</text>
+<text top="550" left="108" width="702" height="18" font="5">conditional sounds like a 'given' antecedent. Compare this with (21a), where the</text>
+<text top="574" left="108" width="702" height="18" font="5">conditional with a 'given' antecedent is not acceptable. I think that the difference lies in</text>
+<text top="598" left="108" width="702" height="18" font="5">the fact that the raining in (21a) is directly perceptible, while that in (27) is only indirectly</text>
+<text top="622" left="108" width="623" height="18" font="5">perceptible, i.e., by way of a TV screen. Hence there is some room for doubt.</text>
+<text top="645" left="123" width="687" height="18" font="5">We have seen from (26) and (27) that content-conditionals can have a 'given' antecedent</text>
+<text top="669" left="108" width="702" height="18" font="5">in either of the two senses of 'given'. So Sweetser's claim that content-conditionals cannot</text>
+<text top="693" left="108" width="702" height="18" font="5">have a 'given' antecedent seems to be false. I would now like to look at her reasons for</text>
+<text top="717" left="108" width="393" height="18" font="5">making this claim, to see where the problem lies.</text>
+<text top="740" left="123" width="687" height="18" font="5">Sweetser claims that it is useful for speakers to present a 'given' antecedent in the</text>
+<text top="764" left="108" width="702" height="18" font="5">epistemic or speech-act domains because these conditionals serve some purposes which</text>
+<text top="788" left="108" width="702" height="18" font="5">content-domain conditionals do not. She calls these purposes 'social', and comments (pp.</text>
+<text top="812" left="108" width="702" height="18" font="5">131-132) that presenting a speech act as subject to a condition makes it politer. Moreover,</text>
+<text top="836" left="108" width="702" height="18" font="5">the epistemic and speech-act worlds are intangible; hence, the display of a reasoning</text>
+<text top="859" left="108" width="703" height="18" font="5">sequence marks the conditional as expressing an epistemic domain event and the use of</text>
+<text top="883" left="108" width="702" height="18" font="5">a speech-act condition may help to show that the conditional is in the speech-act domain.</text>
+<text top="907" left="108" width="701" height="18" font="5">However, 'given' antecedents in epistemic or speech-act conditionals can be used in the</text>
+<text top="931" left="108" width="324" height="18" font="5">absence of any audience. Consider (28):</text>
+<text top="978" left="108" width="33" height="18" font="5">(28)</text>
+<text top="978" left="162" width="541" height="18" font="5">(Reading a newspaper on the bomb explosion at Aldwych, A says) </text>
+<text top="1002" left="162" width="14" height="18" font="5">a.</text>
+<text top="1002" left="216" width="595" height="18" font="5">If a bomb exploded at Aldwych, Waterloo Station (which is near Aldwych)</text>
+<text top="1026" left="216" width="125" height="18" font="5">must be closed.</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">14</text>
+<text top="194" left="162" width="15" height="18" font="5">b.</text>
+<text top="194" left="216" width="594" height="18" font="5">If a bomb exploded at Aldwych, I will not go to school (which is near</text>
+<text top="218" left="216" width="134" height="18" font="5">Aldwych) today.</text>
+<text top="265" left="108" width="702" height="18" font="5">Without any hearer, the speaker can use 'given' antecedents. So I doubt that it is only for</text>
+<text top="289" left="108" width="702" height="18" font="5">social reasons that a 'given' antecedent is deleted in content-conditionals and used in non-</text>
+<text top="313" left="108" width="173" height="18" font="5">content conditionals. </text>
+<text top="337" left="123" width="687" height="18" font="5">If antecedents known by both the speaker and hearer can be used to guide the hearer to</text>
+<text top="360" left="108" width="702" height="18" font="5">recognise that the conditionals are epistemic or speech-act, as Sweetser claims, there is</text>
+<text top="384" left="108" width="702" height="18" font="5">no reason why in content-conditionals the speaker cannot use a 'given' antecedent to guide</text>
+<text top="408" left="108" width="701" height="18" font="5">the hearer to see the consequential link. Dancygier (1993) sheds light on this point. She</text>
+<text top="432" left="108" width="702" height="18" font="5">claims that <i>if</i> is a marker, used to signal the speaker's epistemic distance from an</text>
+<text top="455" left="108" width="702" height="18" font="5">antecedent that she does not know or believe to be true. And in other conditionals, the</text>
+<text top="479" left="108" width="702" height="18" font="5">speaker can use her knowledge in an antecedent to show the hearer how to arrive at a</text>
+<text top="503" left="108" width="219" height="18" font="5">conclusion, as in (29)-(30):</text>
+<text top="550" left="108" width="34" height="18" font="5">(29)</text>
+<text top="550" left="162" width="405" height="18" font="5">If two and two make four, four is an even number.</text>
+<text top="598" left="108" width="33" height="18" font="5">(30)</text>
+<text top="598" left="162" width="385" height="18" font="5">If you're having a steak, you're not a vegetarian.</text>
+<text top="645" left="108" width="702" height="18" font="5">According to Dancygier, in (29), the speaker, putting aside her knowledge of the fact that</text>
+<text top="669" left="108" width="701" height="18" font="5">two and two make four, presents it as background leading to the conclusion that 4 is an</text>
+<text top="693" left="108" width="702" height="18" font="5">even number. Similarly, in (30), even when the speaker sees the hearer having a steak, she</text>
+<text top="717" left="108" width="702" height="18" font="5">can say (30). Whether the proposition is shared knowledge or not, the<i> if</i>-clause signals</text>
+<text top="740" left="108" width="702" height="18" font="5">that the speaker wants to keep her distance from the content. This is contrasted with (25),</text>
+<text top="764" left="108" width="474" height="18" font="5">where the speaker's knowledge is presented as knowledge. </text>
+<text top="788" left="123" width="687" height="18" font="5">To sum up: Akatsuka claims that only newly learned information (as opposed to</text>
+<text top="812" left="108" width="702" height="18" font="5">knowledge) can be expressed in an antecedent, but admits that knowledge can be used</text>
+<text top="836" left="108" width="702" height="18" font="5">rhetorically. Sweetser claims that 'given' antecedents cannot appear in content</text>
+<text top="859" left="108" width="702" height="18" font="5">conditionals, but they can be used in non-content conditionals for social or expository</text>
+<text top="883" left="108" width="702" height="18" font="5">reasons. Similarly, Dancygier claims that speaker's knowledge can be used as background</text>
+<text top="907" left="108" width="702" height="18" font="5">for argument, when it is presented not as knowledge, but as an assumption. Eventually,</text>
+<text top="931" left="108" width="702" height="18" font="5">all of them agree that in some cases knowledge can be used in antecedents, and in other</text>
+<text top="954" left="108" width="703" height="18" font="5">cases where they claim speaker's knowledge cannot be used, we have seen that they are</text>
+<text top="978" left="108" width="702" height="18" font="5">wrong. Accordingly, the distinction between information and knowledge is not sufficient</text>
+<text top="1002" left="108" width="701" height="18" font="5">to account for appropriate use of antecedents of conditionals. I will now try to provide a</text>
+<text top="1026" left="108" width="599" height="18" font="5">more explanatory account, based on the notion of metarepresentative use. </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="790" width="20" height="18" font="5">15</text>
+<text top="1045" left="130" width="325" height="15" font="0">See Sperber &amp;Wilson (1986: section 7, chap 4).</text>
+<text top="1040" left="123" width="6" height="11" font="1">5</text>
+<text top="194" left="108" width="323" height="18" font="6"><b>3.3 Metarepresentational antecedents</b></text>
+<text top="242" left="108" width="702" height="18" font="6"><b>3.3.1 Introduction</b>. In 3.1, we have seen that 'given' antecedents are neither necessarily</text>
+<text top="265" left="108" width="702" height="18" font="5">shared knowledge nor necessarily information. I propose to analyse them in terms of</text>
+<text top="289" left="108" width="702" height="18" font="5">metarepresentational use within the framework of relevance theory; 'given' antecedents</text>
+<text top="313" left="108" width="443" height="18" font="5">are used to represent another representation in context.</text>
+<text top="361" left="108" width="702" height="18" font="6"><b>3.3.2 Metarepresentation in Relevance Theory.</b> Metarepresentation involves use of one</text>
+<text top="384" left="108" width="702" height="18" font="5">representation to represent another representation which it resembles. If the resemblance</text>
+<text top="408" left="108" width="702" height="18" font="5">is in content, it is a case of 'interpretive use', which is contrasted with 'descriptive use', i.e.,</text>
+<text top="432" left="108" width="569" height="18" font="5">the use of a representation to describe a state of affairs. Consider (31):</text>
+<text top="479" left="108" width="34" height="18" font="5">(31)</text>
+<text top="479" left="162" width="514" height="18" font="5">(Mary is talking to Peter about her meeting with her supervisor)</text>
+<text top="503" left="162" width="243" height="18" font="5">Peter: Then what did she say?</text>
+<text top="527" left="162" width="14" height="18" font="5">a.</text>
+<text top="527" left="216" width="316" height="18" font="5">Mary: She said the argument is invalid.</text>
+<text top="551" left="162" width="15" height="18" font="5">b.</text>
+<text top="551" left="216" width="250" height="18" font="5">Mary: The argument is invalid.</text>
+<text top="598" left="108" width="702" height="18" font="5">In (31a), Mary metarepresents the content of her supervisor's utterance, and indicates this</text>
+<text top="622" left="108" width="703" height="18" font="5">explicitly with the phrase 'she said'. In (31b), she leaves Peter to infer that her utterance</text>
+<text top="646" left="108" width="702" height="18" font="5">represents not her own opinion but what the supervisor said . In both cases, the clause 'the</text>
+<text top="644" left="568" width="6" height="11" font="1">5</text>
+<text top="670" left="108" width="702" height="18" font="5">argument is invalid' is interpretively rather than descriptively used and will be understood</text>
+<text top="693" left="108" width="702" height="18" font="5">as embedded within a metarepresentation of the type 'she said'. We can metarepresent the</text>
+<text top="717" left="108" width="583" height="18" font="5">content not only of utterances, but of attributed thoughts. Consider (32):</text>
+<text top="765" left="108" width="33" height="18" font="5">(32)</text>
+<text top="765" left="162" width="368" height="18" font="5">(Mary is drinking her fourth glass of whisky.)</text>
+<text top="788" left="162" width="377" height="18" font="5">Peter: You have a meeting tomorrow morning.</text>
+<text top="812" left="162" width="172" height="18" font="5">Mary: Stop drinking?</text>
+<text top="860" left="108" width="702" height="18" font="5">In (32), Mary is interpreting a thought which she attributes to Peter, and simultaneously</text>
+<text top="883" left="108" width="702" height="18" font="5">expressing a questioning attitude to it. Metarepresentations involving the expression of</text>
+<text top="907" left="108" width="703" height="18" font="5">attitude are called 'echoic' in relevance theory, and (32) is analysed as an echo question</text>
+<text top="931" left="108" width="702" height="18" font="5">in Noh (1995). The notion of 'interpretive use' also allows for a reformulation of the</text>
+<text top="955" left="108" width="702" height="18" font="5">original proposition, because it involves representation by resemblance. For example, in</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">16</text>
+<text top="194" left="108" width="702" height="18" font="5">(31b), the supervisor may have said something like 'I am not convinced by the argument'.</text>
+<text top="218" left="108" width="383" height="18" font="5">Interpretive use allows for such reformulations.</text>
+<text top="242" left="123" width="687" height="18" font="5">The notion of metarepresentation covers not only representation involving resemblance</text>
+<text top="265" left="108" width="702" height="18" font="5">of content but also resemblance of form. It is thus broader than the notion of interpretive</text>
+<text top="289" left="108" width="154" height="18" font="5">use. Consider (33):</text>
+<text top="337" left="108" width="33" height="18" font="5">(33)</text>
+<text top="337" left="162" width="19" height="18" font="5">A:</text>
+<text top="337" left="216" width="333" height="18" font="5">It's getting dark day by day [day bay day]</text>
+<text top="360" left="162" width="19" height="18" font="5">B:</text>
+<text top="360" left="216" width="595" height="18" font="5">It's not getting dark day by day [day bay day], it's getting dark day by day</text>
+<text top="384" left="216" width="111" height="18" font="5">[dey bay dey]</text>
+<text top="432" left="108" width="702" height="18" font="5">In (33), B metarepresents and corrects A's pronunciation [day bay day]. This type of</text>
+<text top="455" left="108" width="702" height="18" font="5">corrective utterance is generally referred to as 'metalinguistic negation'. Metalinguistic</text>
+<text top="479" left="108" width="702" height="18" font="5">negation is treated as a variety of echoic use in Carston (1994), with the speaker's</text>
+<text top="503" left="108" width="702" height="18" font="5">dissociative attitude made explicit by the presence of 'not'. Mentions of words are another</text>
+<text top="527" left="108" width="702" height="18" font="5">variety of metarepresentation involving linguistic form. Thus, the term</text>
+<text top="550" left="108" width="702" height="18" font="5">'metarepresentation' covers a variety of sub-types of representation by resemblance, with</text>
+<text top="574" left="108" width="380" height="18" font="5">or without the expression of speaker's attitude. </text>
+<text top="598" left="108" width="5" height="18" font="5"> </text>
+<text top="622" left="108" width="702" height="18" font="6"><b>3.3.3 Various types of metarepresentational antecedents</b>. Metarepresentational</text>
+<text top="646" left="108" width="701" height="18" font="5">antecedents are those used to represent another representation. In metarepresentation,</text>
+<text top="670" left="108" width="701" height="18" font="5">what is important is faithfulness to the original being represented, rather than truth, or</text>
+<text top="693" left="108" width="702" height="18" font="5">truthfulness (See Wilson &amp; Sperber (1992) and Wilson (1995)). So the distinction</text>
+<text top="717" left="108" width="702" height="18" font="5">between 'information' and 'knowledge' is unlikely to play much role in accounting for</text>
+<text top="741" left="108" width="702" height="18" font="5">metarepresentational antecedents. I shall now attempt a categorisation of the various types</text>
+<text top="765" left="108" width="287" height="18" font="5">of metarepresentational antecedent.</text>
+<text top="788" left="123" width="686" height="18" font="5">First, there are metarepresentational antecedents which are used to interpret (a part of)</text>
+<text top="812" left="108" width="531" height="18" font="5">the proposition expressed by a previous utterance, as in (34)-(35):</text>
+<text top="860" left="108" width="34" height="18" font="5">(34)</text>
+<text top="860" left="162" width="19" height="18" font="5">A:</text>
+<text top="860" left="216" width="595" height="18" font="5">I have two daughters. The older one is clever and the younger one is</text>
+<text top="883" left="216" width="77" height="18" font="5">beautiful.</text>
+<text top="907" left="162" width="19" height="18" font="5">B:</text>
+<text top="907" left="216" width="434" height="18" font="5">If the younger daughter is beautiful, I will choose her.</text>
+<text top="955" left="108" width="34" height="18" font="5">(35)</text>
+<text top="955" left="162" width="19" height="18" font="5">A:</text>
+<text top="955" left="216" width="594" height="18" font="5">She produced a series of sounds closely resembling the notes of 'Home</text>
+<text top="978" left="216" width="111" height="18" font="5">Sweet Home'.</text>
+<text top="1002" left="162" width="19" height="18" font="5">B:</text>
+<text top="1002" left="216" width="594" height="18" font="5">If she produced a series of sounds closely resembling the notes of 'Home</text>
+<text top="1026" left="216" width="594" height="18" font="5">Sweet Home', the audience must have been disappointed and complained.</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">17</text>
+<text top="194" left="108" width="700" height="18" font="5">In (34)-(35), the antecedent of B's conditional can be understood as representing (part of)</text>
+<text top="218" left="108" width="700" height="18" font="5">A's utterance, with the implicit parenthetical 'as you say'. The utterances represented may</text>
+<text top="242" left="108" width="340" height="18" font="5">be spoken or written, as in (36) and (37):  </text>
+<text top="289" left="108" width="34" height="18" font="5">(36)</text>
+<text top="289" left="162" width="560" height="18" font="5">(Seeing a road sign 'ROADWORKS AHEAD, DELAYS POSSIBLE')</text>
+<text top="313" left="162" width="58" height="18" font="5">Driver:</text>
+<text top="313" left="243" width="350" height="18" font="5">If delays are possible, delays are necessary.</text>
+<text top="360" left="108" width="34" height="18" font="5">(37)</text>
+<text top="360" left="162" width="19" height="18" font="5">A:</text>
+<text top="360" left="216" width="253" height="18" font="5">(writing in his notes '2 + 1 = 4')</text>
+<text top="384" left="162" width="19" height="18" font="5">B:</text>
+<text top="384" left="216" width="317" height="18" font="5">If 2 + 1 = 4, you need more homework.</text>
+<text top="432" left="108" width="581" height="18" font="5">As we have seen, unspoken thoughts may also be interpreted, as in (38):</text>
+<text top="479" left="108" width="34" height="18" font="5">(38)</text>
+<text top="479" left="162" width="19" height="18" font="5">A:</text>
+<text top="479" left="216" width="401" height="18" font="5">(raises a finger to her lips, indicating a baby's cot)</text>
+<text top="503" left="162" width="19" height="18" font="5">B:</text>
+<text top="503" left="216" width="351" height="18" font="5">If we have to be quiet, we will play outside.</text>
+<text top="550" left="123" width="684" height="18" font="5">A second type of metarepresentational antecedent exploits resemblances of linguistic</text>
+<text top="574" left="108" width="700" height="18" font="5">form, as in the case of metalinguistic negation above. I will call these metalinguistic uses.</text>
+<text top="598" left="108" width="162" height="18" font="5">Consider (39)-(41): </text>
+<text top="645" left="108" width="34" height="18" font="5">(39)</text>
+<text top="645" left="162" width="19" height="18" font="5">A:</text>
+<text top="645" left="216" width="486" height="18" font="5">I eat TOMEIDOUZ (American pronunciation of 'tomatoes').</text>
+<text top="669" left="162" width="19" height="18" font="5">B:</text>
+<text top="669" left="216" width="434" height="18" font="5">If you eat TOMEIDOUZ, you must be from America.</text>
+<text top="717" left="108" width="34" height="18" font="5">(40)</text>
+<text top="717" left="162" width="19" height="18" font="5">A:</text>
+<text top="717" left="216" width="199" height="18" font="5">I trapped two mongeese.</text>
+<text top="740" left="162" width="19" height="18" font="5">B:</text>
+<text top="740" left="216" width="533" height="18" font="5">If you trapped two mongeese, what I trapped are three 'mongeese'.</text>
+<text top="788" left="108" width="34" height="18" font="5">(41)</text>
+<text top="788" left="162" width="19" height="18" font="5">A:</text>
+<text top="788" left="216" width="155" height="18" font="5">I called the POlice.</text>
+<text top="812" left="162" width="19" height="18" font="5">B:</text>
+<text top="812" left="216" width="500" height="18" font="5">If you called the POlice, the poLICE will not come. (jokingly)</text>
+<text top="836" left="216" width="512" height="18" font="5">(Capital letters indicate the syllable on which word stress falls.)</text>
+<text top="883" left="108" width="699" height="18" font="5">In (39)-(41), what is represented in the antecedent is not the content of the previous</text>
+<text top="907" left="108" width="608" height="18" font="5">utterance, but its pronunciation, morphology, and word stress, respectively.</text>
+<text top="931" left="123" width="685" height="18" font="5">The form of an utterance can also be metarepresented for other reasons. Consider (42)-</text>
+<text top="954" left="108" width="39" height="18" font="5">(43):</text>
+<text top="1002" left="108" width="34" height="18" font="5">(42)</text>
+<text top="1002" left="162" width="19" height="18" font="5">A:</text>
+<text top="1002" left="216" width="232" height="18" font="5">His father kicked the bucket.</text>
+<text top="1026" left="162" width="19" height="18" font="5">B:</text>
+<text top="1026" left="216" width="559" height="18" font="5">If his father kicked the bucket, you don't seem to have respected him.</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">18</text>
+<text top="194" left="108" width="34" height="18" font="5">(43)</text>
+<text top="194" left="162" width="19" height="18" font="5">A:</text>
+<text top="194" left="216" width="243" height="18" font="5">The wine bottle is half-empty.</text>
+<text top="218" left="162" width="19" height="18" font="5">B:</text>
+<text top="218" left="216" width="310" height="18" font="5">If it is half-empty, you are a pessimist.</text>
+<text top="265" left="108" width="700" height="18" font="5">In (42), the phrase 'kick the bucket' is singled out because of its register, and in (43), 'half-</text>
+<text top="289" left="108" width="700" height="18" font="5">empty' because of its emphasis on the dark side of things (as contrasted with 'half-full').</text>
+<text top="313" left="108" width="335" height="18" font="5">These too are cases of metalinguistic use.</text>
+<text top="337" left="123" width="685" height="18" font="5">Metarepresentational antecedents allow the speaker to single out not only the</text>
+<text top="360" left="108" width="700" height="18" font="5">proposition expressed by a previous utterance, but also pronunciation, morphology, word</text>
+<text top="384" left="108" width="700" height="18" font="5">stress, register, foci, etc. They thus allow the speaker to represent something 'given' in the</text>
+<text top="408" left="108" width="700" height="18" font="5">context — namely a prior utterance or thought. Reanalysing 'given' antecedents in terms</text>
+<text top="432" left="108" width="700" height="18" font="5">of metarepresentation should enable us to provide a more explanatory and general</text>
+<text top="455" left="108" width="415" height="18" font="5">account of their semantic and pragmatic properties.</text>
+<text top="503" left="108" width="700" height="18" font="6"><b>3.3.4 Possible interpretations of metarepresentational antecedents</b>. Though 'given'</text>
+<text top="527" left="108" width="700" height="18" font="5">antecedents have been discussed in the literature, their meanings have not been dealt with</text>
+<text top="551" left="108" width="699" height="18" font="5">in detail. In this subsection, I will examine two different interpretations of 'contextually</text>
+<text top="575" left="108" width="448" height="18" font="5">given' metarepresentational antecedents. Consider (44):</text>
+<text top="622" left="108" width="33" height="18" font="5">(44)</text>
+<text top="622" left="162" width="106" height="18" font="5">Travel agent:</text>
+<text top="622" left="290" width="251" height="18" font="5">Mexico City is really beautiful.</text>
+<text top="646" left="162" width="84" height="18" font="5">Customer:</text>
+<text top="646" left="290" width="482" height="18" font="5">If Mexico City is beautiful, I will stay there one more week.</text>
+<text top="693" left="108" width="701" height="18" font="5">The antecedent of the conditional in (44) can be metarepresentationally used in different</text>
+<text top="717" left="108" width="701" height="18" font="5">ways. First, it may be used to metarepresent not only what was said, but also the higher-</text>
+<text top="741" left="108" width="700" height="18" font="5">level explicatures (i.e. the speech-act and propositional attitude communicated), meaning</text>
+<text top="765" left="108" width="700" height="18" font="5">'if you say/think Mexico City is beautiful'. Secondly, it may have a 'given' antecedent</text>
+<text top="788" left="108" width="700" height="18" font="5">reading, sometimes marked by parenthetical expressions like 'as you say'. The two</text>
+<text top="812" left="108" width="304" height="18" font="5">readings are given in (45a) and (45b):</text>
+<text top="860" left="108" width="33" height="18" font="5">(45)</text>
+<text top="860" left="162" width="14" height="18" font="5">a.</text>
+<text top="860" left="215" width="592" height="18" font="5">If you say/think Mexico City is really beautiful, I will stay there one more</text>
+<text top="883" left="216" width="47" height="18" font="5">week.</text>
+<text top="907" left="162" width="15" height="18" font="5">b.</text>
+<text top="907" left="216" width="575" height="18" font="5">If Mexico City is beautiful, as you say, I will stay there one more week.</text>
+<text top="955" left="108" width="517" height="18" font="5">The reading of (45a) is illustrated in the following conversation:</text>
+<text top="1002" left="108" width="33" height="18" font="5">(46)</text>
+<text top="1002" left="162" width="106" height="18" font="5">Travel agent:</text>
+<text top="1002" left="290" width="251" height="18" font="5">Mexico City is really beautiful.</text>
+<text top="1026" left="162" width="84" height="18" font="5">Customer:</text>
+<text top="1026" left="290" width="482" height="18" font="5">If Mexico City is beautiful, I will stay there one more week.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">19</text>
+<text top="194" left="162" width="107" height="18" font="5">Travel agent:</text>
+<text top="194" left="290" width="394" height="18" font="5">Then I will book the hotel from 6th to 20th, July.</text>
+<text top="218" left="123" width="123" height="18" font="5"> Customer:</text>
+<text top="218" left="290" width="75" height="18" font="5">Yes, </text>
+<text top="218" left="332" width="55" height="18" font="5">please.</text>
+<text top="265" left="108" width="700" height="18" font="5">The conditional in (46) means 'if you think Mexico City is beautiful, I will stay there one</text>
+<text top="289" left="108" width="701" height="18" font="5">more week'. The acceptability of this type of antecedent is determined by the degree of</text>
+<text top="313" left="108" width="563" height="18" font="5">faithfulness of the metarepresentation, not the truth of the antecedent.</text>
+<text top="337" left="123" width="685" height="18" font="5">(45b) is a typical case of 'given' antecedent. It involves a mixture of descriptive and</text>
+<text top="360" left="108" width="700" height="18" font="5">metarepresentational use. The antecedent is both representing the agent's utterance and</text>
+<text top="384" left="108" width="700" height="18" font="5">describing a state of affairs. 'Given' antecedents discussed in the literature in general</text>
+<text top="408" left="108" width="700" height="18" font="5">belong to this type: they describe a hypothetical state of affairs, while simultaneously</text>
+<text top="432" left="108" width="282" height="18" font="5">metarepresenting a prior utterance.</text>
+<text top="455" left="123" width="684" height="18" font="5">By contrast, even when the proposition it expresses is given in context, the antecedent</text>
+<text top="479" left="108" width="701" height="18" font="5">of a conditional can be descriptive, i.e., it can be used to describe a state of affairs, but</text>
+<text top="503" left="108" width="441" height="18" font="5">not to interpret the preceding utterance. Consider (47):</text>
+<text top="550" left="108" width="33" height="18" font="5">(47)</text>
+<text top="550" left="162" width="19" height="18" font="5">A:</text>
+<text top="550" left="216" width="366" height="18" font="5">You look so cold. Shall I lend you my shawl?</text>
+<text top="574" left="162" width="19" height="18" font="5">B:</text>
+<text top="574" left="216" width="592" height="18" font="5">No, thank you. I'm O.K. <i>If I am cold, I don't hesitate to ask for warm</i></text>
+<text top="598" left="216" width="266" height="18" font="2"><i>clothes. </i>You know my character.</text>
+<text top="645" left="108" width="700" height="18" font="5">In (47), A assumes that B is cold, but the proposition expressed by the antecedent in (B)</text>
+<text top="669" left="108" width="700" height="18" font="5">does not attribute this thought to A. It means 'whenever I am cold', not 'if I am cold (now),</text>
+<text top="693" left="108" width="106" height="18" font="5">as you think'.</text>
+<text top="717" left="123" width="685" height="18" font="5">Now let us return to Akatsuka's examples. Consider (20), in which the antecedent is not</text>
+<text top="740" left="108" width="700" height="18" font="5">interpretively used, since there is no representation to be interpreted. As a descriptive use,</text>
+<text top="764" left="108" width="701" height="18" font="5">the antecedent in (20) is not natural, because the boy knows that it is raining. So in this</text>
+<text top="788" left="108" width="700" height="18" font="5">respect, Akatsuka's claim that speaker's knowledge cannot be used in antecedents makes</text>
+<text top="812" left="108" width="700" height="18" font="5">a good point. However, the same antecedent, used metarepresentationally, could be</text>
+<text top="836" left="108" width="700" height="18" font="5">acceptable, as in (21b).  The antecedent is used to represent the son's utterance, and</text>
+<text top="859" left="108" width="701" height="18" font="5">means 'if you know it is raining, why don't you take an umbrella with you?'. The</text>
+<text top="883" left="108" width="396" height="18" font="5">antecedent is acceptable as metarepresentational.</text>
+<text top="907" left="123" width="355" height="18" font="5">Now, consider (25) repeated below as (48): </text>
+<text top="954" left="108" width="34" height="18" font="5">(48)</text>
+<text top="954" left="162" width="275" height="18" font="5">If 2 + 2 = 4, my client is innocent.</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">20</text>
+<text top="194" left="108" width="700" height="18" font="5">(48) is acceptable as a metarepresentational interpretation, with the tacit parenthetical 'as</text>
+<text top="218" left="108" width="700" height="18" font="5">you know', or 'as we know'. The speaker uses what she is certain of as an antecedent in</text>
+<text top="242" left="108" width="464" height="18" font="5">order to force the hearer to accept the consequent as true.</text>
+<text top="265" left="123" width="685" height="18" font="5">Depending on the definition of 'givenness', the antecedent in (48) may or may not be</text>
+<text top="289" left="108" width="700" height="18" font="5">called a 'given' antecedent. As it belongs to a 'permanent registry', it is given in the sense</text>
+<text top="313" left="108" width="702" height="18" font="5">of shared knowledge, but not in the sense of 'contextually salient'. However, it is certainly</text>
+<text top="337" left="108" width="178" height="18" font="5">metarepresentational. </text>
+<text top="384" left="108" width="700" height="18" font="6"><b>3.3.5 Truth conditions of metarepresentational antecedents.</b> If we treat <i>if</i> in English</text>
+<text top="408" left="108" width="700" height="18" font="5">as semantically equivalent to material implication, the conditional as a whole will be true</text>
+<text top="432" left="108" width="701" height="18" font="5">unless <i>p</i> is true and <i>q</i> is false. This truth-table approach (like the Sufficiency Hypothesis)</text>
+<text top="456" left="108" width="700" height="18" font="5">appears to run into problems with some metarepresentational antecedents. Consider (10),</text>
+<text top="479" left="108" width="189" height="18" font="5">repeated below as (49):</text>
+<text top="527" left="108" width="34" height="18" font="5">(49)</text>
+<text top="527" left="162" width="19" height="18" font="5">A:</text>
+<text top="527" left="216" width="238" height="18" font="5">Two and eleven makes thirty.</text>
+<text top="551" left="162" width="19" height="18" font="5">B:</text>
+<text top="551" left="216" width="503" height="18" font="5">If two and eleven makes thirty, you need more work on maths.</text>
+<text top="598" left="108" width="700" height="18" font="5">In (49), as the proposition literally expressed by the antecedent is false, the whole</text>
+<text top="622" left="108" width="700" height="18" font="5">conditional is predicted as true on the material implication account. But this is the wrong</text>
+<text top="646" left="108" width="258" height="18" font="5">interpretation, as we have seen. </text>
+<text top="670" left="123" width="685" height="18" font="5">Before examining the truth conditions of metarepresentational antecedents, let us</text>
+<text top="693" left="108" width="700" height="18" font="5">consider (31b), which is metarepresentatively, specifically interpretively, used. In (31b),</text>
+<text top="717" left="108" width="700" height="18" font="5">Mary may be interpreting her supervisor's utterance. In this case, what is important is not</text>
+<text top="741" left="108" width="700" height="18" font="5">whether the argument is really invalid or not, but whether the supervisor said something</text>
+<text top="765" left="108" width="700" height="18" font="5">resembling that or not. In interpretive use, faithfulness, not truthfulness, is important.</text>
+<text top="788" left="108" width="701" height="18" font="5">Consider (49) again. In (B), the antecedent is used to represent A's utterance including</text>
+<text top="812" left="108" width="700" height="18" font="5">the higher-level explicature. In other words, the proposition expressed by the antecedent</text>
+<text top="836" left="108" width="700" height="18" font="5">is enriched into 'if you say/believe that two and eleven makes thirty'. The truth conditions</text>
+<text top="860" left="108" width="700" height="18" font="5">of (49) will be correctly assigned as long as this enrichment takes place. My claim is,</text>
+<text top="883" left="108" width="700" height="18" font="5">then, that the relevance-theoretic notions of pragmatic enrichment and metarepresentation</text>
+<text top="907" left="108" width="700" height="18" font="5">make it possible to assign truth conditions to metarepresentational antecedents as long</text>
+<text top="931" left="108" width="700" height="18" font="5">as the fact that they are metarepresented can be represented via enrichment. I will start</text>
+<text top="955" left="108" width="600" height="18" font="5">with some cases of metalinguistic use, and then return to interpretive uses.</text>
+<text top="978" left="123" width="425" height="18" font="5">Consider (50) and (51), repeated from (39) and (43):</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">21</text>
+<text top="194" left="108" width="34" height="18" font="5">(50)</text>
+<text top="194" left="162" width="19" height="18" font="5">A:</text>
+<text top="194" left="216" width="486" height="18" font="5">I eat TOMEIDOUZ. (American pronunciation of 'tomatoes')</text>
+<text top="218" left="162" width="19" height="18" font="5">B:</text>
+<text top="218" left="216" width="434" height="18" font="5">If you eat TOMEIDOUZ, you must be from America.</text>
+<text top="265" left="108" width="34" height="18" font="5">(51)</text>
+<text top="265" left="162" width="19" height="18" font="5">A:</text>
+<text top="265" left="216" width="243" height="18" font="5">The wine bottle is half-empty.</text>
+<text top="289" left="162" width="19" height="18" font="5">B:</text>
+<text top="289" left="216" width="310" height="18" font="5">If it is half-empty, you are a pessimist.</text>
+<text top="337" left="108" width="701" height="18" font="5">In (50), the proposition expressed by the antecedent is something like 'If you eat things</text>
+<text top="360" left="108" width="701" height="18" font="5">you call 'TOMEIDOUZ', you are from America'. Once the attribution of pronunciation</text>
+<text top="384" left="108" width="700" height="18" font="5">is included in the proposition expressed, the truth-table account of <i>if</i> remains available.</text>
+<text top="408" left="108" width="700" height="18" font="5">The proposition expressed by (51) will be 'if you say it is 'half-empty', you are a</text>
+<text top="432" left="108" width="501" height="18" font="5">pessimist', rather than 'if it is half-empty, you are a pessimist'. </text>
+<text top="455" left="123" width="685" height="18" font="5">Antecedents  with mixed metarepresentative and descriptive uses have the truth</text>
+<text top="479" left="108" width="700" height="18" font="5">conditions of descriptive ones, but with an extra parenthetical comment outside the scope</text>
+<text top="503" left="108" width="348" height="18" font="5">of the <i>if</i>, as in (16), repeated below as (52):</text>
+<text top="550" left="108" width="34" height="18" font="5">(52)</text>
+<text top="550" left="162" width="607" height="18" font="5">If he had lasagne for lunch (as you say), he won't want spaghetti for dinner.</text>
+<text top="598" left="108" width="341" height="18" font="5">Again the truth-table account of <i>if</i> applies.</text>
+<text top="645" left="123" width="684" height="18" font="5">Finally, (53), repeated from (36), is a case similar to (49), which involves interpretive</text>
+<text top="669" left="108" width="404" height="18" font="5">use plus representation of speech-act information:</text>
+<text top="693" left="108" width="5" height="18" font="5"> </text>
+<text top="717" left="108" width="34" height="18" font="5">(53)</text>
+<text top="717" left="162" width="560" height="18" font="5">(Seeing a road sign 'ROADWORKS AHEAD, DELAYS POSSIBLE')</text>
+<text top="740" left="162" width="58" height="18" font="5">Driver:</text>
+<text top="740" left="243" width="350" height="18" font="5">If delays are possible, delays are necessary.</text>
+<text top="788" left="108" width="701" height="18" font="5">Here, the proposition expressed is 'if <i>they say</i> delays possible, delays are necessary.'</text>
+<text top="812" left="108" width="459" height="18" font="5">Again, the truth-table account applies unproblematically.</text>
+<text top="836" left="123" width="684" height="18" font="5">To sum up: we have seen that metarepresentational antecedents can express</text>
+<text top="859" left="108" width="700" height="18" font="5">propositions different from those expressed by descriptive (i.e., ordinary) antecedents.</text>
+<text top="883" left="108" width="701" height="18" font="5">This is possible as long as pragmatic enrichment processes can flesh out the linguistically</text>
+<text top="907" left="108" width="700" height="18" font="5">encoded material in such a way as to distinguish between descriptive and</text>
+<text top="931" left="108" width="700" height="18" font="5">metarepresentational use. As a result, the truth-table for material implication applies to</text>
+<text top="954" left="108" width="700" height="18" font="5">these 'non-basic' conditionals just as it does to more basic ones, and a standard argument</text>
+<text top="978" left="108" width="328" height="18" font="5">against the truth-table account dissolves.</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">22</text>
+<text top="194" left="108" width="349" height="18" font="6"><b>4 Metarepresentative use of consequents</b></text>
+<text top="242" left="108" width="140" height="18" font="6"><b>4.1 Introduction</b></text>
+<text top="288" left="108" width="700" height="18" font="5">As we have seen in section 2, natural language <i>if</i> has been analysed in two ways: as</text>
+<text top="312" left="108" width="700" height="18" font="5">equivalent to material implication in logic, or as encoding a causal-consequential link</text>
+<text top="336" left="108" width="701" height="18" font="5">between antecedent and consequent, so that the truth of the antecedent is a sufficient</text>
+<text top="360" left="108" width="702" height="18" font="5">condition for the truth of the consequent. In fact, some conditionals seem to present</text>
+<text top="383" left="108" width="345" height="18" font="5">problems for both analyses. Consider (54):</text>
+<text top="431" left="108" width="34" height="18" font="5">(54)</text>
+<text top="431" left="162" width="335" height="18" font="5">If you're thirsty, there's beer in the fridge.</text>
+<text top="478" left="108" width="700" height="18" font="5">In (54), there is no causal or consequential link between antecedent and consequent. It</text>
+<text top="502" left="108" width="700" height="18" font="5">does not mean that the speaker's thirst is sufficient for the presence of beer in the fridge.</text>
+<text top="526" left="108" width="700" height="18" font="5">Nor are its truth conditions identical with the truth-table for material implication. The</text>
+<text top="550" left="108" width="700" height="18" font="5">truth-table says that if <i>p</i> is false, (54) will be true regardless of whether <i>q</i> is true or false.</text>
+<text top="573" left="108" width="700" height="18" font="5">But (54) does not suggest that if the hearer is not thirsty, there may be no beer in the</text>
+<text top="597" left="108" width="700" height="18" font="5">fridge. On the contrary, it suggests that even if the hearer is not thirsty, the beer is still in</text>
+<text top="621" left="108" width="701" height="18" font="5">the fridge. That is, regardless of the truth conditions of the antecedent, the consequent is</text>
+<text top="645" left="108" width="701" height="18" font="5">presented as true. Despite this, (54) is not a concessive conditional which means 'even if</text>
+<text top="668" left="108" width="355" height="18" font="5">you're not thirsty, there's beer in the fridge'. </text>
+<text top="692" left="123" width="685" height="18" font="5">In this section, I attempt to give an account of conditionals like (54), using the</text>
+<text top="716" left="108" width="700" height="18" font="5">relevance-theoretic notion of metarepresentation. My account will be consistent with the</text>
+<text top="740" left="108" width="700" height="18" font="5">view  that natural language conditionals are semantically equivalent to material</text>
+<text top="764" left="108" width="700" height="18" font="5">implication and that any differences are due to pragmatics. I will argue against the</text>
+<text top="787" left="108" width="459" height="18" font="5">speech-act analysis based on the Sufficiency Hypothesis.</text>
+<text top="835" left="108" width="5" height="18" font="5"> </text>
+<text top="859" left="108" width="204" height="18" font="6"><b>4.2 Speech-act accounts</b></text>
+<text top="906" left="108" width="700" height="18" font="6"><b>4.2.1 Speech-act conditionals.</b> The Sufficiency Hypothesis treats <i>p</i> in 'if p, q' as a</text>
+<text top="930" left="108" width="700" height="18" font="5">sufficient condition for <i>q</i>. However, van der Auwera (1986) and Sweetser (1990), who</text>
+<text top="954" left="108" width="700" height="18" font="5">propose such an analysis, note that the required sufficiency relation does not exist in (54)</text>
+<text top="977" left="108" width="701" height="18" font="5">('If you are thirsty, there's beer in the fridge'). They both try to reanalyse this type of</text>
+<text top="1001" left="108" width="701" height="18" font="5">conditional as a speech-act conditional, where the truth of the antecedent is a sufficient</text>
+<text top="1025" left="108" width="700" height="18" font="5">condition for the performance of a speech-act involving the consequent. Thus, (54) would</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">23</text>
+<text top="194" left="108" width="700" height="18" font="5">be analysed as conditionally asserting that there's beer in the fridge, the condition being</text>
+<text top="218" left="108" width="201" height="18" font="5">that the hearer is thirsty. </text>
+<text top="242" left="123" width="685" height="18" font="5">Let us examine their analyses in turn. Van der Auwera starts by claiming that the</text>
+<text top="265" left="108" width="700" height="18" font="5">conditionals in (55)-(57) do not present <i>p</i> as a sufficient condition for the truth of <i>q</i></text>
+<text top="289" left="108" width="418" height="18" font="5">(which in (56) and (57) is a non-declarative clause):</text>
+<text top="313" left="108" width="5" height="18" font="5"> </text>
+<text top="337" left="108" width="34" height="18" font="5">(55)</text>
+<text top="337" left="162" width="381" height="18" font="5">If I can speak frankly, he doesn't have a chance</text>
+<text top="384" left="108" width="33" height="18" font="5">(56)</text>
+<text top="384" left="162" width="483" height="18" font="5">Where were you last night, if you wouldn't mind telling me?</text>
+<text top="432" left="108" width="33" height="18" font="5">(57)</text>
+<text top="432" left="162" width="303" height="18" font="5">Open the window, if I may ask you to</text>
+<text top="479" left="108" width="701" height="18" font="5">Instead, the antecedent is presented as a sufficient condition for the performance of a</text>
+<text top="503" left="108" width="700" height="18" font="5">speech-act involving the consequent — in (55) an assertion, in (56) a question, and in</text>
+<text top="527" left="108" width="700" height="18" font="5">(57) a request. These are then conditional speech-acts. Van der Auwera represents (57)</text>
+<text top="550" left="108" width="700" height="18" font="5">along the lines of (57)', where |-&gt; = speech-act operator of assertion, ! = speech-act</text>
+<text top="574" left="108" width="441" height="18" font="5">operator of imperative, and -&gt; = a sufficient condition:</text>
+<text top="622" left="108" width="619" height="18" font="5">(57)' |-&gt; ((I may ask you to open the window) -&gt; (!(you open the window)))</text>
+<text top="669" left="108" width="700" height="18" font="5">In (57)', the wide scope speech-act is an assertion '|-&gt;', and the antecedent is outside the</text>
+<text top="693" left="108" width="700" height="18" font="5">scope of the imperative '!'. He comments that this is 'both an imperative and an assertion</text>
+<text top="717" left="108" width="244" height="18" font="5">about that imperative' (p.202).</text>
+<text top="740" left="123" width="685" height="18" font="5">Van der Auwera refers to Lauerbach (1979: 215-53), who gives the antecedents of these</text>
+<text top="764" left="108" width="700" height="18" font="5">'commentative' conditionals a Gricean analysis; the antecedent is a comment on a</text>
+<text top="788" left="108" width="700" height="18" font="5">conversational or politeness maxim and functions as an indicator of politeness or opting</text>
+<text top="812" left="108" width="699" height="18" font="5">out of a maxim. Van der Auwera restricts his conditional speech-acts to 'commentative</text>
+<text top="836" left="108" width="700" height="18" font="5">conditionals' where the antecedents are explicitly commenting on the consequents, as in</text>
+<text top="859" left="108" width="701" height="18" font="5">(55)-(57). He does not regard non-commentative conditionals as performing conditional</text>
+<text top="883" left="108" width="700" height="18" font="5">speech-acts, since it is not obvious how the antecedent in such cases can be seen as</text>
+<text top="907" left="108" width="700" height="18" font="5">commenting on a maxim or representing a sufficient condition for a speech-act involving</text>
+<text top="931" left="108" width="700" height="18" font="5">the consequent. (p.203) Such non-commentative conditionals are analysed as a sub-type</text>
+<text top="954" left="108" width="320" height="18" font="5">of ordinary conditionals. Consider (58):</text>
+<text top="1002" left="108" width="33" height="18" font="5">(58)</text>
+<text top="1002" left="162" width="299" height="18" font="5">If you saw John, did you talk to him?</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">24</text>
+<text top="194" left="108" width="700" height="18" font="5">Van der Auwera claims that (58), which is treated as performing a conditional speech-act</text>
+<text top="218" left="108" width="700" height="18" font="5">by Holdcroft (1978: 92), is in fact a speech-act about a conditional, and that what makes</text>
+<text top="242" left="108" width="700" height="18" font="5">it different from ordinary conditionals is that the antecedent is expected to have a positive</text>
+<text top="265" left="108" width="700" height="18" font="5">answer. He treats this antecedent as a 'given' proposition, and proposes that in these cases</text>
+<text top="289" left="108" width="211" height="18" font="5">the following rule applies:</text>
+<text top="337" left="108" width="314" height="18" font="5">(59)  (?(p -&gt; q) ^ GIVEN (p)) -&gt; ?(q) </text>
+<text top="384" left="108" width="700" height="18" font="5">In other words, a speech-act about a conditional implies a conditional speech-act, and the</text>
+<text top="408" left="108" width="597" height="18" font="5">result is similar to the formulation given in (57)', but for different reasons.</text>
+<text top="432" left="123" width="684" height="18" font="5">The problem is that not all non-commentative conditionals which behave differently</text>
+<text top="455" left="108" width="700" height="18" font="5">from ordinary conditionals have a 'given' antecedent, in either sense of 'taken to be true'</text>
+<text top="479" left="108" width="700" height="18" font="5">or 'contextually given'. (54) is a case in point. If we formulate (54) in accordance with van</text>
+<text top="503" left="108" width="700" height="18" font="5">der Auwera's analysis, the result will be as in (54)'. (|-&gt;: assertion, -&gt;: a sufficiency</text>
+<text top="527" left="108" width="213" height="18" font="5">condition, ^: conjunction).</text>
+<text top="574" left="108" width="678" height="18" font="5">(54)' (|-&gt; (<i>you are thirsty</i> -&gt; <i>there's beer in the fridge</i>) ^ GIVEN (<i>you are thirsty</i>)) </text>
+<text top="598" left="162" width="276" height="18" font="5">-&gt; (|-&gt; (<i>there's beer in the fridge</i>))</text>
+<text top="645" left="108" width="700" height="18" font="5">But (54) does not mean something like (54)'; the antecedent is not given in the context</text>
+<text top="669" left="108" width="700" height="18" font="5">in the relevant sense. Moreover, the fact that someone is thirsty is not generally a</text>
+<text top="693" left="108" width="701" height="18" font="5">sufficient condition for the presence of beer in the fridge, so (you are thirsty -&gt; there's</text>
+<text top="717" left="108" width="700" height="18" font="5">beer in the fridge) in (54)' presents a problem for his analysis. I will provide further</text>
+<text top="740" left="108" width="379" height="18" font="5">arguments against this analysis, in 4.1.3 below.</text>
+<text top="764" left="123" width="685" height="18" font="5">Sweetser (1990) also argues for speech-act conditionals, which she paraphrases as <i>if p,</i></text>
+<text top="788" left="108" width="700" height="18" font="2"><i>then let us consider that I perform this speech-act</i>. (p.121) Consider her examples (6)-(8),</text>
+<text top="812" left="108" width="229" height="18" font="5">repeated below as (60)-(62):</text>
+<text top="859" left="108" width="34" height="18" font="5">(60)</text>
+<text top="859" left="162" width="277" height="18" font="5">If I may say so, that's a crazy idea.</text>
+<text top="907" left="108" width="34" height="18" font="5">(61)</text>
+<text top="907" left="162" width="647" height="18" font="5">If I haven't already asked you to do so, please sign the guest book before you go.</text>
+<text top="954" left="108" width="34" height="18" font="5">(62)</text>
+<text top="954" left="162" width="476" height="18" font="5">If it's not rude to ask, what made you decide to leave IBM?</text>
+<text top="1002" left="108" width="700" height="18" font="5">According to Sweetser, these conditionals purport to perform the speech-act assigned to</text>
+<text top="1026" left="108" width="700" height="18" font="5">the consequent only on the condition stated in the antecedent. For example, in (60), the</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">25</text>
+<text top="194" left="108" width="701" height="18" font="5">conditional is used to state an opinion only if the hearer permits it. Sweetser again sees</text>
+<text top="218" left="108" width="700" height="18" font="5">the conditions expressed in the antecedents as referring to general Gricean or Searlian</text>
+<text top="242" left="108" width="324" height="18" font="5">conditions on discourse. She comments;</text>
+<text top="289" left="162" width="593" height="18" font="5">It thus becomes clear that there are a great variety of conditional speech-</text>
+<text top="313" left="162" width="592" height="18" font="5">acts, some more overtly referring to the general felicity conditions on the</text>
+<text top="337" left="162" width="592" height="18" font="5">relevant class of speech-acts, while others refer implicitly to these general</text>
+<text top="360" left="162" width="593" height="18" font="5">conditions by referring overtly to some more specific felicity condition on</text>
+<text top="384" left="162" width="550" height="18" font="5">the particular utterance (a sub-case of the general condition) (p<i>.</i>121)</text>
+<text top="432" left="108" width="700" height="18" font="5">According to her, the felicity conditions picked out by antecedents are those proposed by</text>
+<text top="455" left="108" width="700" height="18" font="5">Searle (1969), Lakoff (1973) or Grice (1975). This is the same idea that van der Auwera</text>
+<text top="479" left="108" width="701" height="18" font="5">proposes in his analysis of 'conditional speech-acts'. The difference is that Sweetser</text>
+<text top="503" left="108" width="701" height="18" font="5">includes cases where the antecedent<b> implicitly</b> refers to the conditions, whereas van der</text>
+<text top="527" left="108" width="372" height="18" font="5">Auwera does not. Consider her example (63): </text>
+<text top="575" left="108" width="34" height="18" font="5">(63)</text>
+<text top="575" left="162" width="329" height="18" font="5">If you went to the party, was John there?</text>
+<text top="622" left="108" width="700" height="18" font="5">Sweetser claims that (63) can be interpreted as meaning '<i>If </i>you went to the party, <i>then</i></text>
+<text top="646" left="108" width="700" height="18" font="5">consider that <i>I ask you </i>whether John was there'. The hearer's going to the party would</text>
+<text top="670" left="108" width="700" height="18" font="5">enable him to have the relevant knowledge to answer the question. The higher-level</text>
+<text top="693" left="108" width="700" height="18" font="5">paraphrase might be, 'If you <i>do</i> know the answer, then take me as asking this question</text>
+<text top="717" left="108" width="700" height="18" font="5">seriously'. Sweetser includes this kind of conditionals in her speech-act conditionals,</text>
+<text top="741" left="108" width="634" height="18" font="5">whereas as we have seen with the equivalent in (58), van der Auwera does not.</text>
+<text top="789" left="108" width="700" height="18" font="6"><b>4.2.2 Metalinguistic conditionals</b>. Horn (1989) claims that the conditional operator <i>if</i></text>
+<text top="812" left="108" width="700" height="18" font="5">can be used either descriptively or metalinguistically; when <i>if</i> is used descriptively, it is</text>
+<text top="836" left="108" width="701" height="18" font="5">equivalent to material implication, but when it is used metalinguistically, it is not.</text>
+<text top="860" left="108" width="431" height="18" font="5">Consider his examples of metalinguistic conditionals:</text>
+<text top="908" left="108" width="34" height="18" font="5">(64)</text>
+<text top="908" left="162" width="382" height="18" font="5">If you're thirsty, there's some beer in the fridge.</text>
+<text top="955" left="108" width="33" height="18" font="5">(65)</text>
+<text top="955" left="162" width="623" height="18" font="5">If you haven't already heard, Punxsutawny Phil saw his shadow this morning.</text>
+<text top="1003" left="108" width="33" height="18" font="5">(66)</text>
+<text top="1003" left="162" width="464" height="18" font="5">If I may say so, you're looking particularly lovely tonight.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">26</text>
+<text top="194" left="108" width="700" height="18" font="5">According to Horn, the antecedents in (64)-(66) specify 'a sufficient condition for the</text>
+<text top="218" left="108" width="701" height="18" font="5">appropriateness or legitimacy of asserting the consequent' (p. 380). This definition is</text>
+<text top="242" left="108" width="701" height="18" font="5">nearly identical with Sweetser's account of speech act conditionals, except that it relates</text>
+<text top="265" left="108" width="700" height="18" font="5">only to declarative consequents. If we extend it to non-declarative consequents, the result</text>
+<text top="289" left="108" width="270" height="18" font="5">will be very similar to Sweetser's.</text>
+<text top="313" left="123" width="685" height="18" font="5">Another type of 'metalinguistic conditional' discussed in Horn (1989: 380-381) includes</text>
+<text top="337" left="108" width="436" height="18" font="5">the following examples from Ducrot (1972: 175-178):</text>
+<text top="384" left="108" width="34" height="18" font="5">(67)</text>
+<text top="384" left="162" width="479" height="18" font="5">If the Cité is the heart of Paris, the Latin Quarter is its soul.</text>
+<text top="432" left="108" width="34" height="18" font="5">(68)</text>
+<text top="432" left="162" width="647" height="18" font="5">If the Bois de Boulogne is the lungs of Paris, the neighbourhood square is its</text>
+<text top="455" left="162" width="49" height="18" font="5">pores.</text>
+<text top="503" left="108" width="700" height="18" font="5">Horn says that these conditionals mean, 'if you're willing to grant p, you must equally</text>
+<text top="527" left="108" width="700" height="18" font="5">grant q'. These conditionals are not speech-act conditionals, in that the antecedents are</text>
+<text top="550" left="108" width="700" height="18" font="5">not felicity conditions for the speech-acts performed by the consequents. They will be</text>
+<text top="574" left="108" width="183" height="18" font="5">dealt with in section 5.</text>
+<text top="598" left="123" width="684" height="18" font="5">Horn's position might be described as middle of the road. For descriptive conditionals,</text>
+<text top="622" left="108" width="700" height="18" font="5">he uses the truth-table account, while for metalinguistic conditionals, which do not seem</text>
+<text top="645" left="108" width="701" height="18" font="5">to be truth-functional, he uses a Sufficiency Condition account and its notion of speech-</text>
+<text top="669" left="108" width="700" height="18" font="5">act conditionals. Though he regards these different uses as resulting in a pragmatic</text>
+<text top="693" left="108" width="700" height="18" font="5">ambiguity, they also seem to imply a semantic ambiguity: <i>if</i> is either logical or</text>
+<text top="717" left="108" width="699" height="18" font="5">metalinguistic, and the two meanings are irreducible. This account encounters not only</text>
+<text top="740" left="108" width="677" height="18" font="5">all the problems of speech-act accounts, but all the problems of ambiguity accounts.</text>
+<text top="764" left="123" width="685" height="18" font="5">Finally, a look at Dancygier's metatextual conditionals is in order. Dancygier (1992)</text>
+<text top="788" left="108" width="700" height="18" font="5">holds the same idea about speech-act conditionals as Sweetser, but she also discusses a</text>
+<text top="812" left="108" width="700" height="18" font="5">class of metatextual conditionals, which she sees as different from speech-act</text>
+<text top="836" left="108" width="338" height="18" font="5">conditionals. These include the following:</text>
+<text top="883" left="108" width="33" height="18" font="5">(69)</text>
+<text top="883" left="162" width="14" height="18" font="5">a.</text>
+<text top="883" left="215" width="588" height="18" font="5">He trapped two mongeese, if that's how you make a plural of 'mongoose'.</text>
+<text top="907" left="162" width="15" height="18" font="5">b.</text>
+<text top="907" left="216" width="464" height="18" font="5">He trapped two mongeese, if 'mongeese' is the right form.</text>
+<text top="954" left="108" width="34" height="18" font="5">(70)</text>
+<text top="954" left="162" width="14" height="18" font="5">a.</text>
+<text top="954" left="216" width="402" height="18" font="5">Grandma is feeling lousy, if I may put it that way.</text>
+<text top="978" left="162" width="15" height="18" font="5">b.</text>
+<text top="978" left="216" width="488" height="18" font="5">Grandma is feeling lousy, if that's an appropriate expression.</text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">27</text>
+<text top="928" left="130" width="680" height="15" font="0">This elliptical conditional is claimed to be ambiguous between ordinary and concessive readings.</text>
+<text top="924" left="123" width="6" height="11" font="1">6</text>
+<text top="948" left="108" width="702" height="15" font="0">The one used for an example of metatextual conditionals is the ordinary case. As a concessive</text>
+<text top="968" left="108" width="702" height="15" font="0">reading, it means, 'the Queen of England is happy, though she is not ecstatic.' Wilson (1970) also</text>
+<text top="987" left="108" width="171" height="15" font="0">points out this ambiguity.</text>
+<text top="1025" left="129" width="681" height="15" font="0">Quirk et al. (1985: 15.38) define both types as involving an 'indirect condition', which is contrasted with</text>
+<text top="1020" left="123" width="6" height="11" font="1">7</text>
+<text top="1045" left="108" width="354" height="15" font="0">the 'direct condition' of the truth-functional relation. </text>
+<text top="194" left="108" width="33" height="18" font="5">(71)</text>
+<text top="194" left="162" width="14" height="18" font="5">a.</text>
+<text top="194" left="215" width="593" height="18" font="5">Chris managed to solve the problem, if solving it was in any way difficult</text>
+<text top="218" left="216" width="65" height="18" font="5">for him.</text>
+<text top="242" left="162" width="15" height="18" font="5">b.</text>
+<text top="242" left="216" width="529" height="18" font="5">Chris managed to solve the problem, if 'manage' is the right word.</text>
+<text top="289" left="108" width="34" height="18" font="5">(72)</text>
+<text top="289" left="162" width="380" height="18" font="5">The Queen of England is happy, if not ecstatic.</text>
+<text top="287" left="541" width="6" height="11" font="1">6</text>
+<text top="337" left="108" width="701" height="18" font="5">Regarding these conditionals, she comments that the antecedent may highlight a certain</text>
+<text top="360" left="108" width="700" height="18" font="5">fragment of the consequent by echoing it, as in (69b) and (71b), or referring to it</text>
+<text top="384" left="108" width="700" height="18" font="5">anaphorically, as in (70b). It may also offer a repair, as in (72), or explain the reasons</text>
+<text top="408" left="108" width="701" height="18" font="5">why the speaker is not sure about the appropriateness of some expression, as in (69a),</text>
+<text top="432" left="108" width="700" height="18" font="5">(70a), and (71a) . To generalise, 'The speaker ... is not sure if she chose the right</text>
+<text top="455" left="108" width="700" height="18" font="5">expression to render an aspect of the utterance — whether pertaining to form or</text>
+<text top="479" left="108" width="700" height="18" font="5">interpretation. To mark the lack of certainty, she appends to the utterance an <i>if</i>-clause</text>
+<text top="503" left="108" width="459" height="18" font="5">expressing her doubt about a part of the text' (1992: 70). </text>
+<text top="527" left="123" width="685" height="18" font="5">Horn's metalinguistic conditionals and Dancygier's metatextual conditionals differ as</text>
+<text top="550" left="108" width="700" height="18" font="5">to what the antecedent is commenting on: the antecedents of metatextual conditionals are</text>
+<text top="574" left="108" width="700" height="18" font="5">commenting on the linguistic properties of the consequents, while the antecedents of</text>
+<text top="598" left="108" width="701" height="18" font="5">metalinguistic conditionals are commenting on the assertability of the consequents. I</text>
+<text top="622" left="108" width="700" height="18" font="5">think that these two types do belong to a single class of conditionals , which are</text>
+<text top="619" left="706" width="6" height="11" font="1">7</text>
+<text top="645" left="108" width="530" height="18" font="5">contrasted with ordinary conditionals. Dancygier also says (p.71);</text>
+<text top="693" left="162" width="592" height="18" font="5">The similarities are not incidental. Both speech-act and metatextual clauses</text>
+<text top="717" left="162" width="592" height="18" font="5">are comments on utterances presented in their 'consequents', and are thus</text>
+<text top="740" left="162" width="592" height="18" font="5">markedly different from standard conditionals, which express a content</text>
+<text top="764" left="162" width="554" height="18" font="5">relation between clauses (in the sense introduced by Sweetser 1990).</text>
+<text top="812" left="108" width="700" height="18" font="5">In both cases the standard semantic analyses of <i>if</i> as material implication, or a sufficiency</text>
+<text top="836" left="108" width="700" height="18" font="5">condition relating contents are violated. Postulating metatextual conditionals is not a new</text>
+</page>
+<page number="28" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">28</text>
+<text top="194" left="108" width="701" height="18" font="5">approach, but an extension of speech-act accounts. If we can generalise them into one</text>
+<text top="218" left="108" width="404" height="18" font="5">category, the analysis would be more explanatory.</text>
+<text top="242" left="123" width="685" height="18" font="5">To sum up: there are some conditionals which do not appear to express a truth-</text>
+<text top="265" left="108" width="700" height="18" font="5">functional relation or a sufficiency relation between literally expressed propositions. Van</text>
+<text top="289" left="108" width="700" height="18" font="5">der Auwera and Sweetser argue for an analysis in terms of speech-act conditionals, to</text>
+<text top="313" left="108" width="700" height="18" font="5">preserve the Sufficiency-condition account. Horn tries to analyse them as metalinguistic</text>
+<text top="337" left="108" width="701" height="18" font="5">conditionals. Dancygier admits the existence of speech-act conditionals, and postulates</text>
+<text top="360" left="108" width="700" height="18" font="5">another related type of conditional (which she calls metatextual conditionals) in which</text>
+<text top="384" left="108" width="700" height="18" font="5">the antecedents comment on the linguistic properties of their consequents, rather than on</text>
+<text top="408" left="108" width="700" height="18" font="5">the speech-acts performed by their consequents. All these are seen as based on the same</text>
+<text top="432" left="108" width="700" height="18" font="5">type of Sufficiency Condition analysis as speech-act conditionals. Thus accounts of both</text>
+<text top="455" left="108" width="701" height="18" font="5">metalinguistic and metatextual conditionals should encounter the same problems as</text>
+<text top="479" left="108" width="292" height="18" font="5">accounts of speech-act conditionals.</text>
+<text top="527" left="108" width="700" height="18" font="6"><b>4.2.3 Some problems with speech-act accounts.</b> Here I will argue only against Sweetser</text>
+<text top="550" left="108" width="700" height="18" font="5">(1990), but since van der Auwera (1986) and Horn (1989) offer similar analyses, my</text>
+<text top="574" left="108" width="460" height="18" font="5">arguments should also raise problems for their accounts. </text>
+<text top="598" left="123" width="685" height="18" font="5">One problem is that though speech-act accounts appear able to deal with so-called</text>
+<text top="622" left="108" width="700" height="18" font="5">speech-act conditionals, there are some conditionals which are neither content nor</text>
+<text top="645" left="108" width="651" height="18" font="5">epistemic, but which cannot be dealt with by those accounts. Consider (73)-(74):</text>
+<text top="693" left="108" width="34" height="18" font="5">(73)</text>
+<text top="693" left="162" width="274" height="18" font="5">(Son to Mother who is going out).</text>
+<text top="717" left="162" width="526" height="18" font="5">Mum, don't worry. If I'm hungry, there's a sandwich in the fridge.</text>
+<text top="764" left="108" width="34" height="18" font="5">(74)</text>
+<text top="764" left="162" width="588" height="18" font="5">If he dies without a will, I am his son, though not from his first marriage.</text>
+<text top="812" left="108" width="700" height="18" font="5">(73) is neither a content nor an epistemic conditional. It does not mean that the speaker's</text>
+<text top="836" left="108" width="700" height="18" font="5">hunger is sufficient for the presence of the sandwich, nor that knowing he is hungry will</text>
+<text top="859" left="108" width="700" height="18" font="5">lead him to conclude that the sandwich exists. Rather, it is very similar to speech-act</text>
+<text top="883" left="108" width="700" height="18" font="5">conditionals, in Sweetser's terms. But it does not mean that if the speaker is hungry, he</text>
+<text top="907" left="108" width="701" height="18" font="5">will be performing a speech-act of informing someone/asserting that there is a sandwich</text>
+<text top="931" left="108" width="700" height="18" font="5">in the fridge. The speaker's hunger cannot be a felicity condition for informing his mother</text>
+<text top="954" left="108" width="700" height="18" font="5">that there is a sandwich in the fridge. Indeed, the truth of the antecedent will be</text>
+<text top="978" left="108" width="700" height="18" font="5">established in the future, whereas the consequent is being asserted now. Similar</text>
+<text top="1002" left="108" width="700" height="18" font="5">arguments hold for (74). The father's death will happen some day in the future but the</text>
+<text top="1026" left="108" width="700" height="18" font="5">consequent is being asserted now (as Sweetser acknowledges (1990: 118), noting that the</text>
+</page>
+<page number="29" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">29</text>
+<text top="194" left="108" width="700" height="18" font="5">'actual pragmatic status' of these conditionals is 'somewhat nebulous'). And, as in (73),</text>
+<text top="218" left="108" width="590" height="18" font="5">the father's death is not a felicity condition on asserting that he is his son.</text>
+<text top="242" left="123" width="685" height="18" font="5">Another problem is that some consequents involve an utterance by the hearer, which</text>
+<text top="265" left="108" width="612" height="18" font="5">could not possibly be performed by the current speaker. Consider (75)-(76):</text>
+<text top="313" left="108" width="34" height="18" font="5">(75)</text>
+<text top="313" left="162" width="203" height="18" font="5">(The door bell is ringing)</text>
+<text top="337" left="162" width="331" height="18" font="5">Mary to Jane: If that's John, I'm not here.</text>
+<text top="384" left="108" width="34" height="18" font="5">(76)</text>
+<text top="384" left="162" width="647" height="18" font="5">If anyone talks to you about the treasure map, you don't know anything about it,</text>
+<text top="408" left="162" width="216" height="18" font="5">you have never heard of it.</text>
+<text top="455" left="108" width="700" height="18" font="5">In (75), the conditional is neither a content nor an epistemic conditional. Is it then a</text>
+<text top="479" left="108" width="700" height="18" font="5">speech-act conditional? What kind of speech-act could the speaker be performing with</text>
+<text top="503" left="108" width="699" height="18" font="5">the consequent 'I'm not here'? I am not sure if we can define 'speech-act' to include this</text>
+<text top="527" left="108" width="700" height="18" font="5">case. Even if we could, the truth of the antecedent is not a felicity condition on the</text>
+<text top="550" left="108" width="700" height="18" font="5">speech-act. The same holds of (76). In both cases, intuitively, the speaker is telling the</text>
+<text top="574" left="108" width="700" height="18" font="5">hearer what he/she should say if the antecedent turns out to be true. Such cases are not</text>
+<text top="598" left="108" width="303" height="18" font="5">normally considered in the literature. </text>
+<text top="622" left="123" width="684" height="18" font="5">There are many conditionals in which the antecedents do not state a felicity condition</text>
+<text top="645" left="108" width="560" height="18" font="5">for the speech-act performed by the consequents. Consider (77)-(78):</text>
+<text top="693" left="108" width="34" height="18" font="5">(77)</text>
+<text top="693" left="162" width="621" height="18" font="5">The war was started by the other side, if you remember your history lessons. </text>
+<text top="717" left="162" width="206" height="18" font="5">(Quirk et al. 1985: 15.38)</text>
+<text top="764" left="108" width="34" height="18" font="5">(78)</text>
+<text top="764" left="162" width="596" height="18" font="5">I am very interested in foreign stamps, if you get any letters from abroad. </text>
+<text top="788" left="162" width="165" height="18" font="5">(Davies 1979: 1042)</text>
+<text top="836" left="108" width="700" height="18" font="5">(77) is treated by Quirk et al. (1985) as imposing an indirect condition between</text>
+<text top="859" left="108" width="700" height="18" font="5">antecedent and consequent, which speech-act conditionals are also claimed to do. Indeed,</text>
+<text top="883" left="108" width="700" height="18" font="5">(77) is very similar to the genuine speech-act conditional 'The war was started by the</text>
+<text top="907" left="108" width="700" height="18" font="5">other side, if you don't remember your history lessons'. In the latter, the antecedent is</text>
+<text top="931" left="108" width="700" height="18" font="5">likely to be a felicity condition for informing the hearer of the consequent, but in the</text>
+<text top="954" left="108" width="700" height="18" font="5">former, it is not obvious what kind of felicity condition the hearer's remembering the</text>
+<text top="978" left="108" width="700" height="18" font="5">lessons could be. (78) is claimed not to be a speech-act conditional, (nor is it a content</text>
+<text top="1002" left="108" width="700" height="18" font="5">nor an epistemic conditional). Davies (1979: 1042) argues that in some conditionals 'the</text>
+<text top="1026" left="108" width="700" height="18" font="5">function of the <i>if</i>-clause seems to be to justify the utterance of the main clause by</text>
+</page>
+<page number="30" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">30</text>
+<text top="194" left="108" width="700" height="18" font="5">indicating the conditions under which it is relevant'. According to her, (78) differs from</text>
+<text top="218" left="108" width="700" height="18" font="5">speech-act conditionals because it has no related conditional imperatives like '?Get any</text>
+<text top="242" left="108" width="701" height="18" font="5">letters from abroad, and I'm very interested in foreign stamps', as speech-act conditionals</text>
+<text top="265" left="108" width="30" height="18" font="5">do. </text>
+<text top="289" left="123" width="685" height="18" font="5">To conclude: speech-act accounts cannot accommodate all these cases. So we need</text>
+<text top="313" left="108" width="700" height="18" font="5">another approach which can cover a wider range of conditionals, that is, not only speech-</text>
+<text top="337" left="108" width="474" height="18" font="5">act conditionals but also the further examples given above.</text>
+<text top="408" left="108" width="307" height="18" font="6"><b>4.3 A metarepresentational account</b></text>
+<text top="455" left="108" width="700" height="18" font="6"><b>4.3.1 Metarepresentational consequents.</b>  In section 4.2.3, we have seen that there are</text>
+<text top="479" left="108" width="700" height="18" font="5">some conditionals which speech-act accounts cannot deal with. I will look at these first,</text>
+<text top="503" left="108" width="700" height="18" font="5">and then extend the account to 'speech-act conditionals' proper. Conditional (75) is</text>
+<text top="526" left="108" width="700" height="18" font="5">different from standard speech-act conditionals in that the antecedent is not commenting</text>
+<text top="550" left="108" width="700" height="18" font="5">on the consequent, either on its linguistic properties or on the speech-act performed. I</text>
+<text top="574" left="108" width="700" height="18" font="5">propose to treat this consequent as metarepresenting an utterance which the speaker</text>
+<text top="598" left="108" width="565" height="18" font="5">wants the hearer to make in the situation described by the antecedent. </text>
+<text top="621" left="123" width="684" height="18" font="5">As we saw in section 3.3.2, metarepresentative use is different from descriptive use in</text>
+<text top="645" left="108" width="701" height="18" font="5">that it does not describe a state of affairs, but represents another representation by</text>
+<text top="669" left="108" width="700" height="18" font="5">resemblance in content or form; resemblance in content results in what we are calling</text>
+<text top="693" left="108" width="700" height="18" font="5">interpretive use, and resemblance in form results in metalinguistic use. Conditional (75)</text>
+<text top="716" left="108" width="700" height="18" font="5">is a case of interpretive use: it communicates that in the situation where the visitor is</text>
+<text top="740" left="108" width="700" height="18" font="5">John, the speaker wants the hearer to tell him that Mary is not there. Or consider (76).</text>
+<text top="764" left="108" width="700" height="18" font="5">This conveys to the hearer that if someone talks about the treasure map, he must say that</text>
+<text top="788" left="108" width="701" height="18" font="5">he does not know anything about it. It is a case of interpretive use, where a prospective</text>
+<text top="811" left="108" width="356" height="18" font="5">utterance by the hearer is being represented.</text>
+<text top="835" left="123" width="685" height="18" font="5">Metarepresentation can also involve metalinguistic use. For example, an utterance may</text>
+<text top="859" left="108" width="700" height="18" font="5">be represented as direct rather than indirect speech (See Noh (1995)). Consider (79)-(80):</text>
+<text top="906" left="108" width="34" height="18" font="5">(79)</text>
+<text top="906" left="162" width="398" height="18" font="5">(At a primary school, a teacher to a new student) </text>
+<text top="930" left="162" width="646" height="18" font="5">If you come across me in school, 'How are you Miss Smith?', always. Understand?</text>
+<text top="978" left="108" width="34" height="18" font="5">(80)</text>
+<text top="978" left="162" width="203" height="18" font="5">(The door bell is ringing)</text>
+<text top="1001" left="162" width="461" height="18" font="5">Mary (to Jane): If that's John, 'Sorry, I'm afraid she's out'.</text>
+</page>
+<page number="31" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">31</text>
+<text top="194" left="108" width="700" height="18" font="5">In (79), the consequent directly quotes the utterance that the student should make. It is</text>
+<text top="218" left="108" width="700" height="18" font="5">hard to analyse this as involving a speech-act performed by the speaker (i.e. the teacher),</text>
+<text top="242" left="108" width="700" height="18" font="5">nor is the antecedent a felicity condition for such a speech-act. The same holds for (80).</text>
+<text top="265" left="123" width="685" height="18" font="5">The original representations metarepresented in consequents of this type are not</text>
+<text top="289" left="108" width="700" height="18" font="5">restricted to utterances that the speaker wants the hearer to produce. The speaker can</text>
+<text top="313" left="108" width="700" height="18" font="5">represent an utterance which she herself would like to make in the case that the</text>
+<text top="337" left="108" width="309" height="18" font="5">antecedent is true. Consider (81)-(82):</text>
+<text top="384" left="108" width="34" height="18" font="5">(81)</text>
+<text top="384" left="162" width="439" height="18" font="5">If I don't see you before Christmas, 'Merry Christmas!'</text>
+<text top="432" left="108" width="34" height="18" font="5">(82)</text>
+<text top="432" left="162" width="321" height="18" font="5">If you are the winner, 'Congratulations!'</text>
+<text top="479" left="108" width="701" height="18" font="5">In these conditionals, the consequent represents the utterance that the speaker wants to</text>
+<text top="503" left="108" width="700" height="18" font="5">make in the case that the antecedent is true. For example, (81) means that the speaker</text>
+<text top="527" left="108" width="700" height="18" font="5">wants to say 'Merry Christmas!', on condition that she does not see the hearer before</text>
+<text top="550" left="108" width="700" height="18" font="5">Christmas. Whether she meets the hearer before Christmas or not, he can see what the</text>
+<text top="574" left="108" width="701" height="18" font="5">speaker wants to do. The same holds for (82). Has the speaker of (82) performed the</text>
+<text top="598" left="108" width="700" height="18" font="5">speech-act of congratulating? That is not entirely within her power: you cannot succeed</text>
+<text top="622" left="108" width="700" height="18" font="5">in congratulating someone who is not a winner. What the speaker can do is metarepresent</text>
+<text top="645" left="108" width="700" height="18" font="5">an utterance she would like to make, assuming that the appropriate conditions hold. And</text>
+<text top="669" left="108" width="701" height="18" font="5">this is what she does. Notice too that in (81), it is not a felicity condition for the greeting</text>
+<text top="693" left="108" width="700" height="18" font="5">that the speaker and hearer should not meet again before Christmas. If I wish you 'Merry</text>
+<text top="717" left="108" width="700" height="18" font="5">Christmas!', and we meet again before Christmas, we do not say that the wish was</text>
+<text top="740" left="108" width="700" height="18" font="5">infelicitous. So the antecedent of (81) does not involve a speech-act condition, as</text>
+<text top="764" left="108" width="307" height="18" font="5">Sweetser or van der Auwera propose. </text>
+<text top="788" left="123" width="685" height="18" font="5">Let us look now at conditionals where the antecedent involves future time. Consider</text>
+<text top="812" left="108" width="313" height="18" font="5">(73)-(74), repeated below as (83)-(84):</text>
+<text top="859" left="108" width="33" height="18" font="5">(83)</text>
+<text top="859" left="162" width="526" height="18" font="5">Mum, don't worry. If I'm hungry, there's a sandwich in the fridge.</text>
+<text top="907" left="108" width="34" height="18" font="5">(84)</text>
+<text top="907" left="162" width="588" height="18" font="5">If he dies without a will, I am his son, though not from his first marriage.</text>
+<text top="954" left="108" width="700" height="18" font="5">In (83), the conditional might be analysed as communicating that if the speaker gets</text>
+<text top="978" left="108" width="700" height="18" font="5">hungry, which his mother may be worrying about, he will remember that there's a</text>
+<text top="1002" left="108" width="700" height="18" font="5">sandwich in the fridge. A similar analysis holds for (84). If the father dies without a will,</text>
+</page>
+<page number="32" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">32</text>
+<text top="194" left="108" width="700" height="18" font="5">the speaker will claim/assert that he is his son (who can inherit his property). In this case,</text>
+<text top="218" left="108" width="700" height="18" font="5">the consequent is a metarepresentation of an utterance that he will make in the situation.</text>
+<text top="242" left="123" width="685" height="18" font="5">Now let us apply this approach to 'speech-act conditionals'. Consider (61) and (62)</text>
+<text top="265" left="108" width="700" height="18" font="5">again. In (61), the speaker is metarepresenting a direction which she would want to give</text>
+<text top="289" left="108" width="700" height="18" font="5">if the condition in the antecedent is satisfied. Similarly, in (62), the consequent can be</text>
+<text top="313" left="108" width="700" height="18" font="5">said to represent a question which she would want to ask if it was not rude. Accordingly,</text>
+<text top="337" left="108" width="700" height="18" font="5">the new approach can deal with speech-act conditionals in the same way as the</text>
+<text top="360" left="108" width="362" height="18" font="5">counterexamples to the speech-act approach.</text>
+<text top="384" left="123" width="685" height="18" font="5">Metatextual conditionals can also be handled in metarepresentational terms. Consider</text>
+<text top="408" left="108" width="86" height="18" font="5">(69)'-(70)':</text>
+<text top="455" left="108" width="68" height="18" font="5">(69)' a.</text>
+<text top="455" left="216" width="591" height="18" font="5">If this is how you make a plural of 'mongoose', he trapped two mongeese.</text>
+<text top="479" left="162" width="15" height="18" font="5">b.</text>
+<text top="479" left="216" width="461" height="18" font="5">If 'mongeese' is the right form, he trapped two mongeese.</text>
+<text top="527" left="108" width="68" height="18" font="5">(70)' a.</text>
+<text top="527" left="216" width="397" height="18" font="5">If I may put it this way, grandma is feeling lousy.</text>
+<text top="550" left="162" width="15" height="18" font="5">b.</text>
+<text top="550" left="216" width="491" height="18" font="5">If this is an appropriate expression, grandma is feeling lousy.</text>
+<text top="598" left="108" width="701" height="18" font="5">In (69)', we can say that in the consequent, the speaker metarepresents a term that she</text>
+<text top="622" left="108" width="701" height="18" font="5">wants to use if it's the right one. This is a case of metalinguistic use. Notice that this is</text>
+<text top="645" left="108" width="700" height="18" font="5">compatible with the view that the rest of the consequent is descriptively used — an option</text>
+<text top="669" left="108" width="700" height="18" font="5">that seems incompatible with standard speech-act accounts, and may explain why</text>
+<text top="693" left="108" width="701" height="18" font="5">metatextual conditionals are not generally analysed in speech-act terms. It contrasts with</text>
+<text top="717" left="108" width="570" height="18" font="5">the case where the whole utterance is metarepresented, as in (81)-(82).</text>
+<text top="740" left="123" width="685" height="18" font="5">However, there seems to be a problem with the account I have just sketched. So far, all</text>
+<text top="764" left="108" width="700" height="18" font="5">my examples have had preposed antecedents. Conditionals with postposed antecedents</text>
+<text top="788" left="108" width="700" height="18" font="5">seem to be counterexamples to my approach, because they look like real assertions,</text>
+<text top="812" left="108" width="701" height="18" font="5">questions, or imperatives. Consider (56)-(57) again. The consequents in (56)-(57) sound</text>
+<text top="836" left="108" width="701" height="18" font="5">like genuine speech-acts of asking or requesting. As the consequent is used before the</text>
+<text top="859" left="108" width="700" height="18" font="5">antecedent, the hearer is likely to interpret it as a real request, until he hears the</text>
+<text top="883" left="108" width="700" height="18" font="5">antecedent and comes to realise that it is not a real one in effect. These are garden-path</text>
+<text top="907" left="108" width="700" height="18" font="5">utterances. These conditionals certainly implicate a request, but whether the antecedent</text>
+<text top="931" left="108" width="700" height="18" font="5">is preposed or postposed, the illocutionary force is weaker than that of unconditional</text>
+<text top="954" left="108" width="653" height="18" font="5">utterances, because it is not explicitly communicated but pragmatically implied.  </text>
+<text top="978" left="123" width="685" height="18" font="5">In fact, if these utterances perform genuine speech-acts, they are also counterexamples</text>
+<text top="1002" left="108" width="700" height="18" font="5">to the speech-act account, since the speech-act account also claims that in the case where</text>
+<text top="1026" left="108" width="700" height="18" font="5">the hearer of (56) does mind giving the information, no speech-act is performed. It is easy</text>
+</page>
+<page number="33" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">33</text>
+<text top="194" left="108" width="701" height="18" font="5">to show that no speech-act need be performed even with postposed antecedents. Imagine</text>
+<text top="218" left="108" width="673" height="18" font="5">receiving an advertisement on the following lines (example due to Deirdre Wilson):</text>
+<text top="265" left="108" width="34" height="18" font="5">(85)</text>
+<text top="265" left="162" width="14" height="18" font="5">a.</text>
+<text top="265" left="216" width="429" height="18" font="5">Congratulations, if you've just bought a new Renault.</text>
+<text top="289" left="162" width="15" height="18" font="5">b.</text>
+<text top="289" left="216" width="277" height="18" font="5">Happy birthday, if today's the day.</text>
+<text top="337" left="108" width="700" height="18" font="5">Or imagine a market-researcher saying these things to you in the street. Clearly, you are</text>
+<text top="360" left="108" width="700" height="18" font="5">not being congratulated unless you have bought a new Renault, or unless it is your</text>
+<text top="384" left="108" width="700" height="18" font="5">birthday. In that case, these are not counterexamples to my metarepresentational account:</text>
+<text top="408" left="108" width="700" height="18" font="5">the speaker is metarepresenting an utterance she would want to make if the appropriate</text>
+<text top="432" left="108" width="193" height="18" font="5">conditions are fulfilled. </text>
+<text top="455" left="123" width="685" height="18" font="5">To sum up: the main difference between the speech-act account and the</text>
+<text top="479" left="108" width="700" height="18" font="5">metarepresentational account I have sketched here is that on the speech-act account, a</text>
+<text top="503" left="108" width="700" height="18" font="5">speech-act is performed at the time of the utterance and by the speaker, whereas a</text>
+<text top="527" left="108" width="700" height="18" font="5">metarepresentation can represent not only past or present utterances and thoughts, but</text>
+<text top="550" left="108" width="700" height="18" font="5">also future or possible ones. A second difference is that metarepresentation can cover the</text>
+<text top="574" left="108" width="701" height="18" font="5">cases where linguistic forms are represented, eg. 'metatextual' conditionals. A third</text>
+<text top="598" left="108" width="700" height="18" font="5">difference is that the metarepresentational account can explain how the consequent can</text>
+<text top="622" left="108" width="700" height="18" font="5">have interrogative or imperative form. The consequent can have those forms because it</text>
+<text top="645" left="108" width="699" height="18" font="5">is representing another representation, i.e., an interrogative or an imperative utterance,</text>
+<text top="669" left="108" width="701" height="18" font="5">which is implicitly embedded under a speech-act or propositional-attitude verb. This is</text>
+<text top="693" left="108" width="701" height="18" font="5">a problem for the speech-act account, since in general the force of the main clause of a</text>
+<text top="717" left="108" width="701" height="18" font="5">conditional should determine the force of the utterance as a whole — but as we can see</text>
+<text top="740" left="108" width="700" height="18" font="5">in van der Auwera's analysis in (57)' above, in the case of 'conditional speech-acts', the</text>
+<text top="764" left="108" width="700" height="18" font="5">consequent is imperative, but the whole conditional is an assertion. Finally, as it is</text>
+<text top="788" left="108" width="701" height="18" font="5">metarepresenting another representation, the proposition literally expressed by the</text>
+<text top="812" left="108" width="700" height="18" font="5">consequent is given a guarantee not of truthfulness, but of faithfulness. This explains why</text>
+<text top="836" left="108" width="700" height="18" font="5">the consequents in these conditionals do not have a regular truth-functional relation with</text>
+<text top="859" left="108" width="511" height="18" font="5">their antecedents, which describe a state of affairs in the world.</text>
+<text top="907" left="108" width="700" height="18" font="6"><b>4.3.2 Truth conditions of metarepresentational consequents</b>. Now we need to examine</text>
+<text top="931" left="108" width="700" height="18" font="5">the truth conditions of these conditionals. As mentioned in the introduction to this</text>
+<text top="955" left="108" width="700" height="18" font="5">section, these conditionals have been distinguished from ordinary conditionals by their</text>
+<text top="978" left="108" width="700" height="18" font="5">seemingly non-truth-functional status. However, if we analyse them as</text>
+<text top="1002" left="108" width="700" height="18" font="5">metarepresentational, we can see that they do involve a truth-functional relation between</text>
+<text top="1026" left="108" width="700" height="18" font="5">antecedent  and consequent. Before putting the case, we need to be reminded of two</text>
+</page>
+<page number="34" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">34</text>
+<text top="194" left="108" width="700" height="18" font="5">points. One is that a metarepresentational utterance should be faithful rather than truthful,</text>
+<text top="218" left="108" width="657" height="18" font="5">and its truth conditions are different from those of descriptive use. Consider (86):</text>
+<text top="265" left="108" width="34" height="18" font="5">(86)</text>
+<text top="265" left="162" width="412" height="18" font="5">(Mary is talking to Jane about her date with a guy.)</text>
+<text top="289" left="162" width="234" height="18" font="5">Jane: Then what did he say?</text>
+<text top="313" left="162" width="160" height="18" font="5">Mary: He loves me.</text>
+<text top="360" left="108" width="700" height="18" font="5">In (86), we do not blame Mary for telling a lie when we come to know that the guy does</text>
+<text top="384" left="108" width="701" height="18" font="5">not love her, as long as he actually said 'I love you'. What is important is faithfulness of</text>
+<text top="408" left="108" width="701" height="18" font="5">the metarepresentation, not truthfulness of the proposition expressed. To put it another</text>
+<text top="432" left="108" width="700" height="18" font="5">way, when intended as a metarepresentation, Mary's utterance in (86) will be true if and</text>
+<text top="455" left="108" width="700" height="18" font="5">only if 'He loves me' is a faithful enough interpretation of what he said: it shares its truth</text>
+<text top="479" left="108" width="307" height="18" font="5">conditions with 'He said he loves me'. </text>
+<text top="503" left="123" width="684" height="18" font="5">A second point is that declarative and non-declarative sentences share a propositional</text>
+<text top="527" left="108" width="207" height="18" font="5">form. Consider (87)-(89):</text>
+<text top="574" left="108" width="34" height="18" font="5">(87)</text>
+<text top="574" left="162" width="164" height="18" font="5">John goes to school.</text>
+<text top="622" left="108" width="34" height="18" font="5">(88)</text>
+<text top="622" left="162" width="197" height="18" font="5">Does John go to school?</text>
+<text top="669" left="108" width="34" height="18" font="5">(89)</text>
+<text top="669" left="162" width="193" height="18" font="5">(To John) Go to school.</text>
+<text top="717" left="108" width="584" height="18" font="5">All these sentences have something like (90) as their propositional form:</text>
+<text top="764" left="108" width="34" height="18" font="5">(90)</text>
+<text top="764" left="162" width="172" height="18" font="5">[John goes to school]</text>
+<text top="812" left="108" width="700" height="18" font="5">The difference is in their higher-level explicatures: in speech-act terms, in (87) the</text>
+<text top="836" left="108" width="701" height="18" font="5">speaker is saying that P, in (88) she is asking whether P, and in (89), she is telling to P;</text>
+<text top="859" left="108" width="701" height="18" font="5">in propositional attitude terms, in (87), the speaker is presenting P as a description of a</text>
+<text top="883" left="108" width="701" height="18" font="5">state of affairs, in (88), as an interpretation of a desirable thought, and in (89), as a</text>
+<text top="907" left="108" width="701" height="18" font="5">description of a desirable state of affairs. (See Wilson &amp; Sperber (1988b) for details.)</text>
+<text top="931" left="108" width="700" height="18" font="5">Similarly, conditionals have the same propositional forms, regardless of the different</text>
+<text top="954" left="108" width="700" height="18" font="5">speech-acts  they may perform. Let us look at conditional (75) again. In (75), the</text>
+<text top="978" left="108" width="700" height="18" font="5">consequent metarepresents the utterance that Mary wants Jane to make if John is at the</text>
+<text top="1002" left="108" width="700" height="18" font="5">door. Its truth conditions are equivalent to those of 'If that's John, tell him I'm not here'.</text>
+<text top="1026" left="108" width="700" height="18" font="5">I propose to consider the truth conditions of these conditionals in the same way as we did</text>
+</page>
+<page number="35" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">35</text>
+<text top="194" left="108" width="700" height="18" font="5">in the last section. That is, the fact that something is metarepresented should be included</text>
+<text top="218" left="108" width="296" height="18" font="5">in the propositional form, as in (75)':</text>
+<text top="265" left="108" width="405" height="18" font="5">(75)' If [that's John], [you tell him I am not here]</text>
+<text top="313" left="108" width="701" height="18" font="5">In (75)', the antecedent and consequent have a regular truth-functional relation as</text>
+<text top="337" left="108" width="700" height="18" font="5">predicted by the truth-table for material implication.<i>  </i>(The  <i>if and only if</i> reading is</text>
+<text top="360" left="108" width="700" height="18" font="5">implicated pragmatically.) Notice that (75)' can be the propositional form of a declarative,</text>
+<text top="384" left="108" width="700" height="18" font="5">interrogative or imperative sentence. In (75), the hearer is being requested to make true</text>
+<text top="408" left="108" width="700" height="18" font="5">a conditional of the form 'If John's at the door, I (the hearer) tell him Mary is not here'.</text>
+<text top="432" left="108" width="571" height="18" font="5">So the information communicated by (75) will be something like (75)'':</text>
+<text top="479" left="108" width="531" height="18" font="5">(75)'' I am telling you the following is a desirable state of affairs:</text>
+<text top="503" left="162" width="349" height="18" font="5">if [that's John], [you tell him I am not here]</text>
+<text top="550" left="108" width="700" height="18" font="5">Now, we have a proposition which expresses a truth-functional relation, and the 'speech-</text>
+<text top="574" left="108" width="658" height="18" font="5">act' associated with the consequent (i.e., a request) has wide scope, as we wanted.</text>
+<text top="598" left="123" width="327" height="18" font="5">Now, consider an interrogative example:</text>
+<text top="645" left="108" width="34" height="18" font="5">(91)</text>
+<text top="645" left="162" width="607" height="18" font="5">(The door bell is ringing. Jane knows that Mary does not want to see John.)</text>
+<text top="669" left="162" width="383" height="18" font="5">Jane (to Mary): If that's John, are you not here?</text>
+<text top="717" left="108" width="699" height="18" font="5">This is more complicated than (75) in that it involves two layers of metarepresentation:</text>
+<text top="740" left="108" width="700" height="18" font="5">one for interrogatives and one for attributed speech. But we can apply our analysis in the</text>
+<text top="764" left="108" width="701" height="18" font="5">same basic way. (91) has the same propositional form as (75), but the difference is that</text>
+<text top="788" left="108" width="528" height="18" font="5">the consequent is interrogative, as seen in the description in (91)':</text>
+<text top="836" left="108" width="672" height="18" font="5">(91)' I am asking whether the following is an interpretation of a desirable thought:</text>
+<text top="859" left="162" width="349" height="18" font="5">if [that's John], [I tell him you are not here]</text>
+<text top="907" left="108" width="701" height="18" font="5">In (91)', we can see that the propositional form of the conditional has a regular truth-</text>
+<text top="931" left="108" width="694" height="18" font="5">functional relation, and the speech-act associated with the consequent has wide scope.</text>
+<text top="954" left="123" width="685" height="18" font="5">D. Wilson (personal communication) points out that a consequent can be ambiguous</text>
+<text top="978" left="108" width="519" height="18" font="5">between descriptive and metarepresentative uses. Consider (92):</text>
+<text top="1026" left="108" width="33" height="18" font="5">(92)</text>
+<text top="1026" left="162" width="451" height="18" font="5">If you are available, our meeting will be in Hilary Term.</text>
+</page>
+<page number="36" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">36</text>
+<text top="194" left="108" width="700" height="18" font="5">This can be interpreted as a regular conditional, or as a conditional with a</text>
+<text top="218" left="108" width="360" height="18" font="5">metarepresentational consequent, as in (92)':</text>
+<text top="265" left="108" width="68" height="18" font="5">(92)' a.</text>
+<text top="265" left="216" width="593" height="18" font="5">We will meet in Hilary Term on condition that you are able to come and</text>
+<text top="289" left="216" width="135" height="18" font="5">speak to us then.</text>
+<text top="313" left="162" width="15" height="18" font="5">b.</text>
+<text top="313" left="216" width="592" height="18" font="5">If you are available, we would want to let you know that our next meeting</text>
+<text top="337" left="216" width="195" height="18" font="5">will be in Hilary Term.  </text>
+<text top="384" left="108" width="700" height="18" font="5">In (a), the consequent is used to describe a state of affairs and in (b), it is used to</text>
+<text top="408" left="108" width="700" height="18" font="5">represent information the hearer should have. We can clearly see the different truth</text>
+<text top="432" left="108" width="701" height="18" font="5">conditions of the two uses of language (i.e., descriptive and metarepresentative)</text>
+<text top="455" left="108" width="565" height="18" font="5">determined by the different propositions expressed by the conditional.</text>
+<text top="479" left="123" width="684" height="18" font="5">To sum up: speech-act accounts meet many counterexamples in their attempt to deal</text>
+<text top="503" left="108" width="700" height="18" font="5">with conditionals on the assumption that <i>if</i> is non-truth-functional. In this section, I have</text>
+<text top="527" left="108" width="700" height="18" font="5">proposed to analyse the consequents of certain conditionals as involving</text>
+<text top="550" left="108" width="700" height="18" font="5">metarepresentative use in the sense defined in relevance theory. This analysis can handle</text>
+<text top="574" left="108" width="700" height="18" font="5">not only speech-act conditionals but also some counterexamples to the speech-act</text>
+<text top="598" left="108" width="700" height="18" font="5">approach. Using the relevance-theoretic notions of metarepresentation and pragmatic</text>
+<text top="622" left="108" width="700" height="18" font="5">enrichment should enable us to maintain that natural language conditionals are</text>
+<text top="645" left="108" width="383" height="18" font="5">semantically equivalent to material implication.</text>
+<text top="717" left="108" width="596" height="18" font="6"><b>5 A suggestion: metarepresentative use in antecedent and consequent</b></text>
+<text top="764" left="108" width="140" height="18" font="6"><b>5.1 Introduction</b></text>
+<text top="810" left="108" width="700" height="18" font="5">We have seen in section 3 cases where the antecedent is used to metarepresent another</text>
+<text top="834" left="108" width="701" height="18" font="5">representation available in the context, and in section 4 cases where the consequent is</text>
+<text top="858" left="108" width="701" height="18" font="5">used to metarepresent another representation which the speaker wants herself or the</text>
+<text top="882" left="108" width="700" height="18" font="5">hearer to make. The metarepresentation can involve resemblance of content ('interpretive</text>
+<text top="905" left="108" width="700" height="18" font="5">use'), or resemblance of form ('metalinguistic use'). In this section, I shall suggest that</text>
+<text top="929" left="108" width="700" height="18" font="5">some conditionals can be analysed as having both a metarepresentational antecedent and</text>
+<text top="953" left="108" width="283" height="18" font="5">a metarepresentational consequent.</text>
+</page>
+<page number="37" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">37</text>
+<text top="194" left="108" width="511" height="18" font="6"><b>5.2 Metarepresentative uses in both clauses of a conditional</b></text>
+<text top="241" left="108" width="700" height="18" font="5">If antecedents and consequents can be used as metarepresentations, we should expect that</text>
+<text top="265" left="108" width="529" height="18" font="5">there will be cases where both clauses are so used. Consider (93):</text>
+<text top="312" left="108" width="34" height="18" font="5">(93)</text>
+<text top="312" left="162" width="107" height="18" font="5">Travel agent:</text>
+<text top="312" left="290" width="201" height="18" font="5">Mexico City is beautiful.</text>
+<text top="336" left="162" width="84" height="18" font="5">Customer:</text>
+<text top="336" left="290" width="398" height="18" font="5">If Mexico City is beautiful, do they have a room?</text>
+<text top="384" left="108" width="700" height="18" font="5">In (93), the propositions 'Mexico City is beautiful' and 'they have a room' are not put</text>
+<text top="407" left="108" width="700" height="18" font="5">forward as truth-functionally related. That is, the speaker is not asking whether they have</text>
+<text top="431" left="108" width="700" height="18" font="5">a room if Mexico City is beautiful. Rather, the antecedent is metarepresenting A's</text>
+<text top="455" left="108" width="700" height="18" font="5">utterance, meaning 'if you say/think Mexico City is beautiful', and the consequent is</text>
+<text top="479" left="108" width="701" height="18" font="5">metarepresenting the utterance which he wants to make in the case that the antecedent is</text>
+<text top="503" left="108" width="700" height="18" font="5">UTTERED or ENTERTAINED. The propositions expressed by each clause will be</text>
+<text top="526" left="108" width="166" height="18" font="5">something like (93)':</text>
+<text top="574" left="108" width="680" height="18" font="5">(93)' If you say/think Mexico City is beautiful, I want to ask 'do they have a room?'</text>
+<text top="621" left="108" width="457" height="18" font="5">This is a case where both clauses are interpretively used.</text>
+<text top="645" left="123" width="685" height="18" font="5">There are also examples where both clauses are used metalinguistically. Consider (94):</text>
+<text top="693" left="108" width="34" height="18" font="5">(94)</text>
+<text top="693" left="162" width="19" height="18" font="5">A:</text>
+<text top="693" left="216" width="403" height="18" font="5">I eat TOMEIDOUZ. (pronunciation of 'tomatoes')</text>
+<text top="716" left="162" width="19" height="18" font="5">B:</text>
+<text top="716" left="216" width="371" height="18" font="5">If you eat TOMEIDOUZ, I eat TOMATOUZ.</text>
+<text top="764" left="108" width="700" height="18" font="5">In (94), the antecedent is representing A's pronunciation of 'tomatoes' and the consequent</text>
+<text top="788" left="108" width="700" height="18" font="5">is representing B's pronunciation. The proposition expressed by the conditional is</text>
+<text top="811" left="108" width="700" height="18" font="5">something like 'if you say you eat TOMEIDOUZ, I say I eat TOMATOUZ, or 'if you eat</text>
+<text top="835" left="108" width="490" height="18" font="5">what you call TOMEIDOUZ, I eat what I call TOMATOUZ.</text>
+<text top="907" left="108" width="372" height="18" font="6"><b>5.3 'Counterfactual indicative' conditionals</b></text>
+<text top="954" left="108" width="701" height="18" font="5">Akatsuka (1986) calls the conditional in (15), repeated below as (95), a 'counterfactual</text>
+<text top="977" left="108" width="700" height="18" font="5">indicative conditional,' in the sense that both the antecedent and the consequent are false:</text>
+</page>
+<page number="38" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">38</text>
+<text top="194" left="108" width="34" height="18" font="5">(95)</text>
+<text top="194" left="162" width="454" height="18" font="5">(Pope to the telephone operator in a small Swiss village)</text>
+<text top="218" left="162" width="46" height="18" font="5">Pope:</text>
+<text top="218" left="270" width="106" height="18" font="5">I'm the Pope.</text>
+<text top="242" left="162" width="77" height="18" font="5">Operator:</text>
+<text top="242" left="270" width="363" height="18" font="5">If you're the Pope, I'm the Empress of China.</text>
+<text top="289" left="108" width="700" height="18" font="5">Akatsuka claims that the conditional in (95) is used as a denial of a given assertion, which</text>
+<text top="313" left="108" width="205" height="18" font="5">she represents as in (95)':</text>
+<text top="360" left="108" width="100" height="18" font="5">(95)' Pope:</text>
+<text top="360" left="270" width="10" height="18" font="5">p</text>
+<text top="384" left="162" width="77" height="18" font="5">Operator:</text>
+<text top="384" left="270" width="143" height="18" font="5">If p, as you say, q</text>
+<text top="432" left="108" width="700" height="18" font="5">In (95)', according to her<i>, p</i> is analysed as a 'contextually given' antecedent, which is a</text>
+<text top="455" left="108" width="700" height="18" font="5">quotation, and the consequent conveys the speaker's attitude to the quotation. So in (95),</text>
+<text top="479" left="108" width="700" height="18" font="5">the speaker expresses her dissociative attitude to what was given by the hearer, i.e., 'I am</text>
+<text top="503" left="108" width="79" height="18" font="5">the Pope.'</text>
+<text top="527" left="123" width="685" height="18" font="5">I think that (95) means something like 'if you say 'I'm the Pope', I say 'I'm the Empress</text>
+<text top="550" left="108" width="700" height="18" font="5">of China'. Clearly, it does not mean 'if you are the Pope in reality, I am the Empress of</text>
+<text top="574" left="108" width="700" height="18" font="5">China' or something like that. The antecedent is used to represent the hearer's utterance,</text>
+<text top="598" left="108" width="700" height="18" font="5">and the consequent is used to represent an utterance that the speaker wants to make in the</text>
+<text top="622" left="108" width="701" height="18" font="5">case not where the antecedent is true, but where the antecedent is uttered. The speaker</text>
+<text top="645" left="108" width="700" height="18" font="5">does not describe a state of affairs where she is the Empress of China. She is saying that</text>
+<text top="669" left="108" width="700" height="18" font="5">she will say that she is the Empress if the hearer says that he is the Pope. Both utterances</text>
+<text top="693" left="108" width="324" height="18" font="5">are blatantly false in the speaker's view. </text>
+<text top="717" left="123" width="685" height="18" font="5">The main advantage of this treatment is that it allows a unitary account of these</text>
+<text top="740" left="108" width="554" height="18" font="5">conditionals and corresponding non-conditionals of the type, in (96):</text>
+<text top="788" left="108" width="34" height="18" font="5">(96)</text>
+<text top="788" left="162" width="19" height="18" font="5">A:</text>
+<text top="788" left="216" width="106" height="18" font="5">I'm the Pope.</text>
+<text top="812" left="162" width="19" height="18" font="5">B:</text>
+<text top="812" left="216" width="249" height="18" font="5">And I'm the Empress of China.</text>
+<text top="859" left="108" width="700" height="18" font="5">As Dan Sperber has pointed out (personal communication), (B) is best analysed as</text>
+<text top="883" left="108" width="700" height="18" font="5">echoing/mimicking at a rather abstract level the utterance in (A). What (A) and (B) have</text>
+<text top="907" left="108" width="700" height="18" font="5">in common, and hence what is being echoed back in (B), is the property of being patently</text>
+<text top="931" left="108" width="700" height="18" font="5">false. My analysis of the conditionals in (95) allows us to preserve this intuitive idea of</text>
+<text top="954" left="108" width="392" height="18" font="5">how such utterances function as abstract echoes.</text>
+</page>
+<page number="39" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">39</text>
+<text top="194" left="108" width="447" height="18" font="6"><b>5.4 Horn's metalinguistic metaphorical conditionals</b></text>
+<text top="218" left="108" width="5" height="18" font="6"><b> </b></text>
+<text top="241" left="108" width="700" height="18" font="5">Horn's metalinguistic conditionals (1989: 380-381) are of two types: one is the speech-act</text>
+<text top="265" left="108" width="700" height="18" font="5">type, as seen in section 4.3, and the other is the metaphor type as in (97), repeated from</text>
+<text top="288" left="108" width="39" height="18" font="5">(67):</text>
+<text top="336" left="108" width="533" height="18" font="5">(97)  If the Cité is the heart of Paris, the Latin Quarter is its soul.</text>
+<text top="383" left="108" width="701" height="18" font="5">Ducrot sees the if-clause in (97) as offering a justification for the metaphor used in the</text>
+<text top="407" left="108" width="700" height="18" font="5">consequent; Horn says that this type of conditional means, 'if you're willing to grant p,</text>
+<text top="431" left="108" width="701" height="18" font="5">you must equally grant q'. Dancygier (1992: 73), along the same lines, adds that not only</text>
+<text top="455" left="108" width="700" height="18" font="5">are both clauses of (97) metaphorical, but also their justification is reciprocal. All these</text>
+<text top="478" left="108" width="656" height="18" font="5">writers have the same idea that the antecedent and the consequent are symmetric.</text>
+<text top="502" left="123" width="685" height="18" font="5">I think that here too, a metarepresentational account might be of use. The antecedent</text>
+<text top="526" left="108" width="701" height="18" font="5">represents the utterance that the Cité is the heart of Paris, meaning 'if we say 'the Cité is</text>
+<text top="550" left="108" width="699" height="18" font="5">the heart of Paris'. And the consequent represents an utterance which the speaker wants</text>
+<text top="573" left="108" width="700" height="18" font="5">to make in the case that the antecedent is UTTERED, meaning something like 'I will</text>
+<text top="597" left="108" width="385" height="18" font="5">say/we should say 'the Latin Quarter is its soul. </text>
+<text top="621" left="123" width="685" height="18" font="5">I have suggested that 'counterfactual indicative conditionals' and metalinguistic</text>
+<text top="645" left="108" width="700" height="18" font="5">metaphorical conditionals should be analysed as belonging to the same type, i.e., the type</text>
+<text top="668" left="108" width="701" height="18" font="5">where both the antecedent and the consequent are used to represent another</text>
+<text top="692" left="108" width="701" height="18" font="5">representation, but not to describe a state of affairs. This is not a fully worked out idea,</text>
+<text top="716" left="108" width="286" height="18" font="5">but I think that it is worth pursuing.</text>
+<text top="788" left="108" width="112" height="18" font="6"><b>6 Conclusion</b></text>
+<text top="834" left="108" width="700" height="18" font="5">We have seen that some 'non-basic' conditionals (i.e., 'given' conditionals and speech-act</text>
+<text top="858" left="108" width="700" height="18" font="5">conditionals) can be analysed in terms of the relevance-theoretic notion of</text>
+<text top="882" left="108" width="700" height="18" font="5">metarepresentation. This has enabled us to get the right interpretation of an antecedent</text>
+<text top="905" left="108" width="700" height="18" font="5">or consequent and maintain the truth-table account for 'non-basic' as well as 'basic'</text>
+<text top="929" left="108" width="700" height="18" font="5">conditionals. This proposal may not be a full-fledged analysis, but I think that it is a good</text>
+<text top="953" left="108" width="373" height="18" font="5">starting point for a pragmatics of conditionals.</text>
+</page>
+<page number="40" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="82" height="15" font="7"><i>Eun-Ju Noh</i></text>
+<text top="132" left="108" width="20" height="18" font="5">40</text>
+<text top="194" left="108" width="94" height="18" font="6"><b>References</b></text>
+<text top="240" left="108" width="700" height="15" font="0">Akatsuka, N. (1986). Conditionals are discourse-bound. In Traugott, E. C., ter Meulen, A., Reilly, J. S.</text>
+<text top="260" left="123" width="164" height="15" font="0">&amp; Ferguson, C.A. (eds).</text>
+<text top="280" left="108" width="651" height="15" font="0">Austin, J. L. (1961). <i>How to Do Things with Words</i>. Cambridge, MA: Harvard University Press.</text>
+<text top="300" left="108" width="538" height="15" font="0">Blakemore, D. (1987).<i> Semantic Constraints</i> <i>on Relevance</i>. Oxford: Blackwell.</text>
+<text top="320" left="108" width="482" height="15" font="0">Blakemore, D. (1992).<i> Understanding Utterances</i>. Oxford: Blackwell. </text>
+<text top="339" left="108" width="658" height="15" font="0">Carston, R. (1988). Implicature, explicature, and truth-theoretic semantics. In Kempson, R. (ed.).</text>
+<text top="359" left="108" width="700" height="15" font="0">Carston, R. (1994). Metalinguistic negation and echoic use. In<i> UCL</i> W<i>orking Papers in Linguistics</i> 6, 321-</text>
+<text top="379" left="123" width="384" height="15" font="0">339. Also in <i>Journal of Pragmatics </i>25 (1996). 309-330.</text>
+<text top="399" left="108" width="701" height="15" font="0">Chafe, W. L. (1976). Givenness, contrastiveness, definiteness, subjects, topics, and point of view. In Li,</text>
+<text top="419" left="123" width="431" height="15" font="0">C. (ed.) <i>Subject and Topic</i>. New York: Academic Press. 25-55.</text>
+<text top="438" left="108" width="468" height="15" font="0">Cole, P. (ed.) (1981). <i>Radical Pragmatics</i>. London: Academic Press.</text>
+<text top="458" left="108" width="700" height="15" font="0">Comrie, B. (1982). Future time reference in the conditional protasis. In <i>Australian Journal of Linguistics</i></text>
+<text top="478" left="123" width="79" height="15" font="0">2. 143-152.</text>
+<text top="498" left="108" width="700" height="15" font="0">Dancygier, B. (1992). Two metatextual operators: negation and conditionality in English and Polish. In</text>
+<text top="518" left="123" width="563" height="15" font="7"><i>Proceedings of the 18th Annual Meeting of the Berkeley Linguistic Society</i>. 61-75.</text>
+<text top="537" left="108" width="590" height="15" font="0">Dancygier, B. (1993). Interpreting conditionals. In <i>Journal of Pragmatics </i>19, 435-452.</text>
+<text top="557" left="108" width="595" height="15" font="0">Davidson, D. (1984). <i>Inquiries into Truth and Interpretation</i>. Oxford: Clarendon Press.</text>
+<text top="577" left="108" width="643" height="15" font="0">Davies, E. E. (1979). Some restrictions on conditional imperatives. In <i>Linguistics</i> 17. 1039-54.</text>
+<text top="597" left="108" width="700" height="15" font="0">Fillmore, C. J. (1990). Epistemic stance and grammatical form in English conditional sentences. In <i>CLS</i></text>
+<text top="617" left="123" width="88" height="15" font="0">26. 137-162.</text>
+<text top="636" left="108" width="413" height="15" font="0">Gazdar, G. (1979).<i> Pragmatics</i>. New York: Academic Press.</text>
+<text top="656" left="108" width="630" height="15" font="0">Grice, H. P. (1989). <i>Studies in the Way of Words</i>. Cambridge MA: Harvard University Press.</text>
+<text top="676" left="108" width="617" height="15" font="0">Haegeman, L. (1984). Pragmatic conditionals in English. In <i>Folia Linguistica</i> 18. 485-502.</text>
+<text top="696" left="108" width="474" height="15" font="0">Haiman, J. (1978). Conditionals are topics. In <i>Language</i> 54: 568-589.</text>
+<text top="716" left="108" width="700" height="15" font="0">Holdcroft, D. (1971). Conditional assertion. In <i>Proceedings of the Aristotelian Society</i>, Supplementary</text>
+<text top="735" left="123" width="146" height="15" font="0">Volume 45: 123-139.</text>
+<text top="755" left="108" width="501" height="15" font="0">Holdcroft, D. (1978). <i>Words and Deeds</i>. Oxford: Clarendon Press. 92-96.</text>
+<text top="775" left="108" width="443" height="15" font="0">Horn, L. (1989). <i>Natural History of Negation. </i>Cambridge: CUP. </text>
+<text top="795" left="108" width="364" height="15" font="0">Jackson, F. (ed.) (1991).<i> Conditionals</i>. Oxford: OUP.</text>
+<text top="815" left="108" width="700" height="15" font="0">Jespersen, O. (1940). <i>Modern English Grammar on Historical Principles. vol 5: Syntax. </i>London: George</text>
+<text top="834" left="123" width="185" height="15" font="0">Allen and Unwin. 254-259.</text>
+<text top="854" left="108" width="470" height="15" font="0">Kempson, R. (ed.) (1988). <i>Mental Representation</i>. Cambridge: CUP.</text>
+<text top="874" left="108" width="572" height="15" font="0">Kuno, S. (1972). Functional sentence perspective. In <i>Linguistic Inquiry</i>, 3. 269-320.</text>
+<text top="894" left="108" width="700" height="15" font="0">Lauerbach, G. (1979). <i>Form und Funktion Englischer Konditionalsatze mit 'if'. Eine</i></text>
+<text top="914" left="123" width="547" height="15" font="7"><i>Konversationslogische und Sprechaktheoretische Analyse</i>. Tübingen: Niemeyer.</text>
+<text top="933" left="108" width="640" height="15" font="0">Lakoff, R. T. (1973). The logic of politeness; or , minding your p's and q's. In <i>CLS</i> 9. 292-305.</text>
+<text top="953" left="108" width="700" height="15" font="0">Noh, E-J. (1995). A pragmatic approach to echo questions. In<i> UCL</i> W<i>orking Papers in Linguistics</i> 7, 107-</text>
+<text top="973" left="123" width="30" height="15" font="0">140.</text>
+<text top="993" left="108" width="411" height="15" font="0">Palmer, F. R. (1974). <i>The English Verb</i>. London: Longman. </text>
+<text top="1013" left="108" width="701" height="15" font="0">Palmer, F. R. (1983). Future time reference in the conditional protasis: a comment on Comrie. In</text>
+<text top="1032" left="123" width="310" height="15" font="7"><i>Australian Journal of Linguistics</i> 3. 241-244.</text>
+</page>
+<page number="41" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="16" family="Times" color="#000000"/>
+<text top="132" left="432" width="272" height="15" font="7"><i>Metarepresentative uses in conditionals</i></text>
+<text top="132" left="788" width="20" height="18" font="5">41</text>
+<text top="193" left="108" width="700" height="15" font="0">Prince, E. (1981). Towards a taxonomy of give-new information. In Cole, R. (ed.) <i>Radical Pragmatics</i>.</text>
+<text top="213" left="123" width="240" height="15" font="0">London: Academic Press. 223-255.</text>
+<text top="233" left="108" width="700" height="15" font="0">Quirk, R., Greenbaum, S., Leech, G. &amp; Svartvik, J. (eds) (1985).<i> A Comprehensive Grammar of the</i></text>
+<text top="253" left="123" width="191" height="15" font="7"><i>English. </i>London: Longman.</text>
+<text top="273" left="108" width="356" height="15" font="0">Searle, J. R. (1969). <i>Speech-acts</i>. Cambridge: CUP. </text>
+<text top="292" left="108" width="642" height="15" font="0">Smith, N. V. (1983). On interpreting conditional. In <i>Australian Journal of Linguistics</i> 3, 1- 23.</text>
+<text top="312" left="108" width="701" height="15" font="0">Smith, N. V. &amp; Smith, A. (1988). A relevance-theoretic account of conditionals. In Hyman, L. &amp; Li, C.</text>
+<text top="332" left="123" width="650" height="15" font="0">(eds.). <i>Language, Speech and Mind: Essays in Honor of Victoria Fromkin</i>. London: Routledge.</text>
+<text top="352" left="108" width="700" height="15" font="0">Sperber, D. (1982). Comments on Clark and Carlson's paper, in Smith, N. (ed.) <i>Mutual Knowledge.</i></text>
+<text top="372" left="123" width="224" height="15" font="0">London: Academic Press. 46-47.</text>
+<text top="391" left="108" width="601" height="15" font="0">Sperber, D. &amp; Wilson, D. (1981). Irony and the use-mention distinction. In Cole, P.(ed.).</text>
+<text top="411" left="108" width="662" height="15" font="0">Sperber, D. &amp; Wilson, D. (1986). <i>Relevance: Communication and Cognition</i>. Oxford: Blackwell.</text>
+<text top="431" left="108" width="700" height="15" font="0">Stalnaker, R. (1981). A theory of conditionals. In Harper, W. L., Stalnaker, R. &amp; Pearce, G. (eds). <i>Ifs:</i></text>
+<text top="451" left="123" width="463" height="15" font="7"><i>conditionals, beliefs, decision, chance, and time</i>. Dordrecht: Reidel.</text>
+<text top="471" left="108" width="226" height="15" font="0">Strawson, P. F. (1986). If and '</text>
+<text top="466" left="334" width="474" height="22" font="9">e'. In Grandy, R.E. &amp; Warner, R. (eds). <i>Philosophical Grounds of</i></text>
+<text top="490" left="123" width="571" height="15" font="7"><i>Rationality: Intentions, Categories, Ends. </i>Oxford: Oxford University Press. 229-42.</text>
+<text top="510" left="108" width="493" height="15" font="0">Sweetser, E. (1990). <i>From Etymology to Pragmatics</i>. Cambridge; CUP. </text>
+<text top="530" left="108" width="700" height="15" font="0">Traugott, E. C., ter Meulen, A., Reilly, J. S. &amp; Ferguson, C.A. (eds). (1986).<i> On Conditionals</i>. Cambridge:</text>
+<text top="550" left="123" width="37" height="15" font="0">CUP.</text>
+<text top="570" left="108" width="699" height="15" font="0">Van der Auwera, J. (1986). Conditionals and speech-acts. In Traugott, E. C., ter Meulen, A., Reilly, J. S.</text>
+<text top="589" left="123" width="168" height="15" font="0">&amp; Ferguson, C.A. (eds.).</text>
+<text top="609" left="108" width="397" height="15" font="0">Wilson, D. (1970). If that. In <i>Linguistic Inquiry.</i> 369-373.<i> </i></text>
+<text top="629" left="108" width="692" height="15" font="0">Wilson, D. (1975). <i>Presuppositions and Non-Truth-conditional Semantics</i>. London: Academic Press. </text>
+<text top="649" left="108" width="692" height="15" font="0">Wilson, D. (1995). Is there a maxim of truthfulness? In <i>UCL Working Papers in Linguistics.</i> 197-212.</text>
+<text top="669" left="108" width="594" height="15" font="0">Wilson, D. &amp; Sperber, D. (1988a). Representation and relevance. In Kempson, R. (ed.).</text>
+<text top="688" left="108" width="700" height="15" font="0">Wilson, D. &amp; Sperber, D. (1988b). Mood and the analysis of non-declarative sentences. In Dancy, J.,</text>
+<text top="708" left="123" width="685" height="15" font="0">Moravczik, J., &amp; Taylor, C. (eds) <i>Human Agency: Language, Duty and Value. </i>Stanford, CA: Standford</text>
+<text top="728" left="123" width="113" height="15" font="0">University Press.</text>
+<text top="748" left="108" width="488" height="15" font="0">Wilson, D. &amp; Sperber, D. (1992). On verbal irony. In <i>Lingua</i> 87. 53-76.</text>
+<text top="768" left="108" width="576" height="15" font="0">Wilson, D. &amp; Sperber, D. (1993). Linguistic form and relevance. In <i>Lingua </i>90. 1-25.</text>
+</page>
+</pdf2xml>

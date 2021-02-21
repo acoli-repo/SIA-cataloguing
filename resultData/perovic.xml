@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="0" size="34" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="1" size="22" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="2" size="19" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="3" size="19" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="4" size="16" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="5" size="19" family="Arial,Bold" color="#000000"/>
+	<fontspec id="6" size="17" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="7" size="10" family="TimesNewRoman,BoldItalic" color="#000000"/>
+<text top="185" left="106" width="543" height="31" font="0"><i><b>Binding Principles in Down syndrome</b></i></text>
+<text top="177" left="647" width="11" height="21" font="1"><i>*</i></text>
+<text top="185" left="659" width="9" height="31" font="0"><i><b> </b></i></text>
+<text top="222" left="106" width="5" height="18" font="2"> </text>
+<text top="245" left="106" width="5" height="18" font="2"> </text>
+<text top="267" left="106" width="213" height="18" font="2">ALEXANDRA PEROVIC </text>
+<text top="291" left="106" width="5" height="18" font="2"> </text>
+<text top="316" left="106" width="5" height="18" font="2"> </text>
+<text top="338" left="106" width="5" height="18" font="2"> </text>
+<text top="363" left="149" width="77" height="18" font="3"><b>Abstract </b></text>
+<text top="384" left="106" width="5" height="18" font="2"> </text>
+<text top="407" left="149" width="599" height="15" font="4">In an experiment designed to tap into knowledge of Binding in individuals with Down </text>
+<text top="427" left="149" width="600" height="15" font="4">syndrome (DS), it was found that subjects had specific difficulties assigning appropriate </text>
+<text top="446" left="149" width="599" height="15" font="4">interpretation to reflexives, traditionally claimed to be governed by Principle A of standard </text>
+<text top="467" left="149" width="600" height="15" font="4">Binding Theory, as opposed to pronouns, constrained by Principle B in the same framework. </text>
+<text top="486" left="149" width="599" height="15" font="4">This pattern, not previously evidenced in the literature, is the reverse of the well known </text>
+<text top="506" left="149" width="600" height="15" font="4">‘Delay of Principle B’ effect confirmed in typical acquisition. The findings suggest that the </text>
+<text top="525" left="149" width="599" height="15" font="4">process of acquisition of Binding in DS may be qualitatively different compared to typical </text>
+<text top="544" left="149" width="600" height="15" font="4">linguistic development, rendering the traditional 'slow-but-normal' characterisation of </text>
+<text top="564" left="149" width="600" height="15" font="4">language development in DS no longer tenable. Embracing the Reflexivity framework of </text>
+<text top="584" left="149" width="600" height="15" font="4">Reinhart &amp; Reuland (1993), I also argue that these findings reveal a specific syntactic deficit </text>
+<text top="604" left="149" width="599" height="15" font="4">in the language of DS, related to the inability to  establish a certain syntactic dependency, </text>
+<text top="623" left="149" width="432" height="15" font="4">namely the binding relation between an anaphor and its antecedent. </text>
+<text top="643" left="106" width="5" height="18" font="2"> </text>
+<text top="666" left="106" width="5" height="18" font="2"> </text>
+<text top="689" left="106" width="10" height="18" font="3"><b>1</b></text>
+<text top="689" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="689" left="122" width="113" height="18" font="3"><b>Introduction </b></text>
+<text top="712" left="106" width="5" height="18" font="2"> </text>
+<text top="734" left="106" width="684" height="18" font="2">Research on Down syndrome (DS) has uncovered an unusual disparity between </text>
+<text top="757" left="106" width="683" height="18" font="2">linguistic and cognitive development, with linguistic development significantly lagging </text>
+<text top="780" left="106" width="685" height="18" font="2">behind. Further dissociations have been reported within the linguistic faculty itself, </text>
+<text top="803" left="106" width="684" height="18" font="2">particularly between morphosyntax on the one hand, and lexical knowledge and </text>
+<text top="825" left="106" width="684" height="18" font="2">pragmatics on the other. In an attempt to further elucidate the relationship between </text>
+<text top="849" left="106" width="685" height="18" font="2">different linguistic modules in the selective language impairment in DS, this study of </text>
+<text top="872" left="106" width="684" height="18" font="2">the language of four adolescent girls with DS focuses on Binding Principles. In </text>
+<text top="894" left="106" width="684" height="18" font="2">standard Binding Theory, Binding Principle A governs the distribution and </text>
+<text top="932" left="106" width="212" height="16" font="6">                                                </text>
+<text top="930" left="315" width="5" height="18" font="2"> </text>
+<text top="965" left="120" width="5" height="10" font="7"><i><b>*</b></i></text>
+<text top="969" left="126" width="662" height="15" font="4">I am immensely grateful to all the students and staff at the Learning Support Department at Richmond </text>
+<text top="990" left="106" width="682" height="15" font="4">upon Thames College for letting me conduct this study. I wish to acknowledge the invaluable help and </text>
+<text top="1009" left="106" width="682" height="15" font="4">support I have been given by Neil Smith and Ad Neeleman. Many thanks are also due to Karen Froud and </text>
+<text top="1029" left="106" width="682" height="15" font="4">Gordon Hunter. This is an expanded version of a paper given at the Durham Postgraduate Conference in </text>
+<text top="1048" left="106" width="585" height="15" font="4">Linguistics, June 2001. Comments on this paper are welcome: e-mail: a.perovic@ucl.ac.uk   </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="8" size="16" family="TimesNewRoman,Italic" color="#000000"/>
+<text top="181" left="106" width="22" height="15" font="4">426</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="685" height="18" font="2">interpretation of reflexives, whereas Binding Principle B is concerned with pronouns. </text>
+<text top="243" left="106" width="684" height="18" font="2">It is well known that typically developing children acquire Principle A early and with </text>
+<text top="265" left="106" width="684" height="18" font="2">few difficulties, whilst their acquisition of Principle B is significantly delayed  – the </text>
+<text top="289" left="106" width="685" height="18" font="2">phenomenon known as Delay of Principle B Effect (DPBE). If language development </text>
+<text top="311" left="106" width="685" height="18" font="2">in DS is, as traditionally thought, delayed, but essentially normal, then investigations of </text>
+<text top="334" left="106" width="684" height="18" font="2">the availability of the Binding Principles in DS should demonstrate parallels to normal </text>
+<text top="357" left="106" width="683" height="18" font="2">language development – with Principle A posing few problems but Principle B yielding </text>
+<text top="380" left="106" width="684" height="18" font="2">interpretive difficulties until later stages of language development. The results of this </text>
+<text top="402" left="106" width="683" height="18" font="2">study, however, point to a rather different pattern: in contrast to typically developing </text>
+<text top="426" left="106" width="684" height="18" font="2">children, as compared to data from Chien &amp; Wexler (1990), the subjects violated </text>
+<text top="449" left="106" width="288" height="18" font="2">Principle A but obeyed Principle B.  </text>
+<text top="471" left="106" width="684" height="18" font="2">  In line with the ‘delayed’ characterisation of language in DS, it may be reasonable to </text>
+<text top="495" left="106" width="684" height="18" font="2">claim that these findings are due to some kind of delay in the acquisition of a particular </text>
+<text top="517" left="106" width="685" height="18" font="2">syntactic principle, thus revealing a 'Delay of Principle A Effect' in this population. </text>
+<text top="540" left="106" width="684" height="18" font="2">However, on the basis of the accounts for the DPBE in typical children, I argue that a </text>
+<text top="563" left="106" width="684" height="18" font="2">satisfactory account of these findings cannot be provided within the framework of </text>
+<text top="586" left="106" width="684" height="18" font="2">standard Binding Theory. I argue that the pattern shown in DS is not caused by the </text>
+<text top="608" left="106" width="683" height="18" font="2">unavailability of a Binding Principle but rather a specific deficiency in establishing </text>
+<text top="632" left="106" width="685" height="18" font="2">binding relations. The proposed dissociation between binding, as the expression of </text>
+<text top="654" left="106" width="684" height="18" font="2">referential dependencies, and the ability to establish the syntactic relation of binding in </text>
+<text top="678" left="106" width="684" height="18" font="2">DS, can be accounted for within the framework of Reflexivity of Reinhart &amp; Reuland </text>
+<text top="701" left="106" width="68" height="18" font="2">(1993).  </text>
+<text top="723" left="106" width="684" height="18" font="2">  The comprehension pattern on pronouns, as opposed to reflexives, presented by the </text>
+<text top="747" left="106" width="684" height="18" font="2">four girls with DS in this study has not been evidenced at any stage of typical language </text>
+<text top="769" left="106" width="684" height="18" font="2">development, thus providing further evidence against the claim that language </text>
+<text top="792" left="106" width="527" height="18" font="2">development in DS is severely delayed but essentially non-deviant. </text>
+<text top="815" left="106" width="5" height="18" font="2"> </text>
+<text top="838" left="106" width="5" height="18" font="2"> </text>
+<text top="861" left="106" width="10" height="18" font="3"><b>2</b></text>
+<text top="861" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="861" left="122" width="440" height="18" font="3"><b>Language in Down syndrome: Delay or deficiency?  </b></text>
+<text top="884" left="106" width="5" height="18" font="2"> </text>
+<text top="906" left="106" width="684" height="18" font="2">A traditional characterisation of linguistic development in DS is that language in </text>
+<text top="929" left="106" width="684" height="18" font="2">individuals with DS is essentially normal, but severely delayed. Comparisons of the </text>
+<text top="953" left="106" width="684" height="18" font="2">linguistic development of DS children with that of typical children usually come to the </text>
+<text top="975" left="106" width="685" height="18" font="2">conclusion that the two populations follow the same course of development </text>
+<text top="998" left="106" width="684" height="18" font="2">(Chapman, 1995; Fowler, 1990). It has been argued that DS children acquire </text>
+<text top="1021" left="106" width="685" height="18" font="2">vocabulary, use the same range of grammatical morphemes and syntactic structures, </text>
+<text top="1044" left="106" width="683" height="18" font="2">induce grammatical rules and impose word order just like typically developing </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="9" size="11" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="10" size="10" family="TimesNewRoman" color="#000000"/>
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">427</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="685" height="18" font="2">children, albeit with a considerable delay (Fowler, 1990; Rutter &amp; Buckley, 1994; </text>
+<text top="243" left="106" width="155" height="18" font="2">Vicari et al, 2000).  </text>
+<text top="265" left="106" width="684" height="18" font="2">  However, this ‘delayed’ characterisation does not seem adequate to describe the </text>
+<text top="289" left="106" width="685" height="18" font="2">course of linguistic development, and particularly the end linguistic achievement in DS. </text>
+<text top="311" left="106" width="684" height="18" font="2">A delay in language development is characteristic of a whole range of aetiologies, and </text>
+<text top="334" left="106" width="684" height="18" font="2">is usually one of the first signs of a language disorder. Interestingly, disparities between </text>
+<text top="357" left="106" width="684" height="18" font="2">linguistic and non-linguistic abilities in DS seem to increase with chronological age. DS </text>
+<text top="380" left="106" width="685" height="18" font="2">children up to 3 or 4 years of age have been found to have language skills consistent </text>
+<text top="402" left="106" width="685" height="18" font="2">with their cognitive abilities. As they get older, however, their language skills do not </text>
+<text top="426" left="106" width="685" height="18" font="2">increase at comparable rates to other cognitive skills (Miller, 1988; Chapman, 1995). </text>
+<text top="449" left="106" width="685" height="18" font="2">Fowler et al. (1994) report the average mean length of utterance (MLU) for a group of </text>
+<text top="471" left="106" width="674" height="18" font="2">DS adolescents to be around 3, but their mental age (MA) to be around 6 years.</text>
+<text top="468" left="779" width="6" height="11" font="9">1</text>
+<text top="471" left="785" width="5" height="18" font="2"> </text>
+<text top="495" left="106" width="685" height="18" font="2">Moreover, Down syndrome is found to be more detrimental to language development </text>
+<text top="517" left="106" width="684" height="18" font="2">than other aetiologies (Miller, 1988; Rondal, 1993; Rondal &amp; Comblain, 1994). In </text>
+<text top="540" left="106" width="684" height="18" font="2">studies conducted with young adolescents and adults, individuals with DS show </text>
+<text top="563" left="106" width="685" height="18" font="2">consistently poorer performance on linguistic measures than individuals with other </text>
+<text top="586" left="106" width="609" height="18" font="2">types of intellectual disorders (Kernan &amp; Sabsey, 1996; Marcell et al. 1995).  </text>
+<text top="608" left="106" width="684" height="18" font="2">  Disparity between language and cognition in DS is further reflected in the interaction </text>
+<text top="632" left="106" width="685" height="18" font="2">of distinct linguistic modules. Inconsistent use and widespread omission of </text>
+<text top="654" left="106" width="685" height="18" font="2">grammatical morphemes such as articles, auxiliaries, copulas, pronouns, conjunctions, </text>
+<text top="678" left="106" width="685" height="18" font="2">prepositions, verbal and nominal inflection have been widely reported (Chapman et al. </text>
+<text top="701" left="106" width="683" height="18" font="2">1998; Fabretti et al, 1997; Rutter &amp; Buckley, 1994; Vicari et al, 2000), and DS syntax </text>
+<text top="723" left="106" width="685" height="18" font="2">is usually limited to only the simplest structures: constructions involving passives, </text>
+<text top="747" left="106" width="684" height="18" font="2">subject/auxiliary inversion, possessive forms, negation, interrogatives are rarely used </text>
+<text top="769" left="106" width="685" height="18" font="2">by either children or adults (Fowler, 1990; Rondal, 1995). Phonological development </text>
+<text top="792" left="106" width="684" height="18" font="2">in this population is also fraught with difficulties, with processes such as final </text>
+<text top="815" left="106" width="684" height="18" font="2">consonant deletion, consonant cluster reduction, substitution and omission greatly </text>
+<text top="838" left="106" width="647" height="18" font="2">reducing the intelligibility of speech of both children and adults (Dodd, 1976).</text>
+<text top="834" left="754" width="6" height="11" font="9">2</text>
+<text top="838" left="761" width="30" height="18" font="2"> In </text>
+<text top="860" left="106" width="684" height="18" font="2">contrast, receptive vocabulary and pragmatics have been reported to be relatively less </text>
+<text top="884" left="106" width="684" height="18" font="2">impaired, and, interestingly, rather consistent with general cognitive levels of this </text>
+<text top="906" left="106" width="684" height="18" font="2">population (Chapman, 1995; Rondal &amp; Comblain, 1996). Miller (1988) reports </text>
+<text top="934" left="106" width="212" height="16" font="6">                                                </text>
+<text top="932" left="315" width="5" height="18" font="2"> </text>
+<text top="966" left="120" width="5" height="10" font="10">1</text>
+<text top="971" left="126" width="663" height="15" font="4"> Note, however, that this population displays extreme variability in the levels of linguistic achievement, </text>
+<text top="991" left="106" width="683" height="15" font="4">which cannot be accounted for by comparison with cognitive abilities (Miller, 1988; Fowler, 1990; Rondal, </text>
+<text top="1010" left="106" width="583" height="15" font="4">1995 ). Cases of near-normal linguistic complexity have also been reported (Rondal, 1995). </text>
+<text top="1042" left="120" width="5" height="10" font="10">2</text>
+<text top="1046" left="126" width="663" height="15" font="4"> Reduced intelligibility and hearing defects, very often present in DS, have not been found to correlate </text>
+<text top="1065" left="106" width="401" height="15" font="4">with syntax, morphology or vocabulary (Chapman et al, 1998). </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="106" width="22" height="15" font="4">428</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">measures of receptive vocabulary as correlating with measures of mental age in </text>
+<text top="243" left="106" width="422" height="18" font="2">children with DS at various  stages of development,</text>
+<text top="239" left="528" width="6" height="11" font="9">3</text>
+<text top="243" left="534" width="257" height="18" font="2"> in line with the argument that </text>
+<text top="265" left="106" width="684" height="18" font="2">mental age measures successfully predict lexical development in both intellectually </text>
+<text top="289" left="106" width="684" height="18" font="2">disabled and typically developing children. In other words, modules of the </text>
+<text top="311" left="106" width="684" height="18" font="2">computational system (e.g. morphosyntax and phonology) appear more severely </text>
+<text top="334" left="106" width="684" height="18" font="2">impaired in DS than more general, multi-modality processing systems (e.g. lexical </text>
+<text top="357" left="106" width="224" height="18" font="2">knowledge and pragmatics). </text>
+<text top="380" left="106" width="684" height="18" font="2">  The strikingly low ultimate level of linguistic attainment, comparable to normally </text>
+<text top="402" left="106" width="684" height="18" font="2">developing 2-year-olds, and the known disparities in the development of computational </text>
+<text top="426" left="106" width="685" height="18" font="2">vs. conceptual systems, suggest that the language of DS is more than just delayed. </text>
+<text top="449" left="106" width="684" height="18" font="2">Recall that the argument for the ‘delayed’ characterisation of language in DS is </text>
+<text top="471" left="106" width="684" height="18" font="2">essentially based on comparisons of linguistic patterns in DS with those found in </text>
+<text top="495" left="106" width="685" height="18" font="2">typical acquisition, e.g. omissions of grammatical morphemes, problematic use of </text>
+<text top="517" left="106" width="172" height="18" font="2">passive constructions.</text>
+<text top="513" left="278" width="6" height="11" font="9">4</text>
+<text top="517" left="285" width="505" height="18" font="2"> However, parallels with typical development are expected if we </text>
+<text top="540" left="106" width="685" height="18" font="2">assume that human language, impaired or not, is constrained by Universal Grammar. </text>
+<text top="563" left="106" width="684" height="18" font="2">The same argument holds for language disorders in general: constraints postulated by </text>
+<text top="586" left="106" width="684" height="18" font="2">UG will restrict the logical number of possible deficiencies whatever the linguistic </text>
+<text top="608" left="106" width="104" height="18" font="2">impairment.  </text>
+<text top="632" left="106" width="684" height="18" font="2">  To determine whether linguistic impairment in DS is merely delayed, or also </text>
+<text top="654" left="106" width="685" height="18" font="2">deficient in important respects, I investigate the end syntactic achievement of four </text>
+<text top="678" left="106" width="684" height="18" font="2">adolescents with DS, in particular, their knowledge of Binding. Binding belongs to the </text>
+<text top="701" left="106" width="685" height="18" font="2">core computational system of the language faculty and constitutes a major part in adult </text>
+<text top="723" left="106" width="684" height="18" font="2">syntactic knowledge. However, recent developments in the theory have suggested an </text>
+<text top="747" left="106" width="684" height="18" font="2">interesting interplay of syntactic and pragmatic factors that influence the process of the </text>
+<text top="769" left="106" width="685" height="18" font="2">acquisition of this module, resulting in apparent delays in acquiring a Binding principle, </text>
+<text top="792" left="106" width="685" height="18" font="2">thus making it particularly interesting with respect to the delay vs. deficiency argument </text>
+<text top="815" left="106" width="311" height="18" font="2">regarding linguistic development in DS. </text>
+<text top="838" left="106" width="5" height="18" font="2"> </text>
+<text top="860" left="106" width="5" height="18" font="2"> </text>
+<text top="885" left="106" width="10" height="18" font="3"><b>3</b></text>
+<text top="884" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="885" left="122" width="404" height="18" font="3"><b>Binding Theory and Delay of Principle B Effect </b></text>
+<text top="906" left="106" width="5" height="18" font="2"> </text>
+<text top="954" left="106" width="212" height="16" font="6">                                                </text>
+<text top="953" left="315" width="5" height="18" font="2"> </text>
+<text top="987" left="120" width="5" height="10" font="10">3</text>
+<text top="991" left="126" width="663" height="15" font="4"> Receptive vocabulary has been reported to even exceed MA in some adolescents and adults with DS, </text>
+<text top="1010" left="106" width="684" height="15" font="4">as a result of educational experience (Facon et al, 1998). These findings further support the idea of </text>
+<text top="1029" left="106" width="630" height="15" font="4">dissociation between the computational and conceptual components of the language system in DS. </text>
+<text top="1062" left="120" width="5" height="10" font="10">4</text>
+<text top="1065" left="126" width="393" height="15" font="4"> Note that these problems are also characteristic of aphasia.  </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">429</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="172" height="18" font="2">Principles A and B</text>
+<text top="216" left="278" width="6" height="11" font="9">5</text>
+<text top="220" left="285" width="505" height="18" font="2"> of Binding Theory (Chomsky, 1981; 1986) regulate the </text>
+<text top="243" left="106" width="685" height="18" font="2">distribution and interpretation of nominal expressions  - anaphors and pronouns, </text>
+<text top="265" left="106" width="683" height="18" font="2">respectively  - within a particular sentence domain, therefore permitting and excluding </text>
+<text top="289" left="106" width="258" height="18" font="2">the constructions in (2) and (3):  </text>
+<text top="311" left="106" width="5" height="18" font="2"> </text>
+<text top="334" left="106" width="409" height="18" font="2">(1)  Principle A: an anaphor must be locally bound.</text>
+<text top="331" left="515" width="9" height="11" font="9"> 6</text>
+<text top="334" left="525" width="15" height="18" font="2">   </text>
+<text top="357" left="106" width="19" height="18" font="2">   </text>
+<text top="357" left="149" width="351" height="18" font="2">Principle B: a pronoun must be locally free.  </text>
+<text top="380" left="106" width="5" height="18" font="2"> </text>
+<text top="402" left="106" width="85" height="18" font="2">(2)  Mary</text>
+<text top="411" left="190" width="3" height="11" font="9">i</text>
+<text top="402" left="194" width="143" height="18" font="2"> is washing herself</text>
+<text top="411" left="338" width="17" height="11" font="9">i/*j</text>
+<text top="402" left="354" width="5" height="18" font="2"> </text>
+<text top="426" left="106" width="85" height="18" font="2">(3)  Mary</text>
+<text top="435" left="190" width="3" height="11" font="9">i</text>
+<text top="426" left="194" width="117" height="18" font="2"> is washing her</text>
+<text top="435" left="311" width="17" height="11" font="9">*i/j</text>
+<text top="426" left="326" width="5" height="18" font="2"> </text>
+<text top="449" left="106" width="5" height="18" font="2"> </text>
+<text top="471" left="106" width="684" height="18" font="2">The theory of Universal Grammar (UG) entails that Binding Principles are innately </text>
+<text top="495" left="106" width="684" height="18" font="2">specified. However, it comes as a surprise that in the process of acquisition children </text>
+<text top="517" left="106" width="684" height="18" font="2">show distinctions between Principles A and B, obeying Principle A very early, from </text>
+<text top="540" left="106" width="684" height="18" font="2">around age 4, but violating Principle B even after the age 5 or 6. Studies have shown </text>
+<text top="563" left="106" width="563" height="18" font="2">that children would accept (4) as grammatical around 50% of the time:  </text>
+<text top="586" left="106" width="5" height="18" font="2"> </text>
+<text top="608" left="106" width="100" height="18" font="2">(4)  * Mary</text>
+<text top="617" left="206" width="3" height="11" font="9">i</text>
+<text top="608" left="209" width="117" height="18" font="2"> is washing her</text>
+<text top="617" left="325" width="3" height="11" font="9">i</text>
+<text top="608" left="329" width="5" height="18" font="2"> </text>
+<text top="632" left="106" width="5" height="18" font="2"> </text>
+<text top="654" left="106" width="684" height="18" font="2">This phenomenon, often referred to as ‘Delay of Principle B Effect’, is reported in a </text>
+<text top="678" left="106" width="684" height="18" font="2">variety of languages: English (Jakubowicz, 1984; Chien &amp; Wexler, 1990), Dutch </text>
+<text top="701" left="106" width="684" height="18" font="2">(Philip &amp; Coopmans, 1996), Russian (Avrutin &amp; Wexler, 1992), Icelandic </text>
+<text top="723" left="106" width="183" height="18" font="2">(Sigurjónsdóttir, 1992).</text>
+<text top="719" left="289" width="6" height="11" font="9">7</text>
+<text top="723" left="295" width="5" height="18" font="2"> </text>
+<text top="747" left="106" width="684" height="18" font="2">  To circumvent the empirical problem that children's apparent violations of Principle </text>
+<text top="769" left="106" width="684" height="18" font="2">B pose to the central claim of UG, namely that knowledge of syntactic  principles is </text>
+<text top="792" left="106" width="685" height="18" font="2">innate, researchers have argued that children do have the knowledge of this particular </text>
+<text top="815" left="106" width="684" height="18" font="2">syntactic principle but their performance on the tasks in studies reported is masked by </text>
+<text top="838" left="106" width="684" height="18" font="2">other factors. Rather than attributing it to a violation of a syntactic principle, Chien &amp; </text>
+<text top="860" left="106" width="684" height="18" font="2">Wexler (1990) and Grodzinsky &amp; Reinhart (1993) argue that children's error in (4) is </text>
+<text top="898" left="106" width="212" height="16" font="6">                                                </text>
+<text top="896" left="315" width="5" height="18" font="2"> </text>
+<text top="930" left="120" width="5" height="10" font="10">5</text>
+<text top="935" left="126" width="257" height="15" font="4"> Principle C will not be discussed here.  </text>
+<text top="966" left="120" width="5" height="10" font="10">6</text>
+<text top="971" left="126" width="14" height="15" font="8"><i>  a</i></text>
+<text top="971" left="141" width="43" height="15" font="4"> binds </text>
+<text top="971" left="185" width="8" height="15" font="8"><i>b</i></text>
+<text top="971" left="192" width="25" height="15" font="4"> iff </text>
+<text top="971" left="218" width="8" height="15" font="8"><i>a</i></text>
+<text top="971" left="226" width="33" height="15" font="4"> and </text>
+<text top="971" left="260" width="8" height="15" font="8"><i>b</i></text>
+<text top="971" left="269" width="128" height="15" font="4"> are coindexed and </text>
+<text top="971" left="398" width="8" height="15" font="8"><i>a</i></text>
+<text top="971" left="407" width="91" height="15" font="4"> c-commands </text>
+<text top="971" left="498" width="8" height="15" font="8"><i>b</i></text>
+<text top="971" left="506" width="282" height="15" font="4">. A precise definition of 'locally bound' need </text>
+<text top="991" left="106" width="140" height="15" font="4">not concern us here.  </text>
+<text top="1023" left="120" width="5" height="10" font="10">7</text>
+<text top="1027" left="126" width="662" height="15" font="4"> See Baauw (2000), McKee (1992) and Varlokosta (2001) for claims that DPBE does not occur in </text>
+<text top="1046" left="106" width="682" height="15" font="4">languages with rich inflectional morphology, and especially, clitic doubling: Spanish, Italian and Greek. In </text>
+<text top="1065" left="106" width="485" height="15" font="4">Spanish, however, DPBE may occur in ECM constructions (Baauw, 2000). </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="11" size="18" family="Symbol" color="#000000"/>
+	<fontspec id="12" size="19" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="13" size="16" family="Symbol" color="#000000"/>
+<text top="181" left="106" width="22" height="15" font="4">430</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">due to the immaturity of their pragmatic and/or general processing system, knowledge </text>
+<text top="243" left="106" width="338" height="18" font="2">of which is not confined to syntax proper.  </text>
+<text top="265" left="106" width="684" height="18" font="2">  For the accounts  to be discussed here, distinction between binding and coreference </text>
+<text top="289" left="106" width="684" height="18" font="2">is crucial. In standard Binding Theory both binding and coreference are defined in </text>
+<text top="311" left="106" width="685" height="18" font="2">terms of syntactic coindexation: NPs with identical indices are obligatorily coreferent, </text>
+<text top="334" left="106" width="684" height="18" font="2">and NPs with distinct indices are obligatorily disjoint in reference. In contrast to </text>
+<text top="357" left="106" width="684" height="18" font="2">standard Binding Theory, Reinhart (1983, 1986) argues that binding and coreference </text>
+<text top="380" left="106" width="684" height="18" font="2">are governed by two distinct modules of grammar: Principle B applies to pronouns </text>
+<text top="402" left="106" width="685" height="18" font="2">only when bound variable, and not when coreferential with referential antecedents. </text>
+<text top="426" left="106" width="684" height="18" font="2">Assuming that definite description and proper names also can serve as variable </text>
+<text top="449" left="106" width="684" height="18" font="2">binders, Grodzinsky &amp; Reinhart (1993) claim that a sentence like (4) above could </text>
+<text top="471" left="106" width="399" height="18" font="2">have more than one possible logical representation:</text>
+<text top="468" left="503" width="6" height="11" font="9">8</text>
+<text top="471" left="510" width="16" height="18" font="2">   </text>
+<text top="495" left="106" width="5" height="18" font="2"> </text>
+<text top="517" left="106" width="231" height="18" font="2">(5)  a. Mary is washing her. </text>
+<text top="541" left="106" width="19" height="18" font="2">    </text>
+<text top="541" left="149" width="69" height="18" font="2">b. Mary </text>
+<text top="536" left="217" width="10" height="24" font="11">λ</text>
+<text top="541" left="226" width="146" height="18" font="2">x (x is washing a)  </text>
+<text top="566" left="106" width="19" height="18" font="2">   </text>
+<text top="566" left="149" width="67" height="18" font="2">c. Mary </text>
+<text top="560" left="216" width="10" height="24" font="11">λ</text>
+<text top="566" left="225" width="146" height="18" font="2">x (x is washing x)  </text>
+<text top="588" left="106" width="5" height="18" font="2"> </text>
+<text top="612" left="106" width="277" height="18" font="2">In the set of possible referents for </text>
+<text top="612" left="384" width="25" height="18" font="12"><i>her</i></text>
+<text top="612" left="410" width="149" height="18" font="2"> in 5b can also be </text>
+<text top="612" left="559" width="43" height="18" font="12"><i>Mary</i></text>
+<text top="612" left="602" width="188" height="18" font="2"> herself, thus yielding a </text>
+<text top="635" left="106" width="684" height="18" font="2">coreferential interpretation. In 5c, the pronoun is a variable bound by a lambda </text>
+<text top="658" left="106" width="684" height="18" font="2">operator. Note that both 5b and 5c yield the same truth conditions. The ambiguity </text>
+<text top="680" left="106" width="684" height="18" font="2">between coreferential and bound variable reading therefore exists whenever a pronoun </text>
+<text top="704" left="106" width="684" height="18" font="2">has a referential NP as an antecedent. The bound variable interpretation will be ruled </text>
+<text top="726" left="106" width="684" height="18" font="2">out by a syntactic principle, Principle B. Coreference, however, is not a syntactic </text>
+<text top="749" left="106" width="53" height="18" font="2">notion,</text>
+<text top="746" left="160" width="6" height="11" font="9">9</text>
+<text top="749" left="167" width="407" height="18" font="2"> and can be licit in appropriate pragmatic contexts:   </text>
+<text top="794" left="106" width="212" height="16" font="6">                                                </text>
+<text top="793" left="315" width="5" height="18" font="2"> </text>
+<text top="827" left="120" width="5" height="10" font="10">8</text>
+<text top="831" left="126" width="664" height="15" font="4"> The distinction between binding and coreference is best illustrated in the examples involving VP </text>
+<text top="851" left="106" width="682" height="15" font="4">deletion. Here the interpretation of the second conjunct depends on the interpretation of the first, giving </text>
+<text top="870" left="106" width="659" height="15" font="4">rise to the ambiguity between the coreferential (‘strict’) reading and bound variable (‘sloppy’) reading:  </text>
+<text top="890" left="106" width="314" height="15" font="4">  (i)   a. [Bill liked his cat] and [Charlie did too]. </text>
+<text top="911" left="106" width="19" height="15" font="4">   </text>
+<text top="911" left="149" width="41" height="15" font="4">b. Bill </text>
+<text top="906" left="189" width="9" height="21" font="13">λ</text>
+<text top="911" left="198" width="61" height="15" font="4">x (x liked </text>
+<text top="911" left="261" width="8" height="15" font="8"><i>a</i></text>
+<text top="911" left="270" width="115" height="15" font="4">'s cat) &amp; Charles </text>
+<text top="906" left="385" width="9" height="21" font="13">λ</text>
+<text top="911" left="394" width="62" height="15" font="4">x (x liked </text>
+<text top="911" left="457" width="8" height="15" font="8"><i>a</i></text>
+<text top="911" left="465" width="44" height="15" font="4">'s cat) </text>
+<text top="931" left="106" width="19" height="15" font="4">   </text>
+<text top="931" left="149" width="41" height="15" font="4">c. Bill </text>
+<text top="926" left="189" width="9" height="21" font="13">λ</text>
+<text top="931" left="198" width="186" height="15" font="4">x (x liked x's cat) &amp; Charles </text>
+<text top="926" left="384" width="9" height="21" font="13">λ</text>
+<text top="931" left="393" width="114" height="15" font="4">x (x liked x's cat) </text>
+<text top="951" left="106" width="215" height="15" font="4">(ib) entails strict reading, where </text>
+<text top="951" left="322" width="24" height="15" font="8"><i>his </i></text>
+<text top="951" left="347" width="271" height="15" font="4">is interpreted coreferentially: the value of </text>
+<text top="951" left="619" width="8" height="15" font="8"><i>a</i></text>
+<text top="951" left="628" width="162" height="15" font="4"> can be freely chosen, it </text>
+<text top="971" left="106" width="307" height="15" font="4">can refer to anybody in the universe, including </text>
+<text top="971" left="415" width="22" height="15" font="8"><i>Bill</i></text>
+<text top="971" left="438" width="183" height="15" font="4">. (ic) entails sloppy reading: </text>
+<text top="971" left="622" width="20" height="15" font="8"><i>his</i></text>
+<text top="971" left="641" width="147" height="15" font="4"> is locally bound, so in </text>
+<text top="991" left="106" width="181" height="15" font="4">the first conjunct it refers to </text>
+<text top="991" left="288" width="23" height="15" font="8"><i>Bill</i></text>
+<text top="991" left="311" width="198" height="15" font="4">, and in the second conjunct, to </text>
+<text top="991" left="511" width="54" height="15" font="8"><i>Charles</i></text>
+<text top="991" left="565" width="9" height="15" font="4">. </text>
+<text top="989" left="573" width="5" height="18" font="2"> </text>
+<text top="1023" left="120" width="5" height="10" font="10">9</text>
+<text top="1027" left="126" width="662" height="15" font="4"> Coreference, unlike binding, does not crucially involve structural conditions on coindexing. Note that in </text>
+<text top="1046" left="106" width="665" height="15" font="4">VP deletion constructions the bound variable (sloppy) reading is not available if there is no c-command:  </text>
+<text top="1065" left="120" width="353" height="15" font="4">(i)  [Most of her friends adore Lucie] and [Zelda too]  </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">431</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="5" height="18" font="2"> </text>
+<text top="244" left="106" width="592" height="18" font="2">(6)  I know what Bill and Mary have in common. Mary adores Bill and </text>
+<text top="244" left="699" width="29" height="18" font="12"><i>Bill</i></text>
+<text top="244" left="728" width="62" height="18" font="2"> adores </text>
+<text top="267" left="147" width="31" height="18" font="12"><i>him</i></text>
+<text top="267" left="178" width="46" height="18" font="2"> too.  </text>
+<text top="291" left="106" width="5" height="18" font="2"> </text>
+<text top="314" left="106" width="685" height="18" font="2">The idea behind the accounts of the DPBE as proposed by Chien &amp; Wexler (1990) </text>
+<text top="336" left="106" width="684" height="18" font="2">and Grodzinsky &amp; Reinhart (1993) is that, unlike adults, children are not able to rule </text>
+<text top="360" left="106" width="685" height="18" font="2">out the coreference reading in illicit contexts such as (4). Due to the immaturity of </text>
+<text top="382" left="106" width="532" height="18" font="2">children’s pragmatic system (Principle P, Chien &amp; Wexler, 1990),</text>
+<text top="378" left="638" width="12" height="11" font="9">10</text>
+<text top="382" left="650" width="140" height="18" font="2"> or limitations on </text>
+<text top="405" left="106" width="685" height="18" font="2">children’s processing system that hinder coreference computation operations (Rule I, </text>
+<text top="428" left="106" width="269" height="18" font="2">Grodzinsky &amp; Reinhart 1993),</text>
+<text top="425" left="375" width="13" height="11" font="9">11</text>
+<text top="428" left="388" width="402" height="18" font="2"> the constraint which blocks the coreference </text>
+<text top="451" left="106" width="684" height="18" font="2">interpretation whenever it is semantically indistinguishable to the bound variable </text>
+<text top="473" left="106" width="684" height="18" font="2">interpretation cannot be implemented in children’s grammar, resulting in the </text>
+<text top="497" left="106" width="438" height="18" font="2">guesswork performance on examples such as (4) above.</text>
+<text top="493" left="545" width="13" height="11" font="9">12</text>
+<text top="497" left="558" width="10" height="18" font="2">  </text>
+<text top="519" left="106" width="684" height="18" font="2">  The important issue that arises in the accounts of the DPBE presented here is the </text>
+<text top="542" left="106" width="684" height="18" font="2">proposed fractionation of Binding Principles into linguistic and extralinguistic </text>
+<text top="566" left="106" width="684" height="18" font="2">components. Processes involved in the interpretation of anaphoric elements are </text>
+<text top="588" left="106" width="684" height="18" font="2">constrained to syntax proper. In contrast, coreferential interpretation involves </text>
+<text top="611" left="106" width="684" height="18" font="2">processes that relate linguistic expressions to elements outside grammar. This division </text>
+<text top="634" left="106" width="684" height="18" font="2">of labour between syntax and pragmatics in the interpretation of pronouns has </text>
+<text top="657" left="106" width="685" height="18" font="2">interesting implications for our exploration of the linguistic deficit in Down syndrome. </text>
+<text top="679" left="106" width="684" height="18" font="2">If binding is syntactically encoded, and it is assumed that the linguistic deficit in DS is </text>
+<text top="703" left="106" width="684" height="18" font="2">syntactic in nature, the subjects may reveal difficulties with interpreting anaphoric </text>
+<text top="725" left="106" width="684" height="18" font="2">elements whose distribution is constrained by syntactic principles. If the interpretation </text>
+<text top="748" left="106" width="684" height="18" font="2">and distribution of pronouns are regulated by principles that belong to some system </text>
+<text top="834" left="106" width="135" height="18" font="2">                              </text>
+<text top="834" left="269" width="135" height="18" font="2">                              </text>
+<text top="834" left="432" width="135" height="18" font="2">                              </text>
+<text top="834" left="596" width="135" height="18" font="2">                              </text>
+<text top="834" left="759" width="30" height="18" font="2">       </text>
+<text top="858" left="120" width="5" height="15" font="4"> </text>
+<text top="858" left="149" width="44" height="15" font="4">(Lucie </text>
+<text top="853" left="194" width="9" height="21" font="13">λ</text>
+<text top="858" left="203" width="150" height="15" font="4">x (x's friends adore x)  </text>
+<text top="879" left="120" width="5" height="15" font="4"> </text>
+<text top="879" left="149" width="290" height="15" font="4">but NOT Zelda's friends adore Zelda (Zelda (</text>
+<text top="874" left="440" width="9" height="21" font="13">λ</text>
+<text top="879" left="449" width="160" height="15" font="4">x (x's friends adore x)))  </text>
+<text top="911" left="120" width="11" height="10" font="10">10</text>
+<text top="915" left="132" width="641" height="15" font="4"> Principle P: Contraindexed NPs are noncorefential unless the context explicitly forces coreference. </text>
+<text top="947" left="120" width="11" height="10" font="10">11</text>
+<text top="951" left="132" width="5" height="15" font="4"> </text>
+<text top="951" left="138" width="252" height="15" font="8"><i>Rule I: Intransentential Coreference</i></text>
+<text top="951" left="390" width="36" height="15" font="4">: NP </text>
+<text top="951" left="426" width="10" height="15" font="8"><i>A</i></text>
+<text top="951" left="435" width="167" height="15" font="4"> cannot corefer with NP </text>
+<text top="951" left="602" width="10" height="15" font="8"><i>B</i></text>
+<text top="951" left="611" width="81" height="15" font="4"> if replacing </text>
+<text top="951" left="694" width="10" height="15" font="8"><i>A</i></text>
+<text top="951" left="704" width="37" height="15" font="4"> with </text>
+<text top="951" left="743" width="11" height="15" font="8"><i>C</i></text>
+<text top="951" left="753" width="7" height="15" font="4">, </text>
+<text top="951" left="762" width="11" height="15" font="8"><i>C</i></text>
+<text top="951" left="773" width="16" height="15" font="4"> a </text>
+<text top="971" left="106" width="133" height="15" font="4">variable A-bound by </text>
+<text top="971" left="240" width="10" height="15" font="8"><i>B</i></text>
+<text top="971" left="250" width="276" height="15" font="4">, yields an indistinguishable interpretation.   </text>
+<text top="1002" left="120" width="11" height="10" font="10">12</text>
+<text top="1007" left="132" width="657" height="15" font="4"> In contexts in which a coreferential interpretation is unavailable, i.e. when they need not call upon a </text>
+<text top="1027" left="106" width="683" height="15" font="4">pragmatic principle to resolve the ambiguity between the  coreferential and bound variable interpretation, </text>
+<text top="1046" left="106" width="369" height="15" font="4">children do not show the DPBE (Chien &amp; Wexler, 1990): </text>
+<text top="1065" left="120" width="107" height="15" font="4">(i)  *Every bear</text>
+<text top="1071" left="226" width="3" height="10" font="10">i</text>
+<text top="1065" left="230" width="98" height="15" font="4"> is washing him</text>
+<text top="1071" left="327" width="3" height="10" font="10">i</text>
+<text top="1065" left="331" width="5" height="15" font="4"> </text>
+<text top="1065" left="367" width="5" height="15" font="4"> </text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="106" width="22" height="15" font="4">432</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="667" height="18" font="2">outside syntax proper, influenced by the maturation of general processing abilities,</text>
+<text top="216" left="773" width="12" height="11" font="9">13</text>
+<text top="220" left="785" width="5" height="18" font="2"> </text>
+<text top="243" left="106" width="683" height="18" font="2">the subjects should do better than typically developing children on tasks involving </text>
+<text top="265" left="106" width="684" height="18" font="2">pronouns. However, this prediction runs against the ‘delay’ characterisation of the </text>
+<text top="289" left="106" width="684" height="18" font="2">language in DS, discussed in previous sections. If children with DS go through </text>
+<text top="311" left="106" width="684" height="18" font="2">identical stages of acquiring syntactic principles to typically developing children, even </text>
+<text top="334" left="106" width="684" height="18" font="2">if these processes get arrested at distinct points in the development, it should be </text>
+<text top="357" left="106" width="684" height="18" font="2">possible to identify at least some stages in the grammar of adults with DS that match </text>
+<text top="380" left="106" width="349" height="18" font="2">the patterns of typical acquisition processes. </text>
+<text top="404" left="106" width="5" height="18" font="3"><b> </b></text>
+<text top="427" left="106" width="5" height="18" font="3"><b> </b></text>
+<text top="450" left="106" width="10" height="18" font="3"><b>4</b></text>
+<text top="449" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="450" left="122" width="102" height="18" font="3"><b>Experiment </b></text>
+<text top="472" left="106" width="24" height="18" font="3"><b>4.1</b></text>
+<text top="472" left="131" width="6" height="18" font="5"><b> </b></text>
+<text top="472" left="138" width="81" height="18" font="3"><b>Subjects  </b></text>
+<text top="495" left="106" width="5" height="18" font="2"> </text>
+<text top="517" left="106" width="685" height="18" font="2">Four adolescent girls with DS, between 17 and 21 years of age, participated in our </text>
+<text top="540" left="106" width="684" height="18" font="2">study. The aetiological subtype of DS is not confirmed, but is suspected to be standard </text>
+<text top="563" left="106" width="64" height="18" font="2">trisomy.</text>
+<text top="560" left="170" width="13" height="11" font="9">14</text>
+<text top="563" left="183" width="607" height="18" font="2"> All subjects were students at a Learning Support Unit at a further education </text>
+<text top="586" left="106" width="684" height="18" font="2">college in Greater London. Their scores on standardised grammar and vocabulary tests </text>
+<text top="608" left="106" width="684" height="18" font="2">are given in Table 1. Note the disparity between their scores on both receptive and </text>
+<text top="632" left="106" width="684" height="18" font="2">expressive vocabulary and the test of comprehension of grammar, in line with the </text>
+<text top="654" left="106" width="684" height="18" font="2">widely reported dissociations between grammar and vocabulary. Following the </text>
+<text top="678" left="106" width="684" height="18" font="2">tradition in the literature, the subjects can be matched to two distinct control groups: </text>
+<text top="701" left="106" width="685" height="18" font="2">on the basis of their grammar comprehension scores (TROG), or on the basis of their </text>
+<text top="723" left="106" width="539" height="18" font="2">verbal  mental age, as measured by the receptive vocabulary (BPVS).</text>
+<text top="719" left="646" width="13" height="11" font="9">15</text>
+<text top="723" left="659" width="5" height="18" font="2"> </text>
+<text top="761" left="106" width="212" height="16" font="6">                                                </text>
+<text top="759" left="315" width="5" height="18" font="2"> </text>
+<text top="793" left="120" width="11" height="10" font="10">13</text>
+<text top="797" left="132" width="658" height="15" font="4"> It is probable that Rule I and Principle P would yield different predictions with regard to their </text>
+<text top="818" left="106" width="683" height="15" font="4">application in the grammar of DS. Principle P is a maturational pragmatic constraint and should be </text>
+<text top="837" left="106" width="683" height="15" font="4">available to the individuals of DS, if their pragmatics is relatively unimpaired as it is claimed in the </text>
+<text top="856" left="106" width="684" height="15" font="4">literature. However, no pragmatic framework from which this principle  follows is provided for any clear </text>
+<text top="876" left="106" width="683" height="15" font="4">predictions to be made. On the other hand, Rule I is an innate constraint that can also be interpreted as a </text>
+<text top="895" left="106" width="683" height="15" font="4">general economy condition, in the sense of Reuland (1997). It however assumes maturity of general </text>
+<text top="915" left="106" width="684" height="15" font="4">processing system, relying on working memory resources, an area well known to be problematic for </text>
+<text top="935" left="106" width="683" height="15" font="4">individuals with DS. To resolve this issue is beyond the scope of this paper, and will not be of crucial </text>
+<text top="955" left="106" width="196" height="15" font="4">importance for our discussion.  </text>
+<text top="987" left="120" width="11" height="10" font="10">14</text>
+<text top="991" left="132" width="657" height="15" font="4"> Five girls originally participated in the study, however, the scores for one of them are excluded here </text>
+<text top="1010" left="106" width="682" height="15" font="4">as it appeared that she had a mosaic form of DS, rather than standard trisomy 21. Mosaic form is known </text>
+<text top="1029" left="106" width="453" height="15" font="4">to give rise to less severe cognitive and possibly linguistic impairments. </text>
+<text top="1062" left="120" width="11" height="10" font="10">15</text>
+<text top="1065" left="132" width="653" height="15" font="4"> Measures of receptive vocabulary have been found to highly correlate with measures of mental age.  </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">433</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="5" height="18" font="2"> </text>
+<text top="243" left="106" width="64" height="18" font="2">Table 1 </text>
+<text top="266" left="127" width="5" height="15" font="4"> </text>
+<text top="266" left="183" width="32" height="15" font="4">Age </text>
+<text top="287" left="172" width="54" height="15" font="4">in years </text>
+<text top="266" left="250" width="147" height="15" font="4">Receptive Vocabulary </text>
+<text top="287" left="294" width="62" height="15" font="4">(BPVS)  </text>
+<text top="306" left="271" width="102" height="15" font="4">Age Equivalent </text>
+<text top="266" left="420" width="153" height="15" font="4">Expressive Vocabulary </text>
+<text top="287" left="460" width="77" height="15" font="4">(RWFVT)  </text>
+<text top="306" left="444" width="102" height="15" font="4">Age Equivalent </text>
+<text top="266" left="595" width="169" height="15" font="4">Grammar Comprehension </text>
+<text top="287" left="650" width="63" height="15" font="4">(TROG)  </text>
+<text top="306" left="629" width="102" height="15" font="4">Age Equivalent </text>
+<text top="327" left="117" width="25" height="15" font="4">LP </text>
+<text top="327" left="180" width="39" height="15" font="4">17;09 </text>
+<text top="327" left="307" width="32" height="15" font="4">8;01 </text>
+<text top="327" left="469" width="53" height="15" font="4">7;03-05 </text>
+<text top="327" left="664" width="32" height="15" font="4">4;09 </text>
+<text top="347" left="116" width="28" height="15" font="4">DA </text>
+<text top="347" left="180" width="39" height="15" font="4">17;02 </text>
+<text top="347" left="307" width="32" height="15" font="4">6;06 </text>
+<text top="347" left="469" width="53" height="15" font="4">5;07-09 </text>
+<text top="347" left="664" width="32" height="15" font="4">5;03 </text>
+<text top="368" left="115" width="30" height="15" font="4">MK </text>
+<text top="368" left="180" width="39" height="15" font="4">19;03 </text>
+<text top="368" left="311" width="24" height="15" font="4">7;0 </text>
+<text top="368" left="479" width="33" height="15" font="4">&gt;8.6 </text>
+<text top="368" left="664" width="32" height="15" font="4">4;05 </text>
+<text top="389" left="118" width="24" height="15" font="4">SL </text>
+<text top="389" left="180" width="39" height="15" font="4">20;07 </text>
+<text top="389" left="307" width="32" height="15" font="4">5;00 </text>
+<text top="389" left="469" width="53" height="15" font="4">5;07-09 </text>
+<text top="389" left="668" width="24" height="15" font="4">4;0 </text>
+<text top="409" left="106" width="5" height="18" font="2"> </text>
+<text top="433" left="106" width="5" height="18" font="2"> </text>
+<text top="456" left="106" width="24" height="18" font="3"><b>4.2</b></text>
+<text top="456" left="131" width="6" height="18" font="5"><b> </b></text>
+<text top="456" left="138" width="212" height="18" font="3"><b>Materials and procedure </b></text>
+<text top="478" left="106" width="5" height="18" font="2"> </text>
+<text top="501" left="106" width="684" height="18" font="2">The task used in the study was the Picture truth value judgement task, adapted from </text>
+<text top="524" left="106" width="200" height="18" font="2">Chien &amp; Wexler (1990),</text>
+<text top="520" left="306" width="13" height="11" font="9">16</text>
+<text top="524" left="320" width="471" height="18" font="2"> eliciting yes-no answers to experimental questions which </text>
+<text top="546" left="106" width="375" height="18" font="2">matched or did not match the picture shown.</text>
+<text top="544" left="480" width="13" height="11" font="9">17</text>
+<text top="546" left="494" width="297" height="18" font="2"> Following Chien &amp; Wexler (1990), </text>
+<text top="571" left="106" width="400" height="18" font="2">four experimental conditions were included: </text>
+<text top="571" left="523" width="118" height="18" font="12"><i>name-reflexive</i></text>
+<text top="571" left="640" width="11" height="18" font="2">, </text>
+<text top="571" left="665" width="116" height="18" font="12"><i>name-pronoun</i></text>
+<text top="571" left="780" width="11" height="18" font="2">, </text>
+<text top="595" left="106" width="155" height="18" font="12"><i>quantifier-reflexive</i></text>
+<text top="595" left="260" width="39" height="18" font="2"> and </text>
+<text top="595" left="302" width="153" height="18" font="12"><i>quantifier-pronoun</i></text>
+<text top="595" left="455" width="318" height="18" font="2">, with eight questions for each condition.</text>
+<text top="591" left="773" width="12" height="11" font="9">18</text>
+<text top="595" left="785" width="5" height="18" font="2"> </text>
+<text top="618" left="106" width="548" height="18" font="2">In addition to control conditions used in Chien &amp; Wexler (1990), </text>
+<text top="618" left="657" width="92" height="18" font="12"><i>name-name</i></text>
+<text top="618" left="748" width="42" height="18" font="2"> and </text>
+<text top="643" left="106" width="127" height="18" font="12"><i>quantifier-name</i></text>
+<text top="643" left="234" width="366" height="18" font="2">, two extra control conditions were included: </text>
+<text top="643" left="603" width="148" height="18" font="12"><i>name-name action</i></text>
+<text top="643" left="750" width="39" height="18" font="2"> and </text>
+<text top="667" left="106" width="71" height="18" font="12"><i>attention</i></text>
+<text top="667" left="177" width="329" height="18" font="2">, with eight questions for each, bar the </text>
+<text top="667" left="510" width="70" height="18" font="12"><i>attention</i></text>
+<text top="667" left="581" width="209" height="18" font="2"> control condition, which </text>
+<text top="689" left="106" width="176" height="18" font="2">included 16 questions.</text>
+<text top="686" left="282" width="13" height="11" font="9">19</text>
+<text top="689" left="295" width="495" height="18" font="2"> Examples of questions for each of the conditions are given in </text>
+<text top="713" left="106" width="684" height="18" font="2">the Appendix A. Subjects were presented with a picture showing cartoon characters </text>
+<text top="737" left="106" width="53" height="18" font="12"><i>drying</i></text>
+<text top="737" left="158" width="11" height="18" font="2">, </text>
+<text top="737" left="176" width="66" height="18" font="12"><i>washing</i></text>
+<text top="737" left="242" width="34" height="18" font="2"> or </text>
+<text top="737" left="282" width="70" height="18" font="12"><i>touching</i></text>
+<text top="737" left="352" width="438" height="18" font="2"> either themselves or other characters. A sentence </text>
+<text top="764" left="106" width="212" height="16" font="6">                                                </text>
+<text top="762" left="315" width="5" height="18" font="2"> </text>
+<text top="797" left="120" width="11" height="10" font="10">16</text>
+<text top="801" left="132" width="656" height="15" font="4"> I acknowledge the help of Heather van der Lely who kindly provided some of the pictures used in van </text>
+<text top="820" left="106" width="201" height="15" font="4">der Lely &amp; Stollwerck (1997).  </text>
+<text top="853" left="120" width="11" height="10" font="10">17</text>
+<text top="856" left="132" width="658" height="15" font="4"> Mismatch conditions were included to control for a positive bias (opting for ‘yes’ answers even if </text>
+<text top="876" left="106" width="683" height="15" font="4">unsure, in order to please the (adult) experimenter), well evidenced in the research on typical language </text>
+<text top="895" left="106" width="75" height="15" font="4">acquisition. </text>
+<text top="928" left="120" width="11" height="10" font="10">18</text>
+<text top="931" left="132" width="370" height="15" font="4"> Chien &amp; Wexler (1990) used six questions per condition. </text>
+<text top="963" left="120" width="11" height="10" font="10">19</text>
+<text top="967" left="132" width="657" height="15" font="4"> To control  for the well known attention deficits in individuals with DS, two extra condition were </text>
+<text top="987" left="106" width="149" height="15" font="4">added, mismatch only. </text>
+<text top="987" left="255" width="127" height="15" font="8"><i>Name-name action</i></text>
+<text top="987" left="383" width="405" height="15" font="4"> included a picture of characters performing action different to </text>
+<text top="1007" left="106" width="476" height="15" font="4">the action mentioned in the experimental question: a question such as </text>
+<text top="1007" left="585" width="203" height="15" font="8"><i>Is Peter Pan drying Mickey </i></text>
+<text top="1027" left="106" width="46" height="15" font="8"><i>Mouse</i></text>
+<text top="1027" left="151" width="513" height="15" font="4">? was accompanied by a picture depicting Peter Pan washing Mickey Mouse. </text>
+<text top="1027" left="664" width="60" height="15" font="8"><i>Attention</i></text>
+<text top="1027" left="725" width="64" height="15" font="4"> condition </text>
+<text top="1046" left="106" width="181" height="15" font="4">involved questions such as </text>
+<text top="1046" left="289" width="201" height="15" font="8"><i>Is Father Christmas sleeping</i></text>
+<text top="1046" left="491" width="299" height="15" font="4">? accompanied by a picture depicting Father </text>
+<text top="1065" left="106" width="217" height="15" font="4">Christmas standing next to a bed. </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="14" size="16" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="15" size="10" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="16" size="16" family="Arial,Bold" color="#000000"/>
+<text top="181" left="106" width="22" height="15" font="4">434</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="221" left="106" width="254" height="18" font="2">introduced the characters (e.g. ‘</text>
+<text top="221" left="360" width="309" height="18" font="12"><i>This is Cinderella. This is Snow White</i></text>
+<text top="221" left="669" width="121" height="18" font="2">.’) followed by </text>
+<text top="245" left="106" width="145" height="18" font="2">a question (e.g. ‘</text>
+<text top="245" left="251" width="218" height="18" font="12"><i>Is Cinderella washing her</i></text>
+<text top="245" left="468" width="322" height="18" font="2">?). Their answers were coded onto an </text>
+<text top="267" left="106" width="684" height="18" font="2">answer sheet, along with any other comments. In the four experimental sessions, each </text>
+<text top="291" left="106" width="684" height="18" font="2">subject was presented with 30 pictures and 30 questions. To ensure that subjects </text>
+<text top="314" left="106" width="685" height="18" font="2">understood the task, four trial questions were used at the beginning of each session. </text>
+<text top="336" left="106" width="573" height="18" font="2">The sessions were conducted in an empty classroom at the girls’ college. </text>
+<text top="360" left="106" width="5" height="18" font="2"> </text>
+<text top="383" left="106" width="5" height="18" font="3"><b> </b></text>
+<text top="406" left="106" width="10" height="18" font="3"><b>5</b></text>
+<text top="405" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="406" left="122" width="66" height="18" font="3"><b>Results </b></text>
+<text top="428" left="106" width="5" height="18" font="2"> </text>
+<text top="451" left="106" width="684" height="18" font="2">Table 2 presents the percentage of correct responses for the subjects with DS on each </text>
+<text top="473" left="106" width="243" height="18" font="2">of the experimental condition.  </text>
+<text top="497" left="106" width="64" height="18" font="2">Table 2 </text>
+<text top="522" left="106" width="5" height="15" font="14"><b> </b></text>
+<text top="522" left="316" width="25" height="15" font="14"><b>LP </b></text>
+<text top="522" left="386" width="28" height="15" font="14"><b>DA </b></text>
+<text top="522" left="456" width="34" height="15" font="14"><b>MK </b></text>
+<text top="522" left="533" width="24" height="15" font="14"><b>SL </b></text>
+<text top="542" left="106" width="115" height="15" font="14"><b>Name -reflexive </b></text>
+<text top="541" left="325" width="5" height="15" font="4"> </text>
+<text top="541" left="397" width="5" height="15" font="4"> </text>
+<text top="541" left="469" width="5" height="15" font="4"> </text>
+<text top="541" left="542" width="5" height="15" font="4"> </text>
+<text top="562" left="106" width="144" height="15" font="4">Match              NRM </text>
+<text top="562" left="302" width="54" height="15" font="4">25.00% </text>
+<text top="562" left="374" width="54" height="15" font="4">75.00% </text>
+<text top="562" left="446" width="54" height="15" font="4">62.50% </text>
+<text top="562" left="519" width="54" height="15" font="4">75.00% </text>
+<text top="582" left="106" width="136" height="15" font="4">Mismatch        NRX </text>
+<text top="582" left="302" width="54" height="15" font="4">12.50% </text>
+<text top="582" left="374" width="54" height="15" font="4">37.50% </text>
+<text top="582" left="446" width="54" height="15" font="4">75.00% </text>
+<text top="582" left="524" width="42" height="15" font="4">100% </text>
+<text top="605" left="106" width="139" height="15" font="14"><b>Quantifier-reflexive</b></text>
+<text top="601" left="246" width="11" height="10" font="15"><b>20</b></text>
+<text top="605" left="257" width="5" height="15" font="14"><b> </b></text>
+<text top="604" left="325" width="5" height="15" font="4"> </text>
+<text top="604" left="397" width="5" height="15" font="4"> </text>
+<text top="604" left="469" width="5" height="15" font="4"> </text>
+<text top="604" left="542" width="5" height="15" font="4"> </text>
+<text top="624" left="106" width="144" height="15" font="4">Match              QRM </text>
+<text top="624" left="302" width="54" height="15" font="4">12.50% </text>
+<text top="624" left="374" width="54" height="15" font="4">50.00% </text>
+<text top="624" left="446" width="54" height="15" font="4">12.50% </text>
+<text top="624" left="519" width="54" height="15" font="4">25.00% </text>
+<text top="645" left="106" width="141" height="15" font="4">Mismatch        QRX  </text>
+<text top="645" left="302" width="54" height="15" font="4">12.50% </text>
+<text top="645" left="374" width="54" height="15" font="4">25.00% </text>
+<text top="645" left="446" width="54" height="15" font="4">87.50% </text>
+<text top="645" left="519" width="54" height="15" font="4">62.50% </text>
+<text top="667" left="106" width="8" height="15" font="14"><b>6</b></text>
+<text top="666" left="115" width="4" height="15" font="16"><b> </b></text>
+<text top="667" left="122" width="110" height="15" font="14"><b>Name -pronoun </b></text>
+<text top="666" left="325" width="5" height="15" font="4"> </text>
+<text top="666" left="397" width="5" height="15" font="4"> </text>
+<text top="666" left="469" width="5" height="15" font="4"> </text>
+<text top="666" left="542" width="5" height="15" font="4"> </text>
+<text top="686" left="106" width="143" height="15" font="4">Match              NPM </text>
+<text top="686" left="307" width="42" height="15" font="4">100% </text>
+<text top="686" left="379" width="42" height="15" font="4">100% </text>
+<text top="686" left="451" width="42" height="15" font="4">100% </text>
+<text top="686" left="524" width="42" height="15" font="4">100% </text>
+<text top="707" left="106" width="135" height="15" font="4">Mismatch        NPX </text>
+<text top="707" left="307" width="42" height="15" font="4">100% </text>
+<text top="707" left="379" width="42" height="15" font="4">100% </text>
+<text top="707" left="451" width="42" height="15" font="4">100% </text>
+<text top="707" left="524" width="42" height="15" font="4">100% </text>
+<text top="729" left="106" width="141" height="15" font="14"><b>Quantifier-pronoun </b></text>
+<text top="728" left="325" width="5" height="15" font="4"> </text>
+<text top="728" left="397" width="5" height="15" font="4"> </text>
+<text top="728" left="469" width="5" height="15" font="4"> </text>
+<text top="728" left="542" width="5" height="15" font="4"> </text>
+<text top="749" left="106" width="143" height="15" font="4">Match              QPM </text>
+<text top="749" left="307" width="42" height="15" font="4">100% </text>
+<text top="749" left="379" width="42" height="15" font="4">100% </text>
+<text top="749" left="446" width="54" height="15" font="4">75.00% </text>
+<text top="749" left="524" width="42" height="15" font="4">100% </text>
+<text top="769" left="106" width="135" height="15" font="4">Mismatch        QPX </text>
+<text top="769" left="307" width="42" height="15" font="4">100% </text>
+<text top="769" left="379" width="42" height="15" font="4">100% </text>
+<text top="769" left="451" width="42" height="15" font="4">100% </text>
+<text top="769" left="524" width="42" height="15" font="4">100% </text>
+<text top="789" left="106" width="5" height="18" font="2"> </text>
+<text top="813" left="106" width="684" height="18" font="2">On conditions involving pronouns (NPM, NPX, QPM, QPX), the subjects performed </text>
+<text top="836" left="106" width="684" height="18" font="2">at ceiling: LP, DA and SL correctly rejected locally bound pronouns in the mismatch </text>
+<text top="858" left="106" width="684" height="18" font="2">condition and accepted a referent distinct from the local subject for the pronoun in the </text>
+<text top="882" left="106" width="684" height="18" font="2">match condition 100% of the time. MK’s performance was also 100% correct on </text>
+<text top="904" left="106" width="684" height="18" font="2">conditions NPM, NPX and QPX, and with 75%, slightly worse, but still above chance </text>
+<text top="927" left="106" width="92" height="18" font="2">(p= 0.1445)</text>
+<text top="924" left="199" width="13" height="11" font="9">21</text>
+<text top="927" left="213" width="167" height="18" font="2"> on condition QPM.  </text>
+<text top="973" left="106" width="212" height="16" font="6">                                                </text>
+<text top="972" left="315" width="5" height="18" font="2"> </text>
+<text top="1006" left="120" width="11" height="10" font="10">20</text>
+<text top="1010" left="132" width="179" height="15" font="4"> Two different quantifiers (</text>
+<text top="1010" left="309" width="18" height="15" font="8"><i>all</i></text>
+<text top="1010" left="326" width="33" height="15" font="4"> and </text>
+<text top="1010" left="360" width="38" height="15" font="8"><i>every</i></text>
+<text top="1010" left="397" width="393" height="15" font="4">) were used in the experiment. However, since no significant </text>
+<text top="1029" left="106" width="658" height="15" font="4">differences were found in the subjects’ performance, the results were collapsed for ease of reference. </text>
+<text top="1062" left="120" width="11" height="10" font="10">21</text>
+<text top="1065" left="132" width="446" height="15" font="4"> P values are obtained on the basis of the test of binomial distribution. </text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">435</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">  Their performance  is strikingly different on conditions that involve reflexives. All </text>
+<text top="243" left="106" width="685" height="18" font="2">subjects performed below chance on at least one (match or mismatch) condition, </text>
+<text top="265" left="106" width="684" height="18" font="2">revealing a systematic misinterpretation of these constructions. LP performed below </text>
+<text top="289" left="106" width="685" height="18" font="2">chance on all four conditions involving reflexives, match and mismatch (p&lt;0.05 for </text>
+<text top="311" left="106" width="684" height="18" font="2">NRM, p=0.1445 for NRX, QRM and QRX). DA attained above chance performance </text>
+<text top="334" left="106" width="684" height="18" font="2">on NRM, but scored below chance on the mismatch type of the same condition, NRX </text>
+<text top="357" left="106" width="684" height="18" font="2">(p=0.3632). Her performance on reflexives bound by quantified NPs is much poorer: </text>
+<text top="380" left="106" width="684" height="18" font="2">at chance for QRM and below chance (p=0.1445) for QRX. MK and SK scored </text>
+<text top="402" left="106" width="685" height="18" font="2">above chance on the conditions with reflexives bound by a reflexive antecedent, </text>
+<text top="426" left="106" width="684" height="18" font="2">however, their performance on reflexives bound by a quantified antecedent is poorer: </text>
+<text top="449" left="106" width="685" height="18" font="2">significantly below chance for the match type of this condition (p&lt;0.05 for MK, </text>
+<text top="471" left="106" width="685" height="18" font="2">p=0.1445 for SL), and (slightly) above chance for the mismatch type of that condition. </text>
+<text top="495" left="106" width="685" height="18" font="2">Their performance on control conditions was at ceiling; see Appendix B  for exact </text>
+<text top="517" left="106" width="97" height="18" font="2">percentages.</text>
+<text top="513" left="203" width="13" height="11" font="9">22</text>
+<text top="517" left="216" width="15" height="18" font="2">   </text>
+<text top="540" left="106" width="684" height="18" font="2">  Scores on the same experimental task of typically developing children in various age </text>
+<text top="563" left="106" width="673" height="18" font="2">groups, as reported in Chien &amp; Wexler (1990), are given in Table 3 for comparison.   </text>
+<text top="586" left="106" width="5" height="18" font="2"> </text>
+<text top="608" left="106" width="5" height="18" font="2"> </text>
+<text top="632" left="106" width="64" height="18" font="2">Table 3 </text>
+<text top="656" left="106" width="5" height="15" font="4"> </text>
+<text top="657" left="271" width="114" height="15" font="14"><b>Group 1 (n=48) </b></text>
+<text top="677" left="291" width="58" height="15" font="14"><b>age: &lt; 4</b></text>
+<text top="673" left="350" width="11" height="10" font="15"><b>23</b></text>
+<text top="677" left="360" width="5" height="15" font="14"><b> </b></text>
+<text top="657" left="385" width="114" height="15" font="14"><b>Group 2 (n=45) </b></text>
+<text top="677" left="411" width="62" height="15" font="14"><b>age: 4-5 </b></text>
+<text top="657" left="498" width="113" height="15" font="14"><b>Group 3 (n=44) </b></text>
+<text top="677" left="524" width="62" height="15" font="14"><b>age: 5-6 </b></text>
+<text top="657" left="617" width="114" height="15" font="14"><b>Group 4 (n=40) </b></text>
+<text top="677" left="641" width="63" height="15" font="14"><b>age: 6 -7 </b></text>
+<text top="697" left="106" width="115" height="15" font="14"><b>Name -reflexive </b></text>
+<text top="696" left="270" width="5" height="15" font="4"> </text>
+<text top="696" left="384" width="5" height="15" font="4"> </text>
+<text top="696" left="497" width="5" height="15" font="4"> </text>
+<text top="696" left="610" width="5" height="15" font="4"> </text>
+<text top="716" left="106" width="144" height="15" font="4">Match              NRM </text>
+<text top="716" left="302" width="54" height="15" font="4">79.51% </text>
+<text top="716" left="415" width="54" height="15" font="4">92.96% </text>
+<text top="716" left="529" width="53" height="15" font="4">96.97% </text>
+<text top="716" left="646" width="54" height="15" font="4">96.67%  </text>
+<text top="738" left="106" width="136" height="15" font="4">Mismatch        NRX </text>
+<text top="738" left="302" width="54" height="15" font="4">30.56% </text>
+<text top="738" left="415" width="54" height="15" font="4">67.04% </text>
+<text top="738" left="529" width="53" height="15" font="4">92.80% </text>
+<text top="738" left="646" width="54" height="15" font="4">99.17%  </text>
+<text top="759" left="106" width="139" height="15" font="14"><b>Quantifier-reflexive</b></text>
+<text top="755" left="246" width="11" height="10" font="15"><b>24</b></text>
+<text top="759" left="257" width="5" height="15" font="14"><b> </b></text>
+<text top="758" left="325" width="5" height="15" font="4"> </text>
+<text top="758" left="439" width="5" height="15" font="4"> </text>
+<text top="758" left="552" width="5" height="15" font="4"> </text>
+<text top="758" left="672" width="5" height="15" font="4"> </text>
+<text top="779" left="106" width="144" height="15" font="4">Match              QRM </text>
+<text top="779" left="302" width="54" height="15" font="4">77.43% </text>
+<text top="779" left="415" width="54" height="15" font="4">76.67% </text>
+<text top="779" left="529" width="53" height="15" font="4">89.39% </text>
+<text top="779" left="646" width="54" height="15" font="4">94.17%  </text>
+<text top="800" left="106" width="141" height="15" font="4">Mismatch        QRX  </text>
+<text top="800" left="302" width="54" height="15" font="4">29.51% </text>
+<text top="800" left="415" width="54" height="15" font="4">40.74% </text>
+<text top="800" left="529" width="53" height="15" font="4">82.95% </text>
+<text top="800" left="646" width="54" height="15" font="4">84.58%  </text>
+<text top="821" left="106" width="110" height="15" font="14"><b>Name -pronoun </b></text>
+<text top="820" left="325" width="5" height="15" font="4"> </text>
+<text top="820" left="439" width="5" height="15" font="4"> </text>
+<text top="820" left="552" width="5" height="15" font="4"> </text>
+<text top="820" left="672" width="5" height="15" font="4"> </text>
+<text top="841" left="106" width="143" height="15" font="4">Match              NPM </text>
+<text top="841" left="302" width="54" height="15" font="4">91.67% </text>
+<text top="841" left="415" width="54" height="15" font="4">88.52% </text>
+<text top="841" left="529" width="53" height="15" font="4">90.15% </text>
+<text top="841" left="646" width="54" height="15" font="4">94.58%  </text>
+<text top="879" left="106" width="212" height="16" font="6">                                                </text>
+<text top="877" left="315" width="5" height="18" font="2"> </text>
+<text top="911" left="120" width="11" height="10" font="10">22</text>
+<text top="915" left="132" width="656" height="15" font="4"> Two of the subjects, LP and SL showed very poor performance on the control condition involving </text>
+<text top="935" left="106" width="683" height="15" font="4">quantified NPs, mismatch type (QNX).  It would be beyond the scope of this paper to explore the possible </text>
+<text top="955" left="106" width="684" height="15" font="4">answers to why these quantified structures were problematic for our subjects. It is, however, clear that </text>
+<text top="974" left="106" width="600" height="15" font="4">this problem did not hinder their faultless performance on pronouns bound by quantified NPs.  </text>
+<text top="1006" left="120" width="11" height="10" font="10">23</text>
+<text top="1010" left="132" width="273" height="15" font="4"> Data reported in Chien &amp; Wexler (1990). </text>
+<text top="1042" left="120" width="11" height="10" font="10">24</text>
+<text top="1046" left="132" width="124" height="15" font="4"> Two quantifiers (</text>
+<text top="1046" left="253" width="17" height="15" font="8"><i>all</i></text>
+<text top="1046" left="270" width="33" height="15" font="4"> and </text>
+<text top="1046" left="306" width="37" height="15" font="8"><i>every</i></text>
+<text top="1046" left="343" width="446" height="15" font="4">) were used in Chien &amp; Wexler’s study. No significant differences </text>
+<text top="1065" left="106" width="491" height="15" font="4">were found in the performance on the two quantifiers, so only the results for </text>
+<text top="1065" left="596" width="37" height="15" font="8"><i>every</i></text>
+<text top="1065" left="633" width="105" height="15" font="4"> are given here. </text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="106" width="22" height="15" font="4">436</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="221" left="106" width="135" height="15" font="4">Mismatch        NPX </text>
+<text top="221" left="302" width="54" height="15" font="4">30.90% </text>
+<text top="221" left="415" width="54" height="15" font="4">39.26% </text>
+<text top="221" left="529" width="53" height="15" font="4">49.24% </text>
+<text top="221" left="646" width="54" height="15" font="4">76.67%  </text>
+<text top="243" left="106" width="141" height="15" font="14"><b>Quantifier-pronoun </b></text>
+<text top="242" left="325" width="5" height="15" font="4"> </text>
+<text top="242" left="439" width="5" height="15" font="4"> </text>
+<text top="242" left="552" width="5" height="15" font="4"> </text>
+<text top="242" left="672" width="5" height="15" font="4"> </text>
+<text top="262" left="106" width="143" height="15" font="4">Match              QPM </text>
+<text top="262" left="302" width="54" height="15" font="4">88.54% </text>
+<text top="262" left="415" width="54" height="15" font="4">94.44% </text>
+<text top="262" left="529" width="53" height="15" font="4">97.93% </text>
+<text top="262" left="646" width="54" height="15" font="4">98.75%  </text>
+<text top="283" left="106" width="135" height="15" font="4">Mismatch        QPX </text>
+<text top="283" left="302" width="54" height="15" font="4">46.88% </text>
+<text top="283" left="415" width="54" height="15" font="4">60.00% </text>
+<text top="283" left="529" width="53" height="15" font="4">83.71% </text>
+<text top="283" left="646" width="54" height="15" font="4">86.67%  </text>
+<text top="303" left="106" width="5" height="18" font="2"> </text>
+<text top="327" left="106" width="684" height="18" font="2">The large disparity between the scores on match and mismatch type on each of the </text>
+<text top="350" left="106" width="684" height="18" font="2">experimental conditions suggests the well known positive bias, thus scores in the </text>
+<text top="372" left="106" width="684" height="18" font="2">mismatch conditions are more likely to be informative. The youngest children (Group </text>
+<text top="396" left="106" width="684" height="18" font="2">1) performed below chance, or at chance, on all the mismatch conditions. The </text>
+<text top="418" left="106" width="684" height="18" font="2">difference in the performance on pronouns and reflexives when bound by a referential </text>
+<text top="441" left="106" width="684" height="18" font="2">antecedent (‘Delay of Principle B Effect’) becomes apparent from the age of 4, and </text>
+<text top="464" left="106" width="684" height="18" font="2">persists even at the age 6-7. Group 2 performed better on the condition NRX than on </text>
+<text top="487" left="106" width="685" height="18" font="2">condition NPX. Group 3 had generally better scores on both conditions, but their </text>
+<text top="509" left="106" width="685" height="18" font="2">performance on NPX still points to guesswork. The oldest children achieved highest </text>
+<text top="533" left="106" width="684" height="18" font="2">scores on all conditions, except, again, the condition NPX. Note that children in </text>
+<text top="555" left="106" width="684" height="18" font="2">Groups 2, 3 and 4 performed significantly better on pronouns when bound by a </text>
+<text top="578" left="106" width="684" height="18" font="2">quantified NP (condition QPX), providing support for the argument that children have </text>
+<text top="602" left="106" width="684" height="18" font="2">knowledge of the syntactic principle which rules out local binding of pronouns when </text>
+<text top="624" left="106" width="447" height="18" font="2">the bound variable reading is available (see footnote 12). </text>
+<text top="647" left="106" width="684" height="18" font="2">  Following the tradition in the literature, three subjects (LP, MK and SL) can be </text>
+<text top="670" left="106" width="684" height="18" font="2">matched to controls in Group 2, on the basis of their scores on a test of grammar </text>
+<text top="693" left="106" width="684" height="18" font="2">comprehension. On the same measure, DA can be matched to controls in Group 3. On </text>
+<text top="715" left="106" width="684" height="18" font="2">the basis of their MA scores, as measured by the test on receptive vocabulary, the </text>
+<text top="739" left="106" width="685" height="18" font="2">subjects could be matched to the eldest controls in Group 4. However, regardless of </text>
+<text top="761" left="106" width="684" height="18" font="2">the matching method, none of the groups of controls exhibits the pattern evidenced in </text>
+<text top="784" left="106" width="172" height="18" font="2">the subjects with DS. </text>
+<text top="807" left="106" width="5" height="18" font="2"> </text>
+<text top="830" left="106" width="5" height="18" font="2"> </text>
+<text top="854" left="106" width="10" height="18" font="3"><b>6</b></text>
+<text top="853" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="854" left="122" width="100" height="18" font="3"><b>Discussion  </b></text>
+<text top="876" left="106" width="5" height="18" font="2"> </text>
+<text top="900" left="106" width="49" height="18" font="3"><b>6.0  </b></text>
+<text top="900" left="154" width="636" height="18" font="2">The experiment reported here revealed that four girls with DS performed </text>
+<text top="922" left="106" width="684" height="18" font="2">significantly worse on anaphors as opposed to pronouns, revealing a pattern opposite </text>
+<text top="946" left="106" width="684" height="18" font="2">to the well known ‘Delay of Principle B Effect’ (DPBE) discussed earlier. Such a </text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">437</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">pattern is not documented at any stage of typical language development, as reported in </text>
+<text top="243" left="106" width="189" height="18" font="2">Chien &amp; Wexler (1990).</text>
+<text top="239" left="296" width="13" height="11" font="9">25</text>
+<text top="243" left="309" width="344" height="18" font="2"> How can these findings be accounted for?  </text>
+<text top="265" left="106" width="684" height="18" font="2">  A simple explanation would be that our subjects are merely misanalysing anaphors </text>
+<text top="289" left="106" width="684" height="18" font="2">as pronouns. Recall that one of the girls with Down syndrome, LP, rejected local and </text>
+<text top="311" left="106" width="684" height="18" font="2">accepted non local binding of reflexives in 27 out of the 32 sentences (match and </text>
+<text top="334" left="106" width="685" height="18" font="2">mismatch), seemingly treating reflexives as pronouns. A lexical learning explanation for </text>
+<text top="357" left="106" width="685" height="18" font="2">the DPBE was also proposed for typically developing children: Jakubowicz (1984) </text>
+<text top="380" left="106" width="684" height="18" font="2">argued that young children initially miscategorise pronouns, interpreting them as if they </text>
+<text top="402" left="106" width="685" height="18" font="2">were reflexives. Note, however, that such an account only reformulates the problem it </text>
+<text top="426" left="106" width="685" height="18" font="2">was initially faced with: we are still left with no explanation as to why children, or </text>
+<text top="449" left="106" width="607" height="18" font="2">individuals with DS, would treat one type of lexical item as if it were another.</text>
+<text top="445" left="711" width="13" height="11" font="9">26</text>
+<text top="449" left="725" width="16" height="18" font="2">   </text>
+<text top="471" left="106" width="685" height="18" font="2">  Another possibility would be to argue for a specific deficiency in the grammar of </text>
+<text top="495" left="106" width="684" height="18" font="2">individuals with DS, which causes a ‘delay’ in the acquisition of a syntactic principle </text>
+<text top="517" left="106" width="684" height="18" font="2">such as Principle A of standard BT (revealing a “Delay of Principle A Effect”), in line </text>
+<text top="540" left="106" width="684" height="18" font="2">with the ‘slow but normal’ characterisation of linguistic development in DS discussed </text>
+<text top="563" left="106" width="685" height="18" font="2">earlier. This again appears to be a mere reformulation of the problem. It is not clear </text>
+<text top="586" left="106" width="685" height="18" font="2">why individuals with such a grammar would obey one grammatical principle, and not </text>
+<text top="608" left="106" width="683" height="18" font="2">the other, if both principles underlie the same grammatical knowledge of Binding </text>
+<text top="632" left="106" width="684" height="18" font="2">Theory (BT). Recall that similar arguments were put forward in the accounts of the </text>
+<text top="654" left="106" width="684" height="18" font="2">DPBE in typical language acquisition. Furthermore, if Principle A was unavailable in </text>
+<text top="678" left="106" width="684" height="18" font="2">the grammar of DS, the subjects would be expected to rule in all the sentences </text>
+<text top="701" left="106" width="684" height="18" font="2">violating the Principle, and not to reject any constructions with reflexives as </text>
+<text top="723" left="106" width="573" height="18" font="2">ungrammatical. Our subjects’ performance did not show such a pattern.  </text>
+<text top="747" left="106" width="684" height="18" font="2">  The starting point in developing an explanation for the findings reported above will </text>
+<text top="769" left="106" width="684" height="18" font="2">be the same problem faced by researchers accounting for the DPBE in typical </text>
+<text top="792" left="106" width="684" height="18" font="2">language development. Recall that the acquisition data discussed in section 3 exposed </text>
+<text top="815" left="106" width="684" height="18" font="2">the inability of standard BT to account for the distinction between binding and </text>
+<text top="838" left="106" width="684" height="18" font="2">coreference. In this framework, interpretive dependencies crucially rely on structural </text>
+<text top="860" left="106" width="683" height="18" font="2">conditions on coindexing of nominal expressions, with Binding Principles presupposing </text>
+<text top="884" left="106" width="684" height="18" font="2">binding relations. However, this claim cannot hold with respect to constructions such </text>
+<text top="906" left="106" width="684" height="18" font="2">as (6), repeated here as (7), where pragmatic context makes it possible for the two </text>
+<text top="954" left="106" width="212" height="16" font="6">                                                </text>
+<text top="953" left="315" width="5" height="18" font="2"> </text>
+<text top="987" left="120" width="11" height="10" font="10">25</text>
+<text top="991" left="132" width="658" height="15" font="4"> To my knowledge, the pattern shown in the subjects with DS here has not been exhibited in other </text>
+<text top="1010" left="106" width="637" height="15" font="4">types of language disorders. Note, however, the literature on aphasia has also revealed the DPBE.  </text>
+<text top="1042" left="120" width="11" height="10" font="10">26</text>
+<text top="1046" left="132" width="657" height="15" font="4"> Baauw (2000), however, gives an analysis of DPBE in typical children in terms of incomplete feature </text>
+<text top="1065" left="106" width="578" height="15" font="4">acquisition, which forces children to misanalyse pronouns as if they were simplex anaphor, </text>
+<text top="1065" left="685" width="30" height="15" font="8"><i>zich.</i></text>
+<text top="1065" left="717" width="9" height="15" font="4">  </text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="106" width="22" height="15" font="4">438</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">NPs to corefer without being in a binding relation. Yet in the normal case, such </text>
+<text top="243" left="106" width="366" height="18" font="2">relations must also be blocked by principle A.  </text>
+<text top="265" left="106" width="5" height="18" font="2"> </text>
+<text top="290" left="106" width="592" height="18" font="2">(7)  I know what Bill and Mary have in common. Mary adores Bill and </text>
+<text top="290" left="699" width="29" height="18" font="12"><i>Bill</i></text>
+<text top="290" left="728" width="62" height="18" font="2"> adores </text>
+<text top="314" left="147" width="31" height="18" font="12"><i>him</i></text>
+<text top="314" left="178" width="46" height="18" font="2"> too.  </text>
+<text top="336" left="106" width="5" height="18" font="2"> </text>
+<text top="360" left="106" width="684" height="18" font="2">In the alternative framework of Binding Theory, as developed by Reinhart &amp; Reuland </text>
+<text top="382" left="106" width="684" height="18" font="2">(1993) (subsequently R&amp;R), this problem does not arise: interpretive dependencies do </text>
+<text top="405" left="106" width="684" height="18" font="2">not necessarily coincide with the syntactic relations nominal expressions enter into with </text>
+<text top="428" left="106" width="684" height="18" font="2">their antecedents. Binding Principles, as given in R&amp;R, can have locality effects even </text>
+<text top="451" left="106" width="684" height="18" font="2">if no binding relation is established. A hypothesis I shall explore here is that difficulties </text>
+<text top="473" left="106" width="684" height="18" font="2">with the comprehension of anaphors demonstrated by the subjects in the experimental </text>
+<text top="497" left="106" width="684" height="18" font="2">task in fact reveal a deficit in establishing certain syntactic dependencies, and not with </text>
+<text top="519" left="106" width="684" height="18" font="2">interpretive dependencies. To put it differently, my claim will be that binding, as the </text>
+<text top="542" left="106" width="684" height="18" font="2">expression of referential dependencies, is available in the grammar of individuals with </text>
+<text top="566" left="106" width="268" height="18" font="2">DS, but binding relations are not.</text>
+<text top="562" left="374" width="13" height="11" font="9">27</text>
+<text top="566" left="387" width="403" height="18" font="2"> The Reflexivity model therefore provides tools to </text>
+<text top="588" left="106" width="684" height="18" font="2">explore the apparent dissociation between binding principles and the syntactic relation </text>
+<text top="611" left="106" width="684" height="18" font="2">of binding in DS. Independent evidence for the claim that these subjects may have a </text>
+<text top="634" left="106" width="679" height="18" font="2">deficiency in establishing binding relations comes from their inability to form A-</text>
+<text top="657" left="106" width="684" height="18" font="2">dependencies in passive constructions. Before giving the full analysis of the data, it is </text>
+<text top="679" left="106" width="684" height="18" font="2">necessary to briefly outline some of the concepts of R&amp;R’s Reflexivity framework </text>
+<text top="703" left="106" width="209" height="18" font="2">relevant to our discussion. </text>
+<text top="725" left="106" width="5" height="18" font="2"> </text>
+<text top="749" left="106" width="24" height="18" font="3"><b>6.1</b></text>
+<text top="748" left="131" width="6" height="18" font="5"><b> </b></text>
+<text top="749" left="138" width="335" height="18" font="3"><b>Reflexivity (Reinhart &amp; Reuland, 1993) </b></text>
+<text top="771" left="106" width="5" height="18" font="2"> </text>
+<text top="794" left="106" width="685" height="18" font="2">The central notion of reflexivity refers to the idea that to be reflexive, a predicate must </text>
+<text top="818" left="106" width="684" height="18" font="2">have two of its arguments covalued. The reinterpreted principles of Binding Theory </text>
+<text top="840" left="106" width="679" height="18" font="2">rely on the assumption that reflexivity must be linguistically licensed (‘reflexive-</text>
+<text top="863" left="106" width="258" height="18" font="2">marked’), either in the lexicon</text>
+<text top="859" left="362" width="13" height="11" font="9">28</text>
+<text top="863" left="376" width="409" height="18" font="2"> (with the head of the predicate being reflexive-</text>
+<text top="894" left="106" width="212" height="16" font="6">                                                </text>
+<text top="893" left="315" width="5" height="18" font="2"> </text>
+<text top="928" left="120" width="11" height="10" font="10">27</text>
+<text top="931" left="132" width="658" height="15" font="4"> It is more than likely that the linguistic impairment in DS is caused by an interplay of a variety of </text>
+<text top="951" left="106" width="683" height="15" font="4">different factors. However, here we begin by assuming that only one particular problem is the cause of the </text>
+<text top="971" left="106" width="464" height="15" font="4">deficiency, and assume that the rest of the grammar is as given by UG.  </text>
+<text top="1002" left="120" width="11" height="10" font="10">28</text>
+<text top="1007" left="132" width="656" height="15" font="4"> Independent evidence that inherently reflexive predicates are marked so in the lexicon comes from </text>
+<text top="1027" left="106" width="327" height="15" font="4">Dutch nominalization (Reinhart &amp; Reuland, 1993):  </text>
+<text top="1046" left="120" width="151" height="15" font="4">(i)  Wassen is gezond.  </text>
+<text top="1065" left="120" width="5" height="15" font="4"> </text>
+<text top="1065" left="149" width="186" height="15" font="4">washing (oneself) is healthy   </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="17" size="10" family="TimesNewRoman,Italic" color="#000000"/>
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">439</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="221" left="106" width="65" height="18" font="2">marked)</text>
+<text top="218" left="171" width="3" height="11" font="9"> </text>
+<text top="221" left="176" width="535" height="18" font="2">or in syntax (with one of its arguments being the complex anaphor </text>
+<text top="221" left="709" width="28" height="18" font="12"><i>self</i></text>
+<text top="221" left="737" width="53" height="18" font="2">). The </text>
+<text top="244" left="106" width="684" height="18" font="2">standard Binding Principles A and B of Chomsky (1981) are thus replaced with the </text>
+<text top="266" left="106" width="270" height="18" font="2">following conditions on reflexivity:</text>
+<text top="264" left="375" width="13" height="11" font="9">29</text>
+<text top="266" left="388" width="10" height="18" font="2">  </text>
+<text top="290" left="106" width="5" height="18" font="2"> </text>
+<text top="312" left="106" width="584" height="18" font="2">(8)  Principle A: A reflexive marked syntactic predicate must be reflexive.</text>
+<text top="309" left="690" width="13" height="11" font="9">30</text>
+<text top="312" left="703" width="5" height="18" font="2"> </text>
+<text top="335" left="106" width="19" height="18" font="2">   </text>
+<text top="335" left="149" width="546" height="18" font="2">Principle B: A reflexive semantic predicate must be reflexive marked. </text>
+<text top="359" left="106" width="5" height="18" font="2"> </text>
+<text top="381" left="106" width="684" height="18" font="2">The important consequence of Binding Conditions, as stated in R&amp;R, is that they </text>
+<text top="404" left="106" width="684" height="18" font="2">account for the distribution of anaphors and (together with the revised chain theory) </text>
+<text top="427" left="106" width="552" height="18" font="2">pronouns, without stating any restrictions on their structural domains.  </text>
+<text top="451" left="106" width="195" height="18" font="2">  The complex anaphor </text>
+<text top="451" left="304" width="26" height="18" font="12"><i>self</i></text>
+<text top="451" left="331" width="460" height="18" font="2"> appears as an argument of a simple transitive verb that </text>
+<text top="473" left="106" width="684" height="18" font="2">has become reflexivized, with Condition B ruling out both the simplex anaphor and the </text>
+<text top="497" left="106" width="84" height="18" font="2">pronoun:   </text>
+<text top="519" left="106" width="5" height="18" font="2"> </text>
+<text top="543" left="106" width="98" height="18" font="2">(9)  a. John</text>
+<text top="552" left="205" width="3" height="11" font="9">i</text>
+<text top="543" left="208" width="107" height="18" font="2"> hates himself</text>
+<text top="552" left="316" width="3" height="11" font="9">i</text>
+<text top="543" left="320" width="16" height="18" font="2">/*</text>
+<text top="543" left="334" width="33" height="18" font="12"><i>zich</i></text>
+<text top="552" left="367" width="3" height="11" font="9">i</text>
+<text top="543" left="370" width="43" height="18" font="2">/*him</text>
+<text top="552" left="415" width="3" height="11" font="9">i</text>
+<text top="543" left="419" width="5" height="18" font="2"> </text>
+<text top="567" left="106" width="19" height="18" font="2">    </text>
+<text top="567" left="149" width="47" height="18" font="2">b. Jan</text>
+<text top="575" left="195" width="3" height="11" font="9">i</text>
+<text top="567" left="198" width="102" height="18" font="2"> haat zichzelf</text>
+<text top="575" left="302" width="3" height="11" font="9">i</text>
+<text top="567" left="305" width="47" height="18" font="2">/*zich</text>
+<text top="575" left="352" width="3" height="11" font="9">i</text>
+<text top="567" left="356" width="49" height="18" font="2">/*hem</text>
+<text top="575" left="404" width="3" height="11" font="9">i</text>
+<text top="567" left="407" width="10" height="18" font="2">  </text>
+<text top="589" left="106" width="5" height="18" font="2"> </text>
+<text top="612" left="106" width="684" height="18" font="2">Intrinsically reflexive predicates are marked so in the lexicon, as part of verb’s </text>
+<text top="635" left="106" width="434" height="18" font="2">functional semantics. In English, they are intransitive,</text>
+<text top="632" left="539" width="13" height="11" font="9">31</text>
+<text top="635" left="552" width="239" height="18" font="2"> whereas in Dutch and other </text>
+<text top="698" left="106" width="135" height="18" font="2">                              </text>
+<text top="698" left="269" width="135" height="18" font="2">                              </text>
+<text top="698" left="432" width="135" height="18" font="2">                              </text>
+<text top="698" left="596" width="135" height="18" font="2">                              </text>
+<text top="698" left="759" width="30" height="18" font="2">       </text>
+<text top="721" left="120" width="167" height="15" font="4">(ii)  Haten is niet gezond. </text>
+<text top="741" left="120" width="5" height="15" font="4"> </text>
+<text top="741" left="149" width="262" height="15" font="4">hating (only someone else) is unhealthy   </text>
+<text top="773" left="120" width="11" height="10" font="10">29</text>
+<text top="777" left="132" width="657" height="15" font="4"> Standard Principle C is subsumed under a distinct inferential module, along with the coreference </text>
+<text top="796" left="106" width="255" height="15" font="4">effects of Principle B (Reinhart 1983).  </text>
+<text top="828" left="120" width="11" height="10" font="10">30</text>
+<text top="832" left="132" width="592" height="15" font="4"> R&amp;R make the following distinction between syntactic predicates and semantic predicates:  </text>
+<text top="852" left="106" width="684" height="15" font="4">“The syntactic predicate formed of (a head) P is P, all its syntactic arguments and an external argument of </text>
+<text top="873" left="106" width="458" height="15" font="4">P (subject). The syntactic arguments of P are the projections assigned </text>
+<text top="867" left="565" width="9" height="21" font="13">θ</text>
+<text top="873" left="573" width="216" height="15" font="4">-role or Case by P. The semantic </text>
+<text top="892" left="106" width="597" height="15" font="4">predicate formed of P of P is P and all its arguments at the relevant semantic level.” (p. 678) </text>
+<text top="925" left="120" width="11" height="10" font="10">31</text>
+<text top="928" left="132" width="657" height="15" font="4"> Some English verbs seem ambiguous between being inherently reflexive and purely transitive </text>
+<text top="948" left="106" width="108" height="15" font="4">predicates (e.g. </text>
+<text top="948" left="218" width="39" height="15" font="8"><i>shave</i></text>
+<text top="948" left="257" width="7" height="15" font="4">, </text>
+<text top="948" left="269" width="34" height="15" font="8"><i>wash</i></text>
+<text top="948" left="304" width="485" height="15" font="4">). When inherently reflexive, they are intransitive and appear with one </text>
+<text top="967" left="106" width="110" height="15" font="4">argument only (</text>
+<text top="967" left="213" width="85" height="15" font="8"><i>John shaves</i></text>
+<text top="967" left="299" width="490" height="15" font="4">). When transitive, they can take an object distinct in reference from the </text>
+<text top="987" left="106" width="59" height="15" font="4">subject (</text>
+<text top="987" left="163" width="131" height="15" font="8"><i>John shaved Peter</i></text>
+<text top="987" left="294" width="495" height="15" font="4">), or become reflexivized just like any other pure transitive predicate, with </text>
+<text top="1007" left="106" width="484" height="15" font="4">their internal argument appearing in the form of a complex anaphor (</text>
+<text top="1007" left="586" width="32" height="15" font="8"><i>John</i></text>
+<text top="1013" left="620" width="3" height="10" font="17"><i>i</i></text>
+<text top="1007" left="623" width="108" height="15" font="8"><i> shaves himself</i></text>
+<text top="1013" left="732" width="3" height="10" font="17"><i>i</i></text>
+<text top="1007" left="736" width="52" height="15" font="4">). Each </text>
+<text top="1027" left="106" width="582" height="15" font="4">occurrence of the predicate is listed separately in the lexicon. In Dutch these verbs (e.g. </text>
+<text top="1027" left="687" width="34" height="15" font="8"><i>wash</i></text>
+<text top="1027" left="722" width="66" height="15" font="4">) show up </text>
+<text top="1046" left="106" width="177" height="15" font="4">with the simplex anaphor </text>
+<text top="1046" left="287" width="27" height="15" font="8"><i>zich</i></text>
+<text top="1046" left="314" width="211" height="15" font="4"> when inherently reflexive and </text>
+<text top="1046" left="529" width="49" height="15" font="8"><i>zichzelf</i></text>
+<text top="1046" left="579" width="210" height="15" font="4">, when not inherently reflexive </text>
+<text top="1065" left="106" width="136" height="15" font="4">transitive predicates. </text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="18" size="16" family="TimesNewRoman,BoldItalic" color="#000000"/>
+<text top="181" left="106" width="22" height="15" font="4">440</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">languages that have a contrast between a complex and a simplex anaphor, inherently </text>
+<text top="244" left="106" width="400" height="18" font="2">reflexive predicates overtly realise their internal </text>
+<text top="239" left="514" width="10" height="24" font="11">θ</text>
+<text top="244" left="524" width="264" height="18" font="2">-role in the form of a simplex </text>
+<text top="266" left="106" width="78" height="18" font="2">anaphor:  </text>
+<text top="290" left="106" width="5" height="18" font="2"> </text>
+<text top="312" left="106" width="80" height="18" font="2">(10)  John</text>
+<text top="321" left="186" width="3" height="11" font="9">i</text>
+<text top="312" left="188" width="70" height="18" font="2"> behaves</text>
+<text top="321" left="257" width="3" height="11" font="9">i</text>
+<text top="312" left="260" width="5" height="18" font="12"><i> </i></text>
+<text top="312" left="266" width="133" height="18" font="2">/*himself/*him.  </text>
+<text top="335" left="106" width="69" height="18" font="2">(11)  Jan</text>
+<text top="344" left="174" width="3" height="11" font="9">i</text>
+<text top="335" left="178" width="108" height="18" font="2"> gedraagt zich</text>
+<text top="344" left="286" width="3" height="11" font="9">i</text>
+<text top="335" left="289" width="75" height="18" font="2">/*zichzelf</text>
+<text top="344" left="363" width="3" height="11" font="9">i</text>
+<text top="335" left="367" width="49" height="18" font="2">/*hem</text>
+<text top="344" left="416" width="7" height="11" font="9">i.</text>
+<text top="335" left="423" width="10" height="18" font="2">  </text>
+<text top="360" left="106" width="19" height="18" font="2">   </text>
+<text top="360" left="149" width="111" height="18" font="2">John behaves </text>
+<text top="360" left="259" width="37" height="18" font="12"><i>zich </i></text>
+<text top="360" left="297" width="122" height="18" font="2">/*himself/*him  </text>
+<text top="382" left="106" width="5" height="18" font="2"> </text>
+<text top="405" left="106" width="679" height="18" font="2">Since the predicate in (10), (11) is inherently reflexive, there is no need to reflexive-</text>
+<text top="428" left="106" width="685" height="18" font="2">mark it in syntax by the complex anaphor; the conditions on reflexivity are satisfied. </text>
+<text top="451" left="106" width="564" height="18" font="2">The revised chain condition excludes pronouns from the same context.</text>
+<text top="447" left="669" width="12" height="11" font="9">32</text>
+<text top="451" left="682" width="108" height="18" font="2"> However, in </text>
+<text top="473" left="106" width="684" height="18" font="2">absence of the simplex anaphor, the anaphoric systems of some languages allow </text>
+<text top="497" left="106" width="684" height="18" font="2">pronouns to appear as syntactic arguments of inherently reflexive verbs, in the same </text>
+<text top="519" left="106" width="226" height="18" font="2">way as simplex anaphors do.</text>
+<text top="516" left="331" width="13" height="11" font="9">33</text>
+<text top="519" left="344" width="395" height="18" font="2"> Frisian displays a pattern different from to Dutch:</text>
+<text top="516" left="738" width="12" height="11" font="9">34</text>
+<text top="519" left="750" width="5" height="18" font="2"> </text>
+<text top="542" left="106" width="5" height="18" font="2"> </text>
+<text top="566" left="106" width="79" height="18" font="2">(12)  Max</text>
+<text top="574" left="183" width="3" height="11" font="9">i</text>
+<text top="566" left="186" width="73" height="18" font="2"> hâld him</text>
+<text top="574" left="259" width="3" height="11" font="9">i</text>
+<text top="566" left="262" width="71" height="18" font="2">/*himsels</text>
+<text top="574" left="335" width="3" height="11" font="9">i</text>
+<text top="562" left="339" width="13" height="11" font="9">35</text>
+<text top="566" left="352" width="5" height="18" font="2"> </text>
+<text top="624" left="106" width="135" height="18" font="2">                              </text>
+<text top="624" left="269" width="135" height="18" font="2">                              </text>
+<text top="624" left="432" width="135" height="18" font="2">                              </text>
+<text top="624" left="596" width="135" height="18" font="2">                              </text>
+<text top="624" left="759" width="30" height="18" font="2">       </text>
+<text top="647" left="120" width="312" height="15" font="4">Following the design of Chien &amp; Wexler (1990), </text>
+<text top="647" left="432" width="35" height="15" font="8"><i>wash</i></text>
+<text top="647" left="467" width="322" height="15" font="4"> was one of the verbs used in the experiment. We </text>
+<text top="667" left="106" width="684" height="15" font="4">assume that our subjects treated it as a transitive predicate, as no differences were found in their </text>
+<text top="686" left="106" width="256" height="15" font="4">performance on this verb as opposed to </text>
+<text top="686" left="361" width="23" height="15" font="8"><i>dry</i></text>
+<text top="686" left="385" width="31" height="15" font="4"> and </text>
+<text top="686" left="416" width="38" height="15" font="8"><i>touch</i></text>
+<text top="686" left="455" width="254" height="15" font="4">, verbs that have transitive entries only. </text>
+<text top="719" left="120" width="11" height="10" font="10">32</text>
+<text top="722" left="132" width="653" height="15" font="4"> Arguing that any sequence of coindexed elements meeting the restrictions on government and c-</text>
+<text top="742" left="106" width="683" height="15" font="4">command is a chain, R&amp;R claim that chains also have to satisfy the well-formedness condition: only the </text>
+<text top="761" left="106" width="682" height="15" font="4">head of the chain must be referential, not the tail. Having referential content, pronouns are excluded from </text>
+<text top="782" left="106" width="104" height="15" font="4">the tail position. </text>
+<text top="813" left="120" width="11" height="10" font="10">33</text>
+<text top="818" left="132" width="365" height="15" font="4"> Simplex anaphors have been found to parallel pronouns</text>
+<text top="818" left="497" width="5" height="15" font="14"><b> </b></text>
+<text top="818" left="502" width="287" height="15" font="4">in a number of la nguages, most importantly, </text>
+<text top="837" left="106" width="318" height="15" font="4">by allowing them to be locally bound. In Dutch, </text>
+<text top="837" left="425" width="27" height="15" font="8"><i>zich</i></text>
+<text top="837" left="452" width="336" height="15" font="4"> is used with inherently reflexive verbs only in third </text>
+<text top="856" left="106" width="682" height="15" font="4">person, for first and second person locally bound pronouns are used (in blatant violation of Principle B in </text>
+<text top="876" left="106" width="93" height="15" font="4">standard BT). </text>
+<text top="895" left="120" width="41" height="15" font="4">(i)  Ik</text>
+<text top="901" left="161" width="3" height="10" font="10">i</text>
+<text top="895" left="164" width="54" height="15" font="4"> was me</text>
+<text top="901" left="219" width="3" height="10" font="10">i</text>
+<text top="895" left="222" width="5" height="15" font="18"><i><b> </b></i></text>
+<text top="915" left="120" width="5" height="15" font="4"> </text>
+<text top="915" left="149" width="72" height="15" font="4">I wash me </text>
+<text top="947" left="120" width="11" height="10" font="10">34</text>
+<text top="951" left="132" width="653" height="15" font="4"> As expected, Frisian sides with English and Dutch in the case of transitive predicates, reflexive-</text>
+<text top="971" left="106" width="328" height="15" font="4">marked in syntax, where only the complex anaphor </text>
+<text top="971" left="434" width="23" height="15" font="8"><i>self</i></text>
+<text top="971" left="459" width="80" height="15" font="4"> is allowed:  </text>
+<text top="991" left="120" width="58" height="15" font="4">(i)  Max</text>
+<text top="997" left="178" width="3" height="10" font="10">i</text>
+<text top="991" left="181" width="86" height="15" font="4"> hatet himsels</text>
+<text top="997" left="268" width="3" height="10" font="10">i</text>
+<text top="991" left="271" width="35" height="15" font="4">/*him</text>
+<text top="997" left="306" width="6" height="10" font="10">i </text>
+<text top="1010" left="120" width="5" height="15" font="4"> </text>
+<text top="1010" left="149" width="153" height="15" font="4">Max hates himself/him   </text>
+<text top="1042" left="120" width="11" height="10" font="10">35</text>
+<text top="1046" left="132" width="158" height="15" font="4">An explanation for why </text>
+<text top="1046" left="290" width="28" height="15" font="8"><i>zich</i></text>
+<text top="1046" left="318" width="471" height="15" font="4"> is generally preferred to pronouns in appearing with inherently reflexive </text>
+<text top="1065" left="106" width="683" height="15" font="4">predicates in languages like Frisian has been proposed in terms of economy effects (Reuland, 1997): </text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">441</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="19" height="18" font="2">   </text>
+<text top="220" left="149" width="223" height="18" font="2">Max behaves him/*himself   </text>
+<text top="220" left="425" width="9" height="18" font="3"><b>  </b></text>
+<text top="243" left="106" width="5" height="18" font="2"> </text>
+<text top="265" left="106" width="683" height="18" font="2">The Reflexivity framework also copes with the long standing issue of complex </text>
+<text top="289" left="106" width="684" height="18" font="2">anaphors occurring in non-local domains. In the following constructions, the anaphor </text>
+<text top="311" left="106" width="685" height="18" font="2">is not a syntactic argument of the predicate, so the Condition A as given in (8) is not </text>
+<text top="334" left="106" width="75" height="18" font="2">violated:  </text>
+<text top="357" left="106" width="5" height="18" font="2"> </text>
+<text top="380" left="106" width="80" height="18" font="2">(13)  John</text>
+<text top="389" left="186" width="3" height="11" font="9">i</text>
+<text top="380" left="188" width="247" height="18" font="2"> pulled the blanket over himself</text>
+<text top="389" left="434" width="3" height="11" font="9">i</text>
+<text top="380" left="438" width="35" height="18" font="2">/him</text>
+<text top="389" left="473" width="3" height="11" font="9">i</text>
+<text top="380" left="476" width="10" height="18" font="2">. </text>
+<text top="402" left="106" width="487" height="18" font="2">(14)  There were five tourists in the room apart from myself.  </text>
+<text top="426" left="106" width="350" height="18" font="2">(15)  Physicists like yourself are a godsend.  </text>
+<text top="449" left="106" width="5" height="18" font="2"> </text>
+<text top="471" left="106" width="5" height="18" font="2"> </text>
+<text top="496" left="106" width="24" height="18" font="3"><b>6.2</b></text>
+<text top="495" left="131" width="6" height="18" font="5"><b> </b></text>
+<text top="496" left="138" width="212" height="18" font="3"><b>Analysis and predictions </b></text>
+<text top="517" left="106" width="5" height="18" font="2"> </text>
+<text top="540" left="106" width="684" height="18" font="2">The hypothesis presented above was that DS subjects will not be able to establish </text>
+<text top="563" left="106" width="684" height="18" font="2">binding relations, but they will show knowledge of conditions on reflexivity as defined </text>
+<text top="586" left="106" width="684" height="18" font="2">in (8). Applying R&amp;R’s framework to the present results, it is clear that these subjects </text>
+<text top="608" left="106" width="684" height="18" font="2">showed difficulties understanding constructions involving a transitive predicate </text>
+<text top="632" left="106" width="330" height="18" font="2">reflexive-marked by the complex anaphor:</text>
+<text top="628" left="435" width="13" height="11" font="9">36</text>
+<text top="632" left="449" width="10" height="18" font="2">  </text>
+<text top="654" left="106" width="5" height="18" font="2"> </text>
+<text top="678" left="106" width="140" height="18" font="2">(16)  Snow White</text>
+<text top="686" left="245" width="3" height="11" font="9">i</text>
+<text top="678" left="249" width="129" height="18" font="2"> is drying herself</text>
+<text top="686" left="378" width="3" height="11" font="9">i</text>
+<text top="678" left="381" width="5" height="18" font="2">.</text>
+<text top="674" left="387" width="3" height="11" font="9"> </text>
+<text top="678" left="390" width="5" height="18" font="2"> </text>
+<text top="701" left="106" width="5" height="18" font="2"> </text>
+<text top="723" left="106" width="684" height="18" font="2">Their poor performance on the reflexive structures supports the above hypothesis: DS </text>
+<text top="748" left="106" width="343" height="18" font="2">subjects do not seem to be able to use the </text>
+<text top="748" left="450" width="27" height="18" font="12"><i>self</i></text>
+<text top="748" left="477" width="313" height="18" font="2"> anaphor as an argument of a reflexive </text>
+<text top="770" left="106" width="684" height="18" font="2">predicate, because they are not able to bind it in syntax. They may very well be aware </text>
+<text top="794" left="106" width="318" height="18" font="2">of the special function of the anaphor </text>
+<text top="794" left="428" width="27" height="18" font="12"><i>self</i></text>
+<text top="794" left="455" width="335" height="18" font="2">, namely to impose reflexivization on the </text>
+<text top="818" left="106" width="684" height="18" font="2">predicate, but they cannot establish the syntactic relation between the anaphor and its </text>
+<text top="840" left="106" width="684" height="18" font="2">antecedent. Independent evidence for a specific deficiency in forming A-dependencies </text>
+<text top="863" left="106" width="684" height="18" font="2">comes  from reports on the production and comprehension of passives: passive </text>
+<text top="886" left="106" width="685" height="18" font="2">constructions are known to be extremely problematic for the DS population (Fowler, </text>
+<text top="909" left="106" width="135" height="18" font="2">                              </text>
+<text top="909" left="269" width="135" height="18" font="2">                              </text>
+<text top="909" left="432" width="135" height="18" font="2">                              </text>
+<text top="909" left="596" width="135" height="18" font="2">                              </text>
+<text top="909" left="759" width="30" height="18" font="2">       </text>
+<text top="931" left="106" width="683" height="15" font="4">anaphoric binding is an option cheaper than variable binding. When the cheapest option is not available, the </text>
+<text top="951" left="106" width="468" height="15" font="4">anaphoric system of a language will have to opt for the use of pronouns.  </text>
+<text top="983" left="120" width="11" height="10" font="10">36</text>
+<text top="987" left="132" width="657" height="15" font="4"> It is important to note that some of the subjects did not just provide incorrect answers to the </text>
+<text top="1007" left="106" width="521" height="15" font="4">experimental questions involving transitive predicates reflexive-marked by the </text>
+<text top="1007" left="630" width="23" height="15" font="8"><i>self</i></text>
+<text top="1007" left="654" width="134" height="15" font="4"> anaphor: DA often </text>
+<text top="1027" left="106" width="682" height="15" font="4">could not provide any answer (subsequently coded as incorrect), showing a great deal of hesitation and </text>
+<text top="1046" left="106" width="683" height="15" font="4">frustration as a result. This seems to reveal the inability to bind the anaphor to the antecedent, with the </text>
+<text top="1065" left="106" width="215" height="15" font="4">anaphor remaining uninterpreted. </text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="19" size="19" family="Arial" color="#000000"/>
+<text top="181" left="106" width="22" height="15" font="4">442</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="18" font="2">1990). The results reported here also support this claim: all four subjects failed the </text>
+<text top="243" left="106" width="556" height="18" font="2">task on passives on the test of comprehension of grammar (TROG).    </text>
+<text top="265" left="106" width="684" height="18" font="2">  The hypothesis predicts that DS subjects would, however, show knowledge of the </text>
+<text top="289" left="106" width="684" height="18" font="2">conditions on reflexivity. This is indeed shown in their performance on experimental </text>
+<text top="311" left="106" width="684" height="18" font="2">conditions involving a pronoun as one of the covalued arguments of a transitive </text>
+<text top="334" left="106" width="684" height="18" font="2">predicate that has not been reflexive marked in syntax, in violation of Condition B, as </text>
+<text top="357" left="106" width="685" height="18" font="2">stated in (8). The subjects correctly rejected violations of Condition B nearly 100% of </text>
+<text top="380" left="106" width="78" height="18" font="2">the time:  </text>
+<text top="402" left="106" width="5" height="18" font="2"> </text>
+<text top="426" left="106" width="150" height="18" font="2">(17)  *Snow White</text>
+<text top="435" left="255" width="3" height="11" font="9">i</text>
+<text top="426" left="258" width="103" height="18" font="2"> is drying her</text>
+<text top="435" left="360" width="3" height="11" font="9">i</text>
+<text top="426" left="363" width="16" height="18" font="2">.  </text>
+<text top="449" left="106" width="5" height="18" font="2"> </text>
+<text top="471" left="106" width="684" height="18" font="2">If this analysis is on the right track, it should be possible to predict how a deficit in </text>
+<text top="495" left="106" width="684" height="18" font="2">establishing syntactic dependencies could affect the general use of pronominals in </text>
+<text top="517" left="106" width="677" height="18" font="2">reflexive and non-reflexive predicates in DS. The following predictions may be made:  </text>
+<text top="540" left="106" width="16" height="18" font="2">(i)</text>
+<text top="539" left="123" width="6" height="18" font="19"> </text>
+<text top="540" left="156" width="634" height="18" font="2">Production and comprehension of inherently reflexive verbs in English should </text>
+<text top="563" left="158" width="631" height="18" font="2">pose no difficulty. These verbs are intransitive and no establishing of binding </text>
+<text top="587" left="158" width="173" height="18" font="2">relation is needed (cf. </text>
+<text top="587" left="332" width="177" height="18" font="12"><i>John shaves every day</i></text>
+<text top="587" left="510" width="17" height="18" font="2">). </text>
+<text top="609" left="106" width="21" height="18" font="2">(ii)</text>
+<text top="609" left="127" width="6" height="18" font="19"> </text>
+<text top="609" left="156" width="634" height="18" font="2">Inherently reflexive verbs in languages like Frisian, where a pronoun is used as </text>
+<text top="633" left="158" width="633" height="18" font="2">the argument of the predicate, would be used and comprehended without </text>
+<text top="656" left="158" width="86" height="18" font="2">difficulty.  </text>
+<text top="679" left="106" width="26" height="18" font="2">(iii)</text>
+<text top="679" left="132" width="6" height="18" font="19"> </text>
+<text top="679" left="156" width="506" height="18" font="2">Transitive predicates reflexive-marked by the complex anaphor </text>
+<text top="679" left="664" width="27" height="18" font="12"><i>self</i></text>
+<text top="679" left="691" width="99" height="18" font="2"> should also </text>
+<text top="703" left="158" width="380" height="18" font="2">pose difficulties in languages other than English. </text>
+<text top="725" left="106" width="27" height="18" font="2">(iv)</text>
+<text top="725" left="133" width="6" height="18" font="19"> </text>
+<text top="725" left="156" width="635" height="18" font="2">Logophoric use of anaphors, in constructions such as (13), (14), (15) should not </text>
+<text top="748" left="158" width="570" height="18" font="2">be problematic. In these constructions, no A-dependency is established.  </text>
+<text top="771" left="106" width="22" height="18" font="2">(v)</text>
+<text top="771" left="128" width="6" height="18" font="19"> </text>
+<text top="771" left="156" width="634" height="18" font="2">In languages that use a simplex anaphor with inherently reflexive verbs, such as </text>
+<text top="794" left="158" width="632" height="18" font="2">Dutch, distinct patterns in the use and comprehension of these verbs may be </text>
+<text top="818" left="158" width="632" height="18" font="2">expected. Being unable to establish syntactic dependencies, individuals with DS </text>
+<text top="840" left="158" width="632" height="18" font="2">would show a poor comprehension of reflexive structures, in line with the data </text>
+<text top="863" left="158" width="632" height="18" font="2">reported here. However, when using inherently reflexive predicates, they may </text>
+<text top="886" left="158" width="632" height="18" font="2">resort to whatever is available in their anaphoric system to realise the syntactic </text>
+<text top="909" left="158" width="632" height="18" font="2">argument of the inherently reflexive predicate, and use a locally bound pronoun </text>
+<text top="931" left="158" width="543" height="18" font="2">in place of the anaphor, in line with the pattern evidenced in Frisian.  </text>
+<text top="955" left="106" width="5" height="18" font="2"> </text>
+<text top="977" left="106" width="5" height="18" font="2"> </text>
+<text top="1001" left="106" width="10" height="18" font="3"><b>7</b></text>
+<text top="1000" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="1001" left="122" width="108" height="18" font="3"><b>Conclusions </b></text>
+<text top="1023" left="106" width="5" height="18" font="2"> </text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">443</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="685" height="18" font="2">The data reported here provide evidence against the claim that language development </text>
+<text top="243" left="106" width="685" height="18" font="2">in DS is severely delayed but essentially non-deviant. The comprehension pattern for </text>
+<text top="265" left="106" width="684" height="18" font="2">anaphors as opposed to pronouns evidenced by the four girls with DS tested in this </text>
+<text top="289" left="106" width="684" height="18" font="2">study is not confirmed in typically developing children at any stage of linguistic </text>
+<text top="311" left="106" width="683" height="18" font="2">development. The DS subjects’ performance on experimental conditions involving </text>
+<text top="334" left="106" width="684" height="18" font="2">reflexives and pronouns differ from the performance of typical children in two crucial </text>
+<text top="357" left="106" width="78" height="18" font="2">respects:  </text>
+<text top="380" left="106" width="16" height="18" font="2">(i)</text>
+<text top="379" left="123" width="6" height="18" font="19"> </text>
+<text top="380" left="158" width="631" height="18" font="2">Poor performance on experimental conditions involving anaphoric binding </text>
+<text top="402" left="158" width="632" height="18" font="2">points to a syntactic deficit in the grammar of DS, related to the inability to </text>
+<text top="426" left="158" width="633" height="18" font="2">form syntactic dependencies. In contrast, typical children are found to correctly </text>
+<text top="449" left="158" width="525" height="18" font="2">reject locally bound anaphors at early ages of language acquisition. </text>
+<text top="471" left="106" width="21" height="18" font="2">(ii)</text>
+<text top="470" left="127" width="6" height="18" font="19"> </text>
+<text top="471" left="158" width="632" height="18" font="2">Faultless performance by the DS subjects on conditions involving pronouns </text>
+<text top="495" left="158" width="632" height="18" font="2">demonstrates knowledge of Binding Principles (as given in the Reflexivity </text>
+<text top="517" left="158" width="632" height="18" font="2">framework of Reinhart &amp; Reuland, 1993), as well as the pragmatic/general </text>
+<text top="540" left="158" width="633" height="18" font="2">inferential constraint such as Principle P/Rule I (Chien &amp; Wexler, 1990; </text>
+<text top="563" left="158" width="632" height="18" font="2">Grodzinsky &amp; Reinhart, 1993) which rules out illicit coreferential interpretations </text>
+<text top="586" left="158" width="634" height="18" font="2">of pronouns. The latter constraint is argued to be unavaila ble to young children, </text>
+<text top="608" left="158" width="632" height="18" font="2">forcing them to perform at chance level on constructions involving pronouns </text>
+<text top="632" left="158" width="266" height="18" font="2">bound by referential antecedents. </text>
+<text top="654" left="106" width="5" height="18" font="2"> </text>
+<text top="678" left="106" width="5" height="18" font="2"> </text>
+<text top="702" left="106" width="95" height="18" font="3"><b>References </b></text>
+<text top="723" left="106" width="5" height="18" font="2"> </text>
+<text top="747" left="106" width="682" height="15" font="4">Avrutin, S. &amp; K. Wexler (1992) Development of Principle B in Russian: Coindexation at LF and </text>
+<text top="766" left="120" width="86" height="15" font="4">coreference. </text>
+<text top="766" left="207" width="149" height="15" font="8"><i>Language Acquisition</i></text>
+<text top="766" left="357" width="75" height="15" font="4"> 2:259-306. </text>
+<text top="785" left="106" width="119" height="15" font="4">Baauw, S. (2000) </text>
+<text top="785" left="225" width="566" height="15" font="8"><i>Grammatical Features and the Acquisition of Reference: A Comparative Study of </i></text>
+<text top="805" left="120" width="131" height="15" font="8"><i>Dutch and Spanish</i></text>
+<text top="805" left="252" width="216" height="15" font="4">. Utrecht Institute of Linguistics.  </text>
+<text top="824" left="106" width="652" height="15" font="4">Bol, G. &amp; F. Kuiken (1990) Grammatical analysis of developmental language disorders: a study of the </text>
+<text top="845" left="120" width="651" height="15" font="4">morphosyntax of children with specific language disorders, with hearing impairment and with Down’s </text>
+<text top="864" left="120" width="70" height="15" font="4">syndrome. </text>
+<text top="864" left="191" width="237" height="15" font="8"><i>Clinical Linguistics and Phonetics </i></text>
+<text top="864" left="429" width="51" height="15" font="4">4:77-86 </text>
+<text top="884" left="106" width="682" height="15" font="4">Chapman, R. (1995) Language development in children and adolescents with Down syndrome. In </text>
+<text top="903" left="120" width="225" height="15" font="4">Fletcher, P. &amp; MacWinney (eds.). </text>
+<text top="903" left="345" width="234" height="15" font="8"><i>The Handbook of Child Language</i></text>
+<text top="903" left="581" width="134" height="15" font="4">. Oxford: Blackwell. </text>
+<text top="923" left="106" width="682" height="15" font="4">Chapman, R., S. Schwartz &amp; E. Kay-Raining Bird (1991) Language skills of children and adolescents with </text>
+<text top="942" left="120" width="237" height="15" font="4">Down syndrome: I. Comprehension. </text>
+<text top="942" left="357" width="292" height="15" font="8"><i>Journal of Speech and Hearing Research, </i></text>
+<text top="942" left="649" width="95" height="15" font="4">34:1106-1120. </text>
+<text top="962" left="106" width="682" height="15" font="4">Chapman, R., H-K. Seung, S. Schwartz &amp; E. Kay-Raining Bird (1998) Language skills of children and </text>
+<text top="982" left="120" width="325" height="15" font="4">adolescents with Down Syndrome: II. Production. </text>
+<text top="982" left="446" width="293" height="15" font="8"><i>Journal of Speech and Hearing Research, </i></text>
+<text top="982" left="739" width="46" height="15" font="4">41:861-</text>
+<text top="1001" left="120" width="28" height="15" font="4">873 </text>
+<text top="1021" left="106" width="683" height="15" font="4">Chien Y.-C. &amp; K. Wexler (1990) Children's knowledge of locality conditions in binding as evidence for the </text>
+<text top="1040" left="120" width="241" height="15" font="4">modularity of syntax and pragmatics. </text>
+<text top="1040" left="360" width="154" height="15" font="8"><i>Language Acquisition </i></text>
+<text top="1040" left="514" width="75" height="15" font="4">1: 225-295. </text>
+<text top="1061" left="106" width="134" height="15" font="4">Chomsky, N. (1981) </text>
+<text top="1061" left="240" width="255" height="15" font="8"><i>Lectures on Government and Binding</i></text>
+<text top="1061" left="495" width="122" height="15" font="4">. Dordrecht: Foris. </text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="106" width="22" height="15" font="4">444</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="134" height="15" font="4">Chomsky, N. (1986) </text>
+<text top="220" left="240" width="360" height="15" font="8"><i>Knowledge of Language: Its Nature, Origin and Use</i></text>
+<text top="220" left="600" width="149" height="15" font="4">. New York: Praeger.  </text>
+<text top="239" left="106" width="682" height="15" font="4">Dodd, B. (1976) A comparison of the phonological system of mental age matched normal, severely </text>
+<text top="260" left="120" width="279" height="15" font="4">subnormal and Down’s syndrome children. </text>
+<text top="260" left="398" width="326" height="15" font="8"><i>British Journal of Disorders of Communication </i></text>
+<text top="260" left="725" width="68" height="15" font="4">11:27-42.  </text>
+<text top="279" left="106" width="683" height="15" font="4">Fabretti, D., E. Pizzuto, S. Vicari, &amp; V. Volterra (1997) A story description task in children with Down’s </text>
+<text top="298" left="120" width="314" height="15" font="4">syndrome: lexical and morphosyntactic abilities. </text>
+<text top="298" left="438" width="296" height="15" font="8"><i>Journal of Intellectual Disability Research</i></text>
+<text top="298" left="734" width="52" height="15" font="4"> 41:165-</text>
+<text top="318" left="120" width="33" height="15" font="4">179  </text>
+<text top="337" left="106" width="682" height="15" font="4">Facon, B., J.-C. Grubar &amp; C. Gardez (1998) Chronological  age and receptive vocabulary of persons with </text>
+<text top="357" left="120" width="115" height="15" font="4">Down syndrome. </text>
+<text top="357" left="235" width="157" height="15" font="8"><i>Psychological Reports </i></text>
+<text top="357" left="393" width="82" height="15" font="4">82: 723-726. </text>
+<text top="377" left="106" width="684" height="15" font="4">Fowler, A. (1988) Determinants of rate of language growth in children with Down syndrome. In Nadel, L. </text>
+<text top="397" left="120" width="39" height="15" font="4">(ed.). </text>
+<text top="397" left="160" width="264" height="15" font="8"><i>The Psychobiology of Down Syndrome</i></text>
+<text top="397" left="425" width="198" height="15" font="4">. Cambridge, MA: MIT Press. </text>
+<text top="416" left="106" width="682" height="15" font="4">Fowler, A. (1990) Language abilities in children with Down syndrome: evidence for a specific delay. In </text>
+<text top="436" left="120" width="244" height="15" font="4">Cicchetti, D. &amp; M. Beeghley. (eds.). </text>
+<text top="436" left="363" width="418" height="15" font="8"><i>Children with Down Syndrome: A Developmental Perspective</i></text>
+<text top="436" left="781" width="9" height="15" font="4">. </text>
+<text top="455" left="120" width="267" height="15" font="4">Cambridge: Cambridge University Press. </text>
+<text top="474" left="106" width="682" height="15" font="4">Fowler,  A., R. Gelman &amp; L. Gleitman (1994) The course of language learning in children with Down </text>
+<text top="495" left="120" width="260" height="15" font="4">syndrome. In Trager-Flusberg, H. (ed.). </text>
+<text top="495" left="380" width="254" height="15" font="8"><i>Constraints on Language Acquisition</i></text>
+<text top="495" left="635" width="4" height="15" font="4">.</text>
+<text top="495" left="639" width="5" height="15" font="8"><i> </i></text>
+<text top="495" left="642" width="41" height="15" font="4">LEA. </text>
+<text top="514" left="106" width="533" height="15" font="4">Grodzinsky, Y. &amp; T. Reinhart (1993) The innateness of binding and coreference. </text>
+<text top="514" left="639" width="127" height="15" font="8"><i>Linguistic Inquiry </i></text>
+<text top="514" left="767" width="22" height="15" font="4">24: </text>
+<text top="534" left="120" width="48" height="15" font="4">69-101 </text>
+<text top="553" left="106" width="616" height="15" font="4">Jakubowicz, C. (1984) On markedness and binding principles. In Jones, C. &amp; P. Sells (eds.). </text>
+<text top="553" left="722" width="43" height="15" font="8"><i>NELS </i></text>
+<text top="553" left="766" width="24" height="15" font="4">14. </text>
+<text top="573" left="120" width="259" height="15" font="4">Amherst: University of Massachusetts.  </text>
+<text top="593" left="106" width="683" height="15" font="4">Kernan, K. &amp; S. Sabsay (1996) Linguistic and cognitive ability of adults with Down syndrome and mental </text>
+<text top="612" left="120" width="210" height="15" font="4">retardation of unknown etiology. </text>
+<text top="612" left="331" width="254" height="15" font="8"><i>Journal of Communication Disorders</i></text>
+<text top="612" left="585" width="79" height="15" font="4"> 29:401-422 </text>
+<text top="632" left="106" width="682" height="15" font="4">Marcel, M., M. Ridgeway, D. Sewell &amp; M. Whelan (1995) Sentence imitation by adolescents and young </text>
+<text top="651" left="120" width="430" height="15" font="4">adults with Down’s syndrome and other intellectual disabilities. </text>
+<text top="651" left="554" width="235" height="15" font="8"><i>Journal of Intellectual Disability </i></text>
+<text top="671" left="120" width="68" height="15" font="8"><i>Research </i></text>
+<text top="671" left="188" width="83" height="15" font="4">39: 215-232. </text>
+<text top="690" left="106" width="609" height="15" font="4">McKee, C. (1992) A comparison of pronouns and anaphors in Italian and English acquisition. </text>
+<text top="690" left="717" width="72" height="15" font="8"><i>Language </i></text>
+<text top="711" left="120" width="81" height="15" font="8"><i>Acquisition </i></text>
+<text top="711" left="201" width="52" height="15" font="4">2:21-54 </text>
+<text top="730" left="106" width="682" height="15" font="4">Miller, J. (1987) Language and communication characteristics of children with Down syndrome. In </text>
+<text top="750" left="120" width="476" height="15" font="4">Pueschel, S., C. Tingey, J. Rynders, A. Crocker &amp; D. Crutcher (eds.). </text>
+<text top="750" left="597" width="191" height="15" font="8"><i>New Perspectives on Down </i></text>
+<text top="769" left="120" width="67" height="15" font="8"><i>Syndrome</i></text>
+<text top="769" left="188" width="178" height="15" font="4">. Baltimore: Paul Brookes.  </text>
+<text top="788" left="106" width="682" height="15" font="4">Miller, J. (1988) The developmental asynchrony of language development in children with Down </text>
+<text top="809" left="120" width="192" height="15" font="4">syndrome. In Nadel, L. (ed.). </text>
+<text top="809" left="313" width="262" height="15" font="8"><i>The Psychobiology of Down Syndrome</i></text>
+<text top="809" left="577" width="199" height="15" font="4">. Cambridge, MA: MIT Press. </text>
+<text top="828" left="106" width="684" height="15" font="4">Philip, W. &amp; P. Coopmans (1996) The double Dutch delay of Principle B effect. In Stringfellow, A., D. </text>
+<text top="848" left="120" width="346" height="15" font="4">Cahana-Amitay, E. Hughes &amp; A. Zukowski (eds.). </text>
+<text top="848" left="467" width="322" height="15" font="8"><i>Proceedings of the Annual Boston  University </i></text>
+<text top="867" left="120" width="272" height="15" font="8"><i>Conference on Language Development </i></text>
+<text top="867" left="393" width="251" height="15" font="4">20. Somerville, MA: Cascadilla Press.  </text>
+<text top="887" left="106" width="126" height="15" font="4">Reinhart, T. (1983) </text>
+<text top="887" left="232" width="264" height="15" font="8"><i>Anaphora and Semantic Interpretation</i></text>
+<text top="887" left="496" width="160" height="15" font="4">. London: Croom Helm.  </text>
+<text top="906" left="106" width="585" height="15" font="4">Reinhart, T. (1986) Center and periphery in the grammar of anaphora. In Lust, B. (ed.). </text>
+<text top="906" left="692" width="96" height="15" font="8"><i>Studies in the </i></text>
+<text top="926" left="120" width="168" height="15" font="8"><i>Acquisition of Anaphora</i></text>
+<text top="926" left="289" width="215" height="15" font="4">. (Vol. 1). Dordrecht: D. Reidel.  </text>
+<text top="946" left="106" width="123" height="15" font="4">Reuland, E. (1997) </text>
+<text top="946" left="230" width="142" height="15" font="8"><i>Primitives of Binding</i></text>
+<text top="946" left="372" width="246" height="15" font="4">. OTS Utrecht Institute of Linguistics. </text>
+<text top="965" left="106" width="492" height="15" font="4">Rondal, J. (1993) Down’s syndrome. In Bishop, D. &amp; Mogford. (eds.). </text>
+<text top="965" left="601" width="188" height="15" font="8"><i>Language Development in </i></text>
+<text top="985" left="120" width="184" height="15" font="8"><i>Exceptional Circumstances</i></text>
+<text top="985" left="305" width="54" height="15" font="4">. LEA.  </text>
+<text top="1004" left="106" width="119" height="15" font="4">Rondal, J. (1995) </text>
+<text top="1004" left="228" width="396" height="15" font="8"><i>Exceptional Language Development in Down Syndrome</i></text>
+<text top="1004" left="626" width="163" height="15" font="4">. Cambridge: Cambridge </text>
+<text top="1025" left="120" width="115" height="15" font="4">University Press. </text>
+<text top="1044" left="106" width="499" height="15" font="4">Rondal, J. &amp; A. Comblain (1996) Language in adults with Down syndrome. </text>
+<text top="1044" left="604" width="184" height="15" font="8"><i>Down Syndrome Research </i></text>
+<text top="1064" left="120" width="92" height="15" font="8"><i>and Practice </i></text>
+<text top="1064" left="213" width="16" height="15" font="4">4. </text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="396" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="439" width="42" height="15" font="8"><i>       </i></text>
+<text top="181" left="501" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="542" width="192" height="15" font="8"><i>Binding in Down syndrome   </i></text>
+<text top="181" left="763" width="24" height="15" font="4">445</text>
+<text top="181" left="785" width="5" height="15" font="8"><i> </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="220" left="106" width="684" height="15" font="4">Rutter, T. &amp; S. Buckley (1994) The acquisition of grammatical morphemes in children with Down’s </text>
+<text top="239" left="120" width="70" height="15" font="4">syndrome. </text>
+<text top="239" left="191" width="276" height="15" font="8"><i>Down Syndrome Research and Practice </i></text>
+<text top="239" left="467" width="65" height="15" font="4">2: 76-82.  </text>
+<text top="260" left="106" width="233" height="15" font="4">Thornton R. &amp; K. Wexler (1999) </text>
+<text top="260" left="342" width="440" height="15" font="8"><i>Principle B, VP Ellipsis and Interpretation in Child Grammar</i></text>
+<text top="260" left="781" width="9" height="15" font="4">. </text>
+<text top="279" left="120" width="260" height="15" font="4">Massachusetts Institute of Technology.  </text>
+<text top="298" left="106" width="162" height="15" font="4">Sigurjónsdóttir, S. (1992) </text>
+<text top="298" left="268" width="400" height="15" font="8"><i>Binding in Icelandic: Evidence from Language Acquisition</i></text>
+<text top="298" left="668" width="121" height="15" font="4">. PhD dissertation, </text>
+<text top="318" left="120" width="168" height="15" font="4">University of California.   </text>
+<text top="337" left="106" width="684" height="15" font="4">van der Lely, H.K.J. &amp; L. Stollwerck (1997) Binding Theory and specifically language impaired children. </text>
+<text top="357" left="120" width="68" height="15" font="8"><i>Cognition</i></text>
+<text top="357" left="188" width="83" height="15" font="4"> 62:245-290. </text>
+<text top="377" left="106" width="683" height="15" font="4">Varlokosta, S. (2001) The acquisition of pronominal reference in Greek. Talk given at the UCL </text>
+<text top="397" left="120" width="333" height="15" font="4">Department of Phonetics and Linguistics, London.   </text>
+<text top="416" left="106" width="684" height="15" font="4">Vicari, S., M. Caselli. &amp; F. Tonucci (2000) Asynchrony of lexical and morphosyntactic development in </text>
+<text top="436" left="120" width="202" height="15" font="4">children with Down syndrome. </text>
+<text top="436" left="322" width="129" height="15" font="8"><i>Neuropsychologia </i></text>
+<text top="436" left="451" width="91" height="15" font="4">38: 634-644.   </text>
+<text top="455" left="106" width="595" height="15" font="4">Wexler, K. &amp; Y.-C. Chien (1985) The development of lexical anaphors and pronouns. </text>
+<text top="455" left="704" width="84" height="15" font="8"><i>Papers and </i></text>
+<text top="474" left="120" width="286" height="15" font="8"><i>Reports on Child Language Development </i></text>
+<text top="474" left="406" width="83" height="15" font="4">24: 138-149. </text>
+<text top="495" left="106" width="5" height="18" font="2"> </text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="181" left="106" width="22" height="15" font="4">446</text>
+<text top="181" left="128" width="5" height="15" font="8"><i> </i></text>
+<text top="181" left="149" width="132" height="15" font="8"><i>Alexandra Perovic </i></text>
+<text top="200" left="106" width="5" height="15" font="8"><i> </i></text>
+<text top="221" left="106" width="282" height="18" font="3"><b>Appendix A: Example Sentences  </b></text>
+<text top="244" left="106" width="5" height="18" font="3"><b> </b></text>
+<text top="266" left="106" width="100" height="15" font="14"><b>Experimental </b></text>
+<text top="287" left="106" width="72" height="15" font="14"><b>conditions</b></text>
+<text top="287" left="179" width="5" height="15" font="4"> </text>
+<text top="265" left="277" width="44" height="15" font="4">match </text>
+<text top="265" left="340" width="43" height="15" font="4"> items </text>
+<text top="265" left="401" width="66" height="15" font="4">mismatch </text>
+<text top="265" left="486" width="38" height="15" font="4">items </text>
+<text top="265" left="546" width="5" height="15" font="4"> </text>
+<text top="305" left="106" width="117" height="15" font="4">1. name-reflexive </text>
+<text top="305" left="282" width="42" height="15" font="4">NRM </text>
+<text top="305" left="359" width="11" height="15" font="4">8 </text>
+<text top="305" left="419" width="38" height="15" font="4">NRX </text>
+<text top="305" left="504" width="12" height="15" font="4">8 </text>
+<text top="305" left="546" width="217" height="15" font="8"><i>Is Snow White washing herself?</i></text>
+<text top="305" left="763" width="5" height="15" font="4"> </text>
+<text top="325" left="106" width="113" height="15" font="4">2. name-pronoun </text>
+<text top="325" left="282" width="41" height="15" font="4">NPM </text>
+<text top="325" left="359" width="11" height="15" font="4">8 </text>
+<text top="325" left="420" width="37" height="15" font="4">NPX </text>
+<text top="325" left="504" width="12" height="15" font="4">8 </text>
+<text top="325" left="546" width="193" height="15" font="8"><i>Is Snow White washing her?</i></text>
+<text top="325" left="739" width="5" height="15" font="4"> </text>
+<text top="344" left="106" width="142" height="15" font="4">3. quantifier-reflexive </text>
+<text top="344" left="282" width="42" height="15" font="4">QRM </text>
+<text top="344" left="359" width="11" height="15" font="4">8 </text>
+<text top="344" left="419" width="38" height="15" font="4">QRX </text>
+<text top="344" left="504" width="12" height="15" font="4">8 </text>
+<text top="344" left="546" width="210" height="15" font="8"><i>Is every bear washing himself?</i></text>
+<text top="344" left="757" width="5" height="15" font="4"> </text>
+<text top="364" left="106" width="137" height="15" font="4">4. quantifier-pronoun </text>
+<text top="364" left="282" width="41" height="15" font="4">QPM </text>
+<text top="364" left="359" width="11" height="15" font="4">8 </text>
+<text top="364" left="420" width="37" height="15" font="4">QPX </text>
+<text top="364" left="504" width="12" height="15" font="4">8 </text>
+<text top="364" left="546" width="186" height="15" font="8"><i>Is every bear washing him?</i></text>
+<text top="364" left="734" width="5" height="15" font="4"> </text>
+<text top="384" left="106" width="131" height="15" font="14"><b>Control conditions</b></text>
+<text top="384" left="237" width="5" height="15" font="4"> </text>
+<text top="383" left="300" width="5" height="15" font="4"> </text>
+<text top="383" left="361" width="5" height="15" font="4"> </text>
+<text top="383" left="435" width="5" height="15" font="4"> </text>
+<text top="383" left="507" width="5" height="15" font="4"> </text>
+<text top="383" left="546" width="5" height="15" font="4"> </text>
+<text top="402" left="106" width="96" height="15" font="4">1. name-name  </text>
+<text top="402" left="281" width="43" height="15" font="4">NNM </text>
+<text top="402" left="359" width="11" height="15" font="4">8 </text>
+<text top="402" left="416" width="43" height="15" font="4">NNM </text>
+<text top="402" left="504" width="12" height="15" font="4">8 </text>
+<text top="402" left="546" width="241" height="15" font="8"><i>Is Snow White washing Cinderella?</i></text>
+<text top="402" left="788" width="5" height="15" font="4"> </text>
+<text top="423" left="106" width="120" height="15" font="4">2. quantifier-name </text>
+<text top="423" left="281" width="43" height="15" font="4">QNM </text>
+<text top="423" left="359" width="11" height="15" font="4">8 </text>
+<text top="423" left="419" width="39" height="15" font="4">QNX </text>
+<text top="423" left="504" width="12" height="15" font="4">8 </text>
+<text top="423" left="546" width="235" height="15" font="8"><i>Is every bear touching Peter Pan?</i></text>
+<text top="423" left="780" width="9" height="15" font="4">  </text>
+<text top="442" left="106" width="138" height="15" font="4">3. name-name action </text>
+<text top="442" left="290" width="26" height="15" font="4">---- </text>
+<text top="442" left="354" width="20" height="15" font="4">--- </text>
+<text top="442" left="419" width="39" height="15" font="4">NAX </text>
+<text top="442" left="504" width="12" height="15" font="4">8 </text>
+<text top="442" left="546" width="230" height="15" font="8"><i>Is Snow White drying Cinderella?</i></text>
+<text top="442" left="776" width="5" height="15" font="4"> </text>
+<text top="462" left="106" width="75" height="15" font="4">4. attention </text>
+<text top="462" left="290" width="26" height="15" font="4">---- </text>
+<text top="462" left="354" width="20" height="15" font="4">--- </text>
+<text top="462" left="419" width="38" height="15" font="4">CAX </text>
+<text top="462" left="500" width="20" height="15" font="4">16 </text>
+<text top="462" left="546" width="205" height="15" font="8"><i>Is Father Christmas sleeping?</i></text>
+<text top="462" left="749" width="5" height="15" font="4"> </text>
+<text top="481" left="106" width="5" height="18" font="2"> </text>
+<text top="504" left="106" width="5" height="18" font="2"> </text>
+<text top="527" left="106" width="5" height="18" font="2"> </text>
+<text top="551" left="106" width="422" height="18" font="3"><b>Appendix B: Performance on Control Conditions </b></text>
+<text top="573" left="106" width="5" height="18" font="2"> </text>
+<text top="596" left="106" width="64" height="18" font="2">Table 4 </text>
+<text top="620" left="106" width="5" height="15" font="4"> </text>
+<text top="621" left="258" width="26" height="15" font="14"><b>LP </b></text>
+<text top="621" left="332" width="29" height="15" font="14"><b>DA </b></text>
+<text top="621" left="405" width="34" height="15" font="14"><b>M K </b></text>
+<text top="621" left="478" width="25" height="15" font="14"><b>SL </b></text>
+<text top="642" left="106" width="89" height="15" font="14"><b>Name -name </b></text>
+<text top="641" left="258" width="5" height="15" font="4"> </text>
+<text top="641" left="332" width="5" height="15" font="4"> </text>
+<text top="641" left="405" width="5" height="15" font="4"> </text>
+<text top="641" left="478" width="5" height="15" font="4"> </text>
+<text top="661" left="106" width="145" height="15" font="4">Match              NNM </text>
+<text top="661" left="276" width="42" height="15" font="4">100% </text>
+<text top="661" left="350" width="42" height="15" font="4">100% </text>
+<text top="661" left="423" width="42" height="15" font="4">100% </text>
+<text top="661" left="496" width="42" height="15" font="4">100% </text>
+<text top="681" left="106" width="137" height="15" font="4">Mismatch        NNX </text>
+<text top="681" left="269" width="54" height="15" font="4">87.50% </text>
+<text top="681" left="350" width="42" height="15" font="4">100% </text>
+<text top="681" left="423" width="42" height="15" font="4">100% </text>
+<text top="681" left="496" width="42" height="15" font="4">100% </text>
+<text top="704" left="106" width="20" height="15" font="14"><b>7.1</b></text>
+<text top="703" left="127" width="4" height="15" font="16"><b> </b></text>
+<text top="704" left="138" width="119" height="15" font="14"><b>Quantifier name  </b></text>
+<text top="703" left="294" width="5" height="15" font="4"> </text>
+<text top="703" left="368" width="5" height="15" font="4"> </text>
+<text top="703" left="441" width="5" height="15" font="4"> </text>
+<text top="703" left="514" width="5" height="15" font="4"> </text>
+<text top="723" left="106" width="145" height="15" font="4">Match              QNM </text>
+<text top="723" left="276" width="42" height="15" font="4">100% </text>
+<text top="723" left="350" width="42" height="15" font="4">100% </text>
+<text top="723" left="423" width="42" height="15" font="4">100% </text>
+<text top="723" left="496" width="42" height="15" font="4">100% </text>
+<text top="744" left="106" width="142" height="15" font="4">Mismatch        QNX  </text>
+<text top="744" left="269" width="54" height="15" font="4">25.00% </text>
+<text top="744" left="350" width="42" height="15" font="4">100% </text>
+<text top="744" left="423" width="42" height="15" font="4">100% </text>
+<text top="744" left="510" width="12" height="15" font="4">0 </text>
+<text top="766" left="106" width="20" height="15" font="14"><b>7.2</b></text>
+<text top="765" left="127" width="4" height="15" font="16"><b> </b></text>
+<text top="766" left="138" width="89" height="15" font="14"><b>Name -name </b></text>
+<text top="785" left="138" width="47" height="15" font="14"><b>action </b></text>
+<text top="765" left="294" width="5" height="15" font="4"> </text>
+<text top="765" left="368" width="5" height="15" font="4"> </text>
+<text top="765" left="441" width="5" height="15" font="4"> </text>
+<text top="765" left="514" width="5" height="15" font="4"> </text>
+<text top="805" left="106" width="137" height="15" font="4">Mismatch        NAX </text>
+<text top="805" left="276" width="42" height="15" font="4">100% </text>
+<text top="805" left="343" width="54" height="15" font="4">87.50% </text>
+<text top="805" left="416" width="53" height="15" font="4">87.50% </text>
+<text top="805" left="489" width="53" height="15" font="4">87.50% </text>
+<text top="827" left="106" width="76" height="15" font="14"><b>Attention  </b></text>
+<text top="827" left="182" width="64" height="15" font="4">(16 items)</text>
+<text top="827" left="246" width="5" height="15" font="14"><b> </b></text>
+<text top="825" left="294" width="5" height="15" font="4"> </text>
+<text top="825" left="368" width="5" height="15" font="4"> </text>
+<text top="825" left="441" width="5" height="15" font="4"> </text>
+<text top="825" left="514" width="5" height="15" font="4"> </text>
+<text top="848" left="106" width="145" height="15" font="4">Mismatch        ATTX </text>
+<text top="848" left="276" width="42" height="15" font="4">100% </text>
+<text top="848" left="350" width="42" height="15" font="4">100% </text>
+<text top="848" left="423" width="42" height="15" font="4">100% </text>
+<text top="848" left="489" width="53" height="15" font="4">93.75% </text>
+<text top="868" left="106" width="5" height="18" font="2"> </text>
+</page>
+</pdf2xml>

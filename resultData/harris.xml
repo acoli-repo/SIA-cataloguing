@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="16" family="Times" color="#000000"/>
+	<fontspec id="3" size="20" family="Times" color="#000000"/>
+	<fontspec id="4" size="20" family="Times" color="#000000"/>
+	<fontspec id="5" size="36" family="Times" color="#000000"/>
+	<fontspec id="6" size="21" family="Times" color="#000000"/>
+	<fontspec id="7" size="20" family="Times" color="#000000"/>
+<text top="1005" left="130" width="681" height="15" font="0">A version of this paper, a draft extract from a larger work in progress (Harris, in prep.), was</text>
+<text top="1001" left="123" width="6" height="11" font="1">*</text>
+<text top="1025" left="108" width="702" height="15" font="0">delivered at <i>Current Trends in Phonology</i>, Royaumont, France, May 1995. Thanks to Jacques</text>
+<text top="1045" left="108" width="205" height="15" font="0">Durand for helpful comments.</text>
+<text top="132" left="108" width="365" height="18" font="3"><i>UCL Working Papers in Linguistics</i> 8 (1996)</text>
+<text top="184" left="108" width="702" height="32" font="5"><i><b>Phonological output is redundancy-free and</b></i></text>
+<text top="226" left="108" width="267" height="32" font="5"><i><b>fully interpretable</b></i></text>
+<text top="222" left="375" width="11" height="19" font="6"><i><b>*</b></i></text>
+<text top="311" left="108" width="129" height="18" font="4">JOHN HARRIS</text>
+<text top="383" left="143" width="75" height="18" font="7"><b>Abstract</b></text>
+<text top="429" left="143" width="631" height="15" font="0">By attributing stand-alone phonetic interpretability to each melodic prime, we rid phonological</text>
+<text top="449" left="143" width="632" height="15" font="0">output of segmental redundancy without compromising the ability of representations to be</text>
+<text top="468" left="143" width="631" height="15" font="0">mapped onto articulation and auditory perception. Under this approach, the repertoire of</text>
+<text top="488" left="143" width="631" height="15" font="0">constraints on segmental output is automatically restricted to those that refer to lexically</text>
+<text top="508" left="143" width="632" height="15" font="0">distinctive primes. One specific consequence is that there is no need for major-class features.</text>
+<text top="528" left="143" width="631" height="15" font="0">An analysis of glide hardening in Cypriot Greek demonstrates how [consonantal] can be</text>
+<text top="548" left="143" width="621" height="15" font="0">jettisoned without jeopardizing the phonetic interpretability of phonological representations.</text>
+<text top="616" left="108" width="125" height="18" font="7"><b>1 Introduction</b></text>
+<text top="663" left="108" width="702" height="18" font="4">In orthodox feature theory, phonological output representations must contain redundant</text>
+<text top="686" left="108" width="703" height="18" font="4">feature values in order to achieve phonetic interpretability. This assumption sits</text>
+<text top="710" left="108" width="702" height="18" font="4">awkwardly with the current view that constraints on phonological well-formedness are</text>
+<text top="734" left="108" width="703" height="18" font="4">expressed over output. One inevitable and undesirable result is that redundant feature</text>
+<text top="758" left="108" width="505" height="18" font="4">values clutter up the statement of constraints on melodic form.</text>
+<text top="782" left="123" width="686" height="18" font="4">This paper explores some of the consequences of an alternative approach to segmental</text>
+<text top="805" left="108" width="702" height="18" font="4">form — one which rids phonological output of  redundancy without compromising the</text>
+<text top="829" left="108" width="702" height="18" font="4">ability of representations to be mapped onto physical phonetics. This can be accomplished</text>
+<text top="853" left="108" width="702" height="18" font="4">by attributing stand-alone phonetic interpretability to each melodic prime. In a model of</text>
+<text top="877" left="108" width="702" height="18" font="4">this sort, representations which are available for scrutiny by output constraint are</text>
+<text top="900" left="108" width="447" height="18" font="4">simultaneously redundancy-free and fully interpretable.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="10" height="18" font="4">2</text>
+<text top="194" left="123" width="686" height="18" font="4">One specific consequence of this approach is that there is no need for major-class</text>
+<text top="218" left="108" width="702" height="18" font="4">features. To illustrate this point, I will show how [consonantal] can be jettisoned without</text>
+<text top="242" left="108" width="594" height="18" font="4">jeopardizing the phonetic interpretability of phonological representations.</text>
+<text top="265" left="123" width="686" height="18" font="4">§2 examines the relationship between redundancy and phonetic interpretability in</text>
+<text top="289" left="108" width="702" height="18" font="4">feature theory. §3 reviews arguments for and against [consonantal] and concludes that its</text>
+<text top="313" left="108" width="701" height="18" font="4">use as a redundant feature is largely unmotivated. §4 outlines a redundancy-free model</text>
+<text top="337" left="108" width="702" height="18" font="4">of representation in which each melodic prime receives independent phonetic</text>
+<text top="360" left="108" width="702" height="18" font="4">interpretation. §5 discusses a recent treatment of fortition in Cypriot Greek in which</text>
+<text top="384" left="108" width="702" height="18" font="4">[consonantal] is alleged to be phonologically active. Under an alternative analysis,</text>
+<text top="408" left="108" width="701" height="18" font="4">fortition is expressed in terms of independently interpretable primes which code</text>
+<text top="432" left="108" width="181" height="18" font="4">continuancy contrasts.</text>
+<text top="503" left="108" width="445" height="18" font="7"><b>2 Feature redundancy and phonetic interpretability</b></text>
+<text top="550" left="108" width="701" height="18" font="4">Orthodox feature theory posits a fundamental mismatch between lexical contrastiveness</text>
+<text top="574" left="108" width="702" height="18" font="4">and phonetic interpretability: of all the feature values deemed necessary to secure the</text>
+<text top="598" left="108" width="702" height="18" font="4">passage of a phonological form into physical phonetics, only a subset contributes to</text>
+<text top="621" left="108" width="702" height="18" font="4">lexical distinctness. It is only by enlisting a full assembly of both types of feature value,</text>
+<text top="645" left="108" width="703" height="18" font="4">distinctive and redundant, that phonological output achieves phonetic interpretability: it</text>
+<text top="669" left="108" width="701" height="18" font="4">contains all the phonological ingredients necessary for direct submission to articulation</text>
+<text top="693" left="108" width="125" height="18" font="4">and perception.</text>
+<text top="716" left="123" width="687" height="18" font="4">There have been two responses to the question of how to capture the difference between</text>
+<text top="740" left="108" width="702" height="18" font="4">lexically distinctive and redundant feature values. One is to omit such values from initial</text>
+<text top="764" left="108" width="702" height="18" font="4">representations — a tradition that can be traced from Halle (1959) through to more recent</text>
+<text top="788" left="108" width="702" height="18" font="4">variations on underspecification theory. This approach has the advantage of giving direct</text>
+<text top="811" left="108" width="702" height="18" font="4">representational expression to redundancy, but only at the expense of compromising</text>
+<text top="835" left="108" width="702" height="18" font="4">phonetic interpretability. Underspecified representations cannot be directly submitted to</text>
+<text top="859" left="108" width="661" height="18" font="4">articulation and perception but must first be converted into fully specified output. </text>
+<text top="883" left="123" width="687" height="18" font="4">According to this view, phonology is an arena in which two competing forces fight for</text>
+<text top="906" left="108" width="702" height="18" font="4">control over the melodic content of representations. One calls for representations to be</text>
+<text top="930" left="108" width="702" height="18" font="4">stripped of all features save those that are minimally distinctive or in some other fashion</text>
+<text top="954" left="108" width="702" height="18" font="4">predictable. The other demands that segments be fully specified in order to satisfy the</text>
+<text top="978" left="108" width="338" height="18" font="4">requirements of phonetic implementation.</text>
+<text top="1001" left="123" width="686" height="18" font="4">This conflict between the forces of specificational parsimony and abundance (as Itô,</text>
+<text top="1025" left="108" width="703" height="18" font="4">Mester &amp; Padgett (1995) elegantly put it) is classically resolved by positing two</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="800" width="10" height="18" font="4">3</text>
+<text top="1005" left="130" width="680" height="15" font="0">This is distinct from 'phonetic underspecification' — the notion that certain feature values may</text>
+<text top="1001" left="123" width="6" height="11" font="1">1</text>
+<text top="1025" left="108" width="702" height="15" font="0">remain unspecified even at the stage where representations are phonetically implemented (Keating</text>
+<text top="1045" left="108" width="45" height="15" font="0">1988).</text>
+<text top="194" left="108" width="702" height="18" font="4">independent levels of phonological representation. One, the underlying level, satisfies the</text>
+<text top="218" left="108" width="702" height="18" font="4">demands of specificational parsimony by omitting redundant feature values. The other,</text>
+<text top="242" left="108" width="702" height="18" font="4">the level of systematic phonetic representation, satisfies specificational abundance by</text>
+<text top="265" left="108" width="702" height="18" font="4">containing fully specified feature values. More recently, the conflict has been recast as</text>
+<text top="289" left="108" width="702" height="18" font="4">a play-off between two constraint families which scrutinize phonological output, with the</text>
+<text top="313" left="108" width="702" height="18" font="4">outcome being decided by whatever ranking a particular grammar imposes on the</text>
+<text top="337" left="108" width="225" height="18" font="4">constraints (Itô <i>et al</i>. 1995).</text>
+<text top="360" left="123" width="687" height="18" font="4">The other response to the problem of redundancy has been to assume that both</text>
+<text top="384" left="108" width="702" height="18" font="4">distinctive and redundant features are present at derivation — the alternative preferred</text>
+<text top="408" left="108" width="702" height="18" font="4">in SPE. This preserves the full interpretability of phonological form but offers no</text>
+<text top="432" left="108" width="702" height="18" font="4">representational explanation of the difference between the two types of feature value.</text>
+<text top="455" left="108" width="702" height="18" font="4">Instead, nondistinctive values are identified by reference to an extrinsic set of redundancy</text>
+<text top="479" left="108" width="701" height="18" font="4">statements, cast in the form of rules or constraints (including those supplied by</text>
+<text top="503" left="108" width="702" height="18" font="4">markedness theory). The statements make up an essentially arbitrary list of features and</text>
+<text top="527" left="108" width="702" height="18" font="4">feature combinations and thus provide no insights into why certain values consistently</text>
+<text top="550" left="108" width="354" height="18" font="4">function redundantly in different languages.</text>
+<text top="574" left="123" width="688" height="18" font="4">The relation between redundancy and phonetic interpretability has recently taken on</text>
+<text top="598" left="108" width="702" height="18" font="4">renewed significance as phonological theory seeks to abandon derivational serialism in</text>
+<text top="622" left="108" width="702" height="18" font="4">favour of constraint evaluation of output representations. Both of the treatments of feature</text>
+<text top="645" left="108" width="701" height="18" font="4">redundancy just outlined continue to figure in recent constraint-oriented theory. On the</text>
+<text top="669" left="108" width="702" height="18" font="4">face of it, it is difficult to see what place there might be for underspecification in a theory</text>
+<text top="693" left="108" width="702" height="18" font="4">where constraints screen phonological output, given the requirement that output must be</text>
+<text top="717" left="108" width="702" height="18" font="4">fully specified for interfacing with phonetics. And indeed much of the thinking behind</text>
+<text top="740" left="108" width="703" height="18" font="4">featural analyses in Optimality Theory has swung back in favour of an essentially SPE</text>
+<text top="764" left="108" width="702" height="18" font="4">model of full specification supplemented by markedness conditions (cf. Prince &amp;</text>
+<text top="788" left="108" width="404" height="18" font="4">Smolensky 1993 (ch 9), Cole &amp; Kisseberth 1994).</text>
+<text top="812" left="123" width="687" height="18" font="4">However, some researchers, understandably reluctant to give up the representational</text>
+<text top="836" left="108" width="702" height="18" font="4">advantages of underspecification, have proposed that, under the right constraint ranking</text>
+<text top="859" left="108" width="702" height="18" font="4">conditions, certain redundant feature values may be suppressed in output (e.g. Itô <i>et al</i>.</text>
+<text top="883" left="108" width="702" height="18" font="4">1995).  The incompatibility of underspecification with full phonetic interpretability casts</text>
+<text top="881" left="158" width="6" height="11" font="1">1</text>
+<text top="907" left="108" width="702" height="18" font="4">doubt on whether such representations really constitute phonological output proper.</text>
+<text top="931" left="108" width="702" height="18" font="4">Wedding underspecification to constraint-based theory inevitably requires two distinct</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="10" height="18" font="4">4</text>
+<text top="194" left="108" width="702" height="18" font="4">levels of phonological output — one in which certain feature values are left blank in order</text>
+<text top="218" left="108" width="702" height="18" font="4">to satisfy redundancy constraints, and a 'later' level in which all feature values are</text>
+<text top="242" left="108" width="578" height="18" font="4">specified in preparation for interfacing with articulation and perception.</text>
+<text top="265" left="123" width="687" height="18" font="4">The putative mismatch between distinctive parsimony and realizational abundance, it</text>
+<text top="289" left="108" width="702" height="18" font="4">can be argued, stems from a lingering attachment to an essentially phonemic-segmental</text>
+<text top="313" left="108" width="702" height="18" font="4">conception of phonetic interpretation. According to this view, the phonetic expressibility</text>
+<text top="337" left="108" width="702" height="18" font="4">of an individual feature value is subjugated to that of the segment in which it resides. No</text>
+<text top="360" left="108" width="702" height="18" font="4">feature value, distinctive or redundant, can be made physically manifest unless it is</text>
+<text top="384" left="108" width="702" height="18" font="4">harnessed to a full span of other feature values which together define the phonetic identity</text>
+<text top="408" left="108" width="157" height="18" font="4">of a given segment.</text>
+<text top="432" left="123" width="687" height="18" font="4">In short, the segmentalism of conventional feature theory places output-oriented theory</text>
+<text top="455" left="108" width="701" height="18" font="4">in an inevitable bind. Full specification guarantees the full interpretability of output but</text>
+<text top="479" left="108" width="702" height="18" font="4">fails to provide a non-arbitrary account of redundancy. Underspecification gives direct</text>
+<text top="503" left="108" width="702" height="18" font="4">representational expression to redundancy but compromises phonetic interpretability by</text>
+<text top="527" left="108" width="702" height="18" font="4">moving constraint evaluation away from output proper. In order to escape this bind, it is</text>
+<text top="550" left="108" width="702" height="18" font="4">necessary to banish redundancy from phonological representations altogether. To be able</text>
+<text top="574" left="108" width="702" height="18" font="4">to do this while retaining full phonetic interpretability, it is necessary to abandon the</text>
+<text top="598" left="108" width="333" height="18" font="4">segmentalism of orthodox feature theory.</text>
+<text top="622" left="123" width="687" height="18" font="4">There is in fact no necessary reason to consider the segment the minimal unit of</text>
+<text top="645" left="108" width="702" height="18" font="4">phonetic interpretation. It is quite possible to conceive of a world in which that role is</text>
+<text top="669" left="108" width="702" height="18" font="4">assumed by the feature itself. That is, we can define each feature in such a way that it has</text>
+<text top="693" left="108" width="702" height="18" font="4">a phonetic signature which it can manifest in isolation from other features. This notion</text>
+<text top="717" left="108" width="702" height="18" font="4">lies at the heart of the tradition in which mid vowels, for example, are viewed as</text>
+<text top="740" left="108" width="702" height="18" font="4">combinations of primes that are individually expressible as <i>a, i</i> or <i>u</i> (Anderson &amp; Jones</text>
+<text top="764" left="108" width="702" height="18" font="4">1974). It provides a rather direct way of detaching redundancy from phonetic</text>
+<text top="788" left="108" width="703" height="18" font="4">interpretability — by discarding redundancy altogether. By definition, no redundant</text>
+<text top="812" left="108" width="702" height="18" font="4">properties are needed to bolster the interpretability of a stand-alone feature. In this type</text>
+<text top="836" left="108" width="702" height="18" font="4">of model, the only features appearing in the output representation of a phonological form</text>
+<text top="859" left="108" width="703" height="18" font="4">are those that are lexically pertinent. Embracing this approach puts us in a position to</text>
+<text top="883" left="108" width="702" height="18" font="4">retain the advantages of each of the two treatments of redundancy outlined above without</text>
+<text top="907" left="108" width="702" height="18" font="4">recapitulating the drawbacks of either. Output representations in this alternative model</text>
+<text top="931" left="108" width="701" height="18" font="4">are at once redundancy-free and fully interpretable. Moreover, output constraints on</text>
+<text top="954" left="108" width="702" height="18" font="4">melodic form are restricted to those that regulate the combinability of features or the</text>
+<text top="978" left="108" width="702" height="18" font="4">ability of features to appear in particular prosodic positions. There are no constraints</text>
+<text top="1002" left="108" width="701" height="18" font="4">which demand the introduction of redundant properties in order to prepare segments for</text>
+<text top="1026" left="108" width="189" height="18" font="4">phonetic interpretation.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="8" size="15" family="Times" color="#000000"/>
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="800" width="10" height="18" font="4">5</text>
+<text top="194" left="123" width="687" height="18" font="4">This paper explores some of the consequences of hitching a redundancy-free but fully</text>
+<text top="218" left="108" width="702" height="18" font="4">interpretable model of melodic representation to output-oriented theory. One far-reaching</text>
+<text top="242" left="108" width="701" height="18" font="4">consequence is that it greatly simplifies our notion of phonological output compared to</text>
+<text top="265" left="108" width="702" height="18" font="4">that forced on us by orthodox feature theory. For one thing, it allows us to dispense with</text>
+<text top="289" left="108" width="702" height="18" font="4">anything resembling an independent representational level of the type traditionally</text>
+<text top="313" left="108" width="703" height="18" font="4">referred to as systematic phonetics (SPE) or categorical phonetics (Keating 1990). In</text>
+<text top="337" left="108" width="701" height="18" font="4">other words, PF comprises a single domain of categorical representation — whether we</text>
+<text top="360" left="108" width="53" height="18" font="4">call it </text>
+<text top="363" left="161" width="123" height="14" font="8">PHONOLOGICAL</text>
+<text top="360" left="284" width="29" height="18" font="4"> or </text>
+<text top="363" left="313" width="78" height="14" font="8">PHONETIC</text>
+<text top="360" left="391" width="420" height="18" font="4"> is a purely terminological matter — and interfaces</text>
+<text top="384" left="108" width="702" height="18" font="4">directly with articulation and perception, domains which deal in terms of the continuously</text>
+<text top="408" left="108" width="702" height="18" font="4">varying quantitative values encountered in speech rather than in terms of distinct</text>
+<text top="432" left="108" width="87" height="18" font="4">categories.</text>
+<text top="455" left="123" width="687" height="18" font="4">Combining zero redundancy with full interpretability brings with it a number of rather</text>
+<text top="479" left="108" width="702" height="18" font="4">more specific consequences for our conception of segmental form. A few of these require</text>
+<text top="503" left="108" width="702" height="18" font="4">us to relinquish certain long-held preconceptions arising out of traditional feature theory.</text>
+<text top="527" left="108" width="702" height="18" font="4">One perhaps surprising conclusion is that there are no major-class features. I will illustrate</text>
+<text top="550" left="108" width="701" height="18" font="4">this particular point by showing how analyses formulated in terms of [consonantal] can</text>
+<text top="574" left="108" width="506" height="18" font="4">be recast in terms of primes which code continuancy contrasts.</text>
+<text top="598" left="123" width="687" height="18" font="4">Compared to other features, major-class categories are rarely required to bear a heavy</text>
+<text top="622" left="108" width="702" height="18" font="4">distinctive load or to play a major role in derivation. Accounts in which they have been</text>
+<text top="645" left="108" width="702" height="18" font="4">called on to perform either of these functions can typically be reset in terms of other</text>
+<text top="669" left="108" width="702" height="18" font="4">features, in some cases admittedly more readily than others. Given their very low</text>
+<text top="693" left="108" width="702" height="18" font="4">contrastive and derivational profile, the main reason major-class features continue to</text>
+<text top="717" left="108" width="702" height="18" font="4">figure in the literature appears to reflect an often unspoken commitment to the</text>
+<text top="740" left="108" width="702" height="18" font="4">segmentalism referred to above: such categories are somehow felt to be necessary for</text>
+<text top="764" left="108" width="702" height="18" font="4">guaranteeing the phonetic interpretability of segments. This assumption, as I will try to</text>
+<text top="788" left="108" width="702" height="18" font="4">show, is neither necessary nor desirable; and abandoning it contributes to the construction</text>
+<text top="812" left="108" width="581" height="18" font="4">of the stripped-down model of phonological output to be defended here.</text>
+<text top="836" left="123" width="687" height="18" font="4">The general line of reasoning running through the attack on [consonantal] is that major-</text>
+<text top="859" left="108" width="702" height="18" font="4">class labels do not identify independent units of melodic representation. Such terms are</text>
+<text top="883" left="108" width="571" height="18" font="4">at best no more than taxonomic descriptors. If this view is correct, </text>
+<text top="886" left="679" width="108" height="14" font="8">MAJOR CLASS</text>
+<text top="883" left="787" width="23" height="18" font="4"> in</text>
+<text top="907" left="108" width="240" height="18" font="4">phonology is on a par with </text>
+<text top="910" left="348" width="121" height="14" font="8">CONSTRUCTION</text>
+<text top="907" left="469" width="342" height="18" font="4"> in syntax — both are epiphenomena of</text>
+<text top="931" left="108" width="701" height="18" font="4">grammar. Neither is even uniquely derivable from some combination of fundamental</text>
+<text top="954" left="108" width="530" height="18" font="4">properties which do have independent representation in grammar.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="10" height="18" font="4">6</text>
+<text top="194" left="108" width="132" height="18" font="7"><b>3 [consonantal]</b></text>
+<text top="242" left="108" width="215" height="18" font="7"><b>3.1 [consonantal] melody</b></text>
+<text top="288" left="108" width="702" height="18" font="4">According to SPE, 'consonantal sounds are produced with a radical obstruction in the</text>
+<text top="312" left="108" width="702" height="18" font="4">midsaggittal region of the vocal tract; nonconsonantal sounds are produced without such</text>
+<text top="336" left="108" width="702" height="18" font="4">an obstruction' (Chomsky &amp; Halle 1968: 302). In current terms, this specification refers</text>
+<text top="360" left="108" width="702" height="18" font="4">exclusively to some aspect of melodic form. However, the enduring potency of traditional</text>
+<text top="383" left="108" width="702" height="18" font="4">consonant-vowel terminology is reflected in the fact that the feature is sometimes misused</text>
+<text top="407" left="108" width="702" height="18" font="4">as a prosodic diacritic, in essentially the same function as the now-defunct feature</text>
+<text top="431" left="108" width="702" height="18" font="4">[syllabic]. According to this practice, a vocoid destined to surface as a glide is</text>
+<text top="455" left="108" width="702" height="18" font="4">underlyingly specified as [+consonantal], in effect a tag which reads 'to be syllabified in</text>
+<text top="478" left="108" width="703" height="18" font="4">non-nuclear position'. In what follows, I will only consider [consonantal] in its originally</text>
+<text top="502" left="108" width="297" height="18" font="4">intended constriction-defining sense.</text>
+<text top="526" left="123" width="687" height="18" font="4">Let us briefly rehearse the main arguments that are commonly recited in support of</text>
+<text top="550" left="108" width="700" height="18" font="4">features in general and consider to what degree they hold specifically of [consonantal].</text>
+<text top="598" left="108" width="702" height="18" font="7"><b>'Features code lexical contrasts.'</b> This is not usually one of the first arguments wheeled</text>
+<text top="621" left="108" width="702" height="18" font="4">out in support of major-class features, since the distinctive burden they are asked to carry</text>
+<text top="645" left="108" width="702" height="18" font="4">is extremely light. Where [consonantal] is pressed into service as a bearer of lexical</text>
+<text top="669" left="108" width="702" height="18" font="4">contrast, the distinctive load can typically be shifted, with minimal effects on a given</text>
+<text top="693" left="108" width="702" height="18" font="4">analysis, onto other features (such as [continuant]) whose contrastive status enjoys much</text>
+<text top="716" left="108" width="231" height="18" font="4">greater independent support.</text>
+<text top="764" left="108" width="702" height="18" font="7"><b>'Features define natural classes of segments.'</b> A strong case can be made for a feature</text>
+<text top="788" left="108" width="702" height="18" font="4">by showing that it identifies a class of segments which function as the target or trigger of</text>
+<text top="812" left="108" width="702" height="18" font="4">phonological processes. Major-class features are rarely called on to perform this role with</text>
+<text top="836" left="108" width="703" height="18" font="4">anything like the vigour associated with certain other features. It is in recognition of this</text>
+<text top="859" left="108" width="702" height="18" font="4">inertness that major-class annotations are banished to the root node in many versions of</text>
+<text top="883" left="108" width="702" height="18" font="4">feature geometry, there to be kept out of harm's way while more peripheral nodes engage</text>
+<text top="907" left="108" width="700" height="18" font="4">in spreading and delinking (McCarthy 1988). Even from this relatively secluded spot,</text>
+<text top="931" left="108" width="702" height="18" font="4">major-class features still manage to get under the feet of operations which directly target</text>
+<text top="954" left="108" width="701" height="18" font="4">other features. This is perhaps most clearly illustrated in lenition, the primary effect of</text>
+<text top="978" left="108" width="702" height="18" font="4">which is to delink place (as in debuccalization) or [–continuant] (as in vocalization and</text>
+<text top="1002" left="108" width="702" height="18" font="4">spirantization). In the aftermath of both operations, some mopping up has to be done,</text>
+<text top="1026" left="108" width="702" height="18" font="4">including adjustments to the major-class affiliation of the affected segments. Vocalization</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="19" family="Times" color="#000000"/>
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="800" width="10" height="18" font="4">7</text>
+<text top="194" left="108" width="177" height="18" font="4">of an oral stop (as in <i>p </i></text>
+<text top="189" left="285" width="12" height="26" font="9">6</text>
+<text top="194" left="296" width="514" height="18" font="3"><i> w</i>), for example, calls not only for the rewriting of [–continuant]</text>
+<text top="218" left="108" width="491" height="18" font="4">as plus but also for switches in [consonantal] and [sonorant]:</text>
+<text top="265" left="108" width="24" height="18" font="4">(1)</text>
+<text top="289" left="143" width="109" height="18" font="4">Vocalization:</text>
+<text top="289" left="271" width="114" height="18" font="4">[–continuant] </text>
+<text top="284" left="384" width="12" height="26" font="9">6</text>
+<text top="289" left="396" width="116" height="18" font="4"> [+continuant]</text>
+<text top="313" left="270" width="127" height="18" font="4">[+consonantal] </text>
+<text top="308" left="397" width="12" height="26" font="9">6</text>
+<text top="313" left="409" width="126" height="18" font="4"> [–consonantal]</text>
+<text top="337" left="270" width="99" height="18" font="4">[–sonorant] </text>
+<text top="332" left="369" width="12" height="26" font="9">6</text>
+<text top="337" left="381" width="100" height="18" font="4"> [+sonorant]</text>
+<text top="384" left="108" width="702" height="18" font="4">A switch in [voice] is also implicated, if the input plosive is voiceless. A comparable</text>
+<text top="408" left="108" width="701" height="18" font="4">battery of redundancy and repair rules is required for debuccalization (see for example</text>
+<text top="432" left="108" width="100" height="18" font="4">Halle 1995).</text>
+<text top="455" left="123" width="687" height="18" font="4">Supplementary operations of this sort typically involve redundant feature values and as</text>
+<text top="479" left="108" width="702" height="18" font="4">such are very much in the tradition of SPE linking rules. Nevertheless, the need to have</text>
+<text top="503" left="108" width="702" height="18" font="4">them at all, it can be reasonably argued, subverts one of the primary goals of feature</text>
+<text top="527" left="108" width="702" height="18" font="4">geometry — to restrict the set of possible phonological processes to those that target only</text>
+<text top="550" left="108" width="702" height="18" font="4">one node each (Clements &amp; Hume 1995). (For a more detailed critique of feature</text>
+<text top="574" left="108" width="322" height="18" font="4">treatments of lenition, see Harris 1990.)</text>
+<text top="598" left="123" width="687" height="18" font="4">The need for redundancy adjustments highlights the problematic relation between</text>
+<text top="622" left="108" width="702" height="18" font="4">conventional features and output-oriented constraint theory. Given the geometric</text>
+<text top="645" left="108" width="702" height="18" font="4">requirement just mentioned, a constraint designed to deliver the effects of plosive</text>
+<text top="669" left="108" width="702" height="18" font="4">vocalization should refer to just one node — in this case presumably the feature</text>
+<text top="693" left="108" width="702" height="18" font="4">[continuant]. But satisfaction of this constraint is not sufficient to bestow on a successful</text>
+<text top="717" left="108" width="703" height="18" font="4">candidate analysis the status of a fully interpretable output form. It still needs to transit</text>
+<text top="740" left="108" width="702" height="18" font="4">through some post-constraint representational buffer before it can be submitted to</text>
+<text top="764" left="108" width="702" height="18" font="4">articulation and perception. It is at this intermediate stage that redundancy modifications</text>
+<text top="788" left="108" width="702" height="18" font="4">have to made to those features, including [consonantal] and [sonorant], which do not</text>
+<text top="812" left="108" width="357" height="18" font="4">directly figure in the vocalization constraint.</text>
+<text top="860" left="108" width="702" height="18" font="7"><b>'Features determine syllabification.'</b> Major-class features are often accredited with the</text>
+<text top="883" left="108" width="703" height="18" font="4">function of determining syllabification, particularly in so far as they contribute to the</text>
+<text top="907" left="108" width="703" height="18" font="4">definition of sonority. However, the force of this argument is diluted by a number of</text>
+<text top="931" left="108" width="702" height="18" font="4">considerations. One is the common practice of presenting the sonority hierarchy as a</text>
+<text top="955" left="108" width="702" height="18" font="4">simple list of phoneme types with no particular concern for whether and how the ranking</text>
+<text top="978" left="108" width="702" height="18" font="4">might be featurally defined (see for example Prince &amp; Smolensky 1993: ch 8). Another</text>
+<text top="1002" left="108" width="703" height="18" font="4">is the degree to which syllabification is independently catered for by prosodic structure.</text>
+<text top="1026" left="108" width="702" height="18" font="4">For example, it is now widely agreed that syllable heads must be prosodically represented</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="10" height="18" font="4">8</text>
+<text top="194" left="108" width="702" height="18" font="4">in the lexicon (e.g. Kaye, Lowenstamm &amp; Vergnaud 1990, McCarthy &amp; Prince 1993).</text>
+<text top="218" left="108" width="702" height="18" font="4">This inevitably reduces the significance of melodic form to the determination of</text>
+<text top="242" left="108" width="702" height="18" font="4">syllabification. In any case, it is possible and, I will argue below, desirable to derive</text>
+<text top="265" left="108" width="702" height="18" font="4">sonority from the relative melodic complexity of a segment, something that can be</text>
+<text top="289" left="108" width="541" height="18" font="4">calculated quite straightforwardly without reference to major class.</text>
+<text top="337" left="108" width="702" height="18" font="7"><b>'Features guarantee phonetic interpretability.'</b> Even in the absence of any obvious</text>
+<text top="361" left="108" width="702" height="18" font="4">contrastive or derivational function, the representational presence of a particular feature</text>
+<text top="384" left="108" width="702" height="18" font="4">is sometimes deemed to be justified on the grounds that it contributes to the phonetic</text>
+<text top="408" left="108" width="702" height="18" font="4">implementation of the segment in which it resides. This argument reprises the phonemic-</text>
+<text top="432" left="108" width="703" height="18" font="4">segmental conceit referred to above — the assumption that the phonetic interpretability</text>
+<text top="456" left="108" width="702" height="18" font="4">of a given feature value is dependent on its being integrated into a segment containing a</text>
+<text top="479" left="108" width="701" height="18" font="4">full slate of specified features. Of all features, those defining major class have by far the</text>
+<text top="503" left="108" width="701" height="18" font="4">lowest exchange value in the realm of phonetic implementation. For example, they are</text>
+<text top="527" left="108" width="702" height="18" font="4">conspicuously absent from recent geometric models of speech production; see especially</text>
+<text top="551" left="108" width="702" height="18" font="4">the gestural theory of Browman &amp; Goldstein (1989) and the mini-tracts theory of Keyser</text>
+<text top="575" left="108" width="702" height="18" font="4">&amp; Stevens (1994). It is surely significant that the models in question dispense with</text>
+<text top="598" left="108" width="467" height="18" font="4">anything directly equivalent to an independent category </text>
+<text top="601" left="575" width="118" height="14" font="8">CONSONANTAL</text>
+<text top="598" left="693" width="117" height="18" font="4">. This in itself</text>
+<text top="622" left="108" width="702" height="18" font="4">should give us pause for thought if, in view of their low contrastive and derivational</text>
+<text top="646" left="108" width="702" height="18" font="4">profile, we seek to justify the representational status of major-class features on phonetic</text>
+<text top="670" left="108" width="702" height="18" font="4">grounds. This point has recently been acknowledged in feature geometry, the obvious</text>
+<text top="693" left="108" width="702" height="18" font="4">articulatory bent of which makes it a close cousin of the gestural and mini-tracts models.</text>
+<text top="717" left="108" width="702" height="18" font="4">Hume &amp; Odden (1994) show how a number of processes previously treated in terms of</text>
+<text top="741" left="108" width="702" height="18" font="4">active [consonantal] values can be reanalysed in terms of other features or class nodes.</text>
+<text top="765" left="108" width="702" height="18" font="4">In any event, as we will see below, non-segmental models of melodic form demonstrate</text>
+<text top="788" left="108" width="702" height="18" font="4">that major-class categories can be jettisoned without compromising the phonetic</text>
+<text top="812" left="108" width="384" height="18" font="4">interpretability of phonological representations.</text>
+<text top="860" left="108" width="702" height="18" font="4">There have been several recent attempts to coax major-class features out of retirement in</text>
+<text top="883" left="108" width="703" height="18" font="4">the root node, based on various combinations of the arguments just reviewed. In §5, we</text>
+<text top="907" left="108" width="702" height="18" font="4">will  consider one particular analysis that has been touted in support of this view and</text>
+<text top="931" left="108" width="702" height="18" font="4">consider how it can be reformulated without reference to major class. The reanalysis</text>
+<text top="955" left="108" width="702" height="18" font="4">draws on a particular model of melodic representation, to be outlined in the next section,</text>
+<text top="978" left="108" width="595" height="18" font="4">which moves away from the segmentalism of conventional feature theory.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="20" family="Times" color="#000000"/>
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="800" width="10" height="18" font="4">9</text>
+<text top="194" left="108" width="95" height="18" font="7"><b>4 Elements</b></text>
+<text top="241" left="108" width="702" height="18" font="4">It is perfectly possible to give up an attachment to segmentalism without jeopardizing the</text>
+<text top="265" left="108" width="702" height="18" font="4">ability of phonological representations to be mapped onto physical phonetics. This result</text>
+<text top="289" left="108" width="702" height="18" font="4">can be achieved by attributing stand-alone phonetic interpretability to each unit of sub-</text>
+<text top="312" left="108" width="702" height="18" font="4">segmental content. In other words, any melodic prime is independently mappable onto</text>
+<text top="336" left="108" width="702" height="18" font="4">articulation or perception without requiring support from any other prime. The non-</text>
+<text top="360" left="108" width="702" height="18" font="4">segmentalism of this conception departs so markedly from assumptions traditionally</text>
+<text top="384" left="108" width="210" height="18" font="4">bound up with the usage </text>
+<text top="387" left="317" width="70" height="14" font="8">FEATURE</text>
+<text top="384" left="388" width="423" height="18" font="4"> that it seems appropriate to adopt some other term.</text>
+<text top="407" left="108" width="12" height="18" font="4">E</text>
+<text top="410" left="120" width="64" height="14" font="8">LEMENT</text>
+<text top="407" left="184" width="260" height="18" font="4"> is the one I will plump for here.</text>
+<text top="431" left="123" width="687" height="18" font="4">The particular version of non-segmentalism to be sketched here is in most essentials that</text>
+<text top="455" left="108" width="703" height="18" font="4">presented in Kaye <i>et al.</i> 1985, 1990, Harris 1990, Harris &amp; Lindsey 1995. Those already</text>
+<text top="479" left="108" width="703" height="18" font="4">familiar with this work will feel free to skip this section. The model shares many design</text>
+<text top="503" left="108" width="702" height="18" font="4">properties with other approaches, especially as presented in Anderson &amp; Jones 1974,</text>
+<text top="526" left="108" width="702" height="18" font="4">Anderson &amp; Ewen 1987, Goldsmith 1985, van der Hulst 1989, van der Hulst &amp; Smith</text>
+<text top="550" left="108" width="703" height="18" font="4">1985, Rennison 1984, Schane 1984, and elsewhere. Of these various alternatives, the</text>
+<text top="574" left="108" width="702" height="18" font="4">version adopted here is the one that is most explicitly committed to a fully non-segmental</text>
+<text top="598" left="108" width="241" height="18" font="4">construction of melodic form.</text>
+<text top="621" left="123" width="687" height="18" font="4">To keep things as brief as possible, I will for the moment only introduce a minimum</text>
+<text top="645" left="108" width="702" height="18" font="4">number of elements which will be sufficient to illustrate the basic concept of non-</text>
+<text top="669" left="108" width="550" height="18" font="4">segmentalism and which figure in the analysis to be presented in §5.</text>
+<text top="693" left="123" width="687" height="18" font="4">Each of the following elements, enclosed in brackets, is presented next to a transcription</text>
+<text top="716" left="108" width="469" height="18" font="4">of the solo phonetic interpretation after which it is named:</text>
+<text top="764" left="108" width="24" height="18" font="4">(2)</text>
+<text top="788" left="143" width="86" height="18" font="4">(a) [A]  <i>a</i></text>
+<text top="788" left="324" width="37" height="18" font="4">[I]  <i>i</i></text>
+<text top="788" left="432" width="49" height="18" font="4">[U]  <i>u</i></text>
+<text top="835" left="143" width="71" height="18" font="4">(b) [?]  </text>
+<text top="830" left="214" width="10" height="26" font="10">?</text>
+<text top="835" left="324" width="44" height="18" font="4">[h]  <i>h</i></text>
+<text top="884" left="108" width="702" height="18" font="4">The elements in (2)a are the familiar resonance categories common to all tricorn</text>
+<text top="908" left="108" width="703" height="18" font="4">constructions of vowel space; they also code place contrasts in consonants. Schwa-like</text>
+<text top="932" left="108" width="702" height="18" font="4">neutral quality forms the resonance base-line on which [A], [I] and [U] are superimposed.</text>
+<text top="956" left="108" width="702" height="18" font="4">The elements in (2)b help code manner or stricture contrasts in stops and fricatives. [?]</text>
+<text top="980" left="108" width="452" height="18" font="4">defines bare stopness, [h] bare noise (aperiodic energy).</text>
+<text top="1003" left="123" width="686" height="18" font="4">To say that each element enjoys stand-alone phonetic interpretability is not simply to</text>
+<text top="1027" left="108" width="702" height="18" font="4">attribute to it a unique phonetic signature. That is no different from what is usually</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">10</text>
+<text top="194" left="108" width="702" height="18" font="4">claimed for features as conceived of under segmentalism. Independence of interpretation</text>
+<text top="218" left="108" width="703" height="18" font="4">entails more than this: crucially, an element is able to display its signature in isolation.</text>
+<text top="242" left="108" width="701" height="18" font="4">Like an orthodox distinctive feature, an element bears its own burden of lexical contrast;</text>
+<text top="265" left="108" width="701" height="18" font="4">but unlike a feature, it requires no support from other melodic primes (redundant or</text>
+<text top="289" left="108" width="702" height="18" font="4">distinctive) in order to achieve phonetic substantiation. In an element-based model, there</text>
+<text top="313" left="108" width="703" height="18" font="4">is thus nothing akin to redundancy, underspecification or blank-filling operations. This</text>
+<text top="337" left="108" width="702" height="18" font="4">means that some segments are primitive in the sense that they comprise no more than one</text>
+<text top="360" left="108" width="702" height="18" font="4">element. For example, a lone [U] is manifested as the segment <i>u</i> without having to call</text>
+<text top="384" left="108" width="702" height="18" font="4">on additional specification relating to, say, resonance, stricture or major class. Informal</text>
+<text top="408" left="108" width="702" height="18" font="4">descriptions of [U]-as-<i>u</i> may make reference to the fact that it is, among other things,</text>
+<text top="432" left="108" width="702" height="18" font="4">non-palatal, continuant and non-consonantal; but these properties have no phonological</text>
+<text top="455" left="108" width="108" height="18" font="4">specification.</text>
+<text top="479" left="123" width="687" height="18" font="4">Melodic primes are internalized categories which code lexical contrasts and are</text>
+<text top="503" left="108" width="702" height="18" font="4">accessed by phonological constraints. Their phonetic externalization involves their being</text>
+<text top="527" left="108" width="702" height="18" font="4">mapped in the first instance onto sound patterns in the speech signal (see Harris &amp;</text>
+<text top="550" left="108" width="702" height="18" font="4">Lindsey 1995 for fuller discussion of this point). Perception and articulation are parasitic</text>
+<text top="574" left="108" width="702" height="18" font="4">on this mapping. This fundamental Jakobsonian insight lies at the heart of the claim that</text>
+<text top="598" left="108" width="702" height="18" font="4">generative grammar is neutral between speaker and hearer. It would hardly be necessary</text>
+<text top="622" left="108" width="702" height="18" font="4">to remind ourselves of this truth, were it not for the fact that it has tended to become</text>
+<text top="645" left="108" width="702" height="18" font="4">buried under the heavy articulatory bias of much feature theory. Renewing our</text>
+<text top="669" left="108" width="702" height="18" font="4">commitment to the insight, we may view elements as internally represented pattern</text>
+<text top="693" left="108" width="702" height="18" font="4">templates by reference to which listeners decode auditory input and speakers monitor</text>
+<text top="717" left="108" width="702" height="18" font="4">their production. Speakers marshal whatever articulatory resources are necessary to</text>
+<text top="740" left="108" width="702" height="18" font="4">recreate the patterns in speech output. (3) details the acoustic and articulatory</text>
+<text top="764" left="108" width="702" height="18" font="4">interpretations of the five elements in (2) (see Harris &amp; Lindsey 1995 for further details</text>
+<text top="788" left="108" width="130" height="18" font="4">and references).</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">11</text>
+<text top="194" left="108" width="24" height="18" font="4">(3)</text>
+<text top="227" left="206" width="143" height="18" font="7"><b>Acoustic pattern</b></text>
+<text top="227" left="503" width="195" height="18" font="7"><b>Articulatory execution</b></text>
+<text top="264" left="152" width="28" height="18" font="4">[A]</text>
+<text top="264" left="205" width="236" height="18" font="4">Mass: central spectral energy</text>
+<text top="288" left="206" width="274" height="18" font="4">mass (convergence of  F1 and F2)</text>
+<text top="264" left="503" width="217" height="18" font="4">Maximal expansion of oral</text>
+<text top="288" left="503" width="216" height="18" font="4">tube; maximal constriction</text>
+<text top="311" left="503" width="151" height="18" font="4">of pharyngeal tube</text>
+<text top="348" left="152" width="21" height="18" font="4">[I]</text>
+<text top="348" left="205" width="245" height="18" font="4">Dip: low F1 coupled with high</text>
+<text top="372" left="206" width="267" height="18" font="4">spectral peak (convergence of F2</text>
+<text top="396" left="206" width="62" height="18" font="4">and F3)</text>
+<text top="348" left="503" width="231" height="18" font="4">Maximal constriction of oral</text>
+<text top="372" left="503" width="224" height="18" font="4">tube; maximal expansion of</text>
+<text top="396" left="503" width="129" height="18" font="4">pharyngeal tube</text>
+<text top="433" left="152" width="28" height="18" font="4">[U]</text>
+<text top="433" left="206" width="200" height="18" font="4">Rump: low spectral peak</text>
+<text top="457" left="206" width="223" height="18" font="4">(convergence of F1 and F2)</text>
+<text top="433" left="503" width="150" height="18" font="4">Trade-off between</text>
+<text top="457" left="503" width="174" height="18" font="4">expansion of oral and</text>
+<text top="481" left="503" width="137" height="18" font="4">pharyngeal tubes</text>
+<text top="518" left="152" width="23" height="18" font="4">[?]</text>
+<text top="518" left="206" width="260" height="18" font="4">Edge: abrupt and sustained drop</text>
+<text top="541" left="206" width="161" height="18" font="4">in overall amplitude</text>
+<text top="518" left="503" width="192" height="18" font="4">Occlusion in oral cavity</text>
+<text top="578" left="152" width="24" height="18" font="4">[h]</text>
+<text top="578" left="206" width="192" height="18" font="4">Noise: aperiodic energy</text>
+<text top="578" left="504" width="151" height="18" font="4">Narrowed stricture</text>
+<text top="602" left="503" width="222" height="18" font="4">producing turbulent airflow</text>
+<text top="654" left="123" width="687" height="18" font="4">Elements can combine to form compound expressions, each of which is phonetically</text>
+<text top="678" left="108" width="702" height="18" font="4">manifested in a manner that reflects the preponderance of one of its constituent elements</text>
+<text top="702" left="108" width="702" height="18" font="4">over others. This asymmetry is captured by designating one of the elements the head of</text>
+<text top="725" left="108" width="702" height="18" font="4">the compound. This arrangement may be illustrated by considering the effects of</text>
+<text top="749" left="108" width="703" height="18" font="4">combining [U] with other elements. Fusing [U] with [A] yields a round non-high vowel</text>
+<text top="773" left="108" width="562" height="18" font="4">which is mid if [U]-headed and low if [A]-headed (heads underlined):</text>
+<text top="820" left="108" width="24" height="18" font="4">(4)</text>
+<text top="844" left="143" width="47" height="18" font="4">[A,U]</text>
+<text top="844" left="216" width="10" height="18" font="3"><i>o</i></text>
+<text top="844" left="378" width="48" height="18" font="4">[A,U]</text>
+<text top="839" left="452" width="12" height="26" font="10">Q</text>
+<text top="893" left="108" width="702" height="18" font="4">(In what follows, headship will only be indicated where it has a direct bearing on the</text>
+<text top="917" left="108" width="96" height="18" font="4">discussion.)</text>
+<text top="941" left="123" width="687" height="18" font="4">The amalgamation of [U] with [h] produces a labial fricative which is non-strident if</text>
+<text top="965" left="108" width="308" height="18" font="4">[U]-headed and strident if [h]-headed:</text>
+<text top="1012" left="108" width="24" height="18" font="4">(5)</text>
+<text top="1036" left="143" width="43" height="18" font="4">[h,U]</text>
+<text top="1031" left="216" width="15" height="26" font="10">W</text>
+<text top="1036" left="378" width="44" height="18" font="4">[h,U]</text>
+<text top="1036" left="452" width="6" height="18" font="3"><i>f</i></text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="12" family="Times" color="#000000"/>
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">12</text>
+<text top="194" left="108" width="702" height="18" font="4">The glottal gesture that achieves the realization of [h] in isolation has no phonological</text>
+<text top="218" left="108" width="702" height="18" font="4">presence. (The same goes for [?].) It is the only articulatory means of orchestrating a</text>
+<text top="242" left="108" width="702" height="18" font="4">noise pattern without superimposing independent resonance characteristics which would</text>
+<text top="265" left="108" width="702" height="18" font="4">otherwise be contributed by some other element. The compounds in (5) illustrate the non-</text>
+<text top="289" left="108" width="703" height="18" font="4">specification of glottality in [h]; in these particular cases, the location of the stricture in</text>
+<text top="313" left="108" width="459" height="18" font="4">the fricative is determined by the resonance element [U].</text>
+<text top="337" left="123" width="687" height="18" font="4">Within this approach, all melodic operations take the form of element suppression or</text>
+<text top="360" left="108" width="702" height="18" font="4">accretion. Suppression, the underparsing of lexical melody, derives consonantal lenition</text>
+<text top="384" left="108" width="702" height="18" font="4">and vowel reduction (Harris 1990). (In the latter case, the stripping away of [A], [I] or [U]</text>
+<text top="408" left="108" width="702" height="18" font="4">may lay bare latent neutral resonance, resulting in vowel reduction to schwa.) Accretion,</text>
+<text top="432" left="108" width="702" height="18" font="4">typically achieved through the spreading of an element from one position to another,</text>
+<text top="455" left="108" width="400" height="18" font="4">derives consonantal fortition and vowel harmony.</text>
+<text top="479" left="123" width="687" height="18" font="4">For example, consider the various ways in which elemental stock may be depleted in a</text>
+<text top="503" left="108" width="702" height="18" font="4">labial plosive, composed of [U] (contributing labiality), [?] (stopness) and [h] (noise</text>
+<text top="527" left="108" width="68" height="18" font="4">release):</text>
+<text top="574" left="108" width="24" height="18" font="4">(6)</text>
+<text top="598" left="270" width="10" height="18" font="3"><i>p</i></text>
+<text top="598" left="324" width="57" height="18" font="4">[h,U,?]</text>
+<text top="622" left="123" width="113" height="18" font="4">Spirantization</text>
+<text top="622" left="270" width="119" height="18" font="3"><i>f</i> [h,U] &gt;</text>
+<text top="622" left="431" width="120" height="18" font="4">Fricative </text>
+<text top="622" left="508" width="150" height="18" font="4">debuccalization <i>h</i></text>
+<text top="622" left="702" width="24" height="18" font="4">[h]</text>
+<text top="645" left="123" width="121" height="18" font="4">Loss of release</text>
+<text top="640" left="270" width="12" height="26" font="10">p</text>
+<text top="645" left="324" width="65" height="18" font="4">[U,?] &gt;</text>
+<text top="645" left="432" width="169" height="18" font="4">Stop debuccalization</text>
+<text top="640" left="648" width="10" height="26" font="10">?</text>
+<text top="645" left="702" width="23" height="18" font="4">[?]</text>
+<text top="637" left="281" width="7" height="16" font="11">5</text>
+<text top="671" left="123" width="103" height="18" font="4">Vocalization</text>
+<text top="671" left="270" width="13" height="18" font="3"><i>w</i></text>
+<text top="671" left="324" width="28" height="18" font="4">[U]</text>
+<text top="719" left="108" width="703" height="18" font="4">Fortition is the reverse of one or more of these events. For example, hardening a labial</text>
+<text top="742" left="108" width="445" height="18" font="4">fricative to a plosive results from the acquisition of [?].</text>
+<text top="766" left="123" width="687" height="18" font="4">The set of weakening processes in (6) illustrates a general property of elements: each</text>
+<text top="790" left="108" width="702" height="18" font="4">of the outcomes of element suppression is independently interpretable. This follows from</text>
+<text top="814" left="108" width="702" height="18" font="4">the arrangement whereby certain segment-types are properly contained within others. For</text>
+<text top="837" left="108" width="703" height="18" font="4">example, the representation of a labial fricative is a proper subset of that of a labial</text>
+<text top="861" left="108" width="702" height="18" font="4">plosive. There is no need for auxiliary operations to adjust the elemental content of a</text>
+<text top="885" left="108" width="701" height="18" font="4">segment in the aftermath of suppression or accretion. In particular, note that there is no</text>
+<text top="909" left="108" width="702" height="18" font="4">call for redundancy or linking machinery to alter the segment's major-class affiliation. The</text>
+<text top="932" left="108" width="702" height="18" font="4">results of lenition and fortition can be informally described in terms of major-class labels</text>
+<text top="956" left="108" width="702" height="18" font="4">and indeed must be formally adjusted along these lines in a feature-based analysis. For</text>
+<text top="980" left="108" width="702" height="18" font="4">example, as noted in (1), weakening of <i>p</i> to <i>w</i> involves feature changes from obstruent to</text>
+<text top="1004" left="108" width="702" height="18" font="4">sonorant and from consonantal to vocalic. But none of these terms has any elemental</text>
+<text top="1027" left="108" width="95" height="18" font="4">equivalent. </text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">13</text>
+<text top="194" left="108" width="296" height="18" font="7"><b>5 Imagine there are no consonants</b></text>
+<text top="240" left="162" width="594" height="15" font="0">...a segment with no specification for consonantality one way or another...is hard...to</text>
+<text top="260" left="162" width="192" height="15" font="0">imagine (Kaisse 1992: 315).</text>
+<text top="305" left="108" width="156" height="18" font="7"><b>5.1 Cypriot Greek</b></text>
+<text top="352" left="108" width="702" height="18" font="4">The strongest pleas for the continued recognition of [consonantal] as an independent</text>
+<text top="375" left="108" width="702" height="18" font="4">category explicitly draw on one of the main arguments cited in support of major-classism</text>
+<text top="399" left="108" width="702" height="18" font="4">and summarized in §3. The feature, it is claimed, defines a natural class of segments that</text>
+<text top="423" left="108" width="702" height="18" font="4">actively participates in phonological processes. Running through much of this work is an</text>
+<text top="447" left="108" width="702" height="18" font="4">often implicit appeal to another of the arguments mentioned in §3, one based on the</text>
+<text top="470" left="108" width="702" height="18" font="4">segmentalism of feature theory: [consonantal] is somehow felt to be an inalienable</text>
+<text top="494" left="108" width="701" height="18" font="4">property of segments that helps secure their phonetic expressibility. The sentiment is</text>
+<text top="518" left="108" width="369" height="18" font="4">neatly encapsulated in Kaisse's remark above.</text>
+<text top="542" left="123" width="687" height="18" font="4">In what follows, I will try to show that it does not require any great leap of imagination</text>
+<text top="566" left="108" width="702" height="18" font="4">to conceive of a world without consonants. Neither the categorization of phonological</text>
+<text top="589" left="108" width="702" height="18" font="4">oppositions and classes nor the phonetic specification of speech, I will argue, need make</text>
+<text top="613" left="108" width="251" height="18" font="4">any reference to [consonantal].</text>
+<text top="637" left="123" width="687" height="18" font="4"> In one of the most cogently argued defences of [consonantal] in the recent literature,</text>
+<text top="661" left="108" width="702" height="18" font="4">Kaisse (1992) discusses a number of cases where, she alleges, the feature shows evidence</text>
+<text top="684" left="108" width="702" height="18" font="4">of spreading. We will focus on one of the examples she treats in greatest detail, Cypriot</text>
+<text top="708" left="108" width="702" height="18" font="4">Greek. This particular case will serve to illustrate the general point that analyses based on</text>
+<text top="732" left="108" width="702" height="18" font="4">[consonantal] can be recast in terms of categories that independently code continuancy</text>
+<text top="756" left="108" width="77" height="18" font="4">contrasts.</text>
+<text top="779" left="123" width="687" height="18" font="4">In Cypriot Greek, <i>i</i> desyllabifies before another vowel. This is most directly seen when</text>
+<text top="803" left="108" width="702" height="18" font="4">a nasal or lateral precedes, in which context no other effects are in evidence. Compare the</text>
+<text top="827" left="108" width="702" height="18" font="3"><i>i</i> and <i>y</i> alternants in the following nominative and genitive paradigms (all data from</text>
+<text top="851" left="108" width="259" height="18" font="4">Newton 1972 and Kaisse 1992):</text>
+<text top="898" left="108" width="24" height="18" font="4">(7)</text>
+<text top="922" left="181" width="94" height="18" font="4">Nominative</text>
+<text top="922" left="378" width="69" height="18" font="4">Genitive</text>
+<text top="940" left="181" width="83" height="26" font="10">mantili-n</text>
+<text top="940" left="378" width="86" height="26" font="10">mantily-u</text>
+<text top="946" left="540" width="112" height="18" font="4">'handkerchief'</text>
+<text top="966" left="181" width="78" height="26" font="10">stamni-n</text>
+<text top="966" left="378" width="82" height="26" font="10">stamny-u</text>
+<text top="971" left="540" width="28" height="18" font="4">'jar'</text>
+<text top="991" left="181" width="60" height="26" font="10">tiani-n</text>
+<text top="991" left="378" width="64" height="26" font="10">tiany-u</text>
+<text top="997" left="540" width="89" height="18" font="4">'frying pan'</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">14</text>
+<text top="194" left="108" width="702" height="18" font="4">When other types of consonant precede, <i>y</i> is hardened to a plosive, velar after <i>r</i> (as in (8))</text>
+<text top="218" left="108" width="326" height="18" font="4">and palatal after an obstruent (as in (9)):</text>
+<text top="265" left="123" width="24" height="18" font="4">(8)</text>
+<text top="284" left="181" width="70" height="26" font="10">teri-azo</text>
+<text top="289" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="284" left="378" width="66" height="26" font="10">terkazo</text>
+<text top="289" left="540" width="105" height="18" font="4">'I match' (cf. </text>
+<text top="284" left="645" width="152" height="26" font="10">teri 'one of a pair')</text>
+<text top="309" left="181" width="81" height="26" font="10">vari-ume</text>
+<text top="315" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="309" left="378" width="77" height="26" font="10">varkume</text>
+<text top="315" left="540" width="132" height="18" font="4">'I am bored' (cf. </text>
+<text top="309" left="672" width="102" height="26" font="10">vari 'heavy')</text>
+<text top="340" left="123" width="24" height="18" font="4">(9)</text>
+<text top="364" left="143" width="23" height="18" font="4">(a)</text>
+<text top="359" left="181" width="120" height="26" font="10">vaTi-s (masc.)</text>
+<text top="359" left="378" width="116" height="26" font="10">vaTc-a (fem.)</text>
+<text top="364" left="540" width="138" height="18" font="4">'deep (nom sing)'</text>
+<text top="413" left="143" width="24" height="18" font="4">(b)</text>
+<text top="408" left="181" width="70" height="26" font="10">poDi-on</text>
+<text top="413" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="408" left="378" width="66" height="26" font="10">poTcon</text>
+<text top="413" left="540" width="37" height="18" font="4">'feet'</text>
+<text top="433" left="181" width="84" height="26" font="10">traGuD-ia</text>
+<text top="439" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="433" left="378" width="70" height="26" font="10">trauTca</text>
+<text top="439" left="540" width="65" height="18" font="4">'singing'</text>
+<text top="459" left="181" width="91" height="26" font="10">e-pia-s-en</text>
+<text top="464" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="459" left="378" width="68" height="26" font="10">efcasen</text>
+<text top="464" left="540" width="66" height="18" font="4">'he took'</text>
+<text top="514" left="108" width="702" height="18" font="4">As the last form in (9)b illustrates, a plosive preceding the hardening site is subject to</text>
+<text top="537" left="108" width="554" height="18" font="4">spirantization. This is more fully exemplified in the following forms:</text>
+<text top="585" left="123" width="34" height="18" font="4">(10)</text>
+<text top="609" left="143" width="23" height="18" font="4">(a)</text>
+<text top="603" left="181" width="118" height="26" font="10">plati-s (masc)</text>
+<text top="603" left="378" width="118" height="26" font="10">plaTc-a (fem)</text>
+<text top="609" left="539" width="138" height="18" font="4">'wide (nom sing)'</text>
+<text top="658" left="143" width="24" height="18" font="4">(b)</text>
+<text top="653" left="181" width="86" height="26" font="10">ammati-a</text>
+<text top="658" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="653" left="378" width="86" height="26" font="10">ammaTca</text>
+<text top="658" left="540" width="80" height="18" font="4">'eyes' (cf. </text>
+<text top="653" left="620" width="86" height="26" font="10">mati 'eye')</text>
+<text top="678" left="181" width="65" height="26" font="10">na pi-o</text>
+<text top="684" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="678" left="378" width="50" height="26" font="10">nafco</text>
+<text top="684" left="540" width="134" height="18" font="4">'that I drink' (cf. </text>
+<text top="678" left="674" width="78" height="26" font="10">pi 'drink')</text>
+<text top="704" left="181" width="54" height="26" font="10">not-ia</text>
+<text top="709" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="704" left="378" width="55" height="26" font="10">noTca</text>
+<text top="709" left="540" width="77" height="18" font="4">'dew' (cf. </text>
+<text top="704" left="617" width="102" height="26" font="10">noto 'south')</text>
+<text top="729" left="181" width="84" height="26" font="10">aGapi-ete</text>
+<text top="735" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="729" left="378" width="54" height="26" font="10">afcete</text>
+<text top="735" left="540" width="93" height="18" font="4">'he is loved'</text>
+<text top="755" left="181" width="74" height="26" font="10">ka-pio-s</text>
+<text top="760" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="755" left="378" width="58" height="26" font="10">kafcos</text>
+<text top="760" left="540" width="268" height="18" font="4">'someone/something (nom masc)'</text>
+<text top="810" left="108" width="658" height="18" font="4">Spirantization, as we will see presently, provides a clue to the cause of hardening.</text>
+<text top="881" left="108" width="197" height="18" font="7"><b>5.2 Consonantalization</b></text>
+<text top="928" left="108" width="701" height="18" font="4">Kaisse treats Greek Cypriot hardening as the spreading of [+consonantal] from a</text>
+<text top="952" left="108" width="269" height="18" font="4">consonant onto a following glide:</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">15</text>
+<text top="194" left="108" width="34" height="18" font="4">(11)</text>
+<text top="218" left="143" width="156" height="18" font="4">Consonantalization</text>
+<text top="432" left="108" width="702" height="18" font="4">The angled-bracket condition excludes non-continuant sonorants (nasals and laterals)</text>
+<text top="455" left="108" width="222" height="18" font="4">from the class of spreaders.</text>
+<text top="479" left="123" width="686" height="18" font="4">The operation in (11) illustrates one of the problems with major-class features pointed</text>
+<text top="503" left="108" width="701" height="18" font="4">out in §3: on its own, spread of [+consonantal] is insufficient to achieve the change to a</text>
+<text top="527" left="108" width="702" height="18" font="4">plosive. Supplementary redundancy machinery is needed to adjust the values of [voice],</text>
+<text top="550" left="108" width="702" height="18" font="4">[sonorant] and [continuant]. Viewed in terms of orthodox features, a straightforward</text>
+<text top="574" left="108" width="702" height="18" font="4">consonantalization of <i>y</i> would be expected to produce a voiced fricative, retaining the</text>
+<text top="598" left="108" width="703" height="18" font="4">[+continuant] value of the original glide. That this is not the outcome, Kaisse argues, is</text>
+<text top="622" left="108" width="702" height="18" font="4">due to an independent constraint which requires clusters of [+consonantal] segments in</text>
+<text top="645" left="108" width="422" height="18" font="4">Cypriot Greek to conform to the following template:</text>
+<text top="693" left="108" width="34" height="18" font="4">(12)</text>
+<text top="717" left="162" width="347" height="18" font="4"> Cypriot Greek consonant-cluster template:</text>
+<text top="740" left="181" width="12" height="18" font="4">if</text>
+<text top="740" left="270" width="137" height="18" font="4">...[+consonantal]</text>
+<text top="740" left="432" width="145" height="18" font="4">[+consonantal] ...</text>
+<text top="750" left="407" width="9" height="11" font="1">A</text>
+<text top="750" left="554" width="8" height="11" font="1">B</text>
+<text top="764" left="181" width="35" height="18" font="4">then</text>
+<text top="764" left="270" width="126" height="18" font="4">...[+continuant]</text>
+<text top="764" left="432" width="133" height="18" font="4">[–continuant] ...</text>
+<text top="774" left="396" width="9" height="11" font="1">A</text>
+<text top="774" left="541" width="8" height="11" font="1">B</text>
+<text top="812" left="108" width="702" height="18" font="4">The [–continuant] condition in (12) ensures that a consonantalized segment is also</text>
+<text top="836" left="108" width="702" height="18" font="4">stopped. The [+continuant] condition is responsible for the pre-consonantal spirantization</text>
+<text top="859" left="108" width="150" height="18" font="4">exemplified in (9).</text>
+<text top="883" left="123" width="687" height="18" font="4">As an additional motivation for the template, Kaisse claims that it provides a reason for</text>
+<text top="907" left="108" width="702" height="18" font="4">the failure of nasals and laterals (both [–continuant]) to spread their consonantality: 'there</text>
+<text top="931" left="108" width="702" height="18" font="4">would be no way to ameliorate the new sequence of [–continuant] segments' (1992: 318).</text>
+<text top="954" left="108" width="702" height="18" font="4">This is not a particularly convincing argument, since it would in principle be possible for</text>
+<text top="978" left="108" width="701" height="18" font="4">sonorants in this context to undergo vocalization, rendering them [+continuant]. Under</text>
+<text top="1002" left="108" width="702" height="18" font="4">these circumstances, the combined effects of consonantalization and the cluster template</text>
+<text top="1026" left="108" width="503" height="18" font="4">on, say, <i>ly</i> would be expected to yield something like <i>yc</i> or <i>wc</i>.</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="16" family="Times" color="#000000"/>
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">16</text>
+<text top="878" left="130" width="393" height="15" font="2"><i>y</i> has two main historical sources — <i>i</i> via gliding (as in </text>
+<text top="873" left="523" width="287" height="22" font="12">terkazo &lt; teryazo &lt;  teri-azo 'I match')</text>
+<text top="873" left="123" width="6" height="11" font="1">2</text>
+<text top="899" left="108" width="178" height="15" font="0">and the palatal reflex of </text>
+<text top="895" left="285" width="525" height="22" font="12">G before a front vowel (as in maya &lt; maGia 'spell'). On this basis, it might</text>
+<text top="921" left="108" width="702" height="15" font="0">be tempting to suggest an analysis according to which Cypriot Greek has an underlying contrast</text>
+<text top="941" left="108" width="65" height="15" font="0">between </text>
+<text top="936" left="172" width="638" height="22" font="12">G and i/y (mirroring the historical situation), with hardening targeting only <i>y</i>, irrespective</text>
+<text top="962" left="108" width="702" height="15" font="0">of phonological context (Paul Kiparsky, <i>voce</i>). It is certainly true that the bulk of hardened forms</text>
+<text top="982" left="108" width="702" height="15" font="0">contain <i>y</i> from <i>i</i>. However, a context-free treatment of the process cannot be sustained in light of the</text>
+<text top="1002" left="108" width="702" height="15" font="0">following considerations: (a) <i>y &lt; i</i> fails to harden after sonorants (see the forms in (7)), and (b) some</text>
+<text top="1022" left="108" width="97" height="15" font="0">cases of <i>y</i> &lt; </text>
+<text top="1017" left="205" width="605" height="22" font="12">G do indeed undergo hardening in the appropriate context (e.g. vG-enno &gt; vyenno  &gt;</text>
+<text top="1039" left="108" width="143" height="22" font="12">fcenno 'I come out').</text>
+<text top="194" left="123" width="687" height="18" font="4">In any case, appeal to the cluster constraint weakens the case for the</text>
+<text top="218" left="108" width="703" height="18" font="4">[consonantal]-spread analysis, since, with a minor adjustment, the template itself can be</text>
+<text top="242" left="108" width="702" height="18" font="4">made to trigger consonantalization. All that has to be said is that the condition applies to</text>
+<text top="265" left="108" width="703" height="18" font="4">clusters of non-nuclear rather than [+consonantal] segments. In fact, consonantalization</text>
+<text top="289" left="108" width="702" height="18" font="4">(11) has to be supplemented by this prosodic information anyway, suggesting that</text>
+<text top="313" left="108" width="702" height="18" font="4">[+consonantal] here is being allowed to stray deep into territory formerly occupied by</text>
+<text top="337" left="108" width="702" height="18" font="4">[–syllabic]. As it stands, the rule would erroneously harden any non-consonantal segment</text>
+<text top="360" left="108" width="702" height="18" font="4">— glide or vowel — following a consonantal segment. The target segment has to be</text>
+<text top="384" left="108" width="702" height="18" font="4">specified as non-nuclear in order to avoid overgeneralization of the process to those</text>
+<text top="408" left="108" width="401" height="18" font="4">vowels that are not subject to desyllabification (e.g. </text>
+<text top="402" left="509" width="301" height="26" font="10">kati &gt; *kaTc 'something (nominative,</text>
+<text top="433" left="108" width="702" height="18" font="4">neuter)'). Recast in terms of a non-nuclear cluster, the template in (12) would directly</text>
+<text top="457" left="108" width="702" height="18" font="4">harden the of <i>y</i> in a C<i>y</i> sequence to [–continuant]. In feature terms, the switch from minus</text>
+<text top="481" left="108" width="702" height="18" font="4">to plus [consonantal] would then be no more than a redundant consequence of this</text>
+<text top="505" left="108" width="62" height="18" font="4">change.</text>
+<text top="528" left="123" width="687" height="18" font="4">Kaisse, however, is at pains to demonstrate that Cypriot Greek consonantalization is not</text>
+<text top="552" left="108" width="702" height="18" font="4">syllabically conditioned. She is certainly correct in pointing out that, although hardening</text>
+<text top="576" left="108" width="702" height="18" font="4">consistently targets syllable onsets, this in itself is not a sufficient condition for the</text>
+<text top="600" left="108" width="702" height="18" font="4">process to take place. In the absence of a preceding consonant, glides remain unhardened,</text>
+<text top="623" left="108" width="306" height="18" font="4">as forms such as the following testify:</text>
+<text top="621" left="414" width="6" height="11" font="1">2</text>
+<text top="671" left="108" width="34" height="18" font="4">(13)</text>
+<text top="689" left="162" width="70" height="26" font="10">yerakos</text>
+<text top="695" left="270" width="57" height="18" font="4">'falcon'</text>
+<text top="689" left="486" width="54" height="26" font="10">yatria</text>
+<text top="695" left="594" width="41" height="18" font="4">'cure'</text>
+<text top="715" left="162" width="59" height="26" font="10">loyazo</text>
+<text top="720" left="270" width="132" height="18" font="4">'pay attention to'</text>
+<text top="715" left="486" width="59" height="26" font="10">ayazin</text>
+<text top="720" left="594" width="86" height="18" font="4">'chill wind'</text>
+<text top="770" left="108" width="702" height="18" font="4">Nevertheless, there are several considerations which confirm that the process is indeed</text>
+<text top="793" left="108" width="702" height="18" font="4">syllabically controlled and that location in an onset is at least a necessary condition for</text>
+<text top="817" left="108" width="702" height="18" font="4">hardening. The additional requirement that a preceding consonant must be present</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="18" family="Courier" color="#000000"/>
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">17</text>
+<text top="966" left="130" width="680" height="15" font="0">This effect is fully automatic in a theory which universally places a binary limit on all syllabic</text>
+<text top="961" left="123" width="6" height="11" font="1">3</text>
+<text top="986" left="108" width="213" height="15" font="0">constituents (Kaye <i>et al</i>. 1990).</text>
+<text top="1005" left="123" width="687" height="15" font="0">Note that the failure of hardening in this context cannot be put down to some ban on over-complex</text>
+<text top="1025" left="108" width="702" height="15" font="0">word-initial  consonant clusters (however that might be formulated). As the form <i>kopria</i> confirms,</text>
+<text top="1045" left="108" width="302" height="15" font="0">the same effect is observable word-medially.</text>
+<text top="194" left="108" width="702" height="18" font="4">suggests that the relevant syllabic context is either a complex onset or a coda-onset</text>
+<text top="218" left="108" width="702" height="18" font="4">cluster. As I will now try to show, it is the latter context that constitutes the site not only</text>
+<text top="242" left="108" width="326" height="18" font="4">for hardening but also for spirantization.</text>
+<text top="313" left="108" width="350" height="18" font="7"><b>5.3 Hardening is syllabically conditioned</b></text>
+<text top="360" left="108" width="702" height="18" font="4">Confirmation that onset occupation is a necessary condition of hardening is provided by</text>
+<text top="384" left="108" width="702" height="18" font="4">the fact that desyllabification of <i>i</i> before a vowel fails in the context of two preceding</text>
+<text top="407" left="108" width="324" height="18" font="4">consonants which form an onset cluster:</text>
+<text top="455" left="108" width="34" height="18" font="4">(14)</text>
+<text top="473" left="181" width="45" height="26" font="10">krias</text>
+<text top="479" left="270" width="72" height="18" font="4">'meat' (* </text>
+<text top="473" left="342" width="140" height="26" font="10">kryas &gt; * krkas)</text>
+<text top="473" left="594" width="45" height="26" font="10">krios</text>
+<text top="479" left="702" width="41" height="18" font="4">'cold'</text>
+<text top="499" left="181" width="33" height="26" font="10">tria</text>
+<text top="504" left="270" width="47" height="18" font="4">'three'</text>
+<text top="499" left="594" width="59" height="26" font="10">kopria</text>
+<text top="504" left="702" width="67" height="18" font="4">'manure'</text>
+<text top="524" left="181" width="49" height="26" font="10">krioti</text>
+<text top="530" left="270" width="110" height="18" font="4">'cold weather'</text>
+<text top="579" left="108" width="702" height="18" font="4">This effect is derivable under the assumption that onsets in Cypriot Greek contain</text>
+<text top="603" left="108" width="702" height="18" font="4">maximally two positions.  The inability of <i>i</i> to desyllabify into an already saturated onset</text>
+<text top="601" left="302" width="6" height="11" font="1">3</text>
+<text top="627" left="108" width="142" height="18" font="4">bleeds hardening:</text>
+<text top="674" left="108" width="34" height="18" font="4">(15)</text>
+<text top="698" left="143" width="23" height="18" font="4">(a)</text>
+<text top="693" left="181" width="59" height="26" font="10">kopria</text>
+<text top="698" left="432" width="24" height="18" font="4">(b)</text>
+<text top="698" left="486" width="15" height="18" font="4">* </text>
+<text top="693" left="501" width="62" height="26" font="10">koprka</text>
+<text top="740" left="181" width="119" height="14" font="13">O N O   N N</text>
+<text top="740" left="452" width="151" height="14" font="13">   O N   O   N</text>
+<text top="759" left="181" width="119" height="14" font="13">| | |\  | |</text>
+<text top="759" left="452" width="151" height="14" font="13">*  | |  /|\  |</text>
+<text top="779" left="181" width="119" height="14" font="13">x x x x x x</text>
+<text top="779" left="452" width="151" height="14" font="13">   x x x x x x</text>
+<text top="798" left="181" width="119" height="14" font="13">| | | | | |</text>
+<text top="798" left="452" width="151" height="14" font="13">   | | | | | |</text>
+<text top="817" left="181" width="119" height="14" font="13">k o p r i a</text>
+<text top="817" left="452" width="151" height="14" font="13">   k o p r k a</text>
+<text top="862" left="108" width="702" height="18" font="4">In other words, whatever constraint it is that frowns on nuclei in hiatus is bested by the</text>
+<text top="886" left="108" width="404" height="18" font="4">constraint which places a binary ceiling on onsets.</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">18</text>
+<text top="194" left="123" width="687" height="18" font="4">Where desyllabification of <i>i</i> is able take place — that is, where only one consonant</text>
+<text top="218" left="108" width="702" height="18" font="4">precedes — one logical outcome would be the creation of a binary onset. This alternative,</text>
+<text top="242" left="108" width="702" height="18" font="4">it is reasonable to suppose, is the one adopted when the preceding consonant is a nasal or</text>
+<text top="265" left="108" width="702" height="18" font="4">lateral, the cluster context where hardening fails (see the forms in (7)). The rising sonority</text>
+<text top="289" left="108" width="702" height="18" font="4">slope of these sequences, more examples of which appear in (16), makes for well-formed</text>
+<text top="313" left="108" width="141" height="18" font="4">branching onsets.</text>
+<text top="360" left="108" width="34" height="18" font="4">(16)</text>
+<text top="384" left="181" width="57" height="18" font="3"><i>myalos</i></text>
+<text top="384" left="270" width="32" height="18" font="4">'big'</text>
+<text top="384" left="378" width="106" height="18" font="3"><i>nyata </i>'youth'</text>
+<text top="384" left="594" width="51" height="18" font="3"><i>lyonni</i></text>
+<text top="384" left="702" width="66" height="18" font="4">'it melts'</text>
+<text top="408" left="181" width="62" height="18" font="3"><i>psumya</i></text>
+<text top="408" left="270" width="58" height="18" font="4">'loaves'</text>
+<text top="408" left="378" width="95" height="18" font="3"><i>enya </i>'nine'</text>
+<text top="408" left="594" width="49" height="18" font="3"><i>rialya</i></text>
+<text top="408" left="702" width="61" height="18" font="4">'money'</text>
+<text top="455" left="123" width="687" height="18" font="4">In the complementary set of clusters produced by desyllabification of <i>i</i>, hardening —</text>
+<text top="479" left="108" width="702" height="18" font="4">in combination with spirantization of a preceding plosive — has the effect of reversing</text>
+<text top="503" left="108" width="702" height="18" font="4">the sonority gradient associated with branching onsets. And the resulting sequence is</text>
+<text top="527" left="108" width="701" height="18" font="4">precisely of the type that is expected of a coda-onset cluster. It is this syllabification, I will</text>
+<text top="550" left="108" width="517" height="18" font="4">now try to show, that triggers both hardening and spirantization.</text>
+<text top="574" left="123" width="687" height="18" font="4">In principle, all post-consonantal occurrences of <i>i</i>-desyllabification in Cypriot Greek</text>
+<text top="598" left="108" width="702" height="18" font="4">might have been expected to result in C<i>y</i> onsets, irrespective of the nature of the</text>
+<text top="622" left="108" width="702" height="18" font="4">consonant in question. That this would certainly have been an option is confirmed by what</text>
+<text top="645" left="108" width="702" height="18" font="4">happens under similar circumstances in other languages, such as French (e.g. Kaye &amp;</text>
+<text top="669" left="108" width="702" height="18" font="4">Lowenstamm 1984). For some reason, Cypriot Greek does not tolerate complex onsets</text>
+<text top="693" left="108" width="702" height="18" font="4">in which <i>y</i> is preceded by <i>r</i> or an obstruent. (The ban on <i>ry</i> onsets is shared with English,</text>
+<text top="717" left="108" width="702" height="18" font="4">among other languages.) Any account of the desyllabification of CVV to CCV must thus</text>
+<text top="740" left="108" width="702" height="18" font="4">allow for both attested outcomes — complex onset and coda-onset. The fact that Cypriot</text>
+<text top="764" left="108" width="702" height="18" font="4">Greek opts for the former when the preceding consonant is a nasal or lateral and the latter</text>
+<text top="788" left="108" width="419" height="18" font="4">elsewhere must be treated as a matter of stipulation.</text>
+<text top="812" left="123" width="687" height="18" font="4">Various pieces of independent evidence confirm that hardening occurs after a coda</text>
+<text top="836" left="108" width="702" height="18" font="4">consonant in Cypriot Greek. Consider, for example, the following forms which illustrate</text>
+<text top="859" left="108" width="581" height="18" font="4">how potential consonant clusters before a hardened glide are simplified:</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="18" family="Times" color="#000000"/>
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">19</text>
+<text top="865" left="130" width="680" height="15" font="0">Indeed this result is the only one allowed for in a restrictive theory which dispenses with the coda</text>
+<text top="861" left="123" width="6" height="11" font="1">4</text>
+<text top="885" left="108" width="702" height="15" font="0">as an independent constituent and countenances no more than one post-nuclear position within the</text>
+<text top="905" left="108" width="702" height="15" font="0">rhyme (Kaye <i>et al</i>. 1990). As with the branching-onset case just discussed, this effect follows automatically</text>
+<text top="924" left="108" width="702" height="15" font="0">from the assumption that a universal binary limit is placed on all syllabic constituents. In this instance, the</text>
+<text top="944" left="108" width="702" height="15" font="0">single-coda restriction derives from the fact that, of the maximally two positions available within a</text>
+<text top="964" left="108" width="394" height="15" font="0">branching rhyme, one is necessarily affiliated to a nucleus.</text>
+<text top="1002" left="130" width="603" height="15" font="0">Note that, in the two <i>rf</i> clusters represented in (18), the unsyllabified consonant is <i>r</i> in </text>
+<text top="997" left="733" width="77" height="22" font="12">aDefca but</text>
+<text top="997" left="123" width="6" height="11" font="1">5</text>
+<text top="1023" left="108" width="36" height="15" font="2"><i>f</i> in </text>
+<text top="1019" left="144" width="666" height="22" font="12">omorka. The reason for this discrepancy is apparently related to the fact that the hardened</text>
+<text top="1045" left="108" width="702" height="15" font="0">consonant belongs to the root in the former word but to the suffix in the latter. The difference does</text>
+<text top="194" left="108" width="34" height="18" font="4">(17)</text>
+<text top="212" left="181" width="73" height="26" font="10">aDerfi-a</text>
+<text top="218" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="212" left="378" width="60" height="26" font="10">aDefca</text>
+<text top="218" left="540" width="111" height="18" font="4">'brothers' (cf. </text>
+<text top="212" left="651" width="131" height="26" font="10">aDerfi 'brother')</text>
+<text top="238" left="181" width="70" height="26" font="10">DonDi-a</text>
+<text top="243" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="238" left="378" width="55" height="26" font="10">DoJca</text>
+<text top="243" left="540" width="46" height="18" font="4">'teeth'</text>
+<text top="263" left="181" width="74" height="26" font="10">kumpi-a</text>
+<text top="269" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="263" left="378" width="58" height="26" font="10">kumca</text>
+<text top="269" left="540" width="66" height="18" font="4">'buttons'</text>
+<text top="289" left="181" width="72" height="26" font="10">kkasti-a</text>
+<text top="294" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="289" left="378" width="51" height="26" font="10">kasca</text>
+<text top="294" left="540" width="67" height="18" font="4">'worries'</text>
+<text top="315" left="181" width="77" height="26" font="10">vasti-ete</text>
+<text top="320" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="315" left="378" width="67" height="26" font="10">vascete</text>
+<text top="320" left="540" width="83" height="18" font="4">'he is held'</text>
+<text top="340" left="181" width="78" height="26" font="10">omorf-ia</text>
+<text top="346" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="340" left="378" width="68" height="26" font="10">omorka</text>
+<text top="346" left="540" width="98" height="18" font="4">'beauty' (cf. </text>
+<text top="340" left="638" width="154" height="26" font="10">omorfo 'beautiful')</text>
+<text top="395" left="108" width="512" height="18" font="4">In traditional serial derivational terms, we have something like </text>
+<text top="389" left="620" width="190" height="26" font="10">aDerfi-a &gt; *aDerfya &gt;</text>
+<text top="420" left="108" width="10" height="18" font="4">*</text>
+<text top="415" left="117" width="693" height="26" font="10">aDerfca &gt; aDefca. Simplification follows directly from the assumption that the rhyme</text>
+<text top="446" left="108" width="577" height="18" font="4">in Cypriot Greek contains no more than one coda position.  In the root </text>
+<text top="441" left="685" width="125" height="26" font="10">aDerfi 'brother'</text>
+<text top="444" left="583" width="6" height="11" font="1">4</text>
+<text top="472" left="108" width="420" height="18" font="4">(18)a, <i>r</i> occupies the coda and <i>f</i> the following onset:</text>
+<text top="519" left="108" width="34" height="18" font="4">(18)</text>
+<text top="543" left="143" width="23" height="18" font="4">(a)</text>
+<text top="537" left="181" width="124" height="26" font="10">aDerfi 'brother'</text>
+<text top="543" left="486" width="24" height="18" font="4">(b)</text>
+<text top="537" left="540" width="138" height="26" font="10">aDefca 'brothers'</text>
+<text top="590" left="181" width="54" height="14" font="13">    R</text>
+<text top="590" left="540" width="54" height="14" font="13">    R</text>
+<text top="609" left="181" width="65" height="14" font="13">    |\</text>
+<text top="609" left="540" width="65" height="14" font="13">    |\</text>
+<text top="628" left="181" width="140" height="14" font="13">N O N \   O N</text>
+<text top="628" left="540" width="140" height="14" font="13">N O N \   O N</text>
+<text top="647" left="181" width="140" height="14" font="13">| | |  \  | |</text>
+<text top="647" left="540" width="140" height="14" font="13">| | |  \  | |</text>
+<text top="666" left="181" width="140" height="14" font="13">x x x   x x x</text>
+<text top="666" left="540" width="140" height="14" font="13">x x x   x x x</text>
+<text top="685" left="181" width="140" height="14" font="13">| | |   | | |</text>
+<text top="685" left="540" width="140" height="14" font="13">| | |   | | |</text>
+<text top="707" left="181" width="22" height="14" font="13">a </text>
+<text top="702" left="203" width="11" height="23" font="14">D</text>
+<text top="707" left="213" width="108" height="14" font="13"> e   r f i</text>
+<text top="707" left="540" width="22" height="14" font="13">a </text>
+<text top="702" left="562" width="11" height="23" font="14">D</text>
+<text top="707" left="572" width="43" height="14" font="13"> e r</text>
+<text top="703" left="604" width="10" height="22" font="12">(</text>
+<text top="707" left="614" width="65" height="14" font="13"> f c a</text>
+<text top="755" left="108" width="702" height="18" font="4">In the plural form (18)b, on the other hand, the onset is occupied by <i>c</i>, leaving the two</text>
+<text top="778" left="108" width="702" height="18" font="4">root consonants to vie for the sole coda position. In this instance, it is the <i>r</i> that fails to</text>
+<text top="802" left="108" width="113" height="18" font="4">be syllabified.</text>
+<text top="800" left="221" width="6" height="11" font="1">5</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">20</text>
+<text top="1045" left="108" width="484" height="15" font="0">not affect the point at issue here: both cases display coda simplification.</text>
+<text top="194" left="123" width="688" height="18" font="4">The same cluster-reduction effect is evident in roots containing a geminate consonant:</text>
+<text top="242" left="108" width="34" height="18" font="4">(19)</text>
+<text top="260" left="181" width="69" height="26" font="10">xappi-a</text>
+<text top="265" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="260" left="378" width="49" height="26" font="10">xafca</text>
+<text top="265" left="540" width="41" height="18" font="4">'pills'</text>
+<text top="285" left="181" width="91" height="26" font="10">ankaTTi-a</text>
+<text top="291" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="285" left="378" width="76" height="26" font="10">ankaTca</text>
+<text top="291" left="540" width="57" height="18" font="4">'thorns'</text>
+<text top="311" left="181" width="60" height="26" font="10">putti-a</text>
+<text top="316" left="324" width="11" height="18" font="4">&gt;</text>
+<text top="311" left="378" width="55" height="26" font="10">puTca</text>
+<text top="316" left="540" width="55" height="18" font="4">'thighs'</text>
+<text top="366" left="108" width="702" height="18" font="4">On the assumption that a geminate is a single melodic expression doubly attached to a</text>
+<text top="389" left="108" width="702" height="18" font="4">coda-onset sequence, simplification results from the occupation of the onset by the</text>
+<text top="413" left="108" width="702" height="18" font="4">hardened consonant. The root consonant can avail itself of no more than a single coda</text>
+<text top="437" left="108" width="703" height="18" font="4">position (giving the effect of degemination), where it is subject to spirantization, as in</text>
+<text top="455" left="108" width="60" height="26" font="10">puTca.</text>
+<text top="486" left="123" width="687" height="18" font="4">On the basis of the evidence just reviewed, we may conclude that hardening in Cypriot</text>
+<text top="510" left="108" width="702" height="18" font="4">Greek is syllabically conditioned and specifically targets a glide in the onset position of</text>
+<text top="534" left="108" width="702" height="18" font="4">a coda-onset cluster. The question now is why hardening occurs in precisely in this</text>
+<text top="558" left="108" width="65" height="18" font="4">context.</text>
+<text top="629" left="108" width="260" height="18" font="7"><b>5.4 The Complexity Condition</b></text>
+<text top="676" left="108" width="702" height="18" font="4">The template in (12) is representative of a class of constraints, variously referred to as</text>
+<text top="700" left="108" width="702" height="18" font="4">coda conditions (Itô 1986) or cluster conditions (Yip 1991), which have been proposed</text>
+<text top="724" left="108" width="702" height="18" font="4">to account for long-recognized restrictions on the distribution of consonants in particular</text>
+<text top="747" left="108" width="702" height="18" font="4">syllabic contexts. The case in hand evidently belongs to the set of phonotactic restrictions</text>
+<text top="771" left="108" width="702" height="18" font="4">on coda-onset clusters described in terms of syllable contact laws (Vennemann 1988). In</text>
+<text top="795" left="108" width="702" height="18" font="4">particular, the [+continuant][–continuant] template establishes in this context the</text>
+<text top="819" left="108" width="702" height="18" font="4">favoured sonority differential in which a coda consonant is more sonorous than a</text>
+<text top="842" left="108" width="202" height="18" font="4">following onset segment.</text>
+<text top="866" left="123" width="687" height="18" font="4">The template itself, like other cluster conditions of its ilk, provides no explanation of</text>
+<text top="890" left="108" width="702" height="18" font="4">the distributional pattern it describes. Only through consulting some formally separate</text>
+<text top="914" left="108" width="702" height="18" font="4">sonority log are we given an inkling that this particular constraint instantiates some more</text>
+<text top="937" left="108" width="702" height="18" font="4">general principle. It is precisely this sort of shortcoming that a proposal by Kaye <i>et al</i>.</text>
+<text top="961" left="108" width="702" height="18" font="4">(1990) regarding the relative complexity of adjacent segments was designed to overcome.</text>
+<text top="985" left="108" width="702" height="18" font="4">As elaborated by Harris (1990), the basic idea is that syllabic positions within particular</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">21</text>
+<text top="194" left="108" width="702" height="18" font="4">phonotactic domains are subject to severe and unequal restrictions on the extent to which</text>
+<text top="218" left="108" width="702" height="18" font="4">they can license segmental material. Included in this set of domains are the two sites</text>
+<text top="242" left="108" width="702" height="18" font="4">where inter-consonantal dependencies are in evidence — complex onsets and, most</text>
+<text top="265" left="108" width="682" height="18" font="4">relevantly for our present purposes, clusters formed by a coda and a following onset.</text>
+<text top="289" left="123" width="687" height="18" font="4">The asymmetric division of distributional spoils between two positions within a</text>
+<text top="313" left="108" width="702" height="18" font="4">phonotactic domain can be derived by assuming (i) that the domain is headed and (ii) that</text>
+<text top="337" left="108" width="703" height="18" font="4">a head position is invested with a greater degree of segmental licensing power than its</text>
+<text top="360" left="108" width="702" height="18" font="4">complement. On the basis of the arguments set out in Kaye <i>et al</i>. (1990), let us assume</text>
+<text top="384" left="108" width="702" height="18" font="4">that coda-onset clusters are right-headed. This accords with the well-known propensity</text>
+<text top="408" left="108" width="702" height="18" font="4">for the melodic content of a coda to be partially or wholly dependent on that of a</text>
+<text top="432" left="108" width="350" height="18" font="4">following onset (cf. Prince 1984, Itô 1986).</text>
+<text top="455" left="123" width="687" height="18" font="4">The unequal manner in which segmental licensing potential is distributed between a</text>
+<text top="479" left="108" width="702" height="18" font="4">head position and its complement is encapsulated in the following constraint (adapted</text>
+<text top="503" left="108" width="152" height="18" font="4">from Harris 1990):</text>
+<text top="550" left="108" width="34" height="18" font="4">(20)</text>
+<text top="575" left="162" width="191" height="18" font="7"><b>Complexity Condition</b></text>
+<text top="598" left="162" width="648" height="18" font="4">Within a phonotactic domain, the melodic unit occupying the head position must</text>
+<text top="621" left="162" width="642" height="18" font="4">be elementally more complex than the unit occupying the complement position.</text>
+<text top="669" left="108" width="702" height="18" font="4">In the specific context where Cypriot Greek hardening occurs, the Complexity Condition</text>
+<text top="693" left="108" width="702" height="18" font="4">prohibits a coda position from sponsoring a segment that is representationally more</text>
+<text top="716" left="108" width="702" height="18" font="4">complex than the segment occupying the following onset. (For a related proposal based</text>
+<text top="740" left="108" width="702" height="18" font="4">on features, see Rice 1992.) In the framework sketched in §4, representational complexity</text>
+<text top="764" left="108" width="703" height="18" font="4">is straightforwardly gauged by the number of elements contained in a segment. Within</text>
+<text top="788" left="108" width="702" height="18" font="4">domains where consonant clusters are subject to phonotactic constraints, elemental</text>
+<text top="811" left="108" width="702" height="18" font="4">complexity gives direct representational expression to sonority. There is no need for some</text>
+<text top="835" left="108" width="702" height="18" font="4">formally independent sonority hierarchy. Specifically, the relative sonority of a consonant</text>
+<text top="859" left="108" width="701" height="18" font="4">is in inverse proportion to the number of elements it contains. For example, a labial</text>
+<text top="883" left="108" width="702" height="18" font="4">approximant, with one element ([U]), is more sonorous than a homorganic fricative, with</text>
+<text top="906" left="108" width="702" height="18" font="4">two ([U,h]); the fricative in turn is more sonorous than the homorganic plosive, with three</text>
+<text top="930" left="108" width="163" height="18" font="4">elements ([U,h,?]).  </text>
+<text top="954" left="123" width="687" height="18" font="4">The insight that Kaisse's continuant+plosive template is designed to capture translates</text>
+<text top="978" left="108" width="702" height="18" font="4">into a constraint requiring the onset of a coda-onset cluster to contain the plosive-defining</text>
+<text top="1001" left="108" width="702" height="18" font="4">combination of elements [h] and [?], the second of which is barred from appearing in the</text>
+<text top="1025" left="108" width="702" height="18" font="4">coda. The result satisfies the Complexity Condition by producing an upward complexity</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="15" size="15" family="Times" color="#000000"/>
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">22</text>
+<text top="194" left="108" width="702" height="18" font="4">slope between the coda and a following onset (viewed from left to right). This effect is</text>
+<text top="218" left="108" width="702" height="18" font="4">illustrated in (21), where we can compare the relevant contexts in the illegal form * <i>napyo</i></text>
+<text top="242" left="108" width="599" height="18" font="4">(&lt; <i>napi-o</i>) and the attested output <i>nafco</i>. ([I,h,?] defines a palatal plosive.)</text>
+<text top="289" left="108" width="34" height="18" font="4">(21)</text>
+<text top="313" left="143" width="102" height="18" font="4">(a) * <i>napyo</i></text>
+<text top="313" left="486" width="24" height="18" font="4">(b)</text>
+<text top="313" left="540" width="45" height="18" font="3"><i>nafco</i></text>
+<text top="313" left="648" width="96" height="18" font="4">'that I drink'</text>
+<text top="358" left="181" width="86" height="14" font="13"> R     O</text>
+<text top="358" left="540" width="86" height="14" font="13"> R     O</text>
+<text top="377" left="181" width="76" height="14" font="13">  \    </text>
+<text top="373" left="257" width="10" height="21" font="15">*</text>
+<text top="377" left="540" width="76" height="14" font="13">  \    </text>
+<text top="373" left="616" width="10" height="21" font="15">*</text>
+<text top="396" left="181" width="119" height="14" font="13">...x   x...</text>
+<text top="396" left="540" width="119" height="14" font="13">...x   x...</text>
+<text top="415" left="181" width="32" height="14" font="13">   </text>
+<text top="412" left="213" width="10" height="21" font="15">*</text>
+<text top="415" left="224" width="32" height="14" font="13">   </text>
+<text top="412" left="257" width="10" height="21" font="15">*</text>
+<text top="415" left="540" width="32" height="14" font="13">   </text>
+<text top="412" left="572" width="10" height="21" font="15">*</text>
+<text top="415" left="583" width="32" height="14" font="13">   </text>
+<text top="412" left="616" width="10" height="21" font="15">*</text>
+<text top="434" left="181" width="22" height="14" font="13">  </text>
+<text top="431" left="203" width="10" height="21" font="15">+</text>
+<text top="434" left="213" width="11" height="14" font="13"> </text>
+<text top="431" left="224" width="10" height="21" font="15">,</text>
+<text top="434" left="235" width="11" height="14" font="13"> </text>
+<text top="431" left="246" width="10" height="21" font="15">+</text>
+<text top="434" left="257" width="11" height="14" font="13"> </text>
+<text top="431" left="267" width="10" height="21" font="15">,</text>
+<text top="434" left="540" width="22" height="14" font="13">  </text>
+<text top="431" left="562" width="10" height="21" font="15">+</text>
+<text top="434" left="572" width="11" height="14" font="13"> </text>
+<text top="431" left="583" width="10" height="21" font="15">,</text>
+<text top="434" left="594" width="11" height="14" font="13"> </text>
+<text top="431" left="605" width="10" height="21" font="15">+</text>
+<text top="434" left="616" width="11" height="14" font="13"> </text>
+<text top="431" left="626" width="10" height="21" font="15">,</text>
+<text top="444" left="181" width="97" height="14" font="13">  |U| |I|</text>
+<text top="444" left="540" width="97" height="14" font="13">  |U| |I|</text>
+<text top="453" left="181" width="65" height="14" font="13">  | | </text>
+<text top="450" left="246" width="10" height="21" font="15">.</text>
+<text top="453" left="257" width="11" height="14" font="13"> </text>
+<text top="450" left="267" width="10" height="21" font="15">-</text>
+<text top="453" left="540" width="97" height="14" font="13">  | | | |</text>
+<text top="463" left="181" width="54" height="14" font="13">  |h|</text>
+<text top="463" left="540" width="97" height="14" font="13">  |h| |h|</text>
+<text top="473" left="181" width="54" height="14" font="13">  | |</text>
+<text top="473" left="540" width="22" height="14" font="13">  </text>
+<text top="469" left="562" width="10" height="21" font="15">.</text>
+<text top="473" left="572" width="11" height="14" font="13"> </text>
+<text top="469" left="583" width="10" height="21" font="15">-</text>
+<text top="473" left="594" width="43" height="14" font="13"> | |</text>
+<text top="482" left="181" width="54" height="14" font="13">  |?|</text>
+<text top="482" left="540" width="97" height="14" font="13">      |?|</text>
+<text top="492" left="181" width="22" height="14" font="13">  </text>
+<text top="488" left="203" width="10" height="21" font="15">.</text>
+<text top="492" left="213" width="11" height="14" font="13"> </text>
+<text top="488" left="224" width="10" height="21" font="15">-</text>
+<text top="492" left="270" width="32" height="14" font="13">   </text>
+<text top="492" left="378" width="11" height="14" font="13"> </text>
+<text top="492" left="540" width="65" height="14" font="13">      </text>
+<text top="488" left="605" width="10" height="21" font="15">.</text>
+<text top="492" left="616" width="11" height="14" font="13"> </text>
+<text top="488" left="626" width="10" height="21" font="15">-</text>
+<text top="537" left="108" width="702" height="18" font="4">The Complexity Condition is violated in (21)a: the coda <i>p</i> sports three elements to the</text>
+<text top="560" left="108" width="702" height="18" font="4">onset <i>y</i>'s one. In (21)b, on the other hand, hardening and spirantization conspire to reverse</text>
+<text top="584" left="108" width="702" height="18" font="4">the complexity slope between the two positions. Hardening consists in the accrual of the</text>
+<text top="608" left="108" width="703" height="18" font="4">manner elements [?] and [h] to the onset, spirantization in the suppression of [?] in the</text>
+<text top="632" left="108" width="702" height="18" font="4">coda. The resulting redistribution of melodic complexity from the complement position</text>
+<text top="656" left="108" width="702" height="18" font="4">to the head satisfies the Complexity Condition: the onset, fortified by the acquisition of</text>
+<text top="679" left="108" width="644" height="18" font="4">[?] and [h], beats the coda, weakened by the suppression of [?], by one element.</text>
+<text top="703" left="123" width="283" height="18" font="4">(22) tabulates how the output form </text>
+<text top="698" left="407" width="403" height="26" font="10">nafco sees off *napyo and three other competing</text>
+<text top="729" left="108" width="135" height="18" font="4">analyses of input </text>
+<text top="723" left="243" width="567" height="26" font="10">napi-o (syllabification indicated by parentheses). Here we may compare</text>
+<text top="754" left="108" width="702" height="18" font="4">how the different forms fare with respect to two constraints — the Complexity Condition</text>
+<text top="778" left="108" width="702" height="18" font="4">and Onset, the latter specifying the familiar requirement that syllables have a filled onset.</text>
+<text top="802" left="108" width="232" height="18" font="4">In faithfully preserving the </text>
+<text top="796" left="339" width="471" height="26" font="10">i-o hiatus of the input, the final syllable of candidate (a)</text>
+<text top="827" left="108" width="702" height="18" font="4">violates Onset. All other candidates represented in the table satisfy the constraint by</text>
+<text top="851" left="108" width="702" height="18" font="4">syllabifying <i>i</i> (&gt; <i>y</i>) in an onset. (This is achieved at the expense of underparsing the</text>
+<text top="875" left="108" width="348" height="18" font="4">nuclear position which <i>i</i> occupies in input.)</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="16" size="18" family="Times" color="#000000"/>
+	<fontspec id="17" size="18" family="Times" color="#000000"/>
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">23</text>
+<text top="194" left="108" width="34" height="18" font="4">(22)</text>
+<text top="220" left="152" width="59" height="26" font="10">napi-o</text>
+<text top="227" left="338" width="47" height="18" font="4">Onset</text>
+<text top="227" left="457" width="180" height="18" font="4">Complexity Condition</text>
+<text top="287" left="152" width="20" height="16" font="16">(a)</text>
+<text top="287" left="216" width="78" height="16" font="16">(<i>na</i>)(<i>pi</i>)(<i>o</i>)</text>
+<text top="287" left="357" width="9" height="16" font="16">*</text>
+<text top="322" left="152" width="21" height="16" font="16">(b)</text>
+<text top="322" left="226" width="68" height="16" font="16">(<i>nap</i>)(<i>yo</i>)</text>
+<text top="322" left="474" width="9" height="16" font="16">*</text>
+<text top="322" left="546" width="89" height="16" font="16">[U,?,h] &gt; [I]</text>
+<text top="356" left="152" width="20" height="16" font="16">(c)</text>
+<text top="356" left="229" width="65" height="16" font="16">(<i>naf</i>)(<i>yo</i>)</text>
+<text top="356" left="474" width="9" height="16" font="16">*</text>
+<text top="356" left="546" width="76" height="16" font="16">[U,h] &gt; [I]</text>
+<text top="391" left="152" width="21" height="16" font="16">(d)</text>
+<text top="391" left="226" width="68" height="16" font="16">(<i>nap</i>)(<i>co</i>)</text>
+<text top="391" left="474" width="9" height="16" font="16">*</text>
+<text top="391" left="546" width="114" height="16" font="16">[U,?,h] = [I,?,h]</text>
+<text top="426" left="152" width="25" height="16" font="16">(e) </text>
+<text top="420" left="177" width="14" height="25" font="9">T</text>
+<text top="426" left="229" width="65" height="16" font="16">(<i>naf</i>)(<i>co</i>)</text>
+<text top="426" left="546" width="102" height="16" font="16">[U,h] &lt; [I,?,h]</text>
+<text top="475" left="108" width="702" height="18" font="4">Candidates (b), (c) and (d) all fall foul of the Complexity Condition, each in its own way.</text>
+<text top="499" left="108" width="702" height="18" font="4">In displaying neither spirantization nor hardening, (b) is guilty of the most flagrant</text>
+<text top="523" left="108" width="702" height="18" font="4">violation: the coda <i>p</i> with three elements is grossly more complex than the onset <i>y</i> with</text>
+<text top="546" left="108" width="701" height="18" font="4">one. (c) shows spirantization without hardening; this reduces the complexity gradient in</text>
+<text top="570" left="108" width="702" height="18" font="4">the right direction but not sufficiently to satisfy the constraint. (d) shows hardening but</text>
+<text top="594" left="108" width="702" height="18" font="4">not spirantization; this levels the complexity differential but is still an infringement of the</text>
+<text top="618" left="108" width="702" height="18" font="4">constraint. Only through a combination of spirantization and hardening can the uphill</text>
+<text top="641" left="108" width="702" height="18" font="4">complexity slope demanded by the Complexity Condition be achieved; the output form</text>
+<text top="665" left="108" width="518" height="18" font="4">(e) is the only candidate in (22) that is successful in this respect.</text>
+<text top="689" left="123" width="687" height="18" font="4">The nearest feature equivalents to [?] and [h] are respectively [–continuant] and</text>
+<text top="713" left="108" width="702" height="18" font="4">[+continuant]. The correspondence is only very rough in the latter case. [h] is like</text>
+<text top="737" left="108" width="702" height="18" font="4">[+continuant] only in so far as it occurs in fricatives. The two primes are different in that</text>
+<text top="760" left="108" width="702" height="18" font="4">[h] also appears in plosives, while [+continuant] also characterizes vocoids. In any event,</text>
+<text top="784" left="108" width="702" height="18" font="4">both hardening and spirantization are elementally expressed without recourse to anything</text>
+<text top="808" left="108" width="701" height="18" font="4">directly equivalent to [consonantal] or any other major-class category. There is no need</text>
+<text top="832" left="108" width="703" height="18" font="4">for a constraint which calls on segments to be specified (either way) for consonantality</text>
+<text top="855" left="108" width="414" height="18" font="4">in order to guarantee their phonetic interpretability.</text>
+<text top="879" left="123" width="688" height="18" font="4">We can imagine various ways in which the reapportionment of melodic complexity in</text>
+<text top="903" left="108" width="702" height="18" font="4">(21) might be achieved. For example, requisite elements might be assumed to be supplied</text>
+<text top="927" left="108" width="703" height="18" font="4">by default. Or it might be suggested that the head snatches available material from its</text>
+<text top="950" left="108" width="702" height="18" font="4">complement; transference of [?] from one position to the other would simultaneously</text>
+<text top="974" left="108" width="702" height="18" font="4">produce coda spirantization and onset hardening. This is not an issue that need detain us</text>
+<text top="998" left="108" width="702" height="18" font="4">here, though. The main point is that the analysis captures the observed manner changes</text>
+<text top="1022" left="108" width="586" height="18" font="4">in Cypriot Greek coda-onset clusters without appealing to [consonantal].</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">24</text>
+<text top="194" left="108" width="112" height="18" font="7"><b>6 Conclusion</b></text>
+<text top="241" left="108" width="702" height="18" font="4">In the analysis of Cypriot Greek presented in the last section, suppression and accretion</text>
+<text top="265" left="108" width="702" height="18" font="4">of elemental material take place in response to a specific constraint governing the relative</text>
+<text top="289" left="108" width="701" height="18" font="4">melodic complexity of adjacent positions. The hardening and spirantization effects that</text>
+<text top="312" left="108" width="702" height="18" font="4">these operations produce are specified at an output level that is simultaneously</text>
+<text top="336" left="108" width="703" height="18" font="4">redundancy-free and fully interpretable. At no point is it necessary to invoke some 'later'</text>
+<text top="360" left="108" width="702" height="18" font="4">representational level at which missing phonological information has to be filled in prior</text>
+<text top="384" left="108" width="359" height="18" font="4">to interfacing with phonetic implementation.</text>
+<text top="407" left="123" width="687" height="18" font="4">Any phonological representation constructed out of stand-alone elements is directly</text>
+<text top="431" left="108" width="702" height="18" font="4">mappable onto physical phonetics without having to pass through some species of</text>
+<text top="455" left="108" width="701" height="18" font="4">interpretive component in which missing phonological information is filled in. In this</text>
+<text top="479" left="108" width="701" height="18" font="4">manner, phonetic interpretation is taken out of the hands of the generator and entrusted</text>
+<text top="503" left="108" width="702" height="18" font="4">wholly to the perceptual and articulatory devices. The mapping between lexical input and</text>
+<text top="526" left="108" width="702" height="18" font="4">phonological output meanwhile is strictly concerned with the grammatical well-</text>
+<text top="550" left="108" width="701" height="18" font="4">formedness of representations and not at all with some pressure to flesh out phonetic</text>
+<text top="574" left="108" width="702" height="18" font="4">detail. Thus there are no constraints whose sole claim on representations is that they ooze</text>
+<text top="598" left="108" width="702" height="18" font="4">specificational detail in order to be better prepared for submission to physical phonetics.</text>
+<text top="621" left="108" width="702" height="18" font="4">Grammar is not viewed as a battleground between opposing forces of featural leanness</text>
+<text top="645" left="108" width="702" height="18" font="4">and segmental plenitude. Moreover, there is but one level of phonological output — a</text>
+<text top="669" left="108" width="702" height="18" font="4">level at which representations are simultaneously redundancy-free, fully interpretable and</text>
+<text top="693" left="108" width="279" height="18" font="4">available for constraint evaluation.</text>
+<text top="788" left="108" width="94" height="18" font="7"><b>References</b></text>
+<text top="834" left="108" width="702" height="15" font="0">Anderson, John &amp; Colin M. Ewen (1987). <i>Principles of Dependency Phonology</i>. Cambridge: Cambridge</text>
+<text top="854" left="108" width="113" height="15" font="0">University Press.</text>
+<text top="874" left="108" width="702" height="15" font="0">Anderson, John M. &amp; Charles Jones (1974). Three theses concerning phonological representations. <i>Journal</i></text>
+<text top="894" left="123" width="158" height="15" font="2"><i>of Linguistics</i> 10. 1-26.</text>
+<text top="913" left="108" width="702" height="15" font="0">Browman, Catherine P. &amp; Louis Goldstein (1989). Articulatory gestures as phonological units. <i>Phonology</i></text>
+<text top="933" left="123" width="71" height="15" font="0">6. 201-52.</text>
+<text top="953" left="108" width="673" height="15" font="0">Chomsky, Noam &amp; Morris Halle (1968). <i>The sound pattern of English</i>. New York: Harper &amp; Row.</text>
+<text top="973" left="108" width="702" height="15" font="0">Clements, George N. &amp; Elizabeth V. Hume (1995). Segment structure. In John A. Goldsmith (ed.), <i>A</i></text>
+<text top="993" left="123" width="301" height="15" font="2"><i>handbook of phonology</i>. Oxford: Blackwell.</text>
+<text top="1012" left="108" width="702" height="15" font="0">Cole, Jennifer &amp; Charles Kisseberth (1994). An Optimal Domains Theory of harmony. <i>Studies in the</i></text>
+<text top="1032" left="123" width="170" height="15" font="2"><i>Linguistic Sciences</i> 24:2.</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="299" width="431" height="15" font="2"><i>Phonological output is redundancy-free and fully interpretable</i></text>
+<text top="132" left="790" width="20" height="18" font="4">25</text>
+<text top="193" left="108" width="702" height="15" font="0">Goldsmith, John A. (1985). Vowel harmony in Khalkha Mongolian, Yaka, Finnish and Hungarian.</text>
+<text top="213" left="123" width="158" height="15" font="2"><i>Phonology</i> 2. 251-274.</text>
+<text top="233" left="108" width="500" height="15" font="0">Halle, Morris (1959). <i>The sound pattern of Russian</i>. The Hague: Mouton.</text>
+<text top="253" left="108" width="616" height="15" font="0">Halle, Morris (1995). Feature spreading and feature geometry. <i>Linguistic Inquiry</i> 26. 1-46.</text>
+<text top="273" left="108" width="663" height="15" font="0">Harris, John (1990). Segmental complexity and phonological government. <i>Phonology</i> 7. 255-300.</text>
+<text top="292" left="108" width="599" height="15" font="0">Harris, John (in prep.). Full interpretation in phonology. Ms. University College London.</text>
+<text top="312" left="108" width="702" height="15" font="0">Harris, John &amp; Geoff Lindsey (1995). The elements of phonological representation. In Jacques Durand &amp;</text>
+<text top="332" left="123" width="687" height="15" font="0">Francis Katamba (eds.), <i>Frontiers of phonology: atoms, structures and derivations</i>, 34-79. Harlow,</text>
+<text top="352" left="123" width="117" height="15" font="0">Essex: Longman.</text>
+<text top="372" left="108" width="702" height="15" font="0">Hulst, Harry van der (1989). Atoms of segmental structure: components, gestures and dependency.</text>
+<text top="391" left="123" width="149" height="15" font="2"><i>Phonology</i> 6. 253-84.</text>
+<text top="411" left="108" width="702" height="15" font="0">Hulst, Harry van der &amp; Norval Smith. (1985). Vowel features and umlaut in Djingili, Nyangumarda and</text>
+<text top="431" left="123" width="223" height="15" font="0">Warlpiri. <i>Phonology</i> 2. 275-302.</text>
+<text top="451" left="108" width="702" height="15" font="0">Hume, Elizabeth &amp; David Odden (1994). The superfluity of [Consonantal]. Paper read at the International</text>
+<text top="471" left="123" width="532" height="15" font="0">Workshop on Phonological Structure, University of Durham, September 1994.</text>
+<text top="490" left="108" width="702" height="15" font="0">Itô, Junko (1986). <i>Syllabic theory in prosodic phonology</i>. PhD dissertation, University of Massachusetts.</text>
+<text top="510" left="123" width="252" height="15" font="0">Published 1988, New York: Garland.</text>
+<text top="530" left="108" width="702" height="15" font="0">Itô, Junko, Armin Mester &amp; Jaye Padgett (1995). Licensing and redundancy: underspecification in</text>
+<text top="550" left="123" width="348" height="15" font="0">Optimality Theory. <i>Linguistic Inquiry</i> 26. 571-613.</text>
+<text top="570" left="108" width="515" height="15" font="0">Kaisse, Ellen M. (1992). Can [consonantal] spread? <i>Language</i> 68. 313-332.</text>
+<text top="589" left="108" width="702" height="15" font="0">Kaye, Jonathan &amp; Jean Lowenstamm (1984). De la syllabicité. In François Dell, Daniel Hirst &amp; Jean-Roger</text>
+<text top="609" left="123" width="475" height="15" font="0">Vergnaud (eds), <i>Forme sonore du langage</i>, 123-159. Paris: Hermann.</text>
+<text top="629" left="108" width="702" height="15" font="0">Kaye, Jonathan, Jean Lowenstamm &amp; Jean-Roger Vergnaud (1985). The internal structure of phonological</text>
+<text top="649" left="123" width="537" height="15" font="0">elements: a theory of charm and government. <i>Phonology Yearbook</i> 2. 305-328.</text>
+<text top="669" left="108" width="702" height="15" font="0">Kaye, Jonathan, Jean Lowenstamm &amp; Jean-Roger Vergnaud (1990). Constituent structure and government</text>
+<text top="688" left="123" width="254" height="15" font="0">in phonology. <i>Phonology</i> 7. 193-232.</text>
+<text top="708" left="108" width="572" height="15" font="0">Keating, Patricia A. (1988). Underspecification in phonetics. <i>Phonology</i> 5. 275-292.</text>
+<text top="728" left="108" width="702" height="15" font="0">Keating, Patricia A. (1990). Phonetic representation in a generative grammar. <i>Journal of Phonetics</i> 18.</text>
+<text top="748" left="123" width="62" height="15" font="0">321-334.</text>
+<text top="768" left="108" width="702" height="15" font="0">Keyser, Samuel Jay &amp; Kenneth N. Stevens (1994). Feature geometry and the vocal tract. <i>Phonology</i> 11.</text>
+<text top="787" left="123" width="62" height="15" font="0">207-236.</text>
+<text top="807" left="108" width="643" height="15" font="0">McCarthy, John J. (1988). Feature geometry and dependency: a review. <i>Phonetica</i> 45. 84-108.</text>
+<text top="827" left="108" width="702" height="15" font="0">McCarthy, John J. &amp; Alan S. Prince (1993). <i>Prosodic morphology I</i>. Ms, University of Massachusetts and</text>
+<text top="847" left="123" width="425" height="15" font="0">Rutgers University. Forthcoming, Cambridge, MA: MIT Press.</text>
+<text top="867" left="108" width="615" height="15" font="0">Newton, Brian (1972). <i>Cypriot Greek: its phonology and inflections</i>. The Hague: Mouton.</text>
+<text top="886" left="108" width="702" height="15" font="0">Prince, Alan (1984). Phonology with tiers. In Mark Aronoff &amp; Richard T. Oehrle (eds), <i>Language and</i></text>
+<text top="906" left="123" width="687" height="15" font="2"><i>sound structure: studies in phonology presented to Morris Halle by his teacher and students</i>, 234-244.</text>
+<text top="926" left="123" width="195" height="15" font="0">Cambridge, MA: MIT Press.</text>
+<text top="946" left="108" width="702" height="15" font="0">Prince, Alan &amp; Paul Smolensky (1993). Optimality Theory: constraint interaction in generative grammar.</text>
+<text top="966" left="123" width="450" height="15" font="2"><i>Technical Report # 2 of the Rutgers Center for Cognitive Science</i>.</text>
+<text top="985" left="108" width="702" height="15" font="0">Rennison, John (1984). On tridirectional feature systems for vowels. <i>Wiener linguistische Gazette</i>. 33-34,</text>
+<text top="1005" left="123" width="687" height="15" font="0">69-93. Reprinted in Jacques Durand (ed.) (1986), <i>Dependency and non-linear phonology</i>, 281-303.</text>
+<text top="1025" left="123" width="154" height="15" font="0">London: Croom Helm.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="132" left="162" width="83" height="15" font="2"><i>John Harris</i></text>
+<text top="132" left="108" width="20" height="18" font="4">26</text>
+<text top="193" left="108" width="702" height="15" font="0">Rice, Keren D. (1992). On deriving sonority: a structural account of sonority relationships. <i>Phonology</i> 9.</text>
+<text top="213" left="123" width="53" height="15" font="0">61-100.</text>
+<text top="233" left="108" width="695" height="15" font="0">Schane, Sanford S. (1984). The fundamentals of Particle Phonology. <i>Phonology Yearbook</i> 1. 129-156.</text>
+<text top="253" left="108" width="634" height="15" font="0">Vennemann, Theo (1988). <i>Preference laws for syllable structure</i>. Berlin: Mouton de Gruyter.</text>
+<text top="273" left="108" width="702" height="15" font="0">Yip, Moira (1991). Coronals, consonant clusters, and the coda condition. In Paradis, Carole &amp; Jean-</text>
+<text top="292" left="123" width="687" height="15" font="0">François Prunet (eds), <i>The special status of coronals: internal and external evidence</i>, 61-78. <i>Phonetics</i></text>
+<text top="312" left="123" width="350" height="15" font="2"><i>and Phonology</i> 2. San Diego, CA: Academic Press.</text>
+</page>
+</pdf2xml>

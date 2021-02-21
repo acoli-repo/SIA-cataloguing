@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="20" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="1" size="20" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="2" size="36" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="3" size="23" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="4" size="20" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="5" size="17" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="6" size="11" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="7" size="17" family="TimesNewRoman,Italic" color="#000000"/>
+<text top="170" left="95" width="279" height="18" font="0"><i>UCL Working Papers in Linguistics</i></text>
+<text top="170" left="374" width="81" height="18" font="1"> 10 (1998)</text>
+<text top="222" left="95" width="702" height="32" font="2"><i><b>The attributary structure, evidential meaning,</b></i></text>
+<text top="264" left="95" width="702" height="32" font="2"><i><b>and the semantics of English SOUND-class</b></i></text>
+<text top="305" left="95" width="76" height="32" font="2"><i><b>verbs</b></i></text>
+<text top="297" left="171" width="12" height="21" font="3"><i><b>*</b></i></text>
+<text top="390" left="95" width="186" height="18" font="1">NIKOLAS GISBORNE</text>
+<text top="486" left="139" width="73" height="18" font="4"><b>Abstract</b></text>
+<text top="532" left="139" width="614" height="16" font="5">This paper discusses a class of English verbs which express a kind of evidential modality</text>
+<text top="552" left="139" width="614" height="16" font="5">and which display a unique kind of predicative complementation, which is here called the</text>
+<text top="573" left="139" width="614" height="16" font="5">“attributary” structure. The different kinds of predicative complementation these verbs</text>
+<text top="593" left="139" width="614" height="16" font="5">show are implicated in their semantics. Recognising the attributary structure helps solve a</text>
+<text top="614" left="139" width="349" height="16" font="5">long-standing problem in the history of these verbs.</text>
+<text top="683" left="95" width="121" height="18" font="4"><b>1 Introduction</b></text>
+<text top="730" left="95" width="702" height="18" font="1">This paper discusses verbs like SOUND, LOOK, FEEL, SMELL and TASTE in English</text>
+<text top="754" left="95" width="702" height="18" font="1">(the SOUND-class verbs) in those constructions where they are complemented by a</text>
+<text top="777" left="95" width="702" height="18" font="1">predicative complement. There are three possible uses of these verbs. The uses are</text>
+<text top="801" left="95" width="702" height="18" font="1">distinguished by the semantic relations that they involve and by the entities that are related.</text>
+<text top="825" left="95" width="702" height="18" font="1">Each use, therefore, conforms to a different sense.  The first use is an evidential one where</text>
+<text top="849" left="95" width="702" height="18" font="1">the referent of the subject has properties that provide the evidence for the evaluation as in</text>
+<text top="872" left="95" width="28" height="18" font="1">(1).</text>
+<text top="920" left="95" width="23" height="18" font="1">(1)</text>
+<text top="920" left="139" width="167" height="18" font="1">a. he sounds foreign</text>
+<text top="944" left="139" width="114" height="18" font="1">b. he looks ill</text>
+<text top="967" left="139" width="173" height="18" font="1">c. the fabric feels old</text>
+<text top="991" left="139" width="223" height="18" font="1">d. the wine smells delicious</text>
+<text top="1018" left="95" width="217" height="18" font="1">                                           </text>
+<text top="1037" left="111" width="6" height="10" font="6">*</text>
+<text top="1041" left="116" width="682" height="16" font="5"> This paper is an abbreviated and slightly revised version of chapter 5 of my (1996) UCL doctoral</text>
+<text top="1061" left="95" width="84" height="16" font="5">dissertation, </text>
+<text top="1061" left="179" width="167" height="16" font="7"><i>English perception verbs</i></text>
+<text top="1061" left="346" width="452" height="16" font="5">. I would like to thank Valerie Adams, Sylvia Adamson, Bill Croft,</text>
+<text top="1082" left="95" width="646" height="16" font="5">Dick Hudson, Peter Matthews, Jim Miller, Terttu Nevalainen, and And Rosta for helpful discussion.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="8" size="12" family="TimesNewRoman" color="#000000"/>
+<text top="169" left="95" width="9" height="16" font="5">2</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="139" width="212" height="18" font="1">e. the food tastes fantastic</text>
+<text top="259" left="95" width="702" height="18" font="1">We shall call this the “control” use.  The patterning of syntactic and semantic relations is</text>
+<text top="282" left="95" width="188" height="18" font="1">similar to examples like </text>
+<text top="282" left="283" width="122" height="18" font="0"><i>Jane tried to go</i></text>
+<text top="282" left="405" width="331" height="18" font="1">. It expresses a kind of evidential modality.</text>
+<text top="306" left="111" width="687" height="18" font="1">The second use is also an evidential one, but the referent of the subject is not the source</text>
+<text top="330" left="95" width="630" height="18" font="1">of the evidence for the proposition that the xcomp expresses. This is the “raising</text>
+<text top="354" left="95" width="603" height="18" font="1">these examples, the pattern of syntactic and semantic relations is like that in </text>
+<text top="354" left="698" width="100" height="18" font="0"><i>Jane seemed</i></text>
+<text top="377" left="95" width="48" height="18" font="0"><i>happy</i></text>
+<text top="377" left="143" width="218" height="18" font="1">.  There are examples in (2).</text>
+<text top="425" left="95" width="23" height="18" font="1">(2)</text>
+<text top="425" left="139" width="489" height="18" font="1">a. I’ve heard the forecast and tomorrow’s weather sounds fine</text>
+<text top="449" left="139" width="468" height="18" font="1">b. I’ve seen the forecast and tomorrow’s weather looks fine</text>
+<text top="496" left="95" width="235" height="18" font="1">The final use is an “attributary</text>
+<text top="544" left="95" width="23" height="18" font="1">(3)</text>
+<text top="544" left="139" width="219" height="18" font="1">a. this music sounds lovely</text>
+<text top="567" left="139" width="229" height="18" font="1">b. Peter’s face looks lived in</text>
+<text top="591" left="139" width="192" height="18" font="1">c. this cloth feels sticky</text>
+<text top="615" left="139" width="196" height="18" font="1">d. this food smells spicy</text>
+<text top="639" left="139" width="198" height="18" font="1">e. this food tastes rancid</text>
+<text top="686" left="95" width="702" height="18" font="1">In the attributary use, the semantic relations form a “complex predicate”.  Whereas the</text>
+<text top="710" left="95" width="702" height="18" font="1">evidential (raising and control) uses all mean something like “seem, with respect to a</text>
+<text top="734" left="95" width="702" height="18" font="1">particular sensory modality”, the attributary uses mean “is, with respect to a particular</text>
+<text top="757" left="95" width="702" height="18" font="1">sensory modality”.   It is impossible to follow the examples in (3) with a phrase like “but it</text>
+<text top="781" left="95" width="702" height="18" font="1">isn’t really”. Syntactically, all of the uses are “sharing” patterns where the post-verbal</text>
+<text top="805" left="95" width="702" height="18" font="1">element is an xcomp and the subject of the SOUND-class verb is also the subject of the</text>
+<text top="829" left="95" width="599" height="18" font="1">xcomp, so there is no syntactic difference between the three semantic classes.</text>
+<text top="825" left="694" width="6" height="11" font="8">1</text>
+<text top="853" left="111" width="687" height="18" font="1">The three usages of these verbs can be identified by paraphrases and by other criteria.  If</text>
+<text top="876" left="95" width="505" height="18" font="1">we take the examples in (1), it is clear that in (1a), the referent of </text>
+<text top="876" left="600" width="23" height="18" font="0"><i>he </i></text>
+<text top="876" left="623" width="175" height="18" font="1">is the sound-er and his</text>
+<text top="900" left="95" width="509" height="18" font="1">sound is evidence for his being foreign.  In (1b) the referent of </text>
+<text top="900" left="604" width="25" height="18" font="0"><i>he </i></text>
+<text top="900" left="629" width="169" height="18" font="1">is the look-er and his</text>
+<text top="924" left="95" width="702" height="18" font="1">appearance is the evidence for his being ill.  The same analysis holds for all of the sensory</text>
+<text top="948" left="95" width="85" height="18" font="1">modalities.</text>
+<text top="971" left="111" width="446" height="18" font="1">The examples in (1) could be paraphrased by those in (4).</text>
+<text top="1038" left="95" width="217" height="18" font="1">                                           </text>
+<text top="1057" left="111" width="6" height="10" font="6">1</text>
+<text top="1061" left="117" width="681" height="16" font="5"> I am assuming a semantic analysis of the distinction between raising and control as in Bowers (1972) and</text>
+<text top="1082" left="95" width="86" height="16" font="5">Bach (1979).</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="567" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="789" width="9" height="16" font="5">3</text>
+<text top="211" left="95" width="23" height="18" font="1">(4)</text>
+<text top="211" left="139" width="299" height="18" font="1">a. to judge by his sound, he is foreign</text>
+<text top="235" left="139" width="344" height="18" font="1">b. to judge by his look/ appearance, he is ill</text>
+<text top="259" left="139" width="301" height="18" font="1">c. to judge by its feel, the fabric is old</text>
+<text top="282" left="139" width="351" height="18" font="1">d. to judge by its smell, the wine is delicious</text>
+<text top="306" left="139" width="340" height="18" font="1">e. to judge by its taste, the food is fantastic</text>
+<text top="302" left="479" width="6" height="11" font="8">2</text>
+<text top="354" left="95" width="236" height="18" font="1">In the paraphrases in (4), the </text>
+<text top="354" left="332" width="90" height="18" font="0"><i>to judge by</i></text>
+<text top="354" left="421" width="377" height="18" font="1"> phrase shows that these uses encode a speaker</text>
+<text top="377" left="95" width="296" height="18" font="1">judgement.  The relationship between </text>
+<text top="377" left="391" width="23" height="18" font="0"><i>his</i></text>
+<text top="377" left="414" width="39" height="18" font="1"> and </text>
+<text top="377" left="452" width="19" height="18" font="0"><i>he</i></text>
+<text top="377" left="470" width="110" height="18" font="1"> in (4a-b) and </text>
+<text top="377" left="580" width="19" height="18" font="0"><i>its</i></text>
+<text top="377" left="598" width="199" height="18" font="1"> and its anaphoric head in</text>
+<text top="401" left="95" width="702" height="18" font="1">(4c-e) show that it is the sound, look, feel, taste or smell of the subject that provides the</text>
+<text top="425" left="95" width="203" height="18" font="1">evidence for the assertion.</text>
+<text top="449" left="111" width="484" height="18" font="1">The examples in (2), repeated below, have a different analysis.</text>
+<text top="496" left="95" width="23" height="18" font="1">(2)</text>
+<text top="496" left="139" width="489" height="18" font="1">a. I’ve heard the forecast and tomorrow’s weather sounds fine</text>
+<text top="520" left="139" width="468" height="18" font="1">b. I’ve seen the forecast and tomorrow’s weather looks fine</text>
+<text top="567" left="95" width="702" height="18" font="1">In these cases, the referent of the subject is not an argument of the sense of the verb and it</text>
+<text top="591" left="95" width="702" height="18" font="1">is not the case that the quality of tomorrow’s weather is evaluated on the basis of the</text>
+<text top="615" left="95" width="702" height="18" font="1">sensory impression created by the weather.  Instead, the sensory modality expressed by the</text>
+<text top="639" left="95" width="702" height="18" font="1">verb identifies the means by which the speaker comes to have the information which leads</text>
+<text top="662" left="95" width="495" height="18" font="1">to the judgement.  These examples can be paraphrased as in (5).</text>
+<text top="710" left="95" width="23" height="18" font="1">(5)</text>
+<text top="710" left="139" width="498" height="18" font="1">a. to judge by what I’ve heard, tomorrow’s weather will be fine</text>
+<text top="734" left="139" width="489" height="18" font="1">b. to judge by what I’ve seen, tomorrow’s weather will be fine</text>
+<text top="781" left="95" width="91" height="18" font="1">Again, the </text>
+<text top="781" left="186" width="93" height="18" font="0"><i>to judge by</i></text>
+<text top="781" left="279" width="519" height="18" font="1"> phrase shows that this use encodes a speaker judgement.  The</text>
+<text top="805" left="95" width="702" height="18" font="1">difference between these examples and those in (1) is that the referent of the subject of the</text>
+<text top="829" left="95" width="702" height="18" font="1">examples in (2) is not the source of the evidence for the proposition expressed by the</text>
+<text top="853" left="95" width="58" height="18" font="1">xcomp.</text>
+<text top="876" left="111" width="687" height="18" font="1">It is hard to find unequivocal examples of SOUND-class FEEL, SMELL and TASTE</text>
+<text top="900" left="95" width="702" height="18" font="1">that pattern like the examples in (2).  However, extraposed subjects of verbs that have</text>
+<text top="924" left="95" width="702" height="18" font="1">xcomps are often taken to be good evidence of this kind of structure as the examples with</text>
+<text top="948" left="95" width="316" height="18" font="1">SEEM, LOOK and SOUND show in (6).</text>
+<text top="997" left="95" width="217" height="18" font="1">                                           </text>
+<text top="1016" left="111" width="6" height="10" font="6">2</text>
+<text top="1020" left="117" width="551" height="16" font="5"> It might be argued that if food tastes fantastic, it is fantastic, and so the phrase </text>
+<text top="1020" left="667" width="79" height="16" font="7"><i>to judge by</i></text>
+<text top="1020" left="746" width="52" height="16" font="5"> here is</text>
+<text top="1041" left="95" width="703" height="16" font="5">inappropriate.  This argument cannot be true.  A number of elements come into the evaluation of food as</text>
+<text top="1061" left="95" width="598" height="16" font="5">fantastic or otherwise: taste, texture, appearance and smell at least.  An utterance like </text>
+<text top="1061" left="693" width="105" height="16" font="7"><i>this food tastes</i></text>
+<text top="1082" left="95" width="309" height="16" font="7"><i>fantastic, but in all other respects it is revolting</i></text>
+<text top="1082" left="404" width="47" height="16" font="5"> is fine.</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="9" height="16" font="5">4</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="23" height="18" font="1">(6)</text>
+<text top="211" left="139" width="369" height="18" font="1">a. it seems unlikely that she will ever visit now</text>
+<text top="235" left="139" width="363" height="18" font="1">b. it looks unlikely that she will ever visit now</text>
+<text top="259" left="139" width="376" height="18" font="1">c. it sounds unlikely that she will ever visit now</text>
+<text top="306" left="95" width="619" height="18" font="1">We can see that the examples in (7) with FEEL, SMELL and TASTE fit the bill.</text>
+<text top="354" left="95" width="23" height="18" font="1">(7)</text>
+<text top="354" left="139" width="386" height="18" font="1">a. it feels improbable that he will be found guilty</text>
+<text top="377" left="139" width="355" height="18" font="1">b. it smells lovely to roast onions with cumin</text>
+<text top="401" left="139" width="399" height="18" font="1">c. it tastes lovely to melt chocolate on your tongue</text>
+<text top="449" left="95" width="702" height="18" font="1">I take it, therefore, that FEEL, SMELL, and TASTE have raising meanings as well as</text>
+<text top="472" left="95" width="163" height="18" font="1">SOUND and LOOK.</text>
+<text top="496" left="111" width="687" height="18" font="1">The attributary use of (3) has a rather different semantic structure from the examples in</text>
+<text top="520" left="95" width="285" height="18" font="1">(1) and (2).  I have repeated (3) here.</text>
+<text top="567" left="95" width="23" height="18" font="1">(3)</text>
+<text top="567" left="139" width="219" height="18" font="1">a. this music sounds lovely</text>
+<text top="591" left="139" width="230" height="18" font="1">b. Peter’s face looks lived-in</text>
+<text top="615" left="139" width="192" height="18" font="1">c. this cloth feels sticky</text>
+<text top="639" left="139" width="196" height="18" font="1">d. this food smells spicy</text>
+<text top="662" left="139" width="198" height="18" font="1">e. this food tastes rancid</text>
+<text top="710" left="95" width="702" height="18" font="1">In the examples in (3), the er (i.e. first argument) of the xcomp is the sense of the verb and</text>
+<text top="734" left="95" width="702" height="18" font="1">not the referent of the subject.  That is, in (3a) it is the sound of the music that is lovely,</text>
+<text top="757" left="95" width="624" height="18" font="1">not some other quality.  It would be reasonable to say (3a) when the referent of </text>
+<text top="757" left="719" width="79" height="18" font="0"><i>this music</i></text>
+<text top="781" left="95" width="702" height="18" font="1">was the score and not the sound of the music.  In these cases, the semantic structure is just</text>
+<text top="805" left="95" width="304" height="18" font="1">the same as the semantic structure in </text>
+<text top="805" left="399" width="183" height="18" font="0"><i>the book weighs a kilo</i></text>
+<text top="805" left="581" width="216" height="18" font="1">.  In this example, it is the</text>
+<text top="829" left="95" width="478" height="18" font="1">weight that is a kilo and not the book.  In the same way, </text>
+<text top="829" left="573" width="145" height="18" font="0"><i>Peter looks lovely</i></text>
+<text top="829" left="718" width="80" height="18" font="1"> is not an</text>
+<text top="853" left="95" width="702" height="18" font="1">assessment of Peter’s inherent qualities, or his character, or some other lovely aspect of</text>
+<text top="876" left="95" width="702" height="18" font="1">Peter.  It is a description of his appearance.  The attributary uses of these verbs are more</text>
+<text top="900" left="95" width="702" height="18" font="1">like the control uses than the raising ones in that the referent of the subject of the verb is an</text>
+<text top="924" left="95" width="702" height="18" font="1">argument of the sense of the verb.  However, the attributary senses differ from both the</text>
+<text top="948" left="95" width="702" height="18" font="1">raising and the control examples in that the subject of the verb is not directly semantically</text>
+<text top="971" left="95" width="687" height="18" font="1">related to the xcomp.  Furthermore, the attributary uses cannot be paraphrased by a </text>
+<text top="971" left="782" width="15" height="18" font="0"><i>to</i></text>
+<text top="995" left="95" width="44" height="18" font="0"><i>judge</i></text>
+<text top="995" left="139" width="287" height="18" font="1">... string as the examples in (8) show.</text>
+<text top="1043" left="95" width="23" height="18" font="1">(8)</text>
+<text top="1043" left="139" width="363" height="18" font="1">a. !to judge by its look, Peter’s face is lived in</text>
+<text top="1066" left="139" width="353" height="18" font="1">b. !to judge by its sound, this music is lovely</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="567" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="789" width="9" height="16" font="5">5</text>
+<text top="211" left="139" width="325" height="18" font="1">c. !to judge by its feel, this cloth is sticky</text>
+<text top="259" left="95" width="498" height="18" font="1">Attributary examples can be paraphrased by the examples in (9).</text>
+<text top="306" left="95" width="23" height="18" font="1">(9)</text>
+<text top="306" left="139" width="265" height="18" font="1">a. Peter’s face has a lived in look</text>
+<text top="330" left="139" width="242" height="18" font="1">b. the cello has a lovely sound</text>
+<text top="354" left="139" width="224" height="18" font="1">c. the cloth has a sticky feel</text>
+<text top="401" left="95" width="702" height="18" font="1">The examples in (8) show that attributary uses do not encode a speaker judgement.  The</text>
+<text top="425" left="95" width="702" height="18" font="1">examples in (9) show that the verb and its xcomp form a semantic unit where the sense of</text>
+<text top="449" left="95" width="702" height="18" font="1">the xcomp modifies the sense of the verb.  The referent of the subject is then the er of the</text>
+<text top="472" left="95" width="702" height="18" font="1">whole semantic unit.  I have called these patterns attributary because semantically they</text>
+<text top="496" left="95" width="433" height="18" font="1">resemble the attributive adjective + noun patterns in (9).</text>
+<text top="520" left="111" width="687" height="18" font="1">The three possible uses correspond to the different patterns by which the concepts</text>
+<text top="544" left="95" width="702" height="18" font="1">involved can be connected by semantic relations.  They therefore correspond to different</text>
+<text top="567" left="95" width="702" height="18" font="1">senses, or subsenses of each of the verbs.  In support of the claim that they correspond to</text>
+<text top="591" left="95" width="702" height="18" font="1">different senses, there are factivity differences between the evidential uses and the</text>
+<text top="615" left="95" width="702" height="18" font="1">attributary use. The evidential uses of SOUND-class verbs are non-factive, as is shown by</text>
+<text top="639" left="95" width="107" height="18" font="1">(10) and (11).</text>
+<text top="686" left="95" width="302" height="18" font="1">(10) a. he sounds foreign but he isn’t</text>
+<text top="710" left="139" width="240" height="18" font="1">aa. he sounds foreign and he is</text>
+<text top="734" left="139" width="290" height="18" font="1">b. he looks ill but he’s as fit as a flea</text>
+<text top="757" left="139" width="187" height="18" font="1">bb. he looks ill and he is</text>
+<text top="805" left="95" width="330" height="18" font="1">(11) a. he sounds a nice man but he isn’t</text>
+<text top="829" left="139" width="268" height="18" font="1">aa. he sounds a nice man and he is</text>
+<text top="853" left="139" width="273" height="18" font="1">b. he looks a nice man but he isn’t</text>
+<text top="876" left="139" width="255" height="18" font="1">bb. he looks a nice man and he is</text>
+<text top="924" left="95" width="702" height="18" font="1">The attributary use, on the other hand, asserts the truth of the proposition.  If I show you</text>
+<text top="948" left="95" width="541" height="18" font="1">some sheet-music and utter (12), I am making a nonsensical assertion.</text>
+<text top="995" left="95" width="363" height="18" font="1">(12) !this music sounds lovely but it’s horrible</text>
+<text top="1043" left="95" width="702" height="18" font="1">As there is not a semantic relation between the xcomp and the subject in these examples,</text>
+<text top="1066" left="95" width="702" height="18" font="1">they cannot really be called “factive” because there is no subordinate proposition. The</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="9" height="16" font="5">6</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="702" height="18" font="1">examples in (13) show that with the attributary structure it is not possible to get a</text>
+<text top="235" left="95" width="355" height="18" font="1">contradiciton for all of the sensory modalities.</text>
+<text top="282" left="95" width="336" height="18" font="1">(13) a. !this paper looks pink but it’s blue</text>
+<text top="306" left="139" width="348" height="18" font="1">b. !this music sounds lovely but it’s horrible</text>
+<text top="330" left="139" width="264" height="18" font="1">c. !the cloth feels wet but it’s dry</text>
+<text top="354" left="139" width="308" height="18" font="1">d. !this food smells spicy but it’s bland</text>
+<text top="377" left="139" width="306" height="18" font="1">e. !this food tastes rancid but it’s fresh</text>
+<text top="425" left="95" width="702" height="18" font="1">In fact, these data are further evidence that attributaries do not involve a subordinate</text>
+<text top="449" left="95" width="621" height="18" font="1">proposition.  The judgements in (13) are the same as those for examples like </text>
+<text top="449" left="716" width="82" height="18" font="0"><i>!Peter ran</i></text>
+<text top="472" left="95" width="183" height="18" font="0"><i>quickly but he was slow</i></text>
+<text top="472" left="278" width="5" height="18" font="1">.</text>
+<text top="496" left="111" width="687" height="18" font="1">We can, therefore, identify three separate senses of SOUND-class perception verbs.  The</text>
+<text top="520" left="95" width="702" height="18" font="1">attributary/evidential distinction can be decided according to factivity.  The control/raising</text>
+<text top="544" left="95" width="702" height="18" font="1">distinction is made on the basis of whether there is a semantic relation between the sense</text>
+<text top="567" left="95" width="369" height="18" font="1">of the verb and the referent of its subject or not.</text>
+<text top="591" left="111" width="687" height="18" font="1">There is a tendency, which comes out clearly when you examine the categories of the</text>
+<text top="615" left="95" width="702" height="18" font="1">xcomps of these verbs and the senses that they are associated with, for raising examples to</text>
+<text top="639" left="95" width="702" height="18" font="1">be associated with the more distal sensory modalities, hearing and sight, and attributary</text>
+<text top="662" left="95" width="702" height="18" font="1">examples to be associated most closely with smelling and tasting. For example, it is only</text>
+<text top="686" left="95" width="702" height="18" font="1">LOOK, and SOUND, as in (2) above, that can have an raising sense when they have a</text>
+<text top="710" left="95" width="702" height="18" font="1">noun as their xcomp. Furthermore, only SMELL and TASTE can have OF as their xcomp.</text>
+<text top="734" left="95" width="702" height="18" font="1">The only semantic structure possible with OF is the attributary one; this point is made in</text>
+<text top="757" left="95" width="157" height="18" font="1">greater detail below.</text>
+<text top="781" left="111" width="687" height="18" font="1">The semantic approach to the raising/control distinction makes it possible to capture</text>
+<text top="805" left="95" width="702" height="18" font="1">certain atypical facts about these verbs. The first is that the syntactic distinction between</text>
+<text top="829" left="95" width="702" height="18" font="1">raising and control common in the literature leaves the impression that the boundaries are</text>
+<text top="853" left="95" width="702" height="18" font="1">clearly distinguishable. We shall see that in the case of SOUND-class verbs there are</text>
+<text top="876" left="95" width="702" height="18" font="1">examples where it is very hard to establish whether a given construction involves raising or</text>
+<text top="900" left="95" width="702" height="18" font="1">control. The second is that the semantic structure of SOUND-class verbs is richer than that</text>
+<text top="924" left="95" width="702" height="18" font="1">of SEEM. The third is that the analysis below presents a finer grained analysis of the</text>
+<text top="948" left="95" width="542" height="18" font="1">evidential meanings of SOUND-class verbs than I have sketched here.</text>
+<text top="971" left="111" width="687" height="18" font="1">If we take an example like (14), it is clear that there is at least one other issue that has to</text>
+<text top="995" left="95" width="121" height="18" font="1">be investigated.</text>
+<text top="1043" left="95" width="217" height="18" font="1">(14) He sounds a nice chap</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="567" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="789" width="9" height="16" font="5">7</text>
+<text top="211" left="95" width="493" height="18" font="1">The semantic relation between ‘a nice chap’ and the referent of </text>
+<text top="211" left="588" width="19" height="18" font="0"><i>he</i></text>
+<text top="211" left="606" width="192" height="18" font="1"> is not a simple semantic</text>
+<text top="235" left="95" width="702" height="18" font="1">argument relation. It is the relationship of category membership, “isa” which means “is an</text>
+<text top="259" left="95" width="702" height="18" font="1">instance of”. (14) means that ‘he’ is an instance of the category ‘a nice chap’ subject to the</text>
+<text top="282" left="95" width="702" height="18" font="1">proviso that this is a category assignment based on information the speaker has heard. Isa</text>
+<text top="306" left="95" width="702" height="18" font="1">is the semantic relation of category assignment and it is the relation that you find between</text>
+<text top="330" left="95" width="702" height="18" font="1">the meaning of a number of xcomps and their subjects. It is the relation that you find with</text>
+<text top="354" left="95" width="702" height="18" font="1">all nominal xcomps, for example, irrespective of whether their head is a SOUND-class</text>
+<text top="377" left="95" width="702" height="18" font="1">verb, BE or SEEM. The isa relation is incompatible with the attributary sense of these</text>
+<text top="401" left="95" width="42" height="18" font="1">verbs</text>
+<text top="472" left="95" width="379" height="18" font="4"><b>2 SOUND-class verbs and evidential modality</b></text>
+<text top="519" left="95" width="702" height="18" font="1">I have claimed that the raising and control structures with SOUND-class verbs involve a</text>
+<text top="543" left="95" width="702" height="18" font="1">sense that expresses a kind of evidential or epistemic modality.  The specific claim is that</text>
+<text top="566" left="95" width="321" height="18" font="1">the meaning of SOUND encodes a belief.</text>
+<text top="614" left="95" width="289" height="18" font="1">(15) a. why is John tired (*to you)?</text>
+<text top="638" left="168" width="208" height="18" font="1">--because he stayed up late</text>
+<text top="661" left="168" width="187" height="18" font="1">--!because he’s yawning</text>
+<text top="685" left="139" width="297" height="18" font="1">b. why does John sound tired to you?</text>
+<text top="709" left="168" width="213" height="18" font="1">--!because he stayed up late</text>
+<text top="733" left="168" width="181" height="18" font="1">--because he’s yawning</text>
+<text top="756" left="139" width="458" height="18" font="1">c. John sounds tired, but I don’t know whether he really is</text>
+<text top="780" left="139" width="426" height="18" font="1">d. *John is tired, but I don’t know whether he really is</text>
+<text top="828" left="95" width="348" height="18" font="1">The examples in (15) show that the question </text>
+<text top="828" left="443" width="148" height="18" font="0"><i>why is John tired? </i></text>
+<text top="828" left="591" width="207" height="18" font="1">needs an answer that gives</text>
+<text top="851" left="95" width="395" height="18" font="1">a reason for John’s tiredness whereas the question </text>
+<text top="851" left="490" width="217" height="18" font="0"><i>why does John sound tired?</i></text>
+<text top="851" left="707" width="91" height="18" font="1"> requires an</text>
+<text top="875" left="95" width="702" height="18" font="1">answer that refers to the evidence for John’s tiredness.  The question in (15b), therefore, is</text>
+<text top="899" left="95" width="702" height="18" font="1">investigating a belief rather than a fact.   The evidence in (15c-d) shows that the truth of</text>
+<text top="923" left="95" width="211" height="18" font="1">the subordinate clause in </text>
+<text top="923" left="306" width="146" height="18" font="0"><i>John sounds tired</i></text>
+<text top="923" left="452" width="241" height="18" font="1"> can be questioned, whereas </text>
+<text top="923" left="693" width="105" height="18" font="0"><i>John is tired</i></text>
+<text top="946" left="95" width="702" height="18" font="1">asserts the truth of the proposition that John is tired.  A further piece of evidence that these</text>
+<text top="970" left="95" width="702" height="18" font="1">verbs encode a belief is that they are non-factive.  This means that the speaker neither</text>
+<text top="994" left="95" width="553" height="18" font="1">asserts that the subordinate proposition is true nor asserts that it is false.</text>
+<text top="1018" left="111" width="687" height="18" font="1">Finally, there is a requirement for the xcomps of these verbs to be gradable: this shows</text>
+<text top="1042" left="95" width="702" height="18" font="1">that a judgement is being made by the experiencer.  In the case of nominal xcomps, the</text>
+<text top="1065" left="95" width="702" height="18" font="1">experiencer is making a degree of membership prototypicality judgement. As Lyons</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="9" height="16" font="5">8</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="702" height="18" font="1">(1977: 797) points out, “[a]ny utterance in which the speaker explicitly qualifies his</text>
+<text top="235" left="95" width="702" height="18" font="1">commitment to the truth of the proposition expressed by the sentence he utters...is an</text>
+<text top="259" left="95" width="702" height="18" font="1">epistemically modal, or modalized utterance.”  The requirement for the xcomps of these</text>
+<text top="282" left="95" width="702" height="18" font="1">verbs to be gradable is a requirement for the proposition that the xcomps express to be</text>
+<text top="306" left="95" width="73" height="18" font="1">qualified.</text>
+<text top="378" left="95" width="415" height="18" font="4"><b>2.1 Gradability as evidence for epistemic modality</b></text>
+<text top="424" left="95" width="702" height="18" font="1">The requirement that the xcomp of the control and raising senses of SOUND and the other</text>
+<text top="448" left="95" width="702" height="18" font="1">SOUND-class verbs has to be gradable is evidence that these verbs are epistemically</text>
+<text top="472" left="95" width="702" height="18" font="1">modal.  Many adjective and LIKE xcomps are automatically gradable.  The requirement</text>
+<text top="496" left="95" width="702" height="18" font="1">that the xcomp of a SOUND-class verb has to be gradable is thrown into relief by the</text>
+<text top="520" left="95" width="702" height="18" font="1">behaviour of their noun xcomps.  A noun xcomp has to modified by an adjective if it is to</text>
+<text top="543" left="95" width="702" height="18" font="1">appear as the xcomp of a SOUND-class verb.  There are some examples in (16).  If the</text>
+<text top="567" left="95" width="702" height="18" font="1">noun is not modified by an adjective, or if it is not in some other way made gradable, it is</text>
+<text top="591" left="95" width="401" height="18" font="1">unacceptable as the xcomp of a SOUND-class verb.</text>
+<text top="638" left="95" width="261" height="18" font="1">(16) a. Peter sounds a nice man</text>
+<text top="662" left="139" width="186" height="18" font="1">b. !Peter sounds a man</text>
+<text top="686" left="139" width="204" height="18" font="1">c. Peter looks a nice man</text>
+<text top="710" left="139" width="173" height="18" font="1">d. !Peter looks a man</text>
+<text top="706" left="312" width="6" height="11" font="8">3</text>
+<text top="757" left="95" width="702" height="18" font="1">The crucial fact is that assignment to a category such as ‘man’ does not involve evaluation</text>
+<text top="781" left="95" width="702" height="18" font="1">whereas classification as ‘a nice man’ does.  All of the xcomps of raising and control</text>
+<text top="805" left="95" width="702" height="18" font="1">SOUND-class verbs have to be gradable; this fact shows that the sense of the verb</text>
+<text top="828" left="95" width="676" height="18" font="1">involves an element of speaker judgement about the status of the referent of the xcomp.</text>
+<text top="852" left="111" width="687" height="18" font="1">The reason why the cases where there is an isa relation between the sense of the xcomp</text>
+<text top="876" left="95" width="702" height="18" font="1">and the referent of the subject clarify the issue of whether SOUND-class verbs are</text>
+<text top="900" left="95" width="702" height="18" font="1">epistemic or not is that the category which the nominal xcomp defines must always have</text>
+<text top="923" left="95" width="702" height="18" font="1">degree of membership prototypicality properties.  It is not sufficient for them to have</text>
+<text top="947" left="95" width="694" height="18" font="1">degree of typicality properties.  To this extent, SOUND-class verbs are different from BE.</text>
+<text top="971" left="111" width="687" height="18" font="1">BE can also have a nominal xcomp and, when it does, the semantic relation between the</text>
+<text top="1018" left="95" width="217" height="18" font="1">                                           </text>
+<text top="1037" left="111" width="6" height="10" font="6">3</text>
+<text top="1041" left="117" width="681" height="16" font="5"> In (16) I have not included examples of FEEL/P, SMELL/P and TASTE/P with nominal xcomps.  This</text>
+<text top="1061" left="95" width="703" height="16" font="5">is not because I think that these verbs cannot occur with nominal xcomps but because interference from</text>
+<text top="1082" left="95" width="459" height="16" font="5">transitive uses of these verbs means that clear examples are hard to get.</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="567" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="789" width="9" height="16" font="5">9</text>
+<text top="211" left="95" width="702" height="18" font="1">sense of the xcomp and the referent of the subject is also isa.  However, the referent of the</text>
+<text top="235" left="95" width="406" height="18" font="1">nominal xcomp of BE is not required to be gradable.</text>
+<text top="282" left="95" width="199" height="18" font="1">(17) a. Jane is a teacher</text>
+<text top="306" left="139" width="188" height="18" font="1">b. Jane is a nice person</text>
+<text top="354" left="95" width="702" height="18" font="1">(17a-b) both involve category assignment. In addition, (17b) states that there is an</text>
+<text top="377" left="95" width="702" height="18" font="1">evaluation of the referent of the xcomp.  (17a) is not evaluative, it simply assigns the</text>
+<text top="401" left="95" width="88" height="18" font="1">referent of </text>
+<text top="401" left="184" width="43" height="18" font="0"><i>Jane </i></text>
+<text top="401" left="226" width="572" height="18" font="1">to a class.  In (17b), the category that ‘Jane’ is being assigned to is not a</text>
+<text top="425" left="95" width="702" height="18" font="1">clearly delimited category with obvious criteria for inclusion.  It is an ad hoc category</text>
+<text top="449" left="95" width="702" height="18" font="1">whose membership is determined by the person making the category assignment.  The</text>
+<text top="472" left="95" width="702" height="18" font="1">point that emerges is that the issue of whether an instance of BE is evaluative or not hinges</text>
+<text top="496" left="95" width="702" height="18" font="1">on whether the xcomp of the instance of BE is gradable or not.  With a SOUND-class</text>
+<text top="520" left="95" width="702" height="18" font="1">verb, the xcomp of the instance of the SOUND-class verb has to be gradable, so the</text>
+<text top="544" left="95" width="702" height="18" font="1">category assignment has to be evaluable.  As far as SOUND-class verbs are concerned,</text>
+<text top="567" left="95" width="702" height="18" font="1">whether or not an assignment is evaluable is contingent on whether degree of membership</text>
+<text top="591" left="95" width="702" height="18" font="1">judgements are possible for the relevant category.  An xcomp which is gradable is one that</text>
+<text top="615" left="95" width="333" height="18" font="1">permits degree of membership evaluations.</text>
+<text top="639" left="111" width="687" height="18" font="1">Taylor (1989) points out that there are two kinds of prototypicality judgement. The first</text>
+<text top="662" left="95" width="702" height="18" font="1">is when categorisation involves making degree of membership judgements. ‘Fool’ is a</text>
+<text top="686" left="95" width="647" height="18" font="1">category which is subject to degree of membership prototypicality. You can be </text>
+<text top="686" left="742" width="56" height="18" font="0"><i>a right</i></text>
+<text top="710" left="95" width="31" height="18" font="0"><i>fool</i></text>
+<text top="710" left="126" width="31" height="18" font="1">, or </text>
+<text top="710" left="156" width="104" height="18" font="0"><i>a bit of a fool</i></text>
+<text top="710" left="260" width="538" height="18" font="1">.  It is possible to be a member of the category ‘fool’ only in part. The</text>
+<text top="734" left="95" width="702" height="18" font="1">second is when there are also goodness and badness of exemplar ratings. For example, a</text>
+<text top="757" left="95" width="702" height="18" font="1">penguin is 100% bird, but it is a poor example of a bird because it does not have all of the</text>
+<text top="781" left="95" width="464" height="18" font="1">typical properties of a bird. Even so, an example like </text>
+<text top="781" left="559" width="216" height="18" font="0"><i>!the penguin looks a bird</i></text>
+<text top="781" left="775" width="23" height="18" font="1"> is</text>
+<text top="805" left="95" width="702" height="18" font="1">semantically anomalous because ‘look’ is sensitive to degree of membership</text>
+<text top="829" left="95" width="423" height="18" font="1">prototypicality, not degree of typicality prototypicality.</text>
+<text top="853" left="111" width="687" height="18" font="1">As far as SOUND-class verbs are concerned, degree of membership prototypicality is</text>
+<text top="876" left="95" width="702" height="18" font="1">signalled by the property of being grammatically gradable.  The meaning of LOOK/P</text>
+<text top="900" left="95" width="702" height="18" font="1">exploits the fact that some categories are subject to degree of membership prototypicality,</text>
+<text top="924" left="95" width="702" height="18" font="1">so that when the referent of the subject of an instance of LOOK/P isa the sense of some</text>
+<text top="948" left="95" width="702" height="18" font="1">xcomp of an instance of LOOK/P the isa relation is subject to an evaluative, or</text>
+<text top="971" left="95" width="702" height="18" font="1">epistemically modal, judgement. We can see that the difference between BE and LOOK/P</text>
+<text top="995" left="95" width="702" height="18" font="1">is that LOOK/P involves making an evaluation. BE is only evaluative when it has a</text>
+<text top="1019" left="95" width="124" height="18" font="1">gradable xcomp</text>
+<text top="1043" left="111" width="687" height="18" font="1">The senses of raising and control patterning SOUND-class verbs are always evaluative</text>
+<text top="1066" left="95" width="702" height="18" font="1">and so they require any isa relation between the referent of the subject and the sense of the</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">10</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="702" height="18" font="1">xcomp to link the referent of the subject to a category that allows degree of membership</text>
+<text top="235" left="95" width="702" height="18" font="1">judgements.  This is the reason why nominal xcomps of SOUND-class verbs often have to</text>
+<text top="259" left="95" width="702" height="18" font="1">be modified by an adjective.  The sense of the noun constitutes a category to which the</text>
+<text top="282" left="95" width="702" height="18" font="1">referent of the subject is assigned.  If the category is not one that permits degree of</text>
+<text top="306" left="95" width="702" height="18" font="1">membership assessments, it has to be turned into such a category by the addition of an</text>
+<text top="330" left="95" width="702" height="18" font="1">adjective.  If, on the other hand, the category referred to by the noun is a category which</text>
+<text top="354" left="95" width="702" height="18" font="1">does permit degree of membership assessments, that noun can be the xcomp of a SOUND-</text>
+<text top="377" left="95" width="554" height="18" font="1">class verb without adjectival modification.  There is an example in (18).</text>
+<text top="425" left="95" width="203" height="18" font="1">(18) a. Jane looks a fool</text>
+<text top="449" left="139" width="177" height="18" font="1">b. Peter sounds a fool</text>
+<text top="496" left="95" width="624" height="18" font="1">Both of the examples in (18) are acceptable because the category referred to by </text>
+<text top="496" left="719" width="31" height="18" font="0"><i>fool</i></text>
+<text top="496" left="749" width="49" height="18" font="1"> is not</text>
+<text top="520" left="95" width="693" height="18" font="1">an absolute category.  Degree of membership judgements are possible, as examples like </text>
+<text top="520" left="788" width="10" height="18" font="0"><i>a</i></text>
+<text top="544" left="95" width="73" height="18" font="0"><i>right fool</i></text>
+<text top="544" left="168" width="38" height="18" font="1"> and </text>
+<text top="544" left="206" width="81" height="18" font="0"><i>a real fool</i></text>
+<text top="544" left="286" width="50" height="18" font="1"> show.</text>
+<text top="567" left="111" width="687" height="18" font="1">The fact that the xcomp has to be gradable shows that there are no possible candidates</text>
+<text top="591" left="95" width="702" height="18" font="1">for a non-evaluative meaning of LOOK/P.  If we try to find such possible candidates, we</text>
+<text top="615" left="95" width="702" height="18" font="1">need to consider cases where the referent of the subject of LOOK/P could be properly</text>
+<text top="639" left="95" width="702" height="18" font="1">assigned to a category on the basis of visual information only.  If examples like those in</text>
+<text top="662" left="95" width="702" height="18" font="1">(19) were possible, we would have a case where it was possible to have an instance of</text>
+<text top="686" left="95" width="702" height="18" font="1">LOOK/P in which the referent of the subject isa the sense of the xcomp but the sense of</text>
+<text top="710" left="95" width="584" height="18" font="1">LOOK/P did not evaluate the possible accuracy of the category assignment.</text>
+<text top="757" left="95" width="242" height="18" font="1">(19) a. !vermilion looks a red</text>
+<text top="781" left="139" width="242" height="18" font="1">b. !this object looks a painting</text>
+<text top="829" left="95" width="213" height="18" font="1">I have given the xcomp of </text>
+<text top="829" left="308" width="41" height="18" font="0"><i>looks</i></text>
+<text top="829" left="349" width="96" height="18" font="1"> in (19a) as </text>
+<text top="829" left="445" width="42" height="18" font="0"><i>a red</i></text>
+<text top="829" left="486" width="311" height="18" font="1"> because the isa relation only applies in</text>
+<text top="853" left="95" width="702" height="18" font="1">cases where the xcomp is a physical thing.  When colour expressions are adjectives, as</text>
+<text top="876" left="95" width="702" height="18" font="1">they must be when they occur predicatively with no article, the semantic relation between,</text>
+<text top="900" left="95" width="702" height="18" font="1">for example, the sense of RED/adjective and the referent of its subject is er rather than isa.</text>
+<text top="924" left="95" width="117" height="18" font="1">The fact that </text>
+<text top="924" left="212" width="41" height="18" font="0"><i>looks</i></text>
+<text top="924" left="253" width="401" height="18" font="1"> in both (19a) and (19b) could be replaced by </text>
+<text top="924" left="654" width="13" height="18" font="0"><i>is</i></text>
+<text top="924" left="667" width="131" height="18" font="1"> shows that the</text>
+<text top="948" left="95" width="702" height="18" font="1">categorisation is not a problem.  However, the certainty of the categorisation is at odds</text>
+<text top="971" left="95" width="659" height="18" font="1">with the evaluative element of the meaning of LOOK/P, hence the exclamation mark.</text>
+<text top="995" left="111" width="687" height="18" font="1">All of the examples show that the noun xcomp has to be gradable. This is because the isa</text>
+<text top="1019" left="95" width="702" height="18" font="1">relation is not evaluable unless the category assignment in question involves a degree of</text>
+<text top="1043" left="95" width="702" height="18" font="1">membership prototype structure as well as a goodness of exemplar one. The important</text>
+<text top="1066" left="95" width="702" height="18" font="1">factor here is that the category which the xcomp refers to must be open to degree of</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">11</text>
+<text top="211" left="95" width="702" height="18" font="1">membership evaluations, hence the restriction that the xcomp of a SOUND-class verb</text>
+<text top="235" left="95" width="137" height="18" font="1">must be gradable.</text>
+<text top="259" left="111" width="687" height="18" font="1">These verbs must be raising or control, rather than attributary, in that they are</text>
+<text top="282" left="95" width="702" height="18" font="1">uninterpretable with the sense of the verb as the isa relatum of the sense of the xcomp.</text>
+<text top="306" left="95" width="702" height="18" font="1">The issue as to whether they are raising or control is a minor one.  This is a judgement</text>
+<text top="330" left="95" width="702" height="18" font="1">which can only be made on an instance by instance basis, depending on whether the</text>
+<text top="354" left="95" width="572" height="18" font="1">sensory modality concerned provides the source of the information or not.</text>
+<text top="377" left="111" width="687" height="18" font="1">The conclusion is, therefore, that all non-attributary instances of SOUND-class verbs are</text>
+<text top="401" left="95" width="702" height="18" font="1">epistemic and that this fact accounts for the limits on the possible xcomps of these verbs.</text>
+<text top="425" left="95" width="702" height="18" font="1">The isa relation only applies to the senses of nominal xcomps of SOUND-class verbs. We</text>
+<text top="449" left="95" width="702" height="18" font="1">have seen that the reason why such xcomps have to be gradable in some way is due to the</text>
+<text top="472" left="95" width="513" height="18" font="1">fact that all instances of SOUND-class verbs are evaluative.</text>
+<text top="469" left="608" width="6" height="11" font="8">4</text>
+<text top="472" left="614" width="184" height="18" font="1"> If they were not all</text>
+<text top="496" left="95" width="702" height="18" font="1">evaluative, as the sense of BE is not always evaluative, it would be possible for there to be</text>
+<text top="520" left="95" width="688" height="18" font="1">an isa relation between the sense of the xcomp and the referent of the subject in all cases.</text>
+<text top="592" left="95" width="199" height="18" font="4"><b>2.2 The TO-phrase data</b></text>
+<text top="638" left="95" width="702" height="18" font="1">In this section, I am looking at the relationship between the experiencer and the sense of</text>
+<text top="662" left="95" width="702" height="18" font="1">SOUND.  I take it that the TO-phrase data is evidence of subjectivity and that a subjective</text>
+<text top="686" left="95" width="702" height="18" font="1">interpretation of these verbs is further evidence that they are epistemically modal.  By</text>
+<text top="710" left="95" width="702" height="18" font="1">default, when there is no expressed experiencer phrase, the experiencer is assumed to be</text>
+<text top="733" left="95" width="702" height="18" font="1">the speaker.  Therefore, in (20) and (21) the TO-phrase is entirely natural and if there were</text>
+<text top="757" left="95" width="645" height="18" font="1">no TO-phrase we would assume that the evaluation was being made by the speaker.</text>
+<text top="805" left="95" width="259" height="18" font="1">(20) a. he sounds foreign to me</text>
+<text top="828" left="139" width="162" height="18" font="1">b. he looks ill to me</text>
+<text top="852" left="139" width="215" height="18" font="1">c. the book feels old to me</text>
+<text top="876" left="139" width="271" height="18" font="1">d. the wine smells delicious to me</text>
+<text top="900" left="139" width="260" height="18" font="1">e. the food tastes fantastic to me</text>
+<text top="947" left="95" width="495" height="18" font="1">(21) a. it sounds improbable to me that he will be found guilty</text>
+<text top="971" left="139" width="439" height="18" font="1">b. it looks improbable to me that he will be found guilty</text>
+<text top="1018" left="95" width="217" height="18" font="1">                                           </text>
+<text top="1037" left="111" width="6" height="10" font="6">4</text>
+<text top="1041" left="117" width="528" height="16" font="5"> I take it that evaluation is a sub-domain of epistemic modality.  In examples like </text>
+<text top="1041" left="644" width="153" height="16" font="7"><i>John left hours ago, he</i></text>
+<text top="1061" left="95" width="183" height="16" font="7"><i>must be in London by now</i></text>
+<text top="1061" left="278" width="181" height="16" font="5"> the epistemic modality of </text>
+<text top="1061" left="459" width="32" height="16" font="7"><i>must</i></text>
+<text top="1061" left="490" width="308" height="16" font="5"> encodes an evaluation about the likelihood of</text>
+<text top="1082" left="95" width="156" height="16" font="5">John’s being in London.</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">12</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="139" width="441" height="18" font="1">c. it feels improbable to me that he will be founds guilty</text>
+<text top="235" left="139" width="436" height="18" font="1">d. it smells wonderful to me to roast onions with cumin</text>
+<text top="259" left="139" width="468" height="18" font="1">e. it tastes wonderful to me to melt chocolate on my tongue</text>
+<text top="306" left="95" width="702" height="18" font="1">Semantically, the experiencer is an argument of the verb.  The semantic relation between</text>
+<text top="330" left="95" width="702" height="18" font="1">the sense of the verb and the referent of the TO-phrase is dictated by the sense of the verb,</text>
+<text top="354" left="95" width="146" height="18" font="1">not the TO-phrase.</text>
+<text top="377" left="111" width="687" height="18" font="1">There are two issues. The first concerns the exact nature of the semantic relation</text>
+<text top="401" left="95" width="702" height="18" font="1">between the experiencer and ‘sounding’. The second concerns how the experiencer is</text>
+<text top="425" left="95" width="702" height="18" font="1">related to subjectivity. A subjective interpretation of SOUND-class verbs supports their</text>
+<text top="449" left="95" width="702" height="18" font="1">analysis as epistemically modal. Apart from the discussion of the example in (22), in</text>
+<text top="472" left="95" width="702" height="18" font="1">Perkins (1983: 43), following a discussion in Lyons (1977: 805), which, Perkins claims,</text>
+<text top="496" left="95" width="702" height="18" font="1">expresses objective epistemic modality, most authors on modality, such as Palmer (1986:</text>
+<text top="520" left="95" width="702" height="18" font="1">53), agree that epistemic modality is typically subjective. There is a direct correlation</text>
+<text top="544" left="95" width="627" height="18" font="1">between speaker evaluation and the possibility that epistemic modality expresses.</text>
+<text top="591" left="95" width="518" height="18" font="1">(22) If it is possible that it will rain, you should take your umbrella</text>
+<text top="639" left="95" width="702" height="18" font="1">The fact that the epistemically modal expression in (22) can be embedded under IF is what</text>
+<text top="662" left="95" width="702" height="18" font="1">makes this an objective epistemic modality for Perkins.  Perhaps it is safest to claim that</text>
+<text top="686" left="95" width="702" height="18" font="1">while epistemic modality need not be subjective, an expression that expresses a subjective</text>
+<text top="710" left="95" width="702" height="18" font="1">evaluation is necessarily epistemic.  Perkins (1983) does not discuss SOUND-class verbs</text>
+<text top="734" left="95" width="406" height="18" font="1">at all in his, otherwise, very full account of modality.</text>
+<text top="757" left="111" width="687" height="18" font="1">My claim is that the raising and control senses of SOUND-class verbs locate the</text>
+<text top="781" left="95" width="702" height="18" font="1">epistemic evaluation in the mind of an experiencer.  This analysis is similar to Dixon’s</text>
+<text top="805" left="95" width="702" height="18" font="1">(1991: 200) observation that these verbs involve an arbiter. By default, that experiencer is</text>
+<text top="829" left="95" width="702" height="18" font="1">the speaker.  Otherwise, the experiencer is referred to in the TO-phrase. Given Sweetser’s</text>
+<text top="853" left="95" width="702" height="18" font="1">(1990) account of modality, there is an advantage in identifying the similarities between</text>
+<text top="876" left="95" width="702" height="18" font="1">SOUND-class verbs and other instances of modal meaning. Sweetser (1990) notes that</text>
+<text top="900" left="95" width="702" height="18" font="1">there is a force-dynamic relationship between the utterer of an epistemically modal verb</text>
+<text top="924" left="95" width="702" height="18" font="1">and the proposition encoded by the xcomp of the modal which, she shows, resembles the</text>
+<text top="948" left="95" width="237" height="18" font="1">one found in deontic modality.</text>
+<text top="971" left="111" width="367" height="18" font="1">Deontic modality is clearly force-dynamic.  </text>
+<text top="971" left="478" width="106" height="18" font="0"><i>You must go</i></text>
+<text top="971" left="583" width="215" height="18" font="1"> involves a force-dynamic</text>
+<text top="995" left="95" width="702" height="18" font="1">relation between the imposer of the obligation and the subject of the verb in that the utterer</text>
+<text top="1019" left="95" width="702" height="18" font="1">of a deontic modal is an agonist and the addressee is the antagonist.  The situation is</text>
+<text top="1043" left="95" width="613" height="18" font="1">slightly different when the subject of a deontic modal is not the addressee.  In </text>
+<text top="1043" left="708" width="90" height="18" font="0"><i>all students</i></text>
+<text top="1066" left="95" width="181" height="18" font="0"><i>must pass seven exams</i></text>
+<text top="1066" left="276" width="522" height="18" font="1">, the force-dynamic relation between the utterer and the subject of</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">13</text>
+<text top="211" left="95" width="204" height="18" font="1">the verb is an indirect one.</text>
+<text top="235" left="111" width="687" height="18" font="1">Epistemic modality does not involve the imposition of an obligation.  However, a force-</text>
+<text top="259" left="95" width="702" height="18" font="1">dynamic relation still exists.  In this case, the proposition expressed by the xcomp of a</text>
+<text top="282" left="95" width="702" height="18" font="1">modal verb and its subject imposes itself on the consciousness of the utterer of the modal.</text>
+<text top="306" left="95" width="22" height="18" font="1">In </text>
+<text top="306" left="117" width="203" height="18" font="0"><i>they must be there by now</i></text>
+<text top="306" left="319" width="478" height="18" font="1">, the proposition is the agonist imposing on the consciousness</text>
+<text top="330" left="95" width="702" height="18" font="1">of the utterer.  Epistemic modality, in addition to involving a different semantic field from</text>
+<text top="354" left="95" width="583" height="18" font="1">deontic modality, involves a reconfiguration of the force-dynamic relations.</text>
+<text top="377" left="111" width="687" height="18" font="1">The claim is that epistemic modality is captured not just by its being a (non-prototypical)</text>
+<text top="401" left="95" width="702" height="18" font="1">instance of ‘believing’ but also by its force-dynamic character. Furthermore, it is entirely</text>
+<text top="425" left="95" width="702" height="18" font="1">customary with these verbs for the utterer to be an argument of the sense of the verb, as it</text>
+<text top="449" left="95" width="702" height="18" font="1">is with epistemic modals, and that the semantic relation is the same as with epistemic</text>
+<text top="472" left="95" width="702" height="18" font="1">modals. It is wrong to class the utterer of an epistemic modal as an experiencer. There is</text>
+<text top="496" left="95" width="305" height="18" font="1">nothing we could claim the utterer of </text>
+<text top="496" left="400" width="212" height="18" font="0"><i>they must be there by now</i></text>
+<text top="496" left="612" width="186" height="18" font="1"> might experience. The</text>
+<text top="520" left="95" width="702" height="18" font="1">only reason we might have for calling the “experiencer” of a SOUND-class verb the</text>
+<text top="544" left="95" width="702" height="18" font="1">experiencer is that they experience the sensory perception that gives rise to the evaluation.</text>
+<text top="567" left="95" width="702" height="18" font="1">But in the case of raising SOUND-class verbs, there is no sensory perception so there are</text>
+<text top="591" left="95" width="456" height="18" font="1">no grounds for identifying this as an experiencer argument.</text>
+<text top="615" left="111" width="687" height="18" font="1">I have shown that the utterer of a SOUND-class verb is an argument of the sense of the</text>
+<text top="639" left="95" width="702" height="18" font="1">verb. As in the case of modals, this fact shows that SOUND-class verbs are subjective.</text>
+<text top="662" left="95" width="702" height="18" font="1">Subjectivity is a species of deixis and so involves the utterance and the locutionary act. It</text>
+<text top="686" left="95" width="702" height="18" font="1">is, however, not a term that is clearly defined in the literature. Cognitive Grammar</text>
+<text top="710" left="95" width="702" height="18" font="1">(Langacker 1987: 128; 1990) takes a very different view of subjectivity from the literature</text>
+<text top="734" left="95" width="702" height="18" font="1">on grammaticalisation (Traugott 1982, 1989; Wright 1995). In the case of SOUND-class</text>
+<text top="757" left="95" width="702" height="18" font="1">verbs, when there is no experiencer grammatically present, the speaker is deictically</text>
+<text top="781" left="95" width="444" height="18" font="1">involved in the situation by virtue of being the antagonist.</text>
+<text top="805" left="111" width="341" height="18" font="1">Without a TO-phrase, the subjectivity of </text>
+<text top="805" left="452" width="185" height="18" font="0"><i>John sounds charming</i></text>
+<text top="805" left="636" width="162" height="18" font="1"> is the same as the</text>
+<text top="829" left="95" width="116" height="18" font="1">subjectivity of </text>
+<text top="829" left="211" width="190" height="18" font="0"><i>John might be charming</i></text>
+<text top="829" left="401" width="397" height="18" font="1">.  The claim must be that the speaker is the agonist</text>
+<text top="853" left="95" width="702" height="18" font="1">of ‘sounding’ and the proposition the antagonist.  We can say that SOUND-class verbs are</text>
+<text top="876" left="95" width="702" height="18" font="1">subjective because, by default, the speaker is a force-dynamic participant in the situation</text>
+<text top="900" left="95" width="702" height="18" font="1">defined by the verb.  Because the force-dynamic orientation of these verbs extends beyond</text>
+<text top="924" left="95" width="702" height="18" font="1">the sentence into the speech domain, they are deictic.  What is pointed at is the utterer.  By</text>
+<text top="948" left="95" width="702" height="18" font="1">default, a SOUND-class verb identifies the speaker as the person whose belief is being</text>
+<text top="971" left="95" width="702" height="18" font="1">expressed.  This default can be overridden by a more specific case, an agonist identified in</text>
+<text top="995" left="95" width="101" height="18" font="1">a TO-phrase.</text>
+<text top="1019" left="111" width="687" height="18" font="1">I demonstrate below that the force-dynamic status of the experiencer is a critical issue in</text>
+<text top="1043" left="95" width="702" height="18" font="1">looking at the history of these verbs. I also show, in a related discussion, that the force-</text>
+<text top="1066" left="95" width="571" height="18" font="1">dynamics of these verbs is crucial to an understanding of their aktionsarts.</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">14</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="259" left="95" width="503" height="18" font="4"><b>3 The force-dynamics of SOUND-class verbs and aktionsarts</b></text>
+<text top="306" left="95" width="702" height="18" font="1">The fact that the force-dynamic organisation of the sense of SOUND-class verbs is</text>
+<text top="329" left="95" width="702" height="18" font="1">between the proposition and the speaker offers us a natural way of capturing the stativity</text>
+<text top="353" left="95" width="702" height="18" font="1">of the verbs.  Typically, I would expect a verb involving a force-dynamic opposition not to</text>
+<text top="377" left="95" width="702" height="18" font="1">be stative, but to be dynamic.  I characterise dynamicity as taking place when there is finite</text>
+<text top="401" left="95" width="702" height="18" font="1">energy input on the part of at least one of the participants in a situation type, in our folk</text>
+<text top="424" left="95" width="702" height="18" font="1">characterisation of that situation type.  The senses of SOUND-class verbs should, for this</text>
+<text top="448" left="95" width="702" height="18" font="1">reason, be dynamic.  The reason why they are not dynamic, however, is that, although</text>
+<text top="472" left="95" width="702" height="18" font="1">there is a force-dynamic opposition, the dynamicity does not involve the referent of the</text>
+<text top="496" left="95" width="702" height="18" font="1">subject as the agonist.  Another reason is that SOUND-class verbs are deictic.  No verb</text>
+<text top="520" left="95" width="702" height="18" font="1">where this is the case can be dynamic, it seems.  Modals, for example, also involve force</text>
+<text top="543" left="95" width="702" height="18" font="1">oppositions yet they are stative.  One possible account for this is that the force-dynamic</text>
+<text top="567" left="95" width="702" height="18" font="1">character of the modals is not limited to the referents of the linguistically expressed</text>
+<text top="591" left="95" width="221" height="18" font="1">syntactic valents of the verb.</text>
+<text top="615" left="111" width="687" height="18" font="1">With this account, we can explain how sometimes these verbs can be dynamic. The</text>
+<text top="638" left="95" width="702" height="18" font="1">diagnostics for agency that I presented were the ability to occur in the progressive and</text>
+<text top="662" left="95" width="702" height="18" font="1">occurrence with a manner adverb like DELIBERATELY.  Progressivity is not, by itself, a</text>
+<text top="686" left="95" width="702" height="18" font="1">good diagnostic of agency. There are a number of raising constructions that can be</text>
+<text top="710" left="95" width="702" height="18" font="1">progressive. There are progressive passives, and there are constructions with non-</text>
+<text top="733" left="95" width="186" height="18" font="1">referential subjects like </text>
+<text top="733" left="281" width="311" height="18" font="0"><i>there is ceasing to be any disagreement</i></text>
+<text top="733" left="592" width="39" height="18" font="1"> and </text>
+<text top="733" left="631" width="167" height="18" font="0"><i>there are threatening</i></text>
+<text top="757" left="95" width="176" height="18" font="0"><i>to be more accidents.</i></text>
+<text top="757" left="271" width="527" height="18" font="1"> Purpose clauses and manner adverbs like DELIBERATELY are</text>
+<text top="781" left="95" width="702" height="18" font="1">excellent diagnostics of agency. It is clear that the examples in (23) have agentive subjects.</text>
+<text top="805" left="95" width="683" height="18" font="1">The examples in (23) are, therefore, not instances of the evidential senses of these verbs.</text>
+<text top="852" left="95" width="612" height="18" font="1">(23) a. Jane is looking scary (to frighten off the boy she doesn’t want to date)</text>
+<text top="876" left="139" width="436" height="18" font="1">b. Jane is sounding angry (to hide the fact she’s scared)</text>
+<text top="900" left="139" width="284" height="18" font="1">c. Jane is deliberately looking scary</text>
+<text top="923" left="139" width="347" height="18" font="1">d. the teacher is deliberately sounding scary</text>
+<text top="971" left="95" width="702" height="18" font="1">In addition, there is a close relation between the agency of the subject and the presence of</text>
+<text top="995" left="95" width="702" height="18" font="1">the TO-phrase.  If the subject was agentive, the TO-phrase could not occur.  There are</text>
+<text top="1018" left="95" width="135" height="18" font="1">examples in (24).</text>
+<text top="1066" left="95" width="399" height="18" font="1">(24)  a. Jane is deliberately looking scary (*to me)</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">15</text>
+<text top="211" left="139" width="626" height="18" font="1">b. Jane is looking scary (*to me) to frighten off the boy she doesn’t want to date</text>
+<text top="259" left="95" width="702" height="18" font="1">The issue is how we capture the variable aktionsart of SOUND-class verbs and whether we</text>
+<text top="282" left="95" width="546" height="18" font="1">can relate the variable aktionsart to the ability of a TO-phrase to occur.</text>
+<text top="306" left="111" width="687" height="18" font="1">The analysis of the experiencer as a force-dynamic participant in the sense of the verb</text>
+<text top="330" left="95" width="702" height="18" font="1">makes it possible to arrive at a unified analysis of both of these phenomena. Dynamic</text>
+<text top="354" left="95" width="702" height="18" font="1">SOUND must be attributary because it does not encode a belief. Therefore, the attributary</text>
+<text top="377" left="95" width="702" height="18" font="1">sense of SOUND is analysed as involving force-dynamic relationships which are conflated</text>
+<text top="401" left="95" width="354" height="18" font="1">with the more general argument relationships.</text>
+<text top="425" left="111" width="687" height="18" font="1">This simple statement of the organisation of the force-dynamics of SOUND-class verbs</text>
+<text top="449" left="95" width="702" height="18" font="1">captures a number of problems quite elegantly.  First, we can handle the epistemic</text>
+<text top="472" left="95" width="702" height="18" font="1">modality and the subjectivity.  Secondly, we can handle the relationship between the</text>
+<text top="496" left="95" width="702" height="18" font="1">dynamic and stative instances of the verb and their ability to occur with a TO-phrase</text>
+<text top="520" left="95" width="95" height="18" font="1">experiencer.</text>
+<text top="591" left="95" width="441" height="18" font="4"><b>4 SOUND-class verbs with LIKE/preposition and OF</b></text>
+<text top="638" left="95" width="702" height="18" font="1">So far, I have discussed SOUND-class verbs with nouns and adjectives as their xcomps. In</text>
+<text top="661" left="95" width="702" height="18" font="1">this section, I look at the behaviour of SOUND-class verbs with the two prepositions that</text>
+<text top="685" left="95" width="702" height="18" font="1">they can have as xcomps. OF can only ever occur with SMELL and TASTE. When it</text>
+<text top="709" left="95" width="702" height="18" font="1">occurs with those verbs, it only occurs with the attributary senses. A LIKE/preposition</text>
+<text top="733" left="95" width="702" height="18" font="1">xcomp, like an adjective xcomp, is able to occur with both the evaluative and the</text>
+<text top="756" left="95" width="320" height="18" font="1">attributive senses of SOUND-class verbs.</text>
+<text top="780" left="111" width="687" height="18" font="1">LIKE/preposition never occurs with an expletive subject.  Even when the subject of the</text>
+<text top="804" left="95" width="502" height="18" font="1">verb is IT, it is still referential.  There are some examples in (25).</text>
+<text top="851" left="95" width="202" height="18" font="1">(25) a. it looks like Jane</text>
+<text top="875" left="139" width="171" height="18" font="1">b. it sounds like Jane</text>
+<text top="899" left="139" width="197" height="18" font="1">c. it feels like sandpaper</text>
+<text top="923" left="139" width="157" height="18" font="1">d. it smells like ash</text>
+<text top="946" left="139" width="199" height="18" font="1">e. it tastes like chocolate</text>
+<text top="994" left="95" width="702" height="18" font="1">These examples are ambiguous between evaluative (raising or control) and attributary</text>
+<text top="1018" left="95" width="702" height="18" font="1">interpretations. (25b), for instance, could mean “it is making a noise like Jane makes”,</text>
+<text top="1042" left="95" width="168" height="18" font="1">where the referent of </text>
+<text top="1042" left="263" width="11" height="18" font="0"><i>it</i></text>
+<text top="1042" left="274" width="192" height="18" font="1"> is the er of the sense of </text>
+<text top="1042" left="466" width="54" height="18" font="0"><i>sounds</i></text>
+<text top="1042" left="520" width="171" height="18" font="1"> and it is the sense of </text>
+<text top="1042" left="691" width="59" height="18" font="0"><i>sounds </i></text>
+<text top="1042" left="750" width="47" height="18" font="1">that is</text>
+<text top="1065" left="95" width="70" height="18" font="0"><i>like Jane</i></text>
+<text top="1065" left="166" width="632" height="18" font="1">; or “it appears from everything that I have heard that it must be Jane”; that is, it</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">16</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="702" height="18" font="1">has an evaluative meaning.  This ambiguity corresponds exactly to the attributary vs the</text>
+<text top="235" left="95" width="702" height="18" font="1">evaluative meaning distinction that I discussed for adjective xcomps of SOUND-class</text>
+<text top="259" left="95" width="47" height="18" font="1">verbs.</text>
+<text top="282" left="111" width="687" height="18" font="1">The LIKE/preposition xcomp facts are, therefore, very similar to the facts for adjective</text>
+<text top="306" left="95" width="702" height="18" font="1">xcomps, except that with adjective xcomps it was possible for the perception verb to have</text>
+<text top="330" left="95" width="702" height="18" font="1">no semantic relation between the sense of the verb and the referent of the subject.  In the</text>
+<text top="354" left="95" width="702" height="18" font="1">case of LIKE/preposition there must be a semantic relation, so the raising sense is never</text>
+<text top="377" left="95" width="230" height="18" font="1">found with LIKE/preposition.</text>
+<text top="401" left="111" width="687" height="18" font="1">The ambiguity between evaluative and attributary meanings is not available for all of the</text>
+<text top="425" left="95" width="702" height="18" font="1">sensory modalities.  When they are complemented by LIKE, SMELL/P and TASTE/P</text>
+<text top="449" left="95" width="702" height="18" font="1">only have an attributary meaning.  This fact is related to their behaviour with OF.  Only</text>
+<text top="472" left="95" width="702" height="18" font="1">SMELL/P and TASTE/P can be complemented by OF, and this is because OF only occurs</text>
+<text top="496" left="95" width="702" height="18" font="1">in attributary contexts.  SMELL/P and TASTE/P are the verbs which are least likely to</text>
+<text top="520" left="95" width="487" height="18" font="1">have an evaluative meaning.  There are some examples in (26).</text>
+<text top="567" left="95" width="212" height="18" font="1">(26) a. it smells of coffee</text>
+<text top="591" left="139" width="188" height="18" font="1">b. it tastes of chocolate</text>
+<text top="639" left="95" width="604" height="18" font="1">OF has a compositional meaning here.  It does not suggest that the referent of </text>
+<text top="639" left="699" width="11" height="18" font="0"><i>it</i></text>
+<text top="639" left="710" width="88" height="18" font="1"> smells in a</text>
+<text top="662" left="95" width="491" height="18" font="1">coffee-like way in (26a), nor does it suggest that the referent of </text>
+<text top="662" left="586" width="16" height="18" font="0"><i>it </i></text>
+<text top="662" left="602" width="195" height="18" font="1"> tastes in a chocolate-like</text>
+<text top="686" left="95" width="455" height="18" font="1">way in (26b).  Instead, what it suggests is that the sense of </text>
+<text top="686" left="550" width="15" height="18" font="0"><i>of</i></text>
+<text top="686" left="565" width="233" height="18" font="1"> restricts the range of possible</text>
+<text top="710" left="95" width="123" height="18" font="1">smells or tastes.</text>
+<text top="734" left="111" width="266" height="18" font="1">We can compare OF with LIKE.  </text>
+<text top="734" left="377" width="139" height="18" font="0"><i>It smells of coffee</i></text>
+<text top="734" left="515" width="283" height="18" font="1"> means that it has the same smell as</text>
+<text top="757" left="95" width="58" height="18" font="1">coffee. </text>
+<text top="757" left="153" width="154" height="18" font="0"><i> It smells like coffee</i></text>
+<text top="757" left="307" width="491" height="18" font="1"> means that its smell is like the smell of coffee.  Therefore, (27)</text>
+<text top="781" left="95" width="134" height="18" font="1">is not acceptable.</text>
+<text top="829" left="95" width="417" height="18" font="1">(27) it smells like / !of paint but it’s actually not paint</text>
+<text top="876" left="95" width="702" height="18" font="1">If something smells of paint, it has the same smell as paint, therefore in all probability it is</text>
+<text top="900" left="95" width="620" height="18" font="1">paint.  The examples in (27) relate to category assignment.  Examples like </text>
+<text top="900" left="715" width="83" height="18" font="0"><i>this coffee</i></text>
+<text top="924" left="95" width="113" height="18" font="0"><i>smells of paint</i></text>
+<text top="924" left="208" width="589" height="18" font="1"> suggests the presence of paint, not that the coffee is paint.  The fact that the</text>
+<text top="948" left="95" width="702" height="18" font="1">coffee is referred to by a fully referential noun-phrase overrides the category assigning</text>
+<text top="971" left="95" width="84" height="18" font="1">possibility.</text>
+<text top="995" left="111" width="687" height="18" font="1">(28) shows that the SOUND-class verbs are not exactly like SEEM (in this</text>
+<text top="1019" left="95" width="580" height="18" font="1">complementation pattern) in that SEEM does not have an attributary sense.</text>
+<text top="1066" left="95" width="179" height="18" font="1">(28) it seems like Jane</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">17</text>
+<text top="235" left="95" width="288" height="18" font="1">The only available interpretation of </text>
+<text top="235" left="383" width="47" height="18" font="0"><i>seems</i></text>
+<text top="235" left="429" width="368" height="18" font="1"> in (28) is “I infer from all available evidence</text>
+<text top="259" left="95" width="702" height="18" font="1">that it must be Jane”.  This is exactly what we should expect, as the evaluative raising and</text>
+<text top="282" left="95" width="702" height="18" font="1">control meanings of SOUND-class verbs are very similar to SEEM, excepting the</text>
+<text top="306" left="95" width="679" height="18" font="1">possibility of an er relation between the sense of the verb and the referent of the subject.</text>
+<text top="330" left="111" width="687" height="18" font="1">The next issue to consider is the nature of the semantic relation between</text>
+<text top="354" left="95" width="702" height="18" font="1">LIKE/preposition and the referent of its subject, in the evaluative meanings, and the sense</text>
+<text top="377" left="95" width="702" height="18" font="1">of its head, in the attributary meanings. LIKE/preposition is an inherently relational word,</text>
+<text top="401" left="95" width="702" height="18" font="1">so it always has two arguments, an er and an ee (i.e. second argument). We can see that, in</text>
+<text top="425" left="95" width="702" height="18" font="1">(29), the meaning of LIKE/preposition can mediate between two entities, an entity and a</text>
+<text top="449" left="95" width="221" height="18" font="1">situation, and two situations.</text>
+<text top="496" left="95" width="203" height="18" font="1">(29) a. Jane is like Peter</text>
+<text top="520" left="139" width="194" height="18" font="1">b. Jane seems like Peter</text>
+<text top="544" left="139" width="171" height="18" font="1">c. Jane ran like Peter</text>
+<text top="567" left="139" width="249" height="18" font="1">d. Jane ran like a rocket launch</text>
+<text top="615" left="95" width="153" height="18" font="1">In (29a) and (29b), </text>
+<text top="615" left="248" width="28" height="18" font="0"><i>like</i></text>
+<text top="615" left="276" width="152" height="18" font="1"> has the referent of </text>
+<text top="615" left="427" width="37" height="18" font="0"><i>Jane</i></text>
+<text top="615" left="464" width="220" height="18" font="1"> as its er and the referent of </text>
+<text top="615" left="683" width="42" height="18" font="0"><i>Peter</i></text>
+<text top="615" left="725" width="73" height="18" font="1"> as its ee.</text>
+<text top="639" left="95" width="146" height="18" font="1">In (29c), the er of </text>
+<text top="639" left="241" width="28" height="18" font="0"><i>like</i></text>
+<text top="639" left="269" width="142" height="18" font="1"> is the referent of </text>
+<text top="639" left="411" width="27" height="18" font="0"><i>ran</i></text>
+<text top="639" left="438" width="114" height="18" font="1"> and the ee of </text>
+<text top="639" left="552" width="28" height="18" font="0"><i>like</i></text>
+<text top="639" left="580" width="217" height="18" font="1"> is the referent of a running</text>
+<text top="662" left="95" width="442" height="18" font="1">event with ‘Peter’ as er.  In (29d), the er is the sense of </text>
+<text top="662" left="537" width="27" height="18" font="0"><i>ran</i></text>
+<text top="662" left="564" width="234" height="18" font="1"> and the ee is also a situation:</text>
+<text top="686" left="95" width="119" height="18" font="1">the referent of </text>
+<text top="686" left="214" width="10" height="18" font="0"><i>a</i></text>
+<text top="686" left="224" width="6" height="18" font="1"> </text>
+<text top="686" left="230" width="108" height="18" font="0"><i>rocket launch</i></text>
+<text top="686" left="338" width="460" height="18" font="1">.  As with adjectives, er is always the semantic relation to</text>
+<text top="710" left="95" width="702" height="18" font="1">the head or the subject of LIKE, and the semantic relation may have as its relatum things</text>
+<text top="734" left="95" width="208" height="18" font="1">from any ontological class.</text>
+<text top="757" left="111" width="687" height="18" font="1">The situation is partly complicated by the fact that when the er of LIKE and the ee of</text>
+<text top="781" left="95" width="702" height="18" font="1">LIKE are not in the same ontological category, we have to make an inferential bridge.  In</text>
+<text top="805" left="95" width="702" height="18" font="1">(29c) Jane’s running is, of course, not like Peter because there is no way that an event and</text>
+<text top="829" left="95" width="702" height="18" font="1">a person could have sufficient in common that they could be compared.  Jane’s running is</text>
+<text top="853" left="95" width="702" height="18" font="1">like Peter to the extent that it is like Peter’s running, which is the only salient aspect of</text>
+<text top="876" left="95" width="657" height="18" font="1">Peter.  I take it that this kind of inferential bridging is pragmatic rather than semantic.</text>
+<text top="900" left="111" width="687" height="18" font="1">There is a second interpretation of (29c) which means “Jane ran just as Peter ran”,</text>
+<text top="924" left="95" width="702" height="18" font="1">where the fact of Jane’s running is compared with the fact of Peter’s running.  This</text>
+<text top="948" left="95" width="420" height="18" font="1">interpretation involves an intonational break between </text>
+<text top="948" left="515" width="27" height="18" font="0"><i>ran</i></text>
+<text top="948" left="542" width="40" height="18" font="1"> and </text>
+<text top="948" left="582" width="28" height="18" font="0"><i>like</i></text>
+<text top="948" left="610" width="188" height="18" font="1"> and it is not relevant to</text>
+<text top="971" left="95" width="141" height="18" font="1">my concerns here.</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">18</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="299" height="18" font="4"><b>5 The history of SOUND-class verbs</b></text>
+<text top="259" left="95" width="135" height="18" font="4"><b>5.1 Introduction</b></text>
+<text top="305" left="95" width="702" height="18" font="1">The discussion so far has made one innovation in the analysis of predicative</text>
+<text top="329" left="95" width="702" height="18" font="1">complementation in that it has identified the attributary structure. One of the advantages of</text>
+<text top="353" left="95" width="702" height="18" font="1">this innovation, and a further motivation for it, is that it permits a more sophisticated than</text>
+<text top="377" left="95" width="421" height="18" font="1">hitherto analysis of the history of SOUND-class verbs.</text>
+<text top="400" left="111" width="687" height="18" font="1">There are three problems in the history of these verbs.  The first, which I shall not</text>
+<text top="424" left="95" width="702" height="18" font="1">address is the development of the different senses.  The second, which I discuss in this</text>
+<text top="448" left="95" width="702" height="18" font="1">section, deals with how the post-verbal element should be analysed.  It appears in the early</text>
+<text top="472" left="95" width="702" height="18" font="1">history of these verbs that they require a post-verbal adverb.  I argue that the grammatical</text>
+<text top="495" left="95" width="702" height="18" font="1">similarity between xcomps and xadjuncts makes this a plausible analysis of the</text>
+<text top="519" left="95" width="602" height="18" font="1">constructions.  The third issue concerns the establishment of a dynamic sense.</text>
+<text top="543" left="111" width="687" height="18" font="1">The development of the evidential senses from an attributary sense follows the classic</text>
+<text top="567" left="95" width="702" height="18" font="1">pattern of subjectivisation. The emergence of the control meaning involves the formation</text>
+<text top="590" left="95" width="702" height="18" font="1">of a secondary predicate. Verbs like LOOK and SOUND move from being verbs that</text>
+<text top="614" left="95" width="702" height="18" font="1">require adverbial modification to being verbs that mediate a relationship between the</text>
+<text top="638" left="95" width="702" height="18" font="1">subject and the predicative complement. Next, the emergence of the raising sense involves</text>
+<text top="662" left="95" width="702" height="18" font="1">the loss of a semantic argument relation between the subject and the verb which is found</text>
+<text top="685" left="95" width="702" height="18" font="1">in the grammaticalisation of the modal auxiliaries, for example.  Furthermore, the</text>
+<text top="709" left="95" width="702" height="18" font="1">development of the meanings of these verbs moves from not encoding a speaker</text>
+<text top="733" left="95" width="702" height="18" font="1">judgement to encoding one. The raising sense is, arguably, the most subjective of the three</text>
+<text top="757" left="95" width="124" height="18" font="1">possible senses.</text>
+<text top="753" left="219" width="6" height="11" font="8">5</text>
+<text top="757" left="226" width="572" height="18" font="1"> The verbs in (1), (2) and (3) in the introduction to this paper appear to</text>
+<text top="781" left="95" width="455" height="18" font="1">confirm Traugott’s (1982, 1989) unidirectional hypothesis.</text>
+<text top="804" left="111" width="687" height="18" font="1">In contemporary English, all three meanings co-exist.  However, verbs referring to the</text>
+<text top="828" left="95" width="703" height="18" font="1">more distal senses, such as sight and hearing appear to prefer an evidential meaning while</text>
+<text top="852" left="95" width="702" height="18" font="1">SMELL and TASTE prefer the attributary meanings.  The fact that all three meanings can</text>
+<text top="876" left="95" width="478" height="18" font="1">co-exist gives rise to a degree of ambiguity in some examples.</text>
+<text top="977" left="95" width="217" height="18" font="1">                                           </text>
+<text top="996" left="111" width="6" height="10" font="6">5</text>
+<text top="1000" left="117" width="681" height="16" font="5"> The reason for making this assertion is that the only participants in the situation denoted by a verb with an</text>
+<text top="1020" left="95" width="702" height="16" font="5">raising sense are the proposition and the speaker.  The control sense, on the other hand, makes the subject a</text>
+<text top="1041" left="95" width="703" height="16" font="5">participant in the situation denoted by the verb and so it is less focused on the speaker’s interpretation.</text>
+<text top="1061" left="95" width="703" height="16" font="5">However, this is not to deny that control senses may also be subjective, and that such fine-grained</text>
+<text top="1082" left="95" width="460" height="16" font="5">judgements are subject to other factors, such as what the context offers.</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">19</text>
+<text top="211" left="95" width="430" height="18" font="4"><b>5.2 The classification of the predicative complement</b></text>
+<text top="258" left="95" width="537" height="18" font="1">Nevalainen (1995), addresses the issue of the word-class of </text>
+<text top="258" left="632" width="46" height="18" font="0"><i>holwe</i></text>
+<text top="258" left="678" width="120" height="18" font="1"> (“hollow” or</text>
+<text top="282" left="95" width="398" height="18" font="1">“hollowly”) and what its grammatical relation to </text>
+<text top="282" left="493" width="52" height="18" font="0"><i>looked</i></text>
+<text top="282" left="545" width="253" height="18" font="1"> should be in her discussion of</text>
+<text top="306" left="95" width="52" height="18" font="0"><i>looked</i></text>
+<text top="306" left="147" width="61" height="18" font="1"> in (30).</text>
+<text top="353" left="95" width="305" height="18" font="1">(30) As leene was his hors as is a rake,</text>
+<text top="377" left="139" width="287" height="18" font="1">And he was nat right fat, I undertake,</text>
+<text top="401" left="139" width="229" height="18" font="1">But looked holwe, and therto </text>
+<text top="401" left="368" width="60" height="18" font="4"><b>sobrely</b></text>
+<text top="401" left="428" width="268" height="18" font="1">.(Gen. Prologue to C. Tales 286-8)</text>
+<text top="449" left="95" width="702" height="18" font="1">Of this case, she says that Mustanoja considers this to be a Latin-influence literary form in</text>
+<text top="472" left="95" width="702" height="18" font="1">Chaucer but that Jespersen states that “predicative adverbs may occur instead of adjectives</text>
+<text top="496" left="95" width="702" height="18" font="1">with verbs of appearance.  This is common with verbs such as LOOK in Shakespeare.”</text>
+<text top="520" left="95" width="702" height="18" font="1">She also says that this usage is common in the Early Modern English section of the</text>
+<text top="544" left="95" width="477" height="18" font="1">Helsinki Corpus (Kyto, 1991), giving the following examples.</text>
+<text top="540" left="572" width="6" height="11" font="8">6</text>
+<text top="591" left="95" width="702" height="18" font="1">(31) I warrant you Coach after Coach, letter after letter, gift after gift, smelling so</text>
+<text top="615" left="138" width="60" height="18" font="4"><b>sweetly</b></text>
+<text top="615" left="198" width="221" height="18" font="1">; (E2 COME SHAKESP 45)</text>
+<text top="663" left="95" width="702" height="18" font="1">(32) and there being another house pretty close to it hight built with such a tower and</text>
+<text top="687" left="138" width="660" height="18" font="1">lanthorn also, with the two churches towers and some other building pretty good</text>
+<text top="711" left="138" width="119" height="18" font="1">made it appear </text>
+<text top="711" left="256" width="47" height="18" font="4"><b>nobly</b></text>
+<text top="711" left="302" width="336" height="18" font="1"> at a distance; (E3 TRAV FIENNES 151-2)</text>
+<text top="758" left="95" width="702" height="18" font="1">(33) it can receive no Light but at the Doors and Window of the Porch, whereby it looks</text>
+<text top="782" left="138" width="43" height="18" font="1">most </text>
+<text top="782" left="180" width="74" height="18" font="4"><b>solemnly</b></text>
+<text top="782" left="254" width="223" height="18" font="1">; (E3 TRAV FRYER 1, 186)</text>
+<text top="830" left="95" width="702" height="18" font="1">Nevalainen says that there are two possible analyses of these strings.  One is to analyse the</text>
+<text top="854" left="95" width="702" height="18" font="1">predicative complements as adjectives.  She does not see this as a plausible strategy,</text>
+<text top="877" left="95" width="268" height="18" font="1">because the low productivity of -</text>
+<text top="877" left="363" width="14" height="18" font="0"><i>ly</i></text>
+<text top="877" left="377" width="421" height="18" font="1"> adjectives cannot be squared with the frequency of</text>
+<text top="901" left="95" width="156" height="18" font="1">words ending in -</text>
+<text top="901" left="251" width="14" height="18" font="0"><i>ly</i></text>
+<text top="901" left="265" width="381" height="18" font="1"> that occurring this context.  In addition, -</text>
+<text top="901" left="645" width="14" height="18" font="0"><i>ly</i></text>
+<text top="901" left="660" width="138" height="18" font="1"> adjectives have</text>
+<text top="925" left="95" width="702" height="18" font="1">“specialised metaphorical and moral senses  which are not evident in examples like those</text>
+<text top="949" left="95" width="702" height="18" font="1">in (31)-(33).  The other analysis is to see the adverb as a predicative complement of the</text>
+<text top="972" left="95" width="702" height="18" font="1">verb, but only in the context of this small class of verbs. Nevalainen (1995) concludes that</text>
+<text top="1018" left="95" width="217" height="18" font="1">                                           </text>
+<text top="1037" left="111" width="6" height="10" font="6">6</text>
+<text top="1041" left="117" width="681" height="16" font="5"> The citations in (30), (31), (32), and (33) are all from Nevalainen (1995).  The material in parentheses</text>
+<text top="1061" left="95" width="703" height="16" font="5">locates the text in the Helsinki Corpus according to the conventions of Kyto (1991).  Consequently, all</text>
+<text top="1082" left="95" width="353" height="16" font="5">Helsinki Corpus material is referred to as Kyto (1991).</text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">20</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="702" height="18" font="1">predicative complements which look like adverbs are adverbs, and that this pattern</text>
+<text top="235" left="95" width="378" height="18" font="1">constitutes “a weakly codified area of grammar”.</text>
+<text top="259" left="111" width="687" height="18" font="1">The analysis of (32) and (33) is straightforward. They are cases of SOUND-verbs with</text>
+<text top="282" left="95" width="639" height="18" font="1">attributary senses.  Neither of the examples in (32) and (33) could be included in a </text>
+<text top="282" left="734" width="63" height="18" font="0"><i>to judge</i></text>
+<text top="306" left="95" width="33" height="18" font="0"><i>by...</i></text>
+<text top="306" left="128" width="328" height="18" font="1"> paraphrase, as the examples in (34) show.</text>
+<text top="354" left="95" width="371" height="18" font="1">(34) a. !to judge by their smell, they are sweet</text>
+<text top="377" left="139" width="334" height="18" font="1">b. !to judge by its appearance, it is solemn</text>
+<text top="425" left="95" width="702" height="18" font="1">On the other hand, they could be paraphrased by adjective + noun strings, as the examples</text>
+<text top="449" left="95" width="102" height="18" font="1">in (35) show.</text>
+<text top="496" left="95" width="256" height="18" font="1">(35) a. they have a sweet smell</text>
+<text top="520" left="139" width="183" height="18" font="1">b. it has a solemn look</text>
+<text top="567" left="95" width="702" height="18" font="1">In both of the cases in (31) and (33), the verb and its predicative complement form a</text>
+<text top="591" left="95" width="702" height="18" font="1">semantic unit which is then, in turn, predicated of the subject as the examples in (34) and</text>
+<text top="615" left="95" width="702" height="18" font="1">(35) demonstrate. The example in (32) on the other hand is a straightforwardly evidential</text>
+<text top="639" left="95" width="702" height="18" font="1">example. Nevalainen’s Early Modern English examples can, therefore, be accounted for</text>
+<text top="662" left="95" width="702" height="18" font="1">by analysing them as attributary examples of SMELL, and LOOK, whereas APPEAR here</text>
+<text top="686" left="95" width="181" height="18" font="1">has an evidential sense.</text>
+<text top="710" left="111" width="687" height="18" font="1">The reason why adverbs become less and less common as the predicative complement of</text>
+<text top="734" left="95" width="702" height="18" font="1">LOOK and SOUND is related to the emergence of the evidential senses. These senses</text>
+<text top="757" left="95" width="702" height="18" font="1">result in the predicative complement forming an independent secondary predicate, which</text>
+<text top="781" left="95" width="702" height="18" font="1">takes the referent of the subject of the verb as its er. In such cases, in contemporary</text>
+<text top="805" left="95" width="702" height="18" font="1">English, the predicative complement is obliged to be an adjective.  It is a rule of English</text>
+<text top="829" left="95" width="702" height="18" font="1">grammar that adverbs can only modify verbs and sentences. Once there is a regular control</text>
+<text top="853" left="95" width="702" height="18" font="1">construction involving the control sense, the predicative complement of these verbs will be</text>
+<text top="876" left="95" width="702" height="18" font="1">obliged to be an adjective.  Adjectives, unlike adverbs, are capable of modifying nouns.</text>
+<text top="900" left="95" width="702" height="18" font="1">We can account for the loss of the adverb as a predicative complement in terms of the</text>
+<text top="924" left="95" width="273" height="18" font="1">emergence of the evidential senses.</text>
+<text top="948" left="111" width="687" height="18" font="1">Some early examples are ambiguous.  In (30) above, an adjective and an adverb are</text>
+<text top="971" left="95" width="353" height="18" font="1">conjoined as the predicative complement of </text>
+<text top="971" left="448" width="52" height="18" font="0"><i>looked</i></text>
+<text top="971" left="500" width="298" height="18" font="1">. Assuming the attributary analysis of</text>
+<text top="995" left="95" width="112" height="18" font="0"><i>looked...holwe</i></text>
+<text top="995" left="207" width="442" height="18" font="1">, it is necessary to assume an attributary analysis of </text>
+<text top="995" left="649" width="123" height="18" font="0"><i>looked sobrely.</i></text>
+<text top="995" left="772" width="26" height="18" font="1"> In</text>
+<text top="1019" left="95" width="702" height="18" font="1">Chaucer, as now, an adjective predicative complement of these verbs can be attributary.</text>
+<text top="1043" left="95" width="546" height="18" font="1">Furthermore, there are examples like that in (36), taken from the OED.</text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">21</text>
+<text top="211" left="95" width="468" height="18" font="1">(36) So hungriliche and holwe sire Heruy hym loked (1277)</text>
+<text top="259" left="95" width="670" height="18" font="1">This should be paraphrased as “Sir Hervy had a hungry and hollow look to him”: the </text>
+<text top="259" left="765" width="33" height="18" font="0"><i>hym</i></text>
+<text top="282" left="95" width="278" height="18" font="1">is a reflexive dative. The sense of </text>
+<text top="282" left="373" width="52" height="18" font="0"><i>looked</i></text>
+<text top="282" left="425" width="373" height="18" font="1"> in (36) is, therefore, another attributary sense,</text>
+<text top="306" left="95" width="54" height="18" font="1">which </text>
+<text top="306" left="149" width="46" height="18" font="0"><i>holwe</i></text>
+<text top="306" left="194" width="603" height="18" font="1"> provides the best evidence for. The story of the predicative complement of</text>
+<text top="330" left="95" width="702" height="18" font="1">LOOK and SOUND is, therefore, not just a story about the grammaticalisation of LOOK</text>
+<text top="354" left="95" width="702" height="18" font="1">and SOUND; it also involves the grammaticalisation of the English adverb system, and the</text>
+<text top="377" left="95" width="413" height="18" font="1">restriction of the environments that they can occur in.</text>
+<text top="401" left="111" width="687" height="18" font="1">There is a complication to the story, however.  In the Nineteenth Century, there is a brief</text>
+<text top="425" left="95" width="702" height="18" font="1">flurry of SOUND-class verbs with adverbs as their predicative complements, but which</text>
+<text top="449" left="95" width="702" height="18" font="1">have evidential senses. By the Nineteenth Century, adverbs have, in all other contexts,</text>
+<text top="472" left="95" width="443" height="18" font="1">become restricted to modifying only verbs and sentences.</text>
+<text top="520" left="95" width="688" height="18" font="1">(37) a. On the whole, however, things as yet looked not unfavourably for James (1849)</text>
+<text top="544" left="139" width="577" height="18" font="1">b. It tasked the art of Kneller to make her look tolerably on canvas (1830)</text>
+<text top="567" left="139" width="566" height="18" font="1">c. Things had, by that time begun to look badly for all concerned (1891)</text>
+<text top="591" left="95" width="702" height="18" font="1">The examples in (37) are taken from the OED.  (37b) is interpretable as an attributary</text>
+<text top="615" left="95" width="702" height="18" font="1">example, but the other examples are clearly control or raising examples. I cannot account</text>
+<text top="639" left="95" width="702" height="18" font="1">for this curiosity. It was a short-lived possibility and one that, I think, may have been</text>
+<text top="662" left="95" width="212" height="18" font="1">limited to literary language.</text>
+<text top="686" left="111" width="687" height="18" font="1">It is a straightforward matter to account for the emergence of a raising pattern. These</text>
+<text top="710" left="95" width="702" height="18" font="1">verbs develop with initial attributary meanings, and the emergence of evidential meanings</text>
+<text top="734" left="95" width="702" height="18" font="1">is a later development.  The raising meanings develop from the control meanings.  The</text>
+<text top="757" left="95" width="611" height="18" font="1">earliest raising example for LOOK that I have found is in (38) (from the OED).</text>
+<text top="805" left="95" width="575" height="18" font="1">(38) How base a thing it is, and how unnaturally it looks, that men should </text>
+<text top="805" left="689" width="108" height="18" font="1">value Money</text>
+<text top="829" left="138" width="165" height="18" font="1">than the Law of God.</text>
+<text top="829" left="365" width="52" height="18" font="1">(1433)</text>
+<text top="876" left="95" width="702" height="18" font="1">The extraposition in (38) shows that this is an example of raising, in this case with an</text>
+<text top="900" left="95" width="702" height="18" font="1">adverb as the predicative complement. The possibility of adverbs as the predicative</text>
+<text top="924" left="95" width="702" height="18" font="1">complements of these verbs derives from their having an attributary construction as their</text>
+<text top="948" left="95" width="702" height="18" font="1">first, and initially most frequent, construction. In time, the possible predicative</text>
+<text top="971" left="95" width="702" height="18" font="1">complement of these verbs becomes limited to adjectives. As is to be expected in a case of</text>
+<text top="995" left="95" width="702" height="18" font="1">grammaticalisation, there is a considerable degree of overlap between the senses and the</text>
+<text top="1019" left="95" width="702" height="18" font="1">complementation pattern.  Once adverb predicatives are not possible, these verbs fall in</text>
+<text top="1043" left="95" width="394" height="18" font="1">line with other raising and control verbs in English.</text>
+<text top="1066" left="111" width="687" height="18" font="1">It is also worth looking at changes in contemporary English. I have claimed that the</text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="9" size="13" family="TimesNewRoman" color="#000000"/>
+<text top="169" left="95" width="17" height="16" font="5">22</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="98" height="18" font="1">presence of </text>
+<text top="211" left="193" width="33" height="18" font="0"><i>hym</i></text>
+<text top="211" left="225" width="319" height="18" font="1"> in (36) was evidence that the sense of </text>
+<text top="211" left="543" width="52" height="18" font="0"><i>looked</i></text>
+<text top="211" left="595" width="203" height="18" font="1"> in that case was control-</text>
+<text top="235" left="95" width="702" height="18" font="1">LOOK rather than attributary LOOK.  In contemporary English, LOOK and SOUND can</text>
+<text top="259" left="95" width="702" height="18" font="1">occur with a TO-phrase which indicates the experiencer of the verb.  There are some</text>
+<text top="282" left="95" width="695" height="18" font="1">examples in (39), which indicate that it is a speaker judgement that is under consideration.</text>
+<text top="330" left="95" width="259" height="18" font="1">(39) a. he sounds foreign to me</text>
+<text top="354" left="139" width="162" height="18" font="1">b. he looks ill to me</text>
+<text top="401" left="95" width="702" height="18" font="1">There is an example of a TO-phrase experiencer in (40) (from the OED), which reveals the</text>
+<text top="425" left="95" width="151" height="18" font="1">writer’s judgement.</text>
+<text top="472" left="95" width="702" height="18" font="1">(40) It looks to me to be narrow and pedantic, to apply the ordinary ideals of criminal</text>
+<text top="496" left="138" width="315" height="18" font="1">justice to this great public contest (1775)</text>
+<text top="544" left="95" width="423" height="18" font="1">In this case, the extraposition shows that the sense of </text>
+<text top="544" left="518" width="41" height="18" font="0"><i>looks</i></text>
+<text top="544" left="559" width="239" height="18" font="1"> is the raising sense.  The TO-</text>
+<text top="567" left="95" width="702" height="18" font="1">phrase is an argument of the verb: its semantic role is fixed by the verb.  As it does not</text>
+<text top="591" left="95" width="702" height="18" font="1">stipulate its own semantic role, it cannot be an adjunct.  The TO-phrase is also evidence of</text>
+<text top="615" left="95" width="596" height="18" font="1">emerging, or increasing, subjectivity.  It indicates that the proposition that </text>
+<text top="615" left="691" width="41" height="18" font="0"><i>looks</i></text>
+<text top="615" left="732" width="66" height="18" font="1"> in (40),</text>
+<text top="639" left="95" width="702" height="18" font="1">(the idea that to apply the ordinary ideals of criminal justice to this great public contest</text>
+<text top="662" left="95" width="536" height="18" font="1">would be narrow and pedantic) is a personal or subjective judgement.</text>
+<text top="686" left="111" width="687" height="18" font="1">In contemporary English, this subjectivity has been encoded in the meanings of the verbs</text>
+<text top="710" left="95" width="702" height="18" font="1">under consideration to such an extent that by default we accept the control and raising</text>
+<text top="734" left="95" width="502" height="18" font="1">examples as being indicative of speaker orientated beliefs.  The </text>
+<text top="734" left="597" width="44" height="18" font="0"><i>to me</i></text>
+<text top="734" left="640" width="157" height="18" font="1"> phrases in (39) are,</text>
+<text top="757" left="95" width="452" height="18" font="1">in some way, redundant.  We would assume them anyway.</text>
+<text top="781" left="111" width="687" height="18" font="1">The example in (36) shows that it was possible to construe these verbs with an</text>
+<text top="805" left="95" width="702" height="18" font="1">experiencer at least from the Fourteenth Century. A subjective interpretation is compatible</text>
+<text top="829" left="95" width="702" height="18" font="1">with the example in (36), where the subjectivity is that of the narrated subject. However,</text>
+<text top="853" left="95" width="702" height="18" font="1">examples like (38) show that subjectivity was not necessarily encoded into the meanings of</text>
+<text top="876" left="95" width="702" height="18" font="1">these verbs, even when it is clear that the instance of LOOK has a raising sense. Indeed, it</text>
+<text top="900" left="95" width="268" height="18" font="1">is arguable that the presence of </text>
+<text top="900" left="363" width="47" height="18" font="0"><i>to me</i></text>
+<text top="900" left="410" width="388" height="18" font="1"> in (40) is a function of a need to express the</text>
+<text top="924" left="95" width="162" height="18" font="1">subjectivity directly.</text>
+<text top="920" left="257" width="6" height="11" font="8">7</text>
+<text top="924" left="263" width="535" height="18" font="1"> It appears, therefore, that as part of their grammaticalisation as</text>
+<text top="956" left="95" width="217" height="18" font="1">                                           </text>
+<text top="975" left="111" width="6" height="10" font="6">7</text>
+<text top="979" left="117" width="483" height="16" font="5"> Wright (1995) points out that there are two distinct usages of the term </text>
+<text top="982" left="599" width="89" height="12" font="9">SUBJECTIVITY</text>
+<text top="979" left="688" width="110" height="16" font="5"> in the literature.</text>
+<text top="1000" left="95" width="702" height="16" font="5">Traugott’s, as in Traugott (1989), refers to speaker attitude or meaning.  Langacker’s usage of subjectivity,</text>
+<text top="1020" left="95" width="703" height="16" font="5">as in Langacker (1990) is related to his analysis of how verbs profile situations.  He consequently draws a</text>
+<text top="1041" left="95" width="131" height="16" font="5">distinction between </text>
+<text top="1041" left="225" width="80" height="16" font="7"><i>it looks nice</i></text>
+<text top="1041" left="305" width="33" height="16" font="5"> and </text>
+<text top="1041" left="338" width="121" height="16" font="7"><i>it looks nice to me</i></text>
+<text top="1041" left="459" width="339" height="16" font="5">, claiming that the second is less subjective than the</text>
+<text top="1061" left="95" width="702" height="16" font="5">first, because the experiencer is ‘onstage’.  Here, I use subjective and subjectivity as Traugott does, and not</text>
+<text top="1082" left="231" width="4" height="16" font="5">.</text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">23</text>
+<text top="211" left="95" width="702" height="18" font="1">control and raising verbs, these verbs become more subjective. We would assume that, by</text>
+<text top="235" left="95" width="323" height="18" font="1">default, they expressed a speaker opinion.</text>
+<text top="259" left="111" width="687" height="18" font="1">Given that they always encode a subjective judgement, either that of the speaker or the</text>
+<text top="282" left="95" width="702" height="18" font="1">referent of the TO-phrase, we need to identify how the speaker is encoded into the</text>
+<text top="306" left="95" width="702" height="18" font="1">meaning of the verbs. I have argued that the speaker/TO-phrase argument of the verb is a</text>
+<text top="330" left="95" width="702" height="18" font="1">force-dynamic argument of the verb as in Sweetser’s (1990) analysis of deontic and</text>
+<text top="354" left="95" width="702" height="18" font="1">epistemic modality. In Sweetser’s (1990: 39) analysis of MUST, she says that epistemic</text>
+<text top="377" left="95" width="702" height="18" font="1">MUST compels the speaker to reach the conclusion embodied in the sentence. That is,</text>
+<text top="401" left="95" width="702" height="18" font="1">there is a force-dynamic relationship between the proposition and the speaker encoded by</text>
+<text top="425" left="95" width="280" height="18" font="1">MUST in examples like that in (41).</text>
+<text top="472" left="95" width="521" height="18" font="1">(41) Jane must be in Manchester by now -- she left four hours ago.</text>
+<text top="520" left="95" width="702" height="18" font="1">This analysis of epistemic modality is clearly relevant to the analysis of raising and control</text>
+<text top="544" left="95" width="702" height="18" font="1">LOOK and SOUND. If I state something like (42a), I am compelled to the conclusion in</text>
+<text top="567" left="95" width="702" height="18" font="1">the proposition by Jane’s appearance. If I state something like (42b), I am compelled to the</text>
+<text top="591" left="95" width="702" height="18" font="1">conclusion in the subordinate proposition by some information that is visually available to</text>
+<text top="615" left="95" width="29" height="18" font="1">me.</text>
+<text top="662" left="95" width="265" height="18" font="1">(42) a. Jane looks drunk (to me)</text>
+<text top="686" left="139" width="402" height="18" font="1">b. tomorrow’s weather looks good for a sailing trip</text>
+<text top="734" left="95" width="702" height="18" font="1">On this basis, therefore, I conclude that the speaker (or referent of the TO-phrase, who</text>
+<text top="757" left="95" width="702" height="18" font="1">may be the speaker) is a force-dynamic argument of the sense of LOOK or SOUND or</text>
+<text top="781" left="95" width="427" height="18" font="1">similar verbs when they have a raising or control sense.</text>
+<text top="805" left="111" width="687" height="18" font="1">There is, however, evidence that these verbs are undergoing a process of</text>
+<text top="829" left="95" width="702" height="18" font="1">desubjectivisation. Rogers (1973) claims that these verbs are always stative and that the</text>
+<text top="853" left="95" width="702" height="18" font="1">subject of the verb is never an agentive argument of the verb.  He claims, that they can</text>
+<text top="876" left="95" width="702" height="18" font="1">never be progressive, that they cannot be the complement of FORCE or PERSUADE and</text>
+<text top="900" left="95" width="702" height="18" font="1">that they cannot occur with manner adverbs.  However, although it was not possible for</text>
+<text top="924" left="95" width="702" height="18" font="1">Rogers or his informants to have these verbs in these contexts, I find the examples in (43)</text>
+<text top="948" left="95" width="183" height="18" font="1">all perfectly acceptable.</text>
+<text top="995" left="95" width="238" height="18" font="1">(43) a. Jane is looking drunk</text>
+<text top="1019" left="139" width="267" height="18" font="1">b. I persuaded Jane to look drunk</text>
+<text top="1043" left="139" width="658" height="18" font="1">c. Jane deliberately looked drunk, in order to fob off the attentions of the man she</text>
+<text top="1066" left="170" width="61" height="18" font="1">disliked</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">24</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="235" left="95" width="702" height="18" font="1">Ljung (1980) notes that the progressive is perfectly natural with SOUND-class perception</text>
+<text top="259" left="95" width="702" height="18" font="1">verbs. The examples in (43) are all perfectly acceptable. However, the examples in (44b-c)</text>
+<text top="282" left="95" width="135" height="18" font="1">are unacceptable.</text>
+<text top="330" left="95" width="286" height="18" font="1">(44) a. Jane is looking drunk to me</text>
+<text top="354" left="139" width="321" height="18" font="1">b. !I persuaded Jane to look drunk to me</text>
+<text top="377" left="139" width="320" height="18" font="1">c. !Jane deliberately looked drunk to me</text>
+<text top="425" left="95" width="702" height="18" font="1">(44a) is acceptable, but only on the basis that the progressive is construed non-agentively.</text>
+<text top="449" left="95" width="702" height="18" font="1">Such a construal of the progressive would depend on interpreting it as referring to a</text>
+<text top="472" left="95" width="702" height="18" font="1">temporally limited situation although it could possibly be an example of the experiential</text>
+<text top="496" left="95" width="290" height="18" font="1">progressive in Wright’s (1995) terms.</text>
+<text top="520" left="111" width="687" height="18" font="1">When a verb occurs in the frames indicated in (44b-c) what is being investigated is the</text>
+<text top="544" left="95" width="702" height="18" font="1">agentivity of the subject. In these cases, the subject is being construed as an agentive</text>
+<text top="567" left="95" width="702" height="18" font="1">element, responsible for its appearance.  Furthermore, the agentive subject is incompatible</text>
+<text top="591" left="95" width="702" height="18" font="1">with the presence of the TO-phrase. In addition, it blocks the interpretation of such</text>
+<text top="615" left="95" width="528" height="18" font="1">sentences as speaker judgements when there is no speaker indicated.</text>
+<text top="639" left="111" width="687" height="18" font="1">In these cases, what has happened is that the subject has come to be interpreted as being</text>
+<text top="662" left="95" width="702" height="18" font="1">force-dynamically responsible for the situation. If we accept Rogers’ data we can only</text>
+<text top="686" left="95" width="702" height="18" font="1">assume that the reanalysis of the force-dynamic relations is a modern phenomenon. Even</text>
+<text top="710" left="95" width="702" height="18" font="1">if we do not accept Rogers’ data, it is fair to assume that the establishment of an agentive</text>
+<text top="734" left="95" width="655" height="18" font="1">and dynamic variant of the attributary sense of these verbs is a modern phenomenon.</text>
+<text top="757" left="111" width="687" height="18" font="1">There is a further point. The establishment of a dynamic agentive attributary sense is at</text>
+<text top="781" left="95" width="702" height="18" font="1">odds with Traugott’s (1982, 1989) unidirectional hypo-thesis. While the development of</text>
+<text top="805" left="95" width="702" height="18" font="1">the evidential senses from the attributary sense is consonant with her hypothesis, the</text>
+<text top="829" left="95" width="702" height="18" font="1">development of a dynamic attributary sense reinforces the propositional (in Traugott’s</text>
+<text top="853" left="95" width="702" height="18" font="1">terms) nature of attributary SOUND-class verbs. For the unidirectional hypothesis to be</text>
+<text top="876" left="95" width="632" height="18" font="1">borne out, it would be necessary for the attributary senses to disappear eventually.</text>
+<text top="900" left="111" width="687" height="18" font="1">Clearly, the fact that these verbs are not unequivocally agentive unless they occur in</text>
+<text top="924" left="95" width="702" height="18" font="1">agentive contexts shows that this nature of the subject as an agentive element in the</text>
+<text top="948" left="95" width="702" height="18" font="1">meaning of the verb has not become fully encoded in the grammar. The necessity for</text>
+<text top="971" left="95" width="702" height="18" font="1">agentive contexts suggests that what is found in examples like (43) is a case of what</text>
+<text top="995" left="95" width="702" height="18" font="1">Traugott calls pragmatic strengthening.  But, nevertheless, it is clear that it is necessary to</text>
+<text top="1019" left="95" width="621" height="18" font="1">consider whether desubjectivisation is a phenomenon elsewhere in the grammar.</text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="558" width="197" height="16" font="7"><i>English SOUND-class verbs</i></text>
+<text top="169" left="780" width="17" height="16" font="5">25</text>
+<text top="211" left="95" width="115" height="18" font="4"><b>6 Conclusions</b></text>
+<text top="258" left="95" width="702" height="18" font="1">In this paper, I have shown that SOUND-class verbs have three senses: an attributary</text>
+<text top="282" left="95" width="702" height="18" font="1">sense, and two evidential senses.  I have shown how the presence of the attributary sense</text>
+<text top="306" left="95" width="702" height="18" font="1">can account for the historical presence of a predicative adverb and how the evidential</text>
+<text top="329" left="95" width="702" height="18" font="1">senses are later developments than the attributary sense. I have also shown how these</text>
+<text top="353" left="95" width="702" height="18" font="1">verbs show increasing subjectivity associated with their grammaticalisation. Finally, I have</text>
+<text top="377" left="95" width="702" height="18" font="1">discussed the current changes in the force-dynamic status of these verbs arguing that in</text>
+<text top="401" left="95" width="702" height="18" font="1">agentive contexts, the subject of the verb is construed as being a force-dynamic participant</text>
+<text top="424" left="95" width="702" height="18" font="1">whereas in non-agentive contexts, the force-dynamic relations hold between the speaker</text>
+<text top="448" left="95" width="702" height="18" font="1">and the proposition as in cases of epistemic modality.  This last process is a form of</text>
+<text top="472" left="95" width="144" height="18" font="1">desubjectivisation.</text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="169" left="95" width="17" height="16" font="5">26</text>
+<text top="169" left="153" width="64" height="16" font="7"><i>Gisborne</i></text>
+<text top="211" left="95" width="91" height="18" font="4"><b>References</b></text>
+<text top="258" left="95" width="270" height="16" font="5">Bach, E. (1979) “In Defense of Passive.” </text>
+<text top="258" left="365" width="178" height="16" font="7"><i>Linguistics and Philosophy</i></text>
+<text top="258" left="543" width="80" height="16" font="5"> 3, 297-342.</text>
+<text top="278" left="95" width="266" height="16" font="5">Bowers, J. (1972) MIT PhD dissertation.</text>
+<text top="299" left="95" width="136" height="16" font="5">Gisborne, N. (1996) </text>
+<text top="299" left="231" width="168" height="16" font="7"><i>English perception verbs.</i></text>
+<text top="299" left="398" width="148" height="16" font="5"> UCL PhD disseration.</text>
+<text top="319" left="95" width="116" height="16" font="5">Kyto, M. (1991) </text>
+<text top="319" left="211" width="543" height="16" font="7"><i>Manual to the Diachronic Part of the Helsinki Corpus of English Texts: Coding</i></text>
+<text top="340" left="111" width="255" height="16" font="7"><i>Conventions and Lists of Source Texts.</i></text>
+<text top="340" left="365" width="366" height="16" font="5"> Helsinki: Department of English, University of Helsinki.</text>
+<text top="360" left="95" width="176" height="16" font="5">Langacker, R.W. (1987) </text>
+<text top="360" left="271" width="303" height="16" font="7"><i>Foundations of Cognitive Grammar, vol. 1</i></text>
+<text top="360" left="573" width="181" height="16" font="5">. Palo Alto, CA: Stanford</text>
+<text top="381" left="111" width="110" height="16" font="5">University Press.</text>
+<text top="401" left="95" width="286" height="16" font="5">Langacker, R.W. (1990) “Subjectification.” </text>
+<text top="401" left="381" width="139" height="16" font="7"><i>Cognitive Linguistics</i></text>
+<text top="401" left="520" width="55" height="16" font="5"> 1, 5-28.</text>
+<text top="422" left="95" width="129" height="16" font="5">Ljung, M. (1980) </text>
+<text top="422" left="224" width="268" height="16" font="7"><i>Reflections on the English Progressive</i></text>
+<text top="422" left="491" width="263" height="16" font="5">.  Gothenburg: Gothenburg Studies in</text>
+<text top="442" left="111" width="247" height="16" font="5">English 46, University of Gothenburg.</text>
+<text top="463" left="95" width="114" height="16" font="5">Lyons, J. (1977)  </text>
+<text top="463" left="210" width="67" height="16" font="7"><i>Semantics</i></text>
+<text top="463" left="276" width="130" height="16" font="5">.  Cambridge: CUP.</text>
+<text top="483" left="95" width="659" height="16" font="5">Nevalainen, T. (1995)  “The Process of Adverb Derivation in Late Middle and Early Modern</text>
+<text top="504" left="175" width="169" height="16" font="5">University of Helsinki ms.</text>
+<text top="524" left="95" width="400" height="16" font="5">Oxford English Dictionary, 2nd edition, (1989) Oxford: OUP.</text>
+<text top="545" left="95" width="127" height="16" font="5">Perkins, M. (1983) </text>
+<text top="545" left="222" width="202" height="16" font="7"><i>Modal Expressions in English.</i></text>
+<text top="545" left="424" width="109" height="16" font="5">  London: Pinter.</text>
+<text top="565" left="95" width="131" height="16" font="5">Rogers, A. (1973) </text>
+<text top="565" left="226" width="480" height="16" font="7"><i>Physical Perception Verbs in English: A Study in Lexical Relatedness</i></text>
+<text top="565" left="706" width="48" height="16" font="5">.  PhD</text>
+<text top="586" left="111" width="131" height="16" font="5">dissertation, UCLA.</text>
+<text top="606" left="95" width="150" height="16" font="5">Sweetser, E.V. (1990) </text>
+<text top="606" left="245" width="211" height="16" font="7"><i>From Etymology to Pragmatics.</i></text>
+<text top="606" left="456" width="122" height="16" font="5"> Cambridge: CUP.</text>
+<text top="627" left="95" width="132" height="16" font="5">Taylor, J.R. (1989) </text>
+<text top="627" left="227" width="397" height="16" font="7"><i>Linguistic Categorisation: Prototypes in Linguistic Theory.</i></text>
+<text top="627" left="624" width="130" height="16" font="5"> Oxford: Clarendon</text>
+<text top="647" left="111" width="39" height="16" font="5">Press.</text>
+<text top="668" left="95" width="659" height="16" font="5">Traugott, E.C. (1982) “From Propositional to Textual and Expressive Meanings: Some Semantic-</text>
+<text top="689" left="111" width="561" height="16" font="5">Pragmatic Aspects of Grammaticalization.” in Lehmann, W.P. and Y. Malkiel, eds., </text>
+<text top="689" left="671" width="83" height="16" font="7"><i>Perspectives</i></text>
+<text top="709" left="111" width="163" height="16" font="7"><i>on Historical Linguistics</i></text>
+<text top="709" left="273" width="225" height="16" font="5">. Amsterdam: Benjamins 245-271.</text>
+<text top="730" left="95" width="659" height="16" font="5">Traugott, E.C. (1989) “On the Rise of Epistemic Meanings in English: a Case Study in the Regularity</text>
+<text top="750" left="257" width="67" height="16" font="7"><i>Language</i></text>
+<text top="750" left="323" width="71" height="16" font="5"> 40, 31-30.</text>
+<text top="771" left="95" width="658" height="16" font="5">Wright, S.M. (1995) “Subjectivity and Experiential Syntax.” In Stein, D. and S.M. Wright, eds.</text>
+<text top="791" left="111" width="381" height="16" font="7"><i>Subjectivity and Subjectivisation: Linguistic Perspectives. </i></text>
+<text top="791" left="491" width="118" height="16" font="5">Cambridge: CUP.</text>
+</page>
+</pdf2xml>

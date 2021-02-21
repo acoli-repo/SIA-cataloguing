@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="0" size="34" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="1" size="22" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="2" size="19" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="3" size="19" family="TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="4" size="16" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="5" size="19" family="Arial,Bold" color="#000000"/>
+	<fontspec id="6" size="10" family="TimesNewRoman,BoldItalic" color="#000000"/>
+	<fontspec id="7" size="10" family="TimesNewRoman" color="#000000"/>
+<text top="186" left="107" width="687" height="31" font="0"><i><b>Determiner sharing as an instance of </b></i></text>
+<text top="227" left="107" width="252" height="31" font="0"><i><b>dependent ellipsis</b></i></text>
+<text top="219" left="359" width="11" height="21" font="1"><i>*</i></text>
+<text top="227" left="370" width="9" height="31" font="0"><i><b> </b></i></text>
+<text top="264" left="107" width="5" height="18" font="2"> </text>
+<text top="288" left="107" width="5" height="18" font="2"> </text>
+<text top="310" left="107" width="366" height="18" font="2">PETER ACKEMA &amp; KRISZTA SZENDROI </text>
+<text top="333" left="107" width="5" height="18" font="2"> </text>
+<text top="359" left="107" width="5" height="18" font="2"> </text>
+<text top="381" left="107" width="5" height="18" font="2"> </text>
+<text top="404" left="150" width="75" height="18" font="3"><b>Abstract </b></text>
+<text top="427" left="107" width="5" height="18" font="2"> </text>
+<text top="449" left="150" width="598" height="15" font="4">In English coordinate ellipsis constructions, the determiner of a DP in the second conjunct </text>
+<text top="469" left="150" width="600" height="15" font="4">can sometimes be omitted under identity with the determiner of the corresponding constituent </text>
+<text top="488" left="150" width="597" height="15" font="4">of the first conjunct, a phenomenon known as determiner sharing. Following Williams’s </text>
+<text top="507" left="150" width="595" height="15" font="4">(1997) analysis of nonconstituent ellipsis, we argue that determiner sharing involves a two-</text>
+<text top="527" left="150" width="600" height="15" font="4">step elision process: coordinate ellipsis plus a process we term dependent ellipsis. Dependent </text>
+<text top="546" left="150" width="597" height="15" font="4">ellipsis is the process by which a coordinate null head licenses the heads of its direct </text>
+<text top="567" left="150" width="598" height="15" font="4">dependents to be null as well. We show that, under the hypothesis that dependent ellipsis is </text>
+<text top="586" left="150" width="599" height="15" font="4">not a transitive relation, the properties of determiner sharing constructions follow, adding </text>
+<text top="606" left="150" width="600" height="15" font="4">some new observations to those noted before in the literature. For example,  we explain that </text>
+<text top="625" left="150" width="599" height="15" font="4">subject determiner sharing is usually only possible if Tense is gapped in the second conjunct, </text>
+<text top="645" left="150" width="598" height="15" font="4">while object determiner sharing is dependent on Verb-gapping. However, we also show that </text>
+<text top="665" left="150" width="600" height="15" font="4">in certain cases subject D-sharing may be possible without T-gapping and, vice versa, there </text>
+<text top="684" left="150" width="405" height="15" font="4">are cases where T-gapping does not license subject D-sharing. </text>
+<text top="705" left="107" width="5" height="18" font="2"> </text>
+<text top="728" left="107" width="5" height="18" font="2"> </text>
+<text top="750" left="107" width="10" height="18" font="3"><b>1</b></text>
+<text top="749" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="750" left="123" width="113" height="18" font="3"><b>Introduction </b></text>
+<text top="774" left="107" width="5" height="18" font="2"> </text>
+<text top="796" left="107" width="684" height="18" font="2">McCawley (1993) noted that in coordinations which involve gapping in the second </text>
+<text top="819" left="107" width="685" height="18" font="2">conjunct it is possible to omit the determiner of the subject DP in the second conjunct </text>
+<text top="842" left="107" width="686" height="18" font="2">and ‘share’ this with the determiner of the subject of the first conjunct. Two examples </text>
+<text top="865" left="107" width="262" height="18" font="2">from McCawley are given in (1). </text>
+<text top="892" left="107" width="135" height="18" font="2">                              </text>
+<text top="892" left="270" width="51" height="18" font="2">           </text>
+<text top="928" left="122" width="5" height="10" font="6"><i><b>*</b></i></text>
+<text top="931" left="127" width="238" height="15" font="4">This paper was presented at the 16</text>
+<text top="928" left="363" width="9" height="10" font="7">th</text>
+<text top="931" left="372" width="418" height="15" font="4"> Comparative Germanic Syntax Workshop at McGill University, </text>
+<text top="951" left="107" width="682" height="15" font="4">the Ortega y Gasset Institute in Madrid, and the University College London colloquium series. We would </text>
+<text top="971" left="107" width="683" height="15" font="4">like to thank the audiences at these occasions for useful input, especially Jonathan Bobaljik, Annabel </text>
+<text top="991" left="107" width="682" height="15" font="4">Cormack, Olga Fernandez and Ad Neeleman. Thanks as well to the colleagues who helped by providing </text>
+<text top="1010" left="107" width="684" height="15" font="4">judgements on English data. The research of the first author was supported by the Dutch Organization for </text>
+<text top="1029" left="107" width="684" height="15" font="4">Scientific Research, grant no. 355-70-007. The second author was supported by the British Federation of </text>
+<text top="1049" left="107" width="338" height="15" font="4">Women Graduates and the BFWG Charitable Trust. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="8" size="16" family="TimesNewRoman,Italic" color="#000000"/>
+	<fontspec id="9" size="17" family="TimesNewRoman" color="#000000"/>
+	<fontspec id="10" size="17" family="Tahoma" color="#000000"/>
+	<fontspec id="11" size="10" family="Tahoma" color="#000000"/>
+	<fontspec id="12" size="13" family="TimesNewRoman" color="#000000"/>
+<text top="182" left="107" width="22" height="15" font="4">190</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="5" height="18" font="2"> </text>
+<text top="245" left="107" width="684" height="18" font="2">(1)  a.  Too many Irish setters are named Kelly,  too many German shepherds  are </text>
+<text top="267" left="179" width="440" height="18" font="2">named Fritz, and too many huskies are named Nanook. </text>
+<text top="291" left="107" width="19" height="18" font="2">   </text>
+<text top="291" left="150" width="365" height="18" font="2">b.  The duck is dry and the mussels are tough </text>
+<text top="314" left="107" width="5" height="18" font="2"> </text>
+<text top="336" left="107" width="684" height="18" font="2">These cases are not easily analyzable as gapping of a bigger constituent than just the </text>
+<text top="360" left="107" width="654" height="18" font="2">verbal head(s), a constituent including V and D, but not the NP part of the subject. </text>
+<text top="382" left="127" width="665" height="18" font="2">Johnson (1998, 2000) and Lin (1999) argue that determiner sharing is the result of </text>
+<text top="405" left="107" width="685" height="18" font="2">having coordination taking place on a level below the overt determiner, so that this is </text>
+<text top="428" left="107" width="684" height="18" font="2">really shared in the actual sense of the word. Given that the conjuncts do not share the </text>
+<text top="451" left="107" width="684" height="18" font="2">NP part of their subjects, they must then assume that the subject’s determiner is </text>
+<text top="473" left="107" width="684" height="18" font="2">merged separately from and structurally higher than its NP, as proposed by Sportiche </text>
+<text top="497" left="107" width="684" height="18" font="2">1997. Thus, Lin proposes an analysis like (2) for (1). The coordinated phrases are </text>
+<text top="519" left="107" width="684" height="18" font="2">vPs, the specifier of each hosting the NP parts of their respective subjects. The shared </text>
+<text top="542" left="107" width="359" height="18" font="2">determiner is merged above the coordination. </text>
+<text top="566" left="107" width="5" height="18" font="2"> </text>
+<text top="588" left="107" width="22" height="18" font="2">(2)</text>
+<text top="590" left="129" width="137" height="16" font="9">                   TP </text>
+<text top="605" left="261" width="6" height="21" font="10"> </text>
+<text top="632" left="107" width="187" height="16" font="9">                  T       DP </text>
+<text top="648" left="313" width="6" height="21" font="10"> </text>
+<text top="675" left="158" width="172" height="16" font="9">              D      andP </text>
+<text top="691" left="363" width="6" height="21" font="10"> </text>
+<text top="717" left="107" width="189" height="16" font="9">                          vP   </text>
+<text top="739" left="322" width="37" height="16" font="9">and   </text>
+<text top="739" left="375" width="23" height="16" font="9">vP </text>
+<text top="761" left="107" width="146" height="16" font="9">                    NP</text>
+<text top="767" left="253" width="5" height="10" font="7">1</text>
+<text top="761" left="258" width="46" height="16" font="9">      v </text>
+<text top="764" left="313" width="3" height="13" font="11"> </text>
+<text top="783" left="230" width="66" height="16" font="9">           </text>
+<text top="783" left="313" width="51" height="16" font="9">      NP</text>
+<text top="789" left="363" width="5" height="10" font="7">2</text>
+<text top="783" left="369" width="10" height="16" font="9">  </text>
+<text top="783" left="395" width="23" height="16" font="9">  v </text>
+<text top="804" left="107" width="5" height="18" font="2"> </text>
+<text top="827" left="107" width="685" height="18" font="2">Following Johnson (1998), Lin assumes there can be asymmetric A-movement. This </text>
+<text top="850" left="107" width="84" height="18" font="2">means NP</text>
+<text top="857" left="191" width="7" height="12" font="12">1</text>
+<text top="850" left="198" width="593" height="18" font="2"> can move into the D-domain above the coordinated vPs to check some </text>
+<text top="873" left="107" width="205" height="18" font="2">feature of D, whereas NP</text>
+<text top="881" left="314" width="7" height="12" font="12">2</text>
+<text top="873" left="321" width="471" height="18" font="2"> in the second vP conjunct remains in situ. This movement </text>
+<text top="895" left="107" width="684" height="18" font="2">seems to violate a number of conditions on movement in general, which Lin </text>
+<text top="919" left="107" width="686" height="18" font="2">consequently argues should be revised. For example, since a (determiner-initial) DP </text>
+<text top="941" left="107" width="263" height="18" font="2">must be formed, the phrase NP</text>
+<text top="949" left="370" width="7" height="12" font="12">1</text>
+<text top="941" left="377" width="414" height="18" font="2"> must merge with D, and not raise to spec-DP to </text>
+<text top="964" left="107" width="685" height="18" font="2">check the relevant feature. Thus, Lin notes, we have an instance of ‘head movement’ </text>
+<text top="987" left="107" width="236" height="18" font="2">of a phrase. Also, moving NP</text>
+<text top="995" left="345" width="7" height="12" font="12">1</text>
+<text top="987" left="352" width="190" height="18" font="2"> in (2) while leaving NP</text>
+<text top="995" left="542" width="7" height="12" font="12">2</text>
+<text top="987" left="549" width="242" height="18" font="2"> in situ violates the Coordinate </text>
+<text top="1010" left="107" width="684" height="18" font="2">Structure Constraint. We will not discuss the pros and cons of the solutions to these </text>
+<text top="1032" left="107" width="684" height="18" font="2">technical problems that Lin offers here, but instead explore the possibilities of an </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">191</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">alternative approach to the matter (an approach that, we may note, does not face these </text>
+<text top="245" left="107" width="551" height="18" font="2">problems). A general reason to try out this alternative is the following.  </text>
+<text top="267" left="127" width="664" height="18" font="2">The central idea of the Johnson/Lin analysis is that determiner sharing is not a </text>
+<text top="291" left="107" width="684" height="18" font="2">special instance of gapping, but just involves coordination below the position of the </text>
+<text top="314" left="107" width="685" height="18" font="2">shared determiner. This means that in cases where only T is apparently ‘gapped’ but </text>
+<text top="336" left="107" width="685" height="18" font="2">not V, there is no elided head in the structure at all (see (2)). However, all cases of </text>
+<text top="360" left="107" width="684" height="18" font="2">determiner sharing show the hallmark of coordinate ellipsis: the overt remnants in the </text>
+<text top="382" left="107" width="684" height="18" font="2">second conjunct must necessarily contrast with the corresponding constituents in the </text>
+<text top="405" left="107" width="684" height="18" font="2">first conjunct, see (3a) versus (3b). This is a well-known property of structures </text>
+<text top="428" left="107" width="685" height="18" font="2">involving ellipsis. If there is no ellipsis, there is no such requirement on coordinations, </text>
+<text top="451" left="107" width="684" height="18" font="2">as illustrated by (3c). Hence, the requirement that the dependents in the second </text>
+<text top="473" left="107" width="685" height="18" font="2">conjunct in all cases of determiner sharing be ‘disanaphoric’, in Williams (1997) </text>
+<text top="497" left="107" width="684" height="18" font="2">terminology,  to the corresponding dependents in the first conjunct appears to be an </text>
+<text top="519" left="107" width="538" height="18" font="2">unexpected feature of the construction in the Johnson/Lin approach. </text>
+<text top="542" left="107" width="5" height="18" font="2"> </text>
+<text top="566" left="107" width="469" height="18" font="2">(3)  a.  While any trumpet was blowing or drum beating... </text>
+<text top="588" left="107" width="19" height="18" font="2">   </text>
+<text top="588" left="150" width="470" height="18" font="2">b.  *While any trumpet was blowing or trumpet sounding... </text>
+<text top="611" left="107" width="19" height="18" font="2">   </text>
+<text top="611" left="150" width="530" height="18" font="2">c.  While any trumpet was blowing or any trumpet was sounding... </text>
+<text top="634" left="107" width="5" height="18" font="2"> </text>
+<text top="657" left="107" width="684" height="18" font="2">In this  paper we will argue for an analysis of determiner sharing that does involve </text>
+<text top="679" left="107" width="684" height="18" font="2">coordinate ellipsis (gapping) after all and yet captures the correct empirical </text>
+<text top="703" left="107" width="684" height="18" font="2">generalizations concerning when determiner sharing is possible and when it is </text>
+<text top="725" left="107" width="684" height="18" font="2">impossible. The core assumption is that determiner sharing does not involve a single </text>
+<text top="748" left="107" width="684" height="18" font="2">instance of ellipsis of one constituent, but a combination of ordinary coordinate ellipsis </text>
+<text top="771" left="107" width="684" height="18" font="2">plus a second process which we will term ‘dependent ellipsis’, a term meant to </text>
+<text top="794" left="107" width="685" height="18" font="2">indicate both that the process is parasitic on coordinate ellipsis and targets dependents </text>
+<text top="818" left="107" width="684" height="18" font="2">of the elided head. We adopt both the analysis of coordinate ellipsis, and the </text>
+<text top="840" left="107" width="685" height="18" font="2">assumption that it allows a further distinct process of elision, from Williams (1997), </text>
+<text top="863" left="107" width="684" height="18" font="2">although we will argue that the properties of determiner sharing only follow from this </text>
+<text top="886" left="107" width="627" height="18" font="2">theory if certain restrictions are placed on the applicability of dependent ellipsis. </text>
+<text top="909" left="127" width="665" height="18" font="2">The paper is structured as follows. In section 2 we will briefly sketch Williams’s </text>
+<text top="931" left="107" width="685" height="18" font="2">theory of coordinate ellipsis. In section 3 we argue that the possibility of determiner </text>
+<text top="955" left="107" width="684" height="18" font="2">sharing, and properties of constructions involving it, follow from a straightforward </text>
+<text top="977" left="107" width="685" height="18" font="2">extension of Williams’s analysis of coordinate ellipsis plus dependent ellipsis. In that </text>
+<text top="1000" left="107" width="684" height="18" font="2">section we will restrict ourselves to cases of subject determiner sharing. In section 4 </text>
+<text top="1023" left="107" width="684" height="18" font="2">the analysis is extended to object determiner sharing. In section 5 we will point out a </text>
+<text top="1046" left="107" width="684" height="18" font="2">number empirical advantages of our analysis, showing that it occurs in circumstances </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="894">
+	<fontspec id="13" size="19" family="TimesNewRoman,Italic" color="#000000"/>
+<text top="182" left="107" width="22" height="15" font="4">192</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="685" height="18" font="2">in which the  constituent containing the null determiner is the dependent of another </text>
+<text top="245" left="107" width="511" height="18" font="2">coordinate null head than V or T. Section 6 concludes the paper. </text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="10" height="18" font="3"><b>2</b></text>
+<text top="290" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="291" left="123" width="163" height="18" font="3"><b>Coordinate ellipsis </b></text>
+<text top="314" left="107" width="5" height="18" font="2"> </text>
+<text top="336" left="107" width="684" height="18" font="2">Williams (1997) proposes the following analysis of coordinate ellipsis. Williams </text>
+<text top="360" left="107" width="684" height="18" font="2">assumes that a coordination results from the projection of a bivalent lexical item, a </text>
+<text top="382" left="107" width="684" height="18" font="2">double head as it were, as in (4). Note that coordination of heads at various levels </text>
+<text top="405" left="107" width="685" height="18" font="2">within an extended projection is possible, so there are bivalent [C, C], [I, I] and [V, V] </text>
+<text top="428" left="107" width="352" height="18" font="2">(etc.) heads that can project a phrase (4a-c). </text>
+<text top="451" left="107" width="5" height="18" font="2"> </text>
+<text top="473" left="107" width="243" height="18" font="2">(4)  a.  [C,C]P = CP and CP  </text>
+<text top="497" left="179" width="612" height="18" font="13"><i>That the Earth revolves around the Sun and that the Moon revolves around </i></text>
+<text top="519" left="179" width="74" height="18" font="13"><i>the Earth</i></text>
+<text top="519" left="253" width="205" height="18" font="2"> are well-established facts </text>
+<text top="542" left="149" width="181" height="18" font="2">b.  [I, I]P = IP and IP </text>
+<text top="566" left="179" width="91" height="18" font="2">I think that </text>
+<text top="566" left="270" width="358" height="18" font="13"><i>John will eat meat and Mary will drink wine</i></text>
+<text top="566" left="628" width="5" height="18" font="2"> </text>
+<text top="588" left="107" width="19" height="18" font="2">   </text>
+<text top="588" left="150" width="200" height="18" font="2">c.  [V,V]P = VP and VP  </text>
+<text top="611" left="107" width="19" height="18" font="2">   </text>
+<text top="611" left="150" width="5" height="18" font="2"> </text>
+<text top="611" left="178" width="81" height="18" font="2">It is ok to </text>
+<text top="611" left="258" width="181" height="18" font="13"><i>like fish and hate meat</i></text>
+<text top="611" left="440" width="5" height="18" font="2"> </text>
+<text top="634" left="107" width="5" height="18" font="2"> </text>
+<text top="657" left="107" width="684" height="18" font="2">Gapping then involves just such another instance of projection of a bivalent lexical </text>
+<text top="679" left="107" width="684" height="18" font="2">item,  so it is another instance of coordination. The only difference is that the second </text>
+<text top="703" left="107" width="684" height="18" font="2">head of the doubly headed phrase is null in the radical sense that it is not just a </text>
+<text top="725" left="107" width="684" height="18" font="2">syntactic item that does not get spelled out phonologically, but contains no syntactic </text>
+<text top="748" left="107" width="685" height="18" font="2">features either. In other words, Williams assumes the second conjunct in cases of </text>
+<text top="771" left="107" width="684" height="18" font="2">gapping consists of a 0P. The null head is anaphoric to the first head. Some examples </text>
+<text top="794" left="107" width="128" height="18" font="2">are given in (5). </text>
+<text top="818" left="107" width="5" height="18" font="2"> </text>
+<text top="840" left="107" width="236" height="18" font="2">(5)  a.  [C,0]P = CP and 0P  </text>
+<text top="863" left="179" width="612" height="18" font="13"><i>That the Earth revolves around the Sun and 0 the Moon revolves around the </i></text>
+<text top="886" left="179" width="45" height="18" font="13"><i>Earth</i></text>
+<text top="886" left="223" width="206" height="18" font="2"> are well-established facts </text>
+<text top="909" left="149" width="187" height="18" font="2">b.  [I, 0]P = IP and 0P </text>
+<text top="931" left="179" width="91" height="18" font="2">I think that </text>
+<text top="931" left="270" width="337" height="18" font="13"><i>John will eat meat and Mary 0 drink wine</i></text>
+<text top="931" left="606" width="5" height="18" font="2"> </text>
+<text top="955" left="107" width="19" height="18" font="2">   </text>
+<text top="955" left="150" width="194" height="18" font="2">c.  [V,0]P = VP and 0P  </text>
+<text top="977" left="107" width="19" height="18" font="2">   </text>
+<text top="977" left="150" width="5" height="18" font="2"> </text>
+<text top="977" left="178" width="81" height="18" font="2">It is ok to </text>
+<text top="977" left="258" width="372" height="18" font="13"><i>eat fish on Fridays and 0 meat on Wednesdays</i></text>
+<text top="977" left="630" width="5" height="18" font="2"> </text>
+<text top="1000" left="107" width="5" height="18" font="2"> </text>
+<text top="1023" left="107" width="684" height="18" font="2">Williams further argues that the null head that occurs in cases of coordinate ellipsis </text>
+<text top="1046" left="107" width="684" height="18" font="2">itself licenses further ellipsis. For instance, the whole complement of the null head can </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">193</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">be null, as illustrated in (6b). As is well known from the literature on gapping, this is </text>
+<text top="245" left="107" width="578" height="18" font="2">indeed only possible if the head itself is also null, cf. Neijt 1979; see (6c). </text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="543" height="18" font="2">(6)  a.  John gave Mary a book today and 0 Sue a record yesterday </text>
+<text top="314" left="107" width="19" height="18" font="2">   </text>
+<text top="314" left="150" width="482" height="18" font="2">b.  John gave Mary a book today and 0 0 a record yesterday </text>
+<text top="336" left="107" width="19" height="18" font="2">   </text>
+<text top="336" left="150" width="534" height="18" font="2">c.  *John gave Mary a book today and bought 0 a record yesterday </text>
+<text top="360" left="107" width="684" height="18" font="2">Note that the type of ellipsis in (6b) involves a two step process. First, there is </text>
+<text top="382" left="107" width="684" height="18" font="2">coordinate ellipsis which  means the structure is the projection of a double head, the </text>
+<text top="405" left="107" width="684" height="18" font="2">second one of which is 0 (so the second conjunct consists of a 0P, just as in (6a)). In </text>
+<text top="428" left="107" width="685" height="18" font="2">addition there is further ellipsis, parasitic on the coordinate ellipsis, in (6b). Crucially, </text>
+<text top="451" left="107" width="685" height="18" font="2">there is not one process of gapping that just gaps smaller (6a) or bigger (6b) units. </text>
+<text top="473" left="107" width="684" height="18" font="2">Since further ellipsis is dependent on coordinate ellipsis of the head, and also involves </text>
+<text top="497" left="107" width="684" height="18" font="2">ellipsis of or into dependents of that head, we will refer to this type of further ellipsis </text>
+<text top="519" left="107" width="444" height="18" font="2">as dependent ellipsis henceforth, in this double meaning.  </text>
+<text top="542" left="127" width="665" height="18" font="2">Dependent ellipsis is not optional: whether it takes place or not has repercussions </text>
+<text top="566" left="107" width="684" height="18" font="2">for the interpretation of the structure. An elided complement of the 0 head has to be </text>
+<text top="588" left="107" width="684" height="18" font="2">anaphoric to the corresponding complement of the overt head in the first conjunct. So </text>
+<text top="611" left="107" width="684" height="18" font="2">(6b) cannot mean that John gave Sue a record yesterday, for instance. Crucially, if the </text>
+<text top="634" left="107" width="235" height="18" font="2">complement to a null head is </text>
+<text top="634" left="343" width="24" height="18" font="13"><i>not</i></text>
+<text top="634" left="368" width="150" height="18" font="2"> elided, it must be </text>
+<text top="634" left="519" width="25" height="18" font="13"><i>dis</i></text>
+<text top="634" left="542" width="248" height="18" font="2">anaphoric to the corresponding </text>
+<text top="657" left="107" width="531" height="18" font="2">complement in the first conjunct. Thus, the following is impossible: </text>
+<text top="679" left="107" width="5" height="18" font="2"> </text>
+<text top="703" left="107" width="538" height="18" font="2">(7)  *John gave Mary a book today and 0 Mary a record yesterday </text>
+<text top="725" left="107" width="5" height="18" font="2"> </text>
+<text top="748" left="107" width="684" height="18" font="2">As already noted, this pattern only arises under coordinate ellipsis, so if the head of the </text>
+<text top="771" left="107" width="684" height="18" font="2">second conjunct is null. There is no disanaphora requirement on overt complements in </text>
+<text top="794" left="107" width="684" height="18" font="2">the second conjunct in cases of coordination that do not involve elision of the second </text>
+<text top="818" left="107" width="46" height="18" font="2">head: </text>
+<text top="840" left="107" width="5" height="18" font="2"> </text>
+<text top="863" left="107" width="555" height="18" font="2">(8)   John gave Mary a book today and gave Mary a record yesterday </text>
+<text top="886" left="107" width="5" height="18" font="2"> </text>
+<text top="909" left="107" width="685" height="18" font="2">Coordinate ellipsis does not only license dependent ellipsis of a  complete complement </text>
+<text top="931" left="107" width="685" height="18" font="2">of the 0 head, but also of just the head of this complement. Apparently, what </text>
+<text top="955" left="107" width="684" height="18" font="2">dependent ellipsis involves is that the 0 head in a coordinate ellipsis structure allows </text>
+<text top="977" left="107" width="685" height="18" font="2">the head of a dependent phrase to be 0 as well; this dependent thus can be a 0P itself, </text>
+<text top="1000" left="107" width="685" height="18" font="2">which may contain overt material besides the 0 head. This accounts for cases of </text>
+<text top="1023" left="107" width="471" height="18" font="2">apparent nonconstituent gapping like (9) (Williams’s (141)). </text>
+<text top="1046" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">194</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="399" height="18" font="2">(9)  John saw pictures of Mary on Tuesday and 0</text>
+<text top="229" left="505" width="9" height="12" font="12">V</text>
+<text top="222" left="514" width="22" height="18" font="2"> [0</text>
+<text top="229" left="536" width="9" height="12" font="12">N</text>
+<text top="222" left="546" width="190" height="18" font="2"> of Sue] on Wednesday </text>
+<text top="245" left="107" width="5" height="18" font="2"> </text>
+<text top="267" left="107" width="684" height="18" font="2">Of course, in such cases the null head of the complement 0P must be anaphoric again </text>
+<text top="291" left="107" width="601" height="18" font="2">to the head of the corresponding complement in the first conjunct (so 0</text>
+<text top="299" left="704" width="9" height="12" font="12">N</text>
+<text top="291" left="713" width="79" height="18" font="2"> in (9) is </text>
+<text top="314" left="107" width="684" height="18" font="2">interpreted as ‘pictures’). Note that the reverse is not true in this case: if there is no </text>
+<text top="336" left="107" width="485" height="18" font="2">dependent ellipsis, an overt N head in the complement to 0</text>
+<text top="344" left="590" width="9" height="12" font="12">V</text>
+<text top="336" left="599" width="194" height="18" font="2"> in the second conjunct </text>
+<text top="360" left="107" width="603" height="18" font="2">need not be disanaphoric to the corresponding N head in the first conjunct: </text>
+<text top="360" left="711" width="80" height="18" font="13"><i>John saw </i></text>
+<text top="382" left="107" width="531" height="18" font="13"><i>pictures of Mary on Tuesday and pictures of Sue on Wednesday</i></text>
+<text top="382" left="638" width="153" height="18" font="2"> is fine. This is so </text>
+<text top="405" left="107" width="566" height="18" font="2">because the disanaphora requirement on the nonelided complement to 0</text>
+<text top="413" left="673" width="9" height="12" font="12">V</text>
+<text top="405" left="681" width="112" height="18" font="2"> as a whole is </text>
+<text top="428" left="107" width="107" height="18" font="2">still satisfied: </text>
+<text top="428" left="218" width="122" height="18" font="13"><i>pictures of Sue</i></text>
+<text top="428" left="341" width="154" height="18" font="2"> is disanaphoric to </text>
+<text top="428" left="497" width="137" height="18" font="13"><i>pictures of Mary</i></text>
+<text top="428" left="635" width="156" height="18" font="2">. (The disanaphora </text>
+<text top="451" left="107" width="685" height="18" font="2">requirement on overt remnants holds for the complete overt dependent of V, not for </text>
+<text top="473" left="107" width="351" height="18" font="2">its individual parts, like its head, separately). </text>
+<text top="497" left="127" width="664" height="18" font="2">According to Williams, dependent ellipsis is a transitive process, which means a 0 </text>
+<text top="519" left="107" width="684" height="18" font="2">head whose null status is licensed by the 0 head of a coordinate ellipsis can itself act as </text>
+<text top="542" left="107" width="684" height="18" font="2">licenser of elision of the head of its own complement. Although below we will argue </text>
+<text top="566" left="107" width="684" height="18" font="2">that dependent ellipsis is in fact nontransitive, there does appear to be prima facie </text>
+<text top="588" left="107" width="684" height="18" font="2">evidence that there is no limit to recursive elision (these data will be reanalyzed below </text>
+<text top="611" left="107" width="83" height="18" font="2">however): </text>
+<text top="634" left="107" width="5" height="18" font="2"> </text>
+<text top="657" left="107" width="581" height="18" font="2">(10)  a.  John wants to decapitate Fred and Bill wants to hamstring Pierre </text>
+<text top="679" left="107" width="19" height="18" font="2">   </text>
+<text top="679" left="150" width="502" height="18" font="2">b.  John wants to decapitate Fred and Bill 0 to hamstring Pierre </text>
+<text top="703" left="107" width="19" height="18" font="2">   </text>
+<text top="703" left="150" width="496" height="18" font="2">c.  John wants to decapitate Fred and Bill 0 0 hamstring Pierre </text>
+<text top="725" left="107" width="19" height="18" font="2">   </text>
+<text top="725" left="150" width="430" height="18" font="2">d.   John wants to decapitate Fred and Bill 0 0 0 Pierre </text>
+<text top="748" left="107" width="5" height="18" font="2"> </text>
+<text top="771" left="107" width="684" height="18" font="2">Elision certainly cannot skip heads,  however. Only empty heads seem to license </text>
+<text top="794" left="107" width="117" height="18" font="2">further elision: </text>
+<text top="818" left="107" width="5" height="18" font="2"> </text>
+<text top="840" left="107" width="524" height="18" font="2">(11)  a.  *John wants to decapitate Fred and Bill wants to 0 Pierre </text>
+<text top="863" left="107" width="19" height="18" font="2">   </text>
+<text top="863" left="150" width="542" height="18" font="2">b.  *John wants to decapitate Fred and Bill wants 0 hamstring Pierre </text>
+<text top="886" left="107" width="5" height="18" font="2"> </text>
+<text top="909" left="107" width="684" height="18" font="2">Note again that, although the null head of a complement must be anaphoric to the </text>
+<text top="931" left="107" width="684" height="18" font="2">corresponding head in the first conjunct, the whole complement itself still satisfies the </text>
+<text top="955" left="107" width="684" height="18" font="2">disanaphora requirement when it contains other, overt, material, as required in cases </text>
+<text top="977" left="107" width="394" height="18" font="2">of overt remnants in coordinate ellipsis (all of </text>
+<text top="977" left="504" width="167" height="18" font="13"><i>to hamstring Pierre</i></text>
+<text top="977" left="672" width="30" height="18" font="2">, 0 </text>
+<text top="977" left="707" width="84" height="18" font="13"><i>hamstring </i></text>
+<text top="1000" left="107" width="51" height="18" font="13"><i>Pierre</i></text>
+<text top="1000" left="158" width="72" height="18" font="2"> and 0 0 </text>
+<text top="1000" left="232" width="51" height="18" font="13"><i>Pierre</i></text>
+<text top="1000" left="284" width="161" height="18" font="2"> are disanaphoric to </text>
+<text top="1000" left="447" width="149" height="18" font="13"><i>to decapitate Fred</i></text>
+<text top="1000" left="596" width="195" height="18" font="2">). So with respect to the </text>
+<text top="1023" left="107" width="593" height="18" font="2">disanaphora requirement, dependent ellipsis of heads is of no consequence. </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">195</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="127" width="665" height="18" font="2">We will argue that cases of determiner sharing involve just another instance of </text>
+<text top="245" left="107" width="685" height="18" font="2">coordinate ellipsis plus dependent ellipsis. We will start by showing how subject </text>
+<text top="267" left="107" width="460" height="18" font="2">determiner sharing fits into this theory, in the next section. </text>
+<text top="291" left="107" width="5" height="18" font="2"> </text>
+<text top="314" left="107" width="5" height="18" font="2"> </text>
+<text top="336" left="107" width="10" height="18" font="3"><b>3</b></text>
+<text top="335" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="336" left="123" width="233" height="18" font="3"><b>Subject determiner sharing </b></text>
+<text top="360" left="107" width="5" height="18" font="2"> </text>
+<text top="382" left="107" width="684" height="18" font="2">In the previous section we discussed cases in which dependent ellipsis involved the </text>
+<text top="405" left="107" width="684" height="18" font="2">complement, or its head, of the null head. It seems reasonable to assume that the </text>
+<text top="428" left="107" width="684" height="18" font="2">coordinate 0 head licenses heads of its other dependents, like its specifier, to be 0 as </text>
+<text top="451" left="107" width="684" height="18" font="2">well (see also Williams 1997:624). Note that the disanaphora requirement also holds in </text>
+<text top="473" left="107" width="274" height="18" font="2">exactly the same way for all the </text>
+<text top="473" left="384" width="29" height="18" font="13"><i>non</i></text>
+<text top="473" left="413" width="379" height="18" font="2">-null dependents of the null head, not just its </text>
+<text top="497" left="107" width="105" height="18" font="2">complement: </text>
+<text top="497" left="215" width="567" height="18" font="13"><i>John wants to decapitate Bill and Harry/*John 0 to hamstring Pierre</i></text>
+<text top="497" left="781" width="11" height="18" font="2">. </text>
+<text top="519" left="107" width="538" height="18" font="2">Therefore, let us assume the following process of dependent ellipsis: </text>
+<text top="542" left="107" width="5" height="18" font="2"> </text>
+<text top="566" left="107" width="37" height="18" font="2">(12) </text>
+<text top="566" left="150" width="149" height="18" font="13"><i>Dependent ellipsis</i></text>
+<text top="566" left="297" width="5" height="18" font="2"> </text>
+<text top="588" left="107" width="19" height="18" font="2">   </text>
+<text top="588" left="150" width="600" height="18" font="2">The 0 head in coordinate ellipsis licenses the heads of its dependents to be 0 </text>
+<text top="611" left="107" width="5" height="18" font="2"> </text>
+<text top="634" left="107" width="684" height="18" font="2">Thus, dependent ellipsis primarily targets the head of the dependent, turning this </text>
+<text top="657" left="107" width="684" height="18" font="2">phrase into a 0P (cf. section 1). In case the dependent is anaphoric to the </text>
+<text top="679" left="107" width="684" height="18" font="2">corresponding dependent in the first conjunct, the rest of its material will be included </text>
+<text top="703" left="107" width="684" height="18" font="2">in the ellipsis process; if overt material remains in the dependent 0P, it must be </text>
+<text top="725" left="107" width="518" height="18" font="2">disanaphoric to the corresponding dependent in the first conjunct. </text>
+<text top="748" left="127" width="665" height="18" font="2">Given the by now standard assumption that the head of a nominal constituent is its </text>
+<text top="771" left="107" width="683" height="18" font="2">determiner (the DP hypothesis, see Abney 1987 and many others), determiner sharing </text>
+<text top="794" left="107" width="684" height="18" font="2">can be regarded as just another instance of (12): a coordinate 0 head licenses the head </text>
+<text top="818" left="107" width="685" height="18" font="2">of a nominal dependent phrase, to wit the D, to be 0 itself. In that case, this head must </text>
+<text top="840" left="107" width="684" height="18" font="2">be anaphoric to the corresponding D head in the first conjunct, with the effect of D </text>
+<text top="863" left="107" width="684" height="18" font="2">‘sharing’. We will argue that the properties of this construction indeed follow from this </text>
+<text top="886" left="107" width="98" height="18" font="2">assumption. </text>
+<text top="909" left="127" width="665" height="18" font="2">For a start, an analysis of determiner sharing in terms of dependent ellipsis accounts </text>
+<text top="931" left="107" width="685" height="18" font="2">for why the phenomenon is only possible in cases of coordination, since dependent </text>
+<text top="955" left="107" width="685" height="18" font="2">ellipsis is dependent on the presence of the syntactically null head that is the result of </text>
+<text top="977" left="107" width="685" height="18" font="2">coordinate ellipsis (see (12)). For example, there are no instances of determiner </text>
+<text top="1000" left="107" width="685" height="18" font="2">sharing between the two objects in a double object construction, or between a subject </text>
+<text top="1023" left="107" width="119" height="18" font="2">and an object:  </text>
+<text top="1046" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">196</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="498" height="18" font="2">(13)  a.  *Henry VIII gave too many wives too many presents. </text>
+<text top="245" left="107" width="19" height="18" font="2">   </text>
+<text top="245" left="150" width="281" height="18" font="2">b.  *Your daughter hates your son. </text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="684" height="18" font="2">Moreover, coordination as such is not enough to license determiner sharing. As </text>
+<text top="314" left="107" width="587" height="18" font="2">observed by McCawley (1993), gapping is crucial. Compare (14) with (1). </text>
+<text top="336" left="107" width="19" height="18" font="2">   </text>
+<text top="360" left="107" width="684" height="18" font="2">(14)  a.  *Too many Irish setters are named Kelly,  too many German shepherds are </text>
+<text top="382" left="179" width="440" height="18" font="2">named Fritz, and too many huskies are named Nanook. </text>
+<text top="405" left="107" width="19" height="18" font="2">   </text>
+<text top="405" left="150" width="375" height="18" font="2">b.  *The duck is dry and the mussels are tough </text>
+<text top="428" left="107" width="5" height="18" font="2"> </text>
+<text top="451" left="107" width="685" height="18" font="2">In fact, we must be more precise. As observed by Siegel (1987) and Lin (2000), what </text>
+<text top="473" left="107" width="684" height="18" font="2">is really necessary in cases of subject determiner sharing is that there is T -gapping. In </text>
+<text top="497" left="107" width="684" height="18" font="2">addition to that V-gapping is optionally possible, but not necessary. This is illustrated </text>
+<text top="519" left="107" width="195" height="18" font="2">in (15) (from Lin 2000). </text>
+<text top="542" left="107" width="5" height="18" font="2"> </text>
+<text top="566" left="107" width="524" height="18" font="2">(15)  a.  The girls will drink whiskey and the boys will drink wine. </text>
+<text top="588" left="107" width="19" height="18" font="2">   </text>
+<text top="588" left="150" width="443" height="18" font="2">b.  The girls will drink whiskey and the boys drink wine </text>
+<text top="588" left="630" width="5" height="18" font="2"> </text>
+<text top="588" left="682" width="17" height="18" font="2">(0</text>
+<text top="596" left="699" width="8" height="12" font="12">T</text>
+<text top="588" left="708" width="10" height="18" font="2">) </text>
+<text top="611" left="107" width="19" height="18" font="2">   </text>
+<text top="611" left="150" width="397" height="18" font="2">c.  The girls will drink whiskey and the boys wine </text>
+<text top="611" left="588" width="5" height="18" font="2"> </text>
+<text top="611" left="630" width="17" height="18" font="2">(0</text>
+<text top="618" left="646" width="8" height="12" font="12">T</text>
+<text top="611" left="655" width="49" height="18" font="2"> and 0</text>
+<text top="618" left="704" width="9" height="12" font="12">V</text>
+<text top="611" left="712" width="11" height="18" font="2">) </text>
+<text top="634" left="107" width="19" height="18" font="2">   </text>
+<text top="634" left="150" width="443" height="18" font="2">d.  *The girls will drink whiskey and the boys will wine  </text>
+<text top="634" left="630" width="17" height="18" font="2">(0</text>
+<text top="642" left="646" width="9" height="12" font="12">V</text>
+<text top="634" left="655" width="11" height="18" font="2">) </text>
+<text top="657" left="107" width="5" height="18" font="2"> </text>
+<text top="679" left="107" width="685" height="18" font="2">This is what is expected given (12). The subject is a dependent of T, rather than V (at </text>
+<text top="703" left="107" width="684" height="18" font="2">least at surface structure, which is what is at stake for (12)). Hence, only coordinate </text>
+<text top="725" left="107" width="685" height="18" font="2">ellipsis in a coordination of two TPs results in a null head in the second conjunct of </text>
+<text top="748" left="107" width="398" height="18" font="2">which the subject in that conjunct is a dependent.</text>
+<text top="747" left="504" width="2" height="10" font="7"> </text>
+<text top="748" left="509" width="282" height="18" font="2">See (16), which gives the structure </text>
+<text top="771" left="107" width="70" height="18" font="2">of (15b).</text>
+<text top="770" left="177" width="5" height="10" font="7">1</text>
+<text top="771" left="182" width="5" height="18" font="2"> </text>
+<text top="794" left="107" width="5" height="18" font="2"> </text>
+<text top="969" left="107" width="135" height="18" font="2">                              </text>
+<text top="969" left="270" width="51" height="18" font="2">           </text>
+<text top="1004" left="122" width="5" height="10" font="7">1</text>
+<text top="1008" left="127" width="664" height="15" font="4"> We assume an asymmetric structure for coordinations (see Johannessen 1998 among others). Since </text>
+<text top="1028" left="107" width="683" height="15" font="4">the coordinator does not have lexical categorial features, this is compatible with the assumption that the </text>
+<text top="1047" left="107" width="490" height="15" font="4">coordination is the projection of a bivalent head. The phrase headed by </text>
+<text top="1047" left="601" width="25" height="15" font="8"><i>and</i></text>
+<text top="1047" left="627" width="163" height="15" font="4"> can be regarded as an </text>
+<text top="1066" left="107" width="362" height="15" font="4">extended projection of the head of the second conjunct.  </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">197</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="33" height="18" font="2">(16)</text>
+<text top="224" left="140" width="14" height="16" font="9">   </text>
+<text top="224" left="169" width="5" height="16" font="9"> </text>
+<text top="224" left="189" width="5" height="16" font="9"> </text>
+<text top="224" left="210" width="24" height="16" font="9">   </text>
+<text top="224" left="251" width="5" height="16" font="9"> </text>
+<text top="224" left="271" width="5" height="16" font="9"> </text>
+<text top="224" left="291" width="5" height="16" font="9"> </text>
+<text top="224" left="313" width="5" height="16" font="9"> </text>
+<text top="224" left="333" width="5" height="16" font="9"> </text>
+<text top="224" left="354" width="5" height="16" font="9"> </text>
+<text top="224" left="375" width="5" height="16" font="9"> </text>
+<text top="224" left="395" width="5" height="16" font="9"> </text>
+<text top="224" left="416" width="48" height="16" font="9">[T,0]P </text>
+<text top="245" left="415" width="5" height="16" font="9"> </text>
+<text top="267" left="209" width="5" height="16" font="9"> </text>
+<text top="267" left="230" width="5" height="16" font="9"> </text>
+<text top="267" left="251" width="5" height="16" font="9"> </text>
+<text top="267" left="271" width="5" height="16" font="9"> </text>
+<text top="267" left="291" width="5" height="16" font="9"> </text>
+<text top="267" left="313" width="24" height="16" font="9">TP </text>
+<text top="267" left="354" width="5" height="16" font="9"> </text>
+<text top="267" left="375" width="5" height="16" font="9"> </text>
+<text top="267" left="395" width="5" height="16" font="9"> </text>
+<text top="267" left="416" width="45" height="16" font="9">  &amp;   </text>
+<text top="267" left="477" width="5" height="16" font="9"> </text>
+<text top="267" left="498" width="5" height="16" font="9"> </text>
+<text top="267" left="519" width="5" height="16" font="9"> </text>
+<text top="267" left="539" width="5" height="16" font="9"> </text>
+<text top="267" left="560" width="23" height="16" font="9">0P </text>
+<text top="289" left="261" width="5" height="16" font="9"> </text>
+<text top="311" left="209" width="5" height="16" font="9"> </text>
+<text top="311" left="230" width="5" height="16" font="9"> </text>
+<text top="311" left="251" width="45" height="16" font="9">  DP   </text>
+<text top="311" left="313" width="5" height="16" font="9"> </text>
+<text top="311" left="333" width="5" height="16" font="9"> </text>
+<text top="311" left="354" width="25" height="16" font="9">T’  </text>
+<text top="311" left="395" width="5" height="16" font="9"> </text>
+<text top="311" left="416" width="24" height="16" font="9">   </text>
+<text top="311" left="457" width="5" height="16" font="9"> </text>
+<text top="311" left="477" width="5" height="16" font="9"> </text>
+<text top="311" left="498" width="45" height="16" font="9">DP   </text>
+<text top="311" left="560" width="5" height="16" font="9"> </text>
+<text top="311" left="581" width="28" height="16" font="9">  0’ </text>
+<text top="332" left="209" width="5" height="16" font="9"> </text>
+<text top="354" left="230" width="26" height="16" font="9">D   </text>
+<text top="354" left="271" width="169" height="16" font="9">NP    T          VP     </text>
+<text top="354" left="457" width="5" height="16" font="9"> </text>
+<text top="354" left="477" width="26" height="16" font="9">D   </text>
+<text top="354" left="519" width="66" height="16" font="9">NP    0  </text>
+<text top="354" left="602" width="5" height="16" font="9"> </text>
+<text top="354" left="622" width="26" height="16" font="9">VP </text>
+<text top="376" left="209" width="5" height="16" font="9"> </text>
+<text top="398" left="230" width="25" height="16" font="9">the </text>
+<text top="398" left="271" width="68" height="16" font="9">girls  will </text>
+<text top="398" left="354" width="107" height="16" font="9">drink  whiskey   </text>
+<text top="398" left="477" width="26" height="16" font="9">0    </text>
+<text top="398" left="519" width="46" height="16" font="9">boys   </text>
+<text top="398" left="581" width="97" height="16" font="9">  drink  wine </text>
+<text top="419" left="107" width="5" height="18" font="2"> </text>
+<text top="442" left="107" width="684" height="18" font="2">The optional V-gapping (see (15c)) is accounted for as well: it is yet another instance </text>
+<text top="465" left="107" width="438" height="18" font="2">of dependent ellipsis, this time into the complement of 0</text>
+<text top="473" left="546" width="8" height="12" font="12">T</text>
+<text top="465" left="555" width="10" height="18" font="2">. </text>
+<text top="488" left="107" width="685" height="18" font="2">As noted in the introduction, another property of the D-sharing construction that </text>
+<text top="510" left="107" width="684" height="18" font="2">follows from analyzing it as in instance of coordinate ellipsis plus dependent ellipsis is </text>
+<text top="534" left="107" width="684" height="18" font="2">that it shows the disanaphora requirement on overt remnants. The rest of the DP with </text>
+<text top="557" left="107" width="685" height="18" font="2">a 0 D head must be disanaphoric to the corresponding part of the DP with the overt </text>
+<text top="579" left="107" width="168" height="18" font="2">determiner, see (17). </text>
+<text top="603" left="107" width="5" height="18" font="2"> </text>
+<text top="625" left="107" width="684" height="18" font="2">(17)  a.  *Too many Irish setters are named Kelly, too many Irish setters are named </text>
+<text top="648" left="179" width="415" height="18" font="2">Paddy, and too many Irish setters are named Shane. </text>
+<text top="671" left="107" width="19" height="18" font="2">   </text>
+<text top="671" left="150" width="486" height="18" font="2">b.  *The girls will drink whiskey and the girls will drink wine. </text>
+<text top="694" left="107" width="5" height="18" font="2"> </text>
+<text top="716" left="107" width="684" height="18" font="2">Not all determiners can be shared. As observed by McCawley and Lin, indefinite </text>
+<text top="740" left="107" width="397" height="18" font="2">determiners, numerals and demonstratives cannot: </text>
+<text top="762" left="107" width="5" height="18" font="2"> </text>
+<text top="785" left="107" width="685" height="18" font="2">(18)  a.  *An Irish setter is usually named Kelly, a German shepherd is named Fritz, </text>
+<text top="809" left="179" width="252" height="18" font="2">and a Husky is named Nanook. </text>
+<text top="831" left="107" width="19" height="18" font="2">   </text>
+<text top="831" left="150" width="502" height="18" font="2">b.  *Two girls will drink whiskey and two boys will drink wine. </text>
+<text top="854" left="107" width="5" height="18" font="2"> </text>
+<text top="877" left="107" width="684" height="18" font="2">Since dependent ellipsis targets the head of the dependent in question (see (12)), this </text>
+<text top="900" left="107" width="684" height="18" font="2">too follows from the analysis if the relevant determiners are not the head of DP (see </text>
+<text top="922" left="107" width="685" height="18" font="2">also Lin 2000). This has been argued for on independent grounds by Lyons 1989, </text>
+<text top="946" left="107" width="684" height="18" font="2">amongst others. According to Lyons, indefinite determiners, in contrast to definite </text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">198</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">ones, are not instances of the category D, but function as modifiers of the noun within </text>
+<text top="245" left="107" width="61" height="18" font="2">the NP.</text>
+<text top="243" left="168" width="5" height="10" font="7">2</text>
+<text top="245" left="173" width="5" height="18" font="2"> </text>
+<text top="267" left="107" width="684" height="18" font="2">  Some cases which at first sight do not seem to involve T-gapping of the regular type </text>
+<text top="291" left="107" width="685" height="18" font="2">discussed above still license D-sharing. These involve gapped negative modals, as </text>
+<text top="314" left="107" width="679" height="18" font="2">discussed by Siegel (1984, 1987). Consider first the following data, not involving D-</text>
+<text top="336" left="107" width="95" height="18" font="2">sharing yet. </text>
+<text top="360" left="107" width="5" height="18" font="2"> </text>
+<text top="382" left="107" width="435" height="18" font="2">(19)  a.  Ward can’t eat caviar and Sue can’t eat beans </text>
+<text top="405" left="107" width="19" height="18" font="2">   </text>
+<text top="405" left="150" width="349" height="18" font="2">b.  Ward can’t eat caviar and Sue eat beans </text>
+<text top="428" left="107" width="19" height="18" font="2">   </text>
+<text top="428" left="150" width="320" height="18" font="2">c.  Ward can’t eat caviar and Sue beans </text>
+<text top="451" left="107" width="5" height="18" font="2"> </text>
+<text top="473" left="107" width="234" height="18" font="2">In (19a) both occurrences of </text>
+<text top="473" left="341" width="40" height="18" font="13"><i>can’t</i></text>
+<text top="473" left="381" width="411" height="18" font="2"> have scope over their own conjunct only. In (19b), </text>
+<text top="497" left="107" width="685" height="18" font="2">however, which only seems to differ from (19a) in involving T-gapping, this reading is </text>
+<text top="519" left="107" width="684" height="18" font="2">no longer possible. Instead, the negative modal gets wide scope; the sentence has a </text>
+<text top="542" left="107" width="139" height="18" font="2">reading in which </text>
+<text top="542" left="248" width="40" height="18" font="13"><i>can’t</i></text>
+<text top="542" left="288" width="503" height="18" font="2"> has the entire conjunction in its scope (‘it cannot be the case </text>
+<text top="566" left="107" width="684" height="18" font="2">that Ward eats caviar and Sue eats beans at the same time’). Both readings are </text>
+<text top="588" left="107" width="138" height="18" font="2">possible in (19c). </text>
+<text top="611" left="107" width="685" height="18" font="2">At first sight, this difference in meaning may seem to indicate that (19b) is not just </text>
+<text top="634" left="107" width="684" height="18" font="2">(19a) plus coordinate T-ellipsis. Nevertheless, as Lin shows, determiner sharing is still </text>
+<text top="657" left="107" width="162" height="18" font="2">possible in this case: </text>
+<text top="679" left="107" width="5" height="18" font="2"> </text>
+<text top="703" left="107" width="396" height="18" font="2">(20)  The girls can’t eat caviar and boys eat beans </text>
+<text top="725" left="107" width="5" height="18" font="2"> </text>
+<text top="774" left="107" width="135" height="18" font="2">                              </text>
+<text top="774" left="270" width="51" height="18" font="2">           </text>
+<text top="808" left="122" width="5" height="10" font="7">2</text>
+<text top="812" left="127" width="664" height="15" font="4"> Concerning the determiners that can be shared, there is one that also occurs as a degree modifier of </text>
+<text top="831" left="107" width="592" height="15" font="4">adjectives, in which case it seems to behave like a modifier rather than a head, namely </text>
+<text top="831" left="702" width="51" height="15" font="8"><i>enough</i></text>
+<text top="831" left="753" width="38" height="15" font="4"> (see </text>
+<text top="851" left="107" width="625" height="15" font="4">Doetjes, Neeleman &amp; Van de Koot 1998).  However, it seems that, in addition to the modifier </text>
+<text top="851" left="732" width="51" height="15" font="8"><i>enough</i></text>
+<text top="851" left="783" width="7" height="15" font="4">, </text>
+<text top="870" left="107" width="349" height="15" font="4">which does not select its modifiee, there is a head </text>
+<text top="870" left="460" width="49" height="15" font="8"><i>enough</i></text>
+<text top="870" left="511" width="280" height="15" font="4"> that selects for an NP complement. The </text>
+<text top="890" left="107" width="57" height="15" font="4">modifier </text>
+<text top="890" left="167" width="51" height="15" font="8"><i>enough</i></text>
+<text top="890" left="218" width="570" height="15" font="4"> follows its modifiee, whether this is an AP (ia) or a DP (ib). In contrast, the head </text>
+<text top="910" left="107" width="51" height="15" font="8"><i>enough</i></text>
+<text top="910" left="158" width="223" height="15" font="4"> precedes its NP complement (ic): </text>
+<text top="929" left="122" width="510" height="15" font="4">(i)  a.  This sweater is pink enough / *enough pink to draw anyone’s attention </text>
+<text top="949" left="149" width="593" height="15" font="4">b.  John is linguist enough / *enough linguist not to wear pink sweaters that attract attention </text>
+<text top="968" left="122" width="5" height="15" font="4"> </text>
+<text top="968" left="150" width="385" height="15" font="4">c.   There is enough coffee / ?*coffee enough to go around </text>
+<text top="989" left="122" width="5" height="15" font="4"> </text>
+<text top="1008" left="122" width="277" height="15" font="4">It turns out that, as expected, only the head </text>
+<text top="1008" left="401" width="51" height="15" font="8"><i>enough</i></text>
+<text top="1008" left="452" width="236" height="15" font="4"> can be shared, the modifier cannot:  </text>
+<text top="1028" left="122" width="5" height="15" font="4"> </text>
+<text top="1047" left="122" width="653" height="15" font="4">(ii)  a.  Enough men wear yellow trousers and women pink blouses to keep the fashion industry busy </text>
+<text top="1066" left="149" width="514" height="15" font="4">b.  *John is man enough and Harry linguist to endure such terrible conferences </text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">199</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">According to Lin, this shows that D-sharing necessarily involves coordination below </text>
+<text top="245" left="107" width="685" height="18" font="2">shared T and D nodes (see (2)). The wide scope reading of the apparently ‘gapped’ T </text>
+<text top="267" left="107" width="684" height="18" font="2">follows directly from its syntactic position, from which it c-commands the coordinated </text>
+<text top="291" left="107" width="684" height="18" font="2">vPs. The wide scope reading for the modal in (19c) follows in the same way. The </text>
+<text top="314" left="107" width="679" height="18" font="2">distributed scope reading for this example is analyzed by Lin as an instance of full TP-</text>
+<text top="336" left="107" width="617" height="18" font="2">ellipsis, after moving subject and object out of TP in the second conjunct.</text>
+<text top="335" left="723" width="5" height="10" font="7">3</text>
+<text top="336" left="729" width="63" height="18" font="2"> If that </text>
+<text top="360" left="107" width="685" height="18" font="2">were so, however, determiner sharing should be impossible in cases like (19c) when it </text>
+<text top="382" left="107" width="684" height="18" font="2">has the distributed reading for the gapped negative modal. Since D is below T and T is </text>
+<text top="405" left="107" width="684" height="18" font="2">not shared in this reading, D cannot be shared either. (As noted, in this analysis D </text>
+<text top="428" left="107" width="684" height="18" font="2">sharing by necessity implies T-sharing). This is incorrect, however. An example like </text>
+<text top="451" left="107" width="685" height="18" font="2">(21) allows for the distributed scope reading. It even seems to be much easier to get, </text>
+<text top="473" left="107" width="227" height="18" font="2">than the wide scope reading. </text>
+<text top="497" left="107" width="5" height="18" font="2"> </text>
+<text top="519" left="107" width="224" height="18" font="2">(21)  In general, too many </text>
+<text top="522" left="334" width="46" height="15" font="4">GIRLS</text>
+<text top="519" left="380" width="85" height="18" font="2"> can’t eat </text>
+<text top="522" left="468" width="64" height="15" font="4">CAVIAR</text>
+<text top="519" left="532" width="127" height="18" font="2"> and  too many </text>
+<text top="522" left="664" width="45" height="15" font="4">BOYS</text>
+<text top="519" left="708" width="78" height="18" font="2">  can’t eat</text>
+<text top="522" left="786" width="5" height="15" font="4"> </text>
+<text top="544" left="149" width="53" height="15" font="4">BEANS</text>
+<text top="542" left="201" width="5" height="18" font="2"> </text>
+<text top="566" left="107" width="5" height="18" font="2"> </text>
+<text top="588" left="107" width="679" height="18" font="2">Hence, D-sharing remains possible in the reading which is supposed not to involve T-</text>
+<text top="611" left="107" width="684" height="18" font="2">sharing. This appears to be incompatible with a ‘coordination below T and D’ analysis </text>
+<text top="634" left="107" width="108" height="18" font="2">of D-sharing. </text>
+<text top="657" left="107" width="684" height="18" font="2">  However, our analysis also seems to face a problem here: (19b) must involve </text>
+<text top="679" left="107" width="685" height="18" font="2">coordinate T-ellipsis, since the dependent ellipsis that produces the null D head is </text>
+<text top="703" left="107" width="684" height="18" font="2">licensed by the null T head that results from this coordinate ellipsis. But as Siegel </text>
+<text top="725" left="107" width="685" height="18" font="2">(1984, 1987) already pointed out, it is problematic to assume (19b) is an instance of </text>
+<text top="748" left="107" width="684" height="18" font="2">‘ordinary’ gapping of the modal, since  how can the difference in interpretation with </text>
+<text top="771" left="107" width="473" height="18" font="2">the alleged source, ungapped (19a), be accounted for then?  </text>
+<text top="794" left="107" width="685" height="18" font="2">  Given the assumption that (19b) does involve T-gapping, this difference shows that </text>
+<text top="818" left="107" width="685" height="18" font="2">a gapped T-head cannot simply be interpreted as a phonologically non-spelled-out </text>
+<text top="840" left="107" width="685" height="18" font="2">counterpart of an overt T-head. Following Williams’s analysis outlined in section 1, </text>
+<text top="863" left="107" width="684" height="18" font="2">this is not what we assume anyway. In cases of coordinate ellipsis the 0 head is null in </text>
+<text top="886" left="107" width="685" height="18" font="2">a more radical sense: it is null in the sense that it has no syntactic or semantic features, </text>
+<text top="909" left="107" width="684" height="18" font="2">T or otherwise, whatsoever. (Consequently, it completely depends on the overt head </text>
+<text top="931" left="107" width="329" height="18" font="2">in the first conjunct for its interpretation.) </text>
+<text top="990" left="107" width="135" height="18" font="2">                              </text>
+<text top="990" left="270" width="51" height="18" font="2">           </text>
+<text top="1024" left="122" width="5" height="10" font="7">3</text>
+<text top="1028" left="127" width="664" height="15" font="4"> This appears to raise some technical issues.  At least, as it stands, this analysis seems to entail that </text>
+<text top="1047" left="107" width="684" height="15" font="4">objects can move to some position above TP in English and that they only do so if  a remnant TP is to be </text>
+<text top="1066" left="107" width="655" height="15" font="4">created that can be elided (after all, the object in the first conjunct is apparently not moved out of TP). </text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">200</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">  Suppose now that elements like negation, modals, and T take their scope via a </text>
+<text top="245" left="107" width="684" height="18" font="2">raising operation at  LF that adjoins them to their clause (like QR), as assumed by </text>
+<text top="267" left="107" width="112" height="18" font="2">Siegel (1984).</text>
+<text top="266" left="218" width="5" height="10" font="7">4</text>
+<text top="267" left="223" width="568" height="18" font="2"> First of all, that makes possible a plausible account of why (19a), in </text>
+<text top="291" left="107" width="685" height="18" font="2">which nothing is gapped, does not have the wide scope reading for the negated modal. </text>
+<text top="314" left="107" width="684" height="18" font="2">Both conjuncts contain such a modal here and both raise. To account for the wide </text>
+<text top="336" left="107" width="684" height="18" font="2">scope reading it must be assumed that the operator in the first conjunct raises to a </text>
+<text top="360" left="107" width="685" height="18" font="2">position from which it c-commands the entire conjunction, which is possible if </text>
+<text top="382" left="107" width="684" height="18" font="2">coordinations are structured asymmetrically. Thus (19a) will have an LF like (22), in </text>
+<text top="405" left="107" width="120" height="18" font="2">which the first </text>
+<text top="405" left="226" width="46" height="18" font="13"><i>can’t </i></text>
+<text top="405" left="272" width="519" height="18" font="2">does indeed c-command the whole conjunction, given a definition </text>
+<text top="428" left="107" width="685" height="18" font="2">of c-command a la Chomsky 1986. (In (22) we omit possibly present but irrelevant </text>
+<text top="451" left="107" width="102" height="18" font="2">projections). </text>
+<text top="473" left="107" width="5" height="18" font="2"> </text>
+<text top="497" left="107" width="33" height="18" font="2">(22)</text>
+<text top="498" left="140" width="14" height="16" font="9">   </text>
+<text top="498" left="169" width="5" height="16" font="9"> </text>
+<text top="498" left="189" width="5" height="16" font="9"> </text>
+<text top="498" left="210" width="24" height="16" font="9">   </text>
+<text top="498" left="251" width="5" height="16" font="9"> </text>
+<text top="498" left="271" width="5" height="16" font="9"> </text>
+<text top="498" left="291" width="5" height="16" font="9"> </text>
+<text top="498" left="313" width="5" height="16" font="9"> </text>
+<text top="498" left="333" width="5" height="16" font="9"> </text>
+<text top="498" left="354" width="27" height="16" font="9">&amp;P </text>
+<text top="520" left="261" width="23" height="16" font="9">     </text>
+<text top="541" left="271" width="46" height="16" font="9">  TP   </text>
+<text top="541" left="333" width="5" height="16" font="9"> </text>
+<text top="541" left="354" width="5" height="16" font="9"> </text>
+<text top="541" left="375" width="5" height="16" font="9"> </text>
+<text top="541" left="395" width="5" height="16" font="9"> </text>
+<text top="541" left="416" width="24" height="16" font="9">   </text>
+<text top="541" left="457" width="23" height="16" font="9">&amp;’ </text>
+<text top="564" left="209" width="5" height="16" font="9"> </text>
+<text top="585" left="231" width="32" height="16" font="9">can’t</text>
+<text top="592" left="263" width="3" height="10" font="7">i</text>
+<text top="585" left="267" width="9" height="16" font="9">  </text>
+<text top="585" left="291" width="5" height="16" font="9"> </text>
+<text top="585" left="313" width="5" height="16" font="9"> </text>
+<text top="585" left="333" width="5" height="16" font="9"> </text>
+<text top="585" left="354" width="24" height="16" font="9">TP </text>
+<text top="585" left="395" width="5" height="16" font="9"> </text>
+<text top="585" left="416" width="24" height="16" font="9">&amp;  </text>
+<text top="585" left="457" width="5" height="16" font="9"> </text>
+<text top="585" left="477" width="5" height="16" font="9"> </text>
+<text top="585" left="498" width="5" height="16" font="9"> </text>
+<text top="585" left="519" width="24" height="16" font="9">TP </text>
+<text top="608" left="209" width="5" height="16" font="9"> </text>
+<text top="608" left="230" width="5" height="16" font="9"> </text>
+<text top="629" left="209" width="5" height="16" font="9"> </text>
+<text top="629" left="230" width="5" height="16" font="9"> </text>
+<text top="629" left="251" width="5" height="16" font="9"> </text>
+<text top="629" left="271" width="5" height="16" font="9"> </text>
+<text top="629" left="291" width="47" height="16" font="9">Ward t</text>
+<text top="636" left="339" width="3" height="10" font="7">i</text>
+<text top="629" left="342" width="98" height="16" font="9"> eat caviar     </text>
+<text top="629" left="457" width="33" height="16" font="9">can’t</text>
+<text top="636" left="489" width="3" height="10" font="7">j</text>
+<text top="629" left="493" width="10" height="16" font="9">  </text>
+<text top="629" left="519" width="5" height="16" font="9"> </text>
+<text top="629" left="539" width="5" height="16" font="9"> </text>
+<text top="629" left="560" width="24" height="16" font="9">TP </text>
+<text top="650" left="209" width="5" height="16" font="9"> </text>
+<text top="650" left="230" width="5" height="16" font="9"> </text>
+<text top="650" left="251" width="5" height="16" font="9"> </text>
+<text top="650" left="271" width="5" height="16" font="9"> </text>
+<text top="650" left="291" width="5" height="16" font="9"> </text>
+<text top="650" left="313" width="5" height="16" font="9"> </text>
+<text top="650" left="333" width="5" height="16" font="9"> </text>
+<text top="673" left="209" width="5" height="16" font="9"> </text>
+<text top="673" left="230" width="5" height="16" font="9"> </text>
+<text top="673" left="251" width="5" height="16" font="9"> </text>
+<text top="673" left="271" width="5" height="16" font="9"> </text>
+<text top="673" left="291" width="5" height="16" font="9"> </text>
+<text top="673" left="313" width="5" height="16" font="9"> </text>
+<text top="673" left="333" width="5" height="16" font="9"> </text>
+<text top="673" left="354" width="5" height="16" font="9"> </text>
+<text top="673" left="375" width="5" height="16" font="9"> </text>
+<text top="673" left="395" width="5" height="16" font="9"> </text>
+<text top="673" left="416" width="24" height="16" font="9">   </text>
+<text top="673" left="457" width="5" height="16" font="9"> </text>
+<text top="673" left="477" width="5" height="16" font="9"> </text>
+<text top="673" left="498" width="5" height="16" font="9"> </text>
+<text top="673" left="519" width="34" height="16" font="9">Sue t</text>
+<text top="680" left="552" width="3" height="10" font="7">j</text>
+<text top="673" left="556" width="71" height="16" font="9"> eat beans </text>
+<text top="694" left="107" width="5" height="18" font="2"> </text>
+<text top="716" left="107" width="684" height="18" font="2">The fact that the first operator cannot take scope over the whole conjunction in this </text>
+<text top="740" left="107" width="685" height="18" font="2">case, but only over the first conjunct, now follows from relativized minimality, if </text>
+<text top="762" left="107" width="684" height="18" font="2">relativized minimality is sensitive to operators themselves rather than to the elements </text>
+<text top="785" left="107" width="685" height="18" font="2">(traces) bound by or attracted by the operator, as proposed by Manzini 1999. In that </text>
+<text top="809" left="107" width="685" height="18" font="2">case the first modal operator in (22)  cannot take scope across the second one, </text>
+<text top="831" left="107" width="324" height="18" font="2">resulting in the distributed scope reading. </text>
+<text top="854" left="107" width="684" height="18" font="2">  In (19b), however, there is coordinate T-ellipsis, so the second conjunct contains a </text>
+<text top="877" left="107" width="685" height="18" font="2">radically empty 0 head. Since this head does not have any features at all, it also does </text>
+<text top="911" left="107" width="135" height="18" font="2">                              </text>
+<text top="911" left="270" width="51" height="18" font="2">           </text>
+<text top="945" left="122" width="5" height="10" font="7">4</text>
+<text top="949" left="127" width="662" height="15" font="4"> In contrast, Siegel (1987) argues more or less for the opposite, namely a kind of operator lowering. In </text>
+<text top="968" left="107" width="684" height="15" font="4">this view the negated modal starts out as a sentence operator and is put in place by an instance of Bach’s </text>
+<text top="989" left="107" width="684" height="15" font="4">(1984) operation of Right-Wrap. This operation resembles the operation of prosodic inversion which is </text>
+<text top="1008" left="107" width="684" height="15" font="4">supposed to put things like second position clitics into place, the difference being that Right-Wrap mentions </text>
+<text top="1028" left="107" width="683" height="15" font="4">the first syntactic constituent as the thing around which the modal is inverted, rather than the first prosodic </text>
+<text top="1047" left="107" width="684" height="15" font="4">constituent. For our purposes it does not really matter which version  is correct, raising the modal or </text>
+<text top="1066" left="107" width="75" height="15" font="4">lowering it. </text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">201</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">not have the features which turn a head into a (modal, negative, T) operator. This in </text>
+<text top="245" left="107" width="685" height="18" font="2">turn means that it is not subject to the LF-raising rule that targets such elements. </text>
+<text top="267" left="107" width="288" height="18" font="2">Hence, the LF for (19b) is like (23). </text>
+<text top="291" left="107" width="5" height="18" font="2"> </text>
+<text top="314" left="107" width="33" height="18" font="2">(23)</text>
+<text top="315" left="140" width="14" height="16" font="9">   </text>
+<text top="315" left="169" width="5" height="16" font="9"> </text>
+<text top="315" left="189" width="5" height="16" font="9"> </text>
+<text top="315" left="210" width="24" height="16" font="9">   </text>
+<text top="315" left="251" width="5" height="16" font="9"> </text>
+<text top="315" left="271" width="5" height="16" font="9"> </text>
+<text top="315" left="291" width="5" height="16" font="9"> </text>
+<text top="315" left="313" width="5" height="16" font="9"> </text>
+<text top="315" left="333" width="28" height="16" font="9">&amp;P </text>
+<text top="336" left="261" width="23" height="16" font="9">     </text>
+<text top="359" left="261" width="35" height="16" font="9">TP   </text>
+<text top="359" left="313" width="5" height="16" font="9"> </text>
+<text top="359" left="333" width="5" height="16" font="9"> </text>
+<text top="359" left="354" width="5" height="16" font="9"> </text>
+<text top="359" left="375" width="5" height="16" font="9"> </text>
+<text top="359" left="395" width="5" height="16" font="9"> </text>
+<text top="359" left="416" width="43" height="16" font="9">  &amp;’ </text>
+<text top="380" left="209" width="5" height="16" font="9"> </text>
+<text top="402" left="209" width="33" height="16" font="9">can’t</text>
+<text top="408" left="242" width="3" height="10" font="7">i</text>
+<text top="402" left="245" width="10" height="16" font="9">  </text>
+<text top="402" left="271" width="5" height="16" font="9"> </text>
+<text top="402" left="291" width="5" height="16" font="9"> </text>
+<text top="402" left="313" width="5" height="16" font="9"> </text>
+<text top="402" left="333" width="25" height="16" font="9">TP </text>
+<text top="402" left="375" width="5" height="16" font="9"> </text>
+<text top="402" left="395" width="45" height="16" font="9">&amp;     </text>
+<text top="402" left="457" width="5" height="16" font="9"> </text>
+<text top="402" left="477" width="5" height="16" font="9"> </text>
+<text top="402" left="498" width="23" height="16" font="9">0P </text>
+<text top="424" left="209" width="5" height="16" font="9"> </text>
+<text top="424" left="230" width="5" height="16" font="9"> </text>
+<text top="446" left="209" width="5" height="16" font="9"> </text>
+<text top="446" left="230" width="5" height="16" font="9"> </text>
+<text top="446" left="251" width="5" height="16" font="9"> </text>
+<text top="446" left="271" width="56" height="16" font="9">  Ward t</text>
+<text top="452" left="326" width="3" height="10" font="7">i</text>
+<text top="446" left="330" width="215" height="16" font="9"> eat caviar    Sue 0 eat beans </text>
+<text top="468" left="107" width="5" height="18" font="2"> </text>
+<text top="490" left="107" width="446" height="18" font="2">Here there is no intervening operator between the raised </text>
+<text top="490" left="552" width="40" height="18" font="13"><i>can’t</i></text>
+<text top="490" left="593" width="198" height="18" font="2"> of the first conjunct and </text>
+<text top="513" left="107" width="684" height="18" font="2">the rest of the conjunction, hence it takes wide scope. Given an analysis of coordinate </text>
+<text top="536" left="107" width="684" height="18" font="2">ellipsis in which the second conjunct is headed by 0, the difference in interpretation </text>
+<text top="559" left="107" width="384" height="18" font="2">between (19a) and (19b) thus is not unexpected. </text>
+<text top="581" left="107" width="685" height="18" font="2">  What is more unexpected is the ambiguity of (19c), and, just as in Lin’s analysis, it </text>
+<text top="605" left="107" width="684" height="18" font="2">is the distributed reading for this sentence that seems to be the odd one out. The wide </text>
+<text top="627" left="107" width="684" height="18" font="2">scope reading for (19c) follows in the same fashion as just described for (19b), the </text>
+<text top="650" left="107" width="684" height="18" font="2">only difference being that there is dependent ellipsis of the head of the VP in the </text>
+<text top="674" left="107" width="502" height="18" font="2">second conjunct, licensed by the 0 head of the coordinated TP. </text>
+<text top="696" left="107" width="685" height="18" font="2">  The distributed scope reading can be made to follow under the assumption that </text>
+<text top="719" left="107" width="685" height="18" font="2">some verbal heads, like modals, can optionally restructure with the verbal head of their </text>
+<text top="742" left="107" width="684" height="18" font="2">complement, a process which in effect turns them into one complex head. Such </text>
+<text top="765" left="107" width="343" height="18" font="2">restructuring between modal verbs like </text>
+<text top="765" left="458" width="38" height="18" font="13"><i>want</i></text>
+<text top="765" left="496" width="296" height="18" font="2"> and the infinitival head of their </text>
+<text top="787" left="107" width="684" height="18" font="2">complement is well-known from the literature on Romance (see for example Rizzi </text>
+<text top="811" left="107" width="684" height="18" font="2">1982 and Rosen 1990), but for English as well it has been argued before that there is </text>
+<text top="833" left="107" width="685" height="18" font="2">optional restructuring of this type, see Goodall (1991) and Roberts (1997). If there is </text>
+<text top="856" left="107" width="380" height="18" font="2">restructuring in (19c) we get a complex head </text>
+<text top="856" left="491" width="73" height="18" font="13"><i>can’t eat</i></text>
+<text top="856" left="564" width="227" height="18" font="2"> in the first conjunct. As a </text>
+<text top="879" left="107" width="330" height="18" font="2">result, we would now get an LF like (24). </text>
+<text top="902" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">202</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="33" height="18" font="2">(24)</text>
+<text top="224" left="140" width="14" height="16" font="9">   </text>
+<text top="224" left="169" width="5" height="16" font="9"> </text>
+<text top="224" left="189" width="5" height="16" font="9"> </text>
+<text top="224" left="210" width="24" height="16" font="9">   </text>
+<text top="224" left="251" width="5" height="16" font="9"> </text>
+<text top="224" left="271" width="5" height="16" font="9"> </text>
+<text top="224" left="291" width="5" height="16" font="9"> </text>
+<text top="224" left="313" width="5" height="16" font="9"> </text>
+<text top="224" left="333" width="28" height="16" font="9">&amp;P </text>
+<text top="245" left="209" width="5" height="16" font="9"> </text>
+<text top="267" left="261" width="35" height="16" font="9">TP   </text>
+<text top="267" left="313" width="5" height="16" font="9"> </text>
+<text top="267" left="333" width="5" height="16" font="9"> </text>
+<text top="267" left="354" width="5" height="16" font="9"> </text>
+<text top="267" left="375" width="5" height="16" font="9"> </text>
+<text top="267" left="395" width="5" height="16" font="9"> </text>
+<text top="267" left="416" width="43" height="16" font="9">  &amp;’ </text>
+<text top="289" left="209" width="5" height="16" font="9"> </text>
+<text top="311" left="209" width="68" height="16" font="9">[can’t eat]</text>
+<text top="317" left="277" width="3" height="10" font="7">i</text>
+<text top="311" left="280" width="16" height="16" font="9">   </text>
+<text top="311" left="313" width="5" height="16" font="9"> </text>
+<text top="311" left="333" width="25" height="16" font="9">TP </text>
+<text top="311" left="375" width="5" height="16" font="9"> </text>
+<text top="311" left="395" width="45" height="16" font="9">&amp;     </text>
+<text top="311" left="457" width="5" height="16" font="9"> </text>
+<text top="311" left="477" width="5" height="16" font="9"> </text>
+<text top="311" left="498" width="23" height="16" font="9">0P </text>
+<text top="332" left="209" width="5" height="16" font="9"> </text>
+<text top="332" left="230" width="5" height="16" font="9"> </text>
+<text top="354" left="209" width="5" height="16" font="9"> </text>
+<text top="354" left="230" width="5" height="16" font="9"> </text>
+<text top="354" left="251" width="5" height="16" font="9"> </text>
+<text top="354" left="271" width="5" height="16" font="9"> </text>
+<text top="354" left="291" width="47" height="16" font="9">Ward t</text>
+<text top="361" left="339" width="3" height="10" font="7">i</text>
+<text top="354" left="342" width="57" height="16" font="9"> caviar   </text>
+<text top="354" left="416" width="105" height="16" font="9">  Sue 0 beans </text>
+<text top="375" left="107" width="5" height="18" font="2"> </text>
+<text top="399" left="107" width="684" height="18" font="2">As it stands, however, (24) is not a well-formed LF. In contrast to (23), the 0 head in </text>
+<text top="422" left="107" width="684" height="18" font="2">the second conjunct must have some semantic content; in particular, it must be a </text>
+<text top="444" left="107" width="684" height="18" font="2">predicate, otherwise the two arguments would not be licensed. The way the null </text>
+<text top="468" left="107" width="684" height="18" font="2">element can get semantic content is by copying the semantic content of the </text>
+<text top="490" left="107" width="684" height="18" font="2">corresponding element in the first conjunct. In (24), the semantic content of the </text>
+<text top="513" left="107" width="149" height="18" font="2">complex predicate </text>
+<text top="513" left="255" width="72" height="18" font="13"><i>can’t eat</i></text>
+<text top="513" left="326" width="466" height="18" font="2"> is copied onto 0, resulting in the distributed scope reading. </text>
+<text top="536" left="107" width="685" height="18" font="2">In contrast, (23) is already a well-formed LF as it stands, so there is no need for </text>
+<text top="559" left="107" width="185" height="18" font="2">copying the content of </text>
+<text top="559" left="291" width="40" height="18" font="13"><i>can’t</i></text>
+<text top="559" left="332" width="460" height="18" font="2"> to 0. Under the assumption that copying content is a last </text>
+<text top="581" left="107" width="324" height="18" font="2">resort operation, it will not occur in (23). </text>
+<text top="605" left="107" width="5" height="18" font="2"> </text>
+<text top="628" left="107" width="5" height="16" font="9"> </text>
+<text top="649" left="107" width="10" height="18" font="3"><b>4</b></text>
+<text top="648" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="649" left="123" width="602" height="18" font="3"><b>Object determiner sharing and the nontransitivity of dependent ellipsis </b></text>
+<text top="672" left="107" width="24" height="18" font="3"><b>4.1</b></text>
+<text top="672" left="132" width="6" height="18" font="5"><b> </b></text>
+<text top="672" left="140" width="150" height="18" font="3"><b>Object D-sharing </b></text>
+<text top="695" left="107" width="5" height="18" font="2"> </text>
+<text top="717" left="107" width="684" height="18" font="2">Until now we have only discussed cases of D-sharing between subjects. In principle </text>
+<text top="741" left="107" width="684" height="18" font="2">we expect dependent ellipsis of the D head of the object in the second conjunct to be </text>
+<text top="764" left="107" width="685" height="18" font="2">possible as well. After all, complements should be possible targets of dependent </text>
+<text top="786" left="107" width="458" height="18" font="2">ellipsis. This means the following structure should be fine: </text>
+<text top="810" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">203</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="33" height="18" font="2">(25)</text>
+<text top="224" left="140" width="14" height="16" font="9">   </text>
+<text top="224" left="169" width="5" height="16" font="9"> </text>
+<text top="224" left="189" width="5" height="16" font="9"> </text>
+<text top="224" left="210" width="24" height="16" font="9">   </text>
+<text top="224" left="251" width="5" height="16" font="9"> </text>
+<text top="224" left="271" width="5" height="16" font="9"> </text>
+<text top="224" left="291" width="5" height="16" font="9"> </text>
+<text top="224" left="313" width="24" height="16" font="9">TP </text>
+<text top="245" left="261" width="5" height="16" font="9"> </text>
+<text top="267" left="107" width="5" height="16" font="9"> </text>
+<text top="267" left="127" width="5" height="16" font="9"> </text>
+<text top="267" left="149" width="5" height="16" font="9"> </text>
+<text top="267" left="169" width="5" height="16" font="9"> </text>
+<text top="267" left="189" width="5" height="16" font="9"> </text>
+<text top="267" left="210" width="24" height="16" font="9">   </text>
+<text top="267" left="251" width="5" height="16" font="9"> </text>
+<text top="267" left="271" width="22" height="16" font="9">DP</text>
+<text top="273" left="293" width="19" height="10" font="7">subj</text>
+<text top="267" left="312" width="5" height="16" font="9"> </text>
+<text top="267" left="333" width="5" height="16" font="9"> </text>
+<text top="267" left="354" width="19" height="16" font="9">T’ </text>
+<text top="289" left="209" width="5" height="16" font="9"> </text>
+<text top="311" left="209" width="5" height="16" font="9"> </text>
+<text top="311" left="230" width="5" height="16" font="9"> </text>
+<text top="311" left="251" width="5" height="16" font="9"> </text>
+<text top="311" left="271" width="5" height="16" font="9"> </text>
+<text top="311" left="291" width="5" height="16" font="9"> </text>
+<text top="311" left="313" width="25" height="16" font="9">T   </text>
+<text top="311" left="354" width="5" height="16" font="9"> </text>
+<text top="311" left="375" width="5" height="16" font="9"> </text>
+<text top="311" left="395" width="28" height="16" font="9">&amp;P </text>
+<text top="332" left="363" width="5" height="16" font="9"> </text>
+<text top="354" left="313" width="25" height="16" font="9">    </text>
+<text top="354" left="354" width="45" height="16" font="9">VP   </text>
+<text top="354" left="416" width="63" height="16" font="9">         &amp;’ </text>
+<text top="376" left="363" width="5" height="16" font="9"> </text>
+<text top="398" left="313" width="5" height="16" font="9"> </text>
+<text top="398" left="333" width="26" height="16" font="9">V   </text>
+<text top="398" left="375" width="22" height="16" font="9">DP</text>
+<text top="405" left="396" width="14" height="10" font="7">obj</text>
+<text top="398" left="411" width="51" height="16" font="9">   &amp;   </text>
+<text top="398" left="477" width="5" height="16" font="9"> </text>
+<text top="398" left="498" width="23" height="16" font="9">0P </text>
+<text top="420" left="363" width="5" height="16" font="9"> </text>
+<text top="441" left="354" width="25" height="16" font="9">D   </text>
+<text top="441" left="395" width="45" height="16" font="9">  NP   </text>
+<text top="441" left="457" width="5" height="16" font="9"> </text>
+<text top="441" left="477" width="26" height="16" font="9">0   </text>
+<text top="441" left="519" width="19" height="16" font="9">0P</text>
+<text top="448" left="537" width="17" height="10" font="7">obj </text>
+<text top="464" left="569" width="5" height="16" font="9"> </text>
+<text top="485" left="209" width="5" height="16" font="9"> </text>
+<text top="485" left="230" width="5" height="16" font="9"> </text>
+<text top="485" left="251" width="5" height="16" font="9"> </text>
+<text top="485" left="271" width="5" height="16" font="9"> </text>
+<text top="485" left="291" width="5" height="16" font="9"> </text>
+<text top="485" left="313" width="5" height="16" font="9"> </text>
+<text top="485" left="333" width="5" height="16" font="9"> </text>
+<text top="485" left="354" width="5" height="16" font="9"> </text>
+<text top="485" left="375" width="5" height="16" font="9"> </text>
+<text top="485" left="395" width="5" height="16" font="9"> </text>
+<text top="485" left="416" width="24" height="16" font="9">   </text>
+<text top="485" left="457" width="5" height="16" font="9"> </text>
+<text top="485" left="477" width="5" height="16" font="9"> </text>
+<text top="485" left="498" width="25" height="16" font="9">0   </text>
+<text top="485" left="539" width="28" height="16" font="9">NP </text>
+<text top="506" left="107" width="5" height="18" font="2"> </text>
+<text top="530" left="107" width="685" height="18" font="2">As observed by Lin (1999), cases of object D-sharing are indeed possible. For </text>
+<text top="552" left="107" width="416" height="18" font="2">example, (26) can have a reading in which Bob gave </text>
+<text top="552" left="523" width="23" height="18" font="13"><i>the</i></text>
+<text top="552" left="547" width="188" height="18" font="2"> newspapers to Joanne. </text>
+<text top="575" left="107" width="5" height="18" font="2"> </text>
+<text top="598" left="107" width="528" height="18" font="2">(26)  Bob gave the magazines to Jessica and newspapers to Joanne </text>
+<text top="621" left="107" width="5" height="18" font="2"> </text>
+<text top="643" left="107" width="684" height="18" font="2">We predict that, in contrast to subject determiner sharing, which is dependent on </text>
+<text top="667" left="107" width="684" height="18" font="2">coordinate T-ellipsis (section 3), object D-sharing should be dependent on coordinate </text>
+<text top="689" left="107" width="685" height="18" font="2">V-ellipsis: the object is a dependent of V, not of T. Thus, cases in which only T but </text>
+<text top="713" left="107" width="684" height="18" font="2">not V is gapped (which do license subject D-sharing, see (16b)) should not license </text>
+<text top="735" left="107" width="259" height="18" font="2">object D-sharing. This is correct:</text>
+<text top="734" left="363" width="5" height="10" font="7">5</text>
+<text top="735" left="369" width="5" height="18" font="2"> </text>
+<text top="758" left="107" width="5" height="18" font="2"> </text>
+<text top="782" left="107" width="672" height="18" font="2">(27)  *Bob will give the magazines to Jessica and will hand the newspapers to Joanne </text>
+<text top="804" left="107" width="19" height="18" font="2">   </text>
+<text top="804" left="150" width="5" height="18" font="2"> </text>
+<text top="827" left="107" width="684" height="18" font="2">Object D-sharing seems to be more restricted than  subject D-sharing. According to </text>
+<text top="850" left="107" width="684" height="18" font="2">McCawley (1993), the shared determiner is always initial in its conjunct. Thus, cases </text>
+<text top="873" left="107" width="684" height="18" font="2">of object D-sharing in which the subject of the second conjunct is not empty are </text>
+<text top="895" left="107" width="90" height="18" font="2">impossible: </text>
+<text top="919" left="107" width="5" height="18" font="2"> </text>
+<text top="941" left="107" width="665" height="18" font="2">(28)  *Bob gave the magazines to Jessica and Harry gave the newspapers to Joanne  </text>
+<text top="964" left="107" width="5" height="18" font="2"> </text>
+<text top="1009" left="107" width="135" height="18" font="2">                              </text>
+<text top="1009" left="270" width="51" height="18" font="2">           </text>
+<text top="1043" left="122" width="5" height="10" font="7">5</text>
+<text top="1047" left="127" width="661" height="15" font="4"> To avoid misunderstandings, note that (27) is of course ok without D-sharing (‘Bob will hand </text>
+<text top="1066" left="107" width="469" height="15" font="4">newspapers to Joanne’), not the reading which we are interested in here. </text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">204</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="685" height="18" font="2">This too follows from our analysis. Given that the second conjunct retains its subject, </text>
+<text top="245" left="107" width="683" height="18" font="2">this cannot be a case of VP-coordination below T as in (25)-(26). We must be dealing </text>
+<text top="267" left="107" width="684" height="18" font="2">with coordination at the TP level. As already noted, given that the object is not a </text>
+<text top="291" left="107" width="684" height="18" font="2">dependent of T, a coordinated elided T head does not license dependent ellipsis of the </text>
+<text top="314" left="107" width="295" height="18" font="2">head of the object DP in its conjunct.</text>
+<text top="312" left="401" width="5" height="10" font="7">6</text>
+<text top="314" left="406" width="5" height="18" font="2"> </text>
+<text top="336" left="107" width="684" height="18" font="2">  However, there still seems to be a possible way of deriving (28) that must be </text>
+<text top="360" left="107" width="685" height="18" font="2">excluded. A coordinated elided T licenses dependent ellipsis of the head V of its </text>
+<text top="382" left="107" width="684" height="18" font="2">complement. This has actually happened in (28). In principle, this null V could in turn </text>
+<text top="405" left="107" width="684" height="18" font="2">license further dependent ellipsis of the head of its own complement, the object. To </text>
+<text top="428" left="107" width="684" height="18" font="2">rule this out we hypothesize, contrary to what Williams (1997) assumes, that heads </text>
+<text top="451" left="107" width="684" height="18" font="2">that are null as a result of dependent ellipsis, rather than as the result of coordinate </text>
+<text top="473" left="107" width="574" height="18" font="2">ellipsis, do not themselves become licensers of further dependent ellipsis: </text>
+<text top="497" left="107" width="5" height="18" font="2"> </text>
+<text top="519" left="107" width="37" height="18" font="2">(29) </text>
+<text top="519" left="150" width="290" height="18" font="13"><i>Nontransitivity of dependent ellipsis</i></text>
+<text top="519" left="440" width="5" height="18" font="2"> </text>
+<text top="542" left="107" width="19" height="18" font="2">   </text>
+<text top="542" left="150" width="641" height="18" font="2">A head that is null as the result of dependent ellipsis does not itself license </text>
+<text top="566" left="149" width="142" height="18" font="2">dependent ellipsis </text>
+<text top="588" left="107" width="5" height="18" font="2"> </text>
+<text top="611" left="107" width="685" height="18" font="2">This rules out (28). The presence of the subject in the second conjunct indicates that </text>
+<text top="634" left="107" width="684" height="18" font="2">we are dealing with T-coordination, and consequently with coordinate T-ellipsis. The </text>
+<text top="657" left="107" width="684" height="18" font="2">coordinate 0 head in the second conjunct licenses its complement VP to be headed by </text>
+<text top="679" left="107" width="684" height="18" font="2">0, but this 0 head does not in turn license its complement DP to be headed by 0, so </text>
+<text top="703" left="107" width="243" height="18" font="2">determiner sharing is ruled out.</text>
+<text top="701" left="350" width="5" height="10" font="7">7</text>
+<text top="703" left="356" width="5" height="18" font="2"> </text>
+<text top="757" left="107" width="135" height="18" font="2">                              </text>
+<text top="757" left="270" width="51" height="18" font="2">           </text>
+<text top="791" left="122" width="5" height="10" font="7">6</text>
+<text top="795" left="127" width="664" height="15" font="4"> This means that if the subject can stay within VP, and there is coordinate V-ellipsis, (27) should be </text>
+<text top="815" left="107" width="683" height="15" font="4">possible. Interestingly, a Dutch example like (i) is acceptable, which may indicate that Dutch has a simple </text>
+<text top="834" left="107" width="683" height="15" font="4">CP-VP structure, with no IP (AgrP -TP) structure in between (see Ackema et al. 1993 and Neeleman &amp; </text>
+<text top="855" left="107" width="117" height="15" font="4">Weerman 1999).  </text>
+<text top="874" left="122" width="583" height="15" font="4">(i)   ...  dat Marie teveel cadeautjes aan Jan gaf en Karel  teveel fopsigaren aan Miep  gaf </text>
+<text top="893" left="122" width="5" height="15" font="4"> </text>
+<text top="893" left="150" width="5" height="15" font="4"> </text>
+<text top="893" left="178" width="612" height="15" font="8"><i>that Marie too many presents to Jan gave and Karel (too many) fake cigars to Miep </i></text>
+<text top="913" left="179" width="47" height="15" font="8"><i>(gave) </i></text>
+<text top="945" left="122" width="5" height="10" font="7">7</text>
+<text top="949" left="127" width="311" height="15" font="4"> Note that the whole complement can be elided: </text>
+<text top="949" left="438" width="352" height="15" font="8"><i>Bob gave the magazines to Jessica and Harry  gave </i></text>
+<text top="968" left="107" width="184" height="15" font="8"><i>the magazines to Joanne</i></text>
+<text top="968" left="290" width="499" height="15" font="4">. Given our hypothesis, this of course cannot involve 0-licensing by the </text>
+<text top="989" left="107" width="684" height="15" font="4">parasitically null V-head either. Instead, in this case we must be dealing with a one step elision of one </text>
+<text top="1008" left="107" width="684" height="15" font="4">bigger constituent, to wit VP. (This means that the indirect object must be higher up than the direct object </text>
+<text top="1028" left="107" width="407" height="15" font="4">at least at surface structure, see Larson 1988). Note also that </text>
+<text top="1028" left="515" width="17" height="15" font="8"><i>do</i></text>
+<text top="1028" left="533" width="165" height="15" font="4">-replacement is possible:  </text>
+<text top="1028" left="698" width="92" height="15" font="8"><i>Bob gave the </i></text>
+<text top="1047" left="107" width="353" height="15" font="8"><i>magazines to Jessica and Harry did so to Joanne</i></text>
+<text top="1047" left="460" width="331" height="15" font="4">. This possibility of VP-ellipsis of course does not </text>
+<text top="1066" left="107" width="581" height="15" font="4">introduce a way of deriving (28) after all, since the object still contains overt material there.</text>
+<text top="1066" left="687" width="5" height="15" font="8"><i> </i></text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">205</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">  Below we will show that (29) makes a number of further correct predictions as to </text>
+<text top="245" left="107" width="685" height="18" font="2">when a head can be shared, i.e. 0, or not. First, however, we will show that it is not </text>
+<text top="267" left="107" width="684" height="18" font="2">incompatible with the data Williams supplies to show that the licensing relation </text>
+<text top="291" left="107" width="662" height="18" font="2">between empty heads extends without limit. These data are of the type in (30)-(31). </text>
+<text top="314" left="107" width="5" height="18" font="2"> </text>
+<text top="336" left="107" width="519" height="18" font="2">(30)  a.  The boys want to eat caviar and the girls 0 to drink wine </text>
+<text top="360" left="107" width="19" height="18" font="2">   </text>
+<text top="360" left="150" width="470" height="18" font="2">b.  The boys want to eat caviar and the girls 0 0 drink wine </text>
+<text top="382" left="107" width="19" height="18" font="2">   </text>
+<text top="382" left="150" width="448" height="18" font="2">c.  The boys want to eat caviar and the girls 0 0 0 beans </text>
+<text top="405" left="107" width="5" height="18" font="2"> </text>
+<text top="428" left="107" width="534" height="18" font="2">(31)  a.  *The boys want to eat caviar and the girls want to 0 beans </text>
+<text top="451" left="107" width="19" height="18" font="2">   </text>
+<text top="451" left="150" width="509" height="18" font="2">b.  *The boys want to eat caviar and the girls want 0 drink wine </text>
+<text top="473" left="107" width="5" height="18" font="2"> </text>
+<text top="497" left="107" width="684" height="18" font="2">If the assumption that English has restructuring of the Romance type is correct (see </text>
+<text top="519" left="107" width="684" height="18" font="2">section 3), (30c) can be derived by only one instance of ellipsis. Assuming that the </text>
+<text top="542" left="107" width="684" height="18" font="2">verbal heads in the second conjunct undergo restructuring, turning them into one </text>
+<text top="566" left="107" width="684" height="18" font="2">complex head, this complex head can be targeted by one instance of ellipsis, in line </text>
+<text top="588" left="107" width="82" height="18" font="2">with (29). </text>
+<text top="611" left="107" width="684" height="18" font="2">  Since restructuring is optional, the process can stop at any of the verbal heads in the </text>
+<text top="634" left="107" width="685" height="18" font="2">complement to T. Consequently, any number of the lower verbs can become part of </text>
+<text top="657" left="107" width="684" height="18" font="2">the complex head that is targeted by ellipsis, which makes the difference between </text>
+<text top="679" left="107" width="684" height="18" font="2">(30a-b-c). However, as is well-known  also, there appears to be an adjacency </text>
+<text top="703" left="107" width="684" height="18" font="2">requirement on restructuring (cf. Haegeman &amp; Van Riemsdijk 1986, Van Riemsdijk </text>
+<text top="725" left="107" width="685" height="18" font="2">1998), so it cannot ‘skip’ verbs. If we have a sequence of three verbs we cannot </text>
+<text top="748" left="107" width="685" height="18" font="2">restructure the first and the third, but leave the second one out of the process. </text>
+<text top="771" left="107" width="685" height="18" font="2">Therefore, we cannot have discontinuous null heads either. (The impossibility of (31) </text>
+<text top="794" left="107" width="684" height="18" font="2">also follows because here the head of the complement cannot be 0 in the first place, as </text>
+<text top="818" left="107" width="685" height="18" font="2">the highest verb is overt instead of being targeted by coordinate ellipsis – so dependent </text>
+<text top="840" left="107" width="225" height="18" font="2">ellipsis is impossible as well).</text>
+<text top="838" left="333" width="5" height="10" font="7">8</text>
+<text top="840" left="339" width="5" height="18" font="2"> </text>
+<text top="863" left="107" width="684" height="18" font="2">  The contention that restructuring is involved in cases of apparently transitive </text>
+<text top="886" left="107" width="684" height="18" font="2">dependent ellipsis like (30) is supported empirically by the following observation. As </text>
+<text top="909" left="107" width="685" height="18" font="2">just noted, there appears to be an adjacency requirement on such restructuring. (See, </text>
+<text top="931" left="107" width="684" height="18" font="2">however, Monachesi 2000 for an overview of adverbs in Italian that are allowed inside </text>
+<text top="990" left="107" width="135" height="18" font="2">                              </text>
+<text top="990" left="270" width="51" height="18" font="2">           </text>
+<text top="1024" left="122" width="5" height="10" font="7">8</text>
+<text top="1028" left="127" width="663" height="15" font="4"> Note that similar restructuring must be assumed to take place in some of the determiner sharing cases, </text>
+<text top="1047" left="107" width="318" height="15" font="4">since the elided determiner can be complex, like </text>
+<text top="1047" left="425" width="63" height="15" font="8"><i>too many</i></text>
+<text top="1047" left="488" width="86" height="15" font="4"> in (1a), also </text>
+<text top="1047" left="575" width="77" height="15" font="8"><i>not enough</i></text>
+<text top="1047" left="654" width="7" height="15" font="4">, </text>
+<text top="1047" left="663" width="70" height="15" font="8"><i>how many</i></text>
+<text top="1047" left="732" width="57" height="15" font="4"> (cf. Lin </text>
+<text top="1066" left="107" width="48" height="15" font="4">1999).  </text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">206</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="356" height="18" font="2">restructuring clusters.) Now, normally when </text>
+<text top="222" left="464" width="38" height="18" font="13"><i>want</i></text>
+<text top="222" left="501" width="69" height="18" font="2"> takes a </text>
+<text top="222" left="569" width="14" height="18" font="13"><i>to</i></text>
+<text top="222" left="584" width="208" height="18" font="2">-infinitive as complement, </text>
+<text top="245" left="107" width="255" height="18" font="2">elements can intervene between </text>
+<text top="245" left="361" width="39" height="18" font="13"><i>want</i></text>
+<text top="245" left="399" width="38" height="18" font="2"> and </text>
+<text top="245" left="439" width="21" height="18" font="13"><i> to</i></text>
+<text top="245" left="460" width="116" height="18" font="2">, and between </text>
+<text top="245" left="575" width="21" height="18" font="13"><i>to </i></text>
+<text top="245" left="596" width="140" height="18" font="2">and the infinitive: </text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="414" height="18" font="2">(32)  a.  John wanted desperately to decapitate Fred </text>
+<text top="314" left="107" width="19" height="18" font="2">   </text>
+<text top="314" left="150" width="326" height="18" font="2">b.  Bill wants to quickly hamstring Pierre </text>
+<text top="336" left="107" width="5" height="18" font="2"> </text>
+<text top="360" left="107" width="684" height="18" font="2">In the cases of apparently transitive dependent ellipsis this is no longer possible. All the </text>
+<text top="382" left="107" width="321" height="18" font="2">elided verbal elements must be adjacent: </text>
+<text top="405" left="107" width="5" height="18" font="2"> </text>
+<text top="428" left="107" width="684" height="18" font="2">(33)  a.  John wants to decapitate Fred slowly and Bill  wants to decapitate Pierre </text>
+<text top="451" left="179" width="61" height="18" font="2">quickly </text>
+<text top="473" left="107" width="19" height="18" font="2">   </text>
+<text top="473" left="150" width="641" height="18" font="2">a’.  *John wants to slowly decapitate Fred and Bill  wants to quickly  decapitate </text>
+<text top="497" left="179" width="51" height="18" font="2">Pierre </text>
+<text top="519" left="107" width="19" height="18" font="2">   </text>
+<text top="519" left="150" width="591" height="18" font="2">b.  John will want to decapitate Fred and Bill will want to decapitate Pierre </text>
+<text top="542" left="107" width="19" height="18" font="2">   </text>
+<text top="542" left="150" width="641" height="18" font="2">b’  *John will want not to decapitate Fred and Bill  will want not  to decapitate </text>
+<text top="566" left="179" width="51" height="18" font="2">Pierre </text>
+<text top="588" left="107" width="5" height="18" font="2"> </text>
+<text top="611" left="107" width="685" height="18" font="2">In general, the hypothesis that dependent ellipsis is a nontransitive relation (see (29)) </text>
+<text top="634" left="107" width="684" height="18" font="2">helps explaining McCawley’s (1993) observation that the shared determiner must be </text>
+<text top="657" left="107" width="685" height="18" font="2">initial in its conjunct. This determiner must be the head of a DP that is a direct </text>
+<text top="679" left="107" width="684" height="18" font="2">dependent of the head targeted by coordinate ellipsis, and not a dependent of a </text>
+<text top="703" left="107" width="684" height="18" font="2">dependent. Such a direct dependent will normally be conjunct-initial if the head of the </text>
+<text top="725" left="107" width="684" height="18" font="2">conjunct itself is null. However, there is an environment where a difference with </text>
+<text top="748" left="107" width="684" height="18" font="2">McCawley’s generalization may arise. If in a double object construction both objects </text>
+<text top="771" left="107" width="684" height="18" font="2">are direct dependents of V, then given our hypothesis either or both may have a null </text>
+<text top="794" left="107" width="684" height="18" font="2">head if V undergoes coordinate ellipsis. In case both have a null head, one of these </text>
+<text top="818" left="107" width="684" height="18" font="2">‘shared’ determiners cannot be conjunct initial. In order to rule out the possibly </text>
+<text top="840" left="107" width="685" height="18" font="2">interfering factor of a double-layered VP-shell structure in the double object </text>
+<text top="863" left="107" width="684" height="18" font="2">construction (cf. Larson 1988), we illustrate this prediction with the OV-language </text>
+<text top="886" left="107" width="684" height="18" font="2">Dutch, for which Neeleman &amp; Weerman (1999) have shown that it differs from VO </text>
+<text top="909" left="107" width="684" height="18" font="2">English in not having such a shell structure (both objects are direct dependents of the </text>
+<text top="931" left="107" width="684" height="18" font="2">V head). It turns out that the predicted exception to McCawley’s generalization occurs: </text>
+<text top="955" left="107" width="683" height="18" font="2">the indirect object can be retained in the second conjunct when there is D-sharing </text>
+<text top="977" left="107" width="684" height="18" font="2">between the direct objects, making the 0 head non-conjunct-initial,  see (35a). (See </text>
+<text top="1000" left="107" width="684" height="18" font="2">also footnote 6 for an example from Dutch in which the subject is retained in the </text>
+<text top="1023" left="107" width="684" height="18" font="2">second conjunct while there is object D-sharing). It is even possible to combine </text>
+<text top="1046" left="107" width="521" height="18" font="2">indirect object D-sharing and direct object D-sharing, as in (35b).  </text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">207</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="5" height="18" font="2"> </text>
+<text top="245" left="107" width="495" height="18" font="2">(35)  a.  dat Jan de meisjes teveel cadeautjes gaf en de jongens</text>
+<text top="247" left="602" width="5" height="15" font="4"> </text>
+<text top="245" left="605" width="137" height="18" font="2">teveel fopsigaren </text>
+<text top="267" left="107" width="19" height="18" font="2">   </text>
+<text top="267" left="150" width="5" height="18" font="2"> </text>
+<text top="267" left="178" width="613" height="18" font="2">‘that John the girls too many presents gave and the boys (too many) fake </text>
+<text top="291" left="179" width="55" height="18" font="2">cigars’ </text>
+<text top="314" left="107" width="19" height="18" font="2">   </text>
+<text top="314" left="150" width="580" height="18" font="2">b.  dat Jan teveel meisjes teveel cadeautjes gaf en  teveel jongens</text>
+<text top="316" left="729" width="5" height="15" font="4"> </text>
+<text top="314" left="741" width="50" height="18" font="2">teveel </text>
+<text top="336" left="179" width="84" height="18" font="2">fopsigaren </text>
+<text top="360" left="107" width="5" height="18" font="2"> </text>
+<text top="382" left="107" width="684" height="18" font="2">So the hypothesis that all direct dependents of the head that has undergone coordinate </text>
+<text top="405" left="107" width="684" height="18" font="2">ellipsis can be targeted by dependent ellipsis, while at the same time the 0 heads thus </text>
+<text top="428" left="107" width="685" height="18" font="2">produced do not themselves turn into licensers for further dependent ellipsis, does not </text>
+<text top="451" left="107" width="685" height="18" font="2">only adequately account for the cases falling under McCawley’s generalization, but </text>
+<text top="473" left="107" width="685" height="18" font="2">even seems to fare better with regards to some possible exceptions to it. In the next </text>
+<text top="497" left="107" width="684" height="18" font="2">subsection we will point out that the hypothesis that dependent ellipsis is not a </text>
+<text top="519" left="107" width="514" height="18" font="2">transitive relation has a number of other favorable consequences. </text>
+<text top="542" left="107" width="5" height="18" font="2"> </text>
+<text top="566" left="107" width="24" height="18" font="3"><b>4.2</b></text>
+<text top="565" left="132" width="6" height="18" font="5"><b> </b></text>
+<text top="566" left="140" width="599" height="18" font="3"><b>Further empirical evidence for the nontransitivity of dependent ellipsis </b></text>
+<text top="588" left="107" width="5" height="18" font="2"> </text>
+<text top="611" left="107" width="684" height="18" font="2">In the previous subsection we accounted for the impossibility of object D-sharing in </text>
+<text top="634" left="107" width="684" height="18" font="2">certain contexts by hypothesizing that  the possibility of licensing a 0 head in a </text>
+<text top="657" left="107" width="684" height="18" font="2">dependent is not a property that can be transferred from the coordinated 0 head to a </text>
+<text top="679" left="107" width="685" height="18" font="2">dependent 0 head itself. We will now show that this hypothesis accounts for a number </text>
+<text top="703" left="107" width="650" height="18" font="2">of other observations as well, some of them originally made by McCawley (1993). </text>
+<text top="725" left="127" width="665" height="18" font="2">First, in the case of coordinate V ellipsis, D-sharing should be impossible if the DP </text>
+<text top="748" left="107" width="685" height="18" font="2">is the complement to a P. However, in case we are dealing with a complement PP </text>
+<text top="771" left="107" width="684" height="18" font="2">rather than an adjunct, P-sharing should be possible. This is correct, as exemplified in </text>
+<text top="794" left="107" width="47" height="18" font="2">(36a).</text>
+<text top="789" left="153" width="7" height="12" font="12">9</text>
+<text top="794" left="160" width="632" height="18" font="2"> Now, crucially, a ‘shared’ P, being null only because of dependent ellipsis, </text>
+<text top="818" left="107" width="685" height="18" font="2">cannot in turn license dependent ellipsis of the head of its complement DP. Indeed, </text>
+<text top="840" left="107" width="684" height="18" font="2">(36b) is impossible. Note that if we have coordinate ellipsis in a coordination of two </text>
+<text top="863" left="107" width="222" height="18" font="2">PPs, the coordinate 0 head </text>
+<text top="863" left="329" width="53" height="18" font="13"><i>should</i></text>
+<text top="863" left="381" width="411" height="18" font="2"> be able to license dependent ellipsis of the head of </text>
+<text top="886" left="107" width="684" height="18" font="2">its complement, so that in this case D-sharing should be possible. This is correct as </text>
+<text top="930" left="107" width="135" height="18" font="2">                              </text>
+<text top="930" left="270" width="51" height="18" font="2">           </text>
+<text top="964" left="122" width="5" height="10" font="7">9</text>
+<text top="968" left="127" width="423" height="15" font="4"> Such cases do not involve coordination of a possible constituent </text>
+<text top="968" left="551" width="144" height="15" font="8"><i>all magazines with X</i></text>
+<text top="968" left="694" width="97" height="15" font="4">  below the P. </text>
+<text top="989" left="107" width="684" height="15" font="4">Apart from it being unclear that this can  be a constituent (but see Larson 1985 for discussion), this is </text>
+<text top="1008" left="107" width="375" height="15" font="4">indicated by the fact that the first member of the serializer </text>
+<text top="1008" left="482" width="66" height="15" font="8"><i>either...or</i></text>
+<text top="1008" left="549" width="241" height="15" font="4">, which arguably always indicates the </text>
+<text top="1028" left="107" width="683" height="15" font="4">left edge of the coordination at surface structure (see Hudson 1976 and Schwarz 1999) can precede the </text>
+<text top="1047" left="107" width="101" height="15" font="4">V-P sequence: </text>
+<text top="1047" left="213" width="572" height="15" font="8"><i>John either talked about all magazines with Jessica or all newspapers with Jane</i></text>
+<text top="1047" left="786" width="5" height="15" font="4"> </text>
+<text top="1066" left="107" width="114" height="15" font="4">(compare with ?*</text>
+<text top="1066" left="219" width="546" height="15" font="8"><i>John talked about either all magazines with Jessica or all newspapers with Jane</i></text>
+<text top="1066" left="766" width="15" height="15" font="4">). </text>
+</page>
+<page number="20" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">208</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">well, as shown in (36c). In (37) we replicate the argument for the OV-language Dutch: </text>
+<text top="245" left="107" width="685" height="18" font="2">(37a) is P-sharing between complement PPs in a coordinate V ellipsis structure, (37b) </text>
+<text top="267" left="107" width="685" height="18" font="2">shows that dependent D-ellipsis into the DP-complement of the PP-complement is </text>
+<text top="291" left="107" width="685" height="18" font="2">impossible, whereas (37c) shows that such D-ellipsis  is possible in a coordinate P </text>
+<text top="314" left="107" width="135" height="18" font="2">ellipsis structure. </text>
+<text top="336" left="158" width="5" height="18" font="2"> </text>
+<text top="360" left="107" width="684" height="18" font="2">(36)  a.  John talked about all magazines with Jessica and talked about all newspapers </text>
+<text top="382" left="179" width="79" height="18" font="2">with Jane </text>
+<text top="405" left="149" width="642" height="18" font="2">b.  ?*  John talked about all magazines with Jessica and  talked about all </text>
+<text top="428" left="210" width="176" height="18" font="2">newspapers with Jane </text>
+<text top="451" left="107" width="19" height="18" font="2">   </text>
+<text top="451" left="150" width="563" height="18" font="2">c.  John talked about all magazines and about all newspapers with Jane </text>
+<text top="473" left="107" width="5" height="18" font="2"> </text>
+<text top="497" left="107" width="606" height="18" font="2">(37)  a.  dat Marie over alle problemen nadenkt en over alle puzzels nadenkt </text>
+<text top="519" left="107" width="19" height="18" font="2">   </text>
+<text top="519" left="150" width="5" height="18" font="2"> </text>
+<text top="519" left="178" width="538" height="18" font="13"><i>that Mary about all problems thinks and (about) all puzzles (thinks)</i></text>
+<text top="519" left="717" width="5" height="18" font="2"> </text>
+<text top="542" left="107" width="19" height="18" font="2">   </text>
+<text top="542" left="150" width="5" height="18" font="2"> </text>
+<text top="542" left="178" width="416" height="18" font="2">‘that Mary thinks about all problems and all puzzles’ </text>
+<text top="566" left="107" width="19" height="18" font="2">   </text>
+<text top="566" left="150" width="581" height="18" font="2">b.  ?*dat Marie over alle problemen nadenkt en over alle puzzels nadenkt </text>
+<text top="588" left="107" width="19" height="18" font="2">   </text>
+<text top="588" left="150" width="529" height="18" font="2">c.  dat Marie over alle problemen en ook over alle puzzels nadenkt </text>
+<text top="611" left="107" width="5" height="18" font="2"> </text>
+<text top="634" left="107" width="684" height="18" font="2">Second, McCawley (1993) observes that the shared constituent must be in (what we </text>
+<text top="657" left="107" width="684" height="18" font="2">term) the D position, it cannot be lower. For example, it cannot be in an A head below </text>
+<text top="679" left="107" width="23" height="18" font="2">D: </text>
+<text top="703" left="107" width="5" height="18" font="2"> </text>
+<text top="725" left="107" width="588" height="18" font="2">(38)  a.  Italy’s red wines are outstanding and Italy’s white wines excellent </text>
+<text top="748" left="107" width="19" height="18" font="2">   </text>
+<text top="748" left="150" width="554" height="18" font="2">b.  *Italian red wines are outstanding and Italian white wines excellent </text>
+<text top="771" left="107" width="5" height="18" font="2"> </text>
+<text top="794" left="107" width="685" height="18" font="2">Likewise, McCawley observes that the whole determiner must be shared; a determiner </text>
+<text top="818" left="107" width="642" height="18" font="2">within a larger determiner cannot be shared, see (39). This too follows from (29). </text>
+<text top="840" left="107" width="5" height="18" font="2"> </text>
+<text top="863" left="107" width="684" height="18" font="2">(39)  a.  Martha Washington, whose honesty was legendary and  whose courage  was </text>
+<text top="886" left="179" width="316" height="18" font="2">justly famous, was a remarkable person </text>
+<text top="909" left="107" width="684" height="18" font="2">  b.  ??Martha Washington, whose husband’s honesty was legendary and  whose </text>
+<text top="931" left="149" width="541" height="18" font="2">father’s courage was justly famous, was herself a remarkable person </text>
+<text top="955" left="107" width="5" height="18" font="2"> </text>
+<text top="977" left="107" width="684" height="18" font="2">Finally, the constraint correctly predicts that in coordinate D-sharing constructions no </text>
+<text top="1000" left="107" width="684" height="18" font="2">further N-sharing is possible. There can be no transitive chain of licensing relations </text>
+<text top="1023" left="107" width="433" height="18" font="2">between  0-T and 0-D and then between 0-D and 0-N: </text>
+<text top="1046" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="21" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">209</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">(40)  *Too many old setters are named Kelly and  too many young  setters are named </text>
+<text top="245" left="149" width="52" height="18" font="2">Tony. </text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="684" height="18" font="2">Note that such examples do appear to have a permissible derivation under a </text>
+<text top="314" left="107" width="684" height="18" font="2">Lin/Johnson style analysis, by across the board N-to-D movement of the Ns in both </text>
+<text top="336" left="107" width="254" height="18" font="2">conjuncts in a structure like (2). </text>
+<text top="360" left="127" width="250" height="18" font="2">Given our reasoning, N-sharing </text>
+<text top="360" left="378" width="14" height="18" font="13"><i>is</i></text>
+<text top="360" left="393" width="398" height="18" font="2"> predicted to be possible when the 0-D head in the </text>
+<text top="382" left="107" width="685" height="18" font="2">second conjunct is not 0 by dependent ellipsis but is the coordinate 0 head itself. </text>
+<text top="405" left="107" width="118" height="18" font="2">Consider (41). </text>
+<text top="428" left="107" width="5" height="18" font="2"> </text>
+<text top="451" left="107" width="33" height="18" font="2">(41)</text>
+<text top="451" left="140" width="5" height="18" font="13"><i> </i></text>
+<text top="451" left="150" width="478" height="18" font="2">Jane saw too many boys with white wine and with red wine. </text>
+<text top="473" left="107" width="5" height="18" font="2"> </text>
+<text top="497" left="107" width="684" height="18" font="2">This example of course can be analyzed as involving PP-coordination below the N </text>
+<text top="519" left="107" width="36" height="18" font="13"><i>boys</i></text>
+<text top="519" left="143" width="648" height="18" font="2">. This gives a reading in which Jane saw too many boys who had both white wine </text>
+<text top="542" left="107" width="684" height="18" font="2">and red wine. However, the example also has a reading in which Jane saw both too </text>
+<text top="566" left="107" width="685" height="18" font="2">many boys with white wine and too many boys with red wine. This reading must </text>
+<text top="588" left="107" width="679" height="18" font="2">involve DP-coordination (with D-ellipsis) under V, hence it must indeed involve N-</text>
+<text top="611" left="107" width="300" height="18" font="2">sharing (dependent N-ellipsis) as well. </text>
+<text top="634" left="107" width="5" height="18" font="2"> </text>
+<text top="657" left="107" width="49" height="18" font="2">(42)  [</text>
+<text top="665" left="155" width="16" height="12" font="12">TP</text>
+<text top="657" left="172" width="57" height="18" font="2"> Jane [</text>
+<text top="665" left="228" width="16" height="12" font="12">VP</text>
+<text top="657" left="245" width="53" height="18" font="2"> saw [</text>
+<text top="665" left="297" width="17" height="12" font="12">DP</text>
+<text top="657" left="315" width="14" height="18" font="2">  [</text>
+<text top="665" left="329" width="9" height="12" font="12">D</text>
+<text top="657" left="339" width="106" height="18" font="2"> too many] [</text>
+<text top="665" left="443" width="17" height="12" font="12">NP</text>
+<text top="657" left="461" width="240" height="18" font="2"> boys with white wine] and [</text>
+<text top="665" left="699" width="14" height="12" font="12">0P</text>
+<text top="657" left="712" width="44" height="18" font="2"> [0] [</text>
+<text top="665" left="756" width="14" height="12" font="12">0P</text>
+<text top="657" left="771" width="21" height="18" font="2"> 0 </text>
+<text top="679" left="149" width="144" height="18" font="2">with red wine]]]]] </text>
+<text top="703" left="107" width="5" height="18" font="2"> </text>
+<text top="725" left="107" width="679" height="18" font="2">Interestingly, it is predicted that (41) cannot involve VP -coordination (let alone TP-</text>
+<text top="748" left="107" width="684" height="18" font="2">coordination), since  in that case the dependent N-ellipsis would no longer be licensed </text>
+<text top="771" left="107" width="685" height="18" font="2">by the 0-D, which in that case could be 0 itself only by dependent ellipsis (as in (43a)); </text>
+<text top="794" left="107" width="252" height="18" font="2">(43b) shows that this is correct. </text>
+<text top="818" left="107" width="5" height="18" font="2"> </text>
+<text top="840" left="107" width="684" height="18" font="2">(43)  a.  ?Jane saw too many boys with white wine through her binoculars and  saw </text>
+<text top="863" left="179" width="412" height="18" font="2">too  many girls with red wine through her eyeglasses </text>
+<text top="886" left="149" width="642" height="18" font="2">b.  ?*Jane saw too many boys with white wine through her binoculars and  saw </text>
+<text top="909" left="179" width="415" height="18" font="2">too many boys with red wine through her eyeglasses </text>
+<text top="931" left="107" width="5" height="18" font="2"> </text>
+<text top="955" left="107" width="5" height="18" font="2"> </text>
+<text top="977" left="107" width="10" height="18" font="3"><b>5</b></text>
+<text top="977" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="977" left="123" width="668" height="18" font="3"><b>Further empirical advantages of the analysis: the independence of D-sharing </b></text>
+<text top="1000" left="123" width="123" height="18" font="3"><b>and T-sharing </b></text>
+<text top="1023" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="22" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">210</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">It seems to us the analysis of D-sharing in terms of dependent ellipsis argued for above </text>
+<text top="245" left="107" width="684" height="18" font="2">is conceptually attractive compared to its alternative: it maintains the Coordinate </text>
+<text top="267" left="107" width="684" height="18" font="2">Structure Constraint and the ban on phrase-to-head movement as general conditions </text>
+<text top="291" left="107" width="684" height="18" font="2">on movement, and it reduces the phenomenon to an instance of a more general </text>
+<text top="314" left="107" width="685" height="18" font="2">phenomenon (it is analyzed as any other case of apparent ‘nonconstituent gapping’, </text>
+<text top="336" left="107" width="685" height="18" font="2">using Williams’s (1997) analysis of these). Empirically speaking, it is adequate as well, </text>
+<text top="360" left="107" width="684" height="18" font="2">as we hope to have shown in sections 3 and 4. In fact, there are a couple of empirical </text>
+<text top="382" left="107" width="476" height="18" font="2">advantages, besides those already pointed out in section 4.2. </text>
+<text top="405" left="107" width="685" height="18" font="2">As noted in section 1, the Johnson/Lin analysis predicts that D-sharing will never be </text>
+<text top="428" left="107" width="684" height="18" font="2">possible without there being T-sharing (T gapping in the second conjunct) as well: the </text>
+<text top="451" left="107" width="684" height="18" font="2">D above the coordination is below T. (This is under the assumption of a universal </text>
+<text top="473" left="107" width="684" height="18" font="2">functional hierarchy; if it is assumed that D can be generated in any position </text>
+<text top="497" left="107" width="685" height="18" font="2">throughout the verbal extended projection no such prediction is made). As it turns out, </text>
+<text top="519" left="107" width="685" height="18" font="2">however, T-gapping is not always necessary for D-sharing to be possible. Moreover, </text>
+<text top="542" left="107" width="665" height="18" font="2">the examples in which this occurs are predicted to be possible by the analysis above. </text>
+<text top="566" left="107" width="684" height="18" font="2">  Consider CP-coordinations with wh-movement to spec-CP. A coordinate 0-C is </text>
+<text top="588" left="107" width="684" height="18" font="2">predicted to license subject D-sharing, without T-gapping being necessary, in case the </text>
+<text top="611" left="107" width="685" height="18" font="2">subject undergoes wh-movement. After all, it is the surface position of the constituent </text>
+<text top="634" left="107" width="685" height="18" font="2">whose head is targeted by dependent ellipsis that counts, and a wh-moved constituent </text>
+<text top="657" left="107" width="684" height="18" font="2">in spec-CP is a dependent of C. This prediction is correct, as (44) (from McCawley </text>
+<text top="679" left="107" width="145" height="18" font="2">1993: 245) shows.</text>
+<text top="678" left="252" width="10" height="10" font="7">10</text>
+<text top="679" left="262" width="5" height="18" font="2"> </text>
+<text top="703" left="107" width="686" height="18" font="2">(44)  I began to wonder how many paintings will never be seen, how many songs will </text>
+<text top="725" left="149" width="642" height="18" font="2">never be heard, and how many books will never be read because of wars yet to </text>
+<text top="748" left="149" width="46" height="18" font="2">come </text>
+<text top="774" left="107" width="135" height="18" font="2">                              </text>
+<text top="774" left="270" width="51" height="18" font="2">           </text>
+<text top="808" left="122" width="11" height="10" font="7">10</text>
+<text top="812" left="133" width="656" height="15" font="4"> Jonathan Bobaljik (p.c.) notes that the following is at least as acceptable as (44), which would seem </text>
+<text top="831" left="107" width="617" height="15" font="4">to constitute a problem for our earlier assumption that verbs can only restructure when adjacent: </text>
+<text top="851" left="122" width="662" height="15" font="4">(i)  I began to wonder how many paintings will never be seen, how many songs will never be heard, ... </text>
+<text top="870" left="107" width="357" height="15" font="4">The problem is that, as (i) involves CP -coordination, </text>
+<text top="870" left="467" width="25" height="15" font="8"><i>will</i></text>
+<text top="870" left="492" width="299" height="15" font="4"> in the second conjunct can only be null by </text>
+<text top="890" left="107" width="493" height="15" font="4">dependent ellipsis, but then it should not license further dependent ellipsis of </text>
+<text top="890" left="600" width="15" height="15" font="8"><i>be</i></text>
+<text top="890" left="615" width="175" height="15" font="4">. Only if the two verbs can </text>
+<text top="910" left="107" width="683" height="15" font="4">restructure should (i) be possible, since in that case dependent ellipsis can target the complex head. The </text>
+<text top="929" left="107" width="683" height="15" font="4">question, then, is why the intervening adverb does not block this restructuring. We propose that in the </text>
+<text top="949" left="107" width="682" height="15" font="4">second conjunct the adverb is actually in front of the elided auxiliary. In general,  it is possible in </text>
+<text top="968" left="107" width="684" height="15" font="4">constructions involving ellipsis to switch an aux-adverb order in the first conjunct to adverb-aux in the </text>
+<text top="989" left="107" width="246" height="15" font="4">second (cf. Abels 2001, Lasnik 2001): </text>
+<text top="1008" left="122" width="407" height="15" font="4">(ii)  John will never have an argument while Harry always will  </text>
+<text top="1028" left="107" width="683" height="15" font="4">This does not interfere with the evidence we gave earlier to show that intervening adverbs block </text>
+<text top="1047" left="107" width="452" height="15" font="4">restructuring, since the adverbs used there cannot undergo this switch: </text>
+<text top="1066" left="122" width="380" height="15" font="4">(iii)  *John will slowly eat his pasta while Harry quickly will </text>
+</page>
+<page number="23" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">211</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="149" width="32" height="18" font="2">... [</text>
+<text top="229" left="179" width="15" height="12" font="12">CP</text>
+<text top="222" left="195" width="14" height="18" font="2">  [</text>
+<text top="229" left="209" width="19" height="12" font="12">DP </text>
+<text top="222" left="232" width="7" height="18" font="2">[</text>
+<text top="229" left="239" width="9" height="12" font="12">D</text>
+<text top="222" left="249" width="219" height="18" font="2"> how many] paintings] C [</text>
+<text top="229" left="465" width="16" height="12" font="12">TP</text>
+<text top="222" left="482" width="13" height="18" font="2">  t</text>
+<text top="229" left="495" width="16" height="12" font="12">DP</text>
+<text top="222" left="512" width="190" height="18" font="2"> will never be seen]], [</text>
+<text top="229" left="700" width="14" height="12" font="12">0P</text>
+<text top="222" left="713" width="14" height="18" font="2">  [</text>
+<text top="229" left="728" width="18" height="12" font="12">0P </text>
+<text top="222" left="747" width="7" height="18" font="2">[</text>
+<text top="229" left="754" width="9" height="12" font="12">D</text>
+<text top="222" left="764" width="28" height="18" font="2"> 0] </text>
+<text top="245" left="149" width="78" height="18" font="2">songs] 0 [</text>
+<text top="253" left="225" width="16" height="12" font="12">TP</text>
+<text top="245" left="242" width="26" height="18" font="2"> ... </text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="685" height="18" font="2">In fact, it should not matter whether it is the subject or the object (or another </text>
+<text top="314" left="107" width="684" height="18" font="2">constituent) which is in spec-CP, as the phrase is a dependent of C in this position </text>
+<text top="336" left="107" width="685" height="18" font="2">anyway. Indeed, object D-sharing between wh-moved objects in a coordinate [C,0]P </text>
+<text top="360" left="107" width="222" height="18" font="2">structure is possible as well: </text>
+<text top="382" left="107" width="5" height="18" font="2"> </text>
+<text top="405" left="107" width="685" height="18" font="2">(45)  I began to wonder how many paintings I would never see,  how many songs I </text>
+<text top="428" left="149" width="644" height="18" font="2">would never hear and how many books I would never read because of wars yet </text>
+<text top="451" left="149" width="68" height="18" font="2">to come </text>
+<text top="473" left="107" width="5" height="18" font="2"> </text>
+<text top="497" left="107" width="685" height="18" font="2">Note that we must indeed be dealing with coordinate C ellipsis here, rather than just </text>
+<text top="519" left="107" width="684" height="18" font="2">PF-deletion or non-spelling-out of the complementizer in the second conjunct because </text>
+<text top="542" left="107" width="685" height="18" font="2">of the doubly filled comp filter (DFCF), like in the first conjunct. A complementizer </text>
+<text top="566" left="107" width="685" height="18" font="2">that only fails to be spelled out, rather than being a 0 head in syntax itself, is not </text>
+<text top="588" left="107" width="685" height="18" font="2">expected to license dependent ellipsis, and indeed it does not, as (46), which does not </text>
+<text top="611" left="107" width="228" height="18" font="2">involve coordination, shows. </text>
+<text top="634" left="107" width="5" height="18" font="2"> </text>
+<text top="657" left="107" width="600" height="18" font="2">(46)  *How many girls wonder how many boys will forget their bus tickets.  </text>
+<text top="679" left="107" width="5" height="18" font="2"> </text>
+<text top="703" left="107" width="685" height="18" font="2">Interestingly, in colloquial variants of Dutch the DFCF can be violated, so C need not </text>
+<text top="725" left="107" width="679" height="18" font="2">be empty in cases of wh-movement. Nevertheless, in cases of D-sharing between wh-</text>
+<text top="748" left="107" width="684" height="18" font="2">moved constituents C is obligatorily empty here as well, showing that indeed the </text>
+<text top="771" left="107" width="592" height="18" font="2">coordinate 0-C is the licenser of dependent D-ellipsis in this case. See (47). </text>
+<text top="794" left="107" width="5" height="18" font="2"> </text>
+<text top="818" left="107" width="685" height="18" font="2">(47)  a.  Ik vroeg me af hoeveel schilderijen (of) ik ooit zou zien, hoeveel liedjes (of) </text>
+<text top="840" left="179" width="458" height="18" font="2">ik ooit zou horen en hoeveel boeken (of) ik ooit zou lezen </text>
+<text top="863" left="179" width="613" height="18" font="13"><i>I wondered how many paintings (if) I ever would  see, how many songs (if) </i></text>
+<text top="886" left="179" width="489" height="18" font="13"><i>I ever would hear and how many books (if) I ever would read</i></text>
+<text top="886" left="668" width="18" height="18" font="2">   </text>
+<text top="886" left="710" width="5" height="18" font="2"> </text>
+<text top="909" left="107" width="19" height="18" font="2">   </text>
+<text top="909" left="150" width="643" height="18" font="2">b.  Ik vroeg me af hoeveel schilderijen (of) ik ooit zou zien,  hoeveel liedjes </text>
+<text top="931" left="179" width="530" height="18" font="2">(?*of) ik ooit zou horen en hoeveel boeken (?*of) ik ooit zou lezen </text>
+<text top="955" left="107" width="5" height="16" font="9"> </text>
+<text top="976" left="107" width="684" height="18" font="2">Like dependent ellipsis of the head of its specifier, a coordinate 0-C head should </text>
+<text top="999" left="107" width="685" height="18" font="2">license dependent ellipsis of the head of its complement. So dependent T-ellipsis, i.e. </text>
+<text top="1022" left="107" width="684" height="18" font="2">T-sharing, should be possible in a [C,0]P coordination. Contrary to this, the </text>
+<text top="1045" left="107" width="679" height="18" font="2">Johnson/Lin approach predicts that T-sharing should be impossible in a CP-</text>
+</page>
+<page number="24" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">212</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="684" height="18" font="2">coordination. Just like D-sharing should be impossible without T-sharing because D is </text>
+<text top="245" left="107" width="685" height="18" font="2">below T, T-sharing should be impossible without C-sharing because T is below C. </text>
+<text top="267" left="107" width="685" height="18" font="2">Indeed, Lin (2000) states that T-gapping in two conjoined CPs is impossible. </text>
+<text top="291" left="107" width="684" height="18" font="2">However, the following are possible, indicating that dependent T ellipsis in the </text>
+<text top="314" left="107" width="259" height="18" font="2">complement of a 0 C is possible: </text>
+<text top="336" left="107" width="5" height="18" font="2"> </text>
+<text top="360" left="107" width="272" height="18" font="2">(48)  a.  The temple of Dagon, [</text>
+<text top="368" left="376" width="16" height="12" font="12">CP</text>
+<text top="360" left="393" width="323" height="18" font="2"> whose exterior is seen in act I] and [</text>
+<text top="368" left="711" width="16" height="12" font="12">CP</text>
+<text top="360" left="728" width="63" height="18" font="2"> whose </text>
+<text top="382" left="179" width="493" height="18" font="2">interior is destroyed in act III], is a major feature of the opera. </text>
+<text top="405" left="149" width="464" height="18" font="2">b.  Dat is Jan, wiens vader gek is en wiens moeder ziek is. </text>
+<text top="428" left="158" width="5" height="18" font="2"> </text>
+<text top="428" left="178" width="442" height="18" font="13"><i>that is John, whose father mad is and whose mother ill </i></text>
+<text top="451" left="158" width="5" height="16" font="9"> </text>
+<text top="472" left="107" width="686" height="18" font="2">What should be impossible, given the nontransitivity of dependent ellipsis, is V-ellipsis </text>
+<text top="496" left="107" width="685" height="18" font="2">in this case. However, T-V reanalysis might interfere here, as argued in section 4. If </text>
+<text top="518" left="107" width="686" height="18" font="2">an intervening adverb blocks reanalysis, however, (49) shows that, indeed, V-ellipsis is </text>
+<text top="541" left="107" width="259" height="18" font="2">impossible in a CP-coordination. </text>
+<text top="564" left="107" width="5" height="18" font="2"> </text>
+<text top="587" left="107" width="684" height="18" font="2">(49)  *The temple of Dagon, whose exterior is quickly demolished in act I and whose </text>
+<text top="609" left="149" width="216" height="18" font="2">interior slowly in act III, ... </text>
+<text top="633" left="107" width="5" height="18" font="2"> </text>
+<text top="656" left="107" width="683" height="18" font="2">In an OV-language like Dutch, where the adverb does not intervene and restructuring </text>
+<text top="678" left="107" width="685" height="18" font="2">(verb cluster formation) can and does take place here, such examples are (more or </text>
+<text top="702" left="107" width="131" height="18" font="2">less) acceptable: </text>
+<text top="724" left="107" width="5" height="18" font="2"> </text>
+<text top="748" left="107" width="684" height="18" font="2">(50)  ?Dat is Klaas, wiens broer per ongeluk zijn buskaartje heeft kwijtgemaakt en </text>
+<text top="770" left="149" width="316" height="18" font="2">wiens zuster opzettelijk haar haardroger </text>
+<text top="793" left="107" width="19" height="18" font="2">   </text>
+<text top="793" left="150" width="641" height="18" font="13"><i>that is Klaas, whose brother by accident his bus ticket has lost and whose </i></text>
+<text top="816" left="149" width="254" height="18" font="13"><i>sister on purpose her hairdryer </i></text>
+<text top="839" left="107" width="5" height="18" font="2"> </text>
+<text top="861" left="107" width="684" height="18" font="2">That the dependent T-ellipsis in cases like (48) is indeed dependent, i.e. licensed by a </text>
+<text top="885" left="107" width="685" height="18" font="2">coordinate 0-C head, can again be shown by minimal pairs in which C is overt or </text>
+<text top="908" left="107" width="684" height="18" font="2">empty. In (48) it is impossible to have an overt C because of the DFCF (in Dutch as </text>
+<text top="930" left="107" width="685" height="18" font="2">well, where the DFCF can be violated in complement clauses but not in relatives). </text>
+<text top="954" left="107" width="342" height="18" font="2">However, consider the following examples. </text>
+<text top="976" left="107" width="5" height="18" font="2"> </text>
+<text top="999" left="107" width="684" height="18" font="2">(51)  a.  That the Earth revolves around the Sun and (that) the Moon revolves around </text>
+<text top="1022" left="179" width="311" height="18" font="2">the Earth are two well established facts </text>
+</page>
+<page number="25" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">213</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="19" height="18" font="2">   </text>
+<text top="222" left="150" width="641" height="18" font="2">b.  That the Earth revolves around the Sun and (*that) the Moon around the </text>
+<text top="245" left="179" width="281" height="18" font="2">Earth are two well established facts </text>
+<text top="267" left="107" width="19" height="18" font="2">   </text>
+<text top="267" left="150" width="641" height="18" font="2">c.  That the Earth revolves around the Sun and the Moon around the Earth is a </text>
+<text top="291" left="179" width="161" height="18" font="2">well established fact </text>
+<text top="314" left="107" width="684" height="18" font="2">The difference between (51a) and (51b) shows that gapping of the tensed verb is </text>
+<text top="336" left="107" width="684" height="18" font="2">indeed dependent, namely on coordinate C-ellipsis: if C is not elided, T cannot be </text>
+<text top="360" left="107" width="684" height="18" font="2">elided either. This accounts for Neijt’s (1979) observation that you cannot gap into </text>
+<text top="382" left="107" width="684" height="18" font="2">finite clauses. In fact, you can, but only if the complementizer is elided by coordinate </text>
+<text top="405" left="107" width="684" height="18" font="2">ellipsis. This often makes the structure similar to one which involves TP-coordination </text>
+<text top="428" left="107" width="684" height="18" font="2">below C rather than CP-coordination, but this is not the case in (51b): the plural </text>
+<text top="451" left="107" width="196" height="18" font="2">agreement on the verb </text>
+<text top="451" left="309" width="25" height="18" font="13"><i>are</i></text>
+<text top="451" left="335" width="451" height="18" font="2"> indicates that the subject clause consists of a (CP)-</text>
+<text top="473" left="107" width="685" height="18" font="2">coordination here and not of a single CP (containing an internal TP-coordination). </text>
+<text top="497" left="107" width="684" height="18" font="2">Compare (51b) with (51c), which shows a case of a [T,0]P coordination below C. In </text>
+<text top="519" left="107" width="684" height="18" font="2">short, (51b) shows that dependent T-gapping is possible in coordinate CPs, provided </text>
+<text top="542" left="107" width="151" height="18" font="2">there is C gapping. </text>
+<text top="566" left="107" width="685" height="18" font="2">  Interestingly, because in (51b) T in the second conjunct is only 0 by dependent </text>
+<text top="588" left="107" width="684" height="18" font="2">ellipsis, rather than by coordinate ellipsis, it should not now license dependent D </text>
+<text top="611" left="107" width="685" height="18" font="2">ellipsis in its specifier (given the nontransitivity of dependent ellipsis). In other words, </text>
+<text top="634" left="107" width="685" height="18" font="2">subject D-sharing should be impossible in this case. In (52) it is shown that this </text>
+<text top="657" left="107" width="684" height="18" font="2">prediction is borne out (so not only are there contexts in which D-sharing is possible </text>
+<text top="679" left="107" width="685" height="18" font="2">without T-sharing, as discussed above, there are also contexts in which T-sharing is </text>
+<text top="703" left="107" width="239" height="18" font="2">possible but D-sharing is not). </text>
+<text top="725" left="107" width="5" height="18" font="2"> </text>
+<text top="748" left="107" width="684" height="18" font="2">(52)  ?*The two most important results of the questionnaire are, that too many </text>
+<text top="771" left="149" width="518" height="18" font="2">sopranos eat at home and that too many tenors eat in a restaurant </text>
+<text top="794" left="107" width="19" height="18" font="2">   </text>
+<text top="794" left="150" width="23" height="18" font="2">* [</text>
+<text top="802" left="172" width="16" height="12" font="12">CP</text>
+<text top="794" left="188" width="13" height="18" font="2"> [</text>
+<text top="802" left="201" width="9" height="12" font="12">C</text>
+<text top="794" left="210" width="53" height="18" font="2"> that] [</text>
+<text top="802" left="264" width="16" height="12" font="12">TP</text>
+<text top="794" left="281" width="12" height="18" font="2"> [</text>
+<text top="802" left="293" width="17" height="12" font="12">DP</text>
+<text top="794" left="311" width="12" height="18" font="2"> [</text>
+<text top="802" left="323" width="9" height="12" font="12">D</text>
+<text top="794" left="332" width="324" height="18" font="2"> too many] sopranos] eat at home]] and [</text>
+<text top="802" left="656" width="14" height="12" font="12">0P</text>
+<text top="794" left="671" width="11" height="18" font="2"> [</text>
+<text top="802" left="682" width="9" height="12" font="12">C</text>
+<text top="794" left="691" width="34" height="18" font="2"> 0] [</text>
+<text top="802" left="725" width="14" height="12" font="12">0P</text>
+<text top="794" left="739" width="12" height="18" font="2"> [</text>
+<text top="802" left="750" width="14" height="12" font="12">0P</text>
+<text top="794" left="765" width="12" height="18" font="2"> [</text>
+<text top="802" left="777" width="9" height="12" font="12">D</text>
+<text top="794" left="786" width="5" height="18" font="2"> </text>
+<text top="818" left="149" width="509" height="18" font="2">0] tenors] 0 in a restaurant]]  ((29) forbids 0-0-0 licensing chain) </text>
+<text top="840" left="107" width="5" height="18" font="2"> </text>
+<text top="863" left="107" width="336" height="18" font="2">Compare this with the case in which there </text>
+<text top="863" left="444" width="14" height="18" font="13"><i>is</i></text>
+<text top="863" left="459" width="332" height="18" font="2"> a [T,0]P-coordination below C, indicated </text>
+<text top="886" left="107" width="685" height="18" font="2">by singular agreement. Now dependent D-ellipsis is possible again, as predicted (it is </text>
+<text top="909" left="107" width="296" height="18" font="2">licensed by the coordinate 0-T head): </text>
+<text top="931" left="107" width="5" height="18" font="2"> </text>
+<text top="955" left="107" width="685" height="18" font="2">(53)  The most important result of the questionnaire is that too many sopranos eat at </text>
+<text top="977" left="149" width="365" height="18" font="2">home and too many tenors eat in a restaurant. </text>
+<text top="1000" left="107" width="19" height="18" font="2">   </text>
+<text top="1000" left="150" width="7" height="18" font="2">[</text>
+<text top="1008" left="155" width="16" height="12" font="12">CP</text>
+<text top="1000" left="172" width="13" height="18" font="2"> [</text>
+<text top="1008" left="186" width="9" height="12" font="12">C</text>
+<text top="1000" left="194" width="57" height="18" font="2"> that] [</text>
+<text top="1008" left="250" width="15" height="12" font="12">TP</text>
+<text top="1000" left="266" width="13" height="18" font="2"> [</text>
+<text top="1008" left="279" width="17" height="12" font="12">DP</text>
+<text top="1000" left="296" width="13" height="18" font="2"> [</text>
+<text top="1008" left="309" width="9" height="12" font="12">D</text>
+<text top="1000" left="320" width="324" height="18" font="2"> too many] sopranos] eat at home] and [</text>
+<text top="1008" left="642" width="14" height="12" font="12">0P</text>
+<text top="1000" left="657" width="12" height="18" font="2"> [</text>
+<text top="1008" left="669" width="13" height="12" font="12">0P</text>
+<text top="1000" left="683" width="12" height="18" font="2"> [</text>
+<text top="1008" left="695" width="9" height="12" font="12">D</text>
+<text top="1000" left="705" width="87" height="18" font="2"> 0] tenors] </text>
+<text top="1023" left="149" width="144" height="18" font="2">0 in a restaurant]] </text>
+<text top="1046" left="107" width="5" height="18" font="2"> </text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="107" width="22" height="15" font="4">214</text>
+<text top="182" left="129" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="150" width="232" height="15" font="8"><i>Peter Ackema &amp; Kriszta Szendroi </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="222" left="107" width="5" height="18" font="2"> </text>
+<text top="245" left="107" width="10" height="18" font="3"><b>6</b></text>
+<text top="244" left="116" width="6" height="18" font="5"><b> </b></text>
+<text top="245" left="123" width="101" height="18" font="3"><b>Conclusion </b></text>
+<text top="267" left="107" width="5" height="18" font="2"> </text>
+<text top="291" left="107" width="685" height="18" font="2">In this paper we provided an analysis for the phenomenon of determiner sharing that </text>
+<text top="314" left="107" width="684" height="18" font="2">accounted for the characteristics of the construction noted by McCawley (1993) and </text>
+<text top="336" left="107" width="684" height="18" font="2">Lin (1999) and some additional ones. Our account followed Williams’s (1997) analysis </text>
+<text top="360" left="107" width="683" height="18" font="2">of coordinate ellipsis and dependent ellipsis. In fact, we argued that determiner sharing </text>
+<text top="382" left="107" width="684" height="18" font="2">is just a special case of dependent ellipsis. Thus we accounted for the fact that in a </text>
+<text top="405" left="107" width="684" height="18" font="2">determiner sharing construction, the NP complement to the shared determiner in the </text>
+<text top="428" left="107" width="684" height="18" font="2">second conjunct must be disanaphoric to the corresponding NP in the first conjunct, a </text>
+<text top="451" left="107" width="684" height="18" font="2">hallmark of constructions involving ellipsis. Our analysis departed from Williams in </text>
+<text top="473" left="107" width="684" height="18" font="2">that we argued that the process of dependent ellipsis is not transitive. (Rather, we </text>
+<text top="497" left="107" width="684" height="18" font="2">assumed, following Roberts 1997, that certain English auxiliary-infinitive sequences </text>
+<text top="519" left="107" width="683" height="18" font="2">may reanalise as complex heads that can be targeted by ellipsis as one whole, giving </text>
+<text top="542" left="107" width="684" height="18" font="2">the impression of transitive dependent ellipsis.) This non-transitivity condition on </text>
+<text top="566" left="107" width="685" height="18" font="2">dependent ellipsis allowed us to account for the two major generalisations of </text>
+<text top="588" left="107" width="684" height="18" font="2">McCawley and Lin, while predicting certain attested exceptions to these. On the one </text>
+<text top="611" left="107" width="686" height="18" font="2">hand, we showed that subject determiner sharing is possible in coordinate T-ellipsis, </text>
+<text top="634" left="107" width="685" height="18" font="2">while object determiner sharing is possible in coordinate V-ellipsis. On the other hand, </text>
+<text top="657" left="107" width="685" height="18" font="2">we showed that in coordinate C-ellipsis, subject determiner sharing may be dependent </text>
+<text top="679" left="107" width="683" height="18" font="2">on C-ellipsis if the subject is moved to [Spec, CP], and that subject determiner sharing </text>
+<text top="703" left="107" width="636" height="18" font="2">is impossible in coordinate C-ellipsis, even if T is gapped, if the subject is in situ. </text>
+<text top="725" left="107" width="5" height="18" font="2"> </text>
+<text top="748" left="107" width="5" height="18" font="2"> </text>
+<text top="771" left="107" width="95" height="18" font="3"><b>References </b></text>
+<text top="794" left="107" width="5" height="18" font="2"> </text>
+<text top="816" left="107" width="684" height="15" font="4">Abels, Klaus (2001) On a modular view of head-movement.  Paper presented at TiLT 1, Utrecht </text>
+<text top="836" left="122" width="74" height="15" font="4">University.  </text>
+<text top="855" left="107" width="152" height="15" font="4">Abney, Stephen (1987) </text>
+<text top="855" left="258" width="335" height="15" font="8"><i>The English Noun Phrase in Its Sentential Aspect</i></text>
+<text top="855" left="592" width="169" height="15" font="4">. Ph.D. dissertation, MIT. </text>
+<text top="875" left="107" width="682" height="15" font="4">Ackema, Peter, Ad Neeleman  &amp; Fred Weerman (1993) Deriving functional projections. In Schafer, Amy </text>
+<text top="894" left="122" width="39" height="15" font="4">(ed.). </text>
+<text top="894" left="161" width="168" height="15" font="8"><i>Proceedings of NELS 23</i></text>
+<text top="894" left="329" width="168" height="15" font="4">. 17-31. Amherst: GLSA. </text>
+<text top="914" left="107" width="682" height="15" font="4">Bach, Emmon (1984) Some generalizations of categorial grammars. In Landman, Fred &amp; Frank Veltman </text>
+<text top="933" left="122" width="46" height="15" font="4">(eds.). </text>
+<text top="933" left="168" width="203" height="15" font="8"><i>Varieties of Formal Semantics</i></text>
+<text top="933" left="371" width="168" height="15" font="4">. 55-80. Dordrecht: Foris. </text>
+<text top="954" left="107" width="156" height="15" font="4">Chomsky, Noam (1986) </text>
+<text top="954" left="263" width="57" height="15" font="8"><i>Barriers</i></text>
+<text top="954" left="321" width="212" height="15" font="4">. Cambridge, Mass.: MIT Press. </text>
+<text top="973" left="107" width="684" height="15" font="4">Doetjes, Jenny, Ad Neeleman &amp; Hans van de Koot (1998)  Degree expressions and the autonomy of </text>
+<text top="993" left="122" width="385" height="15" font="4">syntax. Ms. Leiden University / University College London. </text>
+<text top="1012" left="107" width="149" height="15" font="4">Goodall, Grant  (1991) </text>
+<text top="1012" left="257" width="47" height="15" font="8"><i>Wanna</i></text>
+<text top="1012" left="305" width="486" height="15" font="4">-contraction as restructuring. In Georgopoulos, Carol &amp; Roberta Ishihara </text>
+<text top="1031" left="122" width="46" height="15" font="4">(eds.). </text>
+<text top="1031" left="168" width="290" height="15" font="8"><i>Interdisciplinary Approaches to Language</i></text>
+<text top="1031" left="458" width="198" height="15" font="4">. 239-254. Dordrecht: Kluwer. </text>
+</page>
+<page number="27" position="absolute" top="0" left="0" height="1263" width="894">
+<text top="182" left="444" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="487" width="42" height="15" font="8"><i>       </i></text>
+<text top="182" left="549" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="591" width="137" height="15" font="8"><i>Determiner sharing </i></text>
+<text top="182" left="746" width="5" height="15" font="8"><i> </i></text>
+<text top="182" left="764" width="22" height="15" font="4">215</text>
+<text top="182" left="786" width="5" height="15" font="8"><i> </i></text>
+<text top="201" left="107" width="5" height="15" font="8"><i> </i></text>
+<text top="221" left="107" width="685" height="15" font="4">Haegeman, Liliane &amp; Henk van Riemsdijk (1986)  Verb Projection Raising, scope, and the typology of </text>
+<text top="240" left="122" width="139" height="15" font="4">rules affecting verbs. </text>
+<text top="240" left="261" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="240" left="383" width="87" height="15" font="4"> 17: 417-466. </text>
+<text top="261" left="107" width="501" height="15" font="4">Hudson, Richard (1976) Conjunction reduction, gapping, and righ-node-raising. </text>
+<text top="261" left="609" width="69" height="15" font="8"><i>Language</i></text>
+<text top="261" left="677" width="88" height="15" font="4"> 52: 535-562. </text>
+<text top="280" left="107" width="217" height="15" font="4">Johannessen, Janne Bondi (1998) </text>
+<text top="280" left="324" width="91" height="15" font="8"><i>Coordination</i></text>
+<text top="280" left="415" width="227" height="15" font="4">. Oxford: Oxford University Press. </text>
+<text top="299" left="107" width="684" height="15" font="4">Johnson, Kyle (1998) Few dogs eat Whiskas or cats Alpo. In Kusumoto, Kiyomi &amp; Elisabeth Villalta </text>
+<text top="319" left="122" width="46" height="15" font="4">(eds.). </text>
+<text top="319" left="168" width="248" height="15" font="8"><i>Issues in Semantics and Its Interface</i></text>
+<text top="319" left="416" width="167" height="15" font="4">. 59-82. Amherst: GLSA. </text>
+<text top="338" left="107" width="608" height="15" font="4">Johnson, Kyle (2000) Gapping determiners. In Schwabe, Kerstin &amp; Niina Zhang (eds.). </text>
+<text top="338" left="717" width="73" height="15" font="8"><i>Ellipsis in </i></text>
+<text top="359" left="122" width="85" height="15" font="8"><i>Conjunction</i></text>
+<text top="359" left="207" width="199" height="15" font="4">. 95-115. Tübingen: Niemeyer. </text>
+<text top="378" left="107" width="386" height="15" font="4">Larson, Richard (1985) On the syntax of disjunction scope. </text>
+<text top="378" left="493" width="279" height="15" font="8"><i>Natural Language and Linguistic Theory</i></text>
+<text top="378" left="772" width="19" height="15" font="4"> 3: </text>
+<text top="398" left="122" width="61" height="15" font="4">217-264. </text>
+<text top="417" left="107" width="375" height="15" font="4">Larson, Richard (1988) On the double object construction. </text>
+<text top="417" left="482" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="417" left="603" width="87" height="15" font="4"> 19: 335-391. </text>
+<text top="436" left="107" width="450" height="15" font="4">Lasnik, Howard (2001) Patterns of verb raising with auxiliary ‘be’. </text>
+<text top="436" left="559" width="231" height="15" font="8"><i>Proceedings of the 1995 UMass </i></text>
+<text top="456" left="122" width="279" height="15" font="8"><i>conference on African American English</i></text>
+<text top="456" left="399" width="144" height="15" font="4">. Amherst. (In press). </text>
+<text top="476" left="107" width="252" height="15" font="4">Lin, Vivian (1999) Determiner sharing. </text>
+<text top="476" left="359" width="238" height="15" font="8"><i>MIT Working Papers in Linguistics</i></text>
+<text top="476" left="597" width="87" height="15" font="4"> 33: 241-277. </text>
+<text top="496" left="107" width="684" height="15" font="4">Lin, Vivian (2000) Determiner sharing and the syntactic composition of Determiner Phrases. Handout of </text>
+<text top="515" left="122" width="488" height="15" font="4">paper presented at GLOW 2000, University of the Basque Country, Vitoria. </text>
+<text top="535" left="107" width="477" height="15" font="4">Lyons, Christopher (1989) Phrase structure, possessives, and definitiness. </text>
+<text top="535" left="584" width="180" height="15" font="8"><i>York Papers in Linguistics</i></text>
+<text top="535" left="764" width="27" height="15" font="4"> 14: </text>
+<text top="554" left="122" width="61" height="15" font="4">221-228. </text>
+<text top="575" left="107" width="684" height="15" font="4">Manzini, Rita (1999) A minimalist theory of weak islands. In Culicover, Peter &amp; Louise McNally (eds.). </text>
+<text top="594" left="122" width="138" height="15" font="8"><i>The Limits of Syntax</i></text>
+<text top="594" left="259" width="456" height="15" font="4"> (Syntax and Semantics vol.29). 185-210. San Diego: Academic Press. </text>
+<text top="613" left="107" width="576" height="15" font="4">McCawley, James (1993) Gapping with shared operators. In Guenter, Joshua et al.(eds.). </text>
+<text top="613" left="683" width="109" height="15" font="8"><i>Proceedings of </i></text>
+<text top="633" left="122" width="49" height="15" font="8"><i>BLS 19</i></text>
+<text top="633" left="171" width="171" height="15" font="4">: 245-253. Berkeley: BLS. </text>
+<text top="652" left="107" width="684" height="15" font="4">Monachesi, Paola (2000)Syntactic and prosodic properties of Italian restructuring verbs.  Ms. Utrecht </text>
+<text top="672" left="122" width="74" height="15" font="4">University.  </text>
+<text top="692" left="107" width="260" height="15" font="4">Neeleman, Ad &amp; Fred Weerman (1999) </text>
+<text top="692" left="368" width="105" height="15" font="8"><i>Flexible Syntax</i></text>
+<text top="692" left="473" width="138" height="15" font="4">. Dordrecht: Kluwer. </text>
+<text top="712" left="107" width="139" height="15" font="4">Neijt, Anneke (1979) </text>
+<text top="712" left="245" width="58" height="15" font="8"><i>Gapping</i></text>
+<text top="712" left="305" width="123" height="15" font="4">. Dordrecht: Foris. </text>
+<text top="731" left="107" width="398" height="15" font="4">Riemsdijk, Henk van (1998) Head movement and adjacency. </text>
+<text top="731" left="507" width="280" height="15" font="8"><i>Natural Language and Linguistic Theory</i></text>
+<text top="731" left="786" width="5" height="15" font="4"> </text>
+<text top="750" left="122" width="83" height="15" font="4">16: 633-678. </text>
+<text top="770" left="107" width="119" height="15" font="4">Rizzi, Luigi (1982) </text>
+<text top="770" left="226" width="158" height="15" font="8"><i>Issues in Italian Syntax</i></text>
+<text top="770" left="385" width="122" height="15" font="4">. Dordrecht: Foris. </text>
+<text top="789" left="107" width="412" height="15" font="4">Roberts, Ian (1997) Restructuring, head movement, and locality. </text>
+<text top="789" left="519" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="789" left="639" width="88" height="15" font="4"> 28: 423-460. </text>
+<text top="810" left="107" width="183" height="15" font="4">Rosen, Sara Thomas (1990) </text>
+<text top="810" left="290" width="302" height="15" font="8"><i>Argument Structure and Complex Predicates</i></text>
+<text top="810" left="593" width="144" height="15" font="4">. New York: Garland. </text>
+<text top="829" left="107" width="293" height="15" font="4">Schwarz, Bernhard (1999) On the syntax of </text>
+<text top="829" left="402" width="68" height="15" font="8"><i>either...or</i></text>
+<text top="829" left="469" width="9" height="15" font="4">. </text>
+<text top="829" left="479" width="283" height="15" font="8"><i>Natural Language and Linguistic Theory</i></text>
+<text top="829" left="763" width="28" height="15" font="4"> 17: </text>
+<text top="849" left="122" width="61" height="15" font="4">339-370. </text>
+<text top="868" left="107" width="313" height="15" font="4">Siegel, Muffy (1984) Gapping and interpretation. </text>
+<text top="868" left="420" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="868" left="540" width="88" height="15" font="4"> 15: 523-530. </text>
+<text top="888" left="107" width="473" height="15" font="4">Siegel, Muffy (1987) Compositionality, case, and the scope of auxiliaries. </text>
+<text top="888" left="579" width="184" height="15" font="8"><i>Linguistics and Philosophy</i></text>
+<text top="888" left="764" width="27" height="15" font="4"> 10: </text>
+<text top="908" left="122" width="45" height="15" font="4">53-75. </text>
+<text top="927" left="107" width="536" height="15" font="4">Sportiche, Dominique (1997) Reconstruction and constituent structure. Ms. UCLA. </text>
+<text top="947" left="107" width="308" height="15" font="4">Williams, Edwin (1997) Blocking and anaphora. </text>
+<text top="947" left="414" width="121" height="15" font="8"><i>Linguistic Inquiry</i></text>
+<text top="947" left="534" width="88" height="15" font="4"> 28: 577-628. </text>
+</page>
+</pdf2xml>
