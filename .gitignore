@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 
 # Eclipse
 .classpath
@@ -20,4 +20,5 @@ log/
 target/
 
 # Project
-.resultData/
+resultData/
+testDir/
