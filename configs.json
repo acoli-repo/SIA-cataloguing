@@ -1,31 +1,19 @@
 {
-  "PathToTempDir" : "tempDir",
+  "PathToTempDir" : "resultData",
+  "DocumentRootDir" : "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471",
   "sources" : [
-        {
-          "url" : "http://lrec-conf.org/workshops/lrec2018/W29/papers.html",
-          "type" : "html",
-          "split" : false,
-          "extractorConfig" : {
-            "authorHeight" : -1,
-            "authorFont" : -1,
-            "titleHeight" : -1,
-            "titleFont" : -1,
-            "pageHeight" : -1,
-            "pageFont" : -1
-          }
-        },
-        {
-          "url" : "http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf",
-          "type" : "pdf",
-          "split" : true,
-          "extractorConfig" : {
-            "authorHeight" : -1,
-            "authorFont" : -1,
-            "titleHeight" : -1,
-            "titleFont" : -1,
-            "pageHeight" : -1,
-            "pageFont" : -1
-          }
-        }
-      ]
+    {
+      "id" : "047006471",
+      "type" : "pdf",
+      "split" : false,
+      "extractorConfig" : {
+        "authorHeight" :23,
+        "authorFont" :2,
+        "titleHeight" :32,
+        "titleFont" :0,
+        "pageHeight" :19,
+        "pageFont" :5
+      }
+    }
+  ]
 }
