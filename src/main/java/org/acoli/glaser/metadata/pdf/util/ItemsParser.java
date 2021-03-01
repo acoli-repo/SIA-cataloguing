@@ -78,6 +78,12 @@ public class ItemsParser {
             }
         }
 
+        /*
+        XML's now need to be read out in order to get the title, author and Pagenumber
+        current issue: find a good way to read out the Data
+        */
+
+
     }
 
 }

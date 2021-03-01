@@ -18,6 +18,9 @@ public class Metadata {
 	public String booktitle;
 	public int beginPage;
 	public int endPage;
+	public int volume;
+	public String issue;
+	public String journalNote;
 
 
 	public void setPageNumbers(List<Integer> pageNumbers) {
@@ -49,5 +52,14 @@ public class Metadata {
 	@Override
 	public boolean equals(Object obj) {
 		return EqualsBuilder.reflectionEquals(this, obj);
+	}
+
+	public int getExtent(){
+		return endPage- beginPage;
+	}
+
+	public String getPages(){
+		int pages = getExtent();
+		return String.valueOf(pages);
 	}
 }
