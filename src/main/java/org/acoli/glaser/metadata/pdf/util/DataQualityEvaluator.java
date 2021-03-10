@@ -1,5 +1,6 @@
 package org.acoli.glaser.metadata.pdf.util;
 
+import org.acoli.glaser.metadata.pdf.crawl.DataReader;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
@@ -40,10 +41,10 @@ public class DataQualityEvaluator {
 
 
     public List<String> getDummyData() throws Exception {
-        ItemsParser ip = new ItemsParser();
+        DataReader dataReader = new DataReader();
 
 
-        List<String> itemsList = ip.itemsParser("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/items.jsonl");
+        List<String> itemsList = dataReader.parseItems("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/items.jsonl");
         File testData = new File("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
 
         List<String> listOfFoundFiles = new ArrayList<>();
