@@ -3,10 +3,8 @@ package org.acoli.glaser.metadata.pdf;
 import org.acoli.glaser.metadata.pdf.crawl.DataReader;
 import org.acoli.glaser.metadata.pdf.extract.XMLExtractor;
 
-import java.io.File;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
+
 
 public class Main {
 
