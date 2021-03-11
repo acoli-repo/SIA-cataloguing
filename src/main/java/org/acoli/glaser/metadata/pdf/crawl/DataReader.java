@@ -1,5 +1,6 @@
 package org.acoli.glaser.metadata.pdf.crawl;
 
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
@@ -13,7 +14,7 @@ public class DataReader {
 
 
     // this one reads the items.jsonl
-    public List<String> parseItems(String filename) throws Exception{
+    public List<String> parseItemsName(String filename) throws Exception{
         List<String> items = new ArrayList<>();
 
         //Input Stream
@@ -32,9 +33,30 @@ public class DataReader {
         return items;
     }
 
+    //this one reads the titles out of item.jsonl
+    public List<ArrayList<String>> parseItemsTitle(String filename) throws Exception{
+        List<ArrayList<String>> items = new ArrayList<>();
+
+        //Input Stream
+        FileReader fr = new FileReader(filename);
+        BufferedReader br = new BufferedReader(fr);
+
+        //Reading JsonL Lines and adding to items-list
+        String line;
+        while ((line = br.readLine()) != null){
+            Object obj = new JSONParser().parse(line);
+            JSONObject jo = (JSONObject) obj;
+            JSONArray name = (JSONArray) jo.get("titles");
+            items.add(name);
+        }
+
+        return items;
+    }
+
+
     //this one reads out the pdf's found in the items.jsonl
-    public List<String> readOutItems(List<String> itemsList){
-        File testData = new File("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
+    public List<String> readOutItems(List<String> itemsList, String path){
+        File testData = new File(path);
 
         List<String> listOfFoundFiles = new ArrayList<>();
 
