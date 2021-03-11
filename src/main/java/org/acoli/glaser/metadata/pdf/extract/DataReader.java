@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.crawl;
+package org.acoli.glaser.metadata.pdf.extract;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -27,6 +27,44 @@ public class DataReader {
             Object obj = new JSONParser().parse(line);
             JSONObject jo = (JSONObject) obj;
             String name = (String) jo.get("pdf_name");
+            items.add(name);
+        }
+
+        return items;
+    }
+
+    public List<String> parseItemsAbstractName(String filename) throws Exception{
+        List<String> items = new ArrayList<>();
+
+        //Input Stream
+        FileReader fr = new FileReader(filename);
+        BufferedReader br = new BufferedReader(fr);
+
+        //Reading JsonL Lines and adding to items-list
+        String line;
+        while ((line = br.readLine()) != null){
+            Object obj = new JSONParser().parse(line);
+            JSONObject jo = (JSONObject) obj;
+            String name = (String) jo.get("abstract_name");
+            items.add(name);
+        }
+
+        return items;
+    }
+
+    public List<String> parseItemsDates(String filename) throws Exception{
+        List<String> items = new ArrayList<>();
+
+        //Input Stream
+        FileReader fr = new FileReader(filename);
+        BufferedReader br = new BufferedReader(fr);
+
+        //Reading JsonL Lines and adding to items-list
+        String line;
+        while ((line = br.readLine()) != null){
+            Object obj = new JSONParser().parse(line);
+            JSONObject jo = (JSONObject) obj;
+            String name = (String) jo.get("date");
             items.add(name);
         }
 

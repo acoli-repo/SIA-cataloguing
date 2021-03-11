@@ -1,6 +1,6 @@
 package org.acoli.glaser.metadata.pdf;
 
-import org.acoli.glaser.metadata.pdf.crawl.DataReader;
+import org.acoli.glaser.metadata.pdf.extract.DataReader;
 import org.acoli.glaser.metadata.pdf.extract.XMLExtractor;
 
 import java.util.List;

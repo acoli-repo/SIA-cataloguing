@@ -1,8 +1,6 @@
 package org.acoli.glaser.metadata.pdf;
 
-import org.acoli.glaser.metadata.pdf.crawl.DataReader;
-
-import java.util.List;
+import org.acoli.glaser.metadata.pdf.extract.DataReader;
 
 public class DataQualityEvaluatorMainrunner {
 
