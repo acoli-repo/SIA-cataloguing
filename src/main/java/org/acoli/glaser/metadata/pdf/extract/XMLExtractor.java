@@ -13,7 +13,7 @@ public class XMLExtractor {
             System.out.println(name);
             Runtime rt = Runtime.getRuntime();
             Process conversion = null;
-            if(SystemUtils.IS_OS_LINUX){
+            if(SystemUtils.IS_OS_LINUX){ //Operating System (OS)- Erkennung um den Shellcommand entsprechend anzupassen
                 conversion = rt.exec("pdftohtml -xml -i -c -q -s documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/" + pdf + " resultData/" + name + ".xml")
             }else{
                 conversion = rt.exec("wsl \n  pdftohtml -xml -i -c -q -s documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/" + pdf + " resultData/" + name + ".xml");
