@@ -85,7 +85,8 @@ public class PrototypeMainRunner {
         List<Metadata> metadataList = prototypeMainRunner.convertXMLtoXMLTMP("resultData");
         List<List<String>> authorsList = new ArrayList<>();
         for(Metadata meta : metadataList){
-            System.out.println(meta);
+            System.out.println(meta.title);
+            System.out.println(meta.authors);
             if(meta.authors != null){
                 authorsList.add(meta.authors);
             }
