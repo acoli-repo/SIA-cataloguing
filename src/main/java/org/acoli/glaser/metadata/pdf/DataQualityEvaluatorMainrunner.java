@@ -23,8 +23,9 @@ public class DataQualityEvaluatorMainrunner {
                 }
             }
         }
-        String s = System.getProperty("os.name");
-        System.out.println(SystemUtils.IS_OS_LINUX);
+
+
+
         System.out.println(input.size());
         System.out.println(output.size());
         System.out.println(foundObjects.size());

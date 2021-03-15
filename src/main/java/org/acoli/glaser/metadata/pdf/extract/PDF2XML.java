@@ -43,7 +43,7 @@ public class PDF2XML {
 	public File pdfToXml(File pdf, File xml) throws IOException {
 		LOG.info("Will convert "+pdf.getAbsolutePath()+", writing to "+ xml.getAbsolutePath());
 		Runtime rt = Runtime.getRuntime();
-		String shellCommand = "pdftohtml "+pdf.getAbsolutePath()+" -xml -i -c -q -s "+ xml.getAbsolutePath();
+		String shellCommand = "wsl \n  pdftohtml "+pdf.getAbsolutePath()+" -xml -i -c -q -s "+ xml.getAbsolutePath();
 		Process conversion = rt.exec(shellCommand);
 		try {
 			LOG.info("Waiting for conversion to finish..");

@@ -47,7 +47,7 @@ public class testRun {
     }
     @Test
     public void extractOneFileWithOnlyExtractPackage() throws IOException, ParserConfigurationException, SAXException {
-        File pdfFile = new File(resourcesDir+"/testPaper.pdf");
+        File pdfFile = new File(resourcesDir+"/resultData/ackema.pdf");
         PDF2XML pdf2XML = new PDF2XML(resourcesDir+"/tmpDir/");
         File xmlFile = pdf2XML.pdfToXml(pdfFile);
 

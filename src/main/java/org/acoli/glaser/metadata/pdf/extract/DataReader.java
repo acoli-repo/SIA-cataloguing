@@ -131,4 +131,24 @@ public class DataReader {
         return items;
     }
 
+    public List<ArrayList<String>> parseOutputAuthors(String filename) throws Exception{
+        List<ArrayList<String>> items = new ArrayList<>();
+
+        //Input Stream
+        FileReader fr = new FileReader(filename);
+        BufferedReader br = new BufferedReader(fr);
+
+        //Reading JsonL Lines and adding to items-list
+        String line;
+        while ((line = br.readLine()) != null){
+            Object obj = new JSONParser().parse(line);
+            JSONObject jo = (JSONObject) obj;
+            JSONArray name = (JSONArray) jo.get("creators");
+            items.add(name);
+        }
+
+        return items;
+    }
+
+
 }
