@@ -1,9 +1,6 @@
 package org.acoli.glaser.metadata.pdf;
 
 import org.acoli.glaser.metadata.pdf.extract.DataReader;
-import org.apache.commons.lang3.SystemUtils;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -23,8 +20,6 @@ public class DataQualityEvaluatorMainrunner {
                 }
             }
         }
-
-
 
         System.out.println(input.size());
         System.out.println(output.size());
