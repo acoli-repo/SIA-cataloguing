@@ -8,7 +8,7 @@ public class DataQualityEvaluatorMainrunner {
 
     public static void main(String[] args) throws Exception{
         DataReader dataReader = new DataReader();
-        List<ArrayList<String>> input = dataReader.parseItemsTitle("documentation/input-data-format/047006471-input.jsonl");
+        List<ArrayList<String>> input = dataReader.parseInputTitle("documentation/input-data-format/047006471-input.jsonl");
         List<ArrayList<String>> output = dataReader.parseOutputTitles("documentation/output-data-format/047006471-output.jsonl");
 
         ArrayList<ArrayList<String>> foundObjects = new ArrayList<ArrayList<String>>();

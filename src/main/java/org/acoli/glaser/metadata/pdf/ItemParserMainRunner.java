@@ -12,9 +12,9 @@ public class ItemParserMainRunner {
         DataReader dataReader = new DataReader();
         XMLExtractor xmlExtractor = new XMLExtractor();
 
-        List<String> itemsList = dataReader.parseItemsName("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/items.jsonl");
+        List<String> itemsList = dataReader.parseInputName("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/items.jsonl");
 
-        List<String> listOfFoundFiles = dataReader.readOutItems(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
+        List<String> listOfFoundFiles = dataReader.retrieveFilesFromList(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
 
         xmlExtractor.extractXML(listOfFoundFiles);
     }

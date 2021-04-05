@@ -14,7 +14,7 @@ public class DataReader {
 
 
     // this one reads the pdf-names out of input.jsonl
-    public List<String> parseItemsName(String filename) throws Exception{
+    public List<String> parseInputName(String filename) throws Exception{
         List<String> items = new ArrayList<>();
 
         //Input Stream
@@ -34,7 +34,7 @@ public class DataReader {
     }
 
     //this one reads the titles out of input.jsonl
-    public List<ArrayList<String>> parseItemsTitle(String filename) throws Exception{
+    public List<ArrayList<String>> parseInputTitle(String filename) throws Exception{
         List<ArrayList<String>> items = new ArrayList<>();
 
         //Input Stream
@@ -54,7 +54,7 @@ public class DataReader {
     }
 
     //this one reads the abstract_name out of input.jsonl
-    public List<String> parseItemsAbstractName(String filename) throws Exception{
+    public List<String> parseInputAbstractName(String filename) throws Exception{
         List<String> items = new ArrayList<>();
 
         //Input Stream
@@ -74,7 +74,7 @@ public class DataReader {
     }
 
     //this one reads the dates out of input.jsonl
-    public List<String> parseItemsDates(String filename) throws Exception{
+    public List<String> paresInputDates(String filename) throws Exception{
         List<String> items = new ArrayList<>();
 
         //Input Stream
@@ -95,7 +95,7 @@ public class DataReader {
 
 
     //this one reads out the pdf's found in the input folder
-    public List<String> readOutItems(List<String> itemsList, String path){
+    public List<String> retrieveFilesFromList(List<String> itemsList, String path){
         File testData = new File(path);
 
         List<String> listOfFoundFiles = new ArrayList<>();

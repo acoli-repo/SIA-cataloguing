@@ -63,9 +63,7 @@ public class PrototypeMainRunner {
         return pme;
     }
 
-    public static void main(String[] args) throws Exception{
-
-        //Create resultDirectory
+    public void setupData() throws Exception{
         File resultData = new File("resultData");
         if (!resultData.exists()){
             resultData.mkdirs();
@@ -73,25 +71,40 @@ public class PrototypeMainRunner {
 
         //Find PDFs and Read them
         DataReader dataReader = new DataReader();
-        List<String> itemsList = dataReader.parseItemsName("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/items.jsonl");
-        List<String> listOfFoundFiles = dataReader.readOutItems(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
+        List<String> itemsList = dataReader.parseInputName("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/items.jsonl");
+        List<String> listOfFoundFiles = dataReader.retrieveFilesFromList(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
 
         // Get XML out of PDF-Files
         XMLExtractor xmlExtractor = new XMLExtractor();
         xmlExtractor.extractXML(listOfFoundFiles);
+        this.convertXMLtoXMLTMP("resultData");
 
         //Extract Metadata out of XML-Files
+    }
+    public static void main(String[] args) throws Exception{
         PrototypeMainRunner prototypeMainRunner = new PrototypeMainRunner();
-        List<Metadata> metadataList = prototypeMainRunner.convertXMLtoXMLTMP("resultData");
+
+
+        File testData = new File("resultData");
+
+        List<Metadata> metadataList = new ArrayList<Metadata>();
+        for(File file : testData.listFiles()){
+            Metadata metadata = prototypeMainRunner.extractMetadata(file.getAbsolutePath() + ".tmp");
+            metadataList.add(metadata);
+        }
+
+
         List<List<String>> authorsList = new ArrayList<>();
-        for(Metadata meta : metadataList){
+        for(Metadata meta : metadataList) {
+            System.out.println(meta);
             System.out.println(meta.title);
             System.out.println(meta.authors);
-            if(meta.authors != null){
+            if (meta.authors != null) {
                 authorsList.add(meta.authors);
             }
         }
 
+        DataReader dataReader = new DataReader();
         //Compare received Metadata with Output Data
         List<ArrayList<String>> output = dataReader.parseOutputAuthors("documentation/output-data-format/047006471-output.jsonl");
         ArrayList<ArrayList<String>> foundObjects = new ArrayList<ArrayList<String>>();
@@ -106,9 +119,6 @@ public class PrototypeMainRunner {
 
         //Print Result and Accuracy
         System.out.println(foundObjects.size());
-
-
-        resultData.delete();
     }
 
 }

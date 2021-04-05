@@ -1,3 +1,5 @@
+package OldTestingUnit;
+
 import org.acoli.glaser.metadata.pdf.extract.Metadata;
 import org.acoli.glaser.metadata.pdf.util.MetadataMerger;
 import org.junit.Assert;
