@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.extract;
+package org.acoli.glaser.metadata.pdf.read;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

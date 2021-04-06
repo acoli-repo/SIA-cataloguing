@@ -1,5 +1,6 @@
 package org.acoli.glaser.metadata.pdf.extract;
 
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 

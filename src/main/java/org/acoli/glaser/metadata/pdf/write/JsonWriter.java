@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.util;
+package org.acoli.glaser.metadata.pdf.write;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

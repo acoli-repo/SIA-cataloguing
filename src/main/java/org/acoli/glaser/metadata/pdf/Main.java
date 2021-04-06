@@ -1,6 +1,6 @@
 package org.acoli.glaser.metadata.pdf;
 
-import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 import org.acoli.glaser.metadata.pdf.read.XMLConverter;
 import org.w3c.dom.Document;
 

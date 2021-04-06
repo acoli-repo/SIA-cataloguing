@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.deprecatedClasses;
 import java.io.IOException;
 import java.util.Calendar;
 import java.util.GregorianCalendar;

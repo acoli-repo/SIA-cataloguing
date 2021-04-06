@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.extract;
+package org.acoli.glaser.metadata.pdf.util;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
 

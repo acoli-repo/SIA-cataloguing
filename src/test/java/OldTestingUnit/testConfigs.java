@@ -1,9 +1,9 @@
 package OldTestingUnit;
 
-import org.acoli.glaser.metadata.pdf.*;
-import org.acoli.glaser.metadata.pdf.config.Config;
-import org.acoli.glaser.metadata.pdf.config.SourceDescriptions;
-import org.acoli.glaser.metadata.pdf.config.SourceTypes;
+import org.acoli.glaser.metadata.deprecatedClasses.MainRunner;
+import org.acoli.glaser.metadata.pdf.extract.Config;
+import org.acoli.glaser.metadata.deprecatedClasses.SourceDescriptions;
+import org.acoli.glaser.metadata.deprecatedClasses.SourceTypes;
 import org.junit.Assert;
 import org.junit.Test;
 

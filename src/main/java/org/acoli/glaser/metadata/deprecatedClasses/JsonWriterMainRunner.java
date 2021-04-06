@@ -1,6 +1,6 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
-import org.acoli.glaser.metadata.pdf.util.JsonWriter;
+import org.acoli.glaser.metadata.pdf.write.JsonWriter;
 import org.json.simple.JSONObject;
 
 public class JsonWriterMainRunner {

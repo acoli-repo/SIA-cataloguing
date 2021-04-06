@@ -1,11 +1,7 @@
-import org.acoli.glaser.metadata.pdf.crawl.MetadataFromBibtex;
-import org.acoli.glaser.metadata.pdf.extract.DataReader;
-import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.read.DataReader;
 import org.junit.Test;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;

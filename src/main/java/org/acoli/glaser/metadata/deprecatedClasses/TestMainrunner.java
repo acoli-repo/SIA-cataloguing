@@ -1,11 +1,8 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
-import org.acoli.glaser.metadata.pdf.extract.Metadata;
-import org.acoli.glaser.metadata.pdf.extract.PDF2XML;
 import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
 import org.acoli.glaser.metadata.pdf.extract.PDFMetadataExtractor;
-import org.acoli.glaser.metadata.pdf.util.JsonWriter;
-import org.json.simple.JSONObject;
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 import org.w3c.dom.Document;
 
 import javax.xml.parsers.DocumentBuilder;

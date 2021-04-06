@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.util;
+package org.acoli.glaser.metadata.pdf.evaluate;
 
 public class F1ScoreImplementation {
 

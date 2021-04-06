@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.config;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
 import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
 

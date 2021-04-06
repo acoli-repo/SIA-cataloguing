@@ -1,7 +1,7 @@
 package OldTestingUnit;
 
-import org.acoli.glaser.metadata.pdf.crawl.MetadataFromPDF;
-import org.acoli.glaser.metadata.pdf.extract.PDF2XML;
+import org.acoli.glaser.metadata.pdf.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.pdf.read.PDF2XML;
 import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
 import org.acoli.glaser.metadata.pdf.extract.PDFMetadataExtractor;
 import org.junit.Before;

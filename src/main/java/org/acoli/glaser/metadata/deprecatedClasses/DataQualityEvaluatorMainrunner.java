@@ -1,6 +1,7 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
-import org.acoli.glaser.metadata.pdf.extract.DataReader;
+import org.acoli.glaser.metadata.pdf.read.DataReader;
+
 import java.util.ArrayList;
 import java.util.List;
 

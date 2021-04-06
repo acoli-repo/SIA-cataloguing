@@ -1,10 +1,8 @@
-package org.acoli.glaser.metadata.pdf;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
 import com.google.gson.Gson;
-import org.acoli.glaser.metadata.pdf.config.Config;
-import org.acoli.glaser.metadata.pdf.config.SourceDescriptions;
-import org.acoli.glaser.metadata.pdf.config.SourceTypes;
-import org.acoli.glaser.metadata.pdf.crawl.*;
+import org.acoli.glaser.metadata.pdf.extract.Config;
+import org.acoli.glaser.metadata.pdf.extract.MetadataFromPDF;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -65,7 +63,7 @@ public class MainRunner {
                     for (URL href : hrefs) {
                         if (href.toString().endsWith("pdf")) {
                             MetadataFromPDF mfp = new MetadataFromPDF(href, source.split);
-                            initialSources.add(mfp);
+                            //initialSources.add(mfp);
                         } else {
                             MetadataFromHTML mfh = new MetadataFromHTML(href, new FileHandler());
                             initialSources.add(mfh);
@@ -74,7 +72,7 @@ public class MainRunner {
                 }
             } else if (source.type == SourceTypes.pdf) {
                 MetadataFromPDF mfp = new MetadataFromPDF(source.url, source.split);
-                initialSources.add(mfp);
+                //initialSources.add(mfp);
             }
         }
         PageHandler ph = new PageHandler(initialSources);

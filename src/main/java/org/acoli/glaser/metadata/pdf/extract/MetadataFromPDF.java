@@ -1,6 +1,8 @@
-package org.acoli.glaser.metadata.pdf.crawl;
+package org.acoli.glaser.metadata.pdf.extract;
 
-import org.acoli.glaser.metadata.pdf.extract.*;
+import org.acoli.glaser.metadata.deprecatedClasses.*;
+import org.acoli.glaser.metadata.pdf.read.PDF2XML;
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 

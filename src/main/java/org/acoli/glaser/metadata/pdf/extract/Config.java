@@ -1,4 +1,6 @@
-package org.acoli.glaser.metadata.pdf.config;
+package org.acoli.glaser.metadata.pdf.extract;
+
+import org.acoli.glaser.metadata.deprecatedClasses.SourceDescriptions;
 
 import java.util.List;
 

@@ -1,7 +1,6 @@
-package org.acoli.glaser.metadata.pdf.extract;
+package org.acoli.glaser.metadata.pdf.read;
 
 import java.io.*;
-import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 

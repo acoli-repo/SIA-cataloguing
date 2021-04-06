@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.crawl;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

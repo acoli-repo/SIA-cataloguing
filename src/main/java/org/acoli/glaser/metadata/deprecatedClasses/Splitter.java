@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.pdf.extract;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
 import org.w3c.dom.Document;
 
@@ -10,12 +10,7 @@ import javax.xml.stream.*;
 import javax.xml.stream.events.EndElement;
 import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
-import javax.xml.transform.OutputKeys;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMResult;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;

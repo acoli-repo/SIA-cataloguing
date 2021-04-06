@@ -1,8 +1,9 @@
 package OldTestingUnit;
 
-import org.acoli.glaser.metadata.pdf.*;
-import org.acoli.glaser.metadata.pdf.crawl.*;
-import org.acoli.glaser.metadata.pdf.extract.PDF2XML;
+import org.acoli.glaser.metadata.deprecatedClasses.*;
+import org.acoli.glaser.metadata.pdf.read.PDF2XML;
+import org.acoli.glaser.metadata.pdf.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.deprecatedClasses.MetadataSourceHandler;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.junit.Assert;
@@ -43,7 +44,7 @@ public class testPrototyping {
         MetadataFromPDF mfp = new MetadataFromPDF(new URL("http://lrec-conf.org/workshops/lrec2018/W30/pdf/book_of_proceedings.pdf"), true);
         List<MetadataSourceHandler> list = new ArrayList<>();
         list.addAll(MetadataFromHTML.spawnHandlersWithInitialPageAndSelector(new URL("http://lrec-conf.org/workshops/lrec2018/W29/papers.html"), ".paper_papers > a", new FileHandler()));
-        list.add(mfp);
+        //list.add(mfp);
         PageHandler ph = new PageHandler(list);
         ph.run();
     }

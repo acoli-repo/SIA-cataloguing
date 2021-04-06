@@ -1,7 +1,6 @@
-package org.acoli.glaser.metadata.pdf.crawl;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
-import org.acoli.glaser.metadata.pdf.util.MetadataMerger;
-import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 
 import java.util.ArrayList;
 import java.util.List;

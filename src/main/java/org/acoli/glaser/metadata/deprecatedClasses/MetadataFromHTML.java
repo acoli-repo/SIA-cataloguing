@@ -1,6 +1,7 @@
-package org.acoli.glaser.metadata.pdf.crawl;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
-import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -153,7 +154,7 @@ public class MetadataFromHTML extends MetadataSourceHandler {
         List<MetadataSourceHandler> mfp = new ArrayList<>();
         for (String url : pdfUrlsOnPage) {
             if (FileHandler.isURL(url)) {
-                mfp.add(new MetadataFromPDF(newURLICheckedForExceptionAlready(url)));
+               // mfp.add(new MetadataFromPDF(newURLICheckedForExceptionAlready(url)));
             }
         }
         for (String bibtex : rawBibtexOnPage) {

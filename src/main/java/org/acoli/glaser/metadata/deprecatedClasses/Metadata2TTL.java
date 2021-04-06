@@ -1,7 +1,7 @@
-package org.acoli.glaser.metadata.pdf.util;
+package org.acoli.glaser.metadata.deprecatedClasses;
 
 
-import org.acoli.glaser.metadata.pdf.extract.Metadata;
+import org.acoli.glaser.metadata.pdf.util.Metadata;
 
 /**
  * Writes Metadata objects to a ttl rendering, prototype
