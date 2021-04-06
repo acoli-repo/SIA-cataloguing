@@ -1,6 +1,7 @@
 package org.acoli.glaser.metadata.pdf;
 
 import org.acoli.glaser.metadata.pdf.extract.*;
+import org.acoli.glaser.metadata.pdf.read.XMLConverter;
 import org.w3c.dom.Document;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -75,8 +76,8 @@ public class PrototypeMainRunner {
         List<String> listOfFoundFiles = dataReader.retrieveFilesFromList(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
 
         // Get XML out of PDF-Files
-        XMLExtractor xmlExtractor = new XMLExtractor();
-        xmlExtractor.extractXML(listOfFoundFiles);
+        XMLConverter xmlConverter = new XMLConverter();
+        xmlConverter.convertListToXML(listOfFoundFiles);
         this.convertXMLtoXMLTMP("resultData");
 
         //Extract Metadata out of XML-Files
@@ -84,6 +85,7 @@ public class PrototypeMainRunner {
     public static void main(String[] args) throws Exception{
         PrototypeMainRunner prototypeMainRunner = new PrototypeMainRunner();
 
+        prototypeMainRunner.setupData();
 
         File testData = new File("resultData");
 

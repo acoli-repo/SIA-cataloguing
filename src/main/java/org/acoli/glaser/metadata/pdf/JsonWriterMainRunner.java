@@ -1,11 +1,7 @@
 package org.acoli.glaser.metadata.pdf;
 
-import org.acoli.glaser.metadata.pdf.extract.DataReader;
-import org.acoli.glaser.metadata.pdf.extract.XMLExtractor;
 import org.acoli.glaser.metadata.pdf.util.JsonWriter;
 import org.json.simple.JSONObject;
-
-import java.util.List;
 
 public class JsonWriterMainRunner {
 
