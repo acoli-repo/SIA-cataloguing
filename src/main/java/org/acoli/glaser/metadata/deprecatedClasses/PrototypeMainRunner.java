@@ -80,7 +80,7 @@ public class PrototypeMainRunner {
 
         // Get XML out of PDF-Files
         XMLConverter xmlConverter = new XMLConverter();
-        xmlConverter.convertListToXML(listOfFoundFiles);
+        xmlConverter.extractXML(listOfFoundFiles);
         this.convertXMLtoXMLTMP("resultData");
 
         //Extract Metadata out of XML-Files

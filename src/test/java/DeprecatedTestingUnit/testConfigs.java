@@ -1,4 +1,4 @@
-package OldTestingUnit;
+package DeprecatedTestingUnit;
 
 import org.acoli.glaser.metadata.deprecatedClasses.MainRunner;
 import org.acoli.glaser.metadata.pdf.extract.Config;

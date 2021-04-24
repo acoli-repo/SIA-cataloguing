@@ -1,4 +1,4 @@
-package OldTestingUnit;
+package DeprecatedTestingUnit;
 
 import org.acoli.glaser.metadata.pdf.extract.MetadataFromPDF;
 import org.acoli.glaser.metadata.pdf.read.PDF2XML;

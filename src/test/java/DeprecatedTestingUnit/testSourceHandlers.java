@@ -1,4 +1,4 @@
-package OldTestingUnit;
+package DeprecatedTestingUnit;
 
 import org.acoli.glaser.metadata.deprecatedClasses.MetadataFromBibtex;
 import org.acoli.glaser.metadata.deprecatedClasses.MetadataFromHTML;
