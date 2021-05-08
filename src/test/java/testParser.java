@@ -1,4 +1,4 @@
-import org.acoli.glaser.metadata.pdf.read.DataReader;
+import org.acoli.glaser.metadata.unit.testing.DataReader;
 import org.junit.Test;
 
 import java.util.ArrayList;
