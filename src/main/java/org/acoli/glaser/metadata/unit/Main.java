@@ -1,6 +1,6 @@
 package org.acoli.glaser.metadata.unit;
 
-import org.acoli.glaser.metadata.unit.extract.XMLConverter;
+import org.acoli.glaser.metadata.unit.extract.PDFToXMLConverter;
 
 
 public class Main {
@@ -8,7 +8,7 @@ public class Main {
 
 
     public static void extractData() throws Exception {
-        XMLConverter xmlConverter = new XMLConverter();
+        PDFToXMLConverter xmlConverter = new PDFToXMLConverter();
         xmlConverter.convertToXML("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/backley.pdf");
     }
 

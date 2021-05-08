@@ -3,7 +3,7 @@ package org.acoli.glaser.metadata.deprecatedCode;
 import org.acoli.glaser.metadata.unit.extract.PDFExtractionConfiguration;
 import org.acoli.glaser.metadata.unit.extract.PDFMetadataExtractor;
 import org.acoli.glaser.metadata.unit.testing.DataReader;
-import org.acoli.glaser.metadata.unit.extract.XMLConverter;
+import org.acoli.glaser.metadata.unit.extract.PDFToXMLConverter;
 import org.acoli.glaser.metadata.unit.util.Metadata;
 import org.w3c.dom.Document;
 
@@ -79,7 +79,7 @@ public class PrototypeMainRunner {
         List<String> listOfFoundFiles = dataReader.retrieveFilesFromList(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
 
         // Get XML out of PDF-Files
-        XMLConverter xmlConverter = new XMLConverter();
+        PDFToXMLConverter xmlConverter = new PDFToXMLConverter();
         xmlConverter.extractXML(listOfFoundFiles);
         this.convertXMLtoXMLTMP("resultData");
 
