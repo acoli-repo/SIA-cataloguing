@@ -1,6 +1,6 @@
-package org.acoli.glaser.metadata.unit.extract;
+package org.acoli.glaser.metadata.units.extract;
 
-import org.acoli.glaser.metadata.unit.util.Metadata;
+import org.acoli.glaser.metadata.units.util.Metadata;
 
 import java.net.URL;
 import java.util.List;

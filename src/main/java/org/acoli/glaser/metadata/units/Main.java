@@ -1,6 +1,6 @@
-package org.acoli.glaser.metadata.unit;
+package org.acoli.glaser.metadata.units;
 
-import org.acoli.glaser.metadata.unit.extract.PDFToXMLConverter;
+import org.acoli.glaser.metadata.units.extract.PDFToXMLConverter;
 
 
 public class Main {

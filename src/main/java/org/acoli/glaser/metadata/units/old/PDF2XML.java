@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.unit.old;
+package org.acoli.glaser.metadata.units.old;
 
 import java.io.*;
 import java.util.concurrent.TimeUnit;

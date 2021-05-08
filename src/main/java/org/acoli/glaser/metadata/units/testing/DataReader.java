@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.unit.testing;
+package org.acoli.glaser.metadata.units.testing;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

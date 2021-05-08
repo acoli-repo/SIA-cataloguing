@@ -1,6 +1,6 @@
 package org.acoli.glaser.metadata.deprecatedCode;
 
-import org.acoli.glaser.metadata.unit.extract.PDFExtractionConfiguration;
+import org.acoli.glaser.metadata.units.extract.PDFExtractionConfiguration;
 
 import java.net.URL;
 

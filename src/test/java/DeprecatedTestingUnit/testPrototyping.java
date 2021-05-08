@@ -1,8 +1,8 @@
 package DeprecatedTestingUnit;
 
 import org.acoli.glaser.metadata.deprecatedCode.*;
-import org.acoli.glaser.metadata.unit.old.PDF2XML;
-import org.acoli.glaser.metadata.unit.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.units.old.PDF2XML;
+import org.acoli.glaser.metadata.units.extract.MetadataFromPDF;
 import org.acoli.glaser.metadata.deprecatedCode.MetadataSourceHandler;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

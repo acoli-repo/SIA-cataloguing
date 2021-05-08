@@ -1,7 +1,7 @@
 package org.acoli.glaser.metadata.deprecatedCode;
 
 
-import org.acoli.glaser.metadata.unit.util.Metadata;
+import org.acoli.glaser.metadata.units.util.Metadata;
 
 /**
  * Writes Metadata objects to a ttl rendering, prototype

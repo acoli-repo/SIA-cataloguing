@@ -1,6 +1,6 @@
-package org.acoli.glaser.metadata.unit.extract;
+package org.acoli.glaser.metadata.units.extract;
 
-import org.acoli.glaser.metadata.unit.util.Metadata;
+import org.acoli.glaser.metadata.units.util.Metadata;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 

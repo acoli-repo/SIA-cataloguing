@@ -1,8 +1,8 @@
 package org.acoli.glaser.metadata.deprecatedCode;
 
 import com.google.gson.Gson;
-import org.acoli.glaser.metadata.unit.extract.Config;
-import org.acoli.glaser.metadata.unit.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.units.util.Config;
+import org.acoli.glaser.metadata.units.extract.MetadataFromPDF;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

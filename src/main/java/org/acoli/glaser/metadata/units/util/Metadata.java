@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.unit.util;
+package org.acoli.glaser.metadata.units.util;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
 

@@ -1,7 +1,7 @@
 package DeprecatedTestingUnit;
 
 import org.acoli.glaser.metadata.deprecatedCode.MainRunner;
-import org.acoli.glaser.metadata.unit.extract.Config;
+import org.acoli.glaser.metadata.units.util.Config;
 import org.acoli.glaser.metadata.deprecatedCode.SourceDescriptions;
 import org.acoli.glaser.metadata.deprecatedCode.SourceTypes;
 import org.junit.Assert;
