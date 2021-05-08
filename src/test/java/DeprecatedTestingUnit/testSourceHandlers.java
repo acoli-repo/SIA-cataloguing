@@ -1,12 +1,12 @@
 package DeprecatedTestingUnit;
 
-import org.acoli.glaser.metadata.deprecatedClasses.MetadataFromBibtex;
-import org.acoli.glaser.metadata.deprecatedClasses.MetadataFromHTML;
-import org.acoli.glaser.metadata.pdf.extract.MetadataFromPDF;
-import org.acoli.glaser.metadata.deprecatedClasses.MetadataSourceHandler;
-import org.acoli.glaser.metadata.pdf.util.Metadata;
-import org.acoli.glaser.metadata.deprecatedClasses.Metadata2TTL;
-import org.acoli.glaser.metadata.pdf.extract.PDFExtractionConfiguration;
+import org.acoli.glaser.metadata.deprecatedCode.MetadataFromBibtex;
+import org.acoli.glaser.metadata.deprecatedCode.MetadataFromHTML;
+import org.acoli.glaser.metadata.unit.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.deprecatedCode.MetadataSourceHandler;
+import org.acoli.glaser.metadata.unit.util.Metadata;
+import org.acoli.glaser.metadata.deprecatedCode.Metadata2TTL;
+import org.acoli.glaser.metadata.unit.extract.PDFExtractionConfiguration;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

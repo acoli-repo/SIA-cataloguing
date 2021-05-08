@@ -1,6 +1,6 @@
 package DeprecatedTestingUnit;
 
-import org.acoli.glaser.metadata.pdf.util.Metadata;
+import org.acoli.glaser.metadata.unit.util.Metadata;
 import org.junit.Assert;
 import org.junit.Test;
 

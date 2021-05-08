@@ -1,7 +1,7 @@
 package DeprecatedTestingUnit;
 
-import org.acoli.glaser.metadata.pdf.util.Metadata;
-import org.acoli.glaser.metadata.deprecatedClasses.MetadataFromBibtex;
+import org.acoli.glaser.metadata.unit.util.Metadata;
+import org.acoli.glaser.metadata.deprecatedCode.MetadataFromBibtex;
 import org.junit.Test;
 
 import java.util.Arrays;
