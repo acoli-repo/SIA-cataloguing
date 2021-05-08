@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 public class Util {
 
-    private static Logger LOG = Logger.getLogger(MainRunner.class.getName());
+    private static Logger LOG = Logger.getLogger(Util.class.getName());
 
     public static Config readConfigs(String pathToConfigFile) {
         Gson gson = new Gson();
