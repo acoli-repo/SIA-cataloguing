@@ -63,7 +63,6 @@ public class PDFToXML {
     }
 
     public boolean formatXmlFile(File xml) throws IOException {
-        System.out.println("check");
         File tmpFile = new File(xml.getAbsolutePath()+".tmp");
         BufferedReader bin = new BufferedReader(new FileReader(xml));
         BufferedWriter bout = new BufferedWriter(new FileWriter(tmpFile));
