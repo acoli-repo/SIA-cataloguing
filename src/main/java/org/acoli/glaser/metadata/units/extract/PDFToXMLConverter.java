@@ -35,15 +35,17 @@ public class PDFToXMLConverter {
         return true;
     }
 
-    public void convertToXML(String path) throws Exception{
+    public String convertToXML(String path) throws Exception {
         File file = new File(path);
         String name = file.getName().replace(".pdf", "");
         Runtime rt = Runtime.getRuntime();
+        String xml = tempDir + "/" + name + ".xml";
+
         Process conversion;
-        if(SystemUtils.IS_OS_LINUX){ //Operating System (OS)- Erkennung um den Shellcommand entsprechend anzupassen
-            conversion = rt.exec("pdftohtml -xml -i -c -q -s " + path + " " + tempDir + name + ".xml");
-        }else{
-            conversion = rt.exec("wsl \n  pdftohtml -xml -i -c -q -s " + path + " " + tempDir  + "/" + name + ".xml");
+        if (SystemUtils.IS_OS_LINUX) { //Operating System (OS)- Erkennung um den Shellcommand entsprechend anzupassen
+            conversion = rt.exec("pdftohtml -xml -i -c -q -s " + path + " " + xml);
+        } else {
+            conversion = rt.exec("wsl \n  pdftohtml -xml -i -c -q -s " + path + " " + xml);
         }
         try {
             LOG.info("Waiting for conversion to finish..");
@@ -56,6 +58,7 @@ public class PDFToXMLConverter {
         } catch (InterruptedException e) {
             System.exit(1); // TODO: Check how to handle this properly
         }
+        return xml;
     }
 
     public boolean removeDtdFromFile(File xml) throws IOException {
