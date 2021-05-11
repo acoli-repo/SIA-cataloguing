@@ -16,7 +16,7 @@ public class ItemParserMainRunner {
 
         List<String> listOfFoundFiles = dataReader.retrieveFilesFromList(itemsList, "documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471");
 
-        xmlConverter.convertListToXML(listOfFoundFiles);
+        xmlConverter.extractXML(listOfFoundFiles);
     }
 
 }

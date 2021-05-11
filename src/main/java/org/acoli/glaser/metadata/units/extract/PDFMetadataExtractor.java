@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 /**
  * Contains everything concerned with extracting fields from the XML Document. Uses XPaths for this.
  */
-public class PDFMetadataExtractor {
+public class  	PDFMetadataExtractor {
 
 	private static Logger LOG = Logger.getLogger(PDFMetadataExtractor.class.getName());
 	XPath xPath;

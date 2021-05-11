@@ -57,6 +57,7 @@ public class PDF2XML {
 		}
 		return xml;
 	}
+
 	public File pdfToXml(File pdf) throws IOException {
 		String xmlFileName = makeFileNameForXML(pdf.getName());
 		File xmlFile = new File (this.tmpDir+"/"+xmlFileName);
