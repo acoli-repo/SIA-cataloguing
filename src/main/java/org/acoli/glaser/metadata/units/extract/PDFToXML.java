@@ -9,15 +9,15 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
-public class PDFToXMLConverter {
+public class PDFToXML {
 
     private Config config;
     private String tempDir;
     private String rootDir;
 
-    private static Logger LOG = Logger.getLogger(PDFToXMLConverter.class.getName());
+    private static Logger LOG = Logger.getLogger(PDFToXML.class.getName());
 
-    public PDFToXMLConverter(){
+    public PDFToXML(){
         this.config = Util.readConfigs("configs.json");
         this.tempDir = config.PathToTempDir;
         this.rootDir = config.DocumentRootDir;
@@ -28,28 +28,29 @@ public class PDFToXMLConverter {
         }
     }
 
-    public boolean extractXML(List<String> listOfFoundFiles) throws Exception{
+    public boolean extractXmlFromPdf(List<String> listOfFoundFiles) throws Exception{
         for (String file : listOfFoundFiles){
-            convertToXML(file);
+            String xmlPath = convertToXml(file);
+            File xmlFile = new File(xmlPath);
+            formatXmlFile(xmlFile);
         }
         return true;
     }
 
-    public String convertToXML(String path) throws Exception {
-        File file = new File(path);
-        String name = file.getName().replace(".pdf", "");
-        Runtime rt = Runtime.getRuntime();
-        String xml = tempDir + "/" + name + ".xml";
-
-        Process conversion;
-        if (SystemUtils.IS_OS_LINUX) { //Operating System (OS)- Erkennung um den Shellcommand entsprechend anzupassen
-            conversion = rt.exec("pdftohtml -xml -i -c -q -s " + path + " " + xml);
-        } else {
-            conversion = rt.exec("wsl \n  pdftohtml -xml -i -c -q -s " + path + " " + xml);
+    public String convertToXml(String pdfFilePath) throws Exception {
+        File pdfFile = new File(pdfFilePath);
+        String nameOfPaper = pdfFile.getName().replace(".pdf", "");
+        Runtime executionRuntime = Runtime.getRuntime();
+        String xmlFilePath = tempDir + "/" + nameOfPaper + ".xml";
+        Process pdfToXmlConversion;
+        if (SystemUtils.IS_OS_LINUX) { //Linus Process
+            pdfToXmlConversion = executionRuntime.exec("pdftohtml -xml -i -c -q -s " + pdfFilePath + " " + xmlFilePath);
+        } else {//Windows Process. Ubuntu Virtual Machine needs to be installed
+            pdfToXmlConversion = executionRuntime.exec("wsl \n  pdftohtml -xml -i -c -q -s " + pdfFilePath + " " + xmlFilePath);
         }
         try {
             LOG.info("Waiting for conversion to finish..");
-            boolean didFinish = conversion.waitFor(10, TimeUnit.SECONDS);
+            boolean didFinish = pdfToXmlConversion.waitFor(10, TimeUnit.SECONDS);
             if (didFinish) {
                 LOG.info("Conversion done.");
             } else {
@@ -58,10 +59,11 @@ public class PDFToXMLConverter {
         } catch (InterruptedException e) {
             System.exit(1); // TODO: Check how to handle this properly
         }
-        return xml;
+        return xmlFilePath;
     }
 
-    public boolean removeDtdFromFile(File xml) throws IOException {
+    public boolean formatXmlFile(File xml) throws IOException {
+        System.out.println("check");
         File tmpFile = new File(xml.getAbsolutePath()+".tmp");
         BufferedReader bin = new BufferedReader(new FileReader(xml));
         BufferedWriter bout = new BufferedWriter(new FileWriter(tmpFile));
