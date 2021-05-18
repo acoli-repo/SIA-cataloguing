@@ -8,7 +8,6 @@ import org.w3c.dom.Document;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 
 
@@ -34,15 +33,15 @@ public class Main {
             Metadata metadata = pme.getMetadata(xmlDocument);
             return metadata;
     }
+
     public static PDFMetadataExtractor writeConfig() {
         PDFExtractionConfiguration config = new PDFExtractionConfiguration();
-        config.setAuthorFont(2);
+        config.setAuthorFont(5);
         config.setAuthorHeight(18);
         config.setTitleFont(0);
         config.setTitleHeight(32);
         config.setPageFont(5);
         config.setPageHeight(16);
-        PDFExtractionConfiguration dummyConfig = config;
         PDFMetadataExtractor pme = new PDFMetadataExtractor(config);
         return pme;
     }
