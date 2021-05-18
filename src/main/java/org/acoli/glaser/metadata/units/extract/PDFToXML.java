@@ -62,24 +62,27 @@ public class PDFToXML {
         return xmlFilePath;
     }
 
-    public boolean formatXmlFile(File xml) throws IOException {
-        File tmpFile = new File(xml.getAbsolutePath()+".tmp");
-        BufferedReader bin = new BufferedReader(new FileReader(xml));
-        BufferedWriter bout = new BufferedWriter(new FileWriter(tmpFile));
-        LOG.info("Removing DTD in "+xml.getAbsolutePath());
-        for(String line = ""; line!=null; line=bin.readLine()) {
+    public String formatXmlFile(File xmlFile) throws IOException {
+        String tempFilePath = xmlFile.getAbsolutePath()+".tmp";
+        File tempFile = new File(tempFilePath);
+        BufferedReader bufRead = new BufferedReader(new FileReader(xmlFile));
+        BufferedWriter bufWrite = new BufferedWriter(new FileWriter(tempFile));
+        LOG.info("Removing DTD in "+xmlFile.getAbsolutePath());
+        for(String line = ""; line!=null; line=bufRead.readLine()) {
             if (line.length() > 1 && !line.startsWith("<!DOCTYPE")) {
-                bout.write(line+"\n");
+                bufWrite.write(line+"\n");
             }
         }
-        bout.flush();
-        bout.close();
-
-        boolean success = tmpFile.renameTo(xml);
+        bufWrite.flush();
+        bufWrite.close();
+        return tempFilePath;
+/*
+        boolean success = tempFile.renameTo(xmlFile);
         if (success)
-            LOG.info("Done.");
+            LOG.info("Done.");                                          // Leave it for later
         else
             LOG.warning("Couldn't move file.");
-        return success;
+        return true;*/
     }
+
 }
