@@ -1,8 +1,8 @@
 package org.acoli.glaser.metadata.units;
 
-import org.acoli.glaser.metadata.units.extract.PDFExtractionConfiguration;
-import org.acoli.glaser.metadata.units.extract.PDFMetadataExtractor;
-import org.acoli.glaser.metadata.units.extract.PDFToXML;
+import org.acoli.glaser.metadata.units.extraction.PDFExtractionConfiguration;
+import org.acoli.glaser.metadata.units.extraction.PDFMetadataExtractor;
+import org.acoli.glaser.metadata.units.extraction.PDFToXML;
 import org.acoli.glaser.metadata.units.util.Config;
 import org.acoli.glaser.metadata.units.util.Metadata;
 import org.acoli.glaser.metadata.units.util.Util;
@@ -19,9 +19,9 @@ public class Main {
     private static PDFExtractionConfiguration extractorConfig = jsonConfig.sources.get(0).getExtractorConfig();
 
 
-    public static String convertPdfToXml() throws Exception {
+    public static String convertPdfToXml(String pdfPath) throws Exception {
         PDFToXML xmlConverter = new PDFToXML();
-        String xmlFilePath = xmlConverter.convertToXml("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/backley.pdf");
+        String xmlFilePath = xmlConverter.convertToXml(pdfPath);
         File xmlFile = new File(xmlFilePath);
         String tempFilePath = xmlConverter.formatXmlFile(xmlFile); //TODO replace the xml file instead of creating xml.temp file
         return tempFilePath;
@@ -47,14 +47,15 @@ public class Main {
     }
 
     public void run() throws Exception{
-        convertPdfToXml();
+        convertPdfToXml("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/backley.pdf");
         writeData();
         evaluateData();
     }
 
     public static void main(String[] args) throws Exception {
-        String filePath = convertPdfToXml(); // Step 1
+        String filePath = convertPdfToXml("documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/ackema.pdf"); // Step 1
         Metadata metadata = extractMetadata(filePath); //Step 2
+        System.out.println(metadata);
         writeData();
     }
 }

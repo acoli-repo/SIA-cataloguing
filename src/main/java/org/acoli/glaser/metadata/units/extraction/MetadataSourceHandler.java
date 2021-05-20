@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.units.extract;
+package org.acoli.glaser.metadata.units.extraction;
 
 import org.acoli.glaser.metadata.units.util.Metadata;
 

@@ -1,9 +1,9 @@
 package org.acoli.glaser.metadata.deprecatedCode;
 
-import org.acoli.glaser.metadata.units.extract.PDFExtractionConfiguration;
-import org.acoli.glaser.metadata.units.extract.PDFMetadataExtractor;
+import org.acoli.glaser.metadata.units.extraction.PDFExtractionConfiguration;
+import org.acoli.glaser.metadata.units.extraction.PDFMetadataExtractor;
 import org.acoli.glaser.metadata.units.testing.DataReader;
-import org.acoli.glaser.metadata.units.extract.PDFToXML;
+import org.acoli.glaser.metadata.units.extraction.PDFToXML;
 import org.acoli.glaser.metadata.units.util.Metadata;
 import org.w3c.dom.Document;
 

@@ -1,9 +1,9 @@
 package DeprecatedTestingUnit;
 
-import org.acoli.glaser.metadata.units.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.units.extraction.MetadataFromPDF;
 import org.acoli.glaser.metadata.deprecatedCode.PDF2XML;
-import org.acoli.glaser.metadata.units.extract.PDFExtractionConfiguration;
-import org.acoli.glaser.metadata.units.extract.PDFMetadataExtractor;
+import org.acoli.glaser.metadata.units.extraction.PDFExtractionConfiguration;
+import org.acoli.glaser.metadata.units.extraction.PDFMetadataExtractor;
 import org.junit.Before;
 import org.junit.Test;
 import org.w3c.dom.Document;

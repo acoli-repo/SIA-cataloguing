@@ -7,7 +7,7 @@ public class JsonWriterMainRunner {
 
     public static void main(String[] args) throws Exception{
         JsonWriter js = new JsonWriter();
-        JSONObject obj = js.writeJSONFromMeta();
+        JSONObject obj = js.writeJSONFromMetadata(null);
         System.out.println(obj);
     }
 

@@ -2,11 +2,11 @@ package DeprecatedTestingUnit;
 
 import org.acoli.glaser.metadata.deprecatedCode.MetadataFromBibtex;
 import org.acoli.glaser.metadata.deprecatedCode.MetadataFromHTML;
-import org.acoli.glaser.metadata.units.extract.MetadataFromPDF;
+import org.acoli.glaser.metadata.units.extraction.MetadataFromPDF;
 import org.acoli.glaser.metadata.deprecatedCode.MetadataSourceHandler;
 import org.acoli.glaser.metadata.units.util.Metadata;
 import org.acoli.glaser.metadata.deprecatedCode.Metadata2TTL;
-import org.acoli.glaser.metadata.units.extract.PDFExtractionConfiguration;
+import org.acoli.glaser.metadata.units.extraction.PDFExtractionConfiguration;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

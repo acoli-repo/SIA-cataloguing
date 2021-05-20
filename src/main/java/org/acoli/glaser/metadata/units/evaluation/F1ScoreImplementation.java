@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.units.evaluate;
+package org.acoli.glaser.metadata.units.evaluation;
 
 public class F1ScoreImplementation {
 

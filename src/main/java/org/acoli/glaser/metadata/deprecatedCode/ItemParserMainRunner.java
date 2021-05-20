@@ -1,7 +1,7 @@
 package org.acoli.glaser.metadata.deprecatedCode;
 
 import org.acoli.glaser.metadata.units.testing.DataReader;
-import org.acoli.glaser.metadata.units.extract.PDFToXML;
+import org.acoli.glaser.metadata.units.extraction.PDFToXML;
 
 import java.util.List;
 

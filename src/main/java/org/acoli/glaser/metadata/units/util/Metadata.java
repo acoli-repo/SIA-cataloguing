@@ -38,13 +38,6 @@ public class Metadata {
 		return repr.toString();
 	}
 
-	public boolean hasTitle() {
-		return  title != null;
-	}
-	public boolean hasAuthors() {
-		return authors != null;
-	}
-
 
 	@Override
 	public boolean equals(Object obj) {

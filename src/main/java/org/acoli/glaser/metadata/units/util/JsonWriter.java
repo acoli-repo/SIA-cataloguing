@@ -8,25 +8,25 @@ import java.io.IOException;
 
 public class JsonWriter {
 
-    public JSONObject writeJSONFromMeta() throws IOException {
-        JSONObject obj = new JSONObject();
+    public JSONObject writeJSONFromMetadata(Metadata metadata) throws IOException {
+        JSONObject jsonObj = new JSONObject();
         JSONArray list = new JSONArray();
         JSONObject obj1 = new JSONObject();
         obj1.put("source", "pdf");
         obj1.put("title", "Representing and processing idioms");
         list.add(obj1);
-        obj.put("title", list);
-        obj.put("ppn", "17465734X");
+        jsonObj.put("title", list);
+        jsonObj.put("ppn", "17465734X");
 
 
         try(FileWriter file = new FileWriter("myJson.json")){
-            file.write(obj.toString());
+            file.write(jsonObj.toString());
             file.flush();
         }
         catch (IOException e){
             e.printStackTrace();
         }
 
-        return obj;
+        return jsonObj;
     }
 }
