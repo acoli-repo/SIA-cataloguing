@@ -1,6 +1,6 @@
 package org.acoli.glaser.metadata.deprecatedCode;
 
-import org.acoli.glaser.metadata.units.write.JsonWriter;
+import org.acoli.glaser.metadata.units.util.JsonWriter;
 import org.json.simple.JSONObject;
 
 public class JsonWriterMainRunner {

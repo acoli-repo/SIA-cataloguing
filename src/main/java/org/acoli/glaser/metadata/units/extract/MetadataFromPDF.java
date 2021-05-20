@@ -1,7 +1,7 @@
 package org.acoli.glaser.metadata.units.extract;
 
 import org.acoli.glaser.metadata.deprecatedCode.*;
-import org.acoli.glaser.metadata.units.old.PDF2XML;
+import org.acoli.glaser.metadata.deprecatedCode.PDF2XML;
 import org.acoli.glaser.metadata.units.util.Metadata;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;

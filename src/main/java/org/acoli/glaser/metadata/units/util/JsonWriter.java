@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.units.write;
+package org.acoli.glaser.metadata.units.util;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

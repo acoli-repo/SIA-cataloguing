@@ -1,4 +1,4 @@
-package org.acoli.glaser.metadata.units.old;
+package org.acoli.glaser.metadata.deprecatedCode;
 
 import java.io.*;
 import java.util.concurrent.TimeUnit;
