@@ -7,11 +7,11 @@
       "type" : "pdf",
       "split" : false,
       "extractorConfig" : {
-        "authorHeight" :23,
-        "authorFont" :2,
+        "authorHeight" :18,
+        "authorFont" :5,
         "titleHeight" :32,
-        "titleFont" :0,
-        "pageHeight" :19,
+        "titleFont" :2,
+        "pageHeight" :18,
         "pageFont" :5
       }
     }
