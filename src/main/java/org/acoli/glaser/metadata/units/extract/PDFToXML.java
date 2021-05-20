@@ -13,14 +13,12 @@ public class PDFToXML {
 
     private Config config;
     private String tempDir;
-    private String rootDir;
 
     private static Logger LOG = Logger.getLogger(PDFToXML.class.getName());
 
     public PDFToXML(){
         this.config = Util.readConfigs("configs.json");
         this.tempDir = config.PathToTempDir;
-        this.rootDir = config.DocumentRootDir;
 
         File directory = new File(tempDir);
         if(!directory.exists()){
