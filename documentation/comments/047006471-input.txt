@@ -1,0 +1,3 @@
+
+DIANE BLAKEMORE and ROBYN CARSTON 
+fails with setting isAuthorAllUppercase=true, because and is not in uppercase. Maybe split authors text and look for all-uppercase words instead

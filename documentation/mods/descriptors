@@ -1,0 +1,33 @@
+<mods>
+    
+<recordInfo>
+  <recordIdentifier>https://annohub.linguistik.de/resource/NsYgzx/TFZH9iqmkbw8ZIlcC8kT3FE5mu1+vJ9B5wDk=</recordIdentifier>
+</recordInfo>
+
+<language>
+      <languageTerm authority="iso639-3" authorityURI="http://lexvo.org/id/iso639-3/" type="code" valueURI="http://lexvo.org/id/iso639-3/swe">swe</languageTerm>
+</language>
+
+<abstract type="description">Stockholm-Umeå corpus</abstract>
+
+<subject>corpus</subject>
+<subject>linguistics</subject>
+<subject>lod</subject>
+
+
+
+<name type="personal">
+    <namePart>Maciej Buczek</namePart>
+    <affiliation>University of Łódź</affiliation>
+    <role>
+        <roleTerm type="text" authority="dcterms" authorityURI="http://purl.org/dc/terms/" valueURI="http://purl.org/dc/terms/creator">creator</roleTerm>
+    </role>    
+</name>
+
+<name type="personal">
+    <namePart>Piotr Pęzik</namePart>
+    <affiliation>University of Łódź</affiliation>
+    <role>
+        <roleTerm type="text" authority="dcterms" authorityURI="http://purl.org/dc/terms/" valueURI="http://purl.org/dc/terms/creator">contributor</roleTerm>
+    </role>           
+</name>

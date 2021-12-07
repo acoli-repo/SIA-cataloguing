@@ -1,0 +1,22 @@
+- if bibtex file is available then skip pdf parsing 
+ISBN 
+ - vial full text query
+ - via regular queryBuilder
+ 
+ - use top to limit results (e.g. top <= 200) 
+ - omit parameters
+   authorFont, authorFontRelation : if authorFont not specified then authorFontRelation is ignored
+   - now omitting both results in no author parsing
+   same for authorHeightMin/Max : if authorHeightMin/Max is omitted then authorHeigth is assumed to be used
+ - AllUpperCase gets all text in upper case
+ - get maximum height on page for use with titleHeight
+ - get title :
+   - page
+   - get first text on page (join subsequent lines with very similar font)
+   get author :
+   - page
+   - get second text on page
+     - since often authors are spread over several subsequent lines:
+       - that cab furthermore can contain different fonts, e.g. in the case of capitalized names (e.g. C.Walther or Cohen, first letter
+         capitalized)
+       - use advanced join operation

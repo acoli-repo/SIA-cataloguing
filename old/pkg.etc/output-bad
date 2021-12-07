@@ -1,0 +1,1896 @@
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/harrison.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/harrison.xml
+Waiting for conversion to finish..
+Conversion done.
+backley
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/backley.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/backley.xml
+Waiting for conversion to finish..
+Conversion done.
+teng
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/teng.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/teng.xml
+Waiting for conversion to finish..
+Conversion done.
+rosta
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/rosta.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/rosta.xml
+Waiting for conversion to finish..
+Conversion done.
+osawa
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/osawa.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/osawa.xml
+Waiting for conversion to finish..
+Conversion done.
+kreps
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/kreps.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/kreps.xml
+Waiting for conversion to finish..
+Conversion done.
+koot
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/koot.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/koot.xml
+Waiting for conversion to finish..
+Conversion done.
+hudson
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/hudson.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/hudson.xml
+Waiting for conversion to finish..
+Conversion done.
+cormack
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/cormack.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cormack.xml
+Waiting for conversion to finish..
+Conversion done.
+vermeulen
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/vermeulen.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/vermeulen.xml
+Waiting for conversion to finish..
+Conversion done.
+lekakou
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/lekakou.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/lekakou.xml
+Waiting for conversion to finish..
+Conversion done.
+law
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/law.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/law.xml
+Waiting for conversion to finish..
+Conversion done.
+arad
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/arad.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/arad.xml
+Waiting for conversion to finish..
+Conversion done.
+cormack_smith
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/cormack_smith.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cormack_smith.xml
+Waiting for conversion to finish..
+Conversion done.
+polgardi
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/polgardi.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/polgardi.xml
+Waiting for conversion to finish..
+Conversion done.
+harrison
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/harrison.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/harrison.xml
+Waiting for conversion to finish..
+Conversion done.
+harris
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/harris.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/harris.xml
+Waiting for conversion to finish..
+Conversion done.
+cabrera2
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/cabrera2.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cabrera2.xml
+Waiting for conversion to finish..
+Conversion done.
+cabrera1
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/cabrera1.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cabrera1.xml
+Waiting for conversion to finish..
+Conversion done.
+backley
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/backley.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/backley.xml
+Waiting for conversion to finish..
+Conversion done.
+rouchota
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/rouchota.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/rouchota.xml
+Waiting for conversion to finish..
+Conversion done.
+papafrag
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/papafrag.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/papafrag.xml
+Waiting for conversion to finish..
+Conversion done.
+noh
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/noh.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/noh.xml
+Waiting for conversion to finish..
+Conversion done.
+higashi
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/higashi.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/higashi.xml
+Waiting for conversion to finish..
+Conversion done.
+evans
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/evans.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/evans.xml
+Waiting for conversion to finish..
+Conversion done.
+curco
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/curco.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/curco.xml
+Waiting for conversion to finish..
+Conversion done.
+carston
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/carston.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/carston.xml
+Waiting for conversion to finish..
+Conversion done.
+breheny
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/breheny.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/breheny.xml
+Waiting for conversion to finish..
+Conversion done.
+smith
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/smith.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/smith.xml
+Waiting for conversion to finish..
+Conversion done.
+camdzic_hudson
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/camdzic_hudson.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/camdzic_hudson.xml
+Waiting for conversion to finish..
+Conversion done.
+ackema
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/ackema.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/ackema.xml
+Waiting for conversion to finish..
+Conversion done.
+wilson_sperber
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/wilson_sperber.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/wilson_sperber.xml
+Waiting for conversion to finish..
+Conversion done.
+wharton
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/wharton.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/wharton.xml
+Waiting for conversion to finish..
+Conversion done.
+taillard
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/taillard.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/taillard.xml
+Waiting for conversion to finish..
+Conversion done.
+jary
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/jary.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/jary.xml
+Waiting for conversion to finish..
+Conversion done.
+iten
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/iten.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/iten.xml
+Waiting for conversion to finish..
+Conversion done.
+allott
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/allott.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/allott.xml
+Waiting for conversion to finish..
+Conversion done.
+marshall_et_al
+pdftohtml -xml -i -c -q -s /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/marshall_et_al.pdf /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/marshall_et_al.xml
+Waiting for conversion to finish..
+Conversion done.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/hudson_holmes.xml
+Get metadata from hudson_holmes.xml
+Juni 15, 2021 4:28:01 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:01 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:01 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:01 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:01 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 11.0
+Juni 15, 2021 4:28:01 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 122 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/deirdre.xml
+Get metadata from deirdre.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 17.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/rosta.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Get metadata from rosta.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 23.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 81 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/smith_et_al.xml
+Get metadata from smith_et_al.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/rosa.xml
+Get metadata from rosa.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 3 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/allott.xml
+Get metadata from allott.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 59 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/perovic.xml
+Get metadata from perovic.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/mathieu.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 11 candidates for pageNumbers.
+Get metadata from mathieu.xml
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:02 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 204 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/law.xml
+Get metadata from law.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 92 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/vermeulen.xml
+Get metadata from vermeulen.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/lekakou.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 37 candidates for pageNumbers.
+Get metadata from lekakou.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 14.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/kim.xml
+Get metadata from kim.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 185 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/papafrag.xml
+Get metadata from papafrag.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/neeleman_vandekoot.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Get metadata from neeleman_vandekoot.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 276 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/nuti.xml
+Get metadata from nuti.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 4.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 205 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/carston.xml
+Get metadata from carston.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/hiranuma.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 30 candidates for pageNumbers.
+Get metadata from hiranuma.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 11.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 400 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/hans_eric.xml
+Get metadata from hans_eric.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/harris_gussmann.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 283 candidates for pageNumbers.
+Get metadata from harris_gussmann.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 7.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 6 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/kang.xml
+Get metadata from kang.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 6.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 181 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/robyn.xml
+Get metadata from robyn.xml
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:03 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/curco.xml
+Get metadata from curco.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 11 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/polgardi.xml
+Get metadata from polgardi.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/papangeli.xml
+Get metadata from papangeli.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 25 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/ackema.xml
+Get metadata from ackema.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 370 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/takeuchi.xml
+Get metadata from takeuchi.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 15.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 141 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/bates.xml
+Get metadata from bates.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 12.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 190 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/gisbourn.xml
+Get metadata from gisbourn.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 7.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 112 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/uchida.xml
+Get metadata from uchida.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 184 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/ackema_camdzic.xml
+Get metadata from ackema_camdzic.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/eppler.xml
+Get metadata from eppler.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 231 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/backley.xml
+Get metadata from backley.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 12.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 14 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/powell.xml
+Get metadata from powell.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 6.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 160 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/teng.xml
+Get metadata from teng.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 17.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/panitsa.xml
+Get metadata from panitsa.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 6 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/sperber.xml
+Get metadata from sperber.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 105 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/osawa.xml
+Get metadata from osawa.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/bhattach.xml
+Get metadata from bhattach.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 283 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cormack.xml
+Get metadata from cormack.xml
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:04 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 16.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/higashi.xml
+Get metadata from higashi.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 4.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/szendroi.xml
+Get metadata from szendroi.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 4.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 194 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cabrera2.xml
+Get metadata from cabrera2.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/noh.xml
+Get metadata from noh.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 12.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/livnat.xml
+Get metadata from livnat.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/white.xml
+Get metadata from white.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 11.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 106 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/ackema_szendroi.xml
+Get metadata from ackema_szendroi.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 275 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/arad.xml
+Get metadata from arad.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/manzini_roussou.xml
+Get metadata from manzini_roussou.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 215 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/sityaev.xml
+Get metadata from sityaev.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 6.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 251 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/breheny.xml
+Get metadata from breheny.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/bury.xml
+Get metadata from bury.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 235 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/holmes.xml
+Get metadata from holmes.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 18.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 164 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/manzini.xml
+Get metadata from manzini.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 7.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 79 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/kato.xml
+Get metadata from kato.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 119 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/smith.xml
+Get metadata from smith.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 13.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/blakemore_carston.xml
+Get metadata from blakemore_carston.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 4.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 126 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/janke.xml
+Get metadata from janke.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 3 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cabrera1.xml
+Get metadata from cabrera1.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 7.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 30 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/iten.xml
+Get metadata from iten.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 13.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 3 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/taillard.xml
+Get metadata from taillard.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 126 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/doetjes.xml
+Get metadata from doetjes.xml
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:05 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 11.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 261 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/marshall_et_al.xml
+Get metadata from marshall_et_al.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 390 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/wharton.xml
+Get metadata from wharton.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 515 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/brody.xml
+Get metadata from brody.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 4.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 309 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/froud.xml
+Get metadata from froud.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 8.0
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/harris.xml
+Get metadata from harris.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 446 candidates for pageNumbers.
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 19 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/koot.xml
+Get metadata from koot.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/topintzi.xml
+Get metadata from topintzi.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 35 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/hudson.xml
+Get metadata from hudson.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 11.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 33 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/vega.xml
+Get metadata from vega.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 6 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/rouchota.xml
+Get metadata from rouchota.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/kreps.xml
+Get metadata from kreps.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 464 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/evans.xml
+Get metadata from evans.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/camdzic_hudson.xml
+Get metadata from camdzic_hudson.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 9 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/jary.xml
+Get metadata from jary.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 248 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/horsey.xml
+Get metadata from horsey.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 4.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 199 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/wilson_sperber.xml
+Get metadata from wilson_sperber.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 696 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/cormack_smith.xml
+Get metadata from cormack_smith.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 38 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/harrison.xml
+Get metadata from harrison.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/wilson.xml
+Get metadata from wilson.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 5.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 131 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/nasukawa.xml
+Get metadata from nasukawa.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 10.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 241 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/ackema_neeleman.xml
+Get metadata from ackema_neeleman.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 9.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 320 candidates for pageNumbers.
+Removing DTD in /home/demo/Schreibtisch/ide/github/SIA-cataloguing/documentation/samples/input-examples/https-www-phon-ucl-ac-uk/047006471/resultData/yip.xml
+Get metadata from yip.xml
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getMetadata
+INFORMATION: Title: 
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findFirstPage
+INFORMATION: Found first page: 1.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor findPositionOfAbstract
+INFORMATION: Found abstract position 12.0
+Juni 15, 2021 4:28:06 PM org.acoli.sc.extract.PDFMetadataExtractor getPageNumberCandidatesWithHeight
+INFORMATION: Found 0 candidates for pageNumbers.
+1
+file:hudson_holmes.xml
+title:
+authors:[]
+first page:350
+last page:380
+pages:30
+2
+file:deirdre.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+3
+file:rosta.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+4
+file:smith_et_al.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+5
+file:rosa.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+6
+file:allott.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+7
+file:perovic.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+8
+file:mathieu.xml
+title:
+authors:[]
+first page:442
+last page:474
+pages:32
+9
+file:law.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+10
+file:vermeulen.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+11
+file:lekakou.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+12
+file:kim.xml
+title:
+authors:[]
+first page:2
+last page:24
+pages:22
+13
+file:papafrag.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+14
+file:neeleman_vandekoot.xml
+title:
+authors:[]
+first page:474
+last page:522
+pages:48
+15
+file:nuti.xml
+title:
+authors:[]
+first page:1
+last page:101
+pages:100
+16
+file:carston.xml
+title:
+authors:[]
+first page:2
+last page:30
+pages:28
+17
+file:hiranuma.xml
+title:
+authors:[]
+first page:2
+last page:28
+pages:26
+18
+file:hans_eric.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+19
+file:harris_gussmann.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+20
+file:kang.xml
+title:
+authors:[]
+first page:382
+last page:404
+pages:22
+21
+file:robyn.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+22
+file:curco.xml
+title:
+authors:[]
+first page:2
+last page:12
+pages:10
+23
+file:polgardi.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+24
+file:papangeli.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+25
+file:ackema.xml
+title:
+authors:[]
+first page:293
+last page:319
+pages:26
+26
+file:takeuchi.xml
+title:
+authors:[]
+first page:2
+last page:24
+pages:22
+27
+file:bates.xml
+title:
+authors:[]
+first page:2
+last page:26
+pages:24
+28
+file:gisbourn.xml
+title:
+authors:[]
+first page:2
+last page:26
+pages:24
+29
+file:uchida.xml
+title:
+authors:[]
+first page:2
+last page:29
+pages:27
+30
+file:ackema_camdzic.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+31
+file:eppler.xml
+title:
+authors:[]
+first page:286
+last page:308
+pages:22
+32
+file:backley.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+33
+file:powell.xml
+title:
+authors:[]
+first page:2
+last page:32
+pages:30
+34
+file:teng.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+35
+file:panitsa.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+36
+file:sperber.xml
+title:
+authors:[]
+first page:2
+last page:20
+pages:18
+37
+file:osawa.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+38
+file:bhattach.xml
+title:
+authors:[]
+first page:2
+last page:113
+pages:111
+39
+file:cormack.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+40
+file:higashi.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+41
+file:szendroi.xml
+title:
+authors:[]
+first page:546
+last page:574
+pages:28
+42
+file:cabrera2.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+43
+file:noh.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+44
+file:livnat.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+45
+file:white.xml
+title:
+authors:[]
+first page:2
+last page:20
+pages:18
+46
+file:ackema_szendroi.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+47
+file:arad.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+48
+file:manzini_roussou.xml
+title:
+authors:[]
+first page:404
+last page:442
+pages:38
+49
+file:sityaev.xml
+title:
+authors:[]
+first page:3
+last page:304
+pages:301
+50
+file:breheny.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+51
+file:bury.xml
+title:
+authors:[]
+first page:368
+last page:387
+pages:19
+52
+file:holmes.xml
+title:
+authors:[]
+first page:324
+last page:350
+pages:26
+53
+file:manzini.xml
+title:
+authors:[]
+first page:2
+last page:12
+pages:10
+54
+file:kato.xml
+title:
+authors:[]
+first page:2
+last page:27
+pages:25
+55
+file:smith.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+56
+file:blakemore_carston.xml
+title:
+authors:[]
+first page:2
+last page:21
+pages:19
+57
+file:janke.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+58
+file:cabrera1.xml
+title:
+authors:[]
+first page:2
+last page:31
+pages:29
+59
+file:iten.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+60
+file:taillard.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+61
+file:doetjes.xml
+title:
+authors:[]
+first page:2
+last page:48
+pages:46
+62
+file:marshall_et_al.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+63
+file:wharton.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+64
+file:brody.xml
+title:
+authors:[]
+first page:2
+last page:48
+pages:46
+65
+file:froud.xml
+title:
+authors:[]
+first page:0
+last page:200
+pages:200
+66
+file:harris.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+67
+file:koot.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+68
+file:topintzi.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+69
+file:hudson.xml
+title:
+authors:[]
+first page:2
+last page:33
+pages:31
+70
+file:vega.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+71
+file:rouchota.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+72
+file:kreps.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+73
+file:evans.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+74
+file:camdzic_hudson.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+75
+file:jary.xml
+title:
+authors:[]
+first page:158
+last page:186
+pages:28
+76
+file:horsey.xml
+title:
+authors:[]
+first page:2
+last page:21
+pages:19
+77
+file:wilson_sperber.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+78
+file:cormack_smith.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+79
+file:harrison.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+80
+file:wilson.xml
+title:
+authors:[]
+first page:2
+last page:28
+pages:26
+81
+file:nasukawa.xml
+title:
+authors:[]
+first page:2
+last page:23
+pages:21
+82
+file:ackema_neeleman.xml
+title:
+authors:[]
+first page:308
+last page:344
+pages:36
+83
+file:yip.xml
+title:
+authors:[]
+first page:0
+last page:0
+pages:0
+Total files:83
+0

@@ -1,0 +1,104 @@
+https://www.loc.gov/standards/mods/v3/mods-userguide-examples.html#journal_article
+https://www.loc.gov/standards/mods/userguide/examples.html
+
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<mods version="3.3">
+
+	<recordInfo>
+	  <recordIdentifier>https://annohub.linguistik.de/resource/NsYgzx/TFZH9iqmkbw8ZIlcC8kT3FE5mu1+vJ9B5wDk=</recordIdentifier>
+	</recordInfo>
+	
+	<abstract>
+	Academic libraries need to change their recruiting and hiring procedures to stay competitive in today's changing
+	marketplace. By taking too long to find and to hire talented professionals in a tight labor market, academic libraries
+	are losing out on top candidates and limiting their ability to become innovative and dynamic organizations. Traditional,
+	deliberate, and risk-averse hiring models lead to positions remaining open for long periods, opportunities lost as top
+	prospects find other positions, and a reduction in the overall talent level of the organization. To be more competitive
+	and effective in their recruitment and hiring processes, academic libraries must foster manageable internal solutions,
+	look to other professions for effective hiring techniques and models, and employ innovative concepts from modern personnel
+	management literature.
+    </abstract>
+	
+
+  	<titleInfo>
+  	  	<title>Hiring and recruitment practices in academic libraries</title>
+  	</titleInfo>
+  	
+  	<name type="personal">
+  	  	<namePart>Raschke, Gregory K.</namePart>
+  	  	<displayForm>Gregory K. Raschke</displayForm>
+  	<affiliation>University of Łódź</affiliation>
+    <role>
+        <roleTerm type="text" authority="dcterms" authorityURI="http://purl.org/dc/terms/" valueURI="http://purl.org/dc/terms/creator">creator</roleTerm>
+    </role> 
+  	</name>
+  	
+  	<name type="personal">
+    <namePart>Piotr Pęzik</namePart>
+    <affiliation>University of Łódź</affiliation>
+    <role>
+        <roleTerm type="text" authority="dcterms" authorityURI="http://purl.org/dc/terms/" valueURI="http://purl.org/dc/terms/creator">contributor</roleTerm>
+    </role>           
+	</name>
+  	
+  	<typeOfResource>text</typeOfResource>
+  	
+  	<genre>journal article</genre>
+  	
+  	<originInfo>
+  	  	<place>
+  	  	  	<text>Baltimore, Md.</text>
+  	  	</place>
+  	  	<publisher>Johns Hopkins University Press</publisher>
+  	  	<dateIssued>2003</dateIssued>
+  	  	<issuance>monographic</issuance>
+  	</originInfo>
+  	
+  	<location>
+      <url note="html_link">http://www.elpublishing.org/itempage/114</url>
+    </location>
+    <location>
+      <url note="pdf_link">http://www.elpublishing.org/docs/1/10/ldd10_04.pdf</url>
+    </location>
+    <location>
+      <physicalLocation type="html_name">http-www-elpublishing-org-itempage-114.html</physicalLocation>
+    </location>
+    <location>
+      <physicalLocation type="pdf_name">ldd10-04-pdf.pdf</physicalLocation>
+    </location>
+  	
+  	<language>
+      <languageTerm authority="iso639-3" authorityURI="http://lexvo.org/id/iso639-3/" type="code" valueURI="http://lexvo.org/id/iso639-3/swe">swe</languageTerm>
+	</language>
+  	<language authority="iso639-2b">eng</language>
+  		
+  	<part>
+  	  	<detail type="volume">
+  	  	    <caption>Endangered languages and the land: Mapping landscapes of multilingualism</caption>
+  	  	  	<number>3</number>
+  	  	</detail>
+  	  	<detail type="number">
+  	  	  	<number>1</number>
+  	  	  	<caption>no.</caption>
+  	  	</detail>
+  	  	<extent unit="page">
+  	  	  	<start>53</start>
+  	  	  	<end>57</end>
+  	  	</extent>
+  	  	<date>Jan. 2003</date>
+  	</part>
+
+	<subject>
+        <topic>Schlagwort 1</topic>
+    </subject>
+    <subject>
+        <topic>Schlagwort 2</topic>
+    </subject>
+    <subject>
+        <topic>Schlagwort N</topic>
+    </subject>  	  	
+
+</mods>
+
+new classes : part, subject, language, genre, typeOfResource, abstract
+http://cr.openjdk.java.net/~iris/se/10/pfd/java-se-10-pfd-spec-01/api/javax/xml/bind/annotation/package-summary.html

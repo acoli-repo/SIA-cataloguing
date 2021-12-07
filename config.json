@@ -1,0 +1,250 @@
+{
+  "documentRootDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata",
+  "xmlDir" : "resultData",
+  "exportDir" : "/home/demo/Schreibtisch/bibtex",
+  "databaseDir" : "serializedData",
+  "stopWordFiles" : ["/home/demo/Schreibtisch/se_resources/name_lists/ub_stopwords_eng_short",
+  "/home/demo/Schreibtisch/se_resources/name_lists/lexvo_stopword_university_multiling"
+  ],
+  "affiliationFiles" : [
+  "/home/demo/Schreibtisch/se_resources/name_lists/wikidata_q3918_affiliations"
+  ],
+  "stanfordTaggerPath" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/stanford-postagger-full-2020-11-17/models/english-caseless-left3words-distsim.tagger",
+  "stanfordNerClassifierPath" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/stanford-postagger-full-2020-11-17/NER-classifiers/english.all.3class.distsim.crf.ser.gz",  
+  "openNlpPosModelPath": "/home/demo/Schreibtisch/en-open-nlp-models/en-pos-maxent.bin",
+  "openNlpNerModelPath": "/home/demo/Schreibtisch/en-open-nlp-models/en-ner-person.bin",
+  "runAllSources" : true,
+  "runMode" : "GET_STATS",
+  "sources" : [
+  {
+      "id" : "124671918",
+      "subId" : "a4",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "more : ",
+      "extractorConfig" : {
+        "citationDescriptions" : [
+        {"citationStartsAfterText" : "Cite this article:", "citationEndsBeforeText" : "Link to this article:",
+	    "citationVariants" : [
+	    {"contentDescription" : "author '\\.' year '\\.' title In '\\s.*?' ) journalTitle '\\s' volume ','  beginPage - endPage"}
+	    ]}
+	    ],
+	    "bindSequentialLinesBy" : "fontType",
+	    "firstPage" : 1
+	  }
+    },
+ {
+      "id" : "124671918",
+      "subId" : "a3",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "",
+      "extractorConfig" : {
+        "citationDescriptions" : [
+        {"citationStartsAfterText" : "Cite this item:", "citationEndsBeforeText" : "Link to this item:",
+	    "citationVariants" : [
+	    {"contentDescription" : "author (year) title '\\..*' In journalTitle edited '.*?' beginPage - endPage"}
+	    ]}
+	    ],
+	    "bindSequentialLinesBy" : "fontType",
+	    "firstPage" : 1
+	  }
+    },
+ {
+      "id" : "124671918",
+      "subId" : "a2",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "",
+      "extractorConfig" : {
+        "citationDescriptions" : [
+        {"citationStartsAfterText" : "Cite this article:", "citationEndsBeforeText" : "Link to this article:",
+	    "citationVariants" : [
+	    {"contentDescription" : "author (year) title? '\\..*' ) journalTitle vol volume '.*?' beginPage - endPage"}
+	    ]}
+	    ],
+	    "bindSequentialLinesBy" : "fontType",
+	    "firstPage" : 1
+	  }
+    },
+    
+   {
+      "id" : "mult_047505494",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "override default bindSequentialLinesBy=fontType  .*?\\d+\\s*Working Papers in Scandinavian Syntax",
+      "extractorConfig" : {
+        "tocDescriptions" : [
+        {"tocStartsAfterText" : "WORKING PAPERS.*\\d+", "tocEndsBeforeText" : "Preface",
+	    "tocEntryDescription" : [
+	    {"contentDescription" : "author"}, {"contentDescription" : "title? beginPage – endPage"}
+	    ]},
+	    {"tocStartsAfterText" : "WORKING PAPERS.*\\d+", "tocEndsBeforeText" : ".*?Working Papers in Scandinavian Syntax",
+	    "tocEntryDescription" : [
+	    {"contentDescription" : "author"}, {"contentDescription" : "title? beginPage – endPage"}
+	    ]}
+	    ],
+	    "firstPage" : 1
+	  }
+    },
+      {
+      "id" : "mult_048020990",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "toc ok, footer not extracted!, override default bindSequentialLinesBy=fontType; does not work with footerPage=7",
+      "extractorConfig" : {
+        "tocDescriptions" : [
+	    {"tocStartsAfterText" : "Table of Contents", "tocEndsBeforeText" : "Proceedings of the",
+	    "tocEntryDescription" : [
+	    {"contentDescription" : "title '[\\.,\\…]+' beginPage"},{"contentDescription" : "author"}
+	    ]}],
+	    "bindSequentialLinesBy" : "fontType",
+	    "firstPage" : 5,
+	    "footerDescriptions" : [
+	    {"footerDescription" : "journalTitle? ',.*?' year ',' place", "footerStartsWithText" : "Proceedings of the 24th NWLC"}]
+      }
+    },
+    {
+      "id" : "047006471",
+      "active" :  false,
+      "comment" : "no mods available !, Total examined files :83
+		Files with title info:83
+		Files with author info:82
+		Files with page info:0
+		Files with journal info:36
+		Files with year info:36
+		Files with author, title info:82,
+		ok 3 : UCL Working Papers in Linguistics 8 (1996), misses KIM in author YOUNG-KOOK KIM",
+      "type" : "pdf",
+      "extractorConfig" : {
+      "bindSequentialLinesBy" : "fontType",
+      "authorFont" :0,
+	  "authorFontRelation" : ">=",
+        "pageHeight" :16,
+        "pageFont" :5,
+	"authorHeightMin" :0,
+	"authorHeightMax" :100,
+	"authorAllUppercase" : true,
+	"authorMinLength" : 4,
+	"titleHeightMin" : 30,
+	"titleHeightMax" : 35,
+	"authorTitleTop" : 400,
+	"authorTitleTopRelation" : "<",
+	"footerDescriptions" : [
+	{"footerDescription" : "journalTitle @issue@ (year)", "footerStartsWithText" : "UCL Working Papers"}],
+	"footerDescription" : "journalTitle @issue@ (year)",
+	"footerStartsWithText" : "UCL Working Papers"	
+      }
+    },
+     {
+      "id" : "047222476",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "ok 3 : errors: Hugo Salgado, instead of (Jessica Slavic & Ye Zhao)
+      , Hye - Min Kang & Ellen Thompson Florida in (... Florida International University) , Studies in the Linguistic Sciences: Illinois Working Papers 2013: 87-107",
+      "extractorConfig" : {
+        "bindSequentialLinesBy" : "fontType",
+        "bindLineGroupsBy" : "fontType+fontSize",
+	"firstPage" : 1,
+	"footerDescriptions" : [
+	{"footerDescription" : "journalTitle @year: @beginPage-endPage", "footerStartsWithText" : "Studies"}]
+      }
+    },
+    {
+      "id" : "047505494",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "ok 3, errors: 2-egerland-jonas - 
+      because clustering of title lines with different fonts (but same size) does not work,
+      Dennis Ott Humboldt University of Berlin => Dennis Ott Humboldt",
+      "extractorConfig" : {
+      "bindSequentialLinesBy" : "fontSize",
+	  "firstPage" : 1,
+	  "footerDescriptions" : [
+	 {"footerDescription" : "journalTitle @issue@ (year),beginPage-endPage", "footerStartsWithText" : "Working Papers in Scandinavian Syntax"},
+	 {"footerDescription" : "journalTitle? @issue@ (year) beginPage-endPage", "footerStartsWithText" : "Working Papers in Scandinavian Syntax"}]
+      }
+    },
+     {
+      "id" : "048020990",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "ok 3, errors : some losses due to uniform formatting of title and author",
+      "extractorConfig" : {
+      "bindSequentialLinesBy" : "fontType+FontSize",
+      "bindSequentialLinesOperator" : "or",
+	  "firstPage" : 1
+      }
+    },
+    {
+      "id" : "047574216",
+      "subId" : "a1",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : " footer not working, because of capitalized font W ORKING P APERS IN ... 
+		Total examined files :79
+		Files with title :74
+		Files with author :70
+		Files with page :0
+		Files with journal :0
+		Files with year :0
+		Files with author, title :70
+      not ok 3, WORKING PAPERS IN LINGUISTICS : UNIVERSITY OF HAWAI AT MÂNOA ,VOL. 38(4) or University of Hawai‘i at Mānoa: Working Papers in Linguistics 46(3)
+      errors : some titles incomplete, may benefit from clustering by fontType OR fontSize
+               many authors have capitalized (other font/size( first letter of surname, and are incomplete",
+      "extractorConfig" : {
+        "bindSequentialLinesBy" : "fontSize",
+	    "firstPage" : 3,
+	    "footerPage" : 2,
+	    "footerDescriptions" : [
+	   {"footerDescription" : "journalTitle .@volume (issue)", "footerStartsWithText" : "WORKING PAPERS IN LINGUISTICS"}]
+      }
+    },
+     {
+      "id" : "048134759",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" : "ok 3, errors: title 'Resums' missed because tokenCount=1",
+      "keywordDefinitionId" : "demo",
+      "extractorConfig" : {
+       "bindSequentialLinesBy" : "fontSize",
+	"firstPage" : 1,
+	"footerPage" : 1,
+	"footerDescriptions" : [
+	{"footerDescription" : "journalTitle @issue,@year@ beginPage-endPage", "footerStartsWithText" : "Catalan Journal of Linguistics"},
+	{"footerDescription" : "journalTitle issue,@year@ beginPage-endPage", "footerStartsWithText" : "CatWPL"},
+	{"footerDescription" : "journalTitle issue,@year@ beginPage-endPage", "footerStartsWithText" : "CatJL"},
+	{"footerDescription" : "journalTitle @year@ beginPage-endPage", "footerStartsWithText" : "Catalan Journal of Linguistics Special Issue"}
+    ]
+      }
+    },
+    {
+      "id" : "048593834",
+      "active" :  false,
+      "type" : "pdf",
+      "comment" :"ok 3, errors: footer not recognized, increase line-group count",
+      "extractorConfig" : {
+	  "bindSequentialLinesBy" : "fontType",
+	  "firstPage" : 1,
+	  "footerDescriptions" : [
+	  {"footerDescription" : "journalTitle, Volume @volume@, Issue @issue,beginPage-endPage,year", "footerStartsWithText" : "McGill Working Papers in Linguistics"},
+		{"footerDescription" : "journalTitle, Volume @volume@.issue,Winter @year", "footerStartsWithText" : "McGill Working Papers in Linguistics"}
+     ]
+      }
+    },
+    {
+      "id" : "124671918",
+      "subId" : "a1",
+      "active" : true,
+      "type" : "pdf",
+      "comment" : "get title, author from page 2 by fontType",
+      "extractorConfig" : {
+      "bindSequentialLinesBy" : "fontType",
+	  "firstPage" : 2
+      }
+    }
+  ],
+  "keywordDefinitions" : [
+  {"id" : "demo", "journalTitle" : ".+", "title" : ".+","author" : ".+","volume" : "\\d+","issue" : "\\d+","year" : "\\d+","beginPage" : "\\d+", "endPage" : "\\d+","place" : ".+","date" : ".+"}
+  ]
+}
