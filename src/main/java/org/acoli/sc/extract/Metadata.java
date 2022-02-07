@@ -23,10 +23,12 @@ public class Metadata implements Serializable{
 	private String ID;
 	public String fileName="";
 	public String title="";
+	public String subTitle="";
 	public String journalTitle="";
 	public Integer year=-1;
 	public String authorString = "";
-	public List<String> authors=new ArrayList<String>();
+	//public List<String> authors=new ArrayList<String>();
+	public List<Author> authors =new ArrayList<Author>();
 	public String location="";
 	public String booktitle="";
 	public int beginPage=-1;
@@ -36,7 +38,7 @@ public class Metadata implements Serializable{
 	public String journalNote="";
 	private String url="";
 	private String affiliation="";
-	private List<Object> languagesAsISO6393Codes = new ArrayList<Object>();; // TODO set appropriate type (e.g. String)
+	private List<String> languagesISO639Codes = new ArrayList<String>();; // TODO set appropriate type (e.g. String)
 	private String publisher = "";
 	private String date = "";
 	private String place = "";
@@ -47,7 +49,8 @@ public class Metadata implements Serializable{
 		return  title != null;
 	}
 	public boolean hasAuthors() {
-		return authors != null;
+		return (!authorString.trim().isEmpty());
+		//return authors != null;
 	}
 
 	public int getExtent(){
@@ -78,6 +81,16 @@ public class Metadata implements Serializable{
 
 	public void setTitle(String title) {
 		this.title = title;
+	}
+	
+	
+	public void setSubTitle(String subTitle) {
+		this.subTitle = subTitle;
+	}
+	
+	
+	public String getSubTitle() {
+		return this.subTitle;
 	}
 
 
@@ -111,12 +124,12 @@ public class Metadata implements Serializable{
 	}
 	
 
-	public List<String> getAuthors() {
+	public List<Author> getAuthors() {
 		return authors;
 	}
 
 
-	public void setAuthors(List<String> authors) {
+	public void setAuthors(List<Author> authors) {
 		this.authors = authors;
 	}
 
@@ -210,7 +223,12 @@ public class Metadata implements Serializable{
 		output+="METADATA :\n";
 		output+="fileName "+fileName+"\n";
 		output+="title :"+title+"\n";
+		output+="subTitle :"+subTitle+"\n";
 		output+="authors :"+authorString+"\n";
+//		for (Author a : getAuthors()) {
+//			output+="given :"+a.getGivenName()+"\n";
+//			output+="family :"+a.getFamilyName()+"\n";
+//		}
 		output+="journal :"+journalTitle+"\n";
 		output+="volume :"+volume+"\n";
 		output+="issue :"+issue+"\n";
@@ -219,7 +237,11 @@ public class Metadata implements Serializable{
 		output+="endPage :"+endPage+"\n";
 		output+="date :"+date+"\n";
 		output+="place :"+place+"\n";
-
+		if (languagesISO639Codes ==null || languagesISO639Codes.isEmpty()) {
+			output+="language :\n";
+		} else {
+			output+="language :"+languagesISO639Codes.get(0)+"\n";
+		}
 		
 		return output;
 	}
@@ -301,7 +323,7 @@ public class Metadata implements Serializable{
 		return iia(endPage);
 	}
 	public boolean authorsIsActive() {
-		return lsia(authors);
+		return !authors.isEmpty();
 	}
 	public boolean publisherIsActive() {
 		return sia(publisher);
@@ -859,11 +881,11 @@ public class Metadata implements Serializable{
 	public void setAffiliation(String affiliation) {
 		this.affiliation = affiliation;
 	}
-	public List<Object> getLanguagesAsISO6393Codes() {
-		return languagesAsISO6393Codes;
+	public List<String> getLanguagesISO639Codes() {
+		return languagesISO639Codes;
 	}
-	public void setLanguagesAsISO6393Codes(List<Object> languages) {
-		this.languagesAsISO6393Codes = languages;
+	public void setLanguagesISO639Codes(List<String> languages) {
+		this.languagesISO639Codes = languages;
 	}
 	public String getPublisher() {
 		return publisher;
@@ -882,7 +904,7 @@ public class Metadata implements Serializable{
 	@Override
 	public int hashCode() {
 		return Objects.hash(affiliation, authorString, authors, beginPage, booktitle, endPage, fileName, issue,
-				journalNote, journalTitle, languagesAsISO6393Codes, location, publisher, title, url, volume, year);
+				journalNote, journalTitle, languagesISO639Codes, location, publisher, title, url, volume, year);
 	}
 	@Override
 	public boolean equals(Object obj) {
@@ -893,17 +915,18 @@ public class Metadata implements Serializable{
 		if (getClass() != obj.getClass())
 			return false;
 		Metadata other = (Metadata) obj;
-		boolean authorsEqual = new HashSet<String>(authors).equals(new HashSet<String>(other.authors));
+		boolean authorsEqual = new HashSet<Author>(authors).equals(new HashSet<Author>(other.authors));
 		return Objects.equals(affiliation, other.affiliation) //&& Objects.equals(authorString, other.authorString)
 				&& authorsEqual && beginPage == other.beginPage
 				&& Objects.equals(booktitle, other.booktitle) && endPage == other.endPage
 				&& Objects.equals(fileName, other.fileName) && issue == other.issue
 				&& Objects.equals(journalNote, other.journalNote) && Objects.equals(journalTitle, other.journalTitle)
-				&& Objects.equals(languagesAsISO6393Codes, other.languagesAsISO6393Codes)
+				&& Objects.equals(languagesISO639Codes, other.languagesISO639Codes)
 				&& Objects.equals(location, other.location) && Objects.equals(publisher, other.publisher)
 				&& Objects.equals(title, other.title) && Objects.equals(url, other.url) && volume == other.volume
 				&& Objects.equals(year, other.year);
 	}
+	
 	
 	
 //	@Override

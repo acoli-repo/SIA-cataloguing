@@ -36,13 +36,16 @@ import javax.xml.bind.annotation.XmlType;
  */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "", propOrder = {
-    "title"
+    "title","subTitle"
 })
 @XmlRootElement(name = "titleInfo")
 public class TitleInfo {
 
     @XmlElement(required = true)
     protected String title;
+    
+    @XmlElement(required = false)
+    protected String subTitle;
 
     /**
      * Ruft den Wert der title-Eigenschaft ab.
@@ -66,6 +69,30 @@ public class TitleInfo {
      */
     public void setTitle(String value) {
         this.title = value;
+    }
+    
+    /**
+     * Ruft den Wert der title-Eigenschaft ab.
+     * 
+     * @return
+     *     possible object is
+     *     {@link String }
+     *     
+     */
+    public String getSubTitle() {
+        return subTitle;
+    }
+
+    /**
+     * Legt den Wert der title-Eigenschaft fest.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link String }
+     *     
+     */
+    public void setSubTitle(String value) {
+        this.subTitle = value;
     }
 
 }

@@ -20,6 +20,7 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 
+import org.acoli.sc.extract.Author;
 import org.acoli.sc.extract.Metadata;
 import org.acoli.sc.mods.classes.Detail;
 import org.acoli.sc.mods.classes.Extent;
@@ -29,6 +30,7 @@ import org.acoli.sc.mods.classes.Location;
 import org.acoli.sc.mods.classes.Mods;
 import org.acoli.sc.mods.classes.ModsCollection;
 import org.acoli.sc.mods.classes.Name;
+import org.acoli.sc.mods.classes.NamePart;
 import org.acoli.sc.mods.classes.OriginInfo;
 import org.acoli.sc.mods.classes.Part;
 import org.acoli.sc.mods.classes.PhysicalLocation;
@@ -69,7 +71,9 @@ import org.apache.commons.lang3.SerializationUtils;
 		
 		public static enum ROLE_TYPE {CREATOR, CONTRIBUTOR};
 		
-		public static enum LANGUAGE_AUTHORITY {ISO639_3};
+		public static enum LANGUAGE_AUTHORITY_6393 {ISO639_3};
+		
+		public static enum LANGUAGE_AUTHORITY_6392B {ISO639_2B};
 		
 		public static enum DETAIL_TYPE {VOLUME, NUMBER};
 		
@@ -317,7 +321,11 @@ import org.apache.commons.lang3.SerializationUtils;
 					
 					// insert extracted title
 					TitleInfo ti = new TitleInfo(); ti.setTitle(moMD.getTitle());
+					if (!moMD.getSubTitle().isEmpty()) {
+						ti.setSubTitle(moMD.getSubTitle());
+					}
 					x.setTitleInfo(ti);
+					
 					
 	
 					// name
@@ -338,17 +346,32 @@ import org.apache.commons.lang3.SerializationUtils;
 	//				    </role>           
 	//					</name>
 					
-					for (String name : moMD.getAuthors()) {
+					for (Author author : moMD.getAuthors()) {
 						Name na = new Name();
 						na.setType(NAME_TYPE.PERSONAL.name().toLowerCase());
-						na.setNamePart(name);
+						NamePart given = new NamePart();
+						given.setType("given");
+						given.getContent().add(author.getGivenName());
+						na.getNamePart().add(given);
+						NamePart family = new NamePart();
+						family.setType("family");
+						family.getContent().add(author.getFamilyName());
+						na.getNamePart().add(family);
+						
+						//na.setNamePart(name);
 						Role role = new Role();
 						RoleTerm rt = new RoleTerm();
-						rt.setType("text");
-						rt.setAuthority("dcterms");
-						rt.setAuthorityURI("http://purl.org/dc/terms/");
-						rt.setValueURI("http://purl.org/dc/terms/creator");
-						rt.setValue(ROLE_TYPE.CREATOR.name().toLowerCase());
+						rt.setType("code");
+						if (author.isPrimaryAuthor()) {
+							rt.setValue("aut");
+						} else {
+							rt.setValue("ctb");
+						}
+//						rt.setType("text");
+//						rt.setAuthority("dcterms");
+//						rt.setAuthorityURI("http://purl.org/dc/terms/");
+//						rt.setValueURI("http://purl.org/dc/terms/creator");
+//						rt.setValue(ROLE_TYPE.CREATOR.name().toLowerCase());
 						role.setRoleTerm(rt);
 						na.setRole(role);
 						x.getName().add(na);
@@ -436,13 +459,15 @@ import org.apache.commons.lang3.SerializationUtils;
 	//					</language>
 	//				  	<language authority="iso639-2b">eng</language>
 					
-					for (Object lang : moMD.getLanguagesAsISO6393Codes()) {
+					for (String lang : moMD.getLanguagesISO639Codes()) {
 						Language la = new Language();
+						la.getContent().add(lang);
+						la.setAuthority(LANGUAGE_AUTHORITY_6392B.ISO639_2B.name().toLowerCase());
 						LanguageTerm lt = new LanguageTerm();
-						lt.setAuthority(LANGUAGE_AUTHORITY.ISO639_3.name().toLowerCase());
+						lt.setAuthority(LANGUAGE_AUTHORITY_6392B.ISO639_2B.name().toLowerCase());
 						lt.setType("code");
-						lt.setValueURI(lexvoLanguageUriPrefix+lang);
-						lt.setValue((String) lang);
+						//lt.setValueURI(lexvoLanguageUriPrefix+lang);
+						lt.setValue(lang);
 						x.getLanguage().add(la);
 					}
 					
@@ -642,7 +667,7 @@ import org.apache.commons.lang3.SerializationUtils;
 
 			Name na = new Name();
 			na.setType(NAME_TYPE.PERSONAL.name().toLowerCase());
-			na.setNamePart("author name");
+			//na.setNamePart("author name");
 			Role role = new Role();
 			RoleTerm rt = new RoleTerm();
 			rt.setType("text");

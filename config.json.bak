@@ -1,7 +1,6 @@
 {
   "documentRootDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata",
   "xmlDir" : "resultData",
-  "exportDir" : "/home/demo/Schreibtisch/bibtex",
   "databaseDir" : "serializedData",
   "stopWordFiles" : ["/home/demo/Schreibtisch/se_resources/name_lists/ub_stopwords_eng_short",
   "/home/demo/Schreibtisch/se_resources/name_lists/lexvo_stopword_university_multiling"
@@ -13,13 +12,13 @@
   "stanfordNerClassifierPath" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/stanford-postagger-full-2020-11-17/NER-classifiers/english.all.3class.distsim.crf.ser.gz",  
   "openNlpPosModelPath": "/home/demo/Schreibtisch/en-open-nlp-models/en-pos-maxent.bin",
   "openNlpNerModelPath": "/home/demo/Schreibtisch/en-open-nlp-models/en-ner-person.bin",
-  "runAllSources" : false,
+  "runAllSources" : true,
   "runMode" : "GET_STATS",
   "sources" : [
   {
       "id" : "124671918",
       "subId" : "a4",
-      "active" :  true,
+      "active" :  false,
       "type" : "pdf",
       "comment" : "more : ",
       "extractorConfig" : {
@@ -235,7 +234,7 @@
     {
       "id" : "124671918",
       "subId" : "a1",
-      "active" : false,
+      "active" : true,
       "type" : "pdf",
       "comment" : "get title, author from page 2 by fontType",
       "extractorConfig" : {
@@ -246,13 +245,5 @@
   ],
   "keywordDefinitions" : [
   {"id" : "demo", "journalTitle" : ".+", "title" : ".+","author" : ".+","volume" : "\\d+","issue" : "\\d+","year" : "\\d+","beginPage" : "\\d+", "endPage" : "\\d+","place" : ".+","date" : ".+"}
-  ],
-  "subTitleSplitRegexRemove":":|\\s–\\s|\\s-\\s",
-  "subTitleSplitRegexMaintain":"\\!\\?",
-  "familyNamePrefixes":"van,von.de,Mc,O',D'",
-  "authorNameFiles" : [
-  {"filePath" : "", "familyNameColumn": 1, "givenNameColumn" : 2}
-  ],
-  "languageDetectionSampleChars" : 1500,
-  "ngramDetectorMinConfidence" : 0.8
+  ]
 }

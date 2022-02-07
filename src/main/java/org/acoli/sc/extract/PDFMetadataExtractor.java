@@ -1,6 +1,10 @@
 package org.acoli.sc.extract;
 
+import org.acoli.sc.start.Run;
+import org.acoli.sc.util.LanguageMatch;
+import org.acoli.sc.util.LanguageUtils;
 import org.apache.commons.lang3.StringUtils;
+import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -17,6 +21,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
+import java.util.StringTokenizer;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -307,15 +312,20 @@ public class PDFMetadataExtractor {
 	public List<Metadata> getMetadata(Document document) {
 		
 		List<Metadata> md = new ArrayList<Metadata>();
-
+		
+		int textSamplePages = 10;
+		
 		try {
 			
 			// parse PDF that contains a single article
 			if (!config.hasToc() && !config.hasCitation()) {
 				
 				md.add(LineGroup.extractMDfromLineGroups(getLineGroups(document, true, false, 10), config));
+				
+				// add language info
+				assignLanguage(md, document, "single", textSamplePages);				
 
-			// parse PDF that contains a collection of articles (must contain table of content
+			// parse PDF that contains a collection of articles (must contain table of content)
 			} else {
 				// a. get raw linegroups for text that contains toc
 				List<LineGroup> lineGroups = getLineGroups(document, true, true, 200);
@@ -330,6 +340,10 @@ public class PDFMetadataExtractor {
 					if (config.hasFooter()) {
 						addFooterInfoToTocOrCitation(results, document, config);
 					}
+					
+					// add language info
+					assignLanguage(results, document, "toc", textSamplePages);
+					
 					return results;
 					//return getTOCMetadataByLinear(lineGroups, tds);
 					
@@ -349,6 +363,9 @@ public class PDFMetadataExtractor {
 					if (config.hasFooter()) {
 						addFooterInfoToTocOrCitation(results, document, config);
 					}
+					
+					// add language info
+					assignLanguage(results, document, "cite", textSamplePages);					
 					return results;
 				}
 			}
@@ -358,6 +375,61 @@ public class PDFMetadataExtractor {
 		return md;
 	}
 	
+	
+	private void assignLanguage(List<Metadata> md, Document document, String type, int textSamplePages) {
+		
+		int sampleChars = Run.languageDetectionSampleChars;// 80
+		// add language info
+		String textSample = getTextSample(document, 1, textSamplePages);
+		try {
+			int startOffset = getStartOffset(textSample.length(), type);
+			// n-gram language detector 
+			LanguageMatch foundLanguage = 
+					LanguageUtils.detectIsoCode639_2Optimaize(textSample.substring(startOffset,Math.min(startOffset+sampleChars, textSample.length())));
+			if (foundLanguage != null && foundLanguage.getMaxProb() > Run.ngramDetectorMinConfidence) {
+				List<String> languageCodes = new ArrayList<String>();
+				languageCodes.add(foundLanguage.getLanguageISO639Identifier());
+				for (Metadata x : md) {
+					x.setLanguagesISO639Codes(languageCodes);
+				}
+			} else {
+				// try alternative language detector
+				String iso639_2b = 
+						LanguageUtils.detectIsoCode639_2bLingua(textSample.substring(startOffset,Math.min(startOffset+sampleChars, textSample.length())));
+				if (iso639_2b != null) {
+					System.out.println("Lingua : "+iso639_2b);
+					
+					List<String> languageCodes = new ArrayList<String>();
+					languageCodes.add(iso639_2b);
+					for (Metadata x : md) {
+						x.setLanguagesISO639Codes(languageCodes);
+					}
+				}
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+
+	private int getStartOffset(int length, String type) {
+		
+		switch (type) {
+		
+		case "single":
+			return Math.max(400, Math.round(length/2));
+			
+		case "toc":
+			return Math.max(3000, Math.round(length/2));
+		
+		case "cite":
+			return Math.max(3000, Math.round(length/2));
+		
+		default:
+			return 2000; 
+		}
+	}
+
 	
 	private void addFooterInfoToTocOrCitation(List<Metadata> mdList, Document document, PDFExtractionConfiguration config) {
 		
@@ -790,7 +862,7 @@ public class PDFMetadataExtractor {
 //	}
 	
 	
-	public static List<String> splitAuthors(String authors) {
+	public static List<Author> splitAuthors(String authors) {
 		
 		ArrayList<String> tmp = new ArrayList<String>();
 		tmp.add(authors);
@@ -799,7 +871,129 @@ public class PDFMetadataExtractor {
 	
 	
 	// text.split("\sand\s|\sA		System.out.println();\nND\s|&|,")
-	public static List<String> splitAuthors(List<String> authors) {
+	public static List<Author> splitAuthors(List<String> authors) {
+	
+		
+		List<String> authorsSplitted = new ArrayList<String>();
+		List<Author> authorList = new ArrayList<Author>();
+		for(String text : authors) {
+			
+			if (text.trim().toLowerCase().equals("and")) continue;
+			System.out.println("before split: "+text);
+			
+			for (String y : text.split("\\sand\\s|\\sAND\\s|&")) {
+				
+			// for (String y : text.split("\sand\s|\sAND\s|&|,")) { changed due to compiler complains about text block
+				y=y.trim();
+				y=y.replace("\"", "");
+				y=y.replace("„", "");
+				y=StringUtils.normalizeSpace(y);
+				if (!y.isEmpty()) {
+					authorsSplitted.add(y);
+				}
+				System.out.println("author after split : "+y);
+				
+				String [] splitByColon = y.split(",");
+				List<String> authorEntries = Arrays.asList(splitByColon);
+				int i = 0;
+				String nextToken = "";
+				while (i < authorEntries.size()) {
+					String token = authorEntries.get(i).trim();
+					if (i+1 < authorEntries.size()) {
+						nextToken = authorEntries.get(i+1).trim();
+					}
+					String[] splitSpace = token.split(" ");
+					// multiple tokens
+					if (splitSpace.length > 1) {
+						// next token can not be given name
+						if (nextToken.isEmpty() || nextToken.split(" ").length > 1) {
+							Author a = new Author();
+							String givenName = "";
+							String familyName = "";
+							int j = 0;
+							while (j < splitSpace.length - 1) {
+								// check for not a given name (e.g. de,Mc,O' etc.) 
+								// or if a name is known to be a family name
+								// but only for the second, third, ff. name parts
+								if (j > 0 && (Run.familyNamePrefixes.contains(splitSpace[j]) ||
+									(Run.knownFamilyNames.contains(splitSpace[j]) &&
+									 !Run.knownGivenNames.contains(splitSpace[j])))) {
+									System.out.println("hierhierhier "+splitSpace[j]);
+									break;
+								} else {
+									givenName+= splitSpace[j]+" ";
+								}
+								j++;
+							}
+							while (j < splitSpace.length) {								
+								familyName+= splitSpace[j]+" ";
+								j++;
+							}
+							a.setGivenName(givenName.trim());
+							a.setFamilyName(familyName.trim());
+							authorList.add(a);
+						} else {
+							// next token is single token =>
+							// token is family name, given name in next token
+							Author a = new Author();
+							a.setFamilyName(token);
+							a.setGivenName(nextToken);
+							authorList.add(a);
+							i++;
+						}
+					} else {
+						// single token => is family name, given name in next token
+						if (!nextToken.isEmpty()) {
+							Author a = new Author();
+							a.setFamilyName(token);
+							a.setGivenName(nextToken);
+							authorList.add(a);
+							i++;
+						}
+					} 
+					
+					nextToken = "";
+					i++;
+				}
+				
+		}
+		}
+		
+		for (Author author : authorList) {
+			System.out.println("hierhier "+author.getGivenName());
+			System.out.println("hierhier "+author.getFamilyName());
+			System.out.println();
+		}
+
+		
+
+// Old		
+//		// finally join a author with a single name with the subsequent author entry
+//		int authorCount = authorsSplitted.size();
+//		int j = 0;
+//		while (j < authorCount) {
+//			if (authorsSplitted.get(j).split(" ").length == 1) {
+//				if (j+1 < authorCount) {
+//					authorsSplitted.set(j+1, authorsSplitted.get(j+1)+" "+authorsSplitted.get(j));
+//					authorsSplitted.set(j, "");
+//				}
+//			}
+//			j++;
+//		}
+//		// Finally remove empty authors
+//		Iterator<String> iterator = authorsSplitted.iterator();
+//		while (iterator.hasNext()) {
+//			String next = iterator.next();
+//			if (next.trim().isEmpty()) iterator.remove();
+//		}
+//		return authorsSplitted;
+
+		
+		return authorList;
+	}
+	
+	
+	public static List<String> splitAuthorsOld(List<String> authors) {
 	
 		
 		List<String> authorsSplitted = new ArrayList<String>();
@@ -849,6 +1043,7 @@ public class PDFMetadataExtractor {
 		
 		return authorsSplitted;
 	}
+	
 	
 	
 	private List<LineGroup> getLineGroups(Document document, boolean cluster, boolean ffPages, Integer maxLinegroups) throws XPathExpressionException {
@@ -1144,6 +1339,52 @@ public class PDFMetadataExtractor {
 //		return "pdf2xml/page[@number = "+pageNr+"]/text[@height>= 0]/descendant::text()";
 
 	}
+	
+	
+	private String getTextSample(Document document, int firstPage, int lastPage) {
+		
+		String sampleText = "";
+		
+		try {
+			int pageNr = firstPage;
+			while (pageNr <= lastPage) {
+				
+				String xPathForPageNodes = getPageNodeQuery(pageNr);
+				System.out.println(xPathForPageNodes);
+				NodeList nodeList = (NodeList) xPath.compile(xPathForPageNodes).evaluate(document, XPathConstants.NODESET);
+				
+				LOG.fine(nodeList.getLength()+" Results for xPath: "+xPathForPageNodes);
+				System.out.println("Results for xPath: "+xPathForPageNodes);
+				if (nodeList.getLength() == 1) {
+					xPathForPageNodes = xPathForPageNodes.replaceFirst("/text\\(\\)$", "");
+				}
+				
+				// get text values of nodes
+				for (int i = 0; i < nodeList.getLength(); i++) {
+			
+					Node y = nodeList.item(i);
+					String line = y.getTextContent();
+					if (line != null) {
+						sampleText+=line+" ";
+					}
+				}
+				
+			pageNr++;
+			}
+			
+		} catch (XPathExpressionException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (DOMException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		//System.out.println("sample text");
+		//System.out.println(sampleText);
+		return sampleText;
+	}
+	
 	
 	public static void main(String[] args) {
 		

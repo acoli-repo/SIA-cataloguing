@@ -2,6 +2,7 @@ package org.acoli.sc.start;
 
 import org.acoli.sc.config.Config;
 import org.acoli.sc.util.AffiliationUtils;
+import org.acoli.sc.util.LanguageUtils;
 import org.acoli.sc.util.OpenNlpTools;
 
 /**
@@ -15,6 +16,7 @@ public class Init {
 		
     	OpenNlpTools tools = new OpenNlpTools();
     	AffiliationUtils affiliationUtils = new AffiliationUtils(config);
+    	LanguageUtils LanguageUtils = new LanguageUtils();
 	}
 
 }

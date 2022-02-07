@@ -15,7 +15,6 @@ public class Config {
 	
     private String documentRootDir;
     private String xmlDir;
-    private String exportDir;
     private String databaseDir;
     private List<String> stopWordFiles;
     private List<String> affiliationFiles;
@@ -27,6 +26,13 @@ public class Config {
     private String stanfordNerClassifierPath;
     private String openNlpPosModelPath;
     private String openNlpNerModelPath;
+    private String subTitleSplitRegexRemove;
+    private String subTitleSplitRegexMaintain;
+    private String familyNamePrefixes;
+    private List<AuthorNameFile> authorNameFiles;
+    private Integer languageDetectionSampleChars;
+    private Float ngramDetectorMinConfidence;
+
     
 
     public List<SourceDescription> getSourceDescriptions(){
@@ -42,9 +48,6 @@ public class Config {
 		return documentRootDir;
 	}
 
-	public String getExportDir() {
-		return exportDir;
-	}
 
 	public List<File> getStopWordFiles() {
 		List<File> files = new ArrayList<File>();
@@ -104,6 +107,30 @@ public class Config {
 
 	public String getOpenNlpNerModelPath() {
 		return openNlpNerModelPath;
+	}
+
+	public String getSubTitleSplitRegexRemove() {
+		return subTitleSplitRegexRemove;
+	}
+
+	public String getSubTitleSplitRegexMaintain() {
+		return subTitleSplitRegexMaintain;
+	}
+
+	public String getFamilyNamePrefixes() {
+		return familyNamePrefixes;
+	}
+
+	public List<AuthorNameFile> getAuthorNameFiles() {
+		return authorNameFiles;
+	}
+
+	public Integer getLanguageDetectionSampleChars() {
+		return languageDetectionSampleChars;
+	}
+
+	public Float getNgramDetectorMinConfidence() {
+		return ngramDetectorMinConfidence;
 	}
 
 

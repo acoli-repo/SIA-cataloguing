@@ -3,10 +3,12 @@ package org.acoli.sc.start;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.logging.Logger;
 
+import org.acoli.sc.config.AuthorNameFile;
 import org.acoli.sc.config.Config;
 import org.acoli.sc.config.SourceDescription;
 import org.acoli.sc.extract.KeywordDefinition;
@@ -20,7 +22,9 @@ import org.acoli.sc.mods.classes.Location;
 import org.acoli.sc.mods.classes.Mods;
 import org.acoli.sc.mods.classes.ModsCollection;
 import org.acoli.sc.mods.classes.PhysicalLocation;
+import org.acoli.sc.util.CSVFile;
 import org.acoli.sc.util.ClusterUtils;
+import org.acoli.sc.util.NLPUtils;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
@@ -28,6 +32,7 @@ import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
+import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.io.FilenameUtils;
 
 /**
@@ -50,6 +55,13 @@ public class Run {
 	public static String stanfordNerClassifierPath;
 	public static String openNlpPosModelPath;
 	public static String openNlpNerModelPath;
+	public static String subTitleSplitRegexRemove;
+	public static String subTitleSplitRegexMaintain;
+	public static String familyNamePrefixes;
+	public static HashSet<String> knownFamilyNames;
+	public static HashSet<String> knownGivenNames;
+	public static int languageDetectionSampleChars;
+	public static Float ngramDetectorMinConfidence;
     
 	
     public static void main(String[] args) throws Exception{
@@ -215,6 +227,75 @@ public class Run {
     		keywordDefinitionMap.put("default", KeywordDefinition.getDefaults());
     	}
     	
+    	if (config.getSubTitleSplitRegexRemove() != null) {
+    		subTitleSplitRegexRemove = config.getSubTitleSplitRegexRemove();
+    	} else {
+    		subTitleSplitRegexRemove = "";
+    	}
+    	
+    	if (config.getSubTitleSplitRegexMaintain() != null) {
+    		subTitleSplitRegexMaintain = config.getSubTitleSplitRegexMaintain();
+    	} else {
+    		subTitleSplitRegexMaintain = "";
+    	}
+    	
+    	if (config.getFamilyNamePrefixes() != null) {
+    		familyNamePrefixes = config.getFamilyNamePrefixes();
+    	} else {
+    		familyNamePrefixes = "";
+    	}
+    	
+    	// read tsv/csv files with author names
+    	ArrayList<CSVFile> csvFiles = new ArrayList<CSVFile>();
+    	for (AuthorNameFile af : config.getAuthorNameFiles()) {
+    		
+    		if (!af.getFilePath().trim().isEmpty() && af.getFamilyNameColumn() > 0 && af.getGivenNameColumn() > 0) {
+    			String ext = FilenameUtils.getExtension(af.getFilePath()).toLowerCase();
+    			HashMap<String, Integer> columnDescription = new HashMap<String, Integer>();
+    			columnDescription.put("given", af.getGivenNameColumn());
+    			columnDescription.put("family", af.getFamilyNameColumn());
+    			CSVFormat csvFormat = null;
+    			if (ext.equals("csv")) {
+    				csvFormat = CSVFormat.DEFAULT;
+    			}
+    			if (ext.equals("tsv")) {
+    				csvFormat = CSVFormat.TDF;
+    			}
+    			if (csvFormat == null) continue;
+    			
+    			CSVFile csvFile = new CSVFile(af.getFilePath().trim(), csvFormat, columnDescription);
+    			csvFiles.add(csvFile);
+    		} else {
+    			System.out.println("Error in authorNameFile definition :");
+    			System.out.println("filePath :"+af.getFilePath());
+    			System.out.println("familyNameColumn :"+af.getFamilyNameColumn());
+    			System.out.println("givenNameColumn  :"+af.getGivenNameColumn());
+
+    		}
+    	}
+    	knownFamilyNames = NLPUtils.getAuthorFamilyNamesFromCSVFiles(csvFiles);
+//    	for (String yy : knownFamilyNames) {
+//    		System.out.println(yy);
+//    	}
+    	knownGivenNames = NLPUtils.getAuthorGivenNamesFromCSVFiles(csvFiles);
+//    	for (String yy : knownGivenNames) {
+//    		System.out.println(yy);
+//    	}
+    	
+    	
+    	if (config.getLanguageDetectionSampleChars() != null) {
+    		languageDetectionSampleChars = config.getLanguageDetectionSampleChars();
+    	} else {
+        	languageDetectionSampleChars = 800;
+    	}
+    	
+    	if (config.getNgramDetectorMinConfidence() != null) {
+    		ngramDetectorMinConfidence = config.getNgramDetectorMinConfidence();
+    	} else {
+    		ngramDetectorMinConfidence = 0.8f;
+    	}
+    	
+    	
     	
     	if (runMode == null) {
 	    	try {
@@ -230,7 +311,6 @@ public class Run {
 		System.out.println("Configurations :"+config.getSourceDescriptions().size());
 	    System.out.println("documentRootDir :"+config.getDocumentRootDir());
 	    System.out.println("tempDir :"+config.getXmlDir());
-	    System.out.println("exportDir :"+config.getExportDir());
 	    System.out.println("databaseDir :"+config.getDatabaseDir());
 	    System.out.println("stanfordTaggerPath :"+config.getStanfordTaggerPath());
 	    System.out.println("stanfordNerClassifierPath :"+config.getStanfordNerClassifierPath());

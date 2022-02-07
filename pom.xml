@@ -13,6 +13,38 @@
 
 <dependencies>
 
+
+<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-csv -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-csv</artifactId>
+    <version>1.9.0</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/org.apache.maven.shared/maven-shared-utils -->
+<dependency>
+    <groupId>org.apache.maven.shared</groupId>
+    <artifactId>maven-shared-utils</artifactId>
+    <version>3.3.4</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/com.optimaize.languagedetector/language-detector -->
+<dependency>
+    <groupId>com.optimaize.languagedetector</groupId>
+    <artifactId>language-detector</artifactId>
+    <version>0.5</version>
+</dependency>
+
+
+<dependency>
+    <groupId>com.github.pemistahl</groupId>
+    <artifactId>lingua</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+
 <dependency>
    <groupId>com.opencsv</groupId>
    <artifactId>opencsv</artifactId>

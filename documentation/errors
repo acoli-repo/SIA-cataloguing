@@ -1,0 +1,68 @@
+(124671918-a4)
+ldd17-08-pdf.pdf
+Cite this article: van Dasselaar, Renger. 2020. Binumarien (Eastern
+Highlands, Papua New Guinea) – Language Snapshot. In Peter K.
+Austin (ed.) Language Documentation and Description 17, 111-117.
+London: EL Publishing
+=> 
+<name type="personal">
+<namePart type="given">van</namePart>
+<namePart type="family">Dasselaar</namePart>
+<role>
+<roleTerm authority="dcterms" authorityURI="http://purl.org/dc/terms/" type="text" valueURI="http://purl.org/dc/terms/creator">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart type="given">Renger</namePart>
+<namePart type="family"/>
+<role>
+<roleTerm authority="dcterms" authorityURI="http://purl.org/dc/terms/" type="text" valueURI="http://purl.org/dc/terms/creator">creator</roleTerm>
+</role>
+</name>
+=> family wrong, also 2nd name generated from given name
+
+new Rule:
+split , => a) van Dasselaar b) Renger
+Für eine mit Komma getrennte Liste von Namen, die aus zwei Einträgen besteht sollte der zweite Eintrag der Vorname sein.
+
+
+ldd17-01-pdf.pdf
+Cite this article: Reid, Lawrence A. 2020. Calquing structure: how to
+say ‘the’ in Isinay, Philippines. In Peter K. Austin (ed.) Language
+Documentation and Description 17, 1-24. London: EL Publishing.
+=>
+<name type="personal">
+<namePart type="given">Lawrence</namePart>
+<namePart type="family">A Reid</namePart>
+<role>
+<roleTerm authority="dcterms" authorityURI="http://purl.org/dc/terms/" type="text" valueURI="http://purl.org/dc/terms/creator">creator</roleTerm>
+</role>
+</name>
+=> family wrong
+
+
+ldd18-06-pdf.pdf
+Cite this article: Dopierala, Sarah M.. 2020. A cross-linguistic
+perspective on converb constructions in Sylheti. In Candide Simard,
+Sarah M. Dopierala & E. Marie Thaut (eds.) Language Documentation
+and Description 18, 92-111. London: EL Publishing.
+=>
+<name type="personal">
+<namePart type="given">Sarah</namePart>
+<namePart type="family">M. Dopierala</namePart>
+<role>
+<roleTerm authority="dcterms" authorityURI="http://purl.org/dc/terms/" type="text" valueURI="http://purl.org/dc/terms/creator">creator</roleTerm>
+</role>
+</name>
+=> family wrong
+
+
+ldd17-13-pdf.pdf
+Cite this article: Gonzalez, Ivette S. 2020. Paipai (Baja California,
+Mexico) – Language Snapshot. In Peter K. Austin (ed.) Language
+Documentation and Description 17, 150-157. London: EL Publishing.
+
+<name type="personal">
+<namePart type="given">Ivette</namePart>
+<namePart type="family">S</namePart>
+</name>

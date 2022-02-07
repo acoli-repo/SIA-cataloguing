@@ -8,6 +8,9 @@
 
 package org.acoli.sc.mods.classes;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
@@ -52,8 +55,8 @@ import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 @XmlRootElement(name = "name")
 public class Name {
 
-    @XmlElement(required = true)
-    protected String namePart;
+    @XmlElement(required = false)
+    protected List<NamePart> namePart;
     protected String displayForm;
     @XmlElement(required = true)
     protected String affiliation;
@@ -72,8 +75,11 @@ public class Name {
      *     {@link String }
      *     
      */
-    public String getNamePart() {
-        return namePart;
+    public List<NamePart> getNamePart() {
+        if (namePart == null) {
+        	namePart = new ArrayList<NamePart>();
+        }
+        return this.namePart;
     }
 
     /**
@@ -84,7 +90,7 @@ public class Name {
      *     {@link String }
      *     
      */
-    public void setNamePart(String value) {
+    public void setNamePart(List<NamePart> value) {
         this.namePart = value;
     }
 

@@ -89,6 +89,8 @@ public class Mods {
     protected List<Location> location;
     @XmlElement(required = false)
     protected List<Language> language;
+    //@XmlElement(required = false)
+    //protected List<LanguageTerm> languageTerm;
     @XmlElement(required = true)
     protected Part part;
     @XmlElement(required = false)
@@ -326,6 +328,37 @@ public class Mods {
         }
         return this.language;
     }
+    
+    
+    /**
+     * Gets the value of the languageTerm property.
+     * 
+     * <p>
+     * This accessor method returns a reference to the live list,
+     * not a snapshot. Therefore any modification you make to the
+     * returned list will be present inside the JAXB object.
+     * This is why there is not a <CODE>set</CODE> method for the language property.
+     * 
+     * <p>
+     * For example, to add a new item, do as follows:
+     * <pre>
+     *    getLanguageTerm().add(newItem);
+     * </pre>
+     * 
+     * 
+     * <p>
+     * Objects of the following type(s) are allowed in the list
+     * {@link LanguageTerm }
+     * 
+     * 
+     */
+//    public List<LanguageTerm> getLanguageTerm() {
+//        if (languageTerm == null) {
+//            languageTerm = new ArrayList<LanguageTerm>();
+//        }
+//        return this.languageTerm;
+//    }
+
 
     /**
      * Ruft den Wert der part-Eigenschaft ab.
