@@ -318,7 +318,7 @@ public class Run {
 	    System.out.println("openNlpNerModelPath :"+config.getOpenNlpNerModelPath());
 	    
 	    MetadataDB database = new 
-	    		MetadataDB(new File(config.getDocumentRootDir(), config.getDatabaseDir()));
+	    		MetadataDB(new File(config.getDatabaseDir()));
 
 	    HashMap<String, List<Metadata>> allMetadata = new HashMap<String, List<Metadata>>();
 	    HashMap <String, Mods> allMods = new HashMap<String, Mods>();

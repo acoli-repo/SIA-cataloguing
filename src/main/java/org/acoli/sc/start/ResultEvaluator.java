@@ -225,7 +225,7 @@ public class ResultEvaluator {
 			// Split 1 : with delimiters to be removed
 			// ok: Object shift and optionality. An intricate interplay between syntax, prosody and information structure
 			// error: LANGUAGE VS. DIALECT IN LANGUAGE CATALOGUING: THE VEXED CASE OF OTOMANGUEAN DIALECT CONTINUA
-			String[] split = titleText.split(":|\s–\s|\\s-\\s");
+			String[] split = titleText.split(":|\\s–\\s|\\s-\\s");
 			String title1 = split[0].trim();
 			String subTitle = "";
 			int i=1;

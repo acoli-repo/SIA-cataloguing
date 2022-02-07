@@ -2,7 +2,7 @@
   "documentRootDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata",
   "xmlDir" : "resultData",
   "exportDir" : "/home/demo/Schreibtisch/bibtex",
-  "databaseDir" : "serializedData",
+  "databaseDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata/serializedData",
   "stopWordFiles" : ["/home/demo/Schreibtisch/se_resources/name_lists/ub_stopwords_eng_short",
   "/home/demo/Schreibtisch/se_resources/name_lists/lexvo_stopword_university_multiling"
   ],
