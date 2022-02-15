@@ -21,6 +21,7 @@ public class Config {
     private List<SourceDescription> sources;
     private List<KeywordDefinition> keywordDefinitions;
     private boolean runAllSources = false;
+    private boolean forceXMLRedo = false;
     private String runMode;
     private String stanfordTaggerPath;
     private String stanfordNerClassifierPath;
@@ -131,6 +132,14 @@ public class Config {
 
 	public Float getNgramDetectorMinConfidence() {
 		return ngramDetectorMinConfidence;
+	}
+
+	public boolean isForceXMLRedo() {
+		return forceXMLRedo;
+	}
+
+	public void setForceXMLRedo(boolean forceXMLRedo) {
+		this.forceXMLRedo = forceXMLRedo;
 	}
 
 

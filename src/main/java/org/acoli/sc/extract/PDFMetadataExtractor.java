@@ -386,7 +386,7 @@ public class PDFMetadataExtractor {
 			// n-gram language detector 
 			LanguageMatch foundLanguage = 
 					LanguageUtils.detectIsoCode639_2Optimaize(textSample.substring(startOffset,Math.min(startOffset+sampleChars, textSample.length())));
-			if (foundLanguage != null && foundLanguage.getMaxProb() > Run.ngramDetectorMinConfidence) {
+			if (foundLanguage != null && foundLanguage.getAverageProb() > Run.ngramDetectorMinConfidence) {
 				List<String> languageCodes = new ArrayList<String>();
 				languageCodes.add(foundLanguage.getLanguageISO639Identifier());
 				for (Metadata x : md) {

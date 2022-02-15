@@ -1,9 +1,14 @@
 package org.acoli.sc.extract;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Author {
+public class Author implements Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1824626768622205860L;
 	private String rawName="";
 	private String givenName = "";
 	private String familyName = "";
@@ -65,8 +70,5 @@ public class Author {
 	public void setPrimaryAuthor(boolean primaryAuthor) {
 		this.primaryAuthor = primaryAuthor;
 	}
-	
-	
-	
 	
 }

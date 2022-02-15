@@ -212,7 +212,7 @@ public class Metadata implements Serializable{
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 		// TODO use setUrl (use real URL if present)
-		this.url = "file://"+Run.dataFolder+"/"+FilenameUtils.getBaseName(fileName)+".pdf";
+		this.url = "file://"+Run.pdfDataFolder.getAbsolutePath()+"/"+FilenameUtils.getBaseName(fileName)+".pdf";
 	}
 
 	

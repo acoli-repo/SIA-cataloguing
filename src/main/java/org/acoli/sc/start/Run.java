@@ -48,7 +48,7 @@ public class Run {
     //public static String base = "/home/demo/Schreibtisch/ide/github-master/SIA-cataloguing/documentation/samples/input-examples/047006471";
     //public static String itemsSample = "documentation/samples/input-examples/047006471/items.jsonl";
 	
-	public static String dataFolder;
+	public static File pdfDataFolder;
 	public static Map<String, KeywordDefinition> keywordDefinitionMap;
 	public static KeywordDefinition activeKeywordDefinition;
 	public static String stanfordTaggerPath;
@@ -62,6 +62,8 @@ public class Run {
 	public static HashSet<String> knownGivenNames;
 	public static int languageDetectionSampleChars;
 	public static Float ngramDetectorMinConfidence;
+	public static String xmlRootDir = ""; 
+	public static Boolean forceXMLRedo = true;
     
 	
     public static void main(String[] args) throws Exception{
@@ -230,13 +232,13 @@ public class Run {
     	if (config.getSubTitleSplitRegexRemove() != null) {
     		subTitleSplitRegexRemove = config.getSubTitleSplitRegexRemove();
     	} else {
-    		subTitleSplitRegexRemove = "";
+    		subTitleSplitRegexRemove = ":|\\s–\\s|\\s-\\s|\\s—\\s|\\s--\\s";
     	}
     	
     	if (config.getSubTitleSplitRegexMaintain() != null) {
     		subTitleSplitRegexMaintain = config.getSubTitleSplitRegexMaintain();
     	} else {
-    		subTitleSplitRegexMaintain = "";
+    		subTitleSplitRegexMaintain = "\\!\\?";
     	}
     	
     	if (config.getFamilyNamePrefixes() != null) {
@@ -310,12 +312,20 @@ public class Run {
 
 		System.out.println("Configurations :"+config.getSourceDescriptions().size());
 	    System.out.println("documentRootDir :"+config.getDocumentRootDir());
-	    System.out.println("tempDir :"+config.getXmlDir());
+	    System.out.println("xmlRootDir :"+config.getXmlDir());
+	    System.out.println("forceXMLRedo :"+config.isForceXMLRedo());	    
 	    System.out.println("databaseDir :"+config.getDatabaseDir());
 	    System.out.println("stanfordTaggerPath :"+config.getStanfordTaggerPath());
 	    System.out.println("stanfordNerClassifierPath :"+config.getStanfordNerClassifierPath());
 	    System.out.println("openNlpPosModelPath :"+config.getOpenNlpPosModelPath());
+	    System.out.println("subTitleSplitRegexRemove :"+subTitleSplitRegexRemove);
+	    System.out.println("subTitleSplitRegexMaintain :"+subTitleSplitRegexMaintain);
 	    System.out.println("openNlpNerModelPath :"+config.getOpenNlpNerModelPath());
+	    System.out.println("openNlpNerModelPath :"+config.getOpenNlpNerModelPath());
+
+	    
+	    xmlRootDir = config.getXmlDir();
+	    forceXMLRedo = config.isForceXMLRedo();
 	    
 	    MetadataDB database = new 
 	    		MetadataDB(new File(config.getDatabaseDir()));
@@ -349,11 +359,15 @@ public class Run {
 				System.out.println("Using configuration : "+configCounter);
 			}
 			
-			dataFolder = new File(config.getDocumentRootDir(),sdc.getId()).getAbsolutePath();
-	        if (sdc.getSubId() != null) dataFolder = new File(dataFolder, sdc.getSubId()).getAbsolutePath();
-	        File resultFolder = new File(dataFolder, "resultData");
-	        String itemsFilePath = new File(dataFolder, "items.jsonl").getAbsolutePath();
-	        String modsFilePath = new File(dataFolder, "items.mods").getAbsolutePath();
+			File pdfDataFolderBase = new File(config.getDocumentRootDir(),sdc.getId());
+			pdfDataFolder = pdfDataFolderBase;
+			File xmlDataFolder = new File(xmlRootDir, pdfDataFolderBase.getName());
+	        if (sdc.getSubId() != null) {
+	        	pdfDataFolder = new File(pdfDataFolder, sdc.getSubId());
+	        	xmlDataFolder = new File(xmlDataFolder, sdc.getSubId());
+	        }
+	        String itemsFilePath = new File(pdfDataFolder, "items.jsonl").getAbsolutePath();
+	        String modsFilePath = new File(pdfDataFolder, "items.mods").getAbsolutePath();
 	        
 	        if (!(new File(modsFilePath)).exists()) {
 	        	System.out.println("IO-Error : MODS input file "+modsFilePath+" was not found !");
@@ -362,11 +376,6 @@ public class Run {
 	        	continue;
 	        }
 
-	        //Create resultDirectory
-	    	//FileUtils.deleteDirectory(resultFolder);
-	        if (!resultFolder.exists()){
-	            resultFolder.mkdirs();
-	        }
 	        
 			// usage of alternative keyword definitions which have to be defined in keywordDefinitions 
 	        // otherwise default keyword definitions are used
@@ -467,13 +476,22 @@ public class Run {
 				}
 			}
 	        
+	        
+	        //Create xml output folder
+	        if (!xmlDataFolder.exists()){
+	            xmlDataFolder.mkdirs();
+	        }
 	           
 	        // Run PDF-XML conversion
-	        int failedPdfConversions = PDF2XML.extractXML(new ArrayList<String>(modsRecordIDs2PDFfilenames.values()), new File(dataFolder));
+	        int failedPdfConversions = 
+	        		PDF2XML.extractXML(
+	        				new ArrayList<String>(modsRecordIDs2PDFfilenames.values()),
+	        				pdfDataFolder,
+	        				xmlDataFolder);
 	        
 	        // Check count of converted XML documents
 	        int convertedPdfs = 0;
-	        for(File file : resultFolder.listFiles()){
+	        for(File file : xmlDataFolder.listFiles()){
 	        	if (FilenameUtils.getExtension(file.getAbsolutePath()).toLowerCase().equals("xml")) {
 	        		convertedPdfs++;
 	        	}
@@ -482,7 +500,7 @@ public class Run {
 	        //Extract Metadata from converted PDF files
 	        List<Metadata> extractedMD = 
 	        		RunExtract.convertXMLtoXMLTMP(
-	        				resultFolder.getAbsolutePath(), 
+	        				xmlDataFolder.getAbsolutePath(), 
 	        				new PDFMetadataExtractor(sdc.getExtractorConfig()));
 	        
 	        ResultEvaluator re = new ResultEvaluator(sdc, extractedMD);
@@ -498,7 +516,8 @@ public class Run {
 	        HashMap<String, List<Metadata>> map = ModsTools.mapMetadata2ModsRecords(extractedMD, modsRecordIDs2PDFfilenames, modsCollection);
 	        allMetadata.putAll(map);
 	        
-	        ModsTools.exportMods(modsCollection, map, modsFilePath);
+			String outputModsFilePath = new File(xmlDataFolder, "itemsprocessed.mods.xml").getAbsolutePath();
+	        ModsTools.exportMods(modsCollection, map, outputModsFilePath);
 	        //ModsTools.exportMods(modsCollection, extractedMD, modsRecordIDs2PDFfilenames, modsFilePath);
 
 	        
@@ -511,8 +530,10 @@ public class Run {
 //	        //BibtexTools.export(mdextracted, new File("/home/demo/Schreibtisch/demo.bib"));
 	        
 	        
-	        // cleanup
-	        resultFolder.delete();
+	        // delete XML data
+//	        if (forceXMLRedo) {
+//	        	xmlDataFolder.delete();
+//	        }
 	        configCounter++;
 		}
 		

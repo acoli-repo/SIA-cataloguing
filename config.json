@@ -1,6 +1,6 @@
 {
   "documentRootDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata",
-  "xmlDir" : "resultData",
+  "xmlDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata/xml",
   "exportDir" : "/home/demo/Schreibtisch/bibtex",
   "databaseDir" : "/run/media/demo/bb92bf31-b049-4d65-8e71-5a6a0cb44d49/fdata/serializedData",
   "stopWordFiles" : ["/home/demo/Schreibtisch/se_resources/name_lists/ub_stopwords_eng_short",
@@ -14,7 +14,8 @@
   "openNlpPosModelPath": "/home/demo/Schreibtisch/en-open-nlp-models/en-pos-maxent.bin",
   "openNlpNerModelPath": "/home/demo/Schreibtisch/en-open-nlp-models/en-ner-person.bin",
   "runAllSources" : false,
-  "runMode" : "GET_STATS",
+  "forceXMLRedo" : false,
+  "runMode" : "EXPORT_DB",
   "sources" : [
   {
       "id" : "124671918",
@@ -247,12 +248,12 @@
   "keywordDefinitions" : [
   {"id" : "demo", "journalTitle" : ".+", "title" : ".+","author" : ".+","volume" : "\\d+","issue" : "\\d+","year" : "\\d+","beginPage" : "\\d+", "endPage" : "\\d+","place" : ".+","date" : ".+"}
   ],
-  "subTitleSplitRegexRemove":":|\\s–\\s|\\s-\\s",
+  "subTitleSplitRegexRemove":":|\\s–\\s|\\s-\\s|\\s—\\s|\\s-­\\s|––|—|--|-­‐",
   "subTitleSplitRegexMaintain":"\\!\\?",
   "familyNamePrefixes":"van,von.de,Mc,O',D'",
   "authorNameFiles" : [
   {"filePath" : "", "familyNameColumn": 1, "givenNameColumn" : 2}
   ],
   "languageDetectionSampleChars" : 1500,
-  "ngramDetectorMinConfidence" : 0.8
+  "ngramDetectorMinConfidence" : 0.6
 }

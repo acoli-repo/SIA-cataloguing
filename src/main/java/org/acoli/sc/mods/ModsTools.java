@@ -40,6 +40,7 @@ import org.acoli.sc.mods.classes.Role;
 import org.acoli.sc.mods.classes.RoleTerm;
 import org.acoli.sc.mods.classes.TitleInfo;
 import org.acoli.sc.mods.classes.Url;
+import org.acoli.sc.start.Run;
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.SerializationUtils;
 
@@ -172,22 +173,20 @@ import org.apache.commons.lang3.SerializationUtils;
 		/**
 		 * Put extracted metadata into input MODS file and write to file
 		 * @param modsCollection
+		 * @param processedModsFilePath TODO
 		 * @param extractedMD 
 		 * @param modsRecordIDs2PDFfilenames
-		 * @param modsFilePath
 		 */
 		public static void exportMods(
 				
 				ModsCollection modsCollection,
 				HashMap<String, List<Metadata>> map,
-				String modsFilePath) {
+				String outputModsFilePath) {
 			
-			System.out.println("\nExtracted "+map.keySet().size()+" metadata objects");
-
+			System.out.println("\nExtracted "+map.keySet().size()+" metadata objects");			
 			ModsCollection result = insertExtractedMDintoMods(modsCollection, map);
-			String outfilePath = FilenameUtils.removeExtension(modsFilePath)+"processed.mods.xml";
-			System.out.println("\nExporting "+result.getMods().size()+" records to MODS file : "+outfilePath);
-			exportMods(result, outfilePath);
+			System.out.println("\nExporting "+result.getMods().size()+" records to MODS file : "+outputModsFilePath);
+			exportMods(result, outputModsFilePath);
 			System.out.println("finished !");
 		}
 		
@@ -321,7 +320,7 @@ import org.apache.commons.lang3.SerializationUtils;
 					
 					// insert extracted title
 					TitleInfo ti = new TitleInfo(); ti.setTitle(moMD.getTitle());
-					if (!moMD.getSubTitle().isEmpty()) {
+					if (moMD.getSubTitle() != null && !moMD.getSubTitle().isEmpty()) {
 						ti.setSubTitle(moMD.getSubTitle());
 					}
 					x.setTitleInfo(ti);

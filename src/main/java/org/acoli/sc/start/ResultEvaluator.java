@@ -3,7 +3,10 @@ package org.acoli.sc.start;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Scanner;
 import java.util.StringTokenizer;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.acoli.sc.config.SourceDescription;
 import org.acoli.sc.extract.Author;
@@ -225,7 +228,7 @@ public class ResultEvaluator {
 			// Split 1 : with delimiters to be removed
 			// ok: Object shift and optionality. An intricate interplay between syntax, prosody and information structure
 			// error: LANGUAGE VS. DIALECT IN LANGUAGE CATALOGUING: THE VEXED CASE OF OTOMANGUEAN DIALECT CONTINUA
-			String[] split = titleText.split(":|\\s–\\s|\\s-\\s");
+			String[] split = titleText.split(Run.subTitleSplitRegexRemove);
 			String title1 = split[0].trim();
 			String subTitle = "";
 			int i=1;
@@ -236,7 +239,7 @@ public class ResultEvaluator {
 			
 			// Split 2 : with delimiters to be maintained
 			// error for: The ‘How are you?’ sequence in telephone openings in Arabic
-			StringTokenizer st = new StringTokenizer(titleText,"\\!\\?",true);
+			StringTokenizer st = new StringTokenizer(titleText,Run.subTitleSplitRegexMaintain,true);
 			String title2 = "";
 			String subTitle2 = "";
 			int j = 0;
@@ -251,6 +254,20 @@ public class ResultEvaluator {
 				}
 			}
 			subTitle2 = subTitle2.trim();
+			
+			title1 = removeLeadingTrailingPunctuationFromTitle(title1);
+			title2 = removeLeadingTrailingPunctuationFromTitle(title2);
+			subTitle = removeLeadingTrailingPunctuationFromTitle(subTitle);
+			subTitle2 = removeLeadingTrailingPunctuationFromTitle(subTitle2);
+			
+			
+			// check additional space after hypen in title and subtitle
+			title1 = checkHypen(title1);
+			title2 = checkHypen(title2);
+			subTitle = checkHypen(subTitle);
+			subTitle2 = checkHypen(subTitle2);
+
+			
 			
 			if (title1.length() < title2.length()) {
 				y.setTitle(title1);
@@ -279,6 +296,29 @@ public class ResultEvaluator {
 	}
 	
 	
+	/**
+	 * Remove space around hyphen
+	 * @param text
+	 * @return
+	 */
+	public String checkHypen(String text) {
+		
+		text = text.replaceAll("\\s*–\\s*", "–");
+		text = text.replaceAll("\\s*-\\s*", "-");
+		text = text.replaceAll("\\s*—\\s*", "—");
+		
+		// problem:
+		// 1 An empirical investigation into the choice of +/– human relative ...
+		// => An empirical investigation into the choice of +/–human relative ...
+		
+		// problem:
+		// 2 Anomalous agree- ment in Bantu => Anomalous agree-ment in Bantu
+		// Lookup in lexicon if a word that is intercepted by hyphen actually is one word
+		
+		return text;
+	}
+
+
 	public String removeLeadingTrailingPunctuation(String text) {
 		
 		String tbd = "[^a-zA-Z]";
@@ -406,8 +446,22 @@ public class ResultEvaluator {
 	
 	public static void main(String[] args) {
 		
+	
+		String hyphen="[a-zA-Z]–\\s+|[a-zA-Z]-\\s+|[a-zA-Z]—\\s+";
+		//hyphen="–\\s+|-\\s+|—\\s+";
+		String input = "An empirical investigation into the choice of +/– human relative pronouns by Spanish learners of English and the resetting of parameters";
+
+		ResultEvaluator re1 = new ResultEvaluator(null,null);
+		
+		
+		String text2 = "Ahamb (Malekula, Vanuatu)"; 
+		System.out.println(re1.removeLeadingTrailingPunctuationFromTitle(text2));
+
+		System.out.println(re1.checkHypen(input));
+	
 		String text = "; !Language Documentation? and Description, ;!";
-		//System.out.println(removeLeadingTrailingPunctuation(text));
+		ResultEvaluator re = new ResultEvaluator(null,null);
+		System.out.println(re.removeLeadingTrailingPunctuation("– An Comprehension Check Question In CSL Classroom Discourse"));
 		StringTokenizer st = new StringTokenizer(text,"\\?",true);
 		while (st.hasMoreTokens()) {
 				System.out.println(st.nextToken());

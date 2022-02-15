@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
+import org.acoli.sc.start.Run;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.SystemUtils;
 
@@ -40,36 +41,49 @@ public class PDF2XML {
 	 * NEW @tobias
 	 * @return true if successfull
 	 */
-	public static int extractXML(List<String> pdfFileNames, File dataFolder) throws Exception{
+	public static int extractXML(List<String> pdfFileNames, File pdfDataDir, File xmlDataDir) throws Exception{
+		
+		
+		System.out.println("pdf data dir:"+pdfDataDir.getAbsolutePath());
+		System.out.println("xml data dir:"+xmlDataDir.getAbsolutePath());
+		
 		
 		List<String> failed = new ArrayList<String>();
+		File failedDir = new File(xmlDataDir,"failed");
 		
 		// Skip xml conversion if files are present in result folder
-		File tmp = new File(dataFolder, "resultData");
-		if (tmp.exists() && tmp.list().length > 0) {
-			System.out.println("XML data exists - nothing to do !");
-			return getFailedPdfConversions(dataFolder);
-		}
+//		File tmp = new File(dataFolder, "resultData");
+//		if (tmp.exists() && tmp.list().length > 0) {
+//			System.out.println("XML data exists - nothing to do !");
+//			return getFailedPdfConversions(dataFolder);
+//		}
+
 		
-		String base = dataFolder.getAbsolutePath();
-		
-        for (String pdf : pdfFileNames) {
+        for (String pdfFileName : pdfFileNames) {
         	
-        	if (!new File(dataFolder,pdf).exists()) continue; // skip files listed in the info file that do not exist
+        	// skip files listed in the info file that do not exist
+        	if (!new File(pdfDataDir,pdfFileName).exists()) continue;
         	
-            String name = pdf.replace(".pdf", "");
+            String name = pdfFileName.replace(".pdf", "");
             System.out.println(name);
             Runtime rt = Runtime.getRuntime();
             Process conversion = null;
             
-            //String base = "/home/demo/Schreibtisch/ide/github-master/SIA-cataloguing/documentation/samples/input-examples/047006471";
+            String pdfFilePath = new File(pdfDataDir, pdfFileName).getAbsolutePath();
+            String xmlFilePath = new File(xmlDataDir, name+".xml").getAbsolutePath();
+            String xmlFilePathFailed = new File(failedDir, name+".xml").getAbsolutePath();
+
             
-            System.out.println("pdftohtml -xml -i -c -q -s "+base+"/"+pdf+" "+base+"/resultData/"+name+".xml");
+            // Skip xml conversion if file exists and force is not set!
+            if ((new File(xmlFilePath).exists() || new File(xmlFilePathFailed).exists()) && !Run.forceXMLRedo) continue;
+                        
+            // System.out.println("pdftohtml -xml -i -c -q -s "+pdfFilePath+" "+pdfDataDir+"/resultData/"+name+".xml");
+            System.out.println("pdftohtml -xml -i -c -q -s "+pdfFilePath+" "+xmlFilePath);
             
             if(SystemUtils.IS_OS_LINUX){ //Operating System (OS)- Erkennung um den Shellcommand entsprechend anzupassen
-                conversion = rt.exec("pdftohtml -xml -i -c -q -s "+base+"/"+pdf+" "+base+"/resultData/"+name+".xml");
+                conversion = rt.exec("pdftohtml -xml -i -c -q -s "+pdfFilePath+" "+xmlFilePath);
             }else{
-                conversion = rt.exec("wsl \n pdftohtml -xml -i -c -q -s "+base+"/"+pdf+" "+base+"/resultData/"+name+".xml");
+                conversion = rt.exec("wsl \n pdftohtml -xml -i -c -q -s "+pdfFilePath+" "+xmlFilePath);
                 //conversion = rt.exec("wsl \n  pdftohtml -xml -i -c -q -s documentation/samples/input-examples/047006471/" + pdf + " resultData/"+name+".xml");
             }
             try {
@@ -84,10 +98,17 @@ public class PDF2XML {
                     // Stop process !
                     conversion.destroy();
                     
-                    File xmlFile = new File(base+"/resultData/"+name+".xml");
+                    File xmlFile = new File(xmlFilePath);
                     if (xmlFile.exists()) {
-                	FileUtils.moveFileToDirectory(
-                			xmlFile, new File(base+"/resultData/failed"), true);
+                    	
+                    	 // 1. Delete existing xml file in failed folder
+                    	File f = new File(failedDir, xmlFile.getName());
+	                    if (f.exists()) {
+	                    	f.delete();
+	                    }
+	                    // 2. Move xml file to failed folder
+	                	FileUtils.moveFileToDirectory(
+	                			xmlFile, failedDir, true);
                     }
                     
                     // delete xml file because it contains invalid XML
@@ -101,13 +122,15 @@ public class PDF2XML {
         }
         
         System.out.println("failed xml conversions :"+failed.size());
-        return getFailedPdfConversions(dataFolder);
+        return getFailedPdfConversions(pdfDataDir);
     }
 	
 
 	private static int getFailedPdfConversions(File dataFolder) {
 	
-		File failedFolder = new File (new File(dataFolder,"resultData"), "failed");
+//		File failedFolder = new File (new File(dataFolder,"resultData"), "failed");
+		File failedFolder = new File (new File(Run.xmlRootDir, dataFolder.getName()), "failed");
+
 		if (!failedFolder.exists()) return 0;
 		else {
 			return failedFolder.listFiles().length;

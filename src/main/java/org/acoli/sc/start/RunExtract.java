@@ -5,6 +5,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,6 +16,7 @@ import org.acoli.sc.extract.Metadata;
 import org.acoli.sc.extract.PDFMetadataExtractor;
 import org.apache.commons.io.FilenameUtils;
 import org.w3c.dom.Document;
+import org.xml.sax.SAXException;
 
 public class RunExtract {
 	
@@ -42,7 +44,7 @@ public class RunExtract {
 	public static void convertData(File xml) throws Exception{
 
         File tmpFile = new File(xml.getAbsolutePath()+".tmp");
-        if (tmpFile.exists()) {
+        if (tmpFile.exists() && !Run.forceXMLRedo) {
         	return;
         }
         BufferedReader bin = new BufferedReader(new FileReader(xml));
@@ -65,9 +67,20 @@ public class RunExtract {
 	        DocumentBuilder builder = dbf.newDocumentBuilder();
 
 	        File xml = new File(path);
-	        Document xmlDocument = builder.parse(xml);
-	        List<Metadata> metadata = metadataExtractor.getMetadata(xmlDocument);
-	        return metadata;
+	        
+	        Document xmlDocument;
+			try {
+				xmlDocument = builder.parse(xml);
+				List<Metadata> metadata = metadataExtractor.getMetadata(xmlDocument);
+		        return metadata;
+		        
+			} catch (SAXException e) {
+				e.printStackTrace();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+	       
+			return new ArrayList<Metadata>();
 	    }
 
 }

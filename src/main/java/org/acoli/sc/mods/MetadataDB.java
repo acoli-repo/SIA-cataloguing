@@ -100,6 +100,7 @@ public class MetadataDB {
 				// reads the database and exports the metadata to MODS xml
 				ModsCollection modsCollection = new ModsCollection();
 				modsCollection.getMods().addAll(allMods.values());
+				// modsExport.getAbsolutePath()
 				ModsTools.exportMods(modsCollection, database, modsExport.getAbsolutePath());
 				break;
 				
